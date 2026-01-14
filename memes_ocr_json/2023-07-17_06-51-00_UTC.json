@@ -1,0 +1,28 @@
+{
+    "image_name": "2023-07-17_06-51-00_UTC.jpg",
+    "combined_text": "BASI _BATHuKull_-",
+    "detailed": [
+        {
+            "text": "BASI _BATHuKull_-",
+            "confidence": 0.681,
+            "box": [
+                [
+                    90.0,
+                    622.0
+                ],
+                [
+                    191.0,
+                    622.0
+                ],
+                [
+                    191.0,
+                    639.0
+                ],
+                [
+                    90.0,
+                    639.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-04-26_12-32-06_UTC_4.jpg",
+    "combined_text": "MANAStars\nFree demo attend ayi Entho mandi\nvala lives transform cheskunaru\n*Followers\nDemo`ela attend avali ?",
+    "detailed": [
+        {
+            "text": "MANAStars",
+            "confidence": 0.973,
+            "box": [
+                [
+                    160.0,
+                    264.0
+                ],
+                [
+                    268.0,
+                    268.0
+                ],
+                [
+                    267.0,
+                    296.0
+                ],
+                [
+                    159.0,
+                    292.0
+                ]
+            ]
+        },
+        {
+            "text": "Free demo attend ayi Entho mandi",
+            "confidence": 0.99,
+            "box": [
+                [
+                    118.0,
+                    416.0
+                ],
+                [
+                    966.0,
+                    416.0
+                ],
+                [
+                    966.0,
+                    470.0
+                ],
+                [
+                    118.0,
+                    470.0
+                ]
+            ]
+        },
+        {
+            "text": "vala lives transform cheskunaru",
+            "confidence": 0.97,
+            "box": [
+                [
+                    141.0,
+                    481.0
+                ],
+                [
+                    933.0,
+                    485.0
+                ],
+                [
+                    932.0,
+                    532.0
+                ],
+                [
+                    141.0,
+                    529.0
+                ]
+            ]
+        },
+        {
+            "text": "*Followers",
+            "confidence": 1.0,
+            "box": [
+                [
+                    420.0,
+                    676.0
+                ],
+                [
+                    678.0,
+                    685.0
+                ],
+                [
+                    676.0,
+                    731.0
+                ],
+                [
+                    418.0,
+                    722.0
+                ]
+            ]
+        },
+        {
+            "text": "Demo`ela attend avali ?",
+            "confidence": 0.967,
+            "box": [
+                [
+                    237.0,
+                    1011.0
+                ],
+                [
+                    838.0,
+                    1011.0
+                ],
+                [
+                    838.0,
+                    1059.0
+                ],
+                [
+                    237.0,
+                    1059.0
+                ]
+            ]
+        }
+    ]
+}

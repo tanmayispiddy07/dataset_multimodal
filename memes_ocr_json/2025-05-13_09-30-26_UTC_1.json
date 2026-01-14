@@ -1,0 +1,314 @@
+{
+    "image_name": "2025-05-13_09-30-26_UTC_1.jpg",
+    "combined_text": "INDIA\nImage Credits:\nRECAP\n@ani_digital/X\nTRUMP\nIndiarecap.com\nTrump Residences in Gurugram\nsell out on launch day,record\n3,250 crore in allotments\nIndia's luxury real estate sees a record-breaking moment as\nTrump project sells out on launch day\n13 May2025\nIndiaRecap\nTrending",
+    "detailed": [
+        {
+            "text": "INDIA",
+            "confidence": 0.929,
+            "box": [
+                [
+                    61.0,
+                    80.0
+                ],
+                [
+                    152.0,
+                    83.0
+                ],
+                [
+                    151.0,
+                    116.0
+                ],
+                [
+                    60.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "Image Credits:",
+            "confidence": 0.973,
+            "box": [
+                [
+                    879.0,
+                    94.0
+                ],
+                [
+                    1029.0,
+                    94.0
+                ],
+                [
+                    1029.0,
+                    125.0
+                ],
+                [
+                    879.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "RECAP",
+            "confidence": 0.997,
+            "box": [
+                [
+                    65.0,
+                    112.0
+                ],
+                [
+                    149.0,
+                    112.0
+                ],
+                [
+                    149.0,
+                    131.0
+                ],
+                [
+                    65.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "@ani_digital/X",
+            "confidence": 0.955,
+            "box": [
+                [
+                    880.0,
+                    125.0
+                ],
+                [
+                    1029.0,
+                    125.0
+                ],
+                [
+                    1029.0,
+                    152.0
+                ],
+                [
+                    880.0,
+                    152.0
+                ]
+            ]
+        },
+        {
+            "text": "TRUMP",
+            "confidence": 0.997,
+            "box": [
+                [
+                    139.0,
+                    274.0
+                ],
+                [
+                    377.0,
+                    274.0
+                ],
+                [
+                    377.0,
+                    338.0
+                ],
+                [
+                    139.0,
+                    338.0
+                ]
+            ]
+        },
+        {
+            "text": "Indiarecap.com",
+            "confidence": 0.989,
+            "box": [
+                [
+                    1039.0,
+                    484.0
+                ],
+                [
+                    1062.0,
+                    484.0
+                ],
+                [
+                    1062.0,
+                    669.0
+                ],
+                [
+                    1039.0,
+                    669.0
+                ]
+            ]
+        },
+        {
+            "text": "Trump Residences in Gurugram",
+            "confidence": 0.958,
+            "box": [
+                [
+                    100.0,
+                    937.0
+                ],
+                [
+                    982.0,
+                    937.0
+                ],
+                [
+                    982.0,
+                    986.0
+                ],
+                [
+                    100.0,
+                    986.0
+                ]
+            ]
+        },
+        {
+            "text": "sell out on launch day,record",
+            "confidence": 0.949,
+            "box": [
+                [
+                    128.0,
+                    1011.0
+                ],
+                [
+                    952.0,
+                    1011.0
+                ],
+                [
+                    952.0,
+                    1060.0
+                ],
+                [
+                    128.0,
+                    1060.0
+                ]
+            ]
+        },
+        {
+            "text": "3,250 crore in allotments",
+            "confidence": 0.967,
+            "box": [
+                [
+                    177.0,
+                    1083.0
+                ],
+                [
+                    903.0,
+                    1083.0
+                ],
+                [
+                    903.0,
+                    1131.0
+                ],
+                [
+                    177.0,
+                    1131.0
+                ]
+            ]
+        },
+        {
+            "text": "India's luxury real estate sees a record-breaking moment as",
+            "confidence": 0.958,
+            "box": [
+                [
+                    146.0,
+                    1163.0
+                ],
+                [
+                    953.0,
+                    1167.0
+                ],
+                [
+                    953.0,
+                    1198.0
+                ],
+                [
+                    146.0,
+                    1194.0
+                ]
+            ]
+        },
+        {
+            "text": "Trump project sells out on launch day",
+            "confidence": 0.934,
+            "box": [
+                [
+                    298.0,
+                    1207.0
+                ],
+                [
+                    802.0,
+                    1207.0
+                ],
+                [
+                    802.0,
+                    1238.0
+                ],
+                [
+                    298.0,
+                    1238.0
+                ]
+            ]
+        },
+        {
+            "text": "13 May2025",
+            "confidence": 0.95,
+            "box": [
+                [
+                    103.0,
+                    1271.0
+                ],
+                [
+                    246.0,
+                    1271.0
+                ],
+                [
+                    246.0,
+                    1298.0
+                ],
+                [
+                    103.0,
+                    1298.0
+                ]
+            ]
+        },
+        {
+            "text": "IndiaRecap",
+            "confidence": 0.998,
+            "box": [
+                [
+                    465.0,
+                    1268.0
+                ],
+                [
+                    599.0,
+                    1273.0
+                ],
+                [
+                    598.0,
+                    1300.0
+                ],
+                [
+                    464.0,
+                    1295.0
+                ]
+            ]
+        },
+        {
+            "text": "Trending",
+            "confidence": 0.999,
+            "box": [
+                [
+                    874.0,
+                    1268.0
+                ],
+                [
+                    982.0,
+                    1273.0
+                ],
+                [
+                    981.0,
+                    1301.0
+                ],
+                [
+                    873.0,
+                    1296.0
+                ]
+            ]
+        }
+    ]
+}

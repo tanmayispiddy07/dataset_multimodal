@@ -1,0 +1,160 @@
+{
+    "image_name": "2023-04-27_13-13-45_UTC.jpg",
+    "combined_text": "HERE'S THE KIRRACK MAATHOTI MINIMUM EH LYRICAL\nVIDEO SONG FROM THE MOVIE MEMU FAMOUS..\nMUM EH\nME & MY GANG\nJGUKEMESGURO\nAREYYY MACHAA EE SONG ENTRA MANA\nAUTO BIOGRAPHY UNNATTU UNDHI",
+    "detailed": [
+        {
+            "text": "HERE'S THE KIRRACK MAATHOTI MINIMUM EH LYRICAL",
+            "confidence": 0.951,
+            "box": [
+                [
+                    13.0,
+                    14.0
+                ],
+                [
+                    1074.0,
+                    14.0
+                ],
+                [
+                    1074.0,
+                    47.0
+                ],
+                [
+                    13.0,
+                    47.0
+                ]
+            ]
+        },
+        {
+            "text": "VIDEO SONG FROM THE MOVIE MEMU FAMOUS..",
+            "confidence": 0.954,
+            "box": [
+                [
+                    46.0,
+                    61.0
+                ],
+                [
+                    1010.0,
+                    62.0
+                ],
+                [
+                    1010.0,
+                    101.0
+                ],
+                [
+                    46.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "MUM EH",
+            "confidence": 0.806,
+            "box": [
+                [
+                    215.0,
+                    718.0
+                ],
+                [
+                    515.0,
+                    718.0
+                ],
+                [
+                    515.0,
+                    828.0
+                ],
+                [
+                    215.0,
+                    828.0
+                ]
+            ]
+        },
+        {
+            "text": "ME & MY GANG",
+            "confidence": 0.997,
+            "box": [
+                [
+                    75.0,
+                    975.0
+                ],
+                [
+                    422.0,
+                    975.0
+                ],
+                [
+                    422.0,
+                    1016.0
+                ],
+                [
+                    75.0,
+                    1016.0
+                ]
+            ]
+        },
+        {
+            "text": "JGUKEMESGURO",
+            "confidence": 0.84,
+            "box": [
+                [
+                    913.0,
+                    968.0
+                ],
+                [
+                    1015.0,
+                    968.0
+                ],
+                [
+                    1015.0,
+                    980.0
+                ],
+                [
+                    913.0,
+                    980.0
+                ]
+            ]
+        },
+        {
+            "text": "AREYYY MACHAA EE SONG ENTRA MANA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    58.0,
+                    1221.0
+                ],
+                [
+                    1029.0,
+                    1221.0
+                ],
+                [
+                    1029.0,
+                    1263.0
+                ],
+                [
+                    58.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "AUTO BIOGRAPHY UNNATTU UNDHI",
+            "confidence": 0.947,
+            "box": [
+                [
+                    118.0,
+                    1275.0
+                ],
+                [
+                    972.0,
+                    1275.0
+                ],
+                [
+                    972.0,
+                    1317.0
+                ],
+                [
+                    118.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

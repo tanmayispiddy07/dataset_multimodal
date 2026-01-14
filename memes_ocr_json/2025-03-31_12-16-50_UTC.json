@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-03-31_12-16-50_UTC.jpg",
+    "combined_text": "GANESH BELLAMKONDA GETS THE\nFIRST BYD SEALION7 IN HYDERABAD\nG09\n1553\n**MY RICH FRIEND\nOICTEDTO\nNEXTNVUE MAWA KONDEDHI",
+    "detailed": [
+        {
+            "text": "GANESH BELLAMKONDA GETS THE",
+            "confidence": 0.958,
+            "box": [
+                [
+                    87.0,
+                    72.0
+                ],
+                [
+                    996.0,
+                    72.0
+                ],
+                [
+                    996.0,
+                    118.0
+                ],
+                [
+                    87.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "FIRST BYD SEALION7 IN HYDERABAD",
+            "confidence": 0.982,
+            "box": [
+                [
+                    51.0,
+                    139.0
+                ],
+                [
+                    1010.0,
+                    139.0
+                ],
+                [
+                    1010.0,
+                    185.0
+                ],
+                [
+                    51.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "text": "G09",
+            "confidence": 0.765,
+            "box": [
+                [
+                    158.0,
+                    787.0
+                ],
+                [
+                    187.0,
+                    787.0
+                ],
+                [
+                    187.0,
+                    801.0
+                ],
+                [
+                    158.0,
+                    801.0
+                ]
+            ]
+        },
+        {
+            "text": "1553",
+            "confidence": 0.871,
+            "box": [
+                [
+                    180.0,
+                    782.0
+                ],
+                [
+                    245.0,
+                    782.0
+                ],
+                [
+                    245.0,
+                    800.0
+                ],
+                [
+                    180.0,
+                    800.0
+                ]
+            ]
+        },
+        {
+            "text": "**MY RICH FRIEND",
+            "confidence": 0.94,
+            "box": [
+                [
+                    711.0,
+                    989.0
+                ],
+                [
+                    1066.0,
+                    995.0
+                ],
+                [
+                    1065.0,
+                    1039.0
+                ],
+                [
+                    710.0,
+                    1033.0
+                ]
+            ]
+        },
+        {
+            "text": "OICTEDTO",
+            "confidence": 0.869,
+            "box": [
+                [
+                    24.0,
+                    1072.0
+                ],
+                [
+                    104.0,
+                    1072.0
+                ],
+                [
+                    104.0,
+                    1084.0
+                ],
+                [
+                    24.0,
+                    1084.0
+                ]
+            ]
+        },
+        {
+            "text": "NEXTNVUE MAWA KONDEDHI",
+            "confidence": 0.962,
+            "box": [
+                [
+                    202.0,
+                    1272.0
+                ],
+                [
+                    983.0,
+                    1272.0
+                ],
+                [
+                    983.0,
+                    1318.0
+                ],
+                [
+                    202.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

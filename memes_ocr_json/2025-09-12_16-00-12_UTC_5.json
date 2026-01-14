@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-09-12_16-00-12_UTC_5.jpg",
+    "combined_text": "Banrakas is also in Nishaanchi\nthis is going to be epic",
+    "detailed": [
+        {
+            "text": "Banrakas is also in Nishaanchi",
+            "confidence": 0.971,
+            "box": [
+                [
+                    136.0,
+                    46.0
+                ],
+                [
+                    942.0,
+                    46.0
+                ],
+                [
+                    942.0,
+                    100.0
+                ],
+                [
+                    136.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "this is going to be epic",
+            "confidence": 0.999,
+            "box": [
+                [
+                    163.0,
+                    121.0
+                ],
+                [
+                    758.0,
+                    121.0
+                ],
+                [
+                    758.0,
+                    179.0
+                ],
+                [
+                    163.0,
+                    179.0
+                ]
+            ]
+        }
+    ]
+}

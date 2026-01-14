@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-02_10-16-48_UTC.jpg",
+    "combined_text": "THAT HIGH FEELING WHEN YOU\nFINALLY OWN YOUR DREAM BIKE\nWITH YOUR OWN MONEY\nO\nADDICTEDTOMEMES\nBHEERA",
+    "detailed": [
+        {
+            "text": "THAT HIGH FEELING WHEN YOU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    148.0,
+                    29.0
+                ],
+                [
+                    986.0,
+                    29.0
+                ],
+                [
+                    986.0,
+                    75.0
+                ],
+                [
+                    148.0,
+                    75.0
+                ]
+            ]
+        },
+        {
+            "text": "FINALLY OWN YOUR DREAM BIKE",
+            "confidence": 0.939,
+            "box": [
+                [
+                    127.0,
+                    93.0
+                ],
+                [
+                    1003.0,
+                    95.0
+                ],
+                [
+                    1003.0,
+                    141.0
+                ],
+                [
+                    127.0,
+                    140.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH YOUR OWN MONEY",
+            "confidence": 0.938,
+            "box": [
+                [
+                    233.0,
+                    160.0
+                ],
+                [
+                    895.0,
+                    160.0
+                ],
+                [
+                    895.0,
+                    206.0
+                ],
+                [
+                    233.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.75,
+            "box": [
+                [
+                    311.0,
+                    320.0
+                ],
+                [
+                    489.0,
+                    331.0
+                ],
+                [
+                    478.0,
+                    499.0
+                ],
+                [
+                    300.0,
+                    488.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    466.0,
+                    696.0
+                ],
+                [
+                    619.0,
+                    696.0
+                ],
+                [
+                    619.0,
+                    717.0
+                ],
+                [
+                    466.0,
+                    717.0
+                ]
+            ]
+        },
+        {
+            "text": "BHEERA",
+            "confidence": 0.979,
+            "box": [
+                [
+                    332.0,
+                    808.0
+                ],
+                [
+                    1079.0,
+                    798.0
+                ],
+                [
+                    1079.0,
+                    989.0
+                ],
+                [
+                    335.0,
+                    999.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-11-09_09-42-46_UTC.jpg",
+    "combined_text": "WISHING TALENTED DIRECTOR\nRAMANA REDDY GARU A VERY\nHAPPY BIRTHDAY\nAWWAL\nNUMBER\nHAPPY BIRTHDAY\nTOOUR\nAWWAL DIRECTOR\nRAMANA REDDY GARU\nFROMTEAM\nAMEERLOG\nDELTA FORCE\nADDICTEDTOMEMES\nHAPPY BIRTHDAY\nALL THE BEST FOR AMEERLOG",
+    "detailed": [
+        {
+            "text": "WISHING TALENTED DIRECTOR",
+            "confidence": 0.956,
+            "box": [
+                [
+                    118.0,
+                    24.0
+                ],
+                [
+                    973.0,
+                    24.0
+                ],
+                [
+                    973.0,
+                    66.0
+                ],
+                [
+                    118.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "RAMANA REDDY GARU A VERY",
+            "confidence": 0.998,
+            "box": [
+                [
+                    107.0,
+                    86.0
+                ],
+                [
+                    982.0,
+                    89.0
+                ],
+                [
+                    981.0,
+                    144.0
+                ],
+                [
+                    107.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY BIRTHDAY",
+            "confidence": 0.975,
+            "box": [
+                [
+                    295.0,
+                    162.0
+                ],
+                [
+                    775.0,
+                    162.0
+                ],
+                [
+                    775.0,
+                    208.0
+                ],
+                [
+                    295.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "AWWAL",
+            "confidence": 0.973,
+            "box": [
+                [
+                    45.0,
+                    262.0
+                ],
+                [
+                    108.0,
+                    262.0
+                ],
+                [
+                    108.0,
+                    284.0
+                ],
+                [
+                    45.0,
+                    284.0
+                ]
+            ]
+        },
+        {
+            "text": "NUMBER",
+            "confidence": 0.997,
+            "box": [
+                [
+                    44.0,
+                    276.0
+                ],
+                [
+                    107.0,
+                    276.0
+                ],
+                [
+                    107.0,
+                    294.0
+                ],
+                [
+                    44.0,
+                    294.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY BIRTHDAY",
+            "confidence": 0.957,
+            "box": [
+                [
+                    42.0,
+                    652.0
+                ],
+                [
+                    335.0,
+                    652.0
+                ],
+                [
+                    335.0,
+                    686.0
+                ],
+                [
+                    42.0,
+                    686.0
+                ]
+            ]
+        },
+        {
+            "text": "TOOUR",
+            "confidence": 0.98,
+            "box": [
+                [
+                    145.0,
+                    691.0
+                ],
+                [
+                    233.0,
+                    691.0
+                ],
+                [
+                    233.0,
+                    714.0
+                ],
+                [
+                    145.0,
+                    714.0
+                ]
+            ]
+        },
+        {
+            "text": "AWWAL DIRECTOR",
+            "confidence": 0.971,
+            "box": [
+                [
+                    62.0,
+                    715.0
+                ],
+                [
+                    319.0,
+                    715.0
+                ],
+                [
+                    319.0,
+                    748.0
+                ],
+                [
+                    62.0,
+                    748.0
+                ]
+            ]
+        },
+        {
+            "text": "RAMANA REDDY GARU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    14.0,
+                    751.0
+                ],
+                [
+                    367.0,
+                    751.0
+                ],
+                [
+                    367.0,
+                    785.0
+                ],
+                [
+                    14.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "FROMTEAM",
+            "confidence": 0.992,
+            "box": [
+                [
+                    160.0,
+                    806.0
+                ],
+                [
+                    236.0,
+                    806.0
+                ],
+                [
+                    236.0,
+                    828.0
+                ],
+                [
+                    160.0,
+                    828.0
+                ]
+            ]
+        },
+        {
+            "text": "AMEERLOG",
+            "confidence": 0.995,
+            "box": [
+                [
+                    17.0,
+                    829.0
+                ],
+                [
+                    357.0,
+                    829.0
+                ],
+                [
+                    357.0,
+                    939.0
+                ],
+                [
+                    17.0,
+                    939.0
+                ]
+            ]
+        },
+        {
+            "text": "DELTA FORCE",
+            "confidence": 0.93,
+            "box": [
+                [
+                    542.0,
+                    968.0
+                ],
+                [
+                    725.0,
+                    929.0
+                ],
+                [
+                    737.0,
+                    982.0
+                ],
+                [
+                    553.0,
+                    1021.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    24.0,
+                    1076.0
+                ],
+                [
+                    160.0,
+                    1076.0
+                ],
+                [
+                    160.0,
+                    1097.0
+                ],
+                [
+                    24.0,
+                    1097.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY BIRTHDAY",
+            "confidence": 0.966,
+            "box": [
+                [
+                    150.0,
+                    1240.0
+                ],
+                [
+                    457.0,
+                    1240.0
+                ],
+                [
+                    457.0,
+                    1278.0
+                ],
+                [
+                    150.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL THE BEST FOR AMEERLOG",
+            "confidence": 0.938,
+            "box": [
+                [
+                    41.0,
+                    1285.0
+                ],
+                [
+                    578.0,
+                    1285.0
+                ],
+                [
+                    578.0,
+                    1323.0
+                ],
+                [
+                    41.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

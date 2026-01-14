@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-15_13-14-39_UTC.jpg",
+    "combined_text": "Luczi\nSON\nsarcasm\nrkramso\n66 99\n\"IPL gives me the biggest goosebumps.\nI want to retire wearing the KKR jersey,\nbeen here for 6 seasons and cherished\nevery bit. Hope to stay till my last IPL.\n:-Andre Russell in 2020",
+    "detailed": [
+        {
+            "text": "Luczi",
+            "confidence": 0.69,
+            "box": [
+                [
+                    249.0,
+                    521.0
+                ],
+                [
+                    365.0,
+                    531.0
+                ],
+                [
+                    362.0,
+                    564.0
+                ],
+                [
+                    247.0,
+                    553.0
+                ]
+            ]
+        },
+        {
+            "text": "SON",
+            "confidence": 0.665,
+            "box": [
+                [
+                    250.0,
+                    611.0
+                ],
+                [
+                    425.0,
+                    604.0
+                ],
+                [
+                    427.0,
+                    660.0
+                ],
+                [
+                    252.0,
+                    667.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.989,
+            "box": [
+                [
+                    465.0,
+                    883.0
+                ],
+                [
+                    616.0,
+                    883.0
+                ],
+                [
+                    616.0,
+                    913.0
+                ],
+                [
+                    465.0,
+                    913.0
+                ]
+            ]
+        },
+        {
+            "text": "rkramso",
+            "confidence": 0.844,
+            "box": [
+                [
+                    669.0,
+                    878.0
+                ],
+                [
+                    768.0,
+                    859.0
+                ],
+                [
+                    772.0,
+                    881.0
+                ],
+                [
+                    674.0,
+                    901.0
+                ]
+            ]
+        },
+        {
+            "text": "66 99",
+            "confidence": 0.694,
+            "box": [
+                [
+                    452.0,
+                    919.0
+                ],
+                [
+                    630.0,
+                    922.0
+                ],
+                [
+                    629.0,
+                    987.0
+                ],
+                [
+                    451.0,
+                    983.0
+                ]
+            ]
+        },
+        {
+            "text": "\"IPL gives me the biggest goosebumps.",
+            "confidence": 0.996,
+            "box": [
+                [
+                    35.0,
+                    996.0
+                ],
+                [
+                    1044.0,
+                    1005.0
+                ],
+                [
+                    1043.0,
+                    1062.0
+                ],
+                [
+                    35.0,
+                    1054.0
+                ]
+            ]
+        },
+        {
+            "text": "I want to retire wearing the KKR jersey,",
+            "confidence": 0.977,
+            "box": [
+                [
+                    31.0,
+                    1065.0
+                ],
+                [
+                    1041.0,
+                    1075.0
+                ],
+                [
+                    1040.0,
+                    1133.0
+                ],
+                [
+                    31.0,
+                    1122.0
+                ]
+            ]
+        },
+        {
+            "text": "been here for 6 seasons and cherished",
+            "confidence": 0.962,
+            "box": [
+                [
+                    45.0,
+                    1149.0
+                ],
+                [
+                    1031.0,
+                    1149.0
+                ],
+                [
+                    1031.0,
+                    1193.0
+                ],
+                [
+                    45.0,
+                    1193.0
+                ]
+            ]
+        },
+        {
+            "text": "every bit. Hope to stay till my last IPL.",
+            "confidence": 0.988,
+            "box": [
+                [
+                    37.0,
+                    1222.0
+                ],
+                [
+                    1014.0,
+                    1221.0
+                ],
+                [
+                    1014.0,
+                    1270.0
+                ],
+                [
+                    37.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": ":-Andre Russell in 2020",
+            "confidence": 0.942,
+            "box": [
+                [
+                    311.0,
+                    1287.0
+                ],
+                [
+                    730.0,
+                    1284.0
+                ],
+                [
+                    730.0,
+                    1315.0
+                ],
+                [
+                    311.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-04-08_17-44-17_UTC.jpg",
+    "combined_text": "PUNJAB WON THE MATCH\nANOTHER LOSE FOR CSK\nBACK TO BACK 4 LOSSES FOR CSK\n**CSK FANS\nINKA SELAUVU\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "PUNJAB WON THE MATCH",
+            "confidence": 0.941,
+            "box": [
+                [
+                    224.0,
+                    32.0
+                ],
+                [
+                    869.0,
+                    32.0
+                ],
+                [
+                    869.0,
+                    74.0
+                ],
+                [
+                    224.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "ANOTHER LOSE FOR CSK",
+            "confidence": 0.938,
+            "box": [
+                [
+                    238.0,
+                    91.0
+                ],
+                [
+                    858.0,
+                    92.0
+                ],
+                [
+                    858.0,
+                    138.0
+                ],
+                [
+                    238.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "BACK TO BACK 4 LOSSES FOR CSK",
+            "confidence": 0.986,
+            "box": [
+                [
+                    132.0,
+                    152.0
+                ],
+                [
+                    980.0,
+                    152.0
+                ],
+                [
+                    980.0,
+                    198.0
+                ],
+                [
+                    132.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "**CSK FANS",
+            "confidence": 0.99,
+            "box": [
+                [
+                    273.0,
+                    285.0
+                ],
+                [
+                    633.0,
+                    295.0
+                ],
+                [
+                    632.0,
+                    359.0
+                ],
+                [
+                    271.0,
+                    349.0
+                ]
+            ]
+        },
+        {
+            "text": "INKA SELAUVU",
+            "confidence": 0.968,
+            "box": [
+                [
+                    259.0,
+                    750.0
+                ],
+                [
+                    896.0,
+                    750.0
+                ],
+                [
+                    896.0,
+                    822.0
+                ],
+                [
+                    259.0,
+                    822.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    15.0,
+                    959.0
+                ],
+                [
+                    201.0,
+                    959.0
+                ],
+                [
+                    201.0,
+                    988.0
+                ],
+                [
+                    15.0,
+                    988.0
+                ]
+            ]
+        }
+    ]
+}

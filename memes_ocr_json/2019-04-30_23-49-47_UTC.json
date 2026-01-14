@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-04-30_23-49-47_UTC.jpg",
+    "combined_text": "flaNaa\nJaild\nEndi Bhayya Ee Hairstyle\nCone lcream lo Cream laga paiki undi",
+    "detailed": [
+        {
+            "text": "flaNaa",
+            "confidence": 0.735,
+            "box": [
+                [
+                    167.0,
+                    120.0
+                ],
+                [
+                    265.0,
+                    124.0
+                ],
+                [
+                    264.0,
+                    139.0
+                ],
+                [
+                    166.0,
+                    136.0
+                ]
+            ]
+        },
+        {
+            "text": "Jaild",
+            "confidence": 0.676,
+            "box": [
+                [
+                    276.0,
+                    122.0
+                ],
+                [
+                    330.0,
+                    122.0
+                ],
+                [
+                    330.0,
+                    137.0
+                ],
+                [
+                    276.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "Endi Bhayya Ee Hairstyle",
+            "confidence": 0.969,
+            "box": [
+                [
+                    1.0,
+                    193.0
+                ],
+                [
+                    297.0,
+                    194.0
+                ],
+                [
+                    297.0,
+                    219.0
+                ],
+                [
+                    1.0,
+                    218.0
+                ]
+            ]
+        },
+        {
+            "text": "Cone lcream lo Cream laga paiki undi",
+            "confidence": 0.937,
+            "box": [
+                [
+                    0.0,
+                    221.0
+                ],
+                [
+                    442.0,
+                    220.0
+                ],
+                [
+                    442.0,
+                    246.0
+                ],
+                [
+                    0.0,
+                    247.0
+                ]
+            ]
+        }
+    ]
+}

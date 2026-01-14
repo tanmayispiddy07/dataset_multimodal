@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-07-29_10-21-57_UTC.jpg",
+    "combined_text": "NO\nGUNS,NO DRU@S\nNO GODOWNS\nCOOLIE MOVIE DEALS WITH\nLUXURIOUS WATCHES\n- LOKI\nRAJINI KI LUXURY WATCHES ANTE\nROLEX RAJINI KODUKAA",
+    "detailed": [
+        {
+            "text": "NO",
+            "confidence": 0.994,
+            "box": [
+                [
+                    145.0,
+                    13.0
+                ],
+                [
+                    264.0,
+                    13.0
+                ],
+                [
+                    264.0,
+                    69.0
+                ],
+                [
+                    145.0,
+                    69.0
+                ]
+            ]
+        },
+        {
+            "text": "GUNS,NO DRU@S",
+            "confidence": 0.964,
+            "box": [
+                [
+                    267.0,
+                    16.0
+                ],
+                [
+                    897.0,
+                    16.0
+                ],
+                [
+                    897.0,
+                    66.0
+                ],
+                [
+                    267.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "NO GODOWNS",
+            "confidence": 0.965,
+            "box": [
+                [
+                    289.0,
+                    79.0
+                ],
+                [
+                    789.0,
+                    79.0
+                ],
+                [
+                    789.0,
+                    131.0
+                ],
+                [
+                    289.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "COOLIE MOVIE DEALS WITH",
+            "confidence": 0.957,
+            "box": [
+                [
+                    169.0,
+                    703.0
+                ],
+                [
+                    910.0,
+                    704.0
+                ],
+                [
+                    910.0,
+                    747.0
+                ],
+                [
+                    169.0,
+                    745.0
+                ]
+            ]
+        },
+        {
+            "text": "LUXURIOUS WATCHES",
+            "confidence": 0.873,
+            "box": [
+                [
+                    244.0,
+                    753.0
+                ],
+                [
+                    839.0,
+                    753.0
+                ],
+                [
+                    839.0,
+                    796.0
+                ],
+                [
+                    244.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "- LOKI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    455.0,
+                    799.0
+                ],
+                [
+                    629.0,
+                    802.0
+                ],
+                [
+                    628.0,
+                    850.0
+                ],
+                [
+                    454.0,
+                    847.0
+                ]
+            ]
+        },
+        {
+            "text": "RAJINI KI LUXURY WATCHES ANTE",
+            "confidence": 0.951,
+            "box": [
+                [
+                    73.0,
+                    1144.0
+                ],
+                [
+                    1009.0,
+                    1144.0
+                ],
+                [
+                    1009.0,
+                    1187.0
+                ],
+                [
+                    73.0,
+                    1187.0
+                ]
+            ]
+        },
+        {
+            "text": "ROLEX RAJINI KODUKAA",
+            "confidence": 0.906,
+            "box": [
+                [
+                    199.0,
+                    1194.0
+                ],
+                [
+                    880.0,
+                    1194.0
+                ],
+                [
+                    880.0,
+                    1237.0
+                ],
+                [
+                    199.0,
+                    1237.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-19_15-27-10_UTC.jpg",
+    "combined_text": "LATEST SAREE PHOTOSHOOT\nSTILLS OF ACTRESS ANSHU\n(MANAMADHUDU & MAZAKA FAME)\nADDICTEDTOMEMES\nHEYCUTIE CAN IADD\nYOU IN MY CRUSH LIST ?",
+    "detailed": [
+        {
+            "text": "LATEST SAREE PHOTOSHOOT",
+            "confidence": 0.961,
+            "box": [
+                [
+                    205.0,
+                    31.0
+                ],
+                [
+                    863.0,
+                    31.0
+                ],
+                [
+                    863.0,
+                    68.0
+                ],
+                [
+                    205.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "STILLS OF ACTRESS ANSHU",
+            "confidence": 0.96,
+            "box": [
+                [
+                    228.0,
+                    85.0
+                ],
+                [
+                    845.0,
+                    85.0
+                ],
+                [
+                    845.0,
+                    127.0
+                ],
+                [
+                    228.0,
+                    127.0
+                ]
+            ]
+        },
+        {
+            "text": "(MANAMADHUDU & MAZAKA FAME)",
+            "confidence": 0.952,
+            "box": [
+                [
+                    127.0,
+                    142.0
+                ],
+                [
+                    948.0,
+                    142.0
+                ],
+                [
+                    948.0,
+                    184.0
+                ],
+                [
+                    127.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.987,
+            "box": [
+                [
+                    942.0,
+                    1054.0
+                ],
+                [
+                    1072.0,
+                    1054.0
+                ],
+                [
+                    1072.0,
+                    1070.0
+                ],
+                [
+                    942.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "text": "HEYCUTIE CAN IADD",
+            "confidence": 0.935,
+            "box": [
+                [
+                    475.0,
+                    1232.0
+                ],
+                [
+                    908.0,
+                    1232.0
+                ],
+                [
+                    908.0,
+                    1270.0
+                ],
+                [
+                    475.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU IN MY CRUSH LIST ?",
+            "confidence": 0.914,
+            "box": [
+                [
+                    447.0,
+                    1279.0
+                ],
+                [
+                    937.0,
+                    1279.0
+                ],
+                [
+                    937.0,
+                    1321.0
+                ],
+                [
+                    447.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

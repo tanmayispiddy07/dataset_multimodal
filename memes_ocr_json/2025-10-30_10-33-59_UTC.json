@@ -1,0 +1,314 @@
+{
+    "image_name": "2025-10-30_10-33-59_UTC.jpg",
+    "combined_text": "MASS JATHARA GRAND\nRELEASING TOMMOROW\nSHARE YOUR TICH\nMassJathara\nTelugu, 2D\nFri,310ct|10:00PM\nViswanath70MMThe\natch Trailer\nTap for support, details & more\n4 Ticket\nVISWANATI\n**RAVITEJA\nOKATE MATRAM NIJAM NINNU EPPUDU\nMEMU ENCOURAGE CHESTHAMU",
+    "detailed": [
+        {
+            "text": "MASS JATHARA GRAND",
+            "confidence": 0.961,
+            "box": [
+                [
+                    202.0,
+                    39.0
+                ],
+                [
+                    918.0,
+                    39.0
+                ],
+                [
+                    918.0,
+                    89.0
+                ],
+                [
+                    202.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING TOMMOROW",
+            "confidence": 0.983,
+            "box": [
+                [
+                    183.0,
+                    113.0
+                ],
+                [
+                    922.0,
+                    113.0
+                ],
+                [
+                    922.0,
+                    163.0
+                ],
+                [
+                    183.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "SHARE YOUR TICH",
+            "confidence": 0.909,
+            "box": [
+                [
+                    724.0,
+                    265.0
+                ],
+                [
+                    1077.0,
+                    265.0
+                ],
+                [
+                    1077.0,
+                    302.0
+                ],
+                [
+                    724.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "MassJathara",
+            "confidence": 0.998,
+            "box": [
+                [
+                    768.0,
+                    407.0
+                ],
+                [
+                    1036.0,
+                    407.0
+                ],
+                [
+                    1036.0,
+                    446.0
+                ],
+                [
+                    768.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "Telugu, 2D",
+            "confidence": 0.991,
+            "box": [
+                [
+                    762.0,
+                    480.0
+                ],
+                [
+                    920.0,
+                    476.0
+                ],
+                [
+                    921.0,
+                    520.0
+                ],
+                [
+                    763.0,
+                    523.0
+                ]
+            ]
+        },
+        {
+            "text": "Fri,310ct|10:00PM",
+            "confidence": 0.896,
+            "box": [
+                [
+                    766.0,
+                    549.0
+                ],
+                [
+                    1076.0,
+                    549.0
+                ],
+                [
+                    1076.0,
+                    583.0
+                ],
+                [
+                    766.0,
+                    583.0
+                ]
+            ]
+        },
+        {
+            "text": "Viswanath70MMThe",
+            "confidence": 0.988,
+            "box": [
+                [
+                    767.0,
+                    613.0
+                ],
+                [
+                    1079.0,
+                    616.0
+                ],
+                [
+                    1078.0,
+                    650.0
+                ],
+                [
+                    766.0,
+                    647.0
+                ]
+            ]
+        },
+        {
+            "text": "atch Trailer",
+            "confidence": 0.968,
+            "box": [
+                [
+                    575.0,
+                    648.0
+                ],
+                [
+                    700.0,
+                    648.0
+                ],
+                [
+                    700.0,
+                    675.0
+                ],
+                [
+                    575.0,
+                    675.0
+                ]
+            ]
+        },
+        {
+            "text": "Tap for support, details & more",
+            "confidence": 0.935,
+            "box": [
+                [
+                    678.0,
+                    757.0
+                ],
+                [
+                    1076.0,
+                    757.0
+                ],
+                [
+                    1076.0,
+                    790.0
+                ],
+                [
+                    678.0,
+                    790.0
+                ]
+            ]
+        },
+        {
+            "text": "4 Ticket",
+            "confidence": 0.963,
+            "box": [
+                [
+                    956.0,
+                    837.0
+                ],
+                [
+                    1079.0,
+                    841.0
+                ],
+                [
+                    1079.0,
+                    880.0
+                ],
+                [
+                    954.0,
+                    876.0
+                ]
+            ]
+        },
+        {
+            "text": "VISWANATI",
+            "confidence": 0.942,
+            "box": [
+                [
+                    820.0,
+                    917.0
+                ],
+                [
+                    1076.0,
+                    917.0
+                ],
+                [
+                    1076.0,
+                    956.0
+                ],
+                [
+                    820.0,
+                    956.0
+                ]
+            ]
+        },
+        {
+            "text": "**RAVITEJA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    144.0,
+                    998.0
+                ],
+                [
+                    454.0,
+                    1001.0
+                ],
+                [
+                    454.0,
+                    1058.0
+                ],
+                [
+                    143.0,
+                    1055.0
+                ]
+            ]
+        },
+        {
+            "text": "OKATE MATRAM NIJAM NINNU EPPUDU",
+            "confidence": 0.945,
+            "box": [
+                [
+                    210.0,
+                    1235.0
+                ],
+                [
+                    1038.0,
+                    1233.0
+                ],
+                [
+                    1038.0,
+                    1272.0
+                ],
+                [
+                    210.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "MEMU ENCOURAGE CHESTHAMU",
+            "confidence": 0.955,
+            "box": [
+                [
+                    277.0,
+                    1288.0
+                ],
+                [
+                    972.0,
+                    1288.0
+                ],
+                [
+                    972.0,
+                    1325.0
+                ],
+                [
+                    277.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

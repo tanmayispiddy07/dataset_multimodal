@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-04-08_06-45-46_UTC.jpg",
+    "combined_text": "ALLU ARJUN GOES INTERNATIONAL\nCOOKING SOMETHING BIG & BIGGER\nECTEDTOMEME\nTRANSFORMERSVFXDIRECTOR\nAVENGERS ART DIRECTOR\nKALANITHI MARAN\nAA22 x A6\nAQUAMAN ARTDIRECTOR\nGEAR UP\nWORKING FORALLUARJUN'S NEXTMOVIE\nWHICH DIRECTEDBY ATLEE",
+    "detailed": [
+        {
+            "text": "ALLU ARJUN GOES INTERNATIONAL",
+            "confidence": 0.966,
+            "box": [
+                [
+                    69.0,
+                    93.0
+                ],
+                [
+                    1025.0,
+                    93.0
+                ],
+                [
+                    1025.0,
+                    140.0
+                ],
+                [
+                    69.0,
+                    140.0
+                ]
+            ]
+        },
+        {
+            "text": "COOKING SOMETHING BIG & BIGGER",
+            "confidence": 0.971,
+            "box": [
+                [
+                    55.0,
+                    158.0
+                ],
+                [
+                    1050.0,
+                    159.0
+                ],
+                [
+                    1050.0,
+                    206.0
+                ],
+                [
+                    54.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "ECTEDTOMEME",
+            "confidence": 0.88,
+            "box": [
+                [
+                    554.0,
+                    633.0
+                ],
+                [
+                    645.0,
+                    633.0
+                ],
+                [
+                    645.0,
+                    649.0
+                ],
+                [
+                    554.0,
+                    649.0
+                ]
+            ]
+        },
+        {
+            "text": "TRANSFORMERSVFXDIRECTOR",
+            "confidence": 0.994,
+            "box": [
+                [
+                    561.0,
+                    978.0
+                ],
+                [
+                    997.0,
+                    978.0
+                ],
+                [
+                    997.0,
+                    1005.0
+                ],
+                [
+                    561.0,
+                    1005.0
+                ]
+            ]
+        },
+        {
+            "text": "AVENGERS ART DIRECTOR",
+            "confidence": 0.955,
+            "box": [
+                [
+                    600.0,
+                    1036.0
+                ],
+                [
+                    957.0,
+                    1036.0
+                ],
+                [
+                    957.0,
+                    1064.0
+                ],
+                [
+                    600.0,
+                    1064.0
+                ]
+            ]
+        },
+        {
+            "text": "KALANITHI MARAN",
+            "confidence": 0.973,
+            "box": [
+                [
+                    136.0,
+                    1048.0
+                ],
+                [
+                    319.0,
+                    1048.0
+                ],
+                [
+                    319.0,
+                    1068.0
+                ],
+                [
+                    136.0,
+                    1068.0
+                ]
+            ]
+        },
+        {
+            "text": "AA22 x A6",
+            "confidence": 0.948,
+            "box": [
+                [
+                    68.0,
+                    1086.0
+                ],
+                [
+                    407.0,
+                    1092.0
+                ],
+                [
+                    406.0,
+                    1152.0
+                ],
+                [
+                    67.0,
+                    1146.0
+                ]
+            ]
+        },
+        {
+            "text": "AQUAMAN ARTDIRECTOR",
+            "confidence": 0.974,
+            "box": [
+                [
+                    601.0,
+                    1094.0
+                ],
+                [
+                    955.0,
+                    1094.0
+                ],
+                [
+                    955.0,
+                    1121.0
+                ],
+                [
+                    601.0,
+                    1121.0
+                ]
+            ]
+        },
+        {
+            "text": "GEAR UP",
+            "confidence": 0.922,
+            "box": [
+                [
+                    169.0,
+                    1162.0
+                ],
+                [
+                    289.0,
+                    1162.0
+                ],
+                [
+                    289.0,
+                    1186.0
+                ],
+                [
+                    169.0,
+                    1186.0
+                ]
+            ]
+        },
+        {
+            "text": "WORKING FORALLUARJUN'S NEXTMOVIE",
+            "confidence": 0.964,
+            "box": [
+                [
+                    491.0,
+                    1155.0
+                ],
+                [
+                    1070.0,
+                    1155.0
+                ],
+                [
+                    1070.0,
+                    1179.0
+                ],
+                [
+                    491.0,
+                    1179.0
+                ]
+            ]
+        },
+        {
+            "text": "WHICH DIRECTEDBY ATLEE",
+            "confidence": 0.952,
+            "box": [
+                [
+                    589.0,
+                    1210.0
+                ],
+                [
+                    967.0,
+                    1210.0
+                ],
+                [
+                    967.0,
+                    1241.0
+                ],
+                [
+                    589.0,
+                    1241.0
+                ]
+            ]
+        }
+    ]
+}

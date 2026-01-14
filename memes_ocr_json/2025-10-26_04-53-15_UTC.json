@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-26_04-53-15_UTC.jpg",
+    "combined_text": "CRAZY & YOUTHFUL TEASER OF 'JIGRIS'\nIN THEATERS FROM NOV 14TH\nADDICTEDTOM\nOKA NALUGURU FRIENDS KALISI CHESE\nTHETA PANULE OKA MANCHI CINEMA",
+    "detailed": [
+        {
+            "text": "CRAZY & YOUTHFUL TEASER OF 'JIGRIS'",
+            "confidence": 0.948,
+            "box": [
+                [
+                    45.0,
+                    46.0
+                ],
+                [
+                    1032.0,
+                    46.0
+                ],
+                [
+                    1032.0,
+                    89.0
+                ],
+                [
+                    45.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATERS FROM NOV 14TH",
+            "confidence": 0.997,
+            "box": [
+                [
+                    173.0,
+                    104.0
+                ],
+                [
+                    921.0,
+                    107.0
+                ],
+                [
+                    921.0,
+                    153.0
+                ],
+                [
+                    173.0,
+                    150.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOM",
+            "confidence": 0.982,
+            "box": [
+                [
+                    899.0,
+                    1058.0
+                ],
+                [
+                    998.0,
+                    1058.0
+                ],
+                [
+                    998.0,
+                    1071.0
+                ],
+                [
+                    899.0,
+                    1071.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA NALUGURU FRIENDS KALISI CHESE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    231.0,
+                    1249.0
+                ],
+                [
+                    1010.0,
+                    1249.0
+                ],
+                [
+                    1010.0,
+                    1287.0
+                ],
+                [
+                    231.0,
+                    1287.0
+                ]
+            ]
+        },
+        {
+            "text": "THETA PANULE OKA MANCHI CINEMA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    250.0,
+                    1297.0
+                ],
+                [
+                    987.0,
+                    1298.0
+                ],
+                [
+                    987.0,
+                    1336.0
+                ],
+                [
+                    250.0,
+                    1335.0
+                ]
+            ]
+        }
+    ]
+}

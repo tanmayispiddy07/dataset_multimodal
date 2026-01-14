@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-09-24_03-31-39_UTC.jpg",
+    "combined_text": "TAG YOUR FRIEND WHO IS A\nPAWAN KALYAN FAN AND ASK\nHIM FOR OG TICKETS\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "TAG YOUR FRIEND WHO IS A",
+            "confidence": 0.965,
+            "box": [
+                [
+                    152.0,
+                    14.0
+                ],
+                [
+                    961.0,
+                    14.0
+                ],
+                [
+                    961.0,
+                    69.0
+                ],
+                [
+                    152.0,
+                    69.0
+                ]
+            ]
+        },
+        {
+            "text": "PAWAN KALYAN FAN AND ASK",
+            "confidence": 0.971,
+            "box": [
+                [
+                    134.0,
+                    84.0
+                ],
+                [
+                    979.0,
+                    85.0
+                ],
+                [
+                    979.0,
+                    139.0
+                ],
+                [
+                    134.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "HIM FOR OG TICKETS",
+            "confidence": 0.989,
+            "box": [
+                [
+                    254.0,
+                    159.0
+                ],
+                [
+                    855.0,
+                    159.0
+                ],
+                [
+                    855.0,
+                    206.0
+                ],
+                [
+                    254.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    394.0,
+                    380.0
+                ],
+                [
+                    540.0,
+                    379.0
+                ],
+                [
+                    540.0,
+                    400.0
+                ],
+                [
+                    394.0,
+                    402.0
+                ]
+            ]
+        }
+    ]
+}

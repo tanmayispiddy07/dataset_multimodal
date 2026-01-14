@@ -1,0 +1,534 @@
+{
+    "image_name": "2024-10-28_17-38-59_UTC.jpg",
+    "combined_text": "BUZZ:MAHESH BABU GUEST ROLE IN\nALLARANES\nDEVAKI NANDANA VASUDEVA(IN CINEMAS NOV 14TH)\nNOV\n14\nIN CINEMA\nWORLDWIDE\nCineCorn.Com By YoungMantra \n@cinecorndotcom\nA#CinecornExclusive\nMahesh Babu As Lord\n-Feast For Fans\nSuperStar#MaheshBabu Does A Cameo In\nGalla Ashok's #DevakiNandanaVasudeva\nDirector @Arjunjandyala &@prasanthvarma\nDesigned An Extraordinarily Mind Blowing\nTerrific Sequence For Mahesh As Lord\nWitness The Divine Mahesh Babu On Silver\nScreens This Nov 14th-#DNVonNov14\n#prasanthvarma #GallaAshok\nOUW!\nANT\nMB FANS\nTELUGO MEMES GURU",
+    "detailed": [
+        {
+            "text": "BUZZ:MAHESH BABU GUEST ROLE IN",
+            "confidence": 0.934,
+            "box": [
+                [
+                    225.0,
+                    4.0
+                ],
+                [
+                    799.0,
+                    4.0
+                ],
+                [
+                    799.0,
+                    34.0
+                ],
+                [
+                    225.0,
+                    34.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLARANES",
+            "confidence": 0.678,
+            "box": [
+                [
+                    996.0,
+                    8.0
+                ],
+                [
+                    1059.0,
+                    8.0
+                ],
+                [
+                    1059.0,
+                    21.0
+                ],
+                [
+                    996.0,
+                    21.0
+                ]
+            ]
+        },
+        {
+            "text": "DEVAKI NANDANA VASUDEVA(IN CINEMAS NOV 14TH)",
+            "confidence": 0.955,
+            "box": [
+                [
+                    96.0,
+                    46.0
+                ],
+                [
+                    937.0,
+                    46.0
+                ],
+                [
+                    937.0,
+                    76.0
+                ],
+                [
+                    96.0,
+                    76.0
+                ]
+            ]
+        },
+        {
+            "text": "NOV",
+            "confidence": 0.798,
+            "box": [
+                [
+                    972.0,
+                    44.0
+                ],
+                [
+                    1074.0,
+                    44.0
+                ],
+                [
+                    1074.0,
+                    84.0
+                ],
+                [
+                    972.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "14",
+            "confidence": 0.998,
+            "box": [
+                [
+                    963.0,
+                    76.0
+                ],
+                [
+                    1079.0,
+                    76.0
+                ],
+                [
+                    1079.0,
+                    158.0
+                ],
+                [
+                    963.0,
+                    158.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMA",
+            "confidence": 0.944,
+            "box": [
+                [
+                    976.0,
+                    152.0
+                ],
+                [
+                    1079.0,
+                    152.0
+                ],
+                [
+                    1079.0,
+                    174.0
+                ],
+                [
+                    976.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLDWIDE",
+            "confidence": 0.985,
+            "box": [
+                [
+                    982.0,
+                    169.0
+                ],
+                [
+                    1079.0,
+                    169.0
+                ],
+                [
+                    1079.0,
+                    186.0
+                ],
+                [
+                    982.0,
+                    186.0
+                ]
+            ]
+        },
+        {
+            "text": "CineCorn.Com By YoungMantra ",
+            "confidence": 0.956,
+            "box": [
+                [
+                    267.0,
+                    426.0
+                ],
+                [
+                    520.0,
+                    426.0
+                ],
+                [
+                    520.0,
+                    447.0
+                ],
+                [
+                    267.0,
+                    447.0
+                ]
+            ]
+        },
+        {
+            "text": "@cinecorndotcom",
+            "confidence": 0.996,
+            "box": [
+                [
+                    267.0,
+                    447.0
+                ],
+                [
+                    399.0,
+                    447.0
+                ],
+                [
+                    399.0,
+                    464.0
+                ],
+                [
+                    267.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "text": "A#CinecornExclusive",
+            "confidence": 0.994,
+            "box": [
+                [
+                    214.0,
+                    475.0
+                ],
+                [
+                    406.0,
+                    475.0
+                ],
+                [
+                    406.0,
+                    496.0
+                ],
+                [
+                    214.0,
+                    496.0
+                ]
+            ]
+        },
+        {
+            "text": "Mahesh Babu As Lord",
+            "confidence": 0.937,
+            "box": [
+                [
+                    217.0,
+                    525.0
+                ],
+                [
+                    406.0,
+                    525.0
+                ],
+                [
+                    406.0,
+                    546.0
+                ],
+                [
+                    217.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "text": "-Feast For Fans",
+            "confidence": 0.938,
+            "box": [
+                [
+                    460.0,
+                    525.0
+                ],
+                [
+                    606.0,
+                    525.0
+                ],
+                [
+                    606.0,
+                    546.0
+                ],
+                [
+                    460.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "text": "SuperStar#MaheshBabu Does A Cameo In",
+            "confidence": 0.931,
+            "box": [
+                [
+                    214.0,
+                    596.0
+                ],
+                [
+                    591.0,
+                    595.0
+                ],
+                [
+                    591.0,
+                    620.0
+                ],
+                [
+                    214.0,
+                    622.0
+                ]
+            ]
+        },
+        {
+            "text": "Galla Ashok's #DevakiNandanaVasudeva",
+            "confidence": 0.987,
+            "box": [
+                [
+                    217.0,
+                    623.0
+                ],
+                [
+                    572.0,
+                    623.0
+                ],
+                [
+                    572.0,
+                    644.0
+                ],
+                [
+                    217.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "Director @Arjunjandyala &@prasanthvarma",
+            "confidence": 0.977,
+            "box": [
+                [
+                    214.0,
+                    668.0
+                ],
+                [
+                    595.0,
+                    669.0
+                ],
+                [
+                    595.0,
+                    695.0
+                ],
+                [
+                    214.0,
+                    693.0
+                ]
+            ]
+        },
+        {
+            "text": "Designed An Extraordinarily Mind Blowing",
+            "confidence": 0.979,
+            "box": [
+                [
+                    214.0,
+                    692.0
+                ],
+                [
+                    577.0,
+                    693.0
+                ],
+                [
+                    576.0,
+                    720.0
+                ],
+                [
+                    214.0,
+                    719.0
+                ]
+            ]
+        },
+        {
+            "text": "Terrific Sequence For Mahesh As Lord",
+            "confidence": 0.958,
+            "box": [
+                [
+                    217.0,
+                    719.0
+                ],
+                [
+                    547.0,
+                    719.0
+                ],
+                [
+                    547.0,
+                    740.0
+                ],
+                [
+                    217.0,
+                    740.0
+                ]
+            ]
+        },
+        {
+            "text": "Witness The Divine Mahesh Babu On Silver",
+            "confidence": 0.955,
+            "box": [
+                [
+                    217.0,
+                    769.0
+                ],
+                [
+                    585.0,
+                    769.0
+                ],
+                [
+                    585.0,
+                    790.0
+                ],
+                [
+                    217.0,
+                    790.0
+                ]
+            ]
+        },
+        {
+            "text": "Screens This Nov 14th-#DNVonNov14",
+            "confidence": 0.958,
+            "box": [
+                [
+                    217.0,
+                    793.0
+                ],
+                [
+                    551.0,
+                    793.0
+                ],
+                [
+                    551.0,
+                    814.0
+                ],
+                [
+                    217.0,
+                    814.0
+                ]
+            ]
+        },
+        {
+            "text": "#prasanthvarma #GallaAshok",
+            "confidence": 0.978,
+            "box": [
+                [
+                    217.0,
+                    840.0
+                ],
+                [
+                    480.0,
+                    840.0
+                ],
+                [
+                    480.0,
+                    865.0
+                ],
+                [
+                    217.0,
+                    865.0
+                ]
+            ]
+        },
+        {
+            "text": "OUW!",
+            "confidence": 0.799,
+            "box": [
+                [
+                    644.0,
+                    863.0
+                ],
+                [
+                    676.0,
+                    863.0
+                ],
+                [
+                    676.0,
+                    877.0
+                ],
+                [
+                    644.0,
+                    877.0
+                ]
+            ]
+        },
+        {
+            "text": "ANT",
+            "confidence": 0.867,
+            "box": [
+                [
+                    1049.0,
+                    861.0
+                ],
+                [
+                    1079.0,
+                    861.0
+                ],
+                [
+                    1079.0,
+                    880.0
+                ],
+                [
+                    1049.0,
+                    880.0
+                ]
+            ]
+        },
+        {
+            "text": "MB FANS",
+            "confidence": 0.997,
+            "box": [
+                [
+                    622.0,
+                    924.0
+                ],
+                [
+                    878.0,
+                    924.0
+                ],
+                [
+                    878.0,
+                    972.0
+                ],
+                [
+                    622.0,
+                    972.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGO MEMES GURU",
+            "confidence": 0.864,
+            "box": [
+                [
+                    89.0,
+                    1029.0
+                ],
+                [
+                    238.0,
+                    1029.0
+                ],
+                [
+                    238.0,
+                    1050.0
+                ],
+                [
+                    89.0,
+                    1050.0
+                ]
+            ]
+        }
+    ]
+}

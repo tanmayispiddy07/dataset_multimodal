@@ -1,0 +1,116 @@
+{
+    "image_name": "2026-01-01_08-29-28_UTC.jpg",
+    "combined_text": "MY FRIEND ON 31ST NIGHT\nADDICTEDTOMEMES\nALSO HIM ON JAN 1ST\nBRO IKKADA NEAREST LO\nTEMPLE EKKADA UNDI",
+    "detailed": [
+        {
+            "text": "MY FRIEND ON 31ST NIGHT",
+            "confidence": 0.99,
+            "box": [
+                [
+                    62.0,
+                    80.0
+                ],
+                [
+                    1012.0,
+                    76.0
+                ],
+                [
+                    1013.0,
+                    141.0
+                ],
+                [
+                    62.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    483.0,
+                    346.0
+                ],
+                [
+                    649.0,
+                    346.0
+                ],
+                [
+                    649.0,
+                    370.0
+                ],
+                [
+                    483.0,
+                    370.0
+                ]
+            ]
+        },
+        {
+            "text": "ALSO HIM ON JAN 1ST",
+            "confidence": 0.996,
+            "box": [
+                [
+                    107.0,
+                    714.0
+                ],
+                [
+                    1004.0,
+                    709.0
+                ],
+                [
+                    1005.0,
+                    787.0
+                ],
+                [
+                    107.0,
+                    791.0
+                ]
+            ]
+        },
+        {
+            "text": "BRO IKKADA NEAREST LO",
+            "confidence": 0.95,
+            "box": [
+                [
+                    364.0,
+                    1184.0
+                ],
+                [
+                    1018.0,
+                    1184.0
+                ],
+                [
+                    1018.0,
+                    1229.0
+                ],
+                [
+                    364.0,
+                    1229.0
+                ]
+            ]
+        },
+        {
+            "text": "TEMPLE EKKADA UNDI",
+            "confidence": 0.949,
+            "box": [
+                [
+                    408.0,
+                    1248.0
+                ],
+                [
+                    973.0,
+                    1248.0
+                ],
+                [
+                    973.0,
+                    1293.0
+                ],
+                [
+                    408.0,
+                    1293.0
+                ]
+            ]
+        }
+    ]
+}

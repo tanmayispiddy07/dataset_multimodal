@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-12-04_05-46-30_UTC.jpg",
+    "combined_text": "SECOND SINGLE SASI REKHA\"LYRICAL VIDEO\nON DECEMBER 8TH FROM\nMANA SHANKARA VARA PRASAD GARU\nRHINE\nSasireclha\nLYRICAL VIDEO ON 8DEC\nSONG PROMO ON 6DEC\nANIL RAVIPUDI\nADDICTEDTOMEMES\nSONGS THONE KUDA RECORDS\nPETTE\nVARAKU BOSS AAGADU",
+    "detailed": [
+        {
+            "text": "SECOND SINGLE SASI REKHA\"LYRICAL VIDEO",
+            "confidence": 0.948,
+            "box": [
+                [
+                    65.0,
+                    46.0
+                ],
+                [
+                    1039.0,
+                    46.0
+                ],
+                [
+                    1039.0,
+                    84.0
+                ],
+                [
+                    65.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "ON DECEMBER 8TH FROM",
+            "confidence": 0.936,
+            "box": [
+                [
+                    277.0,
+                    96.0
+                ],
+                [
+                    817.0,
+                    96.0
+                ],
+                [
+                    817.0,
+                    134.0
+                ],
+                [
+                    277.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA SHANKARA VARA PRASAD GARU",
+            "confidence": 0.955,
+            "box": [
+                [
+                    131.0,
+                    148.0
+                ],
+                [
+                    972.0,
+                    146.0
+                ],
+                [
+                    972.0,
+                    185.0
+                ],
+                [
+                    131.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "RHINE",
+            "confidence": 0.905,
+            "box": [
+                [
+                    39.0,
+                    247.0
+                ],
+                [
+                    75.0,
+                    247.0
+                ],
+                [
+                    75.0,
+                    266.0
+                ],
+                [
+                    39.0,
+                    266.0
+                ]
+            ]
+        },
+        {
+            "text": "Sasireclha",
+            "confidence": 0.835,
+            "box": [
+                [
+                    134.0,
+                    252.0
+                ],
+                [
+                    423.0,
+                    252.0
+                ],
+                [
+                    423.0,
+                    364.0
+                ],
+                [
+                    134.0,
+                    364.0
+                ]
+            ]
+        },
+        {
+            "text": "LYRICAL VIDEO ON 8DEC",
+            "confidence": 0.922,
+            "box": [
+                [
+                    162.0,
+                    350.0
+                ],
+                [
+                    411.0,
+                    350.0
+                ],
+                [
+                    411.0,
+                    375.0
+                ],
+                [
+                    162.0,
+                    375.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG PROMO ON 6DEC",
+            "confidence": 0.937,
+            "box": [
+                [
+                    179.0,
+                    378.0
+                ],
+                [
+                    384.0,
+                    378.0
+                ],
+                [
+                    384.0,
+                    403.0
+                ],
+                [
+                    179.0,
+                    403.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIL RAVIPUDI",
+            "confidence": 0.926,
+            "box": [
+                [
+                    221.0,
+                    980.0
+                ],
+                [
+                    356.0,
+                    980.0
+                ],
+                [
+                    356.0,
+                    1001.0
+                ],
+                [
+                    221.0,
+                    1001.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.985,
+            "box": [
+                [
+                    938.0,
+                    1115.0
+                ],
+                [
+                    1079.0,
+                    1115.0
+                ],
+                [
+                    1079.0,
+                    1136.0
+                ],
+                [
+                    938.0,
+                    1136.0
+                ]
+            ]
+        },
+        {
+            "text": "SONGS THONE KUDA RECORDS",
+            "confidence": 0.951,
+            "box": [
+                [
+                    173.0,
+                    1224.0
+                ],
+                [
+                    915.0,
+                    1224.0
+                ],
+                [
+                    915.0,
+                    1266.0
+                ],
+                [
+                    173.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "PETTE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    179.0,
+                    1281.0
+                ],
+                [
+                    328.0,
+                    1284.0
+                ],
+                [
+                    327.0,
+                    1327.0
+                ],
+                [
+                    178.0,
+                    1324.0
+                ]
+            ]
+        },
+        {
+            "text": "VARAKU BOSS AAGADU",
+            "confidence": 0.947,
+            "box": [
+                [
+                    329.0,
+                    1282.0
+                ],
+                [
+                    906.0,
+                    1282.0
+                ],
+                [
+                    906.0,
+                    1324.0
+                ],
+                [
+                    329.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

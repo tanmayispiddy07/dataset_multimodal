@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-07-31_17-48-06_UTC.jpg",
+    "combined_text": "Sweet things our moms call\nus",
+    "detailed": [
+        {
+            "text": "Sweet things our moms call",
+            "confidence": 0.965,
+            "box": [
+                [
+                    40.0,
+                    328.0
+                ],
+                [
+                    578.0,
+                    328.0
+                ],
+                [
+                    578.0,
+                    370.0
+                ],
+                [
+                    40.0,
+                    370.0
+                ]
+            ]
+        },
+        {
+            "text": "us",
+            "confidence": 0.883,
+            "box": [
+                [
+                    254.0,
+                    388.0
+                ],
+                [
+                    307.0,
+                    388.0
+                ],
+                [
+                    307.0,
+                    423.0
+                ],
+                [
+                    254.0,
+                    423.0
+                ]
+            ]
+        }
+    ]
+}

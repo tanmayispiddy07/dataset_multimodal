@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-12-22_07-37-01_UTC.jpg",
+    "combined_text": "VARAMANI THALACHINA SONG\nFROM LAGGAM TIME.\nADDICTEDTOMEMES\nSONG LOOKA\nEMOTION UNDI SIR",
+    "detailed": [
+        {
+            "text": "VARAMANI THALACHINA SONG",
+            "confidence": 0.971,
+            "box": [
+                [
+                    103.0,
+                    73.0
+                ],
+                [
+                    1024.0,
+                    70.0
+                ],
+                [
+                    1024.0,
+                    121.0
+                ],
+                [
+                    103.0,
+                    124.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM LAGGAM TIME.",
+            "confidence": 0.962,
+            "box": [
+                [
+                    242.0,
+                    142.0
+                ],
+                [
+                    875.0,
+                    145.0
+                ],
+                [
+                    875.0,
+                    199.0
+                ],
+                [
+                    242.0,
+                    196.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    908.0,
+                    1091.0
+                ],
+                [
+                    1063.0,
+                    1090.0
+                ],
+                [
+                    1063.0,
+                    1112.0
+                ],
+                [
+                    909.0,
+                    1114.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG LOOKA",
+            "confidence": 0.952,
+            "box": [
+                [
+                    683.0,
+                    1238.0
+                ],
+                [
+                    986.0,
+                    1236.0
+                ],
+                [
+                    986.0,
+                    1275.0
+                ],
+                [
+                    684.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "EMOTION UNDI SIR",
+            "confidence": 0.943,
+            "box": [
+                [
+                    640.0,
+                    1288.0
+                ],
+                [
+                    1034.0,
+                    1289.0
+                ],
+                [
+                    1034.0,
+                    1328.0
+                ],
+                [
+                    640.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

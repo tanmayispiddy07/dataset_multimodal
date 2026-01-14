@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-06-12_06-02-37_UTC.jpg",
+    "combined_text": "I already want to try this \nsarcasm",
+    "detailed": [
+        {
+            "text": "I already want to try this ",
+            "confidence": 0.913,
+            "box": [
+                [
+                    71.0,
+                    168.0
+                ],
+                [
+                    467.0,
+                    168.0
+                ],
+                [
+                    467.0,
+                    199.0
+                ],
+                [
+                    71.0,
+                    199.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.917,
+            "box": [
+                [
+                    238.0,
+                    508.0
+                ],
+                [
+                    279.0,
+                    509.0
+                ],
+                [
+                    279.0,
+                    519.0
+                ],
+                [
+                    238.0,
+                    518.0
+                ]
+            ]
+        }
+    ]
+}

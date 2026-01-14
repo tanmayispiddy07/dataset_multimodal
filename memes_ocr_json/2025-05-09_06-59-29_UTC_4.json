@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-05-09_06-59-29_UTC_4.jpg",
+    "combined_text": "SCRAWLED\nSTORIES\nThe U.S.opposed the deal, warning it\ncould trigger sanctions under CAATSA\n(Countering America's Adversaries\nThrough Sanctions Act).\nConcerns were raised that deploying the\nS-400 alongside American systems could\ncompromise U.S.military technology,\nespecially under the CAATSA provisions.",
+    "detailed": [
+        {
+            "text": "SCRAWLED",
+            "confidence": 0.997,
+            "box": [
+                [
+                    46.0,
+                    53.0
+                ],
+                [
+                    200.0,
+                    53.0
+                ],
+                [
+                    200.0,
+                    80.0
+                ],
+                [
+                    46.0,
+                    80.0
+                ]
+            ]
+        },
+        {
+            "text": "STORIES",
+            "confidence": 0.998,
+            "box": [
+                [
+                    63.0,
+                    82.0
+                ],
+                [
+                    184.0,
+                    82.0
+                ],
+                [
+                    184.0,
+                    108.0
+                ],
+                [
+                    63.0,
+                    108.0
+                ]
+            ]
+        },
+        {
+            "text": "The U.S.opposed the deal, warning it",
+            "confidence": 0.967,
+            "box": [
+                [
+                    24.0,
+                    390.0
+                ],
+                [
+                    728.0,
+                    391.0
+                ],
+                [
+                    728.0,
+                    432.0
+                ],
+                [
+                    24.0,
+                    430.0
+                ]
+            ]
+        },
+        {
+            "text": "could trigger sanctions under CAATSA",
+            "confidence": 0.979,
+            "box": [
+                [
+                    24.0,
+                    443.0
+                ],
+                [
+                    733.0,
+                    440.0
+                ],
+                [
+                    733.0,
+                    475.0
+                ],
+                [
+                    24.0,
+                    478.0
+                ]
+            ]
+        },
+        {
+            "text": "(Countering America's Adversaries",
+            "confidence": 0.978,
+            "box": [
+                [
+                    25.0,
+                    491.0
+                ],
+                [
+                    664.0,
+                    491.0
+                ],
+                [
+                    664.0,
+                    526.0
+                ],
+                [
+                    25.0,
+                    526.0
+                ]
+            ]
+        },
+        {
+            "text": "Through Sanctions Act).",
+            "confidence": 0.982,
+            "box": [
+                [
+                    24.0,
+                    534.0
+                ],
+                [
+                    463.0,
+                    536.0
+                ],
+                [
+                    463.0,
+                    575.0
+                ],
+                [
+                    24.0,
+                    574.0
+                ]
+            ]
+        },
+        {
+            "text": "Concerns were raised that deploying the",
+            "confidence": 0.975,
+            "box": [
+                [
+                    22.0,
+                    605.0
+                ],
+                [
+                    778.0,
+                    605.0
+                ],
+                [
+                    778.0,
+                    648.0
+                ],
+                [
+                    22.0,
+                    648.0
+                ]
+            ]
+        },
+        {
+            "text": "S-400 alongside American systems could",
+            "confidence": 0.984,
+            "box": [
+                [
+                    22.0,
+                    652.0
+                ],
+                [
+                    773.0,
+                    652.0
+                ],
+                [
+                    773.0,
+                    696.0
+                ],
+                [
+                    22.0,
+                    696.0
+                ]
+            ]
+        },
+        {
+            "text": "compromise U.S.military technology,",
+            "confidence": 0.969,
+            "box": [
+                [
+                    21.0,
+                    699.0
+                ],
+                [
+                    714.0,
+                    703.0
+                ],
+                [
+                    714.0,
+                    748.0
+                ],
+                [
+                    21.0,
+                    744.0
+                ]
+            ]
+        },
+        {
+            "text": "especially under the CAATSA provisions.",
+            "confidence": 0.977,
+            "box": [
+                [
+                    24.0,
+                    751.0
+                ],
+                [
+                    769.0,
+                    751.0
+                ],
+                [
+                    769.0,
+                    790.0
+                ],
+                [
+                    24.0,
+                    790.0
+                ]
+            ]
+        }
+    ]
+}

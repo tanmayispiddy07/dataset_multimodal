@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-23_12-59-42_UTC.jpg",
+    "combined_text": "ACTOR THIRUVEER RECENTLY BOUGHT A NEW HOUSE IN KARIMNAGAR.\nDRESSEDIN TRADITIONAL ATTIRE,PHOTOS OF HIM WELCOMING THE\nHAS CAPTIVATED EVERYONE'S ATTENTION ON SOCIAL MEDIA.FOR THE\nCAPTION, HE WROTE, \"TWO DECADE'SDREAM...MOTHER'S LASTWISH.'\nADDICTEDTOMEMES\nAMMAKORIKATIRACHADU",
+    "detailed": [
+        {
+            "text": "ACTOR THIRUVEER RECENTLY BOUGHT A NEW HOUSE IN KARIMNAGAR.",
+            "confidence": 0.943,
+            "box": [
+                [
+                    32.0,
+                    29.0
+                ],
+                [
+                    1043.0,
+                    29.0
+                ],
+                [
+                    1043.0,
+                    59.0
+                ],
+                [
+                    32.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "DRESSEDIN TRADITIONAL ATTIRE,PHOTOS OF HIM WELCOMING THE",
+            "confidence": 0.948,
+            "box": [
+                [
+                    51.0,
+                    64.0
+                ],
+                [
+                    1027.0,
+                    64.0
+                ],
+                [
+                    1027.0,
+                    89.0
+                ],
+                [
+                    51.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "HAS CAPTIVATED EVERYONE'S ATTENTION ON SOCIAL MEDIA.FOR THE",
+            "confidence": 0.951,
+            "box": [
+                [
+                    37.0,
+                    132.0
+                ],
+                [
+                    1041.0,
+                    132.0
+                ],
+                [
+                    1041.0,
+                    157.0
+                ],
+                [
+                    37.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "CAPTION, HE WROTE, \"TWO DECADE'SDREAM...MOTHER'S LASTWISH.'",
+            "confidence": 0.912,
+            "box": [
+                [
+                    31.0,
+                    164.0
+                ],
+                [
+                    1046.0,
+                    163.0
+                ],
+                [
+                    1046.0,
+                    194.0
+                ],
+                [
+                    31.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    15.0,
+                    1083.0
+                ],
+                [
+                    177.0,
+                    1083.0
+                ],
+                [
+                    177.0,
+                    1104.0
+                ],
+                [
+                    15.0,
+                    1104.0
+                ]
+            ]
+        },
+        {
+            "text": "AMMAKORIKATIRACHADU",
+            "confidence": 0.997,
+            "box": [
+                [
+                    336.0,
+                    1277.0
+                ],
+                [
+                    1029.0,
+                    1277.0
+                ],
+                [
+                    1029.0,
+                    1327.0
+                ],
+                [
+                    336.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

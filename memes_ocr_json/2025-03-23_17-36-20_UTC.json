@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-03-23_17-36-20_UTC.jpg",
+    "combined_text": "**CSKFANS\nCHENNAI KI VACHI DHONIADDA LO\nADDICTEDTOMEMES\nMATCH GELUSTHAMU ANTE\nMERU\nELA NAMMARURA\nBALA",
+    "detailed": [
+        {
+            "text": "**CSKFANS",
+            "confidence": 0.978,
+            "box": [
+                [
+                    558.0,
+                    27.0
+                ],
+                [
+                    928.0,
+                    39.0
+                ],
+                [
+                    926.0,
+                    107.0
+                ],
+                [
+                    556.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "CHENNAI KI VACHI DHONIADDA LO",
+            "confidence": 0.943,
+            "box": [
+                [
+                    68.0,
+                    384.0
+                ],
+                [
+                    1019.0,
+                    384.0
+                ],
+                [
+                    1019.0,
+                    431.0
+                ],
+                [
+                    68.0,
+                    431.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    884.0,
+                    581.0
+                ],
+                [
+                    1023.0,
+                    581.0
+                ],
+                [
+                    1023.0,
+                    602.0
+                ],
+                [
+                    884.0,
+                    602.0
+                ]
+            ]
+        },
+        {
+            "text": "MATCH GELUSTHAMU ANTE",
+            "confidence": 0.961,
+            "box": [
+                [
+                    230.0,
+                    769.0
+                ],
+                [
+                    938.0,
+                    771.0
+                ],
+                [
+                    938.0,
+                    815.0
+                ],
+                [
+                    229.0,
+                    813.0
+                ]
+            ]
+        },
+        {
+            "text": "MERU",
+            "confidence": 0.996,
+            "box": [
+                [
+                    261.0,
+                    836.0
+                ],
+                [
+                    416.0,
+                    836.0
+                ],
+                [
+                    416.0,
+                    878.0
+                ],
+                [
+                    261.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "text": "ELA NAMMARURA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    414.0,
+                    835.0
+                ],
+                [
+                    903.0,
+                    835.0
+                ],
+                [
+                    903.0,
+                    879.0
+                ],
+                [
+                    414.0,
+                    879.0
+                ]
+            ]
+        },
+        {
+            "text": "BALA",
+            "confidence": 0.991,
+            "box": [
+                [
+                    917.0,
+                    834.0
+                ],
+                [
+                    983.0,
+                    834.0
+                ],
+                [
+                    983.0,
+                    859.0
+                ],
+                [
+                    917.0,
+                    859.0
+                ]
+            ]
+        }
+    ]
+}

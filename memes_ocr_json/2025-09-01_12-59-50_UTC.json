@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-01_12-59-50_UTC.jpg",
+    "combined_text": "Every glance, every beat, every tear..Deewaniyat is where\nemotions come alive, Don't just listen,watch it unfold\nEk Deewane ki Deewaniyat",
+    "detailed": [
+        {
+            "text": "Every glance, every beat, every tear..Deewaniyat is where",
+            "confidence": 0.948,
+            "box": [
+                [
+                    32.0,
+                    156.0
+                ],
+                [
+                    508.0,
+                    156.0
+                ],
+                [
+                    508.0,
+                    175.0
+                ],
+                [
+                    32.0,
+                    175.0
+                ]
+            ]
+        },
+        {
+            "text": "emotions come alive, Don't just listen,watch it unfold",
+            "confidence": 0.951,
+            "box": [
+                [
+                    24.0,
+                    187.0
+                ],
+                [
+                    470.0,
+                    186.0
+                ],
+                [
+                    471.0,
+                    205.0
+                ],
+                [
+                    24.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "Ek Deewane ki Deewaniyat",
+            "confidence": 0.963,
+            "box": [
+                [
+                    13.0,
+                    247.0
+                ],
+                [
+                    253.0,
+                    249.0
+                ],
+                [
+                    253.0,
+                    271.0
+                ],
+                [
+                    13.0,
+                    269.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,644 @@
+{
+    "image_name": "2026-01-04_09-21-28_UTC.jpg",
+    "combined_text": "SREE\nVISHNU\nJ JOINED\nTHE\nNARI NARI NADUMA MURARI\nLET'S CELEBRATE\nNARI NARI NADUMA MURARI\nON JAN14TH5:49PM IN\nWelcoming King of Entertainment\nTHEATERS\nSREEVISHNU\nADDICTEDTOMEMES\n8888\nStas\n8is89\nRAM\nNU\nAJAY SUNEARA KISHORE GARIKIPATIEGK\nVESHAL CHANDRASHEKAR GNANA SHEKAR VS JYUVRAI SHANU BHOGAVARAPU\nVENKATA SWAMY NAKKA RRAHMA KADALI RAMAJOGAYYASASTRY\nSAIDASA\nANANTHEKANCHERLAS\nVAMSI-SHEKA\nVISWACM\nHM\nUNK\nMANA SAMAJAVARAGAMANA\nDIRECTOR EH EM AYINA\nMULTIVERSE PLANNING AH BRO",
+    "detailed": [
+        {
+            "text": "SREE",
+            "confidence": 0.998,
+            "box": [
+                [
+                    186.0,
+                    54.0
+                ],
+                [
+                    328.0,
+                    54.0
+                ],
+                [
+                    328.0,
+                    99.0
+                ],
+                [
+                    186.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "VISHNU",
+            "confidence": 0.986,
+            "box": [
+                [
+                    332.0,
+                    54.0
+                ],
+                [
+                    567.0,
+                    54.0
+                ],
+                [
+                    567.0,
+                    98.0
+                ],
+                [
+                    332.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "J JOINED",
+            "confidence": 0.94,
+            "box": [
+                [
+                    541.0,
+                    54.0
+                ],
+                [
+                    801.0,
+                    54.0
+                ],
+                [
+                    801.0,
+                    98.0
+                ],
+                [
+                    541.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "THE",
+            "confidence": 0.969,
+            "box": [
+                [
+                    781.0,
+                    55.0
+                ],
+                [
+                    913.0,
+                    55.0
+                ],
+                [
+                    913.0,
+                    96.0
+                ],
+                [
+                    781.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "NARI NARI NADUMA MURARI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    123.0,
+                    120.0
+                ],
+                [
+                    957.0,
+                    122.0
+                ],
+                [
+                    957.0,
+                    174.0
+                ],
+                [
+                    123.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "LET'S CELEBRATE",
+            "confidence": 0.96,
+            "box": [
+                [
+                    671.0,
+                    315.0
+                ],
+                [
+                    861.0,
+                    315.0
+                ],
+                [
+                    861.0,
+                    342.0
+                ],
+                [
+                    671.0,
+                    342.0
+                ]
+            ]
+        },
+        {
+            "text": "NARI NARI NADUMA MURARI",
+            "confidence": 0.94,
+            "box": [
+                [
+                    671.0,
+                    351.0
+                ],
+                [
+                    1044.0,
+                    351.0
+                ],
+                [
+                    1044.0,
+                    378.0
+                ],
+                [
+                    671.0,
+                    378.0
+                ]
+            ]
+        },
+        {
+            "text": "ON JAN14TH5:49PM IN",
+            "confidence": 0.924,
+            "box": [
+                [
+                    671.0,
+                    389.0
+                ],
+                [
+                    937.0,
+                    389.0
+                ],
+                [
+                    937.0,
+                    419.0
+                ],
+                [
+                    671.0,
+                    419.0
+                ]
+            ]
+        },
+        {
+            "text": "Welcoming King of Entertainment",
+            "confidence": 0.946,
+            "box": [
+                [
+                    21.0,
+                    421.0
+                ],
+                [
+                    309.0,
+                    423.0
+                ],
+                [
+                    309.0,
+                    456.0
+                ],
+                [
+                    21.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATERS",
+            "confidence": 0.998,
+            "box": [
+                [
+                    672.0,
+                    430.0
+                ],
+                [
+                    800.0,
+                    430.0
+                ],
+                [
+                    800.0,
+                    458.0
+                ],
+                [
+                    672.0,
+                    458.0
+                ]
+            ]
+        },
+        {
+            "text": "SREEVISHNU",
+            "confidence": 0.993,
+            "box": [
+                [
+                    92.0,
+                    459.0
+                ],
+                [
+                    249.0,
+                    459.0
+                ],
+                [
+                    249.0,
+                    491.0
+                ],
+                [
+                    92.0,
+                    491.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.989,
+            "box": [
+                [
+                    505.0,
+                    536.0
+                ],
+                [
+                    645.0,
+                    536.0
+                ],
+                [
+                    645.0,
+                    556.0
+                ],
+                [
+                    505.0,
+                    556.0
+                ]
+            ]
+        },
+        {
+            "text": "8888",
+            "confidence": 0.639,
+            "box": [
+                [
+                    839.0,
+                    571.0
+                ],
+                [
+                    968.0,
+                    565.0
+                ],
+                [
+                    970.0,
+                    619.0
+                ],
+                [
+                    841.0,
+                    625.0
+                ]
+            ]
+        },
+        {
+            "text": "Stas",
+            "confidence": 0.816,
+            "box": [
+                [
+                    828.0,
+                    612.0
+                ],
+                [
+                    969.0,
+                    596.0
+                ],
+                [
+                    976.0,
+                    654.0
+                ],
+                [
+                    835.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "text": "8is89",
+            "confidence": 0.682,
+            "box": [
+                [
+                    803.0,
+                    652.0
+                ],
+                [
+                    987.0,
+                    642.0
+                ],
+                [
+                    990.0,
+                    699.0
+                ],
+                [
+                    806.0,
+                    709.0
+                ]
+            ]
+        },
+        {
+            "text": "RAM",
+            "confidence": 0.998,
+            "box": [
+                [
+                    805.0,
+                    727.0
+                ],
+                [
+                    849.0,
+                    727.0
+                ],
+                [
+                    849.0,
+                    738.0
+                ],
+                [
+                    805.0,
+                    738.0
+                ]
+            ]
+        },
+        {
+            "text": "NU",
+            "confidence": 0.523,
+            "box": [
+                [
+                    949.0,
+                    726.0
+                ],
+                [
+                    984.0,
+                    726.0
+                ],
+                [
+                    984.0,
+                    737.0
+                ],
+                [
+                    949.0,
+                    737.0
+                ]
+            ]
+        },
+        {
+            "text": "AJAY SUNEARA KISHORE GARIKIPATIEGK",
+            "confidence": 0.928,
+            "box": [
+                [
+                    758.0,
+                    742.0
+                ],
+                [
+                    1020.0,
+                    742.0
+                ],
+                [
+                    1020.0,
+                    758.0
+                ],
+                [
+                    758.0,
+                    758.0
+                ]
+            ]
+        },
+        {
+            "text": "VESHAL CHANDRASHEKAR GNANA SHEKAR VS JYUVRAI SHANU BHOGAVARAPU",
+            "confidence": 0.882,
+            "box": [
+                [
+                    636.0,
+                    758.0
+                ],
+                [
+                    1044.0,
+                    758.0
+                ],
+                [
+                    1044.0,
+                    773.0
+                ],
+                [
+                    636.0,
+                    773.0
+                ]
+            ]
+        },
+        {
+            "text": "VENKATA SWAMY NAKKA RRAHMA KADALI RAMAJOGAYYASASTRY",
+            "confidence": 0.911,
+            "box": [
+                [
+                    692.0,
+                    771.0
+                ],
+                [
+                    1025.0,
+                    771.0
+                ],
+                [
+                    1025.0,
+                    786.0
+                ],
+                [
+                    692.0,
+                    786.0
+                ]
+            ]
+        },
+        {
+            "text": "SAIDASA",
+            "confidence": 0.936,
+            "box": [
+                [
+                    1035.0,
+                    772.0
+                ],
+                [
+                    1077.0,
+                    772.0
+                ],
+                [
+                    1077.0,
+                    783.0
+                ],
+                [
+                    1035.0,
+                    783.0
+                ]
+            ]
+        },
+        {
+            "text": "ANANTHEKANCHERLAS",
+            "confidence": 0.907,
+            "box": [
+                [
+                    766.0,
+                    783.0
+                ],
+                [
+                    871.0,
+                    783.0
+                ],
+                [
+                    871.0,
+                    799.0
+                ],
+                [
+                    766.0,
+                    799.0
+                ]
+            ]
+        },
+        {
+            "text": "VAMSI-SHEKA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    879.0,
+                    785.0
+                ],
+                [
+                    948.0,
+                    785.0
+                ],
+                [
+                    948.0,
+                    796.0
+                ],
+                [
+                    879.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "VISWACM",
+            "confidence": 0.991,
+            "box": [
+                [
+                    964.0,
+                    785.0
+                ],
+                [
+                    1015.0,
+                    785.0
+                ],
+                [
+                    1015.0,
+                    796.0
+                ],
+                [
+                    964.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "HM",
+            "confidence": 0.981,
+            "box": [
+                [
+                    848.0,
+                    801.0
+                ],
+                [
+                    898.0,
+                    801.0
+                ],
+                [
+                    898.0,
+                    813.0
+                ],
+                [
+                    848.0,
+                    813.0
+                ]
+            ]
+        },
+        {
+            "text": "UNK",
+            "confidence": 0.992,
+            "box": [
+                [
+                    946.0,
+                    801.0
+                ],
+                [
+                    1000.0,
+                    801.0
+                ],
+                [
+                    1000.0,
+                    813.0
+                ],
+                [
+                    946.0,
+                    813.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA SAMAJAVARAGAMANA",
+            "confidence": 0.983,
+            "box": [
+                [
+                    187.0,
+                    1075.0
+                ],
+                [
+                    844.0,
+                    1075.0
+                ],
+                [
+                    844.0,
+                    1114.0
+                ],
+                [
+                    187.0,
+                    1114.0
+                ]
+            ]
+        },
+        {
+            "text": "DIRECTOR EH EM AYINA",
+            "confidence": 0.951,
+            "box": [
+                [
+                    261.0,
+                    1130.0
+                ],
+                [
+                    770.0,
+                    1130.0
+                ],
+                [
+                    770.0,
+                    1168.0
+                ],
+                [
+                    261.0,
+                    1168.0
+                ]
+            ]
+        },
+        {
+            "text": "MULTIVERSE PLANNING AH BRO",
+            "confidence": 0.956,
+            "box": [
+                [
+                    165.0,
+                    1182.0
+                ],
+                [
+                    865.0,
+                    1182.0
+                ],
+                [
+                    865.0,
+                    1225.0
+                ],
+                [
+                    165.0,
+                    1225.0
+                ]
+            ]
+        }
+    ]
+}

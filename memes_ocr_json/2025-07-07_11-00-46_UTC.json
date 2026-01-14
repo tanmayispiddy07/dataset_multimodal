@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-07-07_11-00-46_UTC.jpg",
+    "combined_text": "SHE :-NENOKA KOTHA DISH TRY CHESA CHALA\nBAGA VACHINDI OKASARI TASTE CHEYI\nME AFTER TASTING IT :-\nADOICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "SHE :-NENOKA KOTHA DISH TRY CHESA CHALA",
+            "confidence": 0.927,
+            "box": [
+                [
+                    38.0,
+                    55.0
+                ],
+                [
+                    1062.0,
+                    57.0
+                ],
+                [
+                    1062.0,
+                    100.0
+                ],
+                [
+                    38.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "BAGA VACHINDI OKASARI TASTE CHEYI",
+            "confidence": 0.952,
+            "box": [
+                [
+                    131.0,
+                    111.0
+                ],
+                [
+                    970.0,
+                    111.0
+                ],
+                [
+                    970.0,
+                    149.0
+                ],
+                [
+                    131.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "ME AFTER TASTING IT :-",
+            "confidence": 0.995,
+            "box": [
+                [
+                    298.0,
+                    165.0
+                ],
+                [
+                    803.0,
+                    165.0
+                ],
+                [
+                    803.0,
+                    203.0
+                ],
+                [
+                    298.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOICTEDTOMEMES",
+            "confidence": 0.925,
+            "box": [
+                [
+                    662.0,
+                    642.0
+                ],
+                [
+                    797.0,
+                    642.0
+                ],
+                [
+                    797.0,
+                    663.0
+                ],
+                [
+                    662.0,
+                    663.0
+                ]
+            ]
+        }
+    ]
+}

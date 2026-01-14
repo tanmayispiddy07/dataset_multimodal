@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-17_10-39-00_UTC.jpg",
+    "combined_text": "LATEST PICS OF RAPO DURING\nAKT PROMOTIONS\nADDICTEDTOMEMES\nAHAAA CHOCOLATE BOY\nANI URIKEANNARU",
+    "detailed": [
+        {
+            "text": "LATEST PICS OF RAPO DURING",
+            "confidence": 0.93,
+            "box": [
+                [
+                    136.0,
+                    49.0
+                ],
+                [
+                    968.0,
+                    49.0
+                ],
+                [
+                    968.0,
+                    95.0
+                ],
+                [
+                    136.0,
+                    95.0
+                ]
+            ]
+        },
+        {
+            "text": "AKT PROMOTIONS",
+            "confidence": 0.975,
+            "box": [
+                [
+                    304.0,
+                    117.0
+                ],
+                [
+                    804.0,
+                    114.0
+                ],
+                [
+                    804.0,
+                    162.0
+                ],
+                [
+                    304.0,
+                    165.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.974,
+            "box": [
+                [
+                    901.0,
+                    1006.0
+                ],
+                [
+                    1035.0,
+                    1006.0
+                ],
+                [
+                    1035.0,
+                    1023.0
+                ],
+                [
+                    901.0,
+                    1023.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAAA CHOCOLATE BOY",
+            "confidence": 0.961,
+            "box": [
+                [
+                    391.0,
+                    1228.0
+                ],
+                [
+                    970.0,
+                    1229.0
+                ],
+                [
+                    970.0,
+                    1271.0
+                ],
+                [
+                    391.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "ANI URIKEANNARU",
+            "confidence": 0.973,
+            "box": [
+                [
+                    456.0,
+                    1285.0
+                ],
+                [
+                    908.0,
+                    1285.0
+                ],
+                [
+                    908.0,
+                    1327.0
+                ],
+                [
+                    456.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

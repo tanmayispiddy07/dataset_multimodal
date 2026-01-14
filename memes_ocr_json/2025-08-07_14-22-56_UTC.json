@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-08-07_14-22-56_UTC.jpg",
+    "combined_text": "RAJU GAANI SAVAAL MOVIE\nGRAND F\nRELEASING TOMMOROW\nADDICTEDTOMEMES\nFELTA FORC\nBREAK IVVADANIKI\nREADY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "RAJU GAANI SAVAAL MOVIE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    114.0,
+                    45.0
+                ],
+                [
+                    987.0,
+                    45.0
+                ],
+                [
+                    987.0,
+                    99.0
+                ],
+                [
+                    114.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "GRAND F",
+            "confidence": 0.886,
+            "box": [
+                [
+                    49.0,
+                    121.0
+                ],
+                [
+                    316.0,
+                    121.0
+                ],
+                [
+                    316.0,
+                    173.0
+                ],
+                [
+                    49.0,
+                    173.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING TOMMOROW",
+            "confidence": 0.983,
+            "box": [
+                [
+                    284.0,
+                    121.0
+                ],
+                [
+                    1052.0,
+                    120.0
+                ],
+                [
+                    1052.0,
+                    170.0
+                ],
+                [
+                    284.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    518.0,
+                    597.0
+                ],
+                [
+                    667.0,
+                    597.0
+                ],
+                [
+                    667.0,
+                    617.0
+                ],
+                [
+                    518.0,
+                    617.0
+                ]
+            ]
+        },
+        {
+            "text": "FELTA FORC",
+            "confidence": 0.817,
+            "box": [
+                [
+                    434.0,
+                    1106.0
+                ],
+                [
+                    493.0,
+                    1110.0
+                ],
+                [
+                    492.0,
+                    1126.0
+                ],
+                [
+                    433.0,
+                    1123.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAK IVVADANIKI",
+            "confidence": 0.981,
+            "box": [
+                [
+                    547.0,
+                    1220.0
+                ],
+                [
+                    1010.0,
+                    1220.0
+                ],
+                [
+                    1010.0,
+                    1261.0
+                ],
+                [
+                    547.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "READY GA UNNAMU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    526.0,
+                    1277.0
+                ],
+                [
+                    1012.0,
+                    1277.0
+                ],
+                [
+                    1012.0,
+                    1323.0
+                ],
+                [
+                    526.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

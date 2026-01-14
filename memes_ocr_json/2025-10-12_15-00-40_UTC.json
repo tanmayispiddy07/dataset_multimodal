@@ -1,0 +1,512 @@
+{
+    "image_name": "2025-10-12_15-00-40_UTC.jpg",
+    "combined_text": "peopleaVEDA\nCENSORED\nTELUSU KADA\nA\nCENSORED CLEAN U/A\nMOVIE RELEASING ON\nOCT 17TH\nTelusu Kada censor reports\nare extremely positive.\nBen\nAARMIE KHANNA\nThe movie songs have become big hits\nand now, it completed censor\nformalities. It got U/A certification and\nOCTOBER17\nruntime is locked at 2 hrs 16 minutes\nof\nIN CINEMAS WORLDWIDE\nADDICTEDTOMEMES\nCHALUCHALUE\nMATRAMCHALU\nPADHANDI MOVIE KI\nVELDHAM",
+    "detailed": [
+        {
+            "text": "peopleaVEDA",
+            "confidence": 0.859,
+            "box": [
+                [
+                    631.0,
+                    10.0
+                ],
+                [
+                    704.0,
+                    10.0
+                ],
+                [
+                    704.0,
+                    27.0
+                ],
+                [
+                    631.0,
+                    27.0
+                ]
+            ]
+        },
+        {
+            "text": "CENSORED",
+            "confidence": 0.997,
+            "box": [
+                [
+                    800.0,
+                    11.0
+                ],
+                [
+                    907.0,
+                    12.0
+                ],
+                [
+                    907.0,
+                    30.0
+                ],
+                [
+                    800.0,
+                    29.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUSU KADA",
+            "confidence": 0.968,
+            "box": [
+                [
+                    152.0,
+                    29.0
+                ],
+                [
+                    443.0,
+                    29.0
+                ],
+                [
+                    443.0,
+                    66.0
+                ],
+                [
+                    152.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "A",
+            "confidence": 0.526,
+            "box": [
+                [
+                    782.0,
+                    50.0
+                ],
+                [
+                    1026.0,
+                    50.0
+                ],
+                [
+                    1026.0,
+                    189.0
+                ],
+                [
+                    782.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "CENSORED CLEAN U/A",
+            "confidence": 0.956,
+            "box": [
+                [
+                    52.0,
+                    81.0
+                ],
+                [
+                    531.0,
+                    81.0
+                ],
+                [
+                    531.0,
+                    118.0
+                ],
+                [
+                    52.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON",
+            "confidence": 0.962,
+            "box": [
+                [
+                    63.0,
+                    132.0
+                ],
+                [
+                    533.0,
+                    132.0
+                ],
+                [
+                    533.0,
+                    169.0
+                ],
+                [
+                    63.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "OCT 17TH",
+            "confidence": 0.991,
+            "box": [
+                [
+                    199.0,
+                    181.0
+                ],
+                [
+                    395.0,
+                    181.0
+                ],
+                [
+                    395.0,
+                    219.0
+                ],
+                [
+                    199.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "Telusu Kada censor reports",
+            "confidence": 1.0,
+            "box": [
+                [
+                    11.0,
+                    279.0
+                ],
+                [
+                    578.0,
+                    284.0
+                ],
+                [
+                    578.0,
+                    328.0
+                ],
+                [
+                    11.0,
+                    323.0
+                ]
+            ]
+        },
+        {
+            "text": "are extremely positive.",
+            "confidence": 0.975,
+            "box": [
+                [
+                    11.0,
+                    338.0
+                ],
+                [
+                    469.0,
+                    338.0
+                ],
+                [
+                    469.0,
+                    381.0
+                ],
+                [
+                    11.0,
+                    381.0
+                ]
+            ]
+        },
+        {
+            "text": "Ben",
+            "confidence": 0.542,
+            "box": [
+                [
+                    773.0,
+                    342.0
+                ],
+                [
+                    893.0,
+                    342.0
+                ],
+                [
+                    893.0,
+                    380.0
+                ],
+                [
+                    773.0,
+                    380.0
+                ]
+            ]
+        },
+        {
+            "text": "AARMIE KHANNA",
+            "confidence": 0.675,
+            "box": [
+                [
+                    955.0,
+                    376.0
+                ],
+                [
+                    1023.0,
+                    376.0
+                ],
+                [
+                    1023.0,
+                    386.0
+                ],
+                [
+                    955.0,
+                    386.0
+                ]
+            ]
+        },
+        {
+            "text": "The movie songs have become big hits",
+            "confidence": 0.949,
+            "box": [
+                [
+                    12.0,
+                    411.0
+                ],
+                [
+                    576.0,
+                    412.0
+                ],
+                [
+                    576.0,
+                    446.0
+                ],
+                [
+                    12.0,
+                    444.0
+                ]
+            ]
+        },
+        {
+            "text": "and now, it completed censor",
+            "confidence": 0.948,
+            "box": [
+                [
+                    12.0,
+                    453.0
+                ],
+                [
+                    439.0,
+                    453.0
+                ],
+                [
+                    439.0,
+                    484.0
+                ],
+                [
+                    12.0,
+                    484.0
+                ]
+            ]
+        },
+        {
+            "text": "formalities. It got U/A certification and",
+            "confidence": 0.965,
+            "box": [
+                [
+                    11.0,
+                    490.0
+                ],
+                [
+                    570.0,
+                    490.0
+                ],
+                [
+                    570.0,
+                    524.0
+                ],
+                [
+                    11.0,
+                    524.0
+                ]
+            ]
+        },
+        {
+            "text": "OCTOBER17",
+            "confidence": 0.939,
+            "box": [
+                [
+                    632.0,
+                    484.0
+                ],
+                [
+                    1063.0,
+                    484.0
+                ],
+                [
+                    1063.0,
+                    528.0
+                ],
+                [
+                    632.0,
+                    528.0
+                ]
+            ]
+        },
+        {
+            "text": "runtime is locked at 2 hrs 16 minutes",
+            "confidence": 0.949,
+            "box": [
+                [
+                    10.0,
+                    531.0
+                ],
+                [
+                    548.0,
+                    531.0
+                ],
+                [
+                    548.0,
+                    561.0
+                ],
+                [
+                    10.0,
+                    561.0
+                ]
+            ]
+        },
+        {
+            "text": "of",
+            "confidence": 0.619,
+            "box": [
+                [
+                    630.0,
+                    537.0
+                ],
+                [
+                    654.0,
+                    537.0
+                ],
+                [
+                    654.0,
+                    557.0
+                ],
+                [
+                    630.0,
+                    557.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS WORLDWIDE",
+            "confidence": 0.949,
+            "box": [
+                [
+                    729.0,
+                    537.0
+                ],
+                [
+                    974.0,
+                    537.0
+                ],
+                [
+                    974.0,
+                    554.0
+                ],
+                [
+                    729.0,
+                    554.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    503.0,
+                    699.0
+                ],
+                [
+                    654.0,
+                    699.0
+                ],
+                [
+                    654.0,
+                    719.0
+                ],
+                [
+                    503.0,
+                    719.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALUCHALUE",
+            "confidence": 0.995,
+            "box": [
+                [
+                    384.0,
+                    861.0
+                ],
+                [
+                    757.0,
+                    861.0
+                ],
+                [
+                    757.0,
+                    898.0
+                ],
+                [
+                    384.0,
+                    898.0
+                ]
+            ]
+        },
+        {
+            "text": "MATRAMCHALU",
+            "confidence": 0.993,
+            "box": [
+                [
+                    379.0,
+                    916.0
+                ],
+                [
+                    762.0,
+                    916.0
+                ],
+                [
+                    762.0,
+                    956.0
+                ],
+                [
+                    379.0,
+                    956.0
+                ]
+            ]
+        },
+        {
+            "text": "PADHANDI MOVIE KI",
+            "confidence": 0.957,
+            "box": [
+                [
+                    335.0,
+                    970.0
+                ],
+                [
+                    804.0,
+                    972.0
+                ],
+                [
+                    804.0,
+                    1013.0
+                ],
+                [
+                    335.0,
+                    1010.0
+                ]
+            ]
+        },
+        {
+            "text": "VELDHAM",
+            "confidence": 0.997,
+            "box": [
+                [
+                    457.0,
+                    1028.0
+                ],
+                [
+                    687.0,
+                    1028.0
+                ],
+                [
+                    687.0,
+                    1070.0
+                ],
+                [
+                    457.0,
+                    1070.0
+                ]
+            ]
+        }
+    ]
+}

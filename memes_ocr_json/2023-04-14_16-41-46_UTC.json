@@ -1,0 +1,72 @@
+{
+    "image_name": "2023-04-14_16-41-46_UTC.jpg",
+    "combined_text": "*NITISH RANA\nUMRAN MALIK\nTELUGU MEMES GURU",
+    "detailed": [
+        {
+            "text": "*NITISH RANA",
+            "confidence": 0.968,
+            "box": [
+                [
+                    783.0,
+                    143.0
+                ],
+                [
+                    1016.0,
+                    143.0
+                ],
+                [
+                    1016.0,
+                    174.0
+                ],
+                [
+                    783.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "UMRAN MALIK",
+            "confidence": 0.965,
+            "box": [
+                [
+                    48.0,
+                    181.0
+                ],
+                [
+                    368.0,
+                    181.0
+                ],
+                [
+                    368.0,
+                    219.0
+                ],
+                [
+                    48.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.908,
+            "box": [
+                [
+                    875.0,
+                    565.0
+                ],
+                [
+                    1028.0,
+                    565.0
+                ],
+                [
+                    1028.0,
+                    585.0
+                ],
+                [
+                    875.0,
+                    585.0
+                ]
+            ]
+        }
+    ]
+}

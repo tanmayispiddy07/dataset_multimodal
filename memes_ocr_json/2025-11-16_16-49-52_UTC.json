@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-16_16-49-52_UTC.jpg",
+    "combined_text": "\" #lbomma Ravi arrest aipodaniki.\nreason ento Telusa\n? Ravi vaalla\nWife eh reason... Vaalla wife tho divorce\nteeskodaniki Kukatpally vasthunte Vaalla.\nwife eh information icchi pattinchindhi.\nanta\nADDICTEDTOMEMES\nINKO TWIST ENTI ANTE\nVALLADHI LOVE MARRIAGE",
+    "detailed": [
+        {
+            "text": "\" #lbomma Ravi arrest aipodaniki.",
+            "confidence": 0.96,
+            "box": [
+                [
+                    65.0,
+                    32.0
+                ],
+                [
+                    800.0,
+                    33.0
+                ],
+                [
+                    800.0,
+                    81.0
+                ],
+                [
+                    65.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "reason ento Telusa",
+            "confidence": 0.975,
+            "box": [
+                [
+                    60.0,
+                    100.0
+                ],
+                [
+                    482.0,
+                    99.0
+                ],
+                [
+                    482.0,
+                    142.0
+                ],
+                [
+                    61.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "? Ravi vaalla",
+            "confidence": 0.934,
+            "box": [
+                [
+                    555.0,
+                    99.0
+                ],
+                [
+                    830.0,
+                    99.0
+                ],
+                [
+                    830.0,
+                    142.0
+                ],
+                [
+                    555.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "Wife eh reason... Vaalla wife tho divorce",
+            "confidence": 0.985,
+            "box": [
+                [
+                    65.0,
+                    163.0
+                ],
+                [
+                    934.0,
+                    163.0
+                ],
+                [
+                    934.0,
+                    205.0
+                ],
+                [
+                    65.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "teeskodaniki Kukatpally vasthunte Vaalla.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    59.0,
+                    223.0
+                ],
+                [
+                    973.0,
+                    222.0
+                ],
+                [
+                    973.0,
+                    273.0
+                ],
+                [
+                    59.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "text": "wife eh information icchi pattinchindhi.",
+            "confidence": 0.979,
+            "box": [
+                [
+                    62.0,
+                    286.0
+                ],
+                [
+                    914.0,
+                    287.0
+                ],
+                [
+                    914.0,
+                    335.0
+                ],
+                [
+                    62.0,
+                    333.0
+                ]
+            ]
+        },
+        {
+            "text": "anta",
+            "confidence": 0.997,
+            "box": [
+                [
+                    59.0,
+                    351.0
+                ],
+                [
+                    170.0,
+                    351.0
+                ],
+                [
+                    170.0,
+                    400.0
+                ],
+                [
+                    59.0,
+                    400.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    906.0,
+                    482.0
+                ],
+                [
+                    1074.0,
+                    482.0
+                ],
+                [
+                    1074.0,
+                    503.0
+                ],
+                [
+                    906.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "INKO TWIST ENTI ANTE",
+            "confidence": 0.984,
+            "box": [
+                [
+                    165.0,
+                    534.0
+                ],
+                [
+                    930.0,
+                    534.0
+                ],
+                [
+                    930.0,
+                    592.0
+                ],
+                [
+                    165.0,
+                    592.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLADHI LOVE MARRIAGE",
+            "confidence": 0.974,
+            "box": [
+                [
+                    72.0,
+                    616.0
+                ],
+                [
+                    1004.0,
+                    613.0
+                ],
+                [
+                    1004.0,
+                    681.0
+                ],
+                [
+                    72.0,
+                    684.0
+                ]
+            ]
+        }
+    ]
+}

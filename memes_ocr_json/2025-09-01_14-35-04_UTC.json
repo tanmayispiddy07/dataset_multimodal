@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-09-01_14-35-04_UTC.jpg",
+    "combined_text": "One day I will pay the price\nfor not being serious\ndon't mess with me\nmy mother is a lawyer\nDamn\nsarcasm\nMother in law",
+    "detailed": [
+        {
+            "text": "One day I will pay the price",
+            "confidence": 0.999,
+            "box": [
+                [
+                    66.0,
+                    107.0
+                ],
+                [
+                    1014.0,
+                    111.0
+                ],
+                [
+                    1014.0,
+                    184.0
+                ],
+                [
+                    66.0,
+                    180.0
+                ]
+            ]
+        },
+        {
+            "text": "for not being serious",
+            "confidence": 1.0,
+            "box": [
+                [
+                    174.0,
+                    210.0
+                ],
+                [
+                    906.0,
+                    218.0
+                ],
+                [
+                    906.0,
+                    287.0
+                ],
+                [
+                    174.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "don't mess with me",
+            "confidence": 1.0,
+            "box": [
+                [
+                    174.0,
+                    413.0
+                ],
+                [
+                    606.0,
+                    416.0
+                ],
+                [
+                    606.0,
+                    460.0
+                ],
+                [
+                    174.0,
+                    458.0
+                ]
+            ]
+        },
+        {
+            "text": "my mother is a lawyer",
+            "confidence": 0.981,
+            "box": [
+                [
+                    173.0,
+                    541.0
+                ],
+                [
+                    662.0,
+                    541.0
+                ],
+                [
+                    662.0,
+                    589.0
+                ],
+                [
+                    173.0,
+                    589.0
+                ]
+            ]
+        },
+        {
+            "text": "Damn",
+            "confidence": 0.998,
+            "box": [
+                [
+                    904.0,
+                    697.0
+                ],
+                [
+                    1047.0,
+                    700.0
+                ],
+                [
+                    1045.0,
+                    751.0
+                ],
+                [
+                    903.0,
+                    748.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    161.0,
+                    802.0
+                ],
+                [
+                    299.0,
+                    802.0
+                ],
+                [
+                    299.0,
+                    830.0
+                ],
+                [
+                    161.0,
+                    830.0
+                ]
+            ]
+        },
+        {
+            "text": "Mother in law",
+            "confidence": 0.983,
+            "box": [
+                [
+                    741.0,
+                    826.0
+                ],
+                [
+                    1042.0,
+                    826.0
+                ],
+                [
+                    1042.0,
+                    871.0
+                ],
+                [
+                    741.0,
+                    871.0
+                ]
+            ]
+        }
+    ]
+}

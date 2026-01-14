@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-04-21_05-21-10_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE\nFILM \"KESARI 2\"\nWATCHED LAST NIGHT IN THEATER AND WHILE COMING\nOUT FROM THEATER MOVIE COMPLETE MADE ME\nEMOTIONAL AND GAVE INSTANT GOOSEBUMPS\nADDICTEDTOMEMES\nAND ENGAGING 2ND HALF.A MUST WATCH FILM IN\nTHEATER.NO NEED TO WATCH FIRST PART TO SEE\n2ND PART BOTH ARE COMPLETELY DIFFERENT\nAKSHAY KUMAR THANKS FOR BRINGING AND\nLETTING US KNOW MANY UNTOLD STORIES\nFAmIly WaTCh ?! YeS",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    132.0,
+                    20.0
+                ],
+                [
+                    962.0,
+                    20.0
+                ],
+                [
+                    962.0,
+                    70.0
+                ],
+                [
+                    132.0,
+                    70.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM \"KESARI 2\"",
+            "confidence": 0.98,
+            "box": [
+                [
+                    311.0,
+                    88.0
+                ],
+                [
+                    776.0,
+                    88.0
+                ],
+                [
+                    776.0,
+                    138.0
+                ],
+                [
+                    311.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHED LAST NIGHT IN THEATER AND WHILE COMING",
+            "confidence": 0.945,
+            "box": [
+                [
+                    28.0,
+                    170.0
+                ],
+                [
+                    1041.0,
+                    170.0
+                ],
+                [
+                    1041.0,
+                    203.0
+                ],
+                [
+                    28.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "OUT FROM THEATER MOVIE COMPLETE MADE ME",
+            "confidence": 0.935,
+            "box": [
+                [
+                    89.0,
+                    219.0
+                ],
+                [
+                    982.0,
+                    219.0
+                ],
+                [
+                    982.0,
+                    248.0
+                ],
+                [
+                    89.0,
+                    248.0
+                ]
+            ]
+        },
+        {
+            "text": "EMOTIONAL AND GAVE INSTANT GOOSEBUMPS",
+            "confidence": 0.954,
+            "box": [
+                [
+                    96.0,
+                    262.0
+                ],
+                [
+                    963.0,
+                    262.0
+                ],
+                [
+                    963.0,
+                    295.0
+                ],
+                [
+                    96.0,
+                    295.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    474.0,
+                    446.0
+                ],
+                [
+                    634.0,
+                    446.0
+                ],
+                [
+                    634.0,
+                    467.0
+                ],
+                [
+                    474.0,
+                    467.0
+                ]
+            ]
+        },
+        {
+            "text": "AND ENGAGING 2ND HALF.A MUST WATCH FILM IN",
+            "confidence": 0.924,
+            "box": [
+                [
+                    45.0,
+                    1030.0
+                ],
+                [
+                    1059.0,
+                    1030.0
+                ],
+                [
+                    1059.0,
+                    1059.0
+                ],
+                [
+                    45.0,
+                    1059.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATER.NO NEED TO WATCH FIRST PART TO SEE",
+            "confidence": 0.922,
+            "box": [
+                [
+                    53.0,
+                    1077.0
+                ],
+                [
+                    1046.0,
+                    1077.0
+                ],
+                [
+                    1046.0,
+                    1111.0
+                ],
+                [
+                    53.0,
+                    1111.0
+                ]
+            ]
+        },
+        {
+            "text": "2ND PART BOTH ARE COMPLETELY DIFFERENT",
+            "confidence": 0.938,
+            "box": [
+                [
+                    93.0,
+                    1126.0
+                ],
+                [
+                    996.0,
+                    1126.0
+                ],
+                [
+                    996.0,
+                    1160.0
+                ],
+                [
+                    93.0,
+                    1160.0
+                ]
+            ]
+        },
+        {
+            "text": "AKSHAY KUMAR THANKS FOR BRINGING AND",
+            "confidence": 0.954,
+            "box": [
+                [
+                    93.0,
+                    1176.0
+                ],
+                [
+                    1003.0,
+                    1176.0
+                ],
+                [
+                    1003.0,
+                    1210.0
+                ],
+                [
+                    93.0,
+                    1210.0
+                ]
+            ]
+        },
+        {
+            "text": "LETTING US KNOW MANY UNTOLD STORIES",
+            "confidence": 0.958,
+            "box": [
+                [
+                    111.0,
+                    1224.0
+                ],
+                [
+                    976.0,
+                    1224.0
+                ],
+                [
+                    976.0,
+                    1261.0
+                ],
+                [
+                    111.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "FAmIly WaTCh ?! YeS",
+            "confidence": 0.775,
+            "box": [
+                [
+                    339.0,
+                    1274.0
+                ],
+                [
+                    761.0,
+                    1274.0
+                ],
+                [
+                    761.0,
+                    1307.0
+                ],
+                [
+                    339.0,
+                    1307.0
+                ]
+            ]
+        }
+    ]
+}

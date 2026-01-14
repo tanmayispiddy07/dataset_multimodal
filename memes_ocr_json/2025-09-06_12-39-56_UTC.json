@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-09-06_12-39-56_UTC.jpg",
+    "combined_text": "If we get married, stop smok!ng\nOkay\nDrink!ng too\nsarcasm\nOkayy\nAnd late night clubs too.\nOkayyy\nAnd what else can you leave?\nThe idea of marrying you!.",
+    "detailed": [
+        {
+            "text": "If we get married, stop smok!ng",
+            "confidence": 0.995,
+            "box": [
+                [
+                    106.0,
+                    123.0
+                ],
+                [
+                    750.0,
+                    128.0
+                ],
+                [
+                    749.0,
+                    173.0
+                ],
+                [
+                    105.0,
+                    168.0
+                ]
+            ]
+        },
+        {
+            "text": "Okay",
+            "confidence": 0.999,
+            "box": [
+                [
+                    861.0,
+                    325.0
+                ],
+                [
+                    972.0,
+                    339.0
+                ],
+                [
+                    966.0,
+                    392.0
+                ],
+                [
+                    855.0,
+                    378.0
+                ]
+            ]
+        },
+        {
+            "text": "Drink!ng too",
+            "confidence": 0.977,
+            "box": [
+                [
+                    102.0,
+                    485.0
+                ],
+                [
+                    358.0,
+                    490.0
+                ],
+                [
+                    357.0,
+                    539.0
+                ],
+                [
+                    101.0,
+                    534.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    609.0,
+                    602.0
+                ],
+                [
+                    710.0,
+                    605.0
+                ],
+                [
+                    710.0,
+                    629.0
+                ],
+                [
+                    609.0,
+                    626.0
+                ]
+            ]
+        },
+        {
+            "text": "Okayy",
+            "confidence": 1.0,
+            "box": [
+                [
+                    839.0,
+                    615.0
+                ],
+                [
+                    969.0,
+                    626.0
+                ],
+                [
+                    965.0,
+                    678.0
+                ],
+                [
+                    835.0,
+                    667.0
+                ]
+            ]
+        },
+        {
+            "text": "And late night clubs too.",
+            "confidence": 0.965,
+            "box": [
+                [
+                    104.0,
+                    779.0
+                ],
+                [
+                    589.0,
+                    779.0
+                ],
+                [
+                    589.0,
+                    822.0
+                ],
+                [
+                    104.0,
+                    822.0
+                ]
+            ]
+        },
+        {
+            "text": "Okayyy",
+            "confidence": 1.0,
+            "box": [
+                [
+                    818.0,
+                    902.0
+                ],
+                [
+                    969.0,
+                    915.0
+                ],
+                [
+                    965.0,
+                    967.0
+                ],
+                [
+                    814.0,
+                    954.0
+                ]
+            ]
+        },
+        {
+            "text": "And what else can you leave?",
+            "confidence": 0.999,
+            "box": [
+                [
+                    104.0,
+                    1066.0
+                ],
+                [
+                    710.0,
+                    1066.0
+                ],
+                [
+                    710.0,
+                    1110.0
+                ],
+                [
+                    104.0,
+                    1110.0
+                ]
+            ]
+        },
+        {
+            "text": "The idea of marrying you!.",
+            "confidence": 0.978,
+            "box": [
+                [
+                    376.0,
+                    1195.0
+                ],
+                [
+                    897.0,
+                    1200.0
+                ],
+                [
+                    897.0,
+                    1249.0
+                ],
+                [
+                    375.0,
+                    1244.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-08-20_10-00-19_UTC_1.jpg",
+    "combined_text": "Delhi guy started doing a handstand\nin traffic, the internet called him\n'Tiger Saunf'\nSwipe>\nDeactivate\n@byomms\nPeak Delhi guy behaviour",
+    "detailed": [
+        {
+            "text": "Delhi guy started doing a handstand",
+            "confidence": 1.0,
+            "box": [
+                [
+                    82.0,
+                    31.0
+                ],
+                [
+                    998.0,
+                    31.0
+                ],
+                [
+                    998.0,
+                    89.0
+                ],
+                [
+                    82.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "in traffic, the internet called him",
+            "confidence": 0.998,
+            "box": [
+                [
+                    129.0,
+                    120.0
+                ],
+                [
+                    949.0,
+                    120.0
+                ],
+                [
+                    949.0,
+                    167.0
+                ],
+                [
+                    129.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "'Tiger Saunf'",
+            "confidence": 0.993,
+            "box": [
+                [
+                    342.0,
+                    200.0
+                ],
+                [
+                    662.0,
+                    200.0
+                ],
+                [
+                    662.0,
+                    257.0
+                ],
+                [
+                    342.0,
+                    257.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe>",
+            "confidence": 0.979,
+            "box": [
+                [
+                    897.0,
+                    312.0
+                ],
+                [
+                    1024.0,
+                    312.0
+                ],
+                [
+                    1024.0,
+                    354.0
+                ],
+                [
+                    897.0,
+                    354.0
+                ]
+            ]
+        },
+        {
+            "text": "Deactivate",
+            "confidence": 0.995,
+            "box": [
+                [
+                    157.0,
+                    877.0
+                ],
+                [
+                    289.0,
+                    881.0
+                ],
+                [
+                    288.0,
+                    907.0
+                ],
+                [
+                    156.0,
+                    904.0
+                ]
+            ]
+        },
+        {
+            "text": "@byomms",
+            "confidence": 0.997,
+            "box": [
+                [
+                    158.0,
+                    910.0
+                ],
+                [
+                    280.0,
+                    910.0
+                ],
+                [
+                    280.0,
+                    937.0
+                ],
+                [
+                    158.0,
+                    937.0
+                ]
+            ]
+        },
+        {
+            "text": "Peak Delhi guy behaviour",
+            "confidence": 0.983,
+            "box": [
+                [
+                    77.0,
+                    956.0
+                ],
+                [
+                    457.0,
+                    958.0
+                ],
+                [
+                    457.0,
+                    993.0
+                ],
+                [
+                    77.0,
+                    991.0
+                ]
+            ]
+        }
+    ]
+}

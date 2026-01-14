@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-10-29_14-09-16_UTC.jpg",
+    "combined_text": "HE'S ALWAYS BEEN AHEAD OF HIS TIME. IF SOME\nOF HIS EARLIER FILMS HAD BEEN RELEASED NOW,\nTHEY WOULD HAVE BECOME HITS.HE ALWAYS\nENCOURAGES ME TO CHOOSE SCRIPTS ON MY\nOWN.-MAHESH BABU'S NEPHEW ASHOK GALLA\nADDICTEDTOMEMES\nBABURAAKKADA",
+    "detailed": [
+        {
+            "text": "HE'S ALWAYS BEEN AHEAD OF HIS TIME. IF SOME",
+            "confidence": 0.927,
+            "box": [
+                [
+                    110.0,
+                    18.0
+                ],
+                [
+                    962.0,
+                    18.0
+                ],
+                [
+                    962.0,
+                    52.0
+                ],
+                [
+                    110.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "OF HIS EARLIER FILMS HAD BEEN RELEASED NOW,",
+            "confidence": 0.938,
+            "box": [
+                [
+                    96.0,
+                    59.0
+                ],
+                [
+                    970.0,
+                    60.0
+                ],
+                [
+                    970.0,
+                    98.0
+                ],
+                [
+                    96.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "THEY WOULD HAVE BECOME HITS.HE ALWAYS",
+            "confidence": 0.939,
+            "box": [
+                [
+                    132.0,
+                    106.0
+                ],
+                [
+                    939.0,
+                    106.0
+                ],
+                [
+                    939.0,
+                    139.0
+                ],
+                [
+                    132.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "ENCOURAGES ME TO CHOOSE SCRIPTS ON MY",
+            "confidence": 0.94,
+            "box": [
+                [
+                    124.0,
+                    152.0
+                ],
+                [
+                    944.0,
+                    152.0
+                ],
+                [
+                    944.0,
+                    181.0
+                ],
+                [
+                    124.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "OWN.-MAHESH BABU'S NEPHEW ASHOK GALLA",
+            "confidence": 0.953,
+            "box": [
+                [
+                    108.0,
+                    194.0
+                ],
+                [
+                    962.0,
+                    194.0
+                ],
+                [
+                    962.0,
+                    227.0
+                ],
+                [
+                    108.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    463.0,
+                    1049.0
+                ],
+                [
+                    608.0,
+                    1049.0
+                ],
+                [
+                    608.0,
+                    1070.0
+                ],
+                [
+                    463.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "text": "BABURAAKKADA",
+            "confidence": 0.997,
+            "box": [
+                [
+                    253.0,
+                    1260.0
+                ],
+                [
+                    820.0,
+                    1260.0
+                ],
+                [
+                    820.0,
+                    1314.0
+                ],
+                [
+                    253.0,
+                    1314.0
+                ]
+            ]
+        }
+    ]
+}

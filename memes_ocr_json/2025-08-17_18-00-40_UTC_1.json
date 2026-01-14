@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-17_18-00-40_UTC_1.jpg",
+    "combined_text": "The crowd went crazy for War 2,\nreactions going viral.\nSwipe >",
+    "detailed": [
+        {
+            "text": "The crowd went crazy for War 2,",
+            "confidence": 0.995,
+            "box": [
+                [
+                    110.0,
+                    81.0
+                ],
+                [
+                    968.0,
+                    86.0
+                ],
+                [
+                    967.0,
+                    139.0
+                ],
+                [
+                    110.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "reactions going viral.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    176.0,
+                    160.0
+                ],
+                [
+                    721.0,
+                    160.0
+                ],
+                [
+                    721.0,
+                    214.0
+                ],
+                [
+                    176.0,
+                    214.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe >",
+            "confidence": 0.983,
+            "box": [
+                [
+                    879.0,
+                    343.0
+                ],
+                [
+                    1022.0,
+                    343.0
+                ],
+                [
+                    1022.0,
+                    385.0
+                ],
+                [
+                    879.0,
+                    385.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-09-02_15-21-14_UTC.jpg",
+    "combined_text": "MAHESH BABU FAN ME EVERYTIME\nAFTER DOING A ONLINE TRANSACTION\nADDICTEDTOMEMES\nTHANK YOUBOSS",
+    "detailed": [
+        {
+            "text": "MAHESH BABU FAN ME EVERYTIME",
+            "confidence": 0.945,
+            "box": [
+                [
+                    124.0,
+                    81.0
+                ],
+                [
+                    977.0,
+                    81.0
+                ],
+                [
+                    977.0,
+                    123.0
+                ],
+                [
+                    124.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER DOING A ONLINE TRANSACTION",
+            "confidence": 0.97,
+            "box": [
+                [
+                    55.0,
+                    139.0
+                ],
+                [
+                    1036.0,
+                    139.0
+                ],
+                [
+                    1036.0,
+                    190.0
+                ],
+                [
+                    55.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    908.0,
+                    408.0
+                ],
+                [
+                    1065.0,
+                    408.0
+                ],
+                [
+                    1065.0,
+                    429.0
+                ],
+                [
+                    908.0,
+                    429.0
+                ]
+            ]
+        },
+        {
+            "text": "THANK YOUBOSS",
+            "confidence": 0.966,
+            "box": [
+                [
+                    280.0,
+                    765.0
+                ],
+                [
+                    894.0,
+                    765.0
+                ],
+                [
+                    894.0,
+                    824.0
+                ],
+                [
+                    280.0,
+                    824.0
+                ]
+            ]
+        }
+    ]
+}

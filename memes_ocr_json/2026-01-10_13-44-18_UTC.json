@@ -1,0 +1,138 @@
+{
+    "image_name": "2026-01-10_13-44-18_UTC.jpg",
+    "combined_text": "BEAUTIFUL PROMO OF\n'MALLI KALUDDAM\nONE BOY ONE GIRI\nADDICTEDTOMEME\nAREYI SUCH A BEAUTIFUL PROMO RA\nOKA LIFE UNDI DANTLO",
+    "detailed": [
+        {
+            "text": "BEAUTIFUL PROMO OF",
+            "confidence": 0.94,
+            "box": [
+                [
+                    221.0,
+                    59.0
+                ],
+                [
+                    907.0,
+                    59.0
+                ],
+                [
+                    907.0,
+                    109.0
+                ],
+                [
+                    221.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "'MALLI KALUDDAM",
+            "confidence": 0.784,
+            "box": [
+                [
+                    263.0,
+                    135.0
+                ],
+                [
+                    849.0,
+                    132.0
+                ],
+                [
+                    849.0,
+                    192.0
+                ],
+                [
+                    263.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "ONE BOY ONE GIRI",
+            "confidence": 0.882,
+            "box": [
+                [
+                    101.0,
+                    787.0
+                ],
+                [
+                    463.0,
+                    787.0
+                ],
+                [
+                    463.0,
+                    825.0
+                ],
+                [
+                    101.0,
+                    825.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEME",
+            "confidence": 0.96,
+            "box": [
+                [
+                    38.0,
+                    1053.0
+                ],
+                [
+                    145.0,
+                    1057.0
+                ],
+                [
+                    144.0,
+                    1078.0
+                ],
+                [
+                    38.0,
+                    1074.0
+                ]
+            ]
+        },
+        {
+            "text": "AREYI SUCH A BEAUTIFUL PROMO RA",
+            "confidence": 0.927,
+            "box": [
+                [
+                    138.0,
+                    1239.0
+                ],
+                [
+                    868.0,
+                    1239.0
+                ],
+                [
+                    868.0,
+                    1277.0
+                ],
+                [
+                    138.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA LIFE UNDI DANTLO",
+            "confidence": 0.939,
+            "box": [
+                [
+                    271.0,
+                    1288.0
+                ],
+                [
+                    737.0,
+                    1288.0
+                ],
+                [
+                    737.0,
+                    1325.0
+                ],
+                [
+                    271.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

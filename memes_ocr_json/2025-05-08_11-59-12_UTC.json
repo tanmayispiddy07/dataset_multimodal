@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-08_11-59-12_UTC.jpg",
+    "combined_text": "MISSION IMPOSSIBLE-THE FINAL\nRECKONING RELEASING ON MAY 17TH\nADOICTEDTOMEMES\nASALU TOM CRUISE STUNTS\nUNTAIRA VATI KOSAME\nCINEMA KIVELLOCHU",
+    "detailed": [
+        {
+            "text": "MISSION IMPOSSIBLE-THE FINAL",
+            "confidence": 0.97,
+            "box": [
+                [
+                    155.0,
+                    26.0
+                ],
+                [
+                    948.0,
+                    26.0
+                ],
+                [
+                    948.0,
+                    68.0
+                ],
+                [
+                    155.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "RECKONING RELEASING ON MAY 17TH",
+            "confidence": 0.951,
+            "box": [
+                [
+                    104.0,
+                    88.0
+                ],
+                [
+                    1003.0,
+                    88.0
+                ],
+                [
+                    1003.0,
+                    125.0
+                ],
+                [
+                    104.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOICTEDTOMEMES",
+            "confidence": 0.964,
+            "box": [
+                [
+                    44.0,
+                    1119.0
+                ],
+                [
+                    183.0,
+                    1119.0
+                ],
+                [
+                    183.0,
+                    1140.0
+                ],
+                [
+                    44.0,
+                    1140.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALU TOM CRUISE STUNTS",
+            "confidence": 0.942,
+            "box": [
+                [
+                    51.0,
+                    1180.0
+                ],
+                [
+                    644.0,
+                    1182.0
+                ],
+                [
+                    644.0,
+                    1221.0
+                ],
+                [
+                    51.0,
+                    1220.0
+                ]
+            ]
+        },
+        {
+            "text": "UNTAIRA VATI KOSAME",
+            "confidence": 0.955,
+            "box": [
+                [
+                    94.0,
+                    1238.0
+                ],
+                [
+                    602.0,
+                    1238.0
+                ],
+                [
+                    602.0,
+                    1271.0
+                ],
+                [
+                    94.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA KIVELLOCHU",
+            "confidence": 0.98,
+            "box": [
+                [
+                    101.0,
+                    1288.0
+                ],
+                [
+                    582.0,
+                    1288.0
+                ],
+                [
+                    582.0,
+                    1330.0
+                ],
+                [
+                    101.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-10-13_11-28-02_UTC_5.jpg",
+    "combined_text": "AUSTRALIA",
+    "detailed": [
+        {
+            "text": "AUSTRALIA",
+            "confidence": 0.951,
+            "box": [
+                [
+                    570.0,
+                    375.0
+                ],
+                [
+                    752.0,
+                    384.0
+                ],
+                [
+                    750.0,
+                    416.0
+                ],
+                [
+                    568.0,
+                    407.0
+                ]
+            ]
+        }
+    ]
+}

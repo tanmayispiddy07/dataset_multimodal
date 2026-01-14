@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-31_04-01-13_UTC_2.jpg",
+    "combined_text": "Loud Environment\nSound levels hit 95\ndecibels.Just 10 min-\nutes at this level can\ncause temporary hear-\njng loss,",
+    "detailed": [
+        {
+            "text": "Loud Environment",
+            "confidence": 0.991,
+            "box": [
+                [
+                    364.0,
+                    1054.0
+                ],
+                [
+                    521.0,
+                    990.0
+                ],
+                [
+                    533.0,
+                    1019.0
+                ],
+                [
+                    376.0,
+                    1083.0
+                ]
+            ]
+        },
+        {
+            "text": "Sound levels hit 95",
+            "confidence": 0.886,
+            "box": [
+                [
+                    374.0,
+                    1078.0
+                ],
+                [
+                    534.0,
+                    1013.0
+                ],
+                [
+                    548.0,
+                    1044.0
+                ],
+                [
+                    388.0,
+                    1110.0
+                ]
+            ]
+        },
+        {
+            "text": "decibels.Just 10 min-",
+            "confidence": 0.896,
+            "box": [
+                [
+                    388.0,
+                    1103.0
+                ],
+                [
+                    566.0,
+                    1027.0
+                ],
+                [
+                    580.0,
+                    1060.0
+                ],
+                [
+                    402.0,
+                    1136.0
+                ]
+            ]
+        },
+        {
+            "text": "utes at this level can",
+            "confidence": 0.943,
+            "box": [
+                [
+                    400.0,
+                    1130.0
+                ],
+                [
+                    575.0,
+                    1056.0
+                ],
+                [
+                    589.0,
+                    1087.0
+                ],
+                [
+                    414.0,
+                    1161.0
+                ]
+            ]
+        },
+        {
+            "text": "cause temporary hear-",
+            "confidence": 0.946,
+            "box": [
+                [
+                    414.0,
+                    1158.0
+                ],
+                [
+                    601.0,
+                    1077.0
+                ],
+                [
+                    615.0,
+                    1108.0
+                ],
+                [
+                    428.0,
+                    1190.0
+                ]
+            ]
+        },
+        {
+            "text": "jng loss,",
+            "confidence": 0.872,
+            "box": [
+                [
+                    427.0,
+                    1187.0
+                ],
+                [
+                    507.0,
+                    1154.0
+                ],
+                [
+                    520.0,
+                    1183.0
+                ],
+                [
+                    440.0,
+                    1216.0
+                ]
+            ]
+        }
+    ]
+}

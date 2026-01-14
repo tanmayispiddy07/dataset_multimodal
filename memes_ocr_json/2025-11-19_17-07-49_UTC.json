@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-11-19_17-07-49_UTC.jpg",
+    "combined_text": "Hardest line in Breaking Bad.\nA man provides. And he does it\neven when he's not appreciated,\nor respected, or even loved\nsarcasm\nHe simply bears up and he.\ndoes it. Because he's a man.",
+    "detailed": [
+        {
+            "text": "Hardest line in Breaking Bad.",
+            "confidence": 0.968,
+            "box": [
+                [
+                    28.0,
+                    75.0
+                ],
+                [
+                    928.0,
+                    75.0
+                ],
+                [
+                    928.0,
+                    136.0
+                ],
+                [
+                    28.0,
+                    136.0
+                ]
+            ]
+        },
+        {
+            "text": "A man provides. And he does it",
+            "confidence": 0.968,
+            "box": [
+                [
+                    115.0,
+                    612.0
+                ],
+                [
+                    965.0,
+                    609.0
+                ],
+                [
+                    965.0,
+                    657.0
+                ],
+                [
+                    115.0,
+                    660.0
+                ]
+            ]
+        },
+        {
+            "text": "even when he's not appreciated,",
+            "confidence": 0.946,
+            "box": [
+                [
+                    93.0,
+                    672.0
+                ],
+                [
+                    977.0,
+                    675.0
+                ],
+                [
+                    977.0,
+                    723.0
+                ],
+                [
+                    93.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "or respected, or even loved",
+            "confidence": 0.977,
+            "box": [
+                [
+                    166.0,
+                    740.0
+                ],
+                [
+                    911.0,
+                    734.0
+                ],
+                [
+                    911.0,
+                    782.0
+                ],
+                [
+                    166.0,
+                    788.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    851.0,
+                    915.0
+                ],
+                [
+                    963.0,
+                    915.0
+                ],
+                [
+                    963.0,
+                    938.0
+                ],
+                [
+                    851.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "He simply bears up and he.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    117.0,
+                    1206.0
+                ],
+                [
+                    954.0,
+                    1211.0
+                ],
+                [
+                    953.0,
+                    1273.0
+                ],
+                [
+                    117.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "does it. Because he's a man.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    107.0,
+                    1281.0
+                ],
+                [
+                    970.0,
+                    1285.0
+                ],
+                [
+                    970.0,
+                    1339.0
+                ],
+                [
+                    107.0,
+                    1334.0
+                ]
+            ]
+        }
+    ]
+}

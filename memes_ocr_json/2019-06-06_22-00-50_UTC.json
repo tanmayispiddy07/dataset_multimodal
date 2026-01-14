@@ -1,0 +1,204 @@
+{
+    "image_name": "2019-06-06_22-00-50_UTC.jpg",
+    "combined_text": "sukhi\n@mairanotmaria2\nPetition to ban brown parents from\nWhatsApp like they're always the first ones\nto lecture u abt not believing everything u\nread on the internet but as soon as\nsomeone forwards them bullshit clickbait\narticles abt random stuff like car AC's\ncausing cancer they'll go on TED talks",
+    "detailed": [
+        {
+            "text": "sukhi",
+            "confidence": 0.998,
+            "box": [
+                [
+                    172.0,
+                    162.0
+                ],
+                [
+                    274.0,
+                    162.0
+                ],
+                [
+                    274.0,
+                    203.0
+                ],
+                [
+                    172.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "@mairanotmaria2",
+            "confidence": 0.998,
+            "box": [
+                [
+                    177.0,
+                    211.0
+                ],
+                [
+                    466.0,
+                    209.0
+                ],
+                [
+                    466.0,
+                    244.0
+                ],
+                [
+                    178.0,
+                    246.0
+                ]
+            ]
+        },
+        {
+            "text": "Petition to ban brown parents from",
+            "confidence": 0.995,
+            "box": [
+                [
+                    28.0,
+                    336.0
+                ],
+                [
+                    784.0,
+                    336.0
+                ],
+                [
+                    784.0,
+                    389.0
+                ],
+                [
+                    28.0,
+                    389.0
+                ]
+            ]
+        },
+        {
+            "text": "WhatsApp like they're always the first ones",
+            "confidence": 0.995,
+            "box": [
+                [
+                    32.0,
+                    414.0
+                ],
+                [
+                    966.0,
+                    417.0
+                ],
+                [
+                    966.0,
+                    467.0
+                ],
+                [
+                    31.0,
+                    465.0
+                ]
+            ]
+        },
+        {
+            "text": "to lecture u abt not believing everything u",
+            "confidence": 0.978,
+            "box": [
+                [
+                    29.0,
+                    492.0
+                ],
+                [
+                    927.0,
+                    497.0
+                ],
+                [
+                    927.0,
+                    544.0
+                ],
+                [
+                    28.0,
+                    540.0
+                ]
+            ]
+        },
+        {
+            "text": "read on the internet but as soon as",
+            "confidence": 0.992,
+            "box": [
+                [
+                    30.0,
+                    569.0
+                ],
+                [
+                    789.0,
+                    572.0
+                ],
+                [
+                    788.0,
+                    620.0
+                ],
+                [
+                    29.0,
+                    617.0
+                ]
+            ]
+        },
+        {
+            "text": "someone forwards them bullshit clickbait",
+            "confidence": 0.969,
+            "box": [
+                [
+                    28.0,
+                    648.0
+                ],
+                [
+                    922.0,
+                    647.0
+                ],
+                [
+                    922.0,
+                    695.0
+                ],
+                [
+                    28.0,
+                    696.0
+                ]
+            ]
+        },
+        {
+            "text": "articles abt random stuff like car AC's",
+            "confidence": 0.975,
+            "box": [
+                [
+                    31.0,
+                    726.0
+                ],
+                [
+                    837.0,
+                    725.0
+                ],
+                [
+                    837.0,
+                    770.0
+                ],
+                [
+                    32.0,
+                    771.0
+                ]
+            ]
+        },
+        {
+            "text": "causing cancer they'll go on TED talks",
+            "confidence": 0.992,
+            "box": [
+                [
+                    28.0,
+                    802.0
+                ],
+                [
+                    863.0,
+                    802.0
+                ],
+                [
+                    863.0,
+                    855.0
+                ],
+                [
+                    28.0,
+                    855.0
+                ]
+            ]
+        }
+    ]
+}

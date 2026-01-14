@@ -1,0 +1,116 @@
+{
+    "image_name": "2026-01-07_05-12-19_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nMe Daily Morning\nE Job Ento E Traffic lo Ibbandi padi\nvelladam ento Lifelong inthe naa",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.978,
+            "box": [
+                [
+                    187.0,
+                    28.0
+                ],
+                [
+                    584.0,
+                    29.0
+                ],
+                [
+                    583.0,
+                    68.0
+                ],
+                [
+                    187.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.979,
+            "box": [
+                [
+                    187.0,
+                    78.0
+                ],
+                [
+                    577.0,
+                    81.0
+                ],
+                [
+                    576.0,
+                    119.0
+                ],
+                [
+                    187.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "Me Daily Morning",
+            "confidence": 0.999,
+            "box": [
+                [
+                    40.0,
+                    163.0
+                ],
+                [
+                    447.0,
+                    169.0
+                ],
+                [
+                    447.0,
+                    220.0
+                ],
+                [
+                    39.0,
+                    214.0
+                ]
+            ]
+        },
+        {
+            "text": "E Job Ento E Traffic lo Ibbandi padi",
+            "confidence": 0.992,
+            "box": [
+                [
+                    38.0,
+                    230.0
+                ],
+                [
+                    845.0,
+                    229.0
+                ],
+                [
+                    845.0,
+                    283.0
+                ],
+                [
+                    38.0,
+                    284.0
+                ]
+            ]
+        },
+        {
+            "text": "velladam ento Lifelong inthe naa",
+            "confidence": 0.992,
+            "box": [
+                [
+                    38.0,
+                    297.0
+                ],
+                [
+                    804.0,
+                    298.0
+                ],
+                [
+                    804.0,
+                    350.0
+                ],
+                [
+                    38.0,
+                    348.0
+                ]
+            ]
+        }
+    ]
+}

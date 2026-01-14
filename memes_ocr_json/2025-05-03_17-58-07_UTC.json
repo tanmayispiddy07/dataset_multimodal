@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-03_17-58-07_UTC.jpg",
+    "combined_text": "RCB WON THE MATCH\nRCB WON 2 MATCHES WITH CSK\nIN BOTH CHEPAUK AND\nCHINNASWAMY\nEVARIAREA KIVACHI\nGELUDHAM ANUKUNNARU\nADDICTEDTOMEMES\nRCB RAAAA",
+    "detailed": [
+        {
+            "text": "RCB WON THE MATCH",
+            "confidence": 0.931,
+            "box": [
+                [
+                    258.0,
+                    33.0
+                ],
+                [
+                    837.0,
+                    33.0
+                ],
+                [
+                    837.0,
+                    77.0
+                ],
+                [
+                    258.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "RCB WON 2 MATCHES WITH CSK",
+            "confidence": 0.96,
+            "box": [
+                [
+                    122.0,
+                    97.0
+                ],
+                [
+                    975.0,
+                    97.0
+                ],
+                [
+                    975.0,
+                    149.0
+                ],
+                [
+                    122.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "IN BOTH CHEPAUK AND",
+            "confidence": 0.969,
+            "box": [
+                [
+                    247.0,
+                    164.0
+                ],
+                [
+                    863.0,
+                    164.0
+                ],
+                [
+                    863.0,
+                    212.0
+                ],
+                [
+                    247.0,
+                    212.0
+                ]
+            ]
+        },
+        {
+            "text": "CHINNASWAMY",
+            "confidence": 0.998,
+            "box": [
+                [
+                    343.0,
+                    233.0
+                ],
+                [
+                    751.0,
+                    233.0
+                ],
+                [
+                    751.0,
+                    277.0
+                ],
+                [
+                    343.0,
+                    277.0
+                ]
+            ]
+        },
+        {
+            "text": "EVARIAREA KIVACHI",
+            "confidence": 0.975,
+            "box": [
+                [
+                    284.0,
+                    681.0
+                ],
+                [
+                    832.0,
+                    681.0
+                ],
+                [
+                    832.0,
+                    725.0
+                ],
+                [
+                    284.0,
+                    725.0
+                ]
+            ]
+        },
+        {
+            "text": "GELUDHAM ANUKUNNARU",
+            "confidence": 0.979,
+            "box": [
+                [
+                    216.0,
+                    743.0
+                ],
+                [
+                    901.0,
+                    745.0
+                ],
+                [
+                    900.0,
+                    789.0
+                ],
+                [
+                    216.0,
+                    787.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    61.0,
+                    977.0
+                ],
+                [
+                    221.0,
+                    977.0
+                ],
+                [
+                    221.0,
+                    997.0
+                ],
+                [
+                    61.0,
+                    997.0
+                ]
+            ]
+        },
+        {
+            "text": "RCB RAAAA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    293.0,
+                    1180.0
+                ],
+                [
+                    848.0,
+                    1180.0
+                ],
+                [
+                    848.0,
+                    1261.0
+                ],
+                [
+                    293.0,
+                    1261.0
+                ]
+            ]
+        }
+    ]
+}

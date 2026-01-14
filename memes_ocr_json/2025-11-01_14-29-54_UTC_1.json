@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-01_14-29-54_UTC_1.jpg",
+    "combined_text": "Real police never contact you on.\nWhatsApp or video calls. \"Digital Arrest\"\nis a cyber fraud..\nSWIPE<<\nEVIGIL AUNTY",
+    "detailed": [
+        {
+            "text": "Real police never contact you on.",
+            "confidence": 0.985,
+            "box": [
+                [
+                    180.0,
+                    34.0
+                ],
+                [
+                    900.0,
+                    35.0
+                ],
+                [
+                    900.0,
+                    80.0
+                ],
+                [
+                    180.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "WhatsApp or video calls. \"Digital Arrest\"",
+            "confidence": 0.984,
+            "box": [
+                [
+                    83.0,
+                    105.0
+                ],
+                [
+                    980.0,
+                    104.0
+                ],
+                [
+                    980.0,
+                    153.0
+                ],
+                [
+                    83.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "is a cyber fraud..",
+            "confidence": 0.98,
+            "box": [
+                [
+                    304.0,
+                    183.0
+                ],
+                [
+                    652.0,
+                    183.0
+                ],
+                [
+                    652.0,
+                    228.0
+                ],
+                [
+                    304.0,
+                    228.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE<<",
+            "confidence": 0.913,
+            "box": [
+                [
+                    879.0,
+                    314.0
+                ],
+                [
+                    1022.0,
+                    314.0
+                ],
+                [
+                    1022.0,
+                    345.0
+                ],
+                [
+                    879.0,
+                    345.0
+                ]
+            ]
+        },
+        {
+            "text": "EVIGIL AUNTY",
+            "confidence": 0.956,
+            "box": [
+                [
+                    254.0,
+                    962.0
+                ],
+                [
+                    381.0,
+                    938.0
+                ],
+                [
+                    386.0,
+                    966.0
+                ],
+                [
+                    260.0,
+                    990.0
+                ]
+            ]
+        }
+    ]
+}

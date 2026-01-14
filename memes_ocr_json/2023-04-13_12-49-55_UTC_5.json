@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-04-13_12-49-55_UTC_5.jpg",
+    "combined_text": "Bio lo link vundi. Velli Free\nDemo ki Register cheskondi\n*Followers\nThanksadmin,freedemo attend\navutha.SoftwareJobkodutha",
+    "detailed": [
+        {
+            "text": "Bio lo link vundi. Velli Free",
+            "confidence": 0.955,
+            "box": [
+                [
+                    151.0,
+                    443.0
+                ],
+                [
+                    854.0,
+                    444.0
+                ],
+                [
+                    854.0,
+                    493.0
+                ],
+                [
+                    151.0,
+                    492.0
+                ]
+            ]
+        },
+        {
+            "text": "Demo ki Register cheskondi",
+            "confidence": 0.999,
+            "box": [
+                [
+                    124.0,
+                    492.0
+                ],
+                [
+                    885.0,
+                    488.0
+                ],
+                [
+                    885.0,
+                    546.0
+                ],
+                [
+                    124.0,
+                    549.0
+                ]
+            ]
+        },
+        {
+            "text": "*Followers",
+            "confidence": 0.999,
+            "box": [
+                [
+                    644.0,
+                    640.0
+                ],
+                [
+                    879.0,
+                    643.0
+                ],
+                [
+                    878.0,
+                    688.0
+                ],
+                [
+                    643.0,
+                    685.0
+                ]
+            ]
+        },
+        {
+            "text": "Thanksadmin,freedemo attend",
+            "confidence": 0.984,
+            "box": [
+                [
+                    131.0,
+                    973.0
+                ],
+                [
+                    921.0,
+                    974.0
+                ],
+                [
+                    921.0,
+                    1019.0
+                ],
+                [
+                    130.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "avutha.SoftwareJobkodutha",
+            "confidence": 0.99,
+            "box": [
+                [
+                    148.0,
+                    1019.0
+                ],
+                [
+                    899.0,
+                    1019.0
+                ],
+                [
+                    899.0,
+                    1063.0
+                ],
+                [
+                    148.0,
+                    1063.0
+                ]
+            ]
+        }
+    ]
+}

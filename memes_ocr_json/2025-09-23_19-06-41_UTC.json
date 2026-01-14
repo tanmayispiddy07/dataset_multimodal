@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-23_19-06-41_UTC.jpg",
+    "combined_text": "Moment when entire film\nindustry shed tears.\nACTOR\nINASJF ORTING ROLE\nsarcasm",
+    "detailed": [
+        {
+            "text": "Moment when entire film",
+            "confidence": 0.987,
+            "box": [
+                [
+                    121.0,
+                    27.0
+                ],
+                [
+                    946.0,
+                    30.0
+                ],
+                [
+                    946.0,
+                    91.0
+                ],
+                [
+                    121.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "industry shed tears.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    169.0,
+                    123.0
+                ],
+                [
+                    785.0,
+                    123.0
+                ],
+                [
+                    785.0,
+                    189.0
+                ],
+                [
+                    169.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTOR",
+            "confidence": 0.998,
+            "box": [
+                [
+                    534.0,
+                    475.0
+                ],
+                [
+                    685.0,
+                    475.0
+                ],
+                [
+                    685.0,
+                    522.0
+                ],
+                [
+                    534.0,
+                    522.0
+                ]
+            ]
+        },
+        {
+            "text": "INASJF ORTING ROLE",
+            "confidence": 0.933,
+            "box": [
+                [
+                    546.0,
+                    519.0
+                ],
+                [
+                    878.0,
+                    519.0
+                ],
+                [
+                    878.0,
+                    545.0
+                ],
+                [
+                    546.0,
+                    545.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    93.0,
+                    646.0
+                ],
+                [
+                    231.0,
+                    649.0
+                ],
+                [
+                    230.0,
+                    677.0
+                ],
+                [
+                    93.0,
+                    674.0
+                ]
+            ]
+        }
+    ]
+}

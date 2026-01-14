@@ -1,0 +1,556 @@
+{
+    "image_name": "2025-11-01_17-06-10_UTC.jpg",
+    "combined_text": "Mahesh Babu \n@urstrulyMahesh\nIt's November already @ssrajamouli 00\n10:18 pm01 Nov2596.5KViews\n4,190 Reposts 694 Quotes8,078 Likes\n250 Bookmarks\nADDICTEDTOMEMES\nMost relevant replies \nrajamouli ss@ssrajamouli5m\nReplying to @urstrulyMahesh\nyess... ye cinemaalaki review iddaam.\nanukuntunnaavu ee month.?.\n738\n2.1K\n3.8K\n32.6K\nMahesh Babu \n:\n@urstrulyMahesh\nReplying to @ssrajamouli\nYour \"forever in making\" Mahabharatha,\nSir...e\nFirst things first, You promised us.\nsomething in November. Please keep up\nyour word..",
+    "detailed": [
+        {
+            "text": "Mahesh Babu ",
+            "confidence": 0.927,
+            "box": [
+                [
+                    325.0,
+                    42.0
+                ],
+                [
+                    547.0,
+                    42.0
+                ],
+                [
+                    547.0,
+                    71.0
+                ],
+                [
+                    325.0,
+                    71.0
+                ]
+            ]
+        },
+        {
+            "text": "@urstrulyMahesh",
+            "confidence": 0.995,
+            "box": [
+                [
+                    323.0,
+                    77.0
+                ],
+                [
+                    560.0,
+                    77.0
+                ],
+                [
+                    560.0,
+                    110.0
+                ],
+                [
+                    323.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "It's November already @ssrajamouli 00",
+            "confidence": 0.936,
+            "box": [
+                [
+                    225.0,
+                    137.0
+                ],
+                [
+                    844.0,
+                    137.0
+                ],
+                [
+                    844.0,
+                    174.0
+                ],
+                [
+                    225.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "10:18 pm01 Nov2596.5KViews",
+            "confidence": 0.93,
+            "box": [
+                [
+                    226.0,
+                    192.0
+                ],
+                [
+                    675.0,
+                    192.0
+                ],
+                [
+                    675.0,
+                    226.0
+                ],
+                [
+                    226.0,
+                    226.0
+                ]
+            ]
+        },
+        {
+            "text": "4,190 Reposts 694 Quotes8,078 Likes",
+            "confidence": 0.956,
+            "box": [
+                [
+                    225.0,
+                    277.0
+                ],
+                [
+                    782.0,
+                    277.0
+                ],
+                [
+                    782.0,
+                    311.0
+                ],
+                [
+                    225.0,
+                    311.0
+                ]
+            ]
+        },
+        {
+            "text": "250 Bookmarks",
+            "confidence": 0.957,
+            "box": [
+                [
+                    222.0,
+                    361.0
+                ],
+                [
+                    443.0,
+                    361.0
+                ],
+                [
+                    443.0,
+                    394.0
+                ],
+                [
+                    222.0,
+                    394.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    809.0,
+                    378.0
+                ],
+                [
+                    955.0,
+                    378.0
+                ],
+                [
+                    955.0,
+                    399.0
+                ],
+                [
+                    809.0,
+                    399.0
+                ]
+            ]
+        },
+        {
+            "text": "Most relevant replies ",
+            "confidence": 0.976,
+            "box": [
+                [
+                    224.0,
+                    541.0
+                ],
+                [
+                    533.0,
+                    539.0
+                ],
+                [
+                    533.0,
+                    574.0
+                ],
+                [
+                    224.0,
+                    576.0
+                ]
+            ]
+        },
+        {
+            "text": "rajamouli ss@ssrajamouli5m",
+            "confidence": 0.982,
+            "box": [
+                [
+                    319.0,
+                    622.0
+                ],
+                [
+                    778.0,
+                    619.0
+                ],
+                [
+                    778.0,
+                    652.0
+                ],
+                [
+                    319.0,
+                    655.0
+                ]
+            ]
+        },
+        {
+            "text": "Replying to @urstrulyMahesh",
+            "confidence": 0.975,
+            "box": [
+                [
+                    321.0,
+                    661.0
+                ],
+                [
+                    707.0,
+                    661.0
+                ],
+                [
+                    707.0,
+                    694.0
+                ],
+                [
+                    321.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "yess... ye cinemaalaki review iddaam.",
+            "confidence": 0.977,
+            "box": [
+                [
+                    316.0,
+                    705.0
+                ],
+                [
+                    803.0,
+                    701.0
+                ],
+                [
+                    803.0,
+                    734.0
+                ],
+                [
+                    317.0,
+                    739.0
+                ]
+            ]
+        },
+        {
+            "text": "anukuntunnaavu ee month.?.",
+            "confidence": 0.965,
+            "box": [
+                [
+                    318.0,
+                    742.0
+                ],
+                [
+                    699.0,
+                    740.0
+                ],
+                [
+                    699.0,
+                    773.0
+                ],
+                [
+                    318.0,
+                    775.0
+                ]
+            ]
+        },
+        {
+            "text": "738",
+            "confidence": 0.998,
+            "box": [
+                [
+                    320.0,
+                    790.0
+                ],
+                [
+                    400.0,
+                    794.0
+                ],
+                [
+                    398.0,
+                    826.0
+                ],
+                [
+                    319.0,
+                    822.0
+                ]
+            ]
+        },
+        {
+            "text": "2.1K",
+            "confidence": 0.927,
+            "box": [
+                [
+                    440.0,
+                    790.0
+                ],
+                [
+                    527.0,
+                    790.0
+                ],
+                [
+                    527.0,
+                    825.0
+                ],
+                [
+                    440.0,
+                    825.0
+                ]
+            ]
+        },
+        {
+            "text": "3.8K",
+            "confidence": 0.983,
+            "box": [
+                [
+                    596.0,
+                    796.0
+                ],
+                [
+                    660.0,
+                    796.0
+                ],
+                [
+                    660.0,
+                    824.0
+                ],
+                [
+                    596.0,
+                    824.0
+                ]
+            ]
+        },
+        {
+            "text": "32.6K",
+            "confidence": 0.979,
+            "box": [
+                [
+                    690.0,
+                    792.0
+                ],
+                [
+                    792.0,
+                    792.0
+                ],
+                [
+                    792.0,
+                    826.0
+                ],
+                [
+                    690.0,
+                    826.0
+                ]
+            ]
+        },
+        {
+            "text": "Mahesh Babu ",
+            "confidence": 0.913,
+            "box": [
+                [
+                    326.0,
+                    854.0
+                ],
+                [
+                    547.0,
+                    854.0
+                ],
+                [
+                    547.0,
+                    884.0
+                ],
+                [
+                    326.0,
+                    884.0
+                ]
+            ]
+        },
+        {
+            "text": ":",
+            "confidence": 0.728,
+            "box": [
+                [
+                    892.0,
+                    870.0
+                ],
+                [
+                    906.0,
+                    870.0
+                ],
+                [
+                    906.0,
+                    889.0
+                ],
+                [
+                    892.0,
+                    889.0
+                ]
+            ]
+        },
+        {
+            "text": "@urstrulyMahesh",
+            "confidence": 0.996,
+            "box": [
+                [
+                    325.0,
+                    888.0
+                ],
+                [
+                    561.0,
+                    888.0
+                ],
+                [
+                    561.0,
+                    921.0
+                ],
+                [
+                    325.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "text": "Replying to @ssrajamouli",
+            "confidence": 0.987,
+            "box": [
+                [
+                    226.0,
+                    945.0
+                ],
+                [
+                    558.0,
+                    944.0
+                ],
+                [
+                    558.0,
+                    981.0
+                ],
+                [
+                    227.0,
+                    983.0
+                ]
+            ]
+        },
+        {
+            "text": "Your \"forever in making\" Mahabharatha,",
+            "confidence": 0.993,
+            "box": [
+                [
+                    225.0,
+                    998.0
+                ],
+                [
+                    859.0,
+                    999.0
+                ],
+                [
+                    859.0,
+                    1038.0
+                ],
+                [
+                    225.0,
+                    1037.0
+                ]
+            ]
+        },
+        {
+            "text": "Sir...e",
+            "confidence": 0.847,
+            "box": [
+                [
+                    224.0,
+                    1043.0
+                ],
+                [
+                    377.0,
+                    1043.0
+                ],
+                [
+                    377.0,
+                    1086.0
+                ],
+                [
+                    224.0,
+                    1086.0
+                ]
+            ]
+        },
+        {
+            "text": "First things first, You promised us.",
+            "confidence": 0.951,
+            "box": [
+                [
+                    226.0,
+                    1137.0
+                ],
+                [
+                    758.0,
+                    1137.0
+                ],
+                [
+                    758.0,
+                    1175.0
+                ],
+                [
+                    226.0,
+                    1175.0
+                ]
+            ]
+        },
+        {
+            "text": "something in November. Please keep up",
+            "confidence": 0.978,
+            "box": [
+                [
+                    225.0,
+                    1182.0
+                ],
+                [
+                    862.0,
+                    1183.0
+                ],
+                [
+                    862.0,
+                    1222.0
+                ],
+                [
+                    225.0,
+                    1221.0
+                ]
+            ]
+        },
+        {
+            "text": "your word..",
+            "confidence": 0.965,
+            "box": [
+                [
+                    222.0,
+                    1230.0
+                ],
+                [
+                    397.0,
+                    1225.0
+                ],
+                [
+                    398.0,
+                    1264.0
+                ],
+                [
+                    223.0,
+                    1269.0
+                ]
+            ]
+        }
+    ]
+}

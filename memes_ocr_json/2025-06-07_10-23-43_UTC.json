@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-06-07_10-23-43_UTC.jpg",
+    "combined_text": "A NEWGANG IS READY TO ENTERTAIN YOU\nALL 'MITHRA MANDALI' FIRST LOOK WITH\nINTERESTING TITLE & CASTING UNVEILED\nMAHR\nMAHR\nMANDAL\nYANDAL\nADDICTEDTOMEMES\nCAST AADHRINDHI AYYA\nTHEATER LO FUN GUARANTEE",
+    "detailed": [
+        {
+            "text": "A NEWGANG IS READY TO ENTERTAIN YOU",
+            "confidence": 0.932,
+            "box": [
+                [
+                    89.0,
+                    42.0
+                ],
+                [
+                    1011.0,
+                    40.0
+                ],
+                [
+                    1011.0,
+                    79.0
+                ],
+                [
+                    89.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL 'MITHRA MANDALI' FIRST LOOK WITH",
+            "confidence": 0.916,
+            "box": [
+                [
+                    98.0,
+                    96.0
+                ],
+                [
+                    1004.0,
+                    96.0
+                ],
+                [
+                    1004.0,
+                    134.0
+                ],
+                [
+                    98.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERESTING TITLE & CASTING UNVEILED",
+            "confidence": 0.952,
+            "box": [
+                [
+                    108.0,
+                    151.0
+                ],
+                [
+                    993.0,
+                    151.0
+                ],
+                [
+                    993.0,
+                    188.0
+                ],
+                [
+                    108.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "MAHR",
+            "confidence": 0.821,
+            "box": [
+                [
+                    737.0,
+                    760.0
+                ],
+                [
+                    854.0,
+                    731.0
+                ],
+                [
+                    870.0,
+                    793.0
+                ],
+                [
+                    753.0,
+                    821.0
+                ]
+            ]
+        },
+        {
+            "text": "MAHR",
+            "confidence": 0.751,
+            "box": [
+                [
+                    159.0,
+                    771.0
+                ],
+                [
+                    271.0,
+                    729.0
+                ],
+                [
+                    292.0,
+                    785.0
+                ],
+                [
+                    181.0,
+                    828.0
+                ]
+            ]
+        },
+        {
+            "text": "MANDAL",
+            "confidence": 0.988,
+            "box": [
+                [
+                    150.0,
+                    826.0
+                ],
+                [
+                    288.0,
+                    765.0
+                ],
+                [
+                    309.0,
+                    813.0
+                ],
+                [
+                    172.0,
+                    874.0
+                ]
+            ]
+        },
+        {
+            "text": "YANDAL",
+            "confidence": 0.944,
+            "box": [
+                [
+                    740.0,
+                    823.0
+                ],
+                [
+                    858.0,
+                    767.0
+                ],
+                [
+                    879.0,
+                    811.0
+                ],
+                [
+                    761.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.98,
+            "box": [
+                [
+                    903.0,
+                    1055.0
+                ],
+                [
+                    1039.0,
+                    1052.0
+                ],
+                [
+                    1039.0,
+                    1073.0
+                ],
+                [
+                    903.0,
+                    1076.0
+                ]
+            ]
+        },
+        {
+            "text": "CAST AADHRINDHI AYYA",
+            "confidence": 0.965,
+            "box": [
+                [
+                    388.0,
+                    1226.0
+                ],
+                [
+                    908.0,
+                    1226.0
+                ],
+                [
+                    908.0,
+                    1268.0
+                ],
+                [
+                    388.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATER LO FUN GUARANTEE",
+            "confidence": 0.944,
+            "box": [
+                [
+                    326.0,
+                    1278.0
+                ],
+                [
+                    960.0,
+                    1278.0
+                ],
+                [
+                    960.0,
+                    1320.0
+                ],
+                [
+                    326.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

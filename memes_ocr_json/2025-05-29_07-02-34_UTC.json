@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-29_07-02-34_UTC.jpg",
+    "combined_text": "SHASHTIPOORTHI MOVIE\nGRAND RELEASING TOMORROW\nADDICTEDTOMEMES\nE CINEMA LOMUSIC IMPACT\nENTHA UNTADHI SIR\nCINEMA LO EMOTIONAL SCENES KI\nMAX\nANDHARU EMOTIONAL AITHARU MUSIC KI",
+    "detailed": [
+        {
+            "text": "SHASHTIPOORTHI MOVIE",
+            "confidence": 0.976,
+            "box": [
+                [
+                    218.0,
+                    54.0
+                ],
+                [
+                    902.0,
+                    54.0
+                ],
+                [
+                    902.0,
+                    98.0
+                ],
+                [
+                    218.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "GRAND RELEASING TOMORROW",
+            "confidence": 0.977,
+            "box": [
+                [
+                    113.0,
+                    122.0
+                ],
+                [
+                    991.0,
+                    122.0
+                ],
+                [
+                    991.0,
+                    166.0
+                ],
+                [
+                    113.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    909.0,
+                    376.0
+                ],
+                [
+                    1067.0,
+                    376.0
+                ],
+                [
+                    1067.0,
+                    398.0
+                ],
+                [
+                    909.0,
+                    398.0
+                ]
+            ]
+        },
+        {
+            "text": "E CINEMA LOMUSIC IMPACT",
+            "confidence": 0.941,
+            "box": [
+                [
+                    243.0,
+                    588.0
+                ],
+                [
+                    875.0,
+                    588.0
+                ],
+                [
+                    875.0,
+                    631.0
+                ],
+                [
+                    243.0,
+                    631.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTHA UNTADHI SIR",
+            "confidence": 0.951,
+            "box": [
+                [
+                    325.0,
+                    646.0
+                ],
+                [
+                    776.0,
+                    646.0
+                ],
+                [
+                    776.0,
+                    686.0
+                ],
+                [
+                    325.0,
+                    686.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA LO EMOTIONAL SCENES KI",
+            "confidence": 0.949,
+            "box": [
+                [
+                    198.0,
+                    1064.0
+                ],
+                [
+                    880.0,
+                    1064.0
+                ],
+                [
+                    880.0,
+                    1101.0
+                ],
+                [
+                    198.0,
+                    1101.0
+                ]
+            ]
+        },
+        {
+            "text": "MAX",
+            "confidence": 0.776,
+            "box": [
+                [
+                    50.0,
+                    1123.0
+                ],
+                [
+                    125.0,
+                    1118.0
+                ],
+                [
+                    127.0,
+                    1158.0
+                ],
+                [
+                    53.0,
+                    1160.0
+                ]
+            ]
+        },
+        {
+            "text": "ANDHARU EMOTIONAL AITHARU MUSIC KI",
+            "confidence": 0.949,
+            "box": [
+                [
+                    120.0,
+                    1115.0
+                ],
+                [
+                    955.0,
+                    1113.0
+                ],
+                [
+                    955.0,
+                    1149.0
+                ],
+                [
+                    121.0,
+                    1151.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-04-18_16-13-00_UTC.jpg",
+    "combined_text": "AVINASH VARMA,NEPHEWOF RAVI TEJA,MARKS AN\nAND MOVIE RECEIVING SUPERB RESPONSE FROM\nCRITICS AND AUDIENCE\nFOR IT'S RAW EMOTIONS,\nREALISTIC PERFORMANCES\nADDICTEDTOMEMES\n350\nNVUSUPER BRODEBUTMOVIE THONE MANCHI\nPERFORMANCEANDMANCHISCRIPTTHONEVACHAVU",
+    "detailed": [
+        {
+            "text": "AVINASH VARMA,NEPHEWOF RAVI TEJA,MARKS AN",
+            "confidence": 0.944,
+            "box": [
+                [
+                    131.0,
+                    18.0
+                ],
+                [
+                    1034.0,
+                    18.0
+                ],
+                [
+                    1034.0,
+                    47.0
+                ],
+                [
+                    131.0,
+                    47.0
+                ]
+            ]
+        },
+        {
+            "text": "AND MOVIE RECEIVING SUPERB RESPONSE FROM",
+            "confidence": 0.949,
+            "box": [
+                [
+                    160.0,
+                    100.0
+                ],
+                [
+                    1004.0,
+                    100.0
+                ],
+                [
+                    1004.0,
+                    134.0
+                ],
+                [
+                    160.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "CRITICS AND AUDIENCE",
+            "confidence": 0.969,
+            "box": [
+                [
+                    378.0,
+                    141.0
+                ],
+                [
+                    785.0,
+                    141.0
+                ],
+                [
+                    785.0,
+                    174.0
+                ],
+                [
+                    378.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR IT'S RAW EMOTIONS,",
+            "confidence": 0.934,
+            "box": [
+                [
+                    368.0,
+                    183.0
+                ],
+                [
+                    802.0,
+                    183.0
+                ],
+                [
+                    802.0,
+                    216.0
+                ],
+                [
+                    368.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "REALISTIC PERFORMANCES",
+            "confidence": 0.983,
+            "box": [
+                [
+                    345.0,
+                    222.0
+                ],
+                [
+                    814.0,
+                    223.0
+                ],
+                [
+                    814.0,
+                    256.0
+                ],
+                [
+                    344.0,
+                    255.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    937.0,
+                    379.0
+                ],
+                [
+                    1060.0,
+                    379.0
+                ],
+                [
+                    1060.0,
+                    396.0
+                ],
+                [
+                    937.0,
+                    396.0
+                ]
+            ]
+        },
+        {
+            "text": "350",
+            "confidence": 0.67,
+            "box": [
+                [
+                    683.0,
+                    665.0
+                ],
+                [
+                    1066.0,
+                    682.0
+                ],
+                [
+                    1058.0,
+                    850.0
+                ],
+                [
+                    675.0,
+                    833.0
+                ]
+            ]
+        },
+        {
+            "text": "NVUSUPER BRODEBUTMOVIE THONE MANCHI",
+            "confidence": 0.956,
+            "box": [
+                [
+                    87.0,
+                    1242.0
+                ],
+                [
+                    997.0,
+                    1242.0
+                ],
+                [
+                    997.0,
+                    1279.0
+                ],
+                [
+                    87.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFORMANCEANDMANCHISCRIPTTHONEVACHAVU",
+            "confidence": 0.993,
+            "box": [
+                [
+                    8.0,
+                    1288.0
+                ],
+                [
+                    1067.0,
+                    1288.0
+                ],
+                [
+                    1067.0,
+                    1330.0
+                ],
+                [
+                    8.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

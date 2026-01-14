@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-18_13-23-36_UTC_2.jpg",
+    "combined_text": "sarcasm\nAccording to media reports, the agreement\nincludes a clause that any external aggression\nagainst either country will be treated as.\nan act of aggression against both.",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    481.0,
+                    1029.0
+                ],
+                [
+                    598.0,
+                    1032.0
+                ],
+                [
+                    597.0,
+                    1055.0
+                ],
+                [
+                    481.0,
+                    1051.0
+                ]
+            ]
+        },
+        {
+            "text": "According to media reports, the agreement",
+            "confidence": 0.999,
+            "box": [
+                [
+                    56.0,
+                    1081.0
+                ],
+                [
+                    1025.0,
+                    1085.0
+                ],
+                [
+                    1025.0,
+                    1129.0
+                ],
+                [
+                    56.0,
+                    1124.0
+                ]
+            ]
+        },
+        {
+            "text": "includes a clause that any external aggression",
+            "confidence": 0.989,
+            "box": [
+                [
+                    23.0,
+                    1140.0
+                ],
+                [
+                    1055.0,
+                    1141.0
+                ],
+                [
+                    1055.0,
+                    1186.0
+                ],
+                [
+                    22.0,
+                    1185.0
+                ]
+            ]
+        },
+        {
+            "text": "against either country will be treated as.",
+            "confidence": 0.986,
+            "box": [
+                [
+                    90.0,
+                    1200.0
+                ],
+                [
+                    987.0,
+                    1197.0
+                ],
+                [
+                    987.0,
+                    1241.0
+                ],
+                [
+                    90.0,
+                    1244.0
+                ]
+            ]
+        },
+        {
+            "text": "an act of aggression against both.",
+            "confidence": 0.974,
+            "box": [
+                [
+                    163.0,
+                    1256.0
+                ],
+                [
+                    917.0,
+                    1255.0
+                ],
+                [
+                    917.0,
+                    1300.0
+                ],
+                [
+                    163.0,
+                    1301.0
+                ]
+            ]
+        }
+    ]
+}

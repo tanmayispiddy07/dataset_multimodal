@@ -1,0 +1,28 @@
+{
+    "image_name": "2020-02-21_21-36-25_UTC_2.jpg",
+    "combined_text": "siggu padadhu inka pettu",
+    "detailed": [
+        {
+            "text": "siggu padadhu inka pettu",
+            "confidence": 0.985,
+            "box": [
+                [
+                    152.0,
+                    28.0
+                ],
+                [
+                    791.0,
+                    28.0
+                ],
+                [
+                    791.0,
+                    87.0
+                ],
+                [
+                    152.0,
+                    87.0
+                ]
+            ]
+        }
+    ]
+}

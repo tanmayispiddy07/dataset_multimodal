@@ -1,0 +1,72 @@
+{
+    "image_name": "2023-04-08_17-28-25_UTC.jpg",
+    "combined_text": "CHI CHI CHI...\nTELUGU MEMES GURU\nIDHI EL-CLASICO NA ??",
+    "detailed": [
+        {
+            "text": "CHI CHI CHI...",
+            "confidence": 0.944,
+            "box": [
+                [
+                    226.0,
+                    582.0
+                ],
+                [
+                    778.0,
+                    591.0
+                ],
+                [
+                    777.0,
+                    668.0
+                ],
+                [
+                    225.0,
+                    659.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.903,
+            "box": [
+                [
+                    886.0,
+                    873.0
+                ],
+                [
+                    1021.0,
+                    875.0
+                ],
+                [
+                    1021.0,
+                    897.0
+                ],
+                [
+                    886.0,
+                    896.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHI EL-CLASICO NA ??",
+            "confidence": 0.942,
+            "box": [
+                [
+                    132.0,
+                    1254.0
+                ],
+                [
+                    942.0,
+                    1253.0
+                ],
+                [
+                    942.0,
+                    1312.0
+                ],
+                [
+                    132.0,
+                    1313.0
+                ]
+            ]
+        }
+    ]
+}

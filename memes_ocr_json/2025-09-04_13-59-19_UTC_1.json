@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-04_13-59-19_UTC_1.jpg",
+    "combined_text": "Rohit Shetty has just dropped the\nbiggest mystery of 2025\nSWIPE<<",
+    "detailed": [
+        {
+            "text": "Rohit Shetty has just dropped the",
+            "confidence": 0.999,
+            "box": [
+                [
+                    187.0,
+                    77.0
+                ],
+                [
+                    873.0,
+                    76.0
+                ],
+                [
+                    873.0,
+                    121.0
+                ],
+                [
+                    187.0,
+                    122.0
+                ]
+            ]
+        },
+        {
+            "text": "biggest mystery of 2025",
+            "confidence": 0.986,
+            "box": [
+                [
+                    285.0,
+                    146.0
+                ],
+                [
+                    776.0,
+                    143.0
+                ],
+                [
+                    776.0,
+                    191.0
+                ],
+                [
+                    286.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE<<",
+            "confidence": 0.931,
+            "box": [
+                [
+                    889.0,
+                    295.0
+                ],
+                [
+                    1031.0,
+                    295.0
+                ],
+                [
+                    1031.0,
+                    328.0
+                ],
+                [
+                    889.0,
+                    328.0
+                ]
+            ]
+        }
+    ]
+}

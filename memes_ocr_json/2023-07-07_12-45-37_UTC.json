@@ -1,0 +1,72 @@
+{
+    "image_name": "2023-07-07_12-45-37_UTC.jpg",
+    "combined_text": "insidious:The Red Door2023\nHorror Ki Definition Laaga\nTeesarentra Movie Ni",
+    "detailed": [
+        {
+            "text": "insidious:The Red Door2023",
+            "confidence": 0.954,
+            "box": [
+                [
+                    1.0,
+                    15.0
+                ],
+                [
+                    408.0,
+                    15.0
+                ],
+                [
+                    408.0,
+                    45.0
+                ],
+                [
+                    1.0,
+                    45.0
+                ]
+            ]
+        },
+        {
+            "text": "Horror Ki Definition Laaga",
+            "confidence": 0.99,
+            "box": [
+                [
+                    171.0,
+                    959.0
+                ],
+                [
+                    890.0,
+                    965.0
+                ],
+                [
+                    890.0,
+                    1017.0
+                ],
+                [
+                    171.0,
+                    1011.0
+                ]
+            ]
+        },
+        {
+            "text": "Teesarentra Movie Ni",
+            "confidence": 0.991,
+            "box": [
+                [
+                    241.0,
+                    1024.0
+                ],
+                [
+                    807.0,
+                    1024.0
+                ],
+                [
+                    807.0,
+                    1074.0
+                ],
+                [
+                    241.0,
+                    1074.0
+                ]
+            ]
+        }
+    ]
+}

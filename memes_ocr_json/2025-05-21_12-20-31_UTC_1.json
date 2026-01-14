@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-05-21_12-20-31_UTC_1.jpg",
+    "combined_text": "Full-On Mass, Zero Chill. Action Definition Ee\nTeaser Change Chesindhi! War 2 Aithe Gattiga.\nKalipinchindi.\nSwipe",
+    "detailed": [
+        {
+            "text": "Full-On Mass, Zero Chill. Action Definition Ee",
+            "confidence": 0.958,
+            "box": [
+                [
+                    58.0,
+                    1058.0
+                ],
+                [
+                    1022.0,
+                    1058.0
+                ],
+                [
+                    1022.0,
+                    1100.0
+                ],
+                [
+                    58.0,
+                    1100.0
+                ]
+            ]
+        },
+        {
+            "text": "Teaser Change Chesindhi! War 2 Aithe Gattiga.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    45.0,
+                    1125.0
+                ],
+                [
+                    1035.0,
+                    1130.0
+                ],
+                [
+                    1035.0,
+                    1180.0
+                ],
+                [
+                    45.0,
+                    1176.0
+                ]
+            ]
+        },
+        {
+            "text": "Kalipinchindi.",
+            "confidence": 0.926,
+            "box": [
+                [
+                    330.0,
+                    1203.0
+                ],
+                [
+                    620.0,
+                    1203.0
+                ],
+                [
+                    620.0,
+                    1251.0
+                ],
+                [
+                    330.0,
+                    1251.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe",
+            "confidence": 0.994,
+            "box": [
+                [
+                    833.0,
+                    1267.0
+                ],
+                [
+                    964.0,
+                    1271.0
+                ],
+                [
+                    962.0,
+                    1320.0
+                ],
+                [
+                    832.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

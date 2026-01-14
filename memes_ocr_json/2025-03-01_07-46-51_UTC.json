@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-01_07-46-51_UTC.jpg",
+    "combined_text": "ACTRESSANSHU RETURNS!THE\n\"MANMADHUDU\"FAME ACTRESS MAKES A\nGRACEFUL COMEBACK IN \"MAZAKA\",ADDING\nCHARM AND DEPTH TO THE NARRATIVE.\nADDICTEDTOMEMES\nSHEISBACK",
+    "detailed": [
+        {
+            "text": "ACTRESSANSHU RETURNS!THE",
+            "confidence": 0.97,
+            "box": [
+                [
+                    156.0,
+                    32.0
+                ],
+                [
+                    865.0,
+                    32.0
+                ],
+                [
+                    865.0,
+                    74.0
+                ],
+                [
+                    156.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "\"MANMADHUDU\"FAME ACTRESS MAKES A",
+            "confidence": 0.957,
+            "box": [
+                [
+                    124.0,
+                    84.0
+                ],
+                [
+                    976.0,
+                    84.0
+                ],
+                [
+                    976.0,
+                    121.0
+                ],
+                [
+                    124.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "GRACEFUL COMEBACK IN \"MAZAKA\",ADDING",
+            "confidence": 0.955,
+            "box": [
+                [
+                    89.0,
+                    132.0
+                ],
+                [
+                    1008.0,
+                    132.0
+                ],
+                [
+                    1008.0,
+                    170.0
+                ],
+                [
+                    89.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "CHARM AND DEPTH TO THE NARRATIVE.",
+            "confidence": 0.938,
+            "box": [
+                [
+                    148.0,
+                    183.0
+                ],
+                [
+                    951.0,
+                    183.0
+                ],
+                [
+                    951.0,
+                    220.0
+                ],
+                [
+                    148.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    14.0,
+                    1062.0
+                ],
+                [
+                    173.0,
+                    1062.0
+                ],
+                [
+                    173.0,
+                    1083.0
+                ],
+                [
+                    14.0,
+                    1083.0
+                ]
+            ]
+        },
+        {
+            "text": "SHEISBACK",
+            "confidence": 0.994,
+            "box": [
+                [
+                    60.0,
+                    1260.0
+                ],
+                [
+                    482.0,
+                    1260.0
+                ],
+                [
+                    482.0,
+                    1324.0
+                ],
+                [
+                    60.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-10-31_11-18-08_UTC.jpg",
+    "combined_text": "TELUSA NEE KOSAME LYRICAL VIDEO SONG\nFROM \"SANTHANA PRAPTHIRASTHU\"\nMOVIE RELEASING ON NOV 14TH\nC\n68\n-\nvendi Vennela\nADDICTED TOMEMES\nGeeth\nFUTURE LO NENU KUDA NA WIFE THONE ILA RE\nCREATE CHESTHUNTE AH OOHA ENTHA BAGUNDO",
+    "detailed": [
+        {
+            "text": "TELUSA NEE KOSAME LYRICAL VIDEO SONG",
+            "confidence": 0.946,
+            "box": [
+                [
+                    61.0,
+                    42.0
+                ],
+                [
+                    1049.0,
+                    42.0
+                ],
+                [
+                    1049.0,
+                    79.0
+                ],
+                [
+                    61.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM \"SANTHANA PRAPTHIRASTHU\"",
+            "confidence": 0.963,
+            "box": [
+                [
+                    130.0,
+                    95.0
+                ],
+                [
+                    975.0,
+                    93.0
+                ],
+                [
+                    975.0,
+                    134.0
+                ],
+                [
+                    130.0,
+                    136.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON NOV 14TH",
+            "confidence": 0.973,
+            "box": [
+                [
+                    181.0,
+                    150.0
+                ],
+                [
+                    927.0,
+                    150.0
+                ],
+                [
+                    927.0,
+                    191.0
+                ],
+                [
+                    181.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "C",
+            "confidence": 0.724,
+            "box": [
+                [
+                    429.0,
+                    290.0
+                ],
+                [
+                    486.0,
+                    290.0
+                ],
+                [
+                    486.0,
+                    366.0
+                ],
+                [
+                    429.0,
+                    366.0
+                ]
+            ]
+        },
+        {
+            "text": "68",
+            "confidence": 0.52,
+            "box": [
+                [
+                    436.0,
+                    351.0
+                ],
+                [
+                    487.0,
+                    354.0
+                ],
+                [
+                    482.0,
+                    431.0
+                ],
+                [
+                    431.0,
+                    427.0
+                ]
+            ]
+        },
+        {
+            "text": "-",
+            "confidence": 0.662,
+            "box": [
+                [
+                    450.0,
+                    350.0
+                ],
+                [
+                    468.0,
+                    350.0
+                ],
+                [
+                    468.0,
+                    359.0
+                ],
+                [
+                    450.0,
+                    359.0
+                ]
+            ]
+        },
+        {
+            "text": "vendi Vennela",
+            "confidence": 0.959,
+            "box": [
+                [
+                    694.0,
+                    763.0
+                ],
+                [
+                    919.0,
+                    763.0
+                ],
+                [
+                    919.0,
+                    796.0
+                ],
+                [
+                    694.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTED TOMEMES",
+            "confidence": 0.966,
+            "box": [
+                [
+                    881.0,
+                    1022.0
+                ],
+                [
+                    1027.0,
+                    1020.0
+                ],
+                [
+                    1027.0,
+                    1045.0
+                ],
+                [
+                    882.0,
+                    1046.0
+                ]
+            ]
+        },
+        {
+            "text": "Geeth",
+            "confidence": 0.946,
+            "box": [
+                [
+                    995.0,
+                    1052.0
+                ],
+                [
+                    1079.0,
+                    1052.0
+                ],
+                [
+                    1079.0,
+                    1087.0
+                ],
+                [
+                    995.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "FUTURE LO NENU KUDA NA WIFE THONE ILA RE",
+            "confidence": 0.918,
+            "box": [
+                [
+                    131.0,
+                    1205.0
+                ],
+                [
+                    991.0,
+                    1205.0
+                ],
+                [
+                    991.0,
+                    1241.0
+                ],
+                [
+                    131.0,
+                    1241.0
+                ]
+            ]
+        },
+        {
+            "text": "CREATE CHESTHUNTE AH OOHA ENTHA BAGUNDO",
+            "confidence": 0.936,
+            "box": [
+                [
+                    92.0,
+                    1252.0
+                ],
+                [
+                    1019.0,
+                    1252.0
+                ],
+                [
+                    1019.0,
+                    1289.0
+                ],
+                [
+                    92.0,
+                    1289.0
+                ]
+            ]
+        }
+    ]
+}

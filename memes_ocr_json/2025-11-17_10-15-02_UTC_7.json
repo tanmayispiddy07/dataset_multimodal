@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-17_10-15-02_UTC_7.jpg",
+    "combined_text": "VAALLA AMMA NANNA LA\nBAADHA THEERCHALENIDHI\nCOLLEGE MOTTHAM SRUJAN\nKOSAM STAND THEESKUNNARU",
+    "detailed": [
+        {
+            "text": "VAALLA AMMA NANNA LA",
+            "confidence": 0.934,
+            "box": [
+                [
+                    233.0,
+                    551.0
+                ],
+                [
+                    882.0,
+                    551.0
+                ],
+                [
+                    882.0,
+                    602.0
+                ],
+                [
+                    233.0,
+                    602.0
+                ]
+            ]
+        },
+        {
+            "text": "BAADHA THEERCHALENIDHI",
+            "confidence": 0.98,
+            "box": [
+                [
+                    207.0,
+                    615.0
+                ],
+                [
+                    907.0,
+                    615.0
+                ],
+                [
+                    907.0,
+                    661.0
+                ],
+                [
+                    207.0,
+                    661.0
+                ]
+            ]
+        },
+        {
+            "text": "COLLEGE MOTTHAM SRUJAN",
+            "confidence": 0.963,
+            "box": [
+                [
+                    160.0,
+                    1207.0
+                ],
+                [
+                    903.0,
+                    1207.0
+                ],
+                [
+                    903.0,
+                    1257.0
+                ],
+                [
+                    160.0,
+                    1257.0
+                ]
+            ]
+        },
+        {
+            "text": "KOSAM STAND THEESKUNNARU",
+            "confidence": 0.986,
+            "box": [
+                [
+                    118.0,
+                    1271.0
+                ],
+                [
+                    946.0,
+                    1271.0
+                ],
+                [
+                    946.0,
+                    1322.0
+                ],
+                [
+                    118.0,
+                    1322.0
+                ]
+            ]
+        }
+    ]
+}

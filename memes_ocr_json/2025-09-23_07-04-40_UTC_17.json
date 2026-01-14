@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-09-23_07-04-40_UTC_17.jpg",
+    "combined_text": "Janty0\n@CFC_Janty\nCole Palmer becomes the first player to finish in the\nBallon d'Or top 10 without Champions League football.\nsince Neymar\nSEARA\nSEARA\nNETSHUE",
+    "detailed": [
+        {
+            "text": "Janty0",
+            "confidence": 0.878,
+            "box": [
+                [
+                    208.0,
+                    277.0
+                ],
+                [
+                    323.0,
+                    277.0
+                ],
+                [
+                    323.0,
+                    314.0
+                ],
+                [
+                    208.0,
+                    314.0
+                ]
+            ]
+        },
+        {
+            "text": "@CFC_Janty",
+            "confidence": 0.979,
+            "box": [
+                [
+                    210.0,
+                    310.0
+                ],
+                [
+                    381.0,
+                    315.0
+                ],
+                [
+                    380.0,
+                    352.0
+                ],
+                [
+                    209.0,
+                    347.0
+                ]
+            ]
+        },
+        {
+            "text": "Cole Palmer becomes the first player to finish in the",
+            "confidence": 0.951,
+            "box": [
+                [
+                    79.0,
+                    395.0
+                ],
+                [
+                    955.0,
+                    397.0
+                ],
+                [
+                    955.0,
+                    432.0
+                ],
+                [
+                    79.0,
+                    430.0
+                ]
+            ]
+        },
+        {
+            "text": "Ballon d'Or top 10 without Champions League football.",
+            "confidence": 0.961,
+            "box": [
+                [
+                    76.0,
+                    444.0
+                ],
+                [
+                    1004.0,
+                    443.0
+                ],
+                [
+                    1004.0,
+                    482.0
+                ],
+                [
+                    76.0,
+                    484.0
+                ]
+            ]
+        },
+        {
+            "text": "since Neymar",
+            "confidence": 0.981,
+            "box": [
+                [
+                    76.0,
+                    493.0
+                ],
+                [
+                    315.0,
+                    497.0
+                ],
+                [
+                    315.0,
+                    533.0
+                ],
+                [
+                    76.0,
+                    530.0
+                ]
+            ]
+        },
+        {
+            "text": "SEARA",
+            "confidence": 0.997,
+            "box": [
+                [
+                    640.0,
+                    896.0
+                ],
+                [
+                    700.0,
+                    896.0
+                ],
+                [
+                    700.0,
+                    918.0
+                ],
+                [
+                    640.0,
+                    918.0
+                ]
+            ]
+        },
+        {
+            "text": "SEARA",
+            "confidence": 0.92,
+            "box": [
+                [
+                    735.0,
+                    895.0
+                ],
+                [
+                    795.0,
+                    891.0
+                ],
+                [
+                    796.0,
+                    915.0
+                ],
+                [
+                    736.0,
+                    919.0
+                ]
+            ]
+        },
+        {
+            "text": "NETSHUE",
+            "confidence": 0.912,
+            "box": [
+                [
+                    812.0,
+                    908.0
+                ],
+                [
+                    845.0,
+                    892.0
+                ],
+                [
+                    898.0,
+                    999.0
+                ],
+                [
+                    865.0,
+                    1015.0
+                ]
+            ]
+        }
+    ]
+}

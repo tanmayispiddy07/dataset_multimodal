@@ -1,0 +1,94 @@
+{
+    "image_name": "2026-01-12_14-49-57_UTC.jpg",
+    "combined_text": "ME WHO IS GOING TO GODAVARI\nFOR THIS SANKRANTHI\nWILL RECREATE THIS SCENE\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "ME WHO IS GOING TO GODAVARI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    87.0,
+                    38.0
+                ],
+                [
+                    1055.0,
+                    35.0
+                ],
+                [
+                    1055.0,
+                    91.0
+                ],
+                [
+                    87.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR THIS SANKRANTHI",
+            "confidence": 0.971,
+            "box": [
+                [
+                    233.0,
+                    110.0
+                ],
+                [
+                    894.0,
+                    110.0
+                ],
+                [
+                    894.0,
+                    160.0
+                ],
+                [
+                    233.0,
+                    160.0
+                ]
+            ]
+        },
+        {
+            "text": "WILL RECREATE THIS SCENE",
+            "confidence": 0.989,
+            "box": [
+                [
+                    150.0,
+                    202.0
+                ],
+                [
+                    997.0,
+                    202.0
+                ],
+                [
+                    997.0,
+                    252.0
+                ],
+                [
+                    150.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    865.0,
+                    443.0
+                ],
+                [
+                    1007.0,
+                    443.0
+                ],
+                [
+                    1007.0,
+                    464.0
+                ],
+                [
+                    865.0,
+                    464.0
+                ]
+            ]
+        }
+    ]
+}

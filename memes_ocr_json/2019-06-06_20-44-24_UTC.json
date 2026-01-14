@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-06-06_20-44-24_UTC.jpg",
+    "combined_text": "When your mom randomly enters\nyour room at night and you only\nhave a second to think of a\nsleeping position\ntanishg",
+    "detailed": [
+        {
+            "text": "When your mom randomly enters",
+            "confidence": 0.962,
+            "box": [
+                [
+                    35.0,
+                    3.0
+                ],
+                [
+                    1031.0,
+                    7.0
+                ],
+                [
+                    1030.0,
+                    64.0
+                ],
+                [
+                    35.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "your room at night and you only",
+            "confidence": 0.989,
+            "box": [
+                [
+                    21.0,
+                    73.0
+                ],
+                [
+                    982.0,
+                    71.0
+                ],
+                [
+                    982.0,
+                    149.0
+                ],
+                [
+                    22.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "have a second to think of a",
+            "confidence": 0.947,
+            "box": [
+                [
+                    28.0,
+                    155.0
+                ],
+                [
+                    842.0,
+                    158.0
+                ],
+                [
+                    841.0,
+                    219.0
+                ],
+                [
+                    28.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "sleeping position",
+            "confidence": 0.994,
+            "box": [
+                [
+                    29.0,
+                    232.0
+                ],
+                [
+                    550.0,
+                    234.0
+                ],
+                [
+                    550.0,
+                    306.0
+                ],
+                [
+                    29.0,
+                    304.0
+                ]
+            ]
+        },
+        {
+            "text": "tanishg",
+            "confidence": 0.937,
+            "box": [
+                [
+                    878.0,
+                    956.0
+                ],
+                [
+                    957.0,
+                    959.0
+                ],
+                [
+                    956.0,
+                    983.0
+                ],
+                [
+                    877.0,
+                    980.0
+                ]
+            ]
+        }
+    ]
+}

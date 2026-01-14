@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-24_03-34-58_UTC.jpg",
+    "combined_text": "WEEKEND SUGGESTION (WEBSERIES)\nKHAUF (TELUGU & HINDI ) AVAILABLE IN PRIME\nTOTAL 8 EPISODES BEST HORROR FEELS\nFAMILY WATCH ?! NO\nONE OF THE BEST IN HORROR GENRE\nDOICTEDTOMEMES\nNIGHT TIME CHUSA RA AHSOUND\nEFFECTS KI VANIKIPOYINDI RA MAWA",
+    "detailed": [
+        {
+            "text": "WEEKEND SUGGESTION (WEBSERIES)",
+            "confidence": 0.975,
+            "box": [
+                [
+                    135.0,
+                    19.0
+                ],
+                [
+                    960.0,
+                    21.0
+                ],
+                [
+                    960.0,
+                    59.0
+                ],
+                [
+                    135.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "KHAUF (TELUGU & HINDI ) AVAILABLE IN PRIME",
+            "confidence": 0.973,
+            "box": [
+                [
+                    13.0,
+                    75.0
+                ],
+                [
+                    1072.0,
+                    75.0
+                ],
+                [
+                    1072.0,
+                    117.0
+                ],
+                [
+                    13.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "TOTAL 8 EPISODES BEST HORROR FEELS",
+            "confidence": 0.955,
+            "box": [
+                [
+                    91.0,
+                    130.0
+                ],
+                [
+                    993.0,
+                    130.0
+                ],
+                [
+                    993.0,
+                    171.0
+                ],
+                [
+                    91.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH ?! NO",
+            "confidence": 0.932,
+            "box": [
+                [
+                    311.0,
+                    185.0
+                ],
+                [
+                    785.0,
+                    185.0
+                ],
+                [
+                    785.0,
+                    227.0
+                ],
+                [
+                    311.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "ONE OF THE BEST IN HORROR GENRE",
+            "confidence": 0.937,
+            "box": [
+                [
+                    72.0,
+                    262.0
+                ],
+                [
+                    1035.0,
+                    262.0
+                ],
+                [
+                    1035.0,
+                    308.0
+                ],
+                [
+                    72.0,
+                    308.0
+                ]
+            ]
+        },
+        {
+            "text": "DOICTEDTOMEMES",
+            "confidence": 0.954,
+            "box": [
+                [
+                    907.0,
+                    900.0
+                ],
+                [
+                    1039.0,
+                    900.0
+                ],
+                [
+                    1039.0,
+                    917.0
+                ],
+                [
+                    907.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "NIGHT TIME CHUSA RA AHSOUND",
+            "confidence": 0.93,
+            "box": [
+                [
+                    118.0,
+                    1218.0
+                ],
+                [
+                    949.0,
+                    1218.0
+                ],
+                [
+                    949.0,
+                    1260.0
+                ],
+                [
+                    118.0,
+                    1260.0
+                ]
+            ]
+        },
+        {
+            "text": "EFFECTS KI VANIKIPOYINDI RA MAWA",
+            "confidence": 0.944,
+            "box": [
+                [
+                    84.0,
+                    1277.0
+                ],
+                [
+                    982.0,
+                    1278.0
+                ],
+                [
+                    982.0,
+                    1321.0
+                ],
+                [
+                    84.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

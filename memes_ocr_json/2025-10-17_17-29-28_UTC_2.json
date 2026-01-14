@@ -1,0 +1,402 @@
+{
+    "image_name": "2025-10-17_17-29-28_UTC_2.jpg",
+    "combined_text": "Post\nMaddockfilms\nFollow\n@MaddockFilms\nReady to step intoTheWorld of THAMMA\non21stOctober?\nReply to this post with one word or\nsentence to get a THAMMAkedaarsurprise.\nDon't forget to use the hashtag shown\nbelow!\natdeektasSatec\nReply so this post with Than\nfor a Thamma-kedaas surprise.\nIHAMPA\nTH\n0:00\nBOOK YOUR TICKETSNOW\nThamma's thammaka onX0",
+    "detailed": [
+        {
+            "text": "Post",
+            "confidence": 0.999,
+            "box": [
+                [
+                    192.0,
+                    26.0
+                ],
+                [
+                    253.0,
+                    29.0
+                ],
+                [
+                    252.0,
+                    57.0
+                ],
+                [
+                    191.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "Maddockfilms",
+            "confidence": 0.997,
+            "box": [
+                [
+                    184.0,
+                    90.0
+                ],
+                [
+                    323.0,
+                    90.0
+                ],
+                [
+                    323.0,
+                    109.0
+                ],
+                [
+                    184.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "Follow",
+            "confidence": 0.987,
+            "box": [
+                [
+                    484.0,
+                    96.0
+                ],
+                [
+                    542.0,
+                    99.0
+                ],
+                [
+                    541.0,
+                    120.0
+                ],
+                [
+                    483.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "@MaddockFilms",
+            "confidence": 0.989,
+            "box": [
+                [
+                    184.0,
+                    114.0
+                ],
+                [
+                    338.0,
+                    114.0
+                ],
+                [
+                    338.0,
+                    133.0
+                ],
+                [
+                    184.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "Ready to step intoTheWorld of THAMMA",
+            "confidence": 0.941,
+            "box": [
+                [
+                    121.0,
+                    154.0
+                ],
+                [
+                    571.0,
+                    154.0
+                ],
+                [
+                    571.0,
+                    176.0
+                ],
+                [
+                    121.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "on21stOctober?",
+            "confidence": 0.956,
+            "box": [
+                [
+                    121.0,
+                    183.0
+                ],
+                [
+                    334.0,
+                    183.0
+                ],
+                [
+                    334.0,
+                    205.0
+                ],
+                [
+                    121.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "Reply to this post with one word or",
+            "confidence": 0.937,
+            "box": [
+                [
+                    121.0,
+                    216.0
+                ],
+                [
+                    495.0,
+                    216.0
+                ],
+                [
+                    495.0,
+                    238.0
+                ],
+                [
+                    121.0,
+                    238.0
+                ]
+            ]
+        },
+        {
+            "text": "sentence to get a THAMMAkedaarsurprise.",
+            "confidence": 0.965,
+            "box": [
+                [
+                    118.0,
+                    245.0
+                ],
+                [
+                    589.0,
+                    244.0
+                ],
+                [
+                    589.0,
+                    269.0
+                ],
+                [
+                    118.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "Don't forget to use the hashtag shown",
+            "confidence": 0.951,
+            "box": [
+                [
+                    119.0,
+                    274.0
+                ],
+                [
+                    535.0,
+                    276.0
+                ],
+                [
+                    535.0,
+                    301.0
+                ],
+                [
+                    119.0,
+                    299.0
+                ]
+            ]
+        },
+        {
+            "text": "below!",
+            "confidence": 0.984,
+            "box": [
+                [
+                    119.0,
+                    304.0
+                ],
+                [
+                    195.0,
+                    304.0
+                ],
+                [
+                    195.0,
+                    330.0
+                ],
+                [
+                    119.0,
+                    330.0
+                ]
+            ]
+        },
+        {
+            "text": "atdeektasSatec",
+            "confidence": 0.529,
+            "box": [
+                [
+                    257.0,
+                    416.0
+                ],
+                [
+                    428.0,
+                    417.0
+                ],
+                [
+                    427.0,
+                    430.0
+                ],
+                [
+                    257.0,
+                    429.0
+                ]
+            ]
+        },
+        {
+            "text": "Reply so this post with Than",
+            "confidence": 0.844,
+            "box": [
+                [
+                    253.0,
+                    434.0
+                ],
+                [
+                    464.0,
+                    434.0
+                ],
+                [
+                    464.0,
+                    450.0
+                ],
+                [
+                    253.0,
+                    450.0
+                ]
+            ]
+        },
+        {
+            "text": "for a Thamma-kedaas surprise.",
+            "confidence": 0.89,
+            "box": [
+                [
+                    249.0,
+                    449.0
+                ],
+                [
+                    449.0,
+                    451.0
+                ],
+                [
+                    449.0,
+                    467.0
+                ],
+                [
+                    248.0,
+                    465.0
+                ]
+            ]
+        },
+        {
+            "text": "IHAMPA",
+            "confidence": 0.805,
+            "box": [
+                [
+                    265.0,
+                    711.0
+                ],
+                [
+                    475.0,
+                    711.0
+                ],
+                [
+                    475.0,
+                    789.0
+                ],
+                [
+                    265.0,
+                    789.0
+                ]
+            ]
+        },
+        {
+            "text": "TH",
+            "confidence": 0.627,
+            "box": [
+                [
+                    277.0,
+                    784.0
+                ],
+                [
+                    436.0,
+                    786.0
+                ],
+                [
+                    436.0,
+                    802.0
+                ],
+                [
+                    277.0,
+                    801.0
+                ]
+            ]
+        },
+        {
+            "text": "0:00",
+            "confidence": 0.942,
+            "box": [
+                [
+                    134.0,
+                    805.0
+                ],
+                [
+                    174.0,
+                    805.0
+                ],
+                [
+                    174.0,
+                    820.0
+                ],
+                [
+                    134.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOK YOUR TICKETSNOW",
+            "confidence": 0.915,
+            "box": [
+                [
+                    259.0,
+                    801.0
+                ],
+                [
+                    459.0,
+                    801.0
+                ],
+                [
+                    459.0,
+                    817.0
+                ],
+                [
+                    259.0,
+                    817.0
+                ]
+            ]
+        },
+        {
+            "text": "Thamma's thammaka onX0",
+            "confidence": 0.929,
+            "box": [
+                [
+                    99.0,
+                    850.0
+                ],
+                [
+                    568.0,
+                    849.0
+                ],
+                [
+                    568.0,
+                    881.0
+                ],
+                [
+                    99.0,
+                    882.0
+                ]
+            ]
+        }
+    ]
+}

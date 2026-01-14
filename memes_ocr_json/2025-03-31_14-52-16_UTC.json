@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-03-31_14-52-16_UTC.jpg",
+    "combined_text": "VINTAGE MI IS BACK\n4 WICKETS IN POWERPLAY\n**MIFANS\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "VINTAGE MI IS BACK",
+            "confidence": 0.976,
+            "box": [
+                [
+                    177.0,
+                    145.0
+                ],
+                [
+                    912.0,
+                    145.0
+                ],
+                [
+                    912.0,
+                    204.0
+                ],
+                [
+                    177.0,
+                    204.0
+                ]
+            ]
+        },
+        {
+            "text": "4 WICKETS IN POWERPLAY",
+            "confidence": 0.971,
+            "box": [
+                [
+                    56.0,
+                    236.0
+                ],
+                [
+                    1006.0,
+                    237.0
+                ],
+                [
+                    1006.0,
+                    292.0
+                ],
+                [
+                    56.0,
+                    291.0
+                ]
+            ]
+        },
+        {
+            "text": "**MIFANS",
+            "confidence": 0.989,
+            "box": [
+                [
+                    663.0,
+                    436.0
+                ],
+                [
+                    977.0,
+                    445.0
+                ],
+                [
+                    975.0,
+                    508.0
+                ],
+                [
+                    661.0,
+                    499.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    36.0,
+                    628.0
+                ],
+                [
+                    205.0,
+                    628.0
+                ],
+                [
+                    205.0,
+                    648.0
+                ],
+                [
+                    36.0,
+                    648.0
+                ]
+            ]
+        }
+    ]
+}

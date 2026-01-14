@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-20_16-02-05_UTC_1.jpg",
+    "combined_text": "SWIPE\nARTBAT is bringing their full.\nAudioVisual show to India this\nDecember",
+    "detailed": [
+        {
+            "text": "SWIPE",
+            "confidence": 0.996,
+            "box": [
+                [
+                    913.0,
+                    46.0
+                ],
+                [
+                    1058.0,
+                    46.0
+                ],
+                [
+                    1058.0,
+                    89.0
+                ],
+                [
+                    913.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "ARTBAT is bringing their full.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    98.0,
+                    1046.0
+                ],
+                [
+                    979.0,
+                    1045.0
+                ],
+                [
+                    979.0,
+                    1112.0
+                ],
+                [
+                    99.0,
+                    1114.0
+                ]
+            ]
+        },
+        {
+            "text": "AudioVisual show to India this",
+            "confidence": 0.988,
+            "box": [
+                [
+                    69.0,
+                    1148.0
+                ],
+                [
+                    1011.0,
+                    1148.0
+                ],
+                [
+                    1011.0,
+                    1201.0
+                ],
+                [
+                    69.0,
+                    1201.0
+                ]
+            ]
+        },
+        {
+            "text": "December",
+            "confidence": 0.998,
+            "box": [
+                [
+                    299.0,
+                    1240.0
+                ],
+                [
+                    632.0,
+                    1245.0
+                ],
+                [
+                    631.0,
+                    1304.0
+                ],
+                [
+                    298.0,
+                    1299.0
+                ]
+            ]
+        }
+    ]
+}

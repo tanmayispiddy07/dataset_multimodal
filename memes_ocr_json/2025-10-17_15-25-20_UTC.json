@@ -1,0 +1,402 @@
+{
+    "image_name": "2025-10-17_15-25-20_UTC.jpg",
+    "combined_text": "MANCHU LAKSHMI'S GRIPPING\nTHRILLER \"DAKSHA\"MOVIE IS NOW\nSTREAMING ON PRIME VIDEO WITH THE\nRUN TIME OF 99 MINS\nSREELA\nPRASANE\nMANCHU\nSTREAMING N\namazon\nprimevide\nSTREAMING NOW\namazon\nMANLHLAKSHMEPR\nprime video\nADDICTEDTOMEMES\nWEEKENDKI BREAK IVVADANIKI\nREADYGAUNNAMU\nindicom",
+    "detailed": [
+        {
+            "text": "MANCHU LAKSHMI'S GRIPPING",
+            "confidence": 0.961,
+            "box": [
+                [
+                    186.0,
+                    35.0
+                ],
+                [
+                    909.0,
+                    35.0
+                ],
+                [
+                    909.0,
+                    72.0
+                ],
+                [
+                    186.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "THRILLER \"DAKSHA\"MOVIE IS NOW",
+            "confidence": 0.963,
+            "box": [
+                [
+                    139.0,
+                    93.0
+                ],
+                [
+                    958.0,
+                    93.0
+                ],
+                [
+                    958.0,
+                    129.0
+                ],
+                [
+                    139.0,
+                    129.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMING ON PRIME VIDEO WITH THE",
+            "confidence": 0.941,
+            "box": [
+                [
+                    85.0,
+                    147.0
+                ],
+                [
+                    1011.0,
+                    147.0
+                ],
+                [
+                    1011.0,
+                    192.0
+                ],
+                [
+                    85.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "RUN TIME OF 99 MINS",
+            "confidence": 0.926,
+            "box": [
+                [
+                    297.0,
+                    206.0
+                ],
+                [
+                    799.0,
+                    206.0
+                ],
+                [
+                    799.0,
+                    246.0
+                ],
+                [
+                    297.0,
+                    246.0
+                ]
+            ]
+        },
+        {
+            "text": "SREELA",
+            "confidence": 0.751,
+            "box": [
+                [
+                    568.0,
+                    324.0
+                ],
+                [
+                    610.0,
+                    324.0
+                ],
+                [
+                    610.0,
+                    336.0
+                ],
+                [
+                    568.0,
+                    336.0
+                ]
+            ]
+        },
+        {
+            "text": "PRASANE",
+            "confidence": 0.837,
+            "box": [
+                [
+                    612.0,
+                    324.0
+                ],
+                [
+                    649.0,
+                    324.0
+                ],
+                [
+                    649.0,
+                    336.0
+                ],
+                [
+                    612.0,
+                    336.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHU",
+            "confidence": 0.993,
+            "box": [
+                [
+                    583.0,
+                    342.0
+                ],
+                [
+                    636.0,
+                    342.0
+                ],
+                [
+                    636.0,
+                    359.0
+                ],
+                [
+                    583.0,
+                    359.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMING N",
+            "confidence": 0.961,
+            "box": [
+                [
+                    945.0,
+                    645.0
+                ],
+                [
+                    1079.0,
+                    645.0
+                ],
+                [
+                    1079.0,
+                    670.0
+                ],
+                [
+                    945.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "text": "amazon",
+            "confidence": 0.997,
+            "box": [
+                [
+                    994.0,
+                    667.0
+                ],
+                [
+                    1058.0,
+                    667.0
+                ],
+                [
+                    1058.0,
+                    685.0
+                ],
+                [
+                    994.0,
+                    685.0
+                ]
+            ]
+        },
+        {
+            "text": "primevide",
+            "confidence": 0.997,
+            "box": [
+                [
+                    958.0,
+                    682.0
+                ],
+                [
+                    1079.0,
+                    682.0
+                ],
+                [
+                    1079.0,
+                    708.0
+                ],
+                [
+                    958.0,
+                    708.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMING NOW",
+            "confidence": 0.974,
+            "box": [
+                [
+                    42.0,
+                    762.0
+                ],
+                [
+                    221.0,
+                    762.0
+                ],
+                [
+                    221.0,
+                    787.0
+                ],
+                [
+                    42.0,
+                    787.0
+                ]
+            ]
+        },
+        {
+            "text": "amazon",
+            "confidence": 0.998,
+            "box": [
+                [
+                    97.0,
+                    787.0
+                ],
+                [
+                    166.0,
+                    787.0
+                ],
+                [
+                    166.0,
+                    805.0
+                ],
+                [
+                    97.0,
+                    805.0
+                ]
+            ]
+        },
+        {
+            "text": "MANLHLAKSHMEPR",
+            "confidence": 0.787,
+            "box": [
+                [
+                    582.0,
+                    780.0
+                ],
+                [
+                    693.0,
+                    783.0
+                ],
+                [
+                    692.0,
+                    799.0
+                ],
+                [
+                    582.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "prime video",
+            "confidence": 0.945,
+            "box": [
+                [
+                    56.0,
+                    802.0
+                ],
+                [
+                    202.0,
+                    799.0
+                ],
+                [
+                    203.0,
+                    829.0
+                ],
+                [
+                    57.0,
+                    832.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    26.0,
+                    998.0
+                ],
+                [
+                    193.0,
+                    998.0
+                ],
+                [
+                    193.0,
+                    1018.0
+                ],
+                [
+                    26.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "WEEKENDKI BREAK IVVADANIKI",
+            "confidence": 0.969,
+            "box": [
+                [
+                    231.0,
+                    1187.0
+                ],
+                [
+                    1010.0,
+                    1187.0
+                ],
+                [
+                    1010.0,
+                    1228.0
+                ],
+                [
+                    231.0,
+                    1228.0
+                ]
+            ]
+        },
+        {
+            "text": "READYGAUNNAMU",
+            "confidence": 0.997,
+            "box": [
+                [
+                    367.0,
+                    1246.0
+                ],
+                [
+                    859.0,
+                    1246.0
+                ],
+                [
+                    859.0,
+                    1291.0
+                ],
+                [
+                    367.0,
+                    1291.0
+                ]
+            ]
+        },
+        {
+            "text": "indicom",
+            "confidence": 0.931,
+            "box": [
+                [
+                    896.0,
+                    1239.0
+                ],
+                [
+                    960.0,
+                    1239.0
+                ],
+                [
+                    960.0,
+                    1255.0
+                ],
+                [
+                    896.0,
+                    1255.0
+                ]
+            ]
+        }
+    ]
+}

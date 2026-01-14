@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-05-23_11-40-39_UTC.jpg",
+    "combined_text": "Allu Arjun\n@alluarjun\nWishing a very Happy Birthday to my\nguru ji @Ragavendraraoba garu!My first\ndirector.The man who launched me into\nfilms.Gratitude forever\nMy First Directon\nEKKESAVAYYA BUNNYOKA METTU\nEKKESAVNE FIRST DIRECTOR NI ALA\nGURTHUPETTUKUNNAVCHALA GREAT",
+    "detailed": [
+        {
+            "text": "Allu Arjun",
+            "confidence": 0.96,
+            "box": [
+                [
+                    368.0,
+                    298.0
+                ],
+                [
+                    506.0,
+                    298.0
+                ],
+                [
+                    506.0,
+                    325.0
+                ],
+                [
+                    368.0,
+                    325.0
+                ]
+            ]
+        },
+        {
+            "text": "@alluarjun",
+            "confidence": 0.922,
+            "box": [
+                [
+                    365.0,
+                    323.0
+                ],
+                [
+                    488.0,
+                    327.0
+                ],
+                [
+                    487.0,
+                    356.0
+                ],
+                [
+                    364.0,
+                    353.0
+                ]
+            ]
+        },
+        {
+            "text": "Wishing a very Happy Birthday to my",
+            "confidence": 0.991,
+            "box": [
+                [
+                    287.0,
+                    373.0
+                ],
+                [
+                    755.0,
+                    373.0
+                ],
+                [
+                    755.0,
+                    406.0
+                ],
+                [
+                    287.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "guru ji @Ragavendraraoba garu!My first",
+            "confidence": 0.974,
+            "box": [
+                [
+                    284.0,
+                    411.0
+                ],
+                [
+                    803.0,
+                    408.0
+                ],
+                [
+                    803.0,
+                    441.0
+                ],
+                [
+                    284.0,
+                    444.0
+                ]
+            ]
+        },
+        {
+            "text": "director.The man who launched me into",
+            "confidence": 0.989,
+            "box": [
+                [
+                    288.0,
+                    447.0
+                ],
+                [
+                    807.0,
+                    447.0
+                ],
+                [
+                    807.0,
+                    477.0
+                ],
+                [
+                    288.0,
+                    477.0
+                ]
+            ]
+        },
+        {
+            "text": "films.Gratitude forever",
+            "confidence": 0.978,
+            "box": [
+                [
+                    287.0,
+                    482.0
+                ],
+                [
+                    591.0,
+                    482.0
+                ],
+                [
+                    591.0,
+                    512.0
+                ],
+                [
+                    287.0,
+                    512.0
+                ]
+            ]
+        },
+        {
+            "text": "My First Directon",
+            "confidence": 0.897,
+            "box": [
+                [
+                    54.0,
+                    815.0
+                ],
+                [
+                    325.0,
+                    776.0
+                ],
+                [
+                    335.0,
+                    846.0
+                ],
+                [
+                    64.0,
+                    885.0
+                ]
+            ]
+        },
+        {
+            "text": "EKKESAVAYYA BUNNYOKA METTU",
+            "confidence": 0.96,
+            "box": [
+                [
+                    225.0,
+                    1197.0
+                ],
+                [
+                    914.0,
+                    1197.0
+                ],
+                [
+                    914.0,
+                    1235.0
+                ],
+                [
+                    225.0,
+                    1235.0
+                ]
+            ]
+        },
+        {
+            "text": "EKKESAVNE FIRST DIRECTOR NI ALA",
+            "confidence": 0.939,
+            "box": [
+                [
+                    195.0,
+                    1247.0
+                ],
+                [
+                    941.0,
+                    1247.0
+                ],
+                [
+                    941.0,
+                    1285.0
+                ],
+                [
+                    195.0,
+                    1285.0
+                ]
+            ]
+        },
+        {
+            "text": "GURTHUPETTUKUNNAVCHALA GREAT",
+            "confidence": 0.981,
+            "box": [
+                [
+                    179.0,
+                    1298.0
+                ],
+                [
+                    963.0,
+                    1298.0
+                ],
+                [
+                    963.0,
+                    1336.0
+                ],
+                [
+                    179.0,
+                    1336.0
+                ]
+            ]
+        }
+    ]
+}

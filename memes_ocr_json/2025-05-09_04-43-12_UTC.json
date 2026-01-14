@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-09_04-43-12_UTC.jpg",
+    "combined_text": "HAPPY BIRTHDAY MOST TALENTED &\nGORGEOUS SAI PALLAVI\nHER SCRIPT SELECTION>>>>\nADDICTEDTOMEMES\nIN EVERY LIFETIME\nIT'S YOU ALWAYS YOU..ONLY YOU",
+    "detailed": [
+        {
+            "text": "HAPPY BIRTHDAY MOST TALENTED &",
+            "confidence": 0.953,
+            "box": [
+                [
+                    84.0,
+                    33.0
+                ],
+                [
+                    1027.0,
+                    33.0
+                ],
+                [
+                    1027.0,
+                    79.0
+                ],
+                [
+                    84.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "GORGEOUS SAI PALLAVI",
+            "confidence": 0.963,
+            "box": [
+                [
+                    233.0,
+                    96.0
+                ],
+                [
+                    869.0,
+                    96.0
+                ],
+                [
+                    869.0,
+                    142.0
+                ],
+                [
+                    233.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "HER SCRIPT SELECTION>>>>",
+            "confidence": 0.997,
+            "box": [
+                [
+                    194.0,
+                    160.0
+                ],
+                [
+                    913.0,
+                    160.0
+                ],
+                [
+                    913.0,
+                    206.0
+                ],
+                [
+                    194.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.987,
+            "box": [
+                [
+                    567.0,
+                    369.0
+                ],
+                [
+                    703.0,
+                    369.0
+                ],
+                [
+                    703.0,
+                    390.0
+                ],
+                [
+                    567.0,
+                    390.0
+                ]
+            ]
+        },
+        {
+            "text": "IN EVERY LIFETIME",
+            "confidence": 0.992,
+            "box": [
+                [
+                    276.0,
+                    1146.0
+                ],
+                [
+                    807.0,
+                    1149.0
+                ],
+                [
+                    807.0,
+                    1196.0
+                ],
+                [
+                    276.0,
+                    1193.0
+                ]
+            ]
+        },
+        {
+            "text": "IT'S YOU ALWAYS YOU..ONLY YOU",
+            "confidence": 0.983,
+            "box": [
+                [
+                    58.0,
+                    1215.0
+                ],
+                [
+                    1021.0,
+                    1214.0
+                ],
+                [
+                    1021.0,
+                    1268.0
+                ],
+                [
+                    58.0,
+                    1270.0
+                ]
+            ]
+        }
+    ]
+}

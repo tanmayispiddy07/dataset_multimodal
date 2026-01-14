@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-12-20_16-01-26_UTC.jpg",
+    "combined_text": "BOOKCHEY25DEC\nTICKETSBOOKCHESEY",
+    "detailed": [
+        {
+            "text": "BOOKCHEY25DEC",
+            "confidence": 0.983,
+            "box": [
+                [
+                    161.0,
+                    665.0
+                ],
+                [
+                    470.0,
+                    665.0
+                ],
+                [
+                    470.0,
+                    696.0
+                ],
+                [
+                    161.0,
+                    696.0
+                ]
+            ]
+        },
+        {
+            "text": "TICKETSBOOKCHESEY",
+            "confidence": 0.985,
+            "box": [
+                [
+                    131.0,
+                    707.0
+                ],
+                [
+                    499.0,
+                    707.0
+                ],
+                [
+                    499.0,
+                    737.0
+                ],
+                [
+                    131.0,
+                    737.0
+                ]
+            ]
+        }
+    ]
+}

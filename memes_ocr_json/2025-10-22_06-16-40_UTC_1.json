@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-22_06-16-40_UTC_1.jpg",
+    "combined_text": "**Family problems, Middle class life,.\nLove failure,one side Love, Sacrificing\nDreams for parents happiness\nADDICTEDTOMEMES\nMaku enni problems unna bayata ki matram eppudu navvuthu\nuntam sir cheepukomu kani Bangaram sir maa abbailu",
+    "detailed": [
+        {
+            "text": "**Family problems, Middle class life,.",
+            "confidence": 0.97,
+            "box": [
+                [
+                    495.0,
+                    329.0
+                ],
+                [
+                    1044.0,
+                    332.0
+                ],
+                [
+                    1044.0,
+                    370.0
+                ],
+                [
+                    495.0,
+                    368.0
+                ]
+            ]
+        },
+        {
+            "text": "Love failure,one side Love, Sacrificing",
+            "confidence": 0.97,
+            "box": [
+                [
+                    488.0,
+                    368.0
+                ],
+                [
+                    1051.0,
+                    370.0
+                ],
+                [
+                    1051.0,
+                    403.0
+                ],
+                [
+                    488.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "Dreams for parents happiness",
+            "confidence": 0.99,
+            "box": [
+                [
+                    543.0,
+                    401.0
+                ],
+                [
+                    998.0,
+                    404.0
+                ],
+                [
+                    998.0,
+                    441.0
+                ],
+                [
+                    543.0,
+                    438.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    873.0,
+                    598.0
+                ],
+                [
+                    1054.0,
+                    598.0
+                ],
+                [
+                    1054.0,
+                    622.0
+                ],
+                [
+                    873.0,
+                    622.0
+                ]
+            ]
+        },
+        {
+            "text": "Maku enni problems unna bayata ki matram eppudu navvuthu",
+            "confidence": 0.98,
+            "box": [
+                [
+                    0.0,
+                    953.0
+                ],
+                [
+                    1055.0,
+                    951.0
+                ],
+                [
+                    1055.0,
+                    995.0
+                ],
+                [
+                    0.0,
+                    996.0
+                ]
+            ]
+        },
+        {
+            "text": "untam sir cheepukomu kani Bangaram sir maa abbailu",
+            "confidence": 0.973,
+            "box": [
+                [
+                    69.0,
+                    995.0
+                ],
+                [
+                    982.0,
+                    993.0
+                ],
+                [
+                    982.0,
+                    1031.0
+                ],
+                [
+                    69.0,
+                    1033.0
+                ]
+            ]
+        }
+    ]
+}

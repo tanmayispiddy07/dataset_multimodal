@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-07-03_06-01-09_UTC.jpg",
+    "combined_text": "EXCELLENT TRAILER OF\n\"HARI HARA VEERA MALLU\"\nTHAT LAST SHOT IS TOO GOOD\nPAWANKALYAN\nIRWAS\nADDICTEDTOMEMES\nAFTER WATCHING TRAILER\n*PK\n**FANS",
+    "detailed": [
+        {
+            "text": "EXCELLENT TRAILER OF",
+            "confidence": 0.964,
+            "box": [
+                [
+                    285.0,
+                    38.0
+                ],
+                [
+                    841.0,
+                    38.0
+                ],
+                [
+                    841.0,
+                    75.0
+                ],
+                [
+                    285.0,
+                    75.0
+                ]
+            ]
+        },
+        {
+            "text": "\"HARI HARA VEERA MALLU\"",
+            "confidence": 0.916,
+            "box": [
+                [
+                    233.0,
+                    93.0
+                ],
+                [
+                    903.0,
+                    93.0
+                ],
+                [
+                    903.0,
+                    135.0
+                ],
+                [
+                    233.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT LAST SHOT IS TOO GOOD",
+            "confidence": 0.925,
+            "box": [
+                [
+                    198.0,
+                    152.0
+                ],
+                [
+                    938.0,
+                    152.0
+                ],
+                [
+                    938.0,
+                    194.0
+                ],
+                [
+                    198.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "PAWANKALYAN",
+            "confidence": 0.966,
+            "box": [
+                [
+                    210.0,
+                    254.0
+                ],
+                [
+                    584.0,
+                    254.0
+                ],
+                [
+                    584.0,
+                    291.0
+                ],
+                [
+                    210.0,
+                    291.0
+                ]
+            ]
+        },
+        {
+            "text": "IRWAS",
+            "confidence": 0.726,
+            "box": [
+                [
+                    343.0,
+                    315.0
+                ],
+                [
+                    458.0,
+                    315.0
+                ],
+                [
+                    458.0,
+                    346.0
+                ],
+                [
+                    343.0,
+                    346.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    525.0,
+                    623.0
+                ],
+                [
+                    668.0,
+                    623.0
+                ],
+                [
+                    668.0,
+                    644.0
+                ],
+                [
+                    525.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER WATCHING TRAILER",
+            "confidence": 0.963,
+            "box": [
+                [
+                    25.0,
+                    956.0
+                ],
+                [
+                    547.0,
+                    956.0
+                ],
+                [
+                    547.0,
+                    994.0
+                ],
+                [
+                    25.0,
+                    994.0
+                ]
+            ]
+        },
+        {
+            "text": "*PK",
+            "confidence": 0.854,
+            "box": [
+                [
+                    793.0,
+                    997.0
+                ],
+                [
+                    957.0,
+                    1004.0
+                ],
+                [
+                    954.0,
+                    1087.0
+                ],
+                [
+                    789.0,
+                    1081.0
+                ]
+            ]
+        },
+        {
+            "text": "**FANS",
+            "confidence": 0.978,
+            "box": [
+                [
+                    274.0,
+                    1167.0
+                ],
+                [
+                    512.0,
+                    1179.0
+                ],
+                [
+                    508.0,
+                    1250.0
+                ],
+                [
+                    270.0,
+                    1238.0
+                ]
+            ]
+        }
+    ]
+}

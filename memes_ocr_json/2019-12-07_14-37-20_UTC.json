@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-12-07_14-37-20_UTC.jpg",
+    "combined_text": "*gets 97 on test*.\naa migitha mudumarkulu\nekadaki vellayi'",
+    "detailed": [
+        {
+            "text": "*gets 97 on test*.",
+            "confidence": 0.966,
+            "box": [
+                [
+                    340.0,
+                    63.0
+                ],
+                [
+                    794.0,
+                    60.0
+                ],
+                [
+                    795.0,
+                    124.0
+                ],
+                [
+                    340.0,
+                    127.0
+                ]
+            ]
+        },
+        {
+            "text": "aa migitha mudumarkulu",
+            "confidence": 0.978,
+            "box": [
+                [
+                    84.0,
+                    1041.0
+                ],
+                [
+                    993.0,
+                    1041.0
+                ],
+                [
+                    993.0,
+                    1121.0
+                ],
+                [
+                    84.0,
+                    1121.0
+                ]
+            ]
+        },
+        {
+            "text": "ekadaki vellayi'",
+            "confidence": 0.937,
+            "box": [
+                [
+                    247.0,
+                    1126.0
+                ],
+                [
+                    793.0,
+                    1129.0
+                ],
+                [
+                    793.0,
+                    1217.0
+                ],
+                [
+                    246.0,
+                    1214.0
+                ]
+            ]
+        }
+    ]
+}

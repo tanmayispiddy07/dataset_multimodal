@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-13_13-02-32_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nENTI VELLU ANTHA\nSNAPCHAT FILTERS AH\nNENU INKA MA FRIENDS\nPEDUTHUNTE NIJAM GA\nAMMAYILU ANUKUNANNE",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.984,
+            "box": [
+                [
+                    645.0,
+                    119.0
+                ],
+                [
+                    783.0,
+                    118.0
+                ],
+                [
+                    784.0,
+                    137.0
+                ],
+                [
+                    645.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTI VELLU ANTHA",
+            "confidence": 0.943,
+            "box": [
+                [
+                    608.0,
+                    913.0
+                ],
+                [
+                    966.0,
+                    914.0
+                ],
+                [
+                    965.0,
+                    948.0
+                ],
+                [
+                    607.0,
+                    947.0
+                ]
+            ]
+        },
+        {
+            "text": "SNAPCHAT FILTERS AH",
+            "confidence": 0.952,
+            "box": [
+                [
+                    569.0,
+                    961.0
+                ],
+                [
+                    997.0,
+                    960.0
+                ],
+                [
+                    997.0,
+                    993.0
+                ],
+                [
+                    569.0,
+                    994.0
+                ]
+            ]
+        },
+        {
+            "text": "NENU INKA MA FRIENDS",
+            "confidence": 0.941,
+            "box": [
+                [
+                    559.0,
+                    1004.0
+                ],
+                [
+                    1015.0,
+                    1005.0
+                ],
+                [
+                    1015.0,
+                    1041.0
+                ],
+                [
+                    559.0,
+                    1040.0
+                ]
+            ]
+        },
+        {
+            "text": "PEDUTHUNTE NIJAM GA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    562.0,
+                    1052.0
+                ],
+                [
+                    1011.0,
+                    1054.0
+                ],
+                [
+                    1011.0,
+                    1086.0
+                ],
+                [
+                    562.0,
+                    1084.0
+                ]
+            ]
+        },
+        {
+            "text": "AMMAYILU ANUKUNANNE",
+            "confidence": 0.977,
+            "box": [
+                [
+                    545.0,
+                    1101.0
+                ],
+                [
+                    1033.0,
+                    1101.0
+                ],
+                [
+                    1033.0,
+                    1133.0
+                ],
+                [
+                    545.0,
+                    1133.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2026-01-08_13-55-41_UTC.jpg",
+    "combined_text": "NAYANAM\nWEBSERIES IN ZEE5\nADDICTEDTOMEMES\nANDHARIKI BISCUTS\nTHIPINCHI EM\nCHESTHUNNAV RA",
+    "detailed": [
+        {
+            "text": "NAYANAM",
+            "confidence": 0.997,
+            "box": [
+                [
+                    370.0,
+                    52.0
+                ],
+                [
+                    726.0,
+                    55.0
+                ],
+                [
+                    725.0,
+                    115.0
+                ],
+                [
+                    370.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "WEBSERIES IN ZEE5",
+            "confidence": 0.955,
+            "box": [
+                [
+                    211.0,
+                    142.0
+                ],
+                [
+                    868.0,
+                    142.0
+                ],
+                [
+                    868.0,
+                    200.0
+                ],
+                [
+                    211.0,
+                    200.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    454.0,
+                    646.0
+                ],
+                [
+                    602.0,
+                    646.0
+                ],
+                [
+                    602.0,
+                    667.0
+                ],
+                [
+                    454.0,
+                    667.0
+                ]
+            ]
+        },
+        {
+            "text": "ANDHARIKI BISCUTS",
+            "confidence": 0.97,
+            "box": [
+                [
+                    314.0,
+                    1152.0
+                ],
+                [
+                    779.0,
+                    1152.0
+                ],
+                [
+                    779.0,
+                    1194.0
+                ],
+                [
+                    314.0,
+                    1194.0
+                ]
+            ]
+        },
+        {
+            "text": "THIPINCHI EM",
+            "confidence": 0.959,
+            "box": [
+                [
+                    390.0,
+                    1209.0
+                ],
+                [
+                    705.0,
+                    1209.0
+                ],
+                [
+                    705.0,
+                    1250.0
+                ],
+                [
+                    390.0,
+                    1250.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESTHUNNAV RA",
+            "confidence": 0.958,
+            "box": [
+                [
+                    328.0,
+                    1266.0
+                ],
+                [
+                    751.0,
+                    1266.0
+                ],
+                [
+                    751.0,
+                    1307.0
+                ],
+                [
+                    328.0,
+                    1307.0
+                ]
+            ]
+        }
+    ]
+}

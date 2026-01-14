@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-06-20_17-06-00_UTC.jpg",
+    "combined_text": "Iran just rocked Israel\nsarcasm",
+    "detailed": [
+        {
+            "text": "Iran just rocked Israel",
+            "confidence": 0.979,
+            "box": [
+                [
+                    108.0,
+                    60.0
+                ],
+                [
+                    877.0,
+                    57.0
+                ],
+                [
+                    878.0,
+                    130.0
+                ],
+                [
+                    108.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    828.0,
+                    393.0
+                ],
+                [
+                    952.0,
+                    393.0
+                ],
+                [
+                    952.0,
+                    422.0
+                ],
+                [
+                    828.0,
+                    422.0
+                ]
+            ]
+        }
+    ]
+}

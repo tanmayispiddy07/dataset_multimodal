@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-12-25_14-34-15_UTC.jpg",
+    "combined_text": "INTERESTING FIRST LOOK POSTER OF\nKARTHIKRAJU'S \"VILAYA THANDAVAM'\nBEWAREOF\nBEWAREOF\nTHEBEAST\nTHEBEAST\nponttae\nCTEDTOMEMES\nPOSTER LONE THRILLER FEELS",
+    "detailed": [
+        {
+            "text": "INTERESTING FIRST LOOK POSTER OF",
+            "confidence": 0.947,
+            "box": [
+                [
+                    76.0,
+                    39.0
+                ],
+                [
+                    989.0,
+                    39.0
+                ],
+                [
+                    989.0,
+                    81.0
+                ],
+                [
+                    76.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "KARTHIKRAJU'S \"VILAYA THANDAVAM'",
+            "confidence": 0.969,
+            "box": [
+                [
+                    56.0,
+                    99.0
+                ],
+                [
+                    996.0,
+                    98.0
+                ],
+                [
+                    996.0,
+                    144.0
+                ],
+                [
+                    56.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "BEWAREOF",
+            "confidence": 0.987,
+            "box": [
+                [
+                    225.0,
+                    245.0
+                ],
+                [
+                    410.0,
+                    242.0
+                ],
+                [
+                    411.0,
+                    273.0
+                ],
+                [
+                    225.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "BEWAREOF",
+            "confidence": 0.989,
+            "box": [
+                [
+                    782.0,
+                    246.0
+                ],
+                [
+                    971.0,
+                    241.0
+                ],
+                [
+                    972.0,
+                    270.0
+                ],
+                [
+                    782.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "text": "THEBEAST",
+            "confidence": 0.989,
+            "box": [
+                [
+                    229.0,
+                    273.0
+                ],
+                [
+                    405.0,
+                    269.0
+                ],
+                [
+                    405.0,
+                    295.0
+                ],
+                [
+                    230.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "THEBEAST",
+            "confidence": 0.996,
+            "box": [
+                [
+                    786.0,
+                    273.0
+                ],
+                [
+                    966.0,
+                    267.0
+                ],
+                [
+                    966.0,
+                    292.0
+                ],
+                [
+                    787.0,
+                    299.0
+                ]
+            ]
+        },
+        {
+            "text": "ponttae",
+            "confidence": 0.546,
+            "box": [
+                [
+                    100.0,
+                    866.0
+                ],
+                [
+                    402.0,
+                    878.0
+                ],
+                [
+                    399.0,
+                    950.0
+                ],
+                [
+                    97.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "CTEDTOMEMES",
+            "confidence": 0.99,
+            "box": [
+                [
+                    939.0,
+                    1051.0
+                ],
+                [
+                    1035.0,
+                    1051.0
+                ],
+                [
+                    1035.0,
+                    1068.0
+                ],
+                [
+                    939.0,
+                    1068.0
+                ]
+            ]
+        },
+        {
+            "text": "POSTER LONE THRILLER FEELS",
+            "confidence": 0.953,
+            "box": [
+                [
+                    252.0,
+                    1278.0
+                ],
+                [
+                    970.0,
+                    1278.0
+                ],
+                [
+                    970.0,
+                    1320.0
+                ],
+                [
+                    252.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

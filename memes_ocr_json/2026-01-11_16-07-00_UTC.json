@@ -1,0 +1,94 @@
+{
+    "image_name": "2026-01-11_16-07-00_UTC.jpg",
+    "combined_text": "Addicted To Memes \n@Addictedtomemez\nMe Watching ChatGpt/Gemini Al\ngenerated Girlfriend for me",
+    "detailed": [
+        {
+            "text": "Addicted To Memes ",
+            "confidence": 0.93,
+            "box": [
+                [
+                    125.0,
+                    180.0
+                ],
+                [
+                    365.0,
+                    180.0
+                ],
+                [
+                    365.0,
+                    205.0
+                ],
+                [
+                    125.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.999,
+            "box": [
+                [
+                    124.0,
+                    206.0
+                ],
+                [
+                    339.0,
+                    208.0
+                ],
+                [
+                    339.0,
+                    233.0
+                ],
+                [
+                    123.0,
+                    231.0
+                ]
+            ]
+        },
+        {
+            "text": "Me Watching ChatGpt/Gemini Al",
+            "confidence": 0.962,
+            "box": [
+                [
+                    45.0,
+                    254.0
+                ],
+                [
+                    469.0,
+                    254.0
+                ],
+                [
+                    469.0,
+                    286.0
+                ],
+                [
+                    45.0,
+                    286.0
+                ]
+            ]
+        },
+        {
+            "text": "generated Girlfriend for me",
+            "confidence": 0.977,
+            "box": [
+                [
+                    43.0,
+                    291.0
+                ],
+                [
+                    389.0,
+                    289.0
+                ],
+                [
+                    390.0,
+                    322.0
+                ],
+                [
+                    44.0,
+                    324.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-12-14_03-51-12_UTC.jpg",
+    "combined_text": "ME AFTER\nR SEEING \"OUR VILLAGE\nPEOPLE IN SARPANCH ELECTIONS\"\nADDICTEDTOMEMES\nENTI INTHA MANDHI\nUNNARA MAVILLAGE LO",
+    "detailed": [
+        {
+            "text": "ME AFTER",
+            "confidence": 0.98,
+            "box": [
+                [
+                    130.0,
+                    61.0
+                ],
+                [
+                    394.0,
+                    61.0
+                ],
+                [
+                    394.0,
+                    103.0
+                ],
+                [
+                    130.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "R SEEING \"OUR VILLAGE",
+            "confidence": 0.931,
+            "box": [
+                [
+                    368.0,
+                    59.0
+                ],
+                [
+                    975.0,
+                    59.0
+                ],
+                [
+                    975.0,
+                    104.0
+                ],
+                [
+                    368.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "PEOPLE IN SARPANCH ELECTIONS\"",
+            "confidence": 0.968,
+            "box": [
+                [
+                    111.0,
+                    120.0
+                ],
+                [
+                    992.0,
+                    120.0
+                ],
+                [
+                    992.0,
+                    168.0
+                ],
+                [
+                    111.0,
+                    168.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    922.0,
+                    317.0
+                ],
+                [
+                    1064.0,
+                    317.0
+                ],
+                [
+                    1064.0,
+                    338.0
+                ],
+                [
+                    922.0,
+                    338.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTI INTHA MANDHI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    310.0,
+                    976.0
+                ],
+                [
+                    829.0,
+                    976.0
+                ],
+                [
+                    829.0,
+                    1021.0
+                ],
+                [
+                    310.0,
+                    1021.0
+                ]
+            ]
+        },
+        {
+            "text": "UNNARA MAVILLAGE LO",
+            "confidence": 0.951,
+            "box": [
+                [
+                    241.0,
+                    1035.0
+                ],
+                [
+                    899.0,
+                    1038.0
+                ],
+                [
+                    899.0,
+                    1086.0
+                ],
+                [
+                    241.0,
+                    1083.0
+                ]
+            ]
+        }
+    ]
+}

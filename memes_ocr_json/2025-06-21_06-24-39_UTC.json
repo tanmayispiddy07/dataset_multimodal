@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-06-21_06-24-39_UTC.jpg",
+    "combined_text": "Make table tennis\nbat with paper\ncarcasm",
+    "detailed": [
+        {
+            "text": "Make table tennis",
+            "confidence": 0.984,
+            "box": [
+                [
+                    141.0,
+                    121.0
+                ],
+                [
+                    391.0,
+                    121.0
+                ],
+                [
+                    391.0,
+                    149.0
+                ],
+                [
+                    141.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "bat with paper",
+            "confidence": 0.965,
+            "box": [
+                [
+                    167.0,
+                    156.0
+                ],
+                [
+                    373.0,
+                    158.0
+                ],
+                [
+                    373.0,
+                    187.0
+                ],
+                [
+                    167.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "text": "carcasm",
+            "confidence": 0.918,
+            "box": [
+                [
+                    253.0,
+                    606.0
+                ],
+                [
+                    288.0,
+                    606.0
+                ],
+                [
+                    288.0,
+                    616.0
+                ],
+                [
+                    253.0,
+                    616.0
+                ]
+            ]
+        }
+    ]
+}

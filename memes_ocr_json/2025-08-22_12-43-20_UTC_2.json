@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-08-22_12-43-20_UTC_2.jpg",
+    "combined_text": "Judge Frank Caprio battled\npancreatic cancer in his final years\nsarcasm\nCaprio served nearly 40 years\nas Providence's chief municipal judge",
+    "detailed": [
+        {
+            "text": "Judge Frank Caprio battled",
+            "confidence": 0.973,
+            "box": [
+                [
+                    205.0,
+                    544.0
+                ],
+                [
+                    875.0,
+                    545.0
+                ],
+                [
+                    875.0,
+                    595.0
+                ],
+                [
+                    205.0,
+                    593.0
+                ]
+            ]
+        },
+        {
+            "text": "pancreatic cancer in his final years",
+            "confidence": 0.999,
+            "box": [
+                [
+                    117.0,
+                    610.0
+                ],
+                [
+                    956.0,
+                    607.0
+                ],
+                [
+                    956.0,
+                    655.0
+                ],
+                [
+                    117.0,
+                    658.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.993,
+            "box": [
+                [
+                    487.0,
+                    1172.0
+                ],
+                [
+                    596.0,
+                    1172.0
+                ],
+                [
+                    596.0,
+                    1190.0
+                ],
+                [
+                    487.0,
+                    1190.0
+                ]
+            ]
+        },
+        {
+            "text": "Caprio served nearly 40 years",
+            "confidence": 0.977,
+            "box": [
+                [
+                    177.0,
+                    1214.0
+                ],
+                [
+                    899.0,
+                    1217.0
+                ],
+                [
+                    898.0,
+                    1265.0
+                ],
+                [
+                    177.0,
+                    1262.0
+                ]
+            ]
+        },
+        {
+            "text": "as Providence's chief municipal judge",
+            "confidence": 0.989,
+            "box": [
+                [
+                    87.0,
+                    1273.0
+                ],
+                [
+                    986.0,
+                    1279.0
+                ],
+                [
+                    986.0,
+                    1328.0
+                ],
+                [
+                    87.0,
+                    1322.0
+                ]
+            ]
+        }
+    ]
+}

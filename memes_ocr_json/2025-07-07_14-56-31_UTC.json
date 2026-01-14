@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-07-07_14-56-31_UTC.jpg",
+    "combined_text": "RAVI TEJA NEPHEW MAADHAV DEBUT\nMOVIE TITLE: MAREMMA\nADDICTEDTOMEMES\nTeluguFiln\nALL THEBESTFORDEBUT MOVIE\nCONTENT BAGUNTE MEMEY ENCOURAGE CHESTHAMU",
+    "detailed": [
+        {
+            "text": "RAVI TEJA NEPHEW MAADHAV DEBUT",
+            "confidence": 0.943,
+            "box": [
+                [
+                    87.0,
+                    40.0
+                ],
+                [
+                    1018.0,
+                    40.0
+                ],
+                [
+                    1018.0,
+                    82.0
+                ],
+                [
+                    87.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE TITLE: MAREMMA",
+            "confidence": 0.985,
+            "box": [
+                [
+                    248.0,
+                    100.0
+                ],
+                [
+                    859.0,
+                    100.0
+                ],
+                [
+                    859.0,
+                    146.0
+                ],
+                [
+                    248.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    20.0,
+                    1093.0
+                ],
+                [
+                    173.0,
+                    1093.0
+                ],
+                [
+                    173.0,
+                    1114.0
+                ],
+                [
+                    20.0,
+                    1114.0
+                ]
+            ]
+        },
+        {
+            "text": "TeluguFiln",
+            "confidence": 0.948,
+            "box": [
+                [
+                    915.0,
+                    1145.0
+                ],
+                [
+                    1078.0,
+                    1149.0
+                ],
+                [
+                    1077.0,
+                    1193.0
+                ],
+                [
+                    914.0,
+                    1190.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL THEBESTFORDEBUT MOVIE",
+            "confidence": 0.948,
+            "box": [
+                [
+                    246.0,
+                    1245.0
+                ],
+                [
+                    841.0,
+                    1245.0
+                ],
+                [
+                    841.0,
+                    1278.0
+                ],
+                [
+                    246.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "CONTENT BAGUNTE MEMEY ENCOURAGE CHESTHAMU",
+            "confidence": 0.955,
+            "box": [
+                [
+                    45.0,
+                    1288.0
+                ],
+                [
+                    1041.0,
+                    1288.0
+                ],
+                [
+                    1041.0,
+                    1325.0
+                ],
+                [
+                    45.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

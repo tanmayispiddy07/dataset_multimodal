@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-28_20-37-26_UTC.jpg",
+    "combined_text": "The monk who sold his Ferrari\nto buy Whey protein\nsarcasm",
+    "detailed": [
+        {
+            "text": "The monk who sold his Ferrari",
+            "confidence": 0.989,
+            "box": [
+                [
+                    80.0,
+                    1036.0
+                ],
+                [
+                    1003.0,
+                    1036.0
+                ],
+                [
+                    1003.0,
+                    1089.0
+                ],
+                [
+                    80.0,
+                    1089.0
+                ]
+            ]
+        },
+        {
+            "text": "to buy Whey protein",
+            "confidence": 0.994,
+            "box": [
+                [
+                    183.0,
+                    1115.0
+                ],
+                [
+                    826.0,
+                    1120.0
+                ],
+                [
+                    825.0,
+                    1186.0
+                ],
+                [
+                    183.0,
+                    1181.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.999,
+            "box": [
+                [
+                    474.0,
+                    1201.0
+                ],
+                [
+                    602.0,
+                    1201.0
+                ],
+                [
+                    602.0,
+                    1228.0
+                ],
+                [
+                    474.0,
+                    1228.0
+                ]
+            ]
+        }
+    ]
+}

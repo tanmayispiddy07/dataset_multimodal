@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-06-02_15-34-45_UTC (1).jpg",
+    "combined_text": "MY FRIEND\n WHO CAME TO\nINDIA FROM USA\nRECENTLY\nMAWA CAUSAL GA ADUGUTHUNNA\nAHH CONFESSIONS PAGE LO\nUNDE CONFESSIONS NIJAME ANTAVA\nNE CHEYI KUDA EM AYINA\nUNDHI ANTAVA\nVATILO",
+    "detailed": [
+        {
+            "text": "MY FRIEND",
+            "confidence": 0.963,
+            "box": [
+                [
+                    151.0,
+                    75.0
+                ],
+                [
+                    495.0,
+                    75.0
+                ],
+                [
+                    495.0,
+                    124.0
+                ],
+                [
+                    151.0,
+                    124.0
+                ]
+            ]
+        },
+        {
+            "text": " WHO CAME TO",
+            "confidence": 0.942,
+            "box": [
+                [
+                    470.0,
+                    74.0
+                ],
+                [
+                    969.0,
+                    74.0
+                ],
+                [
+                    969.0,
+                    125.0
+                ],
+                [
+                    470.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "INDIA FROM USA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    125.0,
+                    152.0
+                ],
+                [
+                    661.0,
+                    152.0
+                ],
+                [
+                    661.0,
+                    205.0
+                ],
+                [
+                    125.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "RECENTLY",
+            "confidence": 0.993,
+            "box": [
+                [
+                    661.0,
+                    153.0
+                ],
+                [
+                    973.0,
+                    153.0
+                ],
+                [
+                    973.0,
+                    202.0
+                ],
+                [
+                    661.0,
+                    202.0
+                ]
+            ]
+        },
+        {
+            "text": "MAWA CAUSAL GA ADUGUTHUNNA",
+            "confidence": 0.954,
+            "box": [
+                [
+                    198.0,
+                    562.0
+                ],
+                [
+                    946.0,
+                    562.0
+                ],
+                [
+                    946.0,
+                    602.0
+                ],
+                [
+                    198.0,
+                    602.0
+                ]
+            ]
+        },
+        {
+            "text": "AHH CONFESSIONS PAGE LO",
+            "confidence": 0.949,
+            "box": [
+                [
+                    266.0,
+                    614.0
+                ],
+                [
+                    867.0,
+                    615.0
+                ],
+                [
+                    867.0,
+                    652.0
+                ],
+                [
+                    266.0,
+                    651.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDE CONFESSIONS NIJAME ANTAVA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    182.0,
+                    668.0
+                ],
+                [
+                    962.0,
+                    668.0
+                ],
+                [
+                    962.0,
+                    705.0
+                ],
+                [
+                    182.0,
+                    705.0
+                ]
+            ]
+        },
+        {
+            "text": "NE CHEYI KUDA EM AYINA",
+            "confidence": 0.918,
+            "box": [
+                [
+                    316.0,
+                    1057.0
+                ],
+                [
+                    956.0,
+                    1057.0
+                ],
+                [
+                    956.0,
+                    1097.0
+                ],
+                [
+                    316.0,
+                    1097.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDHI ANTAVA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    345.0,
+                    1116.0
+                ],
+                [
+                    730.0,
+                    1116.0
+                ],
+                [
+                    730.0,
+                    1160.0
+                ],
+                [
+                    345.0,
+                    1160.0
+                ]
+            ]
+        },
+        {
+            "text": "VATILO",
+            "confidence": 0.984,
+            "box": [
+                [
+                    709.0,
+                    1116.0
+                ],
+                [
+                    914.0,
+                    1116.0
+                ],
+                [
+                    914.0,
+                    1161.0
+                ],
+                [
+                    709.0,
+                    1161.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-12-31_16-33-35_UTC.jpg",
+    "combined_text": "-Addicted_to_memes\nMyFriend situationRight\nNowafter2Pegs",
+    "detailed": [
+        {
+            "text": "-Addicted_to_memes",
+            "confidence": 0.979,
+            "box": [
+                [
+                    326.0,
+                    300.0
+                ],
+                [
+                    603.0,
+                    305.0
+                ],
+                [
+                    602.0,
+                    335.0
+                ],
+                [
+                    326.0,
+                    330.0
+                ]
+            ]
+        },
+        {
+            "text": "MyFriend situationRight",
+            "confidence": 0.975,
+            "box": [
+                [
+                    58.0,
+                    759.0
+                ],
+                [
+                    585.0,
+                    756.0
+                ],
+                [
+                    585.0,
+                    800.0
+                ],
+                [
+                    58.0,
+                    802.0
+                ]
+            ]
+        },
+        {
+            "text": "Nowafter2Pegs",
+            "confidence": 0.997,
+            "box": [
+                [
+                    151.0,
+                    814.0
+                ],
+                [
+                    494.0,
+                    822.0
+                ],
+                [
+                    493.0,
+                    865.0
+                ],
+                [
+                    150.0,
+                    858.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-07_13-59-39_UTC.jpg",
+    "combined_text": "Goosebumps?\nMe :\nWatching this scene in full\nquality on realme TechLife TV\n(Sale is live on Flipkart)",
+    "detailed": [
+        {
+            "text": "Goosebumps?",
+            "confidence": 1.0,
+            "box": [
+                [
+                    56.0,
+                    62.0
+                ],
+                [
+                    582.0,
+                    62.0
+                ],
+                [
+                    582.0,
+                    140.0
+                ],
+                [
+                    56.0,
+                    140.0
+                ]
+            ]
+        },
+        {
+            "text": "Me :",
+            "confidence": 0.988,
+            "box": [
+                [
+                    53.0,
+                    172.0
+                ],
+                [
+                    228.0,
+                    177.0
+                ],
+                [
+                    226.0,
+                    247.0
+                ],
+                [
+                    51.0,
+                    242.0
+                ]
+            ]
+        },
+        {
+            "text": "Watching this scene in full",
+            "confidence": 0.985,
+            "box": [
+                [
+                    251.0,
+                    1024.0
+                ],
+                [
+                    835.0,
+                    1024.0
+                ],
+                [
+                    835.0,
+                    1069.0
+                ],
+                [
+                    251.0,
+                    1069.0
+                ]
+            ]
+        },
+        {
+            "text": "quality on realme TechLife TV",
+            "confidence": 0.994,
+            "box": [
+                [
+                    213.0,
+                    1089.0
+                ],
+                [
+                    868.0,
+                    1081.0
+                ],
+                [
+                    869.0,
+                    1126.0
+                ],
+                [
+                    213.0,
+                    1134.0
+                ]
+            ]
+        },
+        {
+            "text": "(Sale is live on Flipkart)",
+            "confidence": 0.964,
+            "box": [
+                [
+                    355.0,
+                    1161.0
+                ],
+                [
+                    726.0,
+                    1164.0
+                ],
+                [
+                    725.0,
+                    1202.0
+                ],
+                [
+                    354.0,
+                    1199.0
+                ]
+            ]
+        }
+    ]
+}

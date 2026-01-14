@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-15_07-51-18_UTC.jpg",
+    "combined_text": "RANGI RANGI SONG FROM BRAT\nMOVIE.ARJUN JANYA'S MUSICAL\nADDICTEDTOMEMES\nAHAA SONG\nMAMULAGALEDHU",
+    "detailed": [
+        {
+            "text": "RANGI RANGI SONG FROM BRAT",
+            "confidence": 0.932,
+            "box": [
+                [
+                    84.0,
+                    35.0
+                ],
+                [
+                    1000.0,
+                    35.0
+                ],
+                [
+                    1000.0,
+                    81.0
+                ],
+                [
+                    84.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE.ARJUN JANYA'S MUSICAL",
+            "confidence": 0.981,
+            "box": [
+                [
+                    69.0,
+                    103.0
+                ],
+                [
+                    1011.0,
+                    103.0
+                ],
+                [
+                    1011.0,
+                    149.0
+                ],
+                [
+                    69.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.989,
+            "box": [
+                [
+                    934.0,
+                    1017.0
+                ],
+                [
+                    1067.0,
+                    1017.0
+                ],
+                [
+                    1067.0,
+                    1034.0
+                ],
+                [
+                    934.0,
+                    1034.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAA SONG",
+            "confidence": 0.96,
+            "box": [
+                [
+                    575.0,
+                    1213.0
+                ],
+                [
+                    917.0,
+                    1213.0
+                ],
+                [
+                    917.0,
+                    1256.0
+                ],
+                [
+                    575.0,
+                    1256.0
+                ]
+            ]
+        },
+        {
+            "text": "MAMULAGALEDHU",
+            "confidence": 0.997,
+            "box": [
+                [
+                    481.0,
+                    1272.0
+                ],
+                [
+                    1014.0,
+                    1275.0
+                ],
+                [
+                    1014.0,
+                    1327.0
+                ],
+                [
+                    481.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

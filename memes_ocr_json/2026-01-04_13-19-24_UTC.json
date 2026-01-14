@@ -1,0 +1,50 @@
+{
+    "image_name": "2026-01-04_13-19-24_UTC.jpg",
+    "combined_text": "ADVENTURES INTERNATIONAL PVT TD.\nAKENTERTANMENTS",
+    "detailed": [
+        {
+            "text": "ADVENTURES INTERNATIONAL PVT TD.",
+            "confidence": 0.93,
+            "box": [
+                [
+                    51.0,
+                    66.0
+                ],
+                [
+                    182.0,
+                    66.0
+                ],
+                [
+                    182.0,
+                    81.0
+                ],
+                [
+                    51.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "AKENTERTANMENTS",
+            "confidence": 0.935,
+            "box": [
+                [
+                    48.0,
+                    77.0
+                ],
+                [
+                    105.0,
+                    78.0
+                ],
+                [
+                    105.0,
+                    88.0
+                ],
+                [
+                    48.0,
+                    87.0
+                ]
+            ]
+        }
+    ]
+}

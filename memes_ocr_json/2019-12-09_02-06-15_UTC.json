@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-12-09_02-06-15_UTC.jpg",
+    "combined_text": "me: *wears\ns \"too modern\" clothing.\namma: \"asalu inthayna siggu unda'",
+    "detailed": [
+        {
+            "text": "me: *wears",
+            "confidence": 0.998,
+            "box": [
+                [
+                    54.0,
+                    59.0
+                ],
+                [
+                    378.0,
+                    56.0
+                ],
+                [
+                    378.0,
+                    105.0
+                ],
+                [
+                    54.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "s \"too modern\" clothing.",
+            "confidence": 0.945,
+            "box": [
+                [
+                    348.0,
+                    51.0
+                ],
+                [
+                    986.0,
+                    54.0
+                ],
+                [
+                    985.0,
+                    116.0
+                ],
+                [
+                    348.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "amma: \"asalu inthayna siggu unda'",
+            "confidence": 0.987,
+            "box": [
+                [
+                    30.0,
+                    979.0
+                ],
+                [
+                    1011.0,
+                    976.0
+                ],
+                [
+                    1011.0,
+                    1048.0
+                ],
+                [
+                    31.0,
+                    1051.0
+                ]
+            ]
+        }
+    ]
+}

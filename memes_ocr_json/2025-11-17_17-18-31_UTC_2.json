@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-11-17_17-18-31_UTC_2.jpg",
+    "combined_text": "Which celebrity is challenging\nOrry's party, and who is Baby M?",
+    "detailed": [
+        {
+            "text": "Which celebrity is challenging",
+            "confidence": 0.952,
+            "box": [
+                [
+                    113.0,
+                    29.0
+                ],
+                [
+                    595.0,
+                    34.0
+                ],
+                [
+                    595.0,
+                    69.0
+                ],
+                [
+                    112.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "Orry's party, and who is Baby M?",
+            "confidence": 0.94,
+            "box": [
+                [
+                    63.0,
+                    87.0
+                ],
+                [
+                    597.0,
+                    87.0
+                ],
+                [
+                    597.0,
+                    123.0
+                ],
+                [
+                    63.0,
+                    123.0
+                ]
+            ]
+        }
+    ]
+}

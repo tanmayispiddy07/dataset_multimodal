@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-12-30_06-27-58_UTC.jpg",
+    "combined_text": "AH BASEVOICE AH\nDIALOGUE DELIVERY",
+    "detailed": [
+        {
+            "text": "AH BASEVOICE AH",
+            "confidence": 0.936,
+            "box": [
+                [
+                    146.0,
+                    691.0
+                ],
+                [
+                    394.0,
+                    691.0
+                ],
+                [
+                    394.0,
+                    715.0
+                ],
+                [
+                    146.0,
+                    715.0
+                ]
+            ]
+        },
+        {
+            "text": "DIALOGUE DELIVERY",
+            "confidence": 0.97,
+            "box": [
+                [
+                    131.0,
+                    721.0
+                ],
+                [
+                    397.0,
+                    721.0
+                ],
+                [
+                    397.0,
+                    745.0
+                ],
+                [
+                    131.0,
+                    745.0
+                ]
+            ]
+        }
+    ]
+}

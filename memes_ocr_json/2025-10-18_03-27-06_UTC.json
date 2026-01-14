@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-10-18_03-27-06_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE\nFILM \"TELUSU KADHA\"\nCHALA DAYS TARVATA OKA MANCHI FILM WITH NO\nACTIONS SCENES,NO HIGH MOMENTS JUST OKA FEEL\nGOOD FUN FILM CHUSI BAYATAKI VACHINA FEEL\nADDICTEDTOMEMES\nFEELGOOD FIRST HALF FOLLOWED BY CRAZE AND\nLAUGHTER 2ND HALF.THE MOVIE HAS GOOD LOVE\nSTORY WITH DIFFERENT PERSPECTIVE OPIONIONS\nAND STILL MANAGED TO SUCCESS.OKARINI HANDLE\nCHEYADAME KASTAME MANA SIDDHU IDDHARINI\nHANDLE CHESI KUDA SUCCESS AYYADU\nLOVED THE FILM",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE",
+            "confidence": 0.942,
+            "box": [
+                [
+                    141.0,
+                    33.0
+                ],
+                [
+                    969.0,
+                    33.0
+                ],
+                [
+                    969.0,
+                    84.0
+                ],
+                [
+                    141.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM \"TELUSU KADHA\"",
+            "confidence": 0.983,
+            "box": [
+                [
+                    232.0,
+                    105.0
+                ],
+                [
+                    875.0,
+                    105.0
+                ],
+                [
+                    875.0,
+                    155.0
+                ],
+                [
+                    232.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALA DAYS TARVATA OKA MANCHI FILM WITH NO",
+            "confidence": 0.926,
+            "box": [
+                [
+                    65.0,
+                    195.0
+                ],
+                [
+                    1022.0,
+                    195.0
+                ],
+                [
+                    1022.0,
+                    224.0
+                ],
+                [
+                    65.0,
+                    224.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTIONS SCENES,NO HIGH MOMENTS JUST OKA FEEL",
+            "confidence": 0.94,
+            "box": [
+                [
+                    37.0,
+                    240.0
+                ],
+                [
+                    1053.0,
+                    240.0
+                ],
+                [
+                    1053.0,
+                    273.0
+                ],
+                [
+                    37.0,
+                    273.0
+                ]
+            ]
+        },
+        {
+            "text": "GOOD FUN FILM CHUSI BAYATAKI VACHINA FEEL",
+            "confidence": 0.936,
+            "box": [
+                [
+                    90.0,
+                    286.0
+                ],
+                [
+                    990.0,
+                    286.0
+                ],
+                [
+                    990.0,
+                    319.0
+                ],
+                [
+                    90.0,
+                    319.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    532.0,
+                    704.0
+                ],
+                [
+                    664.0,
+                    704.0
+                ],
+                [
+                    664.0,
+                    721.0
+                ],
+                [
+                    532.0,
+                    721.0
+                ]
+            ]
+        },
+        {
+            "text": "FEELGOOD FIRST HALF FOLLOWED BY CRAZE AND",
+            "confidence": 0.934,
+            "box": [
+                [
+                    51.0,
+                    999.0
+                ],
+                [
+                    1038.0,
+                    1001.0
+                ],
+                [
+                    1038.0,
+                    1036.0
+                ],
+                [
+                    51.0,
+                    1034.0
+                ]
+            ]
+        },
+        {
+            "text": "LAUGHTER 2ND HALF.THE MOVIE HAS GOOD LOVE",
+            "confidence": 0.931,
+            "box": [
+                [
+                    38.0,
+                    1049.0
+                ],
+                [
+                    1052.0,
+                    1049.0
+                ],
+                [
+                    1052.0,
+                    1083.0
+                ],
+                [
+                    38.0,
+                    1083.0
+                ]
+            ]
+        },
+        {
+            "text": "STORY WITH DIFFERENT PERSPECTIVE OPIONIONS",
+            "confidence": 0.959,
+            "box": [
+                [
+                    62.0,
+                    1095.0
+                ],
+                [
+                    1029.0,
+                    1097.0
+                ],
+                [
+                    1029.0,
+                    1132.0
+                ],
+                [
+                    62.0,
+                    1130.0
+                ]
+            ]
+        },
+        {
+            "text": "AND STILL MANAGED TO SUCCESS.OKARINI HANDLE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    37.0,
+                    1146.0
+                ],
+                [
+                    1057.0,
+                    1146.0
+                ],
+                [
+                    1057.0,
+                    1179.0
+                ],
+                [
+                    37.0,
+                    1179.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEYADAME KASTAME MANA SIDDHU IDDHARINI",
+            "confidence": 0.958,
+            "box": [
+                [
+                    66.0,
+                    1192.0
+                ],
+                [
+                    1024.0,
+                    1193.0
+                ],
+                [
+                    1024.0,
+                    1228.0
+                ],
+                [
+                    66.0,
+                    1226.0
+                ]
+            ]
+        },
+        {
+            "text": "HANDLE CHESI KUDA SUCCESS AYYADU",
+            "confidence": 0.976,
+            "box": [
+                [
+                    155.0,
+                    1240.0
+                ],
+                [
+                    932.0,
+                    1240.0
+                ],
+                [
+                    932.0,
+                    1278.0
+                ],
+                [
+                    155.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "LOVED THE FILM",
+            "confidence": 0.965,
+            "box": [
+                [
+                    377.0,
+                    1286.0
+                ],
+                [
+                    700.0,
+                    1288.0
+                ],
+                [
+                    700.0,
+                    1326.0
+                ],
+                [
+                    377.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

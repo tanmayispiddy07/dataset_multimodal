@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-04-17_11-31-32_UTC.jpg",
+    "combined_text": "Snclly Ne Entry\nKESERVED\nwitheot Band\nWorld's Biggest Khatiya(oo)\nANANDGARH\nAnandgarh Picnic Farm\nBest Picnic Farm in Hyderabad\nMastaruuu e Picnic farm lo\nMana chinnathanam lo aadina games anni\nUntay anta kada",
+    "detailed": [
+        {
+            "text": "Snclly Ne Entry",
+            "confidence": 0.748,
+            "box": [
+                [
+                    841.0,
+                    12.0
+                ],
+                [
+                    935.0,
+                    16.0
+                ],
+                [
+                    935.0,
+                    38.0
+                ],
+                [
+                    841.0,
+                    35.0
+                ]
+            ]
+        },
+        {
+            "text": "KESERVED",
+            "confidence": 0.916,
+            "box": [
+                [
+                    664.0,
+                    28.0
+                ],
+                [
+                    716.0,
+                    28.0
+                ],
+                [
+                    716.0,
+                    46.0
+                ],
+                [
+                    664.0,
+                    46.0
+                ]
+            ]
+        },
+        {
+            "text": "witheot Band",
+            "confidence": 0.807,
+            "box": [
+                [
+                    863.0,
+                    34.0
+                ],
+                [
+                    953.0,
+                    34.0
+                ],
+                [
+                    953.0,
+                    55.0
+                ],
+                [
+                    863.0,
+                    55.0
+                ]
+            ]
+        },
+        {
+            "text": "World's Biggest Khatiya(oo)",
+            "confidence": 0.981,
+            "box": [
+                [
+                    105.0,
+                    368.0
+                ],
+                [
+                    972.0,
+                    368.0
+                ],
+                [
+                    972.0,
+                    431.0
+                ],
+                [
+                    105.0,
+                    431.0
+                ]
+            ]
+        },
+        {
+            "text": "ANANDGARH",
+            "confidence": 0.996,
+            "box": [
+                [
+                    195.0,
+                    554.0
+                ],
+                [
+                    347.0,
+                    548.0
+                ],
+                [
+                    348.0,
+                    574.0
+                ],
+                [
+                    196.0,
+                    581.0
+                ]
+            ]
+        },
+        {
+            "text": "Anandgarh Picnic Farm",
+            "confidence": 0.969,
+            "box": [
+                [
+                    266.0,
+                    725.0
+                ],
+                [
+                    813.0,
+                    725.0
+                ],
+                [
+                    813.0,
+                    776.0
+                ],
+                [
+                    266.0,
+                    776.0
+                ]
+            ]
+        },
+        {
+            "text": "Best Picnic Farm in Hyderabad",
+            "confidence": 0.969,
+            "box": [
+                [
+                    172.0,
+                    783.0
+                ],
+                [
+                    931.0,
+                    783.0
+                ],
+                [
+                    931.0,
+                    833.0
+                ],
+                [
+                    172.0,
+                    833.0
+                ]
+            ]
+        },
+        {
+            "text": "Mastaruuu e Picnic farm lo",
+            "confidence": 0.978,
+            "box": [
+                [
+                    252.0,
+                    1187.0
+                ],
+                [
+                    823.0,
+                    1186.0
+                ],
+                [
+                    823.0,
+                    1228.0
+                ],
+                [
+                    252.0,
+                    1230.0
+                ]
+            ]
+        },
+        {
+            "text": "Mana chinnathanam lo aadina games anni",
+            "confidence": 0.971,
+            "box": [
+                [
+                    79.0,
+                    1245.0
+                ],
+                [
+                    991.0,
+                    1246.0
+                ],
+                [
+                    991.0,
+                    1286.0
+                ],
+                [
+                    79.0,
+                    1284.0
+                ]
+            ]
+        },
+        {
+            "text": "Untay anta kada",
+            "confidence": 0.975,
+            "box": [
+                [
+                    357.0,
+                    1298.0
+                ],
+                [
+                    721.0,
+                    1298.0
+                ],
+                [
+                    721.0,
+                    1345.0
+                ],
+                [
+                    357.0,
+                    1345.0
+                ]
+            ]
+        }
+    ]
+}

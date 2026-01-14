@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-12_18-54-45_UTC.jpg",
+    "combined_text": "sarcasm\nDustbin Container, India, 1990\nTesla Cybertruck, UsA, 2023",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.999,
+            "box": [
+                [
+                    904.0,
+                    49.0
+                ],
+                [
+                    1004.0,
+                    49.0
+                ],
+                [
+                    1004.0,
+                    76.0
+                ],
+                [
+                    904.0,
+                    76.0
+                ]
+            ]
+        },
+        {
+            "text": "Dustbin Container, India, 1990",
+            "confidence": 0.978,
+            "box": [
+                [
+                    60.0,
+                    598.0
+                ],
+                [
+                    1011.0,
+                    596.0
+                ],
+                [
+                    1011.0,
+                    658.0
+                ],
+                [
+                    61.0,
+                    660.0
+                ]
+            ]
+        },
+        {
+            "text": "Tesla Cybertruck, UsA, 2023",
+            "confidence": 0.967,
+            "box": [
+                [
+                    98.0,
+                    1282.0
+                ],
+                [
+                    980.0,
+                    1284.0
+                ],
+                [
+                    980.0,
+                    1337.0
+                ],
+                [
+                    98.0,
+                    1336.0
+                ]
+            ]
+        }
+    ]
+}

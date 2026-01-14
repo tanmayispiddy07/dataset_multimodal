@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-04-29_00-29-03_UTC.jpg",
+    "combined_text": "ONE DOES NOT SIMPLY\nGET INTOMEDICAL SCHOOL\nYESTHEYDO",
+    "detailed": [
+        {
+            "text": "ONE DOES NOT SIMPLY",
+            "confidence": 0.915,
+            "box": [
+                [
+                    55.0,
+                    5.0
+                ],
+                [
+                    265.0,
+                    5.0
+                ],
+                [
+                    265.0,
+                    28.0
+                ],
+                [
+                    55.0,
+                    28.0
+                ]
+            ]
+        },
+        {
+            "text": "GET INTOMEDICAL SCHOOL",
+            "confidence": 0.952,
+            "box": [
+                [
+                    15.0,
+                    96.0
+                ],
+                [
+                    308.0,
+                    96.0
+                ],
+                [
+                    308.0,
+                    119.0
+                ],
+                [
+                    15.0,
+                    119.0
+                ]
+            ]
+        },
+        {
+            "text": "YESTHEYDO",
+            "confidence": 0.993,
+            "box": [
+                [
+                    31.0,
+                    288.0
+                ],
+                [
+                    285.0,
+                    288.0
+                ],
+                [
+                    285.0,
+                    335.0
+                ],
+                [
+                    31.0,
+                    335.0
+                ]
+            ]
+        }
+    ]
+}

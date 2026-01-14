@@ -1,0 +1,270 @@
+{
+    "image_name": "2023-12-05_15-57-10_UTC_4.jpg",
+    "combined_text": "LAST2 YRS NUNCHI EPERSON\nNUNCHI MANA PAGE VALLAKI\nCHALA MANDIKI JOBS OCHAI\nAND I AM VERY HAPPY FOR THAT\nMALLI EYANA E COURSE START\nCHESADU PAKKA JOB OSTHADI\nONLY MEEKU COMMUNICATION\nSKILLS AND DEGREE UNNTEY CHALU\nMANA PAGE NUNCHI JOBLESS GA\nNUMBER NEXT SLIDE LO UNNDHI\nDOUBTS UNNTEY AH NUMBER\nKI CALL CHEYANDI",
+    "detailed": [
+        {
+            "text": "LAST2 YRS NUNCHI EPERSON",
+            "confidence": 0.922,
+            "box": [
+                [
+                    149.0,
+                    132.0
+                ],
+                [
+                    934.0,
+                    132.0
+                ],
+                [
+                    934.0,
+                    170.0
+                ],
+                [
+                    149.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "NUNCHI MANA PAGE VALLAKI",
+            "confidence": 0.935,
+            "box": [
+                [
+                    150.0,
+                    187.0
+                ],
+                [
+                    934.0,
+                    187.0
+                ],
+                [
+                    934.0,
+                    229.0
+                ],
+                [
+                    150.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALA MANDIKI JOBS OCHAI",
+            "confidence": 0.957,
+            "box": [
+                [
+                    163.0,
+                    243.0
+                ],
+                [
+                    921.0,
+                    242.0
+                ],
+                [
+                    921.0,
+                    294.0
+                ],
+                [
+                    163.0,
+                    296.0
+                ]
+            ]
+        },
+        {
+            "text": "AND I AM VERY HAPPY FOR THAT",
+            "confidence": 0.992,
+            "box": [
+                [
+                    79.0,
+                    412.0
+                ],
+                [
+                    990.0,
+                    407.0
+                ],
+                [
+                    990.0,
+                    474.0
+                ],
+                [
+                    79.0,
+                    480.0
+                ]
+            ]
+        },
+        {
+            "text": "MALLI EYANA E COURSE START",
+            "confidence": 0.948,
+            "box": [
+                [
+                    165.0,
+                    570.0
+                ],
+                [
+                    931.0,
+                    570.0
+                ],
+                [
+                    931.0,
+                    612.0
+                ],
+                [
+                    165.0,
+                    612.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESADU PAKKA JOB OSTHADI",
+            "confidence": 0.945,
+            "box": [
+                [
+                    153.0,
+                    629.0
+                ],
+                [
+                    931.0,
+                    629.0
+                ],
+                [
+                    931.0,
+                    667.0
+                ],
+                [
+                    153.0,
+                    667.0
+                ]
+            ]
+        },
+        {
+            "text": "ONLY MEEKU COMMUNICATION",
+            "confidence": 0.951,
+            "box": [
+                [
+                    146.0,
+                    684.0
+                ],
+                [
+                    937.0,
+                    684.0
+                ],
+                [
+                    937.0,
+                    722.0
+                ],
+                [
+                    146.0,
+                    722.0
+                ]
+            ]
+        },
+        {
+            "text": "SKILLS AND DEGREE UNNTEY CHALU",
+            "confidence": 0.948,
+            "box": [
+                [
+                    90.0,
+                    739.0
+                ],
+                [
+                    989.0,
+                    739.0
+                ],
+                [
+                    989.0,
+                    781.0
+                ],
+                [
+                    90.0,
+                    781.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA PAGE NUNCHI JOBLESS GA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    174.0,
+                    915.0
+                ],
+                [
+                    904.0,
+                    916.0
+                ],
+                [
+                    904.0,
+                    958.0
+                ],
+                [
+                    174.0,
+                    957.0
+                ]
+            ]
+        },
+        {
+            "text": "NUMBER NEXT SLIDE LO UNNDHI",
+            "confidence": 0.96,
+            "box": [
+                [
+                    188.0,
+                    1013.0
+                ],
+                [
+                    892.0,
+                    1013.0
+                ],
+                [
+                    892.0,
+                    1051.0
+                ],
+                [
+                    188.0,
+                    1051.0
+                ]
+            ]
+        },
+        {
+            "text": "DOUBTS UNNTEY AH NUMBER",
+            "confidence": 0.955,
+            "box": [
+                [
+                    96.0,
+                    1152.0
+                ],
+                [
+                    982.0,
+                    1157.0
+                ],
+                [
+                    981.0,
+                    1208.0
+                ],
+                [
+                    96.0,
+                    1203.0
+                ]
+            ]
+        },
+        {
+            "text": "KI CALL CHEYANDI",
+            "confidence": 0.954,
+            "box": [
+                [
+                    266.0,
+                    1219.0
+                ],
+                [
+                    813.0,
+                    1219.0
+                ],
+                [
+                    813.0,
+                    1274.0
+                ],
+                [
+                    266.0,
+                    1274.0
+                ]
+            ]
+        }
+    ]
+}

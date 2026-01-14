@@ -1,0 +1,490 @@
+{
+    "image_name": "2025-12-31_16-32-31_UTC.jpg",
+    "combined_text": "EXCELLENT RESPONSE FROM PREMIERES FOR VANA VEERA\nINTRODUCTION SCENE AND FIGHT SCENES BETWEEN HERO\nAND VILLIAN ARE MAIN HIGHLIGHTS\nPERFECT FAMILY ENTERTAINER\nSEC\nASIAN\nSHANTHANU PATH\nSSCOASIAN\nSHANTHANU PATH\nBEST PRICE\nFOR THE BEST CONTENT\n99Rs-\nJANUARY\nST\nFOR\nSINGLE SCREENS\nIN THEATERS\nJANUARY\nIN THEATERS\nADDICTEDTOMEMES\nMANAM TFI FANS ANNADAM KADU ILANTI\nCINEMA LU NI ENCOURAGE CHEYALI",
+    "detailed": [
+        {
+            "text": "EXCELLENT RESPONSE FROM PREMIERES FOR VANA VEERA",
+            "confidence": 0.956,
+            "box": [
+                [
+                    24.0,
+                    57.0
+                ],
+                [
+                    1069.0,
+                    59.0
+                ],
+                [
+                    1069.0,
+                    92.0
+                ],
+                [
+                    24.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "INTRODUCTION SCENE AND FIGHT SCENES BETWEEN HERO",
+            "confidence": 0.969,
+            "box": [
+                [
+                    28.0,
+                    99.0
+                ],
+                [
+                    1072.0,
+                    103.0
+                ],
+                [
+                    1071.0,
+                    141.0
+                ],
+                [
+                    28.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "AND VILLIAN ARE MAIN HIGHLIGHTS",
+            "confidence": 0.955,
+            "box": [
+                [
+                    222.0,
+                    148.0
+                ],
+                [
+                    872.0,
+                    148.0
+                ],
+                [
+                    872.0,
+                    181.0
+                ],
+                [
+                    222.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFECT FAMILY ENTERTAINER",
+            "confidence": 0.977,
+            "box": [
+                [
+                    1.0,
+                    258.0
+                ],
+                [
+                    540.0,
+                    258.0
+                ],
+                [
+                    540.0,
+                    295.0
+                ],
+                [
+                    1.0,
+                    295.0
+                ]
+            ]
+        },
+        {
+            "text": "SEC",
+            "confidence": 0.745,
+            "box": [
+                [
+                    567.0,
+                    269.0
+                ],
+                [
+                    616.0,
+                    269.0
+                ],
+                [
+                    616.0,
+                    291.0
+                ],
+                [
+                    567.0,
+                    291.0
+                ]
+            ]
+        },
+        {
+            "text": "ASIAN",
+            "confidence": 0.995,
+            "box": [
+                [
+                    811.0,
+                    269.0
+                ],
+                [
+                    858.0,
+                    269.0
+                ],
+                [
+                    858.0,
+                    302.0
+                ],
+                [
+                    811.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "SHANTHANU PATH",
+            "confidence": 0.863,
+            "box": [
+                [
+                    998.0,
+                    270.0
+                ],
+                [
+                    1075.0,
+                    269.0
+                ],
+                [
+                    1076.0,
+                    291.0
+                ],
+                [
+                    999.0,
+                    293.0
+                ]
+            ]
+        },
+        {
+            "text": "SSCOASIAN",
+            "confidence": 0.87,
+            "box": [
+                [
+                    0.0,
+                    290.0
+                ],
+                [
+                    149.0,
+                    293.0
+                ],
+                [
+                    148.0,
+                    336.0
+                ],
+                [
+                    0.0,
+                    333.0
+                ]
+            ]
+        },
+        {
+            "text": "SHANTHANU PATH",
+            "confidence": 0.889,
+            "box": [
+                [
+                    443.0,
+                    296.0
+                ],
+                [
+                    538.0,
+                    294.0
+                ],
+                [
+                    539.0,
+                    315.0
+                ],
+                [
+                    443.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "BEST PRICE",
+            "confidence": 0.945,
+            "box": [
+                [
+                    133.0,
+                    347.0
+                ],
+                [
+                    388.0,
+                    308.0
+                ],
+                [
+                    397.0,
+                    368.0
+                ],
+                [
+                    142.0,
+                    407.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR THE BEST CONTENT",
+            "confidence": 0.964,
+            "box": [
+                [
+                    64.0,
+                    416.0
+                ],
+                [
+                    457.0,
+                    359.0
+                ],
+                [
+                    464.0,
+                    406.0
+                ],
+                [
+                    71.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "text": "99Rs-",
+            "confidence": 0.627,
+            "box": [
+                [
+                    82.0,
+                    430.0
+                ],
+                [
+                    439.0,
+                    375.0
+                ],
+                [
+                    471.0,
+                    576.0
+                ],
+                [
+                    113.0,
+                    631.0
+                ]
+            ]
+        },
+        {
+            "text": "JANUARY",
+            "confidence": 0.985,
+            "box": [
+                [
+                    564.0,
+                    455.0
+                ],
+                [
+                    633.0,
+                    446.0
+                ],
+                [
+                    637.0,
+                    473.0
+                ],
+                [
+                    568.0,
+                    482.0
+                ]
+            ]
+        },
+        {
+            "text": "ST",
+            "confidence": 0.884,
+            "box": [
+                [
+                    616.0,
+                    475.0
+                ],
+                [
+                    629.0,
+                    475.0
+                ],
+                [
+                    629.0,
+                    486.0
+                ],
+                [
+                    616.0,
+                    486.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR",
+            "confidence": 0.998,
+            "box": [
+                [
+                    284.0,
+                    507.0
+                ],
+                [
+                    323.0,
+                    507.0
+                ],
+                [
+                    323.0,
+                    537.0
+                ],
+                [
+                    284.0,
+                    537.0
+                ]
+            ]
+        },
+        {
+            "text": "SINGLE SCREENS",
+            "confidence": 0.94,
+            "box": [
+                [
+                    283.0,
+                    534.0
+                ],
+                [
+                    408.0,
+                    516.0
+                ],
+                [
+                    412.0,
+                    542.0
+                ],
+                [
+                    287.0,
+                    560.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATERS",
+            "confidence": 0.952,
+            "box": [
+                [
+                    580.0,
+                    546.0
+                ],
+                [
+                    649.0,
+                    535.0
+                ],
+                [
+                    652.0,
+                    558.0
+                ],
+                [
+                    583.0,
+                    568.0
+                ]
+            ]
+        },
+        {
+            "text": "JANUARY",
+            "confidence": 0.977,
+            "box": [
+                [
+                    2.0,
+                    723.0
+                ],
+                [
+                    84.0,
+                    706.0
+                ],
+                [
+                    91.0,
+                    738.0
+                ],
+                [
+                    9.0,
+                    755.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATERS",
+            "confidence": 0.926,
+            "box": [
+                [
+                    26.0,
+                    828.0
+                ],
+                [
+                    109.0,
+                    812.0
+                ],
+                [
+                    114.0,
+                    839.0
+                ],
+                [
+                    31.0,
+                    855.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    930.0,
+                    1076.0
+                ],
+                [
+                    1072.0,
+                    1076.0
+                ],
+                [
+                    1072.0,
+                    1093.0
+                ],
+                [
+                    930.0,
+                    1093.0
+                ]
+            ]
+        },
+        {
+            "text": "MANAM TFI FANS ANNADAM KADU ILANTI",
+            "confidence": 0.949,
+            "box": [
+                [
+                    153.0,
+                    1240.0
+                ],
+                [
+                    952.0,
+                    1240.0
+                ],
+                [
+                    952.0,
+                    1274.0
+                ],
+                [
+                    153.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA LU NI ENCOURAGE CHEYALI",
+            "confidence": 0.943,
+            "box": [
+                [
+                    211.0,
+                    1288.0
+                ],
+                [
+                    892.0,
+                    1288.0
+                ],
+                [
+                    892.0,
+                    1321.0
+                ],
+                [
+                    211.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

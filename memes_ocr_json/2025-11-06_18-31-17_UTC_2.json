@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-06_18-31-17_UTC_2.jpg",
+    "combined_text": "zohrankmamdani A busy first day as your Mayor-elect: early\nmorning interviews, transition announcements and meetings\nMore to say on all of it tomorrow.\nBut a highlight was lunch chili chicken with tingmo bread and\naloo dum with @aoc at Laliguras Bistro in Jackson Heights",
+    "detailed": [
+        {
+            "text": "zohrankmamdani A busy first day as your Mayor-elect: early",
+            "confidence": 0.968,
+            "box": [
+                [
+                    73.0,
+                    1023.0
+                ],
+                [
+                    989.0,
+                    1026.0
+                ],
+                [
+                    989.0,
+                    1057.0
+                ],
+                [
+                    73.0,
+                    1054.0
+                ]
+            ]
+        },
+        {
+            "text": "morning interviews, transition announcements and meetings",
+            "confidence": 0.982,
+            "box": [
+                [
+                    73.0,
+                    1061.0
+                ],
+                [
+                    990.0,
+                    1063.0
+                ],
+                [
+                    990.0,
+                    1095.0
+                ],
+                [
+                    73.0,
+                    1094.0
+                ]
+            ]
+        },
+        {
+            "text": "More to say on all of it tomorrow.",
+            "confidence": 0.979,
+            "box": [
+                [
+                    75.0,
+                    1101.0
+                ],
+                [
+                    567.0,
+                    1101.0
+                ],
+                [
+                    567.0,
+                    1131.0
+                ],
+                [
+                    75.0,
+                    1131.0
+                ]
+            ]
+        },
+        {
+            "text": "But a highlight was lunch chili chicken with tingmo bread and",
+            "confidence": 0.958,
+            "box": [
+                [
+                    75.0,
+                    1185.0
+                ],
+                [
+                    994.0,
+                    1185.0
+                ],
+                [
+                    994.0,
+                    1216.0
+                ],
+                [
+                    75.0,
+                    1216.0
+                ]
+            ]
+        },
+        {
+            "text": "aloo dum with @aoc at Laliguras Bistro in Jackson Heights",
+            "confidence": 0.946,
+            "box": [
+                [
+                    75.0,
+                    1225.0
+                ],
+                [
+                    958.0,
+                    1225.0
+                ],
+                [
+                    958.0,
+                    1252.0
+                ],
+                [
+                    75.0,
+                    1252.0
+                ]
+            ]
+        }
+    ]
+}

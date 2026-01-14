@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-20_14-00-00_UTC_6.jpg",
+    "combined_text": "FROM THE UNIVERSE OF\nBEtt\nMWYA\nIRA\nMADDOCKVERSE is expanding and\nwe are damn excited for it",
+    "detailed": [
+        {
+            "text": "FROM THE UNIVERSE OF",
+            "confidence": 0.945,
+            "box": [
+                [
+                    391.0,
+                    167.0
+                ],
+                [
+                    775.0,
+                    167.0
+                ],
+                [
+                    775.0,
+                    198.0
+                ],
+                [
+                    391.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "BEtt",
+            "confidence": 0.621,
+            "box": [
+                [
+                    13.0,
+                    205.0
+                ],
+                [
+                    757.0,
+                    213.0
+                ],
+                [
+                    755.0,
+                    410.0
+                ],
+                [
+                    11.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "MWYA",
+            "confidence": 0.566,
+            "box": [
+                [
+                    671.0,
+                    236.0
+                ],
+                [
+                    1044.0,
+                    215.0
+                ],
+                [
+                    1053.0,
+                    381.0
+                ],
+                [
+                    680.0,
+                    402.0
+                ]
+            ]
+        },
+        {
+            "text": "IRA",
+            "confidence": 0.595,
+            "box": [
+                [
+                    197.0,
+                    816.0
+                ],
+                [
+                    623.0,
+                    816.0
+                ],
+                [
+                    623.0,
+                    1102.0
+                ],
+                [
+                    197.0,
+                    1102.0
+                ]
+            ]
+        },
+        {
+            "text": "MADDOCKVERSE is expanding and",
+            "confidence": 0.996,
+            "box": [
+                [
+                    103.0,
+                    1194.0
+                ],
+                [
+                    982.0,
+                    1194.0
+                ],
+                [
+                    982.0,
+                    1247.0
+                ],
+                [
+                    103.0,
+                    1247.0
+                ]
+            ]
+        },
+        {
+            "text": "we are damn excited for it",
+            "confidence": 0.989,
+            "box": [
+                [
+                    127.0,
+                    1267.0
+                ],
+                [
+                    799.0,
+                    1267.0
+                ],
+                [
+                    799.0,
+                    1315.0
+                ],
+                [
+                    127.0,
+                    1315.0
+                ]
+            ]
+        }
+    ]
+}

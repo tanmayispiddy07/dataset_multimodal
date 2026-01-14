@@ -1,0 +1,952 @@
+{
+    "image_name": "2026-01-08_04-39-36_UTC.jpg",
+    "combined_text": "POKIRI SCREENING AT MALLA REDDY\nMORE THAN 1OOO+ STUDENTS\nMarquee0\nMALLA REDDY\nMARQUEE\nmarquee_film_club\nm\nUNIVERSITY\nFILMCLUB\nSPECIALCUT\nJ08D\nMAROUE\nSCREENING\nMarqueeo\nmarquee_film_club\nEVENT\nSun10:23pm\nEXCLUSIVEFOR\nMALLA REDDY UNIVERSITY\nHi boss,king of memes\nPOWERED\nWe'd love to invite you to our\nunifesto\npokiri screening event at our\nmalla reddy university and we're\ngiving you a ticket specially!\nJAN\nAlso,if we get one spicy meme\non your page about our club\ndoing this crazy event...\nthat would be iconic\n(after\nevent your experience)\nVENUE\nEINSTEIN BLOCK\nFOODPATER\nWaiting for your positive\nMALLA REDDY UNIVERSITY\nISTHARA\nresponse-marquee film club\n**BABU FANME\nADDICTEDTOM\nVASTHUNNA",
+    "detailed": [
+        {
+            "text": "POKIRI SCREENING AT MALLA REDDY",
+            "confidence": 0.944,
+            "box": [
+                [
+                    132.0,
+                    18.0
+                ],
+                [
+                    951.0,
+                    18.0
+                ],
+                [
+                    951.0,
+                    56.0
+                ],
+                [
+                    132.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "MORE THAN 1OOO+ STUDENTS",
+            "confidence": 0.949,
+            "box": [
+                [
+                    205.0,
+                    130.0
+                ],
+                [
+                    868.0,
+                    130.0
+                ],
+                [
+                    868.0,
+                    167.0
+                ],
+                [
+                    205.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "Marquee0",
+            "confidence": 0.914,
+            "box": [
+                [
+                    754.0,
+                    195.0
+                ],
+                [
+                    852.0,
+                    195.0
+                ],
+                [
+                    852.0,
+                    217.0
+                ],
+                [
+                    754.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "MALLA REDDY",
+            "confidence": 0.964,
+            "box": [
+                [
+                    65.0,
+                    213.0
+                ],
+                [
+                    151.0,
+                    216.0
+                ],
+                [
+                    150.0,
+                    243.0
+                ],
+                [
+                    64.0,
+                    239.0
+                ]
+            ]
+        },
+        {
+            "text": "MARQUEE",
+            "confidence": 0.979,
+            "box": [
+                [
+                    256.0,
+                    213.0
+                ],
+                [
+                    313.0,
+                    217.0
+                ],
+                [
+                    311.0,
+                    239.0
+                ],
+                [
+                    254.0,
+                    235.0
+                ]
+            ]
+        },
+        {
+            "text": "marquee_film_club",
+            "confidence": 0.986,
+            "box": [
+                [
+                    752.0,
+                    216.0
+                ],
+                [
+                    883.0,
+                    216.0
+                ],
+                [
+                    883.0,
+                    237.0
+                ],
+                [
+                    752.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "m",
+            "confidence": 0.904,
+            "box": [
+                [
+                    24.0,
+                    227.0
+                ],
+                [
+                    49.0,
+                    227.0
+                ],
+                [
+                    49.0,
+                    256.0
+                ],
+                [
+                    24.0,
+                    256.0
+                ]
+            ]
+        },
+        {
+            "text": "UNIVERSITY",
+            "confidence": 0.969,
+            "box": [
+                [
+                    68.0,
+                    235.0
+                ],
+                [
+                    144.0,
+                    231.0
+                ],
+                [
+                    145.0,
+                    257.0
+                ],
+                [
+                    70.0,
+                    261.0
+                ]
+            ]
+        },
+        {
+            "text": "FILMCLUB",
+            "confidence": 0.99,
+            "box": [
+                [
+                    253.0,
+                    234.0
+                ],
+                [
+                    312.0,
+                    234.0
+                ],
+                [
+                    312.0,
+                    252.0
+                ],
+                [
+                    253.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "text": "SPECIALCUT",
+            "confidence": 0.989,
+            "box": [
+                [
+                    87.0,
+                    294.0
+                ],
+                [
+                    193.0,
+                    294.0
+                ],
+                [
+                    193.0,
+                    316.0
+                ],
+                [
+                    87.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "J08D",
+            "confidence": 0.569,
+            "box": [
+                [
+                    86.0,
+                    331.0
+                ],
+                [
+                    236.0,
+                    356.0
+                ],
+                [
+                    224.0,
+                    433.0
+                ],
+                [
+                    73.0,
+                    409.0
+                ]
+            ]
+        },
+        {
+            "text": "MAROUE",
+            "confidence": 0.917,
+            "box": [
+                [
+                    815.0,
+                    392.0
+                ],
+                [
+                    877.0,
+                    399.0
+                ],
+                [
+                    874.0,
+                    422.0
+                ],
+                [
+                    812.0,
+                    415.0
+                ]
+            ]
+        },
+        {
+            "text": "SCREENING",
+            "confidence": 0.998,
+            "box": [
+                [
+                    31.0,
+                    433.0
+                ],
+                [
+                    256.0,
+                    433.0
+                ],
+                [
+                    256.0,
+                    481.0
+                ],
+                [
+                    31.0,
+                    481.0
+                ]
+            ]
+        },
+        {
+            "text": "Marqueeo",
+            "confidence": 0.936,
+            "box": [
+                [
+                    785.0,
+                    442.0
+                ],
+                [
+                    909.0,
+                    445.0
+                ],
+                [
+                    908.0,
+                    471.0
+                ],
+                [
+                    784.0,
+                    468.0
+                ]
+            ]
+        },
+        {
+            "text": "marquee_film_club",
+            "confidence": 0.985,
+            "box": [
+                [
+                    761.0,
+                    471.0
+                ],
+                [
+                    937.0,
+                    471.0
+                ],
+                [
+                    937.0,
+                    496.0
+                ],
+                [
+                    761.0,
+                    496.0
+                ]
+            ]
+        },
+        {
+            "text": "EVENT",
+            "confidence": 0.998,
+            "box": [
+                [
+                    75.0,
+                    491.0
+                ],
+                [
+                    211.0,
+                    491.0
+                ],
+                [
+                    211.0,
+                    539.0
+                ],
+                [
+                    75.0,
+                    539.0
+                ]
+            ]
+        },
+        {
+            "text": "Sun10:23pm",
+            "confidence": 0.959,
+            "box": [
+                [
+                    799.0,
+                    539.0
+                ],
+                [
+                    901.0,
+                    539.0
+                ],
+                [
+                    901.0,
+                    560.0
+                ],
+                [
+                    799.0,
+                    560.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCLUSIVEFOR",
+            "confidence": 0.987,
+            "box": [
+                [
+                    87.0,
+                    556.0
+                ],
+                [
+                    198.0,
+                    556.0
+                ],
+                [
+                    198.0,
+                    581.0
+                ],
+                [
+                    87.0,
+                    581.0
+                ]
+            ]
+        },
+        {
+            "text": "MALLA REDDY UNIVERSITY",
+            "confidence": 0.955,
+            "box": [
+                [
+                    53.0,
+                    578.0
+                ],
+                [
+                    233.0,
+                    578.0
+                ],
+                [
+                    233.0,
+                    599.0
+                ],
+                [
+                    53.0,
+                    599.0
+                ]
+            ]
+        },
+        {
+            "text": "Hi boss,king of memes",
+            "confidence": 0.941,
+            "box": [
+                [
+                    695.0,
+                    595.0
+                ],
+                [
+                    937.0,
+                    595.0
+                ],
+                [
+                    937.0,
+                    620.0
+                ],
+                [
+                    695.0,
+                    620.0
+                ]
+            ]
+        },
+        {
+            "text": "POWERED",
+            "confidence": 0.997,
+            "box": [
+                [
+                    87.0,
+                    647.0
+                ],
+                [
+                    170.0,
+                    647.0
+                ],
+                [
+                    170.0,
+                    668.0
+                ],
+                [
+                    87.0,
+                    668.0
+                ]
+            ]
+        },
+        {
+            "text": "We'd love to invite you to our",
+            "confidence": 0.944,
+            "box": [
+                [
+                    695.0,
+                    644.0
+                ],
+                [
+                    963.0,
+                    647.0
+                ],
+                [
+                    963.0,
+                    669.0
+                ],
+                [
+                    695.0,
+                    666.0
+                ]
+            ]
+        },
+        {
+            "text": "unifesto",
+            "confidence": 0.964,
+            "box": [
+                [
+                    75.0,
+                    668.0
+                ],
+                [
+                    202.0,
+                    664.0
+                ],
+                [
+                    203.0,
+                    713.0
+                ],
+                [
+                    77.0,
+                    717.0
+                ]
+            ]
+        },
+        {
+            "text": "pokiri screening event at our",
+            "confidence": 0.954,
+            "box": [
+                [
+                    693.0,
+                    669.0
+                ],
+                [
+                    962.0,
+                    669.0
+                ],
+                [
+                    962.0,
+                    694.0
+                ],
+                [
+                    693.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "malla reddy university and we're",
+            "confidence": 0.946,
+            "box": [
+                [
+                    695.0,
+                    695.0
+                ],
+                [
+                    997.0,
+                    695.0
+                ],
+                [
+                    997.0,
+                    716.0
+                ],
+                [
+                    695.0,
+                    716.0
+                ]
+            ]
+        },
+        {
+            "text": "giving you a ticket specially!",
+            "confidence": 0.956,
+            "box": [
+                [
+                    693.0,
+                    719.0
+                ],
+                [
+                    958.0,
+                    719.0
+                ],
+                [
+                    958.0,
+                    744.0
+                ],
+                [
+                    693.0,
+                    744.0
+                ]
+            ]
+        },
+        {
+            "text": "JAN",
+            "confidence": 0.915,
+            "box": [
+                [
+                    90.0,
+                    736.0
+                ],
+                [
+                    201.0,
+                    741.0
+                ],
+                [
+                    196.0,
+                    857.0
+                ],
+                [
+                    84.0,
+                    852.0
+                ]
+            ]
+        },
+        {
+            "text": "Also,if we get one spicy meme",
+            "confidence": 0.964,
+            "box": [
+                [
+                    693.0,
+                    741.0
+                ],
+                [
+                    984.0,
+                    743.0
+                ],
+                [
+                    984.0,
+                    768.0
+                ],
+                [
+                    693.0,
+                    767.0
+                ]
+            ]
+        },
+        {
+            "text": "on your page about our club",
+            "confidence": 0.975,
+            "box": [
+                [
+                    692.0,
+                    768.0
+                ],
+                [
+                    956.0,
+                    767.0
+                ],
+                [
+                    956.0,
+                    792.0
+                ],
+                [
+                    692.0,
+                    793.0
+                ]
+            ]
+        },
+        {
+            "text": "doing this crazy event...",
+            "confidence": 0.952,
+            "box": [
+                [
+                    695.0,
+                    794.0
+                ],
+                [
+                    911.0,
+                    794.0
+                ],
+                [
+                    911.0,
+                    815.0
+                ],
+                [
+                    695.0,
+                    815.0
+                ]
+            ]
+        },
+        {
+            "text": "that would be iconic",
+            "confidence": 0.976,
+            "box": [
+                [
+                    693.0,
+                    814.0
+                ],
+                [
+                    887.0,
+                    814.0
+                ],
+                [
+                    887.0,
+                    839.0
+                ],
+                [
+                    693.0,
+                    839.0
+                ]
+            ]
+        },
+        {
+            "text": "(after",
+            "confidence": 0.991,
+            "box": [
+                [
+                    944.0,
+                    818.0
+                ],
+                [
+                    1001.0,
+                    818.0
+                ],
+                [
+                    1001.0,
+                    840.0
+                ],
+                [
+                    944.0,
+                    840.0
+                ]
+            ]
+        },
+        {
+            "text": "event your experience)",
+            "confidence": 0.973,
+            "box": [
+                [
+                    695.0,
+                    843.0
+                ],
+                [
+                    908.0,
+                    843.0
+                ],
+                [
+                    908.0,
+                    864.0
+                ],
+                [
+                    695.0,
+                    864.0
+                ]
+            ]
+        },
+        {
+            "text": "VENUE",
+            "confidence": 0.996,
+            "box": [
+                [
+                    118.0,
+                    872.0
+                ],
+                [
+                    169.0,
+                    872.0
+                ],
+                [
+                    169.0,
+                    895.0
+                ],
+                [
+                    118.0,
+                    895.0
+                ]
+            ]
+        },
+        {
+            "text": "EINSTEIN BLOCK",
+            "confidence": 0.979,
+            "box": [
+                [
+                    83.0,
+                    891.0
+                ],
+                [
+                    201.0,
+                    891.0
+                ],
+                [
+                    201.0,
+                    916.0
+                ],
+                [
+                    83.0,
+                    916.0
+                ]
+            ]
+        },
+        {
+            "text": "FOODPATER",
+            "confidence": 0.687,
+            "box": [
+                [
+                    492.0,
+                    892.0
+                ],
+                [
+                    571.0,
+                    892.0
+                ],
+                [
+                    571.0,
+                    913.0
+                ],
+                [
+                    492.0,
+                    913.0
+                ]
+            ]
+        },
+        {
+            "text": "Waiting for your positive",
+            "confidence": 0.97,
+            "box": [
+                [
+                    693.0,
+                    888.0
+                ],
+                [
+                    925.0,
+                    889.0
+                ],
+                [
+                    925.0,
+                    916.0
+                ],
+                [
+                    693.0,
+                    914.0
+                ]
+            ]
+        },
+        {
+            "text": "MALLA REDDY UNIVERSITY",
+            "confidence": 0.974,
+            "box": [
+                [
+                    51.0,
+                    910.0
+                ],
+                [
+                    233.0,
+                    910.0
+                ],
+                [
+                    233.0,
+                    935.0
+                ],
+                [
+                    51.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "ISTHARA",
+            "confidence": 0.995,
+            "box": [
+                [
+                    494.0,
+                    910.0
+                ],
+                [
+                    567.0,
+                    910.0
+                ],
+                [
+                    567.0,
+                    928.0
+                ],
+                [
+                    494.0,
+                    928.0
+                ]
+            ]
+        },
+        {
+            "text": "response-marquee film club",
+            "confidence": 0.971,
+            "box": [
+                [
+                    692.0,
+                    914.0
+                ],
+                [
+                    962.0,
+                    913.0
+                ],
+                [
+                    962.0,
+                    938.0
+                ],
+                [
+                    692.0,
+                    939.0
+                ]
+            ]
+        },
+        {
+            "text": "**BABU FANME",
+            "confidence": 0.942,
+            "box": [
+                [
+                    575.0,
+                    979.0
+                ],
+                [
+                    965.0,
+                    989.0
+                ],
+                [
+                    964.0,
+                    1044.0
+                ],
+                [
+                    573.0,
+                    1035.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOM",
+            "confidence": 0.985,
+            "box": [
+                [
+                    58.0,
+                    1072.0
+                ],
+                [
+                    150.0,
+                    1072.0
+                ],
+                [
+                    150.0,
+                    1084.0
+                ],
+                [
+                    58.0,
+                    1084.0
+                ]
+            ]
+        },
+        {
+            "text": "VASTHUNNA",
+            "confidence": 0.997,
+            "box": [
+                [
+                    391.0,
+                    1244.0
+                ],
+                [
+                    896.0,
+                    1248.0
+                ],
+                [
+                    895.0,
+                    1317.0
+                ],
+                [
+                    391.0,
+                    1314.0
+                ]
+            ]
+        }
+    ]
+}

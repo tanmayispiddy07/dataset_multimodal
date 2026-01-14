@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-06-13_17-42-07_UTC.jpg",
+    "combined_text": "If my boyfriend cheats me",
+    "detailed": [
+        {
+            "text": "If my boyfriend cheats me",
+            "confidence": 0.984,
+            "box": [
+                [
+                    66.0,
+                    141.0
+                ],
+                [
+                    472.0,
+                    143.0
+                ],
+                [
+                    471.0,
+                    175.0
+                ],
+                [
+                    65.0,
+                    173.0
+                ]
+            ]
+        }
+    ]
+}

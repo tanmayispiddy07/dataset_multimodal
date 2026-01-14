@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-12-25_05-18-29_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE\nFILM\"SHAMBHALA'\nGOOD 1ST HALF WHERE STORY BUILDING TAKES\nLITTLE TIME AND PRE INTERVAL BLOCK IS\nLITERALLY HORROR AND THRILLER FEELS\nADDICTEDTOMEMES\nABOVE AVERAGE2ND HALF WITH GOOD\nINVESTIGATION JOURNEY.DEFINITELY AADI\nSAI KUMAR COMEBACK FILM.FEW SCENES\nARE WORTH WATCHING IN THEATERS\nFAMILY WATCH ?! YES",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE",
+            "confidence": 0.925,
+            "box": [
+                [
+                    177.0,
+                    10.0
+                ],
+                [
+                    951.0,
+                    10.0
+                ],
+                [
+                    951.0,
+                    56.0
+                ],
+                [
+                    177.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM\"SHAMBHALA'",
+            "confidence": 0.959,
+            "box": [
+                [
+                    295.0,
+                    79.0
+                ],
+                [
+                    827.0,
+                    79.0
+                ],
+                [
+                    827.0,
+                    121.0
+                ],
+                [
+                    295.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "GOOD 1ST HALF WHERE STORY BUILDING TAKES",
+            "confidence": 0.931,
+            "box": [
+                [
+                    173.0,
+                    156.0
+                ],
+                [
+                    963.0,
+                    156.0
+                ],
+                [
+                    963.0,
+                    185.0
+                ],
+                [
+                    173.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "text": "LITTLE TIME AND PRE INTERVAL BLOCK IS",
+            "confidence": 0.934,
+            "box": [
+                [
+                    225.0,
+                    199.0
+                ],
+                [
+                    907.0,
+                    199.0
+                ],
+                [
+                    907.0,
+                    229.0
+                ],
+                [
+                    225.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "LITERALLY HORROR AND THRILLER FEELS",
+            "confidence": 0.954,
+            "box": [
+                [
+                    222.0,
+                    241.0
+                ],
+                [
+                    906.0,
+                    241.0
+                ],
+                [
+                    906.0,
+                    270.0
+                ],
+                [
+                    222.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.997,
+            "box": [
+                [
+                    922.0,
+                    432.0
+                ],
+                [
+                    1073.0,
+                    432.0
+                ],
+                [
+                    1073.0,
+                    453.0
+                ],
+                [
+                    922.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "ABOVE AVERAGE2ND HALF WITH GOOD",
+            "confidence": 0.947,
+            "box": [
+                [
+                    114.0,
+                    1073.0
+                ],
+                [
+                    1008.0,
+                    1073.0
+                ],
+                [
+                    1008.0,
+                    1111.0
+                ],
+                [
+                    114.0,
+                    1111.0
+                ]
+            ]
+        },
+        {
+            "text": "INVESTIGATION JOURNEY.DEFINITELY AADI",
+            "confidence": 0.976,
+            "box": [
+                [
+                    75.0,
+                    1128.0
+                ],
+                [
+                    1049.0,
+                    1128.0
+                ],
+                [
+                    1049.0,
+                    1165.0
+                ],
+                [
+                    75.0,
+                    1165.0
+                ]
+            ]
+        },
+        {
+            "text": "SAI KUMAR COMEBACK FILM.FEW SCENES",
+            "confidence": 0.946,
+            "box": [
+                [
+                    96.0,
+                    1182.0
+                ],
+                [
+                    1027.0,
+                    1182.0
+                ],
+                [
+                    1027.0,
+                    1220.0
+                ],
+                [
+                    96.0,
+                    1220.0
+                ]
+            ]
+        },
+        {
+            "text": "ARE WORTH WATCHING IN THEATERS",
+            "confidence": 0.951,
+            "box": [
+                [
+                    150.0,
+                    1235.0
+                ],
+                [
+                    963.0,
+                    1235.0
+                ],
+                [
+                    963.0,
+                    1277.0
+                ],
+                [
+                    150.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH ?! YES",
+            "confidence": 0.951,
+            "box": [
+                [
+                    323.0,
+                    1291.0
+                ],
+                [
+                    789.0,
+                    1291.0
+                ],
+                [
+                    789.0,
+                    1328.0
+                ],
+                [
+                    323.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-05_06-29-16_UTC.jpg",
+    "combined_text": "TAG THAT MAHESHBABU FAN IN\nYOUR BATCH WHO IS MORE EXCITED\nFOR BABU BIRTHDAY THAN HIS\nOWN BIRTHDAY AND ASK HIM FOR\nATHADU RE RELEASE TICKETS\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "TAG THAT MAHESHBABU FAN IN",
+            "confidence": 0.947,
+            "box": [
+                [
+                    152.0,
+                    35.0
+                ],
+                [
+                    947.0,
+                    35.0
+                ],
+                [
+                    947.0,
+                    81.0
+                ],
+                [
+                    152.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "YOUR BATCH WHO IS MORE EXCITED",
+            "confidence": 0.92,
+            "box": [
+                [
+                    101.0,
+                    99.0
+                ],
+                [
+                    1000.0,
+                    99.0
+                ],
+                [
+                    1000.0,
+                    139.0
+                ],
+                [
+                    101.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR BABU BIRTHDAY THAN HIS",
+            "confidence": 0.942,
+            "box": [
+                [
+                    168.0,
+                    159.0
+                ],
+                [
+                    929.0,
+                    159.0
+                ],
+                [
+                    929.0,
+                    203.0
+                ],
+                [
+                    168.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "OWN BIRTHDAY AND ASK HIM FOR",
+            "confidence": 0.993,
+            "box": [
+                [
+                    123.0,
+                    220.0
+                ],
+                [
+                    976.0,
+                    220.0
+                ],
+                [
+                    976.0,
+                    264.0
+                ],
+                [
+                    123.0,
+                    264.0
+                ]
+            ]
+        },
+        {
+            "text": "ATHADU RE RELEASE TICKETS",
+            "confidence": 0.976,
+            "box": [
+                [
+                    181.0,
+                    284.0
+                ],
+                [
+                    907.0,
+                    284.0
+                ],
+                [
+                    907.0,
+                    324.0
+                ],
+                [
+                    181.0,
+                    324.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    924.0,
+                    381.0
+                ],
+                [
+                    1076.0,
+                    382.0
+                ],
+                [
+                    1075.0,
+                    402.0
+                ],
+                [
+                    924.0,
+                    401.0
+                ]
+            ]
+        }
+    ]
+}

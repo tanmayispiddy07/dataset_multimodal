@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-09-11_13-15-54_UTC.jpg",
+    "combined_text": "RAJEEV KANAKALA IMPRESSED\nEVERYONEIN RECENT TIMES\nWITH HIS PERFORMANCE\nADDICTEDTOMEMES\nOKA HOME TOWN MOVIE\nOKA CONSTABLE KANAKAM\nOKA LITTLE HEARTS\nINKA UPCOMING PROJECTS CHALA UNAI",
+    "detailed": [
+        {
+            "text": "RAJEEV KANAKALA IMPRESSED",
+            "confidence": 0.968,
+            "box": [
+                [
+                    142.0,
+                    16.0
+                ],
+                [
+                    911.0,
+                    16.0
+                ],
+                [
+                    911.0,
+                    58.0
+                ],
+                [
+                    142.0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "text": "EVERYONEIN RECENT TIMES",
+            "confidence": 0.963,
+            "box": [
+                [
+                    186.0,
+                    80.0
+                ],
+                [
+                    871.0,
+                    80.0
+                ],
+                [
+                    871.0,
+                    117.0
+                ],
+                [
+                    186.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH HIS PERFORMANCE",
+            "confidence": 0.949,
+            "box": [
+                [
+                    219.0,
+                    137.0
+                ],
+                [
+                    823.0,
+                    137.0
+                ],
+                [
+                    823.0,
+                    178.0
+                ],
+                [
+                    219.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.987,
+            "box": [
+                [
+                    429.0,
+                    1001.0
+                ],
+                [
+                    556.0,
+                    1001.0
+                ],
+                [
+                    556.0,
+                    1017.0
+                ],
+                [
+                    429.0,
+                    1017.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA HOME TOWN MOVIE",
+            "confidence": 0.939,
+            "box": [
+                [
+                    338.0,
+                    1156.0
+                ],
+                [
+                    744.0,
+                    1156.0
+                ],
+                [
+                    744.0,
+                    1184.0
+                ],
+                [
+                    338.0,
+                    1184.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA CONSTABLE KANAKAM",
+            "confidence": 0.959,
+            "box": [
+                [
+                    316.0,
+                    1193.0
+                ],
+                [
+                    778.0,
+                    1194.0
+                ],
+                [
+                    778.0,
+                    1227.0
+                ],
+                [
+                    316.0,
+                    1225.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA LITTLE HEARTS",
+            "confidence": 0.958,
+            "box": [
+                [
+                    379.0,
+                    1234.0
+                ],
+                [
+                    699.0,
+                    1234.0
+                ],
+                [
+                    699.0,
+                    1263.0
+                ],
+                [
+                    379.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "INKA UPCOMING PROJECTS CHALA UNAI",
+            "confidence": 0.961,
+            "box": [
+                [
+                    209.0,
+                    1271.0
+                ],
+                [
+                    880.0,
+                    1271.0
+                ],
+                [
+                    880.0,
+                    1304.0
+                ],
+                [
+                    209.0,
+                    1304.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-03_04-01-16_UTC.jpg",
+    "combined_text": "MY MOOD SWINGS AND\nPERSONALITIES\nON EVERY MONDAY\nDELTA FORCE\nDELTA FORCE\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "MY MOOD SWINGS AND",
+            "confidence": 0.937,
+            "box": [
+                [
+                    284.0,
+                    18.0
+                ],
+                [
+                    847.0,
+                    18.0
+                ],
+                [
+                    847.0,
+                    59.0
+                ],
+                [
+                    284.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "PERSONALITIES",
+            "confidence": 0.997,
+            "box": [
+                [
+                    137.0,
+                    78.0
+                ],
+                [
+                    514.0,
+                    78.0
+                ],
+                [
+                    514.0,
+                    116.0
+                ],
+                [
+                    137.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "ON EVERY MONDAY",
+            "confidence": 0.947,
+            "box": [
+                [
+                    495.0,
+                    77.0
+                ],
+                [
+                    981.0,
+                    77.0
+                ],
+                [
+                    981.0,
+                    118.0
+                ],
+                [
+                    495.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "DELTA FORCE",
+            "confidence": 0.948,
+            "box": [
+                [
+                    802.0,
+                    114.0
+                ],
+                [
+                    1008.0,
+                    181.0
+                ],
+                [
+                    990.0,
+                    239.0
+                ],
+                [
+                    784.0,
+                    172.0
+                ]
+            ]
+        },
+        {
+            "text": "DELTA FORCE",
+            "confidence": 0.923,
+            "box": [
+                [
+                    116.0,
+                    185.0
+                ],
+                [
+                    331.0,
+                    102.0
+                ],
+                [
+                    357.0,
+                    169.0
+                ],
+                [
+                    142.0,
+                    253.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    489.0,
+                    665.0
+                ],
+                [
+                    673.0,
+                    664.0
+                ],
+                [
+                    673.0,
+                    687.0
+                ],
+                [
+                    489.0,
+                    689.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-04-01_03-49-07_UTC.jpg",
+    "combined_text": "WHEN SOMEONE TRIES TO MAKE\nYOU FOOL ON APRIL 1ST\nMEANWHILE YOU WHOSE IS\nALREADY A FOOL\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "WHEN SOMEONE TRIES TO MAKE",
+            "confidence": 0.94,
+            "box": [
+                [
+                    94.0,
+                    31.0
+                ],
+                [
+                    1020.0,
+                    34.0
+                ],
+                [
+                    1019.0,
+                    84.0
+                ],
+                [
+                    94.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU FOOL ON APRIL 1ST",
+            "confidence": 0.947,
+            "box": [
+                [
+                    212.0,
+                    103.0
+                ],
+                [
+                    896.0,
+                    103.0
+                ],
+                [
+                    896.0,
+                    149.0
+                ],
+                [
+                    212.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "MEANWHILE YOU WHOSE IS",
+            "confidence": 0.997,
+            "box": [
+                [
+                    169.0,
+                    171.0
+                ],
+                [
+                    945.0,
+                    170.0
+                ],
+                [
+                    945.0,
+                    220.0
+                ],
+                [
+                    169.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "ALREADY A FOOL",
+            "confidence": 0.988,
+            "box": [
+                [
+                    309.0,
+                    238.0
+                ],
+                [
+                    807.0,
+                    238.0
+                ],
+                [
+                    807.0,
+                    293.0
+                ],
+                [
+                    309.0,
+                    293.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    883.0,
+                    491.0
+                ],
+                [
+                    1025.0,
+                    491.0
+                ],
+                [
+                    1025.0,
+                    507.0
+                ],
+                [
+                    883.0,
+                    507.0
+                ]
+            ]
+        }
+    ]
+}

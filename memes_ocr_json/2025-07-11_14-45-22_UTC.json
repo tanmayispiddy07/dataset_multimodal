@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-07-11_14-45-22_UTC.jpg",
+    "combined_text": "I told her to do spreadsheet\nsarcasm",
+    "detailed": [
+        {
+            "text": "I told her to do spreadsheet",
+            "confidence": 0.963,
+            "box": [
+                [
+                    110.0,
+                    158.0
+                ],
+                [
+                    429.0,
+                    158.0
+                ],
+                [
+                    429.0,
+                    183.0
+                ],
+                [
+                    110.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.995,
+            "box": [
+                [
+                    279.0,
+                    722.0
+                ],
+                [
+                    324.0,
+                    722.0
+                ],
+                [
+                    324.0,
+                    731.0
+                ],
+                [
+                    279.0,
+                    731.0
+                ]
+            ]
+        }
+    ]
+}

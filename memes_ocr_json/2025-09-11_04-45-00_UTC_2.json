@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-09-11_04-45-00_UTC_2.jpg",
+    "combined_text": "SamsungMobile US\nSAMSUNG\nGalaxy\n@SamsungMobileUS\n#iCant believe this is still relevant.\nSamsung Mob...\n@SamsungM...Sep7,2022\nLet usknow it when it folds\nsarcasm",
+    "detailed": [
+        {
+            "text": "SamsungMobile US",
+            "confidence": 0.966,
+            "box": [
+                [
+                    183.0,
+                    471.0
+                ],
+                [
+                    496.0,
+                    471.0
+                ],
+                [
+                    496.0,
+                    504.0
+                ],
+                [
+                    183.0,
+                    504.0
+                ]
+            ]
+        },
+        {
+            "text": "SAMSUNG",
+            "confidence": 0.995,
+            "box": [
+                [
+                    92.0,
+                    490.0
+                ],
+                [
+                    152.0,
+                    490.0
+                ],
+                [
+                    152.0,
+                    508.0
+                ],
+                [
+                    92.0,
+                    508.0
+                ]
+            ]
+        },
+        {
+            "text": "Galaxy",
+            "confidence": 0.996,
+            "box": [
+                [
+                    99.0,
+                    502.0
+                ],
+                [
+                    145.0,
+                    507.0
+                ],
+                [
+                    143.0,
+                    524.0
+                ],
+                [
+                    97.0,
+                    519.0
+                ]
+            ]
+        },
+        {
+            "text": "@SamsungMobileUS",
+            "confidence": 0.995,
+            "box": [
+                [
+                    184.0,
+                    514.0
+                ],
+                [
+                    499.0,
+                    514.0
+                ],
+                [
+                    499.0,
+                    548.0
+                ],
+                [
+                    184.0,
+                    548.0
+                ]
+            ]
+        },
+        {
+            "text": "#iCant believe this is still relevant.",
+            "confidence": 0.953,
+            "box": [
+                [
+                    79.0,
+                    589.0
+                ],
+                [
+                    652.0,
+                    592.0
+                ],
+                [
+                    652.0,
+                    625.0
+                ],
+                [
+                    79.0,
+                    622.0
+                ]
+            ]
+        },
+        {
+            "text": "Samsung Mob...",
+            "confidence": 0.926,
+            "box": [
+                [
+                    164.0,
+                    698.0
+                ],
+                [
+                    412.0,
+                    698.0
+                ],
+                [
+                    412.0,
+                    731.0
+                ],
+                [
+                    164.0,
+                    731.0
+                ]
+            ]
+        },
+        {
+            "text": "@SamsungM...Sep7,2022",
+            "confidence": 0.945,
+            "box": [
+                [
+                    479.0,
+                    699.0
+                ],
+                [
+                    912.0,
+                    699.0
+                ],
+                [
+                    912.0,
+                    732.0
+                ],
+                [
+                    479.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "Let usknow it when it folds",
+            "confidence": 0.945,
+            "box": [
+                [
+                    107.0,
+                    756.0
+                ],
+                [
+                    516.0,
+                    756.0
+                ],
+                [
+                    516.0,
+                    786.0
+                ],
+                [
+                    107.0,
+                    786.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    459.0,
+                    1216.0
+                ],
+                [
+                    563.0,
+                    1216.0
+                ],
+                [
+                    563.0,
+                    1237.0
+                ],
+                [
+                    459.0,
+                    1237.0
+                ]
+            ]
+        }
+    ]
+}

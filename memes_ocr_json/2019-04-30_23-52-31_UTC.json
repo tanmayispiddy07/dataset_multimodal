@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-04-30_23-52-31_UTC.jpg",
+    "combined_text": "INVITES2PEOPLEOVERFOR\nDINNER\nMAKESFOODFOR20",
+    "detailed": [
+        {
+            "text": "INVITES2PEOPLEOVERFOR",
+            "confidence": 0.987,
+            "box": [
+                [
+                    23.0,
+                    15.0
+                ],
+                [
+                    429.0,
+                    15.0
+                ],
+                [
+                    429.0,
+                    46.0
+                ],
+                [
+                    23.0,
+                    46.0
+                ]
+            ]
+        },
+        {
+            "text": "DINNER",
+            "confidence": 0.996,
+            "box": [
+                [
+                    165.0,
+                    58.0
+                ],
+                [
+                    285.0,
+                    58.0
+                ],
+                [
+                    285.0,
+                    97.0
+                ],
+                [
+                    165.0,
+                    97.0
+                ]
+            ]
+        },
+        {
+            "text": "MAKESFOODFOR20",
+            "confidence": 0.971,
+            "box": [
+                [
+                    4.0,
+                    328.0
+                ],
+                [
+                    448.0,
+                    328.0
+                ],
+                [
+                    448.0,
+                    375.0
+                ],
+                [
+                    4.0,
+                    375.0
+                ]
+            ]
+        }
+    ]
+}

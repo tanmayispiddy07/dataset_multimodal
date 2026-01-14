@@ -1,0 +1,512 @@
+{
+    "image_name": "2025-05-27_16-00-52_UTC.jpg",
+    "combined_text": "SUPER POSTIVE RESPONSE FOR MIRAI TEASER\nPREVIEW FROM BOLLYWOOD CRITICS\nTEASER OFFICIAL RELEASING TOMMOROW\nMORNING 10:08AM\npecplesv\nNOTHING WELL BE\n28.0525\nRohit Jaiswal \n@rohitjswl01\nJust saw MIRAlTEASER allI can say\nWhat aFANTASTIC teaser...\n#Mirai looks BlG &Solid\nThis film will break several records here in I\nKya scale hai boss....\nPost Hanuman this young actoris\nUNSTOPPABLE....\nTiRA!\nSUFSETOSS\n#MiraiTeaser #TejaSajja #PeopleMediaFa\n@tejasajja123@peoplemediafcy\nADDICTEDTOMEMES\nCHALUCHALU E\nMATRAM HYPE CHALU",
+    "detailed": [
+        {
+            "text": "SUPER POSTIVE RESPONSE FOR MIRAI TEASER",
+            "confidence": 0.946,
+            "box": [
+                [
+                    115.0,
+                    17.0
+                ],
+                [
+                    979.0,
+                    17.0
+                ],
+                [
+                    979.0,
+                    50.0
+                ],
+                [
+                    115.0,
+                    50.0
+                ]
+            ]
+        },
+        {
+            "text": "PREVIEW FROM BOLLYWOOD CRITICS",
+            "confidence": 0.947,
+            "box": [
+                [
+                    190.0,
+                    63.0
+                ],
+                [
+                    893.0,
+                    63.0
+                ],
+                [
+                    893.0,
+                    96.0
+                ],
+                [
+                    190.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER OFFICIAL RELEASING TOMMOROW",
+            "confidence": 0.973,
+            "box": [
+                [
+                    143.0,
+                    107.0
+                ],
+                [
+                    949.0,
+                    106.0
+                ],
+                [
+                    949.0,
+                    141.0
+                ],
+                [
+                    143.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "MORNING 10:08AM",
+            "confidence": 0.939,
+            "box": [
+                [
+                    363.0,
+                    155.0
+                ],
+                [
+                    733.0,
+                    155.0
+                ],
+                [
+                    733.0,
+                    188.0
+                ],
+                [
+                    363.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "pecplesv",
+            "confidence": 0.804,
+            "box": [
+                [
+                    4.0,
+                    229.0
+                ],
+                [
+                    53.0,
+                    229.0
+                ],
+                [
+                    53.0,
+                    244.0
+                ],
+                [
+                    4.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "text": "NOTHING WELL BE",
+            "confidence": 0.782,
+            "box": [
+                [
+                    356.0,
+                    231.0
+                ],
+                [
+                    498.0,
+                    231.0
+                ],
+                [
+                    498.0,
+                    248.0
+                ],
+                [
+                    356.0,
+                    248.0
+                ]
+            ]
+        },
+        {
+            "text": "28.0525",
+            "confidence": 0.911,
+            "box": [
+                [
+                    384.0,
+                    255.0
+                ],
+                [
+                    501.0,
+                    255.0
+                ],
+                [
+                    501.0,
+                    276.0
+                ],
+                [
+                    384.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "Rohit Jaiswal ",
+            "confidence": 0.95,
+            "box": [
+                [
+                    626.0,
+                    247.0
+                ],
+                [
+                    810.0,
+                    247.0
+                ],
+                [
+                    810.0,
+                    277.0
+                ],
+                [
+                    626.0,
+                    277.0
+                ]
+            ]
+        },
+        {
+            "text": "@rohitjswl01",
+            "confidence": 0.962,
+            "box": [
+                [
+                    626.0,
+                    282.0
+                ],
+                [
+                    775.0,
+                    282.0
+                ],
+                [
+                    775.0,
+                    312.0
+                ],
+                [
+                    626.0,
+                    312.0
+                ]
+            ]
+        },
+        {
+            "text": "Just saw MIRAlTEASER allI can say",
+            "confidence": 0.919,
+            "box": [
+                [
+                    537.0,
+                    360.0
+                ],
+                [
+                    993.0,
+                    362.0
+                ],
+                [
+                    993.0,
+                    397.0
+                ],
+                [
+                    537.0,
+                    394.0
+                ]
+            ]
+        },
+        {
+            "text": "What aFANTASTIC teaser...",
+            "confidence": 0.963,
+            "box": [
+                [
+                    537.0,
+                    399.0
+                ],
+                [
+                    894.0,
+                    401.0
+                ],
+                [
+                    894.0,
+                    436.0
+                ],
+                [
+                    537.0,
+                    433.0
+                ]
+            ]
+        },
+        {
+            "text": "#Mirai looks BlG &Solid",
+            "confidence": 0.928,
+            "box": [
+                [
+                    546.0,
+                    481.0
+                ],
+                [
+                    852.0,
+                    481.0
+                ],
+                [
+                    852.0,
+                    510.0
+                ],
+                [
+                    546.0,
+                    510.0
+                ]
+            ]
+        },
+        {
+            "text": "This film will break several records here in I",
+            "confidence": 0.953,
+            "box": [
+                [
+                    539.0,
+                    557.0
+                ],
+                [
+                    1077.0,
+                    559.0
+                ],
+                [
+                    1077.0,
+                    592.0
+                ],
+                [
+                    539.0,
+                    591.0
+                ]
+            ]
+        },
+        {
+            "text": "Kya scale hai boss....",
+            "confidence": 0.952,
+            "box": [
+                [
+                    539.0,
+                    599.0
+                ],
+                [
+                    807.0,
+                    599.0
+                ],
+                [
+                    807.0,
+                    633.0
+                ],
+                [
+                    539.0,
+                    633.0
+                ]
+            ]
+        },
+        {
+            "text": "Post Hanuman this young actoris",
+            "confidence": 0.963,
+            "box": [
+                [
+                    539.0,
+                    679.0
+                ],
+                [
+                    965.0,
+                    679.0
+                ],
+                [
+                    965.0,
+                    712.0
+                ],
+                [
+                    539.0,
+                    712.0
+                ]
+            ]
+        },
+        {
+            "text": "UNSTOPPABLE....",
+            "confidence": 0.974,
+            "box": [
+                [
+                    537.0,
+                    713.0
+                ],
+                [
+                    776.0,
+                    717.0
+                ],
+                [
+                    776.0,
+                    751.0
+                ],
+                [
+                    537.0,
+                    748.0
+                ]
+            ]
+        },
+        {
+            "text": "TiRA!",
+            "confidence": 0.68,
+            "box": [
+                [
+                    346.0,
+                    745.0
+                ],
+                [
+                    512.0,
+                    760.0
+                ],
+                [
+                    507.0,
+                    817.0
+                ],
+                [
+                    341.0,
+                    803.0
+                ]
+            ]
+        },
+        {
+            "text": "SUFSETOSS",
+            "confidence": 0.597,
+            "box": [
+                [
+                    382.0,
+                    804.0
+                ],
+                [
+                    468.0,
+                    804.0
+                ],
+                [
+                    468.0,
+                    821.0
+                ],
+                [
+                    382.0,
+                    821.0
+                ]
+            ]
+        },
+        {
+            "text": "#MiraiTeaser #TejaSajja #PeopleMediaFa",
+            "confidence": 0.975,
+            "box": [
+                [
+                    540.0,
+                    797.0
+                ],
+                [
+                    1077.0,
+                    797.0
+                ],
+                [
+                    1077.0,
+                    831.0
+                ],
+                [
+                    540.0,
+                    831.0
+                ]
+            ]
+        },
+        {
+            "text": "@tejasajja123@peoplemediafcy",
+            "confidence": 0.998,
+            "box": [
+                [
+                    540.0,
+                    838.0
+                ],
+                [
+                    952.0,
+                    838.0
+                ],
+                [
+                    952.0,
+                    871.0
+                ],
+                [
+                    540.0,
+                    871.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    478.0,
+                    1013.0
+                ],
+                [
+                    629.0,
+                    1013.0
+                ],
+                [
+                    629.0,
+                    1034.0
+                ],
+                [
+                    478.0,
+                    1034.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALUCHALU E",
+            "confidence": 0.966,
+            "box": [
+                [
+                    385.0,
+                    1235.0
+                ],
+                [
+                    734.0,
+                    1235.0
+                ],
+                [
+                    734.0,
+                    1272.0
+                ],
+                [
+                    385.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "MATRAM HYPE CHALU",
+            "confidence": 0.943,
+            "box": [
+                [
+                    316.0,
+                    1288.0
+                ],
+                [
+                    790.0,
+                    1288.0
+                ],
+                [
+                    790.0,
+                    1325.0
+                ],
+                [
+                    316.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

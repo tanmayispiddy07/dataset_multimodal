@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-10-20_17-24-16_UTC_1.jpg",
+    "combined_text": "Some promises are\nmeant to be kept forever\nsarcasm",
+    "detailed": [
+        {
+            "text": "Some promises are",
+            "confidence": 0.988,
+            "box": [
+                [
+                    259.0,
+                    467.0
+                ],
+                [
+                    813.0,
+                    467.0
+                ],
+                [
+                    813.0,
+                    524.0
+                ],
+                [
+                    259.0,
+                    524.0
+                ]
+            ]
+        },
+        {
+            "text": "meant to be kept forever",
+            "confidence": 0.978,
+            "box": [
+                [
+                    186.0,
+                    540.0
+                ],
+                [
+                    888.0,
+                    535.0
+                ],
+                [
+                    889.0,
+                    594.0
+                ],
+                [
+                    186.0,
+                    599.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    475.0,
+                    1289.0
+                ],
+                [
+                    606.0,
+                    1289.0
+                ],
+                [
+                    606.0,
+                    1315.0
+                ],
+                [
+                    475.0,
+                    1315.0
+                ]
+            ]
+        }
+    ]
+}

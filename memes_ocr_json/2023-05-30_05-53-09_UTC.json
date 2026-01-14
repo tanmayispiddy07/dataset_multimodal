@@ -1,0 +1,226 @@
+{
+    "image_name": "2023-05-30_05-53-09_UTC.jpg",
+    "combined_text": "SRH AND\nRCB FANS\nENTRA MEE TEAM GELICHINA\nDAWATH IVVATLEDHU\nSHER\nTELUGU MEMES GURU\nNG\nADI EH MA TEAM GELICHI UNNTEY\nE TIME KI MA KIDNEYLLU AMESHI MARI\nDAWATH ISTHUNDEY TELUSHAAA...",
+    "detailed": [
+        {
+            "text": "SRH AND",
+            "confidence": 0.958,
+            "box": [
+                [
+                    395.0,
+                    28.0
+                ],
+                [
+                    676.0,
+                    28.0
+                ],
+                [
+                    676.0,
+                    80.0
+                ],
+                [
+                    395.0,
+                    80.0
+                ]
+            ]
+        },
+        {
+            "text": "RCB FANS",
+            "confidence": 0.943,
+            "box": [
+                [
+                    386.0,
+                    95.0
+                ],
+                [
+                    693.0,
+                    91.0
+                ],
+                [
+                    693.0,
+                    149.0
+                ],
+                [
+                    386.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTRA MEE TEAM GELICHINA",
+            "confidence": 0.958,
+            "box": [
+                [
+                    174.0,
+                    435.0
+                ],
+                [
+                    906.0,
+                    437.0
+                ],
+                [
+                    906.0,
+                    480.0
+                ],
+                [
+                    174.0,
+                    479.0
+                ]
+            ]
+        },
+        {
+            "text": "DAWATH IVVATLEDHU",
+            "confidence": 0.978,
+            "box": [
+                [
+                    254.0,
+                    494.0
+                ],
+                [
+                    822.0,
+                    493.0
+                ],
+                [
+                    822.0,
+                    534.0
+                ],
+                [
+                    254.0,
+                    536.0
+                ]
+            ]
+        },
+        {
+            "text": "SHER",
+            "confidence": 0.875,
+            "box": [
+                [
+                    250.0,
+                    515.0
+                ],
+                [
+                    646.0,
+                    537.0
+                ],
+                [
+                    633.0,
+                    767.0
+                ],
+                [
+                    237.0,
+                    744.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.923,
+            "box": [
+                [
+                    889.0,
+                    673.0
+                ],
+                [
+                    1022.0,
+                    673.0
+                ],
+                [
+                    1022.0,
+                    693.0
+                ],
+                [
+                    889.0,
+                    693.0
+                ]
+            ]
+        },
+        {
+            "text": "NG",
+            "confidence": 0.981,
+            "box": [
+                [
+                    295.0,
+                    690.0
+                ],
+                [
+                    426.0,
+                    687.0
+                ],
+                [
+                    428.0,
+                    767.0
+                ],
+                [
+                    297.0,
+                    770.0
+                ]
+            ]
+        },
+        {
+            "text": "ADI EH MA TEAM GELICHI UNNTEY",
+            "confidence": 0.93,
+            "box": [
+                [
+                    116.0,
+                    901.0
+                ],
+                [
+                    967.0,
+                    908.0
+                ],
+                [
+                    966.0,
+                    952.0
+                ],
+                [
+                    116.0,
+                    945.0
+                ]
+            ]
+        },
+        {
+            "text": "E TIME KI MA KIDNEYLLU AMESHI MARI",
+            "confidence": 0.923,
+            "box": [
+                [
+                    64.0,
+                    957.0
+                ],
+                [
+                    1033.0,
+                    963.0
+                ],
+                [
+                    1033.0,
+                    1005.0
+                ],
+                [
+                    64.0,
+                    999.0
+                ]
+            ]
+        },
+        {
+            "text": "DAWATH ISTHUNDEY TELUSHAAA...",
+            "confidence": 0.968,
+            "box": [
+                [
+                    98.0,
+                    1011.0
+                ],
+                [
+                    977.0,
+                    1018.0
+                ],
+                [
+                    976.0,
+                    1062.0
+                ],
+                [
+                    98.0,
+                    1055.0
+                ]
+            ]
+        }
+    ]
+}

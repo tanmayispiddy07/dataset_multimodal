@@ -1,0 +1,358 @@
+{
+    "image_name": "2025-06-14_11-41-45_UTC.jpg",
+    "combined_text": "CRIME THRILLER BLIND SPOT IS NOW\nAVAILABLE FOR STREAMING IN ALL\nLANGUAGES ON AMAZON PRIME VIDEO\nmango\nBLIND\nSPOT\nBLIND SPOT\nEUGUA KANAMALAAM\nTELUGU,TAMILKANNADA,MALAYALAM HIND\namazonprime\nWATCHNOW\namazonprime\nWATCHNOW\nADDICTEDTOMEMES\nNAVEEN CHANDRA THRILLERS LO\nUNDE MAGIC EHVERU SIR",
+    "detailed": [
+        {
+            "text": "CRIME THRILLER BLIND SPOT IS NOW",
+            "confidence": 0.944,
+            "box": [
+                [
+                    110.0,
+                    39.0
+                ],
+                [
+                    960.0,
+                    39.0
+                ],
+                [
+                    960.0,
+                    81.0
+                ],
+                [
+                    110.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "AVAILABLE FOR STREAMING IN ALL",
+            "confidence": 0.955,
+            "box": [
+                [
+                    129.0,
+                    98.0
+                ],
+                [
+                    942.0,
+                    98.0
+                ],
+                [
+                    942.0,
+                    135.0
+                ],
+                [
+                    129.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "LANGUAGES ON AMAZON PRIME VIDEO",
+            "confidence": 0.947,
+            "box": [
+                [
+                    69.0,
+                    155.0
+                ],
+                [
+                    998.0,
+                    155.0
+                ],
+                [
+                    998.0,
+                    192.0
+                ],
+                [
+                    69.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "mango",
+            "confidence": 0.99,
+            "box": [
+                [
+                    565.0,
+                    302.0
+                ],
+                [
+                    624.0,
+                    302.0
+                ],
+                [
+                    624.0,
+                    319.0
+                ],
+                [
+                    565.0,
+                    319.0
+                ]
+            ]
+        },
+        {
+            "text": "BLIND",
+            "confidence": 0.993,
+            "box": [
+                [
+                    658.0,
+                    430.0
+                ],
+                [
+                    867.0,
+                    426.0
+                ],
+                [
+                    868.0,
+                    515.0
+                ],
+                [
+                    659.0,
+                    519.0
+                ]
+            ]
+        },
+        {
+            "text": "SPOT",
+            "confidence": 0.993,
+            "box": [
+                [
+                    660.0,
+                    506.0
+                ],
+                [
+                    866.0,
+                    506.0
+                ],
+                [
+                    866.0,
+                    597.0
+                ],
+                [
+                    660.0,
+                    597.0
+                ]
+            ]
+        },
+        {
+            "text": "BLIND SPOT",
+            "confidence": 0.945,
+            "box": [
+                [
+                    8.0,
+                    576.0
+                ],
+                [
+                    273.0,
+                    576.0
+                ],
+                [
+                    273.0,
+                    631.0
+                ],
+                [
+                    8.0,
+                    631.0
+                ]
+            ]
+        },
+        {
+            "text": "EUGUA KANAMALAAM",
+            "confidence": 0.654,
+            "box": [
+                [
+                    652.0,
+                    592.0
+                ],
+                [
+                    863.0,
+                    591.0
+                ],
+                [
+                    864.0,
+                    612.0
+                ],
+                [
+                    653.0,
+                    613.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU,TAMILKANNADA,MALAYALAM HIND",
+            "confidence": 0.917,
+            "box": [
+                [
+                    34.0,
+                    629.0
+                ],
+                [
+                    269.0,
+                    629.0
+                ],
+                [
+                    269.0,
+                    645.0
+                ],
+                [
+                    34.0,
+                    645.0
+                ]
+            ]
+        },
+        {
+            "text": "amazonprime",
+            "confidence": 0.995,
+            "box": [
+                [
+                    644.0,
+                    622.0
+                ],
+                [
+                    760.0,
+                    619.0
+                ],
+                [
+                    761.0,
+                    644.0
+                ],
+                [
+                    644.0,
+                    647.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHNOW",
+            "confidence": 0.992,
+            "box": [
+                [
+                    779.0,
+                    623.0
+                ],
+                [
+                    873.0,
+                    623.0
+                ],
+                [
+                    873.0,
+                    644.0
+                ],
+                [
+                    779.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "amazonprime",
+            "confidence": 0.996,
+            "box": [
+                [
+                    3.0,
+                    654.0
+                ],
+                [
+                    142.0,
+                    654.0
+                ],
+                [
+                    142.0,
+                    679.0
+                ],
+                [
+                    3.0,
+                    679.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHNOW",
+            "confidence": 0.993,
+            "box": [
+                [
+                    166.0,
+                    655.0
+                ],
+                [
+                    278.0,
+                    655.0
+                ],
+                [
+                    278.0,
+                    676.0
+                ],
+                [
+                    166.0,
+                    676.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    28.0,
+                    991.0
+                ],
+                [
+                    166.0,
+                    991.0
+                ],
+                [
+                    166.0,
+                    1012.0
+                ],
+                [
+                    28.0,
+                    1012.0
+                ]
+            ]
+        },
+        {
+            "text": "NAVEEN CHANDRA THRILLERS LO",
+            "confidence": 0.962,
+            "box": [
+                [
+                    360.0,
+                    1246.0
+                ],
+                [
+                    990.0,
+                    1246.0
+                ],
+                [
+                    990.0,
+                    1279.0
+                ],
+                [
+                    360.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDE MAGIC EHVERU SIR",
+            "confidence": 0.941,
+            "box": [
+                [
+                    423.0,
+                    1291.0
+                ],
+                [
+                    918.0,
+                    1291.0
+                ],
+                [
+                    918.0,
+                    1328.0
+                ],
+                [
+                    423.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

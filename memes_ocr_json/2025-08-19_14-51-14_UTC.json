@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-08-19_14-51-14_UTC.jpg",
+    "combined_text": "THE MASSY & ELECTRIFYING NUMBER GUNJI\nGUNJI LYRICAL VIDEO SONG FROM\n\"BARABAR PREMISTHA\"\nSONG LAUNCHED BY BUNNY VAS\nadidas\nADDICTEDTOMEMES\nPELTAFONCLEE\nSONG BAGUNDI THEATERS LO BREAK\nIVVADANIKI READY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "THE MASSY & ELECTRIFYING NUMBER GUNJI",
+            "confidence": 0.94,
+            "box": [
+                [
+                    186.0,
+                    13.0
+                ],
+                [
+                    964.0,
+                    13.0
+                ],
+                [
+                    964.0,
+                    41.0
+                ],
+                [
+                    186.0,
+                    41.0
+                ]
+            ]
+        },
+        {
+            "text": "GUNJI LYRICAL VIDEO SONG FROM",
+            "confidence": 0.938,
+            "box": [
+                [
+                    256.0,
+                    56.0
+                ],
+                [
+                    884.0,
+                    56.0
+                ],
+                [
+                    884.0,
+                    88.0
+                ],
+                [
+                    256.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "\"BARABAR PREMISTHA\"",
+            "confidence": 0.972,
+            "box": [
+                [
+                    363.0,
+                    99.0
+                ],
+                [
+                    784.0,
+                    99.0
+                ],
+                [
+                    784.0,
+                    131.0
+                ],
+                [
+                    363.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG LAUNCHED BY BUNNY VAS",
+            "confidence": 0.946,
+            "box": [
+                [
+                    285.0,
+                    144.0
+                ],
+                [
+                    864.0,
+                    144.0
+                ],
+                [
+                    864.0,
+                    176.0
+                ],
+                [
+                    285.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "adidas",
+            "confidence": 0.989,
+            "box": [
+                [
+                    619.0,
+                    717.0
+                ],
+                [
+                    683.0,
+                    724.0
+                ],
+                [
+                    680.0,
+                    749.0
+                ],
+                [
+                    616.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    16.0,
+                    1037.0
+                ],
+                [
+                    157.0,
+                    1037.0
+                ],
+                [
+                    157.0,
+                    1057.0
+                ],
+                [
+                    16.0,
+                    1057.0
+                ]
+            ]
+        },
+        {
+            "text": "PELTAFONCLEE",
+            "confidence": 0.795,
+            "box": [
+                [
+                    437.0,
+                    1077.0
+                ],
+                [
+                    494.0,
+                    1077.0
+                ],
+                [
+                    494.0,
+                    1095.0
+                ],
+                [
+                    437.0,
+                    1095.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG BAGUNDI THEATERS LO BREAK",
+            "confidence": 0.95,
+            "box": [
+                [
+                    512.0,
+                    1212.0
+                ],
+                [
+                    1004.0,
+                    1212.0
+                ],
+                [
+                    1004.0,
+                    1236.0
+                ],
+                [
+                    512.0,
+                    1236.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.945,
+            "box": [
+                [
+                    536.0,
+                    1246.0
+                ],
+                [
+                    969.0,
+                    1246.0
+                ],
+                [
+                    969.0,
+                    1270.0
+                ],
+                [
+                    536.0,
+                    1270.0
+                ]
+            ]
+        }
+    ]
+}

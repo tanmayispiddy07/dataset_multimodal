@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-17_07-50-22_UTC.jpg",
+    "combined_text": "PRE WEDDING ANTHEM LYRICAL\nVIDEO SONG FROM THE GREAT\nPRE WEDDING SHOW\n(T05626\n**ME WHILE WATCHING DEVARAAND\nMIRCHI REFERENCE IN SONG",
+    "detailed": [
+        {
+            "text": "PRE WEDDING ANTHEM LYRICAL",
+            "confidence": 0.972,
+            "box": [
+                [
+                    150.0,
+                    41.0
+                ],
+                [
+                    971.0,
+                    43.0
+                ],
+                [
+                    971.0,
+                    85.0
+                ],
+                [
+                    150.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "VIDEO SONG FROM THE GREAT",
+            "confidence": 0.944,
+            "box": [
+                [
+                    162.0,
+                    104.0
+                ],
+                [
+                    961.0,
+                    104.0
+                ],
+                [
+                    961.0,
+                    150.0
+                ],
+                [
+                    162.0,
+                    150.0
+                ]
+            ]
+        },
+        {
+            "text": "PRE WEDDING SHOW",
+            "confidence": 0.951,
+            "box": [
+                [
+                    288.0,
+                    166.0
+                ],
+                [
+                    817.0,
+                    166.0
+                ],
+                [
+                    817.0,
+                    212.0
+                ],
+                [
+                    288.0,
+                    212.0
+                ]
+            ]
+        },
+        {
+            "text": "(T05626",
+            "confidence": 0.731,
+            "box": [
+                [
+                    390.0,
+                    833.0
+                ],
+                [
+                    455.0,
+                    833.0
+                ],
+                [
+                    455.0,
+                    859.0
+                ],
+                [
+                    390.0,
+                    859.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHILE WATCHING DEVARAAND",
+            "confidence": 0.952,
+            "box": [
+                [
+                    154.0,
+                    931.0
+                ],
+                [
+                    788.0,
+                    934.0
+                ],
+                [
+                    788.0,
+                    976.0
+                ],
+                [
+                    154.0,
+                    973.0
+                ]
+            ]
+        },
+        {
+            "text": "MIRCHI REFERENCE IN SONG",
+            "confidence": 0.943,
+            "box": [
+                [
+                    227.0,
+                    982.0
+                ],
+                [
+                    717.0,
+                    982.0
+                ],
+                [
+                    717.0,
+                    1015.0
+                ],
+                [
+                    227.0,
+                    1015.0
+                ]
+            ]
+        }
+    ]
+}

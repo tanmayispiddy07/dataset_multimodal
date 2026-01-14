@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-07-07_13-05-20_UTC.jpg",
+    "combined_text": "THE REAL STRUGGLE IS\nWHEN YOU KNOW THE TUNE,BUT\nCANNOT IDENTIFY THE SONG\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "THE REAL STRUGGLE IS",
+            "confidence": 0.951,
+            "box": [
+                [
+                    246.0,
+                    25.0
+                ],
+                [
+                    821.0,
+                    25.0
+                ],
+                [
+                    821.0,
+                    67.0
+                ],
+                [
+                    246.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "WHEN YOU KNOW THE TUNE,BUT",
+            "confidence": 0.933,
+            "box": [
+                [
+                    124.0,
+                    86.0
+                ],
+                [
+                    959.0,
+                    86.0
+                ],
+                [
+                    959.0,
+                    128.0
+                ],
+                [
+                    124.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "CANNOT IDENTIFY THE SONG",
+            "confidence": 0.948,
+            "box": [
+                [
+                    173.0,
+                    146.0
+                ],
+                [
+                    904.0,
+                    146.0
+                ],
+                [
+                    904.0,
+                    192.0
+                ],
+                [
+                    173.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    415.0,
+                    627.0
+                ],
+                [
+                    592.0,
+                    627.0
+                ],
+                [
+                    592.0,
+                    652.0
+                ],
+                [
+                    415.0,
+                    652.0
+                ]
+            ]
+        }
+    ]
+}

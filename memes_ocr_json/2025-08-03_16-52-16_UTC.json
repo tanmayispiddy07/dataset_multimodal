@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-08-03_16-52-16_UTC.jpg",
+    "combined_text": "ISKITHADIUSKITHADI FT UDAYA BHANU,\nA MASS DANCE NUMBER IS OUT FROM\n\"TRIBANADHARI BARBARIK'\nZINDABAD\nKer\nADOCTEDTOMEMESR\nENNI ROJULU AYINA BHANU\nAKKA LO ADHE JOSH",
+    "detailed": [
+        {
+            "text": "ISKITHADIUSKITHADI FT UDAYA BHANU,",
+            "confidence": 0.951,
+            "box": [
+                [
+                    39.0,
+                    31.0
+                ],
+                [
+                    1041.0,
+                    32.0
+                ],
+                [
+                    1041.0,
+                    78.0
+                ],
+                [
+                    39.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "A MASS DANCE NUMBER IS OUT FROM",
+            "confidence": 0.917,
+            "box": [
+                [
+                    56.0,
+                    95.0
+                ],
+                [
+                    1032.0,
+                    95.0
+                ],
+                [
+                    1032.0,
+                    141.0
+                ],
+                [
+                    56.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "\"TRIBANADHARI BARBARIK'",
+            "confidence": 0.973,
+            "box": [
+                [
+                    183.0,
+                    152.0
+                ],
+                [
+                    897.0,
+                    155.0
+                ],
+                [
+                    897.0,
+                    205.0
+                ],
+                [
+                    183.0,
+                    202.0
+                ]
+            ]
+        },
+        {
+            "text": "ZINDABAD",
+            "confidence": 0.984,
+            "box": [
+                [
+                    2.0,
+                    264.0
+                ],
+                [
+                    259.0,
+                    277.0
+                ],
+                [
+                    255.0,
+                    345.0
+                ],
+                [
+                    0.0,
+                    332.0
+                ]
+            ]
+        },
+        {
+            "text": "Ker",
+            "confidence": 0.876,
+            "box": [
+                [
+                    2.0,
+                    320.0
+                ],
+                [
+                    303.0,
+                    324.0
+                ],
+                [
+                    300.0,
+                    528.0
+                ],
+                [
+                    0.0,
+                    523.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOCTEDTOMEMESR",
+            "confidence": 0.914,
+            "box": [
+                [
+                    51.0,
+                    985.0
+                ],
+                [
+                    177.0,
+                    988.0
+                ],
+                [
+                    177.0,
+                    1009.0
+                ],
+                [
+                    50.0,
+                    1006.0
+                ]
+            ]
+        },
+        {
+            "text": "ENNI ROJULU AYINA BHANU",
+            "confidence": 0.946,
+            "box": [
+                [
+                    23.0,
+                    1225.0
+                ],
+                [
+                    674.0,
+                    1227.0
+                ],
+                [
+                    674.0,
+                    1270.0
+                ],
+                [
+                    22.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "AKKA LO ADHE JOSH",
+            "confidence": 0.919,
+            "box": [
+                [
+                    98.0,
+                    1282.0
+                ],
+                [
+                    603.0,
+                    1282.0
+                ],
+                [
+                    603.0,
+                    1328.0
+                ],
+                [
+                    98.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

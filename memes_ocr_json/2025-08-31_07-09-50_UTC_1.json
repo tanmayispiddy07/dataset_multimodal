@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-31_07-09-50_UTC_1.jpg",
+    "combined_text": "Are you from North Korea?\nCuz I could never leave you",
+    "detailed": [
+        {
+            "text": "Are you from North Korea?",
+            "confidence": 0.959,
+            "box": [
+                [
+                    444.0,
+                    978.0
+                ],
+                [
+                    1002.0,
+                    978.0
+                ],
+                [
+                    1002.0,
+                    1022.0
+                ],
+                [
+                    444.0,
+                    1022.0
+                ]
+            ]
+        },
+        {
+            "text": "Cuz I could never leave you",
+            "confidence": 0.921,
+            "box": [
+                [
+                    351.0,
+                    1093.0
+                ],
+                [
+                    926.0,
+                    1097.0
+                ],
+                [
+                    926.0,
+                    1140.0
+                ],
+                [
+                    351.0,
+                    1136.0
+                ]
+            ]
+        }
+    ]
+}

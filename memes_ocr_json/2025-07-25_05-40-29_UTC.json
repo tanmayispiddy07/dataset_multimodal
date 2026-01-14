@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-07-25_05-40-29_UTC.jpg",
+    "combined_text": "Post treadmill hits different\nsarcasm",
+    "detailed": [
+        {
+            "text": "Post treadmill hits different",
+            "confidence": 0.977,
+            "box": [
+                [
+                    71.0,
+                    154.0
+                ],
+                [
+                    469.0,
+                    154.0
+                ],
+                [
+                    469.0,
+                    182.0
+                ],
+                [
+                    71.0,
+                    182.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    245.0,
+                    777.0
+                ],
+                [
+                    300.0,
+                    777.0
+                ],
+                [
+                    300.0,
+                    790.0
+                ],
+                [
+                    245.0,
+                    790.0
+                ]
+            ]
+        }
+    ]
+}

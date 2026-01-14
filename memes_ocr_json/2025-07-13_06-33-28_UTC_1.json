@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-07-13_06-33-28_UTC_1.jpg",
+    "combined_text": "How it started..\nHow it's goingn",
+    "detailed": [
+        {
+            "text": "How it started..",
+            "confidence": 0.945,
+            "box": [
+                [
+                    274.0,
+                    593.0
+                ],
+                [
+                    802.0,
+                    596.0
+                ],
+                [
+                    801.0,
+                    653.0
+                ],
+                [
+                    274.0,
+                    650.0
+                ]
+            ]
+        },
+        {
+            "text": "How it's goingn",
+            "confidence": 0.949,
+            "box": [
+                [
+                    259.0,
+                    1245.0
+                ],
+                [
+                    821.0,
+                    1245.0
+                ],
+                [
+                    821.0,
+                    1321.0
+                ],
+                [
+                    259.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-27_16-42-43_UTC_4.jpg",
+    "combined_text": "Ganesa/ Ganesha\nProminently found in Bali temples\nBlended with local Hindu-Buddhist traditions",
+    "detailed": [
+        {
+            "text": "Ganesa/ Ganesha",
+            "confidence": 0.964,
+            "box": [
+                [
+                    273.0,
+                    1141.0
+                ],
+                [
+                    807.0,
+                    1141.0
+                ],
+                [
+                    807.0,
+                    1195.0
+                ],
+                [
+                    273.0,
+                    1195.0
+                ]
+            ]
+        },
+        {
+            "text": "Prominently found in Bali temples",
+            "confidence": 0.98,
+            "box": [
+                [
+                    217.0,
+                    1235.0
+                ],
+                [
+                    863.0,
+                    1235.0
+                ],
+                [
+                    863.0,
+                    1270.0
+                ],
+                [
+                    217.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "Blended with local Hindu-Buddhist traditions",
+            "confidence": 0.976,
+            "box": [
+                [
+                    101.0,
+                    1280.0
+                ],
+                [
+                    979.0,
+                    1284.0
+                ],
+                [
+                    979.0,
+                    1324.0
+                ],
+                [
+                    101.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

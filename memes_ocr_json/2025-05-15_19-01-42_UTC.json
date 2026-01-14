@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-15_19-01-42_UTC.jpg",
+    "combined_text": "sarcasm\nI did speak to Virat about retirement\na week before his announcement.His\nmind was very clear that he'd given\nus everything. There were no regrets\nRavi Shastri",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    484.0,
+                    897.0
+                ],
+                [
+                    595.0,
+                    897.0
+                ],
+                [
+                    595.0,
+                    920.0
+                ],
+                [
+                    484.0,
+                    920.0
+                ]
+            ]
+        },
+        {
+            "text": "I did speak to Virat about retirement",
+            "confidence": 0.964,
+            "box": [
+                [
+                    31.0,
+                    994.0
+                ],
+                [
+                    1052.0,
+                    990.0
+                ],
+                [
+                    1052.0,
+                    1042.0
+                ],
+                [
+                    31.0,
+                    1046.0
+                ]
+            ]
+        },
+        {
+            "text": "a week before his announcement.His",
+            "confidence": 0.976,
+            "box": [
+                [
+                    25.0,
+                    1070.0
+                ],
+                [
+                    1056.0,
+                    1068.0
+                ],
+                [
+                    1056.0,
+                    1113.0
+                ],
+                [
+                    25.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "mind was very clear that he'd given",
+            "confidence": 0.997,
+            "box": [
+                [
+                    48.0,
+                    1143.0
+                ],
+                [
+                    1036.0,
+                    1143.0
+                ],
+                [
+                    1036.0,
+                    1192.0
+                ],
+                [
+                    48.0,
+                    1192.0
+                ]
+            ]
+        },
+        {
+            "text": "us everything. There were no regrets",
+            "confidence": 0.99,
+            "box": [
+                [
+                    27.0,
+                    1216.0
+                ],
+                [
+                    1053.0,
+                    1216.0
+                ],
+                [
+                    1053.0,
+                    1269.0
+                ],
+                [
+                    27.0,
+                    1269.0
+                ]
+            ]
+        },
+        {
+            "text": "Ravi Shastri",
+            "confidence": 0.974,
+            "box": [
+                [
+                    440.0,
+                    1300.0
+                ],
+                [
+                    668.0,
+                    1300.0
+                ],
+                [
+                    668.0,
+                    1335.0
+                ],
+                [
+                    440.0,
+                    1335.0
+                ]
+            ]
+        }
+    ]
+}

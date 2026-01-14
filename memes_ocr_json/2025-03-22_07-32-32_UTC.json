@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-22_07-32-32_UTC.jpg",
+    "combined_text": "USE CODE-WOWEAR FOR 20% OFF\nMANCHIHANDLOOM WEAR\nKOSAMCHUSTUNNARA\nAITE WOVEN WHALE LO TRY\nCHEYYANDIICHATA MANCHI IKAT\nSHIRTS KURTIS.LABINCHUNU",
+    "detailed": [
+        {
+            "text": "USE CODE-WOWEAR FOR 20% OFF",
+            "confidence": 0.937,
+            "box": [
+                [
+                    70.0,
+                    284.0
+                ],
+                [
+                    1007.0,
+                    284.0
+                ],
+                [
+                    1007.0,
+                    330.0
+                ],
+                [
+                    70.0,
+                    330.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHIHANDLOOM WEAR",
+            "confidence": 0.98,
+            "box": [
+                [
+                    110.0,
+                    900.0
+                ],
+                [
+                    852.0,
+                    900.0
+                ],
+                [
+                    852.0,
+                    946.0
+                ],
+                [
+                    110.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "KOSAMCHUSTUNNARA",
+            "confidence": 0.979,
+            "box": [
+                [
+                    163.0,
+                    959.0
+                ],
+                [
+                    799.0,
+                    959.0
+                ],
+                [
+                    799.0,
+                    1005.0
+                ],
+                [
+                    163.0,
+                    1005.0
+                ]
+            ]
+        },
+        {
+            "text": "AITE WOVEN WHALE LO TRY",
+            "confidence": 0.959,
+            "box": [
+                [
+                    145.0,
+                    1178.0
+                ],
+                [
+                    928.0,
+                    1178.0
+                ],
+                [
+                    928.0,
+                    1225.0
+                ],
+                [
+                    145.0,
+                    1225.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEYYANDIICHATA MANCHI IKAT",
+            "confidence": 0.955,
+            "box": [
+                [
+                    69.0,
+                    1233.0
+                ],
+                [
+                    1008.0,
+                    1230.0
+                ],
+                [
+                    1008.0,
+                    1281.0
+                ],
+                [
+                    69.0,
+                    1284.0
+                ]
+            ]
+        },
+        {
+            "text": "SHIRTS KURTIS.LABINCHUNU",
+            "confidence": 0.971,
+            "box": [
+                [
+                    145.0,
+                    1292.0
+                ],
+                [
+                    952.0,
+                    1292.0
+                ],
+                [
+                    952.0,
+                    1339.0
+                ],
+                [
+                    145.0,
+                    1339.0
+                ]
+            ]
+        }
+    ]
+}

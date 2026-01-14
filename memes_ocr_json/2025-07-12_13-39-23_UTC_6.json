@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-07-12_13-39-23_UTC_6.jpg",
+    "combined_text": "Hrithik Roshan",
+    "detailed": [
+        {
+            "text": "Hrithik Roshan",
+            "confidence": 0.986,
+            "box": [
+                [
+                    357.0,
+                    1267.0
+                ],
+                [
+                    720.0,
+                    1270.0
+                ],
+                [
+                    720.0,
+                    1314.0
+                ],
+                [
+                    357.0,
+                    1311.0
+                ]
+            ]
+        }
+    ]
+}

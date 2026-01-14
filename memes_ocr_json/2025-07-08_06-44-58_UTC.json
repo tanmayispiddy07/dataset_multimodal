@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-07-08_06-44-58_UTC.jpg",
+    "combined_text": "NEKU TELISINDHI INTHA\n**MY FRIEND\nADDICTEDTOMEMES\nDANIKINVUCHESE\nATHIINTHA",
+    "detailed": [
+        {
+            "text": "NEKU TELISINDHI INTHA",
+            "confidence": 0.957,
+            "box": [
+                [
+                    277.0,
+                    432.0
+                ],
+                [
+                    822.0,
+                    432.0
+                ],
+                [
+                    822.0,
+                    472.0
+                ],
+                [
+                    277.0,
+                    472.0
+                ]
+            ]
+        },
+        {
+            "text": "**MY FRIEND",
+            "confidence": 0.914,
+            "box": [
+                [
+                    358.0,
+                    566.0
+                ],
+                [
+                    646.0,
+                    573.0
+                ],
+                [
+                    645.0,
+                    628.0
+                ],
+                [
+                    356.0,
+                    621.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    52.0,
+                    576.0
+                ],
+                [
+                    212.0,
+                    576.0
+                ],
+                [
+                    212.0,
+                    600.0
+                ],
+                [
+                    52.0,
+                    600.0
+                ]
+            ]
+        },
+        {
+            "text": "DANIKINVUCHESE",
+            "confidence": 0.991,
+            "box": [
+                [
+                    42.0,
+                    890.0
+                ],
+                [
+                    641.0,
+                    890.0
+                ],
+                [
+                    641.0,
+                    948.0
+                ],
+                [
+                    42.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "ATHIINTHA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    636.0,
+                    892.0
+                ],
+                [
+                    1007.0,
+                    892.0
+                ],
+                [
+                    1007.0,
+                    947.0
+                ],
+                [
+                    636.0,
+                    947.0
+                ]
+            ]
+        }
+    ]
+}

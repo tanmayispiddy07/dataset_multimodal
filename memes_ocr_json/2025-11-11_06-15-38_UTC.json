@@ -1,0 +1,666 @@
+{
+    "image_name": "2025-11-11_06-15-38_UTC.jpg",
+    "combined_text": "PAANCH MINAR-CRIME COMEDY STORY\nWRITTEN AND DIRECTED BY RAM KADUMULA\nPRODUCERS-MADHAVI-MSMREDDY\nSTARRING RAJ TARUN AND RASHI SINGH\nNOV 21ST RELEASE IN THEATRES\nCONNECT\nGovinda Raju ga\nADITYA\nCoNNEEr\nGovinda Raju masn\nRELEASING ON\nRELEASING ON\nNOVEMBER\n21\nNOVEMBER\n2\nIN THEATRES\nIN THEATRES\nRKROOMULR\nSMREDOY\nRRMKROUML\nMSREDY\nSHEKAR OHAVRAM\nSHEKAR CHANDE\nDDICTEDTOMEMES\nCHUSTHUNTE CRIME COMEDY THRILLER LAGA UNDI\nBREAK IVVADANIKI READYGA UNNAMU\nO\nTATA\nindicom",
+    "detailed": [
+        {
+            "text": "PAANCH MINAR-CRIME COMEDY STORY",
+            "confidence": 0.96,
+            "box": [
+                [
+                    201.0,
+                    4.0
+                ],
+                [
+                    963.0,
+                    6.0
+                ],
+                [
+                    963.0,
+                    39.0
+                ],
+                [
+                    201.0,
+                    38.0
+                ]
+            ]
+        },
+        {
+            "text": "WRITTEN AND DIRECTED BY RAM KADUMULA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    162.0,
+                    49.0
+                ],
+                [
+                    1004.0,
+                    50.0
+                ],
+                [
+                    1004.0,
+                    88.0
+                ],
+                [
+                    162.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCERS-MADHAVI-MSMREDDY",
+            "confidence": 0.991,
+            "box": [
+                [
+                    228.0,
+                    100.0
+                ],
+                [
+                    935.0,
+                    100.0
+                ],
+                [
+                    935.0,
+                    130.0
+                ],
+                [
+                    228.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "STARRING RAJ TARUN AND RASHI SINGH",
+            "confidence": 0.951,
+            "box": [
+                [
+                    193.0,
+                    146.0
+                ],
+                [
+                    965.0,
+                    146.0
+                ],
+                [
+                    965.0,
+                    180.0
+                ],
+                [
+                    193.0,
+                    180.0
+                ]
+            ]
+        },
+        {
+            "text": "NOV 21ST RELEASE IN THEATRES",
+            "confidence": 0.948,
+            "box": [
+                [
+                    284.0,
+                    194.0
+                ],
+                [
+                    885.0,
+                    194.0
+                ],
+                [
+                    885.0,
+                    227.0
+                ],
+                [
+                    284.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "CONNECT",
+            "confidence": 0.991,
+            "box": [
+                [
+                    53.0,
+                    284.0
+                ],
+                [
+                    150.0,
+                    284.0
+                ],
+                [
+                    150.0,
+                    311.0
+                ],
+                [
+                    53.0,
+                    311.0
+                ]
+            ]
+        },
+        {
+            "text": "Govinda Raju ga",
+            "confidence": 0.835,
+            "box": [
+                [
+                    243.0,
+                    289.0
+                ],
+                [
+                    364.0,
+                    289.0
+                ],
+                [
+                    364.0,
+                    305.0
+                ],
+                [
+                    243.0,
+                    305.0
+                ]
+            ]
+        },
+        {
+            "text": "ADITYA",
+            "confidence": 0.983,
+            "box": [
+                [
+                    492.0,
+                    284.0
+                ],
+                [
+                    551.0,
+                    284.0
+                ],
+                [
+                    551.0,
+                    307.0
+                ],
+                [
+                    492.0,
+                    307.0
+                ]
+            ]
+        },
+        {
+            "text": "CoNNEEr",
+            "confidence": 0.687,
+            "box": [
+                [
+                    619.0,
+                    284.0
+                ],
+                [
+                    717.0,
+                    284.0
+                ],
+                [
+                    717.0,
+                    311.0
+                ],
+                [
+                    619.0,
+                    311.0
+                ]
+            ]
+        },
+        {
+            "text": "Govinda Raju masn",
+            "confidence": 0.81,
+            "box": [
+                [
+                    811.0,
+                    289.0
+                ],
+                [
+                    934.0,
+                    289.0
+                ],
+                [
+                    934.0,
+                    305.0
+                ],
+                [
+                    811.0,
+                    305.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING ON",
+            "confidence": 0.968,
+            "box": [
+                [
+                    187.0,
+                    309.0
+                ],
+                [
+                    403.0,
+                    308.0
+                ],
+                [
+                    404.0,
+                    337.0
+                ],
+                [
+                    187.0,
+                    339.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING ON",
+            "confidence": 0.971,
+            "box": [
+                [
+                    757.0,
+                    311.0
+                ],
+                [
+                    976.0,
+                    311.0
+                ],
+                [
+                    976.0,
+                    340.0
+                ],
+                [
+                    757.0,
+                    340.0
+                ]
+            ]
+        },
+        {
+            "text": "NOVEMBER",
+            "confidence": 0.998,
+            "box": [
+                [
+                    58.0,
+                    333.0
+                ],
+                [
+                    446.0,
+                    333.0
+                ],
+                [
+                    446.0,
+                    385.0
+                ],
+                [
+                    58.0,
+                    385.0
+                ]
+            ]
+        },
+        {
+            "text": "21",
+            "confidence": 0.995,
+            "box": [
+                [
+                    453.0,
+                    329.0
+                ],
+                [
+                    548.0,
+                    329.0
+                ],
+                [
+                    548.0,
+                    390.0
+                ],
+                [
+                    453.0,
+                    390.0
+                ]
+            ]
+        },
+        {
+            "text": "NOVEMBER",
+            "confidence": 0.997,
+            "box": [
+                [
+                    620.0,
+                    332.0
+                ],
+                [
+                    1022.0,
+                    332.0
+                ],
+                [
+                    1022.0,
+                    387.0
+                ],
+                [
+                    620.0,
+                    387.0
+                ]
+            ]
+        },
+        {
+            "text": "2",
+            "confidence": 0.981,
+            "box": [
+                [
+                    1036.0,
+                    340.0
+                ],
+                [
+                    1076.0,
+                    340.0
+                ],
+                [
+                    1076.0,
+                    379.0
+                ],
+                [
+                    1036.0,
+                    379.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATRES",
+            "confidence": 0.966,
+            "box": [
+                [
+                    131.0,
+                    379.0
+                ],
+                [
+                    457.0,
+                    382.0
+                ],
+                [
+                    457.0,
+                    429.0
+                ],
+                [
+                    131.0,
+                    426.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATRES",
+            "confidence": 0.952,
+            "box": [
+                [
+                    698.0,
+                    379.0
+                ],
+                [
+                    1031.0,
+                    382.0
+                ],
+                [
+                    1030.0,
+                    429.0
+                ],
+                [
+                    697.0,
+                    426.0
+                ]
+            ]
+        },
+        {
+            "text": "RKROOMULR",
+            "confidence": 0.55,
+            "box": [
+                [
+                    252.0,
+                    927.0
+                ],
+                [
+                    328.0,
+                    927.0
+                ],
+                [
+                    328.0,
+                    939.0
+                ],
+                [
+                    252.0,
+                    939.0
+                ]
+            ]
+        },
+        {
+            "text": "SMREDOY",
+            "confidence": 0.705,
+            "box": [
+                [
+                    326.0,
+                    924.0
+                ],
+                [
+                    416.0,
+                    924.0
+                ],
+                [
+                    416.0,
+                    941.0
+                ],
+                [
+                    326.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "RRMKROUML",
+            "confidence": 0.707,
+            "box": [
+                [
+                    824.0,
+                    927.0
+                ],
+                [
+                    890.0,
+                    927.0
+                ],
+                [
+                    890.0,
+                    939.0
+                ],
+                [
+                    824.0,
+                    939.0
+                ]
+            ]
+        },
+        {
+            "text": "MSREDY",
+            "confidence": 0.78,
+            "box": [
+                [
+                    907.0,
+                    923.0
+                ],
+                [
+                    990.0,
+                    923.0
+                ],
+                [
+                    990.0,
+                    939.0
+                ],
+                [
+                    907.0,
+                    939.0
+                ]
+            ]
+        },
+        {
+            "text": "SHEKAR OHAVRAM",
+            "confidence": 0.817,
+            "box": [
+                [
+                    249.0,
+                    964.0
+                ],
+                [
+                    340.0,
+                    964.0
+                ],
+                [
+                    340.0,
+                    977.0
+                ],
+                [
+                    249.0,
+                    977.0
+                ]
+            ]
+        },
+        {
+            "text": "SHEKAR CHANDE",
+            "confidence": 0.895,
+            "box": [
+                [
+                    818.0,
+                    966.0
+                ],
+                [
+                    892.0,
+                    966.0
+                ],
+                [
+                    892.0,
+                    978.0
+                ],
+                [
+                    818.0,
+                    978.0
+                ]
+            ]
+        },
+        {
+            "text": "DDICTEDTOMEMES",
+            "confidence": 0.979,
+            "box": [
+                [
+                    22.0,
+                    1109.0
+                ],
+                [
+                    146.0,
+                    1109.0
+                ],
+                [
+                    146.0,
+                    1130.0
+                ],
+                [
+                    22.0,
+                    1130.0
+                ]
+            ]
+        },
+        {
+            "text": "CHUSTHUNTE CRIME COMEDY THRILLER LAGA UNDI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    59.0,
+                    1243.0
+                ],
+                [
+                    994.0,
+                    1243.0
+                ],
+                [
+                    994.0,
+                    1272.0
+                ],
+                [
+                    59.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAK IVVADANIKI READYGA UNNAMU",
+            "confidence": 0.951,
+            "box": [
+                [
+                    155.0,
+                    1286.0
+                ],
+                [
+                    885.0,
+                    1286.0
+                ],
+                [
+                    885.0,
+                    1320.0
+                ],
+                [
+                    155.0,
+                    1320.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.512,
+            "box": [
+                [
+                    920.0,
+                    1292.0
+                ],
+                [
+                    946.0,
+                    1292.0
+                ],
+                [
+                    946.0,
+                    1312.0
+                ],
+                [
+                    920.0,
+                    1312.0
+                ]
+            ]
+        },
+        {
+            "text": "TATA",
+            "confidence": 0.988,
+            "box": [
+                [
+                    941.0,
+                    1302.0
+                ],
+                [
+                    976.0,
+                    1302.0
+                ],
+                [
+                    976.0,
+                    1316.0
+                ],
+                [
+                    941.0,
+                    1316.0
+                ]
+            ]
+        },
+        {
+            "text": "indicom",
+            "confidence": 0.986,
+            "box": [
+                [
+                    917.0,
+                    1313.0
+                ],
+                [
+                    980.0,
+                    1313.0
+                ],
+                [
+                    980.0,
+                    1331.0
+                ],
+                [
+                    917.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

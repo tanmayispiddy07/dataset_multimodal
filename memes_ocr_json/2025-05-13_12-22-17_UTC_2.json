@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-13_12-22-17_UTC_2.jpg",
+    "combined_text": "sarcasm\nIf there will be talks between India and\nPakistan, it will only be on terrorism and.\nPoK. India's stand has been clear - terror,.\ntrade and talks cannot be done together\nPM Narendra Modi",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    487.0,
+                    942.0
+                ],
+                [
+                    600.0,
+                    942.0
+                ],
+                [
+                    600.0,
+                    965.0
+                ],
+                [
+                    487.0,
+                    965.0
+                ]
+            ]
+        },
+        {
+            "text": "If there will be talks between India and",
+            "confidence": 0.987,
+            "box": [
+                [
+                    73.0,
+                    1039.0
+                ],
+                [
+                    1014.0,
+                    1041.0
+                ],
+                [
+                    1014.0,
+                    1084.0
+                ],
+                [
+                    73.0,
+                    1083.0
+                ]
+            ]
+        },
+        {
+            "text": "Pakistan, it will only be on terrorism and.",
+            "confidence": 0.976,
+            "box": [
+                [
+                    55.0,
+                    1101.0
+                ],
+                [
+                    1034.0,
+                    1103.0
+                ],
+                [
+                    1034.0,
+                    1152.0
+                ],
+                [
+                    55.0,
+                    1150.0
+                ]
+            ]
+        },
+        {
+            "text": "PoK. India's stand has been clear - terror,.",
+            "confidence": 0.988,
+            "box": [
+                [
+                    42.0,
+                    1163.0
+                ],
+                [
+                    1045.0,
+                    1169.0
+                ],
+                [
+                    1045.0,
+                    1218.0
+                ],
+                [
+                    42.0,
+                    1212.0
+                ]
+            ]
+        },
+        {
+            "text": "trade and talks cannot be done together",
+            "confidence": 0.985,
+            "box": [
+                [
+                    51.0,
+                    1232.0
+                ],
+                [
+                    1035.0,
+                    1235.0
+                ],
+                [
+                    1035.0,
+                    1280.0
+                ],
+                [
+                    51.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "PM Narendra Modi",
+            "confidence": 0.953,
+            "box": [
+                [
+                    360.0,
+                    1295.0
+                ],
+                [
+                    733.0,
+                    1297.0
+                ],
+                [
+                    733.0,
+                    1333.0
+                ],
+                [
+                    360.0,
+                    1332.0
+                ]
+            ]
+        }
+    ]
+}

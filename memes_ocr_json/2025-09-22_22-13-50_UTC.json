@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-09-22_22-13-50_UTC.jpg",
+    "combined_text": "Ousmane Dembele has won the\nBallon d'Or before Kylian Mbappe\nand Erling Haaland\nsarcasm\nSLEAGU\nTAA\nRWA",
+    "detailed": [
+        {
+            "text": "Ousmane Dembele has won the",
+            "confidence": 0.997,
+            "box": [
+                [
+                    112.0,
+                    41.0
+                ],
+                [
+                    970.0,
+                    41.0
+                ],
+                [
+                    970.0,
+                    90.0
+                ],
+                [
+                    112.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "text": "Ballon d'Or before Kylian Mbappe",
+            "confidence": 0.985,
+            "box": [
+                [
+                    86.0,
+                    118.0
+                ],
+                [
+                    996.0,
+                    118.0
+                ],
+                [
+                    996.0,
+                    175.0
+                ],
+                [
+                    86.0,
+                    175.0
+                ]
+            ]
+        },
+        {
+            "text": "and Erling Haaland",
+            "confidence": 0.988,
+            "box": [
+                [
+                    250.0,
+                    199.0
+                ],
+                [
+                    822.0,
+                    193.0
+                ],
+                [
+                    823.0,
+                    251.0
+                ],
+                [
+                    251.0,
+                    257.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    184.0,
+                    384.0
+                ],
+                [
+                    283.0,
+                    384.0
+                ],
+                [
+                    283.0,
+                    407.0
+                ],
+                [
+                    184.0,
+                    407.0
+                ]
+            ]
+        },
+        {
+            "text": "SLEAGU",
+            "confidence": 0.958,
+            "box": [
+                [
+                    540.0,
+                    502.0
+                ],
+                [
+                    703.0,
+                    502.0
+                ],
+                [
+                    703.0,
+                    547.0
+                ],
+                [
+                    540.0,
+                    547.0
+                ]
+            ]
+        },
+        {
+            "text": "TAA",
+            "confidence": 0.702,
+            "box": [
+                [
+                    802.0,
+                    669.0
+                ],
+                [
+                    858.0,
+                    669.0
+                ],
+                [
+                    858.0,
+                    706.0
+                ],
+                [
+                    802.0,
+                    706.0
+                ]
+            ]
+        },
+        {
+            "text": "RWA",
+            "confidence": 0.974,
+            "box": [
+                [
+                    788.0,
+                    702.0
+                ],
+                [
+                    845.0,
+                    690.0
+                ],
+                [
+                    849.0,
+                    714.0
+                ],
+                [
+                    793.0,
+                    726.0
+                ]
+            ]
+        }
+    ]
+}

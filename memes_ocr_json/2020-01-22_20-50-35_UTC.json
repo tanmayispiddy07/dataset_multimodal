@@ -1,0 +1,50 @@
+{
+    "image_name": "2020-01-22_20-50-35_UTC.jpg",
+    "combined_text": "me after an aunty said \"nallaga\nayyavu\" or \"lavu aynatu unnavu'",
+    "detailed": [
+        {
+            "text": "me after an aunty said \"nallaga",
+            "confidence": 0.993,
+            "box": [
+                [
+                    59.0,
+                    55.0
+                ],
+                [
+                    1014.0,
+                    62.0
+                ],
+                [
+                    1014.0,
+                    131.0
+                ],
+                [
+                    59.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "ayyavu\" or \"lavu aynatu unnavu'",
+            "confidence": 0.988,
+            "box": [
+                [
+                    41.0,
+                    142.0
+                ],
+                [
+                    1018.0,
+                    133.0
+                ],
+                [
+                    1018.0,
+                    206.0
+                ],
+                [
+                    41.0,
+                    215.0
+                ]
+            ]
+        }
+    ]
+}

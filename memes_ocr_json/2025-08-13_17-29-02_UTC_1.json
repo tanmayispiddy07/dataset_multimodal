@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-13_17-29-02_UTC_1.jpg",
+    "combined_text": "Choose your sides, as Hrithik takes on\nHrithik in the Biggest STYLE war.\nSwipe >",
+    "detailed": [
+        {
+            "text": "Choose your sides, as Hrithik takes on",
+            "confidence": 0.999,
+            "box": [
+                [
+                    20.0,
+                    62.0
+                ],
+                [
+                    1056.0,
+                    62.0
+                ],
+                [
+                    1056.0,
+                    115.0
+                ],
+                [
+                    20.0,
+                    115.0
+                ]
+            ]
+        },
+        {
+            "text": "Hrithik in the Biggest STYLE war.",
+            "confidence": 0.995,
+            "box": [
+                [
+                    51.0,
+                    141.0
+                ],
+                [
+                    927.0,
+                    141.0
+                ],
+                [
+                    927.0,
+                    198.0
+                ],
+                [
+                    51.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe >",
+            "confidence": 0.924,
+            "box": [
+                [
+                    893.0,
+                    892.0
+                ],
+                [
+                    1025.0,
+                    892.0
+                ],
+                [
+                    1025.0,
+                    934.0
+                ],
+                [
+                    893.0,
+                    934.0
+                ]
+            ]
+        }
+    ]
+}

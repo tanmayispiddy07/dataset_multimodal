@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-31_07-00-35_UTC_1.jpg",
+    "combined_text": "It's Tech Vs Fashion..And its Dramaa!!\nSWIPE<<",
+    "detailed": [
+        {
+            "text": "It's Tech Vs Fashion..And its Dramaa!!",
+            "confidence": 0.994,
+            "box": [
+                [
+                    60.0,
+                    112.0
+                ],
+                [
+                    899.0,
+                    112.0
+                ],
+                [
+                    899.0,
+                    156.0
+                ],
+                [
+                    60.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE<<",
+            "confidence": 0.925,
+            "box": [
+                [
+                    889.0,
+                    295.0
+                ],
+                [
+                    1031.0,
+                    295.0
+                ],
+                [
+                    1031.0,
+                    328.0
+                ],
+                [
+                    889.0,
+                    328.0
+                ]
+            ]
+        }
+    ]
+}

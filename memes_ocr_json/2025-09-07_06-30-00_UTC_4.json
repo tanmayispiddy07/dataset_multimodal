@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-07_06-30-00_UTC_4.jpg",
+    "combined_text": "MESSI\nsarcasm\nI don't think I'll play\nanother World Cup\n-Lionel Messi in Post match interview",
+    "detailed": [
+        {
+            "text": "MESSI",
+            "confidence": 0.887,
+            "box": [
+                [
+                    599.0,
+                    619.0
+                ],
+                [
+                    787.0,
+                    666.0
+                ],
+                [
+                    768.0,
+                    742.0
+                ],
+                [
+                    580.0,
+                    695.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    472.0,
+                    960.0
+                ],
+                [
+                    599.0,
+                    960.0
+                ],
+                [
+                    599.0,
+                    987.0
+                ],
+                [
+                    472.0,
+                    987.0
+                ]
+            ]
+        },
+        {
+            "text": "I don't think I'll play",
+            "confidence": 0.989,
+            "box": [
+                [
+                    173.0,
+                    1058.0
+                ],
+                [
+                    920.0,
+                    1073.0
+                ],
+                [
+                    919.0,
+                    1154.0
+                ],
+                [
+                    171.0,
+                    1139.0
+                ]
+            ]
+        },
+        {
+            "text": "another World Cup",
+            "confidence": 1.0,
+            "box": [
+                [
+                    194.0,
+                    1146.0
+                ],
+                [
+                    922.0,
+                    1160.0
+                ],
+                [
+                    920.0,
+                    1244.0
+                ],
+                [
+                    192.0,
+                    1231.0
+                ]
+            ]
+        },
+        {
+            "text": "-Lionel Messi in Post match interview",
+            "confidence": 0.966,
+            "box": [
+                [
+                    291.0,
+                    1241.0
+                ],
+                [
+                    814.0,
+                    1244.0
+                ],
+                [
+                    814.0,
+                    1275.0
+                ],
+                [
+                    291.0,
+                    1272.0
+                ]
+            ]
+        }
+    ]
+}

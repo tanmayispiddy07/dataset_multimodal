@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-06-05_07-08-09_UTC.jpg",
+    "combined_text": "WHEN THE RESTURANT WAITER IS\nEXPLAINING THE ENTIRE MENU BUT YOU\nKNOW YOU JUST CAME TO EAT BIRYANI\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "WHEN THE RESTURANT WAITER IS",
+            "confidence": 0.946,
+            "box": [
+                [
+                    147.0,
+                    81.0
+                ],
+                [
+                    918.0,
+                    81.0
+                ],
+                [
+                    918.0,
+                    121.0
+                ],
+                [
+                    147.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "EXPLAINING THE ENTIRE MENU BUT YOU",
+            "confidence": 0.944,
+            "box": [
+                [
+                    70.0,
+                    141.0
+                ],
+                [
+                    994.0,
+                    141.0
+                ],
+                [
+                    994.0,
+                    178.0
+                ],
+                [
+                    70.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "text": "KNOW YOU JUST CAME TO EAT BIRYANI",
+            "confidence": 0.969,
+            "box": [
+                [
+                    68.0,
+                    193.0
+                ],
+                [
+                    981.0,
+                    194.0
+                ],
+                [
+                    981.0,
+                    239.0
+                ],
+                [
+                    67.0,
+                    238.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    914.0,
+                    428.0
+                ],
+                [
+                    1077.0,
+                    428.0
+                ],
+                [
+                    1077.0,
+                    451.0
+                ],
+                [
+                    914.0,
+                    451.0
+                ]
+            ]
+        }
+    ]
+}

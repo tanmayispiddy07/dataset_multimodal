@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-08_15-49-06_UTC.jpg",
+    "combined_text": "RE RELEASE TRAILEROF\"YUGANIKI OKKADU\nMOVIE RELEASING ON MARCH 14TH\nADDICTEDTOMEMES\n**ME AND MY BOYS\nIN THEATERS\nREY EVARURA MERU ANTHA",
+    "detailed": [
+        {
+            "text": "RE RELEASE TRAILEROF\"YUGANIKI OKKADU",
+            "confidence": 0.958,
+            "box": [
+                [
+                    41.0,
+                    72.0
+                ],
+                [
+                    1027.0,
+                    72.0
+                ],
+                [
+                    1027.0,
+                    106.0
+                ],
+                [
+                    41.0,
+                    106.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON MARCH 14TH",
+            "confidence": 0.996,
+            "box": [
+                [
+                    152.0,
+                    121.0
+                ],
+                [
+                    931.0,
+                    123.0
+                ],
+                [
+                    931.0,
+                    166.0
+                ],
+                [
+                    152.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    492.0,
+                    647.0
+                ],
+                [
+                    633.0,
+                    647.0
+                ],
+                [
+                    633.0,
+                    663.0
+                ],
+                [
+                    492.0,
+                    663.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME AND MY BOYS",
+            "confidence": 0.929,
+            "box": [
+                [
+                    635.0,
+                    921.0
+                ],
+                [
+                    985.0,
+                    927.0
+                ],
+                [
+                    984.0,
+                    970.0
+                ],
+                [
+                    634.0,
+                    964.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATERS",
+            "confidence": 0.973,
+            "box": [
+                [
+                    693.0,
+                    974.0
+                ],
+                [
+                    920.0,
+                    974.0
+                ],
+                [
+                    920.0,
+                    1008.0
+                ],
+                [
+                    693.0,
+                    1008.0
+                ]
+            ]
+        },
+        {
+            "text": "REY EVARURA MERU ANTHA",
+            "confidence": 0.958,
+            "box": [
+                [
+                    86.0,
+                    1266.0
+                ],
+                [
+                    956.0,
+                    1266.0
+                ],
+                [
+                    956.0,
+                    1316.0
+                ],
+                [
+                    86.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

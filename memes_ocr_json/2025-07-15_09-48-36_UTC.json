@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-07-15_09-48-36_UTC.jpg",
+    "combined_text": "\"WHEN I WAS WRITING THE SCRIPT,IREALIZEDPEOPLE\nSEE PAWAN KALYAN AS A LEADER,NOT JUST A HERO,\"\nSAYS DIRECTOR JYOTHIKRISNA.SO HE CRAFTED EVERY\nSCENE IN #HHVM TO BE SPECIAL AND ELEVATING.\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "\"WHEN I WAS WRITING THE SCRIPT,IREALIZEDPEOPLE",
+            "confidence": 0.939,
+            "box": [
+                [
+                    32.0,
+                    24.0
+                ],
+                [
+                    1029.0,
+                    25.0
+                ],
+                [
+                    1029.0,
+                    58.0
+                ],
+                [
+                    31.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "SEE PAWAN KALYAN AS A LEADER,NOT JUST A HERO,\"",
+            "confidence": 0.908,
+            "box": [
+                [
+                    30.0,
+                    68.0
+                ],
+                [
+                    1024.0,
+                    71.0
+                ],
+                [
+                    1024.0,
+                    104.0
+                ],
+                [
+                    30.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "SAYS DIRECTOR JYOTHIKRISNA.SO HE CRAFTED EVERY",
+            "confidence": 0.944,
+            "box": [
+                [
+                    22.0,
+                    117.0
+                ],
+                [
+                    1036.0,
+                    117.0
+                ],
+                [
+                    1036.0,
+                    147.0
+                ],
+                [
+                    22.0,
+                    147.0
+                ]
+            ]
+        },
+        {
+            "text": "SCENE IN #HHVM TO BE SPECIAL AND ELEVATING.",
+            "confidence": 0.945,
+            "box": [
+                [
+                    73.0,
+                    162.0
+                ],
+                [
+                    983.0,
+                    162.0
+                ],
+                [
+                    983.0,
+                    192.0
+                ],
+                [
+                    73.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    529.0,
+                    375.0
+                ],
+                [
+                    680.0,
+                    375.0
+                ],
+                [
+                    680.0,
+                    395.0
+                ],
+                [
+                    529.0,
+                    395.0
+                ]
+            ]
+        }
+    ]
+}

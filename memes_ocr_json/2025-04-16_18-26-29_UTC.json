@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-04-16_18-26-29_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nStarc :- Rendu Yorker luu e RR players ki",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.98,
+            "box": [
+                [
+                    163.0,
+                    48.0
+                ],
+                [
+                    539.0,
+                    49.0
+                ],
+                [
+                    539.0,
+                    86.0
+                ],
+                [
+                    163.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.999,
+            "box": [
+                [
+                    163.0,
+                    96.0
+                ],
+                [
+                    531.0,
+                    102.0
+                ],
+                [
+                    530.0,
+                    138.0
+                ],
+                [
+                    163.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "Starc :- Rendu Yorker luu e RR players ki",
+            "confidence": 0.964,
+            "box": [
+                [
+                    23.0,
+                    226.0
+                ],
+                [
+                    837.0,
+                    229.0
+                ],
+                [
+                    836.0,
+                    269.0
+                ],
+                [
+                    23.0,
+                    267.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-06-04_12-54-53_UTC.jpg",
+    "combined_text": "BREAKING\nNEWS\n7 dead, at least 25 injured\nin stampede at Chinnaswamy\nStadium during\ng RCB felicitation\nceremony\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "BREAKING",
+            "confidence": 0.995,
+            "box": [
+                [
+                    216.0,
+                    67.0
+                ],
+                [
+                    612.0,
+                    67.0
+                ],
+                [
+                    612.0,
+                    120.0
+                ],
+                [
+                    216.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "NEWS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    648.0,
+                    60.0
+                ],
+                [
+                    896.0,
+                    63.0
+                ],
+                [
+                    895.0,
+                    128.0
+                ],
+                [
+                    647.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "7 dead, at least 25 injured",
+            "confidence": 0.991,
+            "box": [
+                [
+                    134.0,
+                    252.0
+                ],
+                [
+                    945.0,
+                    252.0
+                ],
+                [
+                    945.0,
+                    311.0
+                ],
+                [
+                    134.0,
+                    311.0
+                ]
+            ]
+        },
+        {
+            "text": "in stampede at Chinnaswamy",
+            "confidence": 0.999,
+            "box": [
+                [
+                    83.0,
+                    319.0
+                ],
+                [
+                    996.0,
+                    326.0
+                ],
+                [
+                    995.0,
+                    389.0
+                ],
+                [
+                    83.0,
+                    383.0
+                ]
+            ]
+        },
+        {
+            "text": "Stadium during",
+            "confidence": 0.996,
+            "box": [
+                [
+                    59.0,
+                    398.0
+                ],
+                [
+                    546.0,
+                    400.0
+                ],
+                [
+                    546.0,
+                    457.0
+                ],
+                [
+                    59.0,
+                    454.0
+                ]
+            ]
+        },
+        {
+            "text": "g RCB felicitation",
+            "confidence": 0.952,
+            "box": [
+                [
+                    518.0,
+                    399.0
+                ],
+                [
+                    1020.0,
+                    399.0
+                ],
+                [
+                    1020.0,
+                    452.0
+                ],
+                [
+                    518.0,
+                    452.0
+                ]
+            ]
+        },
+        {
+            "text": "ceremony",
+            "confidence": 0.999,
+            "box": [
+                [
+                    384.0,
+                    472.0
+                ],
+                [
+                    694.0,
+                    482.0
+                ],
+                [
+                    692.0,
+                    534.0
+                ],
+                [
+                    383.0,
+                    525.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    847.0,
+                    623.0
+                ],
+                [
+                    1029.0,
+                    622.0
+                ],
+                [
+                    1029.0,
+                    647.0
+                ],
+                [
+                    847.0,
+                    649.0
+                ]
+            ]
+        }
+    ]
+}

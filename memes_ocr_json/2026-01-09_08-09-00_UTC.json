@@ -1,0 +1,424 @@
+{
+    "image_name": "2026-01-09_08-09-00_UTC.jpg",
+    "combined_text": "A BOLD & CONFIDENT MOVE FROM\nSOBHITA,NOW COMING UP WITH A CRIME THRILLER\nAS HER FIRSTMAJOR TELUGUDEBUTS\nCHEEKATILO\nRELEASING ON JAN 23RD ON AMAZON PRIME\nprime original\nprime original\nCHEEKAtiLO\nCHEEKAtiLO\namazon prime\nNEWMOVIE\namazonprime\nNEWMOVIE\nJANUARY23\nJANUARY23\nADDICTEDTOMEMES\nMANA SHOBITA GARU CHALA\nROJULU TARVATA THRILLER\nFILM THO VASTHUNNARU",
+    "detailed": [
+        {
+            "text": "A BOLD & CONFIDENT MOVE FROM",
+            "confidence": 0.913,
+            "box": [
+                [
+                    218.0,
+                    28.0
+                ],
+                [
+                    876.0,
+                    28.0
+                ],
+                [
+                    876.0,
+                    61.0
+                ],
+                [
+                    218.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "SOBHITA,NOW COMING UP WITH A CRIME THRILLER",
+            "confidence": 0.932,
+            "box": [
+                [
+                    59.0,
+                    74.0
+                ],
+                [
+                    1043.0,
+                    74.0
+                ],
+                [
+                    1043.0,
+                    107.0
+                ],
+                [
+                    59.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "AS HER FIRSTMAJOR TELUGUDEBUTS",
+            "confidence": 0.944,
+            "box": [
+                [
+                    63.0,
+                    120.0
+                ],
+                [
+                    797.0,
+                    120.0
+                ],
+                [
+                    797.0,
+                    153.0
+                ],
+                [
+                    63.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEEKATILO",
+            "confidence": 0.99,
+            "box": [
+                [
+                    782.0,
+                    120.0
+                ],
+                [
+                    1041.0,
+                    120.0
+                ],
+                [
+                    1041.0,
+                    153.0
+                ],
+                [
+                    782.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING ON JAN 23RD ON AMAZON PRIME",
+            "confidence": 0.944,
+            "box": [
+                [
+                    117.0,
+                    167.0
+                ],
+                [
+                    984.0,
+                    167.0
+                ],
+                [
+                    984.0,
+                    201.0
+                ],
+                [
+                    117.0,
+                    201.0
+                ]
+            ]
+        },
+        {
+            "text": "prime original",
+            "confidence": 0.984,
+            "box": [
+                [
+                    224.0,
+                    762.0
+                ],
+                [
+                    387.0,
+                    762.0
+                ],
+                [
+                    387.0,
+                    793.0
+                ],
+                [
+                    224.0,
+                    793.0
+                ]
+            ]
+        },
+        {
+            "text": "prime original",
+            "confidence": 0.941,
+            "box": [
+                [
+                    761.0,
+                    758.0
+                ],
+                [
+                    921.0,
+                    755.0
+                ],
+                [
+                    921.0,
+                    790.0
+                ],
+                [
+                    761.0,
+                    793.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEEKAtiLO",
+            "confidence": 0.932,
+            "box": [
+                [
+                    72.0,
+                    817.0
+                ],
+                [
+                    536.0,
+                    801.0
+                ],
+                [
+                    538.0,
+                    863.0
+                ],
+                [
+                    75.0,
+                    880.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEEKAtiLO",
+            "confidence": 0.959,
+            "box": [
+                [
+                    612.0,
+                    813.0
+                ],
+                [
+                    1066.0,
+                    796.0
+                ],
+                [
+                    1068.0,
+                    861.0
+                ],
+                [
+                    615.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "text": "amazon prime",
+            "confidence": 0.921,
+            "box": [
+                [
+                    131.0,
+                    916.0
+                ],
+                [
+                    336.0,
+                    913.0
+                ],
+                [
+                    336.0,
+                    943.0
+                ],
+                [
+                    131.0,
+                    947.0
+                ]
+            ]
+        },
+        {
+            "text": "NEWMOVIE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    371.0,
+                    912.0
+                ],
+                [
+                    474.0,
+                    912.0
+                ],
+                [
+                    474.0,
+                    934.0
+                ],
+                [
+                    371.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "amazonprime",
+            "confidence": 0.997,
+            "box": [
+                [
+                    672.0,
+                    912.0
+                ],
+                [
+                    872.0,
+                    909.0
+                ],
+                [
+                    872.0,
+                    939.0
+                ],
+                [
+                    673.0,
+                    942.0
+                ]
+            ]
+        },
+        {
+            "text": "NEWMOVIE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    906.0,
+                    909.0
+                ],
+                [
+                    1005.0,
+                    909.0
+                ],
+                [
+                    1005.0,
+                    931.0
+                ],
+                [
+                    906.0,
+                    931.0
+                ]
+            ]
+        },
+        {
+            "text": "JANUARY23",
+            "confidence": 0.997,
+            "box": [
+                [
+                    371.0,
+                    934.0
+                ],
+                [
+                    477.0,
+                    934.0
+                ],
+                [
+                    477.0,
+                    955.0
+                ],
+                [
+                    371.0,
+                    955.0
+                ]
+            ]
+        },
+        {
+            "text": "JANUARY23",
+            "confidence": 0.993,
+            "box": [
+                [
+                    904.0,
+                    930.0
+                ],
+                [
+                    1008.0,
+                    930.0
+                ],
+                [
+                    1008.0,
+                    951.0
+                ],
+                [
+                    904.0,
+                    951.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    879.0,
+                    1080.0
+                ],
+                [
+                    1012.0,
+                    1080.0
+                ],
+                [
+                    1012.0,
+                    1101.0
+                ],
+                [
+                    879.0,
+                    1101.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA SHOBITA GARU CHALA",
+            "confidence": 0.944,
+            "box": [
+                [
+                    367.0,
+                    1182.0
+                ],
+                [
+                    998.0,
+                    1182.0
+                ],
+                [
+                    998.0,
+                    1220.0
+                ],
+                [
+                    367.0,
+                    1220.0
+                ]
+            ]
+        },
+        {
+            "text": "ROJULU TARVATA THRILLER",
+            "confidence": 0.961,
+            "box": [
+                [
+                    392.0,
+                    1232.0
+                ],
+                [
+                    976.0,
+                    1234.0
+                ],
+                [
+                    976.0,
+                    1271.0
+                ],
+                [
+                    392.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM THO VASTHUNNARU",
+            "confidence": 0.965,
+            "box": [
+                [
+                    414.0,
+                    1281.0
+                ],
+                [
+                    951.0,
+                    1282.0
+                ],
+                [
+                    951.0,
+                    1324.0
+                ],
+                [
+                    413.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

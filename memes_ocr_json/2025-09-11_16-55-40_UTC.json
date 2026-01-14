@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-11_16-55-40_UTC.jpg",
+    "combined_text": "TELUSUKADA TEASER\nMOVIE RELEASINGON OCT 17TH\nADDICTEDTOMEME\nAHAAA ESARI IDDHARU\nHEROINES THONE\nMAMULAGA UNDADU INKA",
+    "detailed": [
+        {
+            "text": "TELUSUKADA TEASER",
+            "confidence": 0.966,
+            "box": [
+                [
+                    186.0,
+                    212.0
+                ],
+                [
+                    945.0,
+                    212.0
+                ],
+                [
+                    945.0,
+                    275.0
+                ],
+                [
+                    186.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASINGON OCT 17TH",
+            "confidence": 0.948,
+            "box": [
+                [
+                    170.0,
+                    913.0
+                ],
+                [
+                    996.0,
+                    913.0
+                ],
+                [
+                    996.0,
+                    955.0
+                ],
+                [
+                    170.0,
+                    955.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEME",
+            "confidence": 0.984,
+            "box": [
+                [
+                    900.0,
+                    1084.0
+                ],
+                [
+                    1025.0,
+                    1084.0
+                ],
+                [
+                    1025.0,
+                    1101.0
+                ],
+                [
+                    900.0,
+                    1101.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAAA ESARI IDDHARU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    551.0,
+                    1201.0
+                ],
+                [
+                    987.0,
+                    1201.0
+                ],
+                [
+                    987.0,
+                    1235.0
+                ],
+                [
+                    551.0,
+                    1235.0
+                ]
+            ]
+        },
+        {
+            "text": "HEROINES THONE",
+            "confidence": 0.985,
+            "box": [
+                [
+                    606.0,
+                    1246.0
+                ],
+                [
+                    932.0,
+                    1246.0
+                ],
+                [
+                    932.0,
+                    1279.0
+                ],
+                [
+                    606.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "MAMULAGA UNDADU INKA",
+            "confidence": 0.97,
+            "box": [
+                [
+                    520.0,
+                    1292.0
+                ],
+                [
+                    1018.0,
+                    1292.0
+                ],
+                [
+                    1018.0,
+                    1325.0
+                ],
+                [
+                    520.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

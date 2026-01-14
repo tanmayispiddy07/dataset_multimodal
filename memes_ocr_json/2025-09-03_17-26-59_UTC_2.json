@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-09-03_17-26-59_UTC_2.jpg",
+    "combined_text": "Different season, different people,\n700\nsame vibes\nBiggBoss OTT2",
+    "detailed": [
+        {
+            "text": "Different season, different people,",
+            "confidence": 1.0,
+            "box": [
+                [
+                    92.0,
+                    67.0
+                ],
+                [
+                    986.0,
+                    72.0
+                ],
+                [
+                    986.0,
+                    125.0
+                ],
+                [
+                    91.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "700",
+            "confidence": 0.839,
+            "box": [
+                [
+                    686.0,
+                    145.0
+                ],
+                [
+                    769.0,
+                    145.0
+                ],
+                [
+                    769.0,
+                    209.0
+                ],
+                [
+                    686.0,
+                    209.0
+                ]
+            ]
+        },
+        {
+            "text": "same vibes",
+            "confidence": 0.999,
+            "box": [
+                [
+                    307.0,
+                    157.0
+                ],
+                [
+                    603.0,
+                    157.0
+                ],
+                [
+                    603.0,
+                    211.0
+                ],
+                [
+                    307.0,
+                    211.0
+                ]
+            ]
+        },
+        {
+            "text": "BiggBoss OTT2",
+            "confidence": 0.966,
+            "box": [
+                [
+                    36.0,
+                    322.0
+                ],
+                [
+                    326.0,
+                    317.0
+                ],
+                [
+                    326.0,
+                    361.0
+                ],
+                [
+                    37.0,
+                    366.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-10_12-10-34_UTC.jpg",
+    "combined_text": "BEAUTIFUL ANDCRAZE\nTEASER OF\"FUNKY\"\nA MOVIE WITH\nNO PART-2\nNAKU ILANTI SIMPLE AND BEAUTIFUL\nLOVE STORIES ANTE CHALA ISTAM RA",
+    "detailed": [
+        {
+            "text": "BEAUTIFUL ANDCRAZE",
+            "confidence": 0.976,
+            "box": [
+                [
+                    200.0,
+                    309.0
+                ],
+                [
+                    820.0,
+                    309.0
+                ],
+                [
+                    820.0,
+                    360.0
+                ],
+                [
+                    200.0,
+                    360.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER OF\"FUNKY\"",
+            "confidence": 0.959,
+            "box": [
+                [
+                    257.0,
+                    636.0
+                ],
+                [
+                    800.0,
+                    637.0
+                ],
+                [
+                    800.0,
+                    684.0
+                ],
+                [
+                    257.0,
+                    683.0
+                ]
+            ]
+        },
+        {
+            "text": "A MOVIE WITH",
+            "confidence": 0.932,
+            "box": [
+                [
+                    615.0,
+                    729.0
+                ],
+                [
+                    1067.0,
+                    729.0
+                ],
+                [
+                    1067.0,
+                    820.0
+                ],
+                [
+                    615.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "NO PART-2",
+            "confidence": 0.955,
+            "box": [
+                [
+                    641.0,
+                    842.0
+                ],
+                [
+                    1038.0,
+                    834.0
+                ],
+                [
+                    1040.0,
+                    911.0
+                ],
+                [
+                    642.0,
+                    919.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU ILANTI SIMPLE AND BEAUTIFUL",
+            "confidence": 0.932,
+            "box": [
+                [
+                    145.0,
+                    1232.0
+                ],
+                [
+                    924.0,
+                    1232.0
+                ],
+                [
+                    924.0,
+                    1266.0
+                ],
+                [
+                    145.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "LOVE STORIES ANTE CHALA ISTAM RA",
+            "confidence": 0.941,
+            "box": [
+                [
+                    134.0,
+                    1279.0
+                ],
+                [
+                    942.0,
+                    1279.0
+                ],
+                [
+                    942.0,
+                    1321.0
+                ],
+                [
+                    134.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

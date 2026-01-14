@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-09_06-15-35_UTC.jpg",
+    "combined_text": "SHE :- I'M NOT THAT\nMUCH BEAUTIFUL\nALSO SHE\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "SHE :- I'M NOT THAT",
+            "confidence": 0.985,
+            "box": [
+                [
+                    280.0,
+                    17.0
+                ],
+                [
+                    856.0,
+                    17.0
+                ],
+                [
+                    856.0,
+                    67.0
+                ],
+                [
+                    280.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "MUCH BEAUTIFUL",
+            "confidence": 0.964,
+            "box": [
+                [
+                    309.0,
+                    88.0
+                ],
+                [
+                    810.0,
+                    88.0
+                ],
+                [
+                    810.0,
+                    138.0
+                ],
+                [
+                    309.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "ALSO SHE",
+            "confidence": 0.785,
+            "box": [
+                [
+                    346.0,
+                    613.0
+                ],
+                [
+                    797.0,
+                    613.0
+                ],
+                [
+                    797.0,
+                    694.0
+                ],
+                [
+                    346.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    908.0,
+                    721.0
+                ],
+                [
+                    1059.0,
+                    721.0
+                ],
+                [
+                    1059.0,
+                    741.0
+                ],
+                [
+                    908.0,
+                    741.0
+                ]
+            ]
+        }
+    ]
+}

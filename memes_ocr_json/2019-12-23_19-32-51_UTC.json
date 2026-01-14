@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-12-23_19-32-51_UTC.jpg",
+    "combined_text": "me when any aunty/uncle brings up\nthe SAT or college.\nPENGILEE\n'ENGIL",
+    "detailed": [
+        {
+            "text": "me when any aunty/uncle brings up",
+            "confidence": 0.991,
+            "box": [
+                [
+                    38.0,
+                    14.0
+                ],
+                [
+                    1038.0,
+                    21.0
+                ],
+                [
+                    1038.0,
+                    95.0
+                ],
+                [
+                    37.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "the SAT or college.",
+            "confidence": 0.981,
+            "box": [
+                [
+                    279.0,
+                    90.0
+                ],
+                [
+                    797.0,
+                    97.0
+                ],
+                [
+                    797.0,
+                    161.0
+                ],
+                [
+                    278.0,
+                    154.0
+                ]
+            ]
+        },
+        {
+            "text": "PENGILEE",
+            "confidence": 0.779,
+            "box": [
+                [
+                    9.0,
+                    399.0
+                ],
+                [
+                    138.0,
+                    396.0
+                ],
+                [
+                    139.0,
+                    451.0
+                ],
+                [
+                    10.0,
+                    455.0
+                ]
+            ]
+        },
+        {
+            "text": "'ENGIL",
+            "confidence": 0.866,
+            "box": [
+                [
+                    21.0,
+                    902.0
+                ],
+                [
+                    152.0,
+                    897.0
+                ],
+                [
+                    154.0,
+                    962.0
+                ],
+                [
+                    24.0,
+                    967.0
+                ]
+            ]
+        }
+    ]
+}

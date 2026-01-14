@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-04_18-30-19_UTC.jpg",
+    "combined_text": "WISHING THE MAN WHO IS INSPIRATION FOR\nMILLIONS OF FANS OUT THERE .THE MAN WHO'S\nNAME IS MEANT FOR RECORDS.THE MAN WHO\nGIVES HIS BLOOD AND SWEAT FOR CRICKET.\nADDICTEDTOMEMES\nVIRAT\n18\nWISHING THE FOREVER CHAMPION\nKING KOHLIA VERYHAPPYBIRTHDAY\nBAAHUBALIOFCRICKET",
+    "detailed": [
+        {
+            "text": "WISHING THE MAN WHO IS INSPIRATION FOR",
+            "confidence": 0.948,
+            "box": [
+                [
+                    75.0,
+                    36.0
+                ],
+                [
+                    1022.0,
+                    36.0
+                ],
+                [
+                    1022.0,
+                    74.0
+                ],
+                [
+                    75.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "MILLIONS OF FANS OUT THERE .THE MAN WHO'S",
+            "confidence": 0.92,
+            "box": [
+                [
+                    42.0,
+                    89.0
+                ],
+                [
+                    1052.0,
+                    89.0
+                ],
+                [
+                    1052.0,
+                    123.0
+                ],
+                [
+                    42.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "NAME IS MEANT FOR RECORDS.THE MAN WHO",
+            "confidence": 0.927,
+            "box": [
+                [
+                    48.0,
+                    141.0
+                ],
+                [
+                    1048.0,
+                    141.0
+                ],
+                [
+                    1048.0,
+                    174.0
+                ],
+                [
+                    48.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "GIVES HIS BLOOD AND SWEAT FOR CRICKET.",
+            "confidence": 0.955,
+            "box": [
+                [
+                    80.0,
+                    188.0
+                ],
+                [
+                    1014.0,
+                    191.0
+                ],
+                [
+                    1014.0,
+                    230.0
+                ],
+                [
+                    80.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    676.0,
+                    394.0
+                ],
+                [
+                    811.0,
+                    394.0
+                ],
+                [
+                    811.0,
+                    411.0
+                ],
+                [
+                    676.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "VIRAT",
+            "confidence": 0.981,
+            "box": [
+                [
+                    461.0,
+                    555.0
+                ],
+                [
+                    512.0,
+                    555.0
+                ],
+                [
+                    512.0,
+                    590.0
+                ],
+                [
+                    461.0,
+                    590.0
+                ]
+            ]
+        },
+        {
+            "text": "18",
+            "confidence": 0.976,
+            "box": [
+                [
+                    451.0,
+                    577.0
+                ],
+                [
+                    510.0,
+                    577.0
+                ],
+                [
+                    510.0,
+                    656.0
+                ],
+                [
+                    451.0,
+                    656.0
+                ]
+            ]
+        },
+        {
+            "text": "WISHING THE FOREVER CHAMPION",
+            "confidence": 0.95,
+            "box": [
+                [
+                    150.0,
+                    810.0
+                ],
+                [
+                    968.0,
+                    810.0
+                ],
+                [
+                    968.0,
+                    847.0
+                ],
+                [
+                    150.0,
+                    847.0
+                ]
+            ]
+        },
+        {
+            "text": "KING KOHLIA VERYHAPPYBIRTHDAY",
+            "confidence": 0.958,
+            "box": [
+                [
+                    114.0,
+                    864.0
+                ],
+                [
+                    987.0,
+                    864.0
+                ],
+                [
+                    987.0,
+                    906.0
+                ],
+                [
+                    114.0,
+                    906.0
+                ]
+            ]
+        },
+        {
+            "text": "BAAHUBALIOFCRICKET",
+            "confidence": 0.995,
+            "box": [
+                [
+                    124.0,
+                    1246.0
+                ],
+                [
+                    1062.0,
+                    1246.0
+                ],
+                [
+                    1062.0,
+                    1317.0
+                ],
+                [
+                    124.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

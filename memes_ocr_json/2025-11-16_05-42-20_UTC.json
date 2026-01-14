@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-16_05-42-20_UTC.jpg",
+    "combined_text": "So many men in one long.\nline, and the ending shows their\nreal struggle\nO",
+    "detailed": [
+        {
+            "text": "So many men in one long.",
+            "confidence": 0.957,
+            "box": [
+                [
+                    126.0,
+                    979.0
+                ],
+                [
+                    582.0,
+                    981.0
+                ],
+                [
+                    582.0,
+                    1019.0
+                ],
+                [
+                    126.0,
+                    1016.0
+                ]
+            ]
+        },
+        {
+            "text": "line, and the ending shows their",
+            "confidence": 0.993,
+            "box": [
+                [
+                    62.0,
+                    1032.0
+                ],
+                [
+                    647.0,
+                    1032.0
+                ],
+                [
+                    647.0,
+                    1069.0
+                ],
+                [
+                    62.0,
+                    1069.0
+                ]
+            ]
+        },
+        {
+            "text": "real struggle",
+            "confidence": 0.972,
+            "box": [
+                [
+                    184.0,
+                    1088.0
+                ],
+                [
+                    428.0,
+                    1091.0
+                ],
+                [
+                    427.0,
+                    1129.0
+                ],
+                [
+                    184.0,
+                    1127.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.537,
+            "box": [
+                [
+                    490.0,
+                    1089.0
+                ],
+                [
+                    520.0,
+                    1097.0
+                ],
+                [
+                    515.0,
+                    1117.0
+                ],
+                [
+                    484.0,
+                    1109.0
+                ]
+            ]
+        }
+    ]
+}

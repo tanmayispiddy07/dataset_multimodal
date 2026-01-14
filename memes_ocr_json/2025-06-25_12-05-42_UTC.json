@@ -1,0 +1,666 @@
+{
+    "image_name": "2025-06-25_12-05-42_UTC.jpg",
+    "combined_text": "ADVANCE BOOKINGS OPEN\nNOW FOR KANNAPPA .CAMETO\nTRENDING INFEW MINUTES\nKannappa\nAV\nBASIDON\nTEUESTORY\nADVANCE\nBOOKING\nTrailers 15\nOPEN\nNOW\nRONHSPPA\nReleasing on 27Jun,2025\nYou and202K are interested\nUndo\nWell notify you when it releases\n2DTELUGU,HINDI+3\n3h 3mActionDramaFantasyPeriodUA13+\nThe movie depicts the folk tale of Kannappa an\natheist hunter who became a devotee of Lord\nShiva an...more\nrrrrnn\n2.31K tickets booked in last 1\nhour\nJUNE27TH\nADDICTEDTOMEMES\nTICKETS BOOK\nCHESANU FRIDAYROJU\nREADY GA UNDANDI RA",
+    "detailed": [
+        {
+            "text": "ADVANCE BOOKINGS OPEN",
+            "confidence": 0.953,
+            "box": [
+                [
+                    205.0,
+                    22.0
+                ],
+                [
+                    894.0,
+                    22.0
+                ],
+                [
+                    894.0,
+                    68.0
+                ],
+                [
+                    205.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW FOR KANNAPPA .CAMETO",
+            "confidence": 0.941,
+            "box": [
+                [
+                    149.0,
+                    86.0
+                ],
+                [
+                    951.0,
+                    86.0
+                ],
+                [
+                    951.0,
+                    128.0
+                ],
+                [
+                    149.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "TRENDING INFEW MINUTES",
+            "confidence": 0.957,
+            "box": [
+                [
+                    193.0,
+                    148.0
+                ],
+                [
+                    876.0,
+                    148.0
+                ],
+                [
+                    876.0,
+                    190.0
+                ],
+                [
+                    193.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "Kannappa",
+            "confidence": 0.997,
+            "box": [
+                [
+                    69.0,
+                    232.0
+                ],
+                [
+                    182.0,
+                    236.0
+                ],
+                [
+                    181.0,
+                    262.0
+                ],
+                [
+                    69.0,
+                    259.0
+                ]
+            ]
+        },
+        {
+            "text": "AV",
+            "confidence": 0.823,
+            "box": [
+                [
+                    502.0,
+                    240.0
+                ],
+                [
+                    539.0,
+                    240.0
+                ],
+                [
+                    539.0,
+                    254.0
+                ],
+                [
+                    502.0,
+                    254.0
+                ]
+            ]
+        },
+        {
+            "text": "BASIDON",
+            "confidence": 0.863,
+            "box": [
+                [
+                    696.0,
+                    240.0
+                ],
+                [
+                    773.0,
+                    240.0
+                ],
+                [
+                    773.0,
+                    252.0
+                ],
+                [
+                    696.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "text": "TEUESTORY",
+            "confidence": 0.772,
+            "box": [
+                [
+                    795.0,
+                    237.0
+                ],
+                [
+                    896.0,
+                    237.0
+                ],
+                [
+                    896.0,
+                    254.0
+                ],
+                [
+                    795.0,
+                    254.0
+                ]
+            ]
+        },
+        {
+            "text": "ADVANCE",
+            "confidence": 0.992,
+            "box": [
+                [
+                    613.0,
+                    282.0
+                ],
+                [
+                    976.0,
+                    282.0
+                ],
+                [
+                    976.0,
+                    319.0
+                ],
+                [
+                    613.0,
+                    319.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOKING",
+            "confidence": 0.996,
+            "box": [
+                [
+                    540.0,
+                    330.0
+                ],
+                [
+                    1045.0,
+                    330.0
+                ],
+                [
+                    1045.0,
+                    407.0
+                ],
+                [
+                    540.0,
+                    407.0
+                ]
+            ]
+        },
+        {
+            "text": "Trailers 15",
+            "confidence": 0.957,
+            "box": [
+                [
+                    174.0,
+                    393.0
+                ],
+                [
+                    300.0,
+                    393.0
+                ],
+                [
+                    300.0,
+                    418.0
+                ],
+                [
+                    174.0,
+                    418.0
+                ]
+            ]
+        },
+        {
+            "text": "OPEN",
+            "confidence": 0.992,
+            "box": [
+                [
+                    622.0,
+                    415.0
+                ],
+                [
+                    783.0,
+                    415.0
+                ],
+                [
+                    783.0,
+                    445.0
+                ],
+                [
+                    622.0,
+                    445.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW",
+            "confidence": 0.989,
+            "box": [
+                [
+                    827.0,
+                    416.0
+                ],
+                [
+                    964.0,
+                    412.0
+                ],
+                [
+                    965.0,
+                    447.0
+                ],
+                [
+                    827.0,
+                    450.0
+                ]
+            ]
+        },
+        {
+            "text": "RONHSPPA",
+            "confidence": 0.625,
+            "box": [
+                [
+                    197.0,
+                    449.0
+                ],
+                [
+                    290.0,
+                    449.0
+                ],
+                [
+                    290.0,
+                    479.0
+                ],
+                [
+                    197.0,
+                    479.0
+                ]
+            ]
+        },
+        {
+            "text": "Releasing on 27Jun,2025",
+            "confidence": 0.945,
+            "box": [
+                [
+                    145.0,
+                    518.0
+                ],
+                [
+                    336.0,
+                    518.0
+                ],
+                [
+                    336.0,
+                    539.0
+                ],
+                [
+                    145.0,
+                    539.0
+                ]
+            ]
+        },
+        {
+            "text": "You and202K are interested",
+            "confidence": 0.959,
+            "box": [
+                [
+                    70.0,
+                    594.0
+                ],
+                [
+                    297.0,
+                    595.0
+                ],
+                [
+                    297.0,
+                    620.0
+                ],
+                [
+                    70.0,
+                    619.0
+                ]
+            ]
+        },
+        {
+            "text": "Undo",
+            "confidence": 0.996,
+            "box": [
+                [
+                    392.0,
+                    605.0
+                ],
+                [
+                    442.0,
+                    605.0
+                ],
+                [
+                    442.0,
+                    627.0
+                ],
+                [
+                    392.0,
+                    627.0
+                ]
+            ]
+        },
+        {
+            "text": "Well notify you when it releases",
+            "confidence": 0.932,
+            "box": [
+                [
+                    37.0,
+                    617.0
+                ],
+                [
+                    283.0,
+                    619.0
+                ],
+                [
+                    283.0,
+                    645.0
+                ],
+                [
+                    37.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "2DTELUGU,HINDI+3",
+            "confidence": 0.901,
+            "box": [
+                [
+                    22.0,
+                    676.0
+                ],
+                [
+                    195.0,
+                    676.0
+                ],
+                [
+                    195.0,
+                    697.0
+                ],
+                [
+                    22.0,
+                    697.0
+                ]
+            ]
+        },
+        {
+            "text": "3h 3mActionDramaFantasyPeriodUA13+",
+            "confidence": 0.979,
+            "box": [
+                [
+                    18.0,
+                    711.0
+                ],
+                [
+                    388.0,
+                    711.0
+                ],
+                [
+                    388.0,
+                    732.0
+                ],
+                [
+                    18.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "The movie depicts the folk tale of Kannappa an",
+            "confidence": 0.93,
+            "box": [
+                [
+                    17.0,
+                    741.0
+                ],
+                [
+                    440.0,
+                    743.0
+                ],
+                [
+                    440.0,
+                    768.0
+                ],
+                [
+                    17.0,
+                    767.0
+                ]
+            ]
+        },
+        {
+            "text": "atheist hunter who became a devotee of Lord",
+            "confidence": 0.961,
+            "box": [
+                [
+                    20.0,
+                    767.0
+                ],
+                [
+                    418.0,
+                    767.0
+                ],
+                [
+                    418.0,
+                    787.0
+                ],
+                [
+                    20.0,
+                    787.0
+                ]
+            ]
+        },
+        {
+            "text": "Shiva an...more",
+            "confidence": 0.92,
+            "box": [
+                [
+                    17.0,
+                    786.0
+                ],
+                [
+                    163.0,
+                    788.0
+                ],
+                [
+                    163.0,
+                    810.0
+                ],
+                [
+                    17.0,
+                    808.0
+                ]
+            ]
+        },
+        {
+            "text": "rrrrnn",
+            "confidence": 0.508,
+            "box": [
+                [
+                    30.0,
+                    851.0
+                ],
+                [
+                    151.0,
+                    856.0
+                ],
+                [
+                    150.0,
+                    883.0
+                ],
+                [
+                    29.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "text": "2.31K tickets booked in last 1",
+            "confidence": 0.956,
+            "box": [
+                [
+                    167.0,
+                    843.0
+                ],
+                [
+                    422.0,
+                    845.0
+                ],
+                [
+                    422.0,
+                    870.0
+                ],
+                [
+                    167.0,
+                    868.0
+                ]
+            ]
+        },
+        {
+            "text": "hour",
+            "confidence": 0.996,
+            "box": [
+                [
+                    169.0,
+                    868.0
+                ],
+                [
+                    214.0,
+                    868.0
+                ],
+                [
+                    214.0,
+                    892.0
+                ],
+                [
+                    169.0,
+                    892.0
+                ]
+            ]
+        },
+        {
+            "text": "JUNE27TH",
+            "confidence": 0.928,
+            "box": [
+                [
+                    487.0,
+                    864.0
+                ],
+                [
+                    586.0,
+                    864.0
+                ],
+                [
+                    586.0,
+                    891.0
+                ],
+                [
+                    487.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.988,
+            "box": [
+                [
+                    22.0,
+                    1054.0
+                ],
+                [
+                    163.0,
+                    1054.0
+                ],
+                [
+                    163.0,
+                    1075.0
+                ],
+                [
+                    22.0,
+                    1075.0
+                ]
+            ]
+        },
+        {
+            "text": "TICKETS BOOK",
+            "confidence": 0.96,
+            "box": [
+                [
+                    126.0,
+                    1172.0
+                ],
+                [
+                    469.0,
+                    1169.0
+                ],
+                [
+                    470.0,
+                    1212.0
+                ],
+                [
+                    127.0,
+                    1215.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESANU FRIDAYROJU",
+            "confidence": 0.968,
+            "box": [
+                [
+                    27.0,
+                    1229.0
+                ],
+                [
+                    568.0,
+                    1229.0
+                ],
+                [
+                    568.0,
+                    1271.0
+                ],
+                [
+                    27.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "READY GA UNDANDI RA",
+            "confidence": 0.94,
+            "box": [
+                [
+                    20.0,
+                    1285.0
+                ],
+                [
+                    574.0,
+                    1286.0
+                ],
+                [
+                    574.0,
+                    1328.0
+                ],
+                [
+                    20.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

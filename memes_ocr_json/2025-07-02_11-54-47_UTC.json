@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-07-02_11-54-47_UTC.jpg",
+    "combined_text": "WHOEVER WATCHED THE TRAILER HAD\nJUST ONE WORD: \"GOOSEBUMPS!\"\n\"NO OTHER HERO HAS EVER ATTEMPTED\nSOMETHING LIKE THIS!\nADDICTEDTOMEMES\n**ME WAITING FOR TRAILER WHICH\nIS RELEASING TOMMOROW",
+    "detailed": [
+        {
+            "text": "WHOEVER WATCHED THE TRAILER HAD",
+            "confidence": 0.957,
+            "box": [
+                [
+                    180.0,
+                    4.0
+                ],
+                [
+                    937.0,
+                    6.0
+                ],
+                [
+                    937.0,
+                    43.0
+                ],
+                [
+                    180.0,
+                    42.0
+                ]
+            ]
+        },
+        {
+            "text": "JUST ONE WORD: \"GOOSEBUMPS!\"",
+            "confidence": 0.917,
+            "box": [
+                [
+                    193.0,
+                    54.0
+                ],
+                [
+                    876.0,
+                    56.0
+                ],
+                [
+                    876.0,
+                    93.0
+                ],
+                [
+                    193.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "\"NO OTHER HERO HAS EVER ATTEMPTED",
+            "confidence": 0.951,
+            "box": [
+                [
+                    165.0,
+                    103.0
+                ],
+                [
+                    953.0,
+                    103.0
+                ],
+                [
+                    953.0,
+                    141.0
+                ],
+                [
+                    165.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "SOMETHING LIKE THIS!",
+            "confidence": 0.97,
+            "box": [
+                [
+                    339.0,
+                    153.0
+                ],
+                [
+                    779.0,
+                    153.0
+                ],
+                [
+                    779.0,
+                    191.0
+                ],
+                [
+                    339.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    437.0,
+                    562.0
+                ],
+                [
+                    586.0,
+                    562.0
+                ],
+                [
+                    586.0,
+                    583.0
+                ],
+                [
+                    437.0,
+                    583.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WAITING FOR TRAILER WHICH",
+            "confidence": 0.949,
+            "box": [
+                [
+                    347.0,
+                    1005.0
+                ],
+                [
+                    934.0,
+                    1008.0
+                ],
+                [
+                    934.0,
+                    1041.0
+                ],
+                [
+                    347.0,
+                    1038.0
+                ]
+            ]
+        },
+        {
+            "text": "IS RELEASING TOMMOROW",
+            "confidence": 0.962,
+            "box": [
+                [
+                    409.0,
+                    1049.0
+                ],
+                [
+                    862.0,
+                    1049.0
+                ],
+                [
+                    862.0,
+                    1083.0
+                ],
+                [
+                    409.0,
+                    1083.0
+                ]
+            ]
+        }
+    ]
+}

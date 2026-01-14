@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-05-16_15-34-29_UTC.jpg",
+    "combined_text": "WEEKEND SUGGESTION (WEBSERIES)\nASUR (TELUGU & HINDI)\nTOTAL 2 SEASONS AVAILABLE IN HOTSTAR\nFAMILY WATCH ?! YES\nFran\nMEELO CHALA MANDHIE WEBSERIESCHUSI\nUNTARU LONG BACK BUT STILL OKASARIIRECALL\nCHEYANDI SAME ADHE THRILL FEELS.ONE OF THE\nBEST INDIAN THRILLER WEBSERIES.2 SEASONS\nTHELIYAKUNDA NEY COMPLETE CHESTHARU\nTHE BEST BEST WEBSERIES",
+    "detailed": [
+        {
+            "text": "WEEKEND SUGGESTION (WEBSERIES)",
+            "confidence": 0.972,
+            "box": [
+                [
+                    118.0,
+                    53.0
+                ],
+                [
+                    982.0,
+                    53.0
+                ],
+                [
+                    982.0,
+                    95.0
+                ],
+                [
+                    118.0,
+                    95.0
+                ]
+            ]
+        },
+        {
+            "text": "ASUR (TELUGU & HINDI)",
+            "confidence": 0.938,
+            "box": [
+                [
+                    269.0,
+                    112.0
+                ],
+                [
+                    830.0,
+                    112.0
+                ],
+                [
+                    830.0,
+                    153.0
+                ],
+                [
+                    269.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "TOTAL 2 SEASONS AVAILABLE IN HOTSTAR",
+            "confidence": 0.976,
+            "box": [
+                [
+                    41.0,
+                    171.0
+                ],
+                [
+                    1045.0,
+                    171.0
+                ],
+                [
+                    1045.0,
+                    213.0
+                ],
+                [
+                    41.0,
+                    213.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH ?! YES",
+            "confidence": 0.877,
+            "box": [
+                [
+                    294.0,
+                    230.0
+                ],
+                [
+                    800.0,
+                    230.0
+                ],
+                [
+                    800.0,
+                    276.0
+                ],
+                [
+                    294.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "Fran",
+            "confidence": 0.559,
+            "box": [
+                [
+                    927.0,
+                    350.0
+                ],
+                [
+                    1043.0,
+                    350.0
+                ],
+                [
+                    1043.0,
+                    400.0
+                ],
+                [
+                    927.0,
+                    400.0
+                ]
+            ]
+        },
+        {
+            "text": "MEELO CHALA MANDHIE WEBSERIESCHUSI",
+            "confidence": 0.952,
+            "box": [
+                [
+                    96.0,
+                    1030.0
+                ],
+                [
+                    984.0,
+                    1030.0
+                ],
+                [
+                    984.0,
+                    1063.0
+                ],
+                [
+                    96.0,
+                    1063.0
+                ]
+            ]
+        },
+        {
+            "text": "UNTARU LONG BACK BUT STILL OKASARIIRECALL",
+            "confidence": 0.944,
+            "box": [
+                [
+                    34.0,
+                    1080.0
+                ],
+                [
+                    1048.0,
+                    1080.0
+                ],
+                [
+                    1048.0,
+                    1114.0
+                ],
+                [
+                    34.0,
+                    1114.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEYANDI SAME ADHE THRILL FEELS.ONE OF THE",
+            "confidence": 0.935,
+            "box": [
+                [
+                    32.0,
+                    1130.0
+                ],
+                [
+                    1049.0,
+                    1130.0
+                ],
+                [
+                    1049.0,
+                    1164.0
+                ],
+                [
+                    32.0,
+                    1164.0
+                ]
+            ]
+        },
+        {
+            "text": "BEST INDIAN THRILLER WEBSERIES.2 SEASONS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    65.0,
+                    1181.0
+                ],
+                [
+                    1014.0,
+                    1181.0
+                ],
+                [
+                    1014.0,
+                    1214.0
+                ],
+                [
+                    65.0,
+                    1214.0
+                ]
+            ]
+        },
+        {
+            "text": "THELIYAKUNDA NEY COMPLETE CHESTHARU",
+            "confidence": 0.959,
+            "box": [
+                [
+                    83.0,
+                    1231.0
+                ],
+                [
+                    993.0,
+                    1231.0
+                ],
+                [
+                    993.0,
+                    1264.0
+                ],
+                [
+                    83.0,
+                    1264.0
+                ]
+            ]
+        },
+        {
+            "text": "THE BEST BEST WEBSERIES",
+            "confidence": 0.933,
+            "box": [
+                [
+                    270.0,
+                    1281.0
+                ],
+                [
+                    799.0,
+                    1281.0
+                ],
+                [
+                    799.0,
+                    1314.0
+                ],
+                [
+                    270.0,
+                    1314.0
+                ]
+            ]
+        }
+    ]
+}

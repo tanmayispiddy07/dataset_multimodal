@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-08-31_15-14-50_UTC_2.jpg",
+    "combined_text": "Allu Sirish\n@AlluSirish\nMy dear 'nanamma, Shri Kanaka Ratnam\npassed away peacfully on 3Oth August.\nmorning early hours. Her farewell was in the\nmidst of all her children, grandchildren and\ngreat grand children mourning her loss.\nMy fondest memories of her would be the\nsecret pocket money she gave which my\nparents werent aware of, protecting me\nfrom my Father's anger and applying ubtan.\npowder on me after playing the summer\nhoping to de-tan me. I am happy we spent.\nquality with her, in her last days.\nShe will always be remembered fondly as.\na lot of her traits and genes have passed\ndown in all of us. Will miss her a lot!",
+    "detailed": [
+        {
+            "text": "Allu Sirish",
+            "confidence": 0.973,
+            "box": [
+                [
+                    145.0,
+                    21.0
+                ],
+                [
+                    385.0,
+                    21.0
+                ],
+                [
+                    385.0,
+                    65.0
+                ],
+                [
+                    145.0,
+                    65.0
+                ]
+            ]
+        },
+        {
+            "text": "@AlluSirish",
+            "confidence": 0.968,
+            "box": [
+                [
+                    146.0,
+                    76.0
+                ],
+                [
+                    382.0,
+                    76.0
+                ],
+                [
+                    382.0,
+                    115.0
+                ],
+                [
+                    146.0,
+                    115.0
+                ]
+            ]
+        },
+        {
+            "text": "My dear 'nanamma, Shri Kanaka Ratnam",
+            "confidence": 0.989,
+            "box": [
+                [
+                    4.0,
+                    162.0
+                ],
+                [
+                    1004.0,
+                    160.0
+                ],
+                [
+                    1004.0,
+                    215.0
+                ],
+                [
+                    4.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "passed away peacfully on 3Oth August.",
+            "confidence": 0.986,
+            "box": [
+                [
+                    1.0,
+                    232.0
+                ],
+                [
+                    948.0,
+                    231.0
+                ],
+                [
+                    948.0,
+                    287.0
+                ],
+                [
+                    1.0,
+                    289.0
+                ]
+            ]
+        },
+        {
+            "text": "morning early hours. Her farewell was in the",
+            "confidence": 0.987,
+            "box": [
+                [
+                    3.0,
+                    303.0
+                ],
+                [
+                    1064.0,
+                    298.0
+                ],
+                [
+                    1065.0,
+                    352.0
+                ],
+                [
+                    3.0,
+                    356.0
+                ]
+            ]
+        },
+        {
+            "text": "midst of all her children, grandchildren and",
+            "confidence": 0.995,
+            "box": [
+                [
+                    1.0,
+                    372.0
+                ],
+                [
+                    1045.0,
+                    372.0
+                ],
+                [
+                    1045.0,
+                    422.0
+                ],
+                [
+                    1.0,
+                    422.0
+                ]
+            ]
+        },
+        {
+            "text": "great grand children mourning her loss.",
+            "confidence": 0.977,
+            "box": [
+                [
+                    1.0,
+                    439.0
+                ],
+                [
+                    948.0,
+                    435.0
+                ],
+                [
+                    948.0,
+                    494.0
+                ],
+                [
+                    2.0,
+                    498.0
+                ]
+            ]
+        },
+        {
+            "text": "My fondest memories of her would be the",
+            "confidence": 0.995,
+            "box": [
+                [
+                    4.0,
+                    577.0
+                ],
+                [
+                    1024.0,
+                    573.0
+                ],
+                [
+                    1024.0,
+                    629.0
+                ],
+                [
+                    4.0,
+                    633.0
+                ]
+            ]
+        },
+        {
+            "text": "secret pocket money she gave which my",
+            "confidence": 1.0,
+            "box": [
+                [
+                    0.0,
+                    646.0
+                ],
+                [
+                    984.0,
+                    647.0
+                ],
+                [
+                    984.0,
+                    704.0
+                ],
+                [
+                    0.0,
+                    702.0
+                ]
+            ]
+        },
+        {
+            "text": "parents werent aware of, protecting me",
+            "confidence": 0.994,
+            "box": [
+                [
+                    0.0,
+                    715.0
+                ],
+                [
+                    963.0,
+                    715.0
+                ],
+                [
+                    963.0,
+                    774.0
+                ],
+                [
+                    0.0,
+                    774.0
+                ]
+            ]
+        },
+        {
+            "text": "from my Father's anger and applying ubtan.",
+            "confidence": 0.998,
+            "box": [
+                [
+                    0.0,
+                    784.0
+                ],
+                [
+                    1043.0,
+                    787.0
+                ],
+                [
+                    1043.0,
+                    842.0
+                ],
+                [
+                    0.0,
+                    839.0
+                ]
+            ]
+        },
+        {
+            "text": "powder on me after playing the summer",
+            "confidence": 0.997,
+            "box": [
+                [
+                    3.0,
+                    856.0
+                ],
+                [
+                    975.0,
+                    856.0
+                ],
+                [
+                    975.0,
+                    911.0
+                ],
+                [
+                    3.0,
+                    911.0
+                ]
+            ]
+        },
+        {
+            "text": "hoping to de-tan me. I am happy we spent.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    3.0,
+                    925.0
+                ],
+                [
+                    1034.0,
+                    925.0
+                ],
+                [
+                    1034.0,
+                    979.0
+                ],
+                [
+                    3.0,
+                    979.0
+                ]
+            ]
+        },
+        {
+            "text": "quality with her, in her last days.",
+            "confidence": 0.999,
+            "box": [
+                [
+                    3.0,
+                    994.0
+                ],
+                [
+                    780.0,
+                    992.0
+                ],
+                [
+                    781.0,
+                    1048.0
+                ],
+                [
+                    3.0,
+                    1050.0
+                ]
+            ]
+        },
+        {
+            "text": "She will always be remembered fondly as.",
+            "confidence": 0.992,
+            "box": [
+                [
+                    3.0,
+                    1130.0
+                ],
+                [
+                    1001.0,
+                    1131.0
+                ],
+                [
+                    1001.0,
+                    1184.0
+                ],
+                [
+                    3.0,
+                    1182.0
+                ]
+            ]
+        },
+        {
+            "text": "a lot of her traits and genes have passed",
+            "confidence": 0.986,
+            "box": [
+                [
+                    3.0,
+                    1202.0
+                ],
+                [
+                    986.0,
+                    1202.0
+                ],
+                [
+                    986.0,
+                    1252.0
+                ],
+                [
+                    3.0,
+                    1252.0
+                ]
+            ]
+        },
+        {
+            "text": "down in all of us. Will miss her a lot!",
+            "confidence": 0.996,
+            "box": [
+                [
+                    4.0,
+                    1269.0
+                ],
+                [
+                    863.0,
+                    1271.0
+                ],
+                [
+                    863.0,
+                    1319.0
+                ],
+                [
+                    4.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-11-05_11-43-54_UTC.jpg",
+    "combined_text": "Bro used to clear 8GB RAM on a\nphone with 3GB RAM total\nsarcasm",
+    "detailed": [
+        {
+            "text": "Bro used to clear 8GB RAM on a",
+            "confidence": 0.987,
+            "box": [
+                [
+                    52.0,
+                    60.0
+                ],
+                [
+                    1018.0,
+                    62.0
+                ],
+                [
+                    1018.0,
+                    115.0
+                ],
+                [
+                    52.0,
+                    114.0
+                ]
+            ]
+        },
+        {
+            "text": "phone with 3GB RAM total",
+            "confidence": 0.992,
+            "box": [
+                [
+                    73.0,
+                    153.0
+                ],
+                [
+                    893.0,
+                    147.0
+                ],
+                [
+                    893.0,
+                    210.0
+                ],
+                [
+                    73.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    120.0,
+                    581.0
+                ],
+                [
+                    236.0,
+                    581.0
+                ],
+                [
+                    236.0,
+                    608.0
+                ],
+                [
+                    120.0,
+                    608.0
+                ]
+            ]
+        }
+    ]
+}

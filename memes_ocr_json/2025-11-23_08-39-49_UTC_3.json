@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-23_08-39-49_UTC_3.jpg",
+    "combined_text": "sarcasm\nThe tour went viral with moments\nlike private jets, dancing metros,\n700\nand celeb appearances",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    478.0,
+                    1032.0
+                ],
+                [
+                    600.0,
+                    1032.0
+                ],
+                [
+                    600.0,
+                    1059.0
+                ],
+                [
+                    478.0,
+                    1059.0
+                ]
+            ]
+        },
+        {
+            "text": "The tour went viral with moments",
+            "confidence": 0.986,
+            "box": [
+                [
+                    38.0,
+                    1088.0
+                ],
+                [
+                    1042.0,
+                    1088.0
+                ],
+                [
+                    1042.0,
+                    1138.0
+                ],
+                [
+                    38.0,
+                    1138.0
+                ]
+            ]
+        },
+        {
+            "text": "like private jets, dancing metros,",
+            "confidence": 0.998,
+            "box": [
+                [
+                    44.0,
+                    1168.0
+                ],
+                [
+                    1032.0,
+                    1174.0
+                ],
+                [
+                    1032.0,
+                    1233.0
+                ],
+                [
+                    43.0,
+                    1228.0
+                ]
+            ]
+        },
+        {
+            "text": "700",
+            "confidence": 0.896,
+            "box": [
+                [
+                    869.0,
+                    1244.0
+                ],
+                [
+                    947.0,
+                    1239.0
+                ],
+                [
+                    950.0,
+                    1298.0
+                ],
+                [
+                    873.0,
+                    1303.0
+                ]
+            ]
+        },
+        {
+            "text": "and celeb appearances",
+            "confidence": 0.995,
+            "box": [
+                [
+                    128.0,
+                    1259.0
+                ],
+                [
+                    853.0,
+                    1256.0
+                ],
+                [
+                    854.0,
+                    1313.0
+                ],
+                [
+                    128.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

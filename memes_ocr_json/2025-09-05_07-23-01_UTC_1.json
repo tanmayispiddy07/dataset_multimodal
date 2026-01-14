@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-09-05_07-23-01_UTC_1.jpg",
+    "combined_text": "sarcasm\nHardik Pandya's gets a new look,\nIndian all-rounder reveals new\nhairdo ahead of Asia Cup 2025",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    456.0,
+                    992.0
+                ],
+                [
+                    568.0,
+                    992.0
+                ],
+                [
+                    568.0,
+                    1017.0
+                ],
+                [
+                    456.0,
+                    1017.0
+                ]
+            ]
+        },
+        {
+            "text": "Hardik Pandya's gets a new look,",
+            "confidence": 0.983,
+            "box": [
+                [
+                    26.0,
+                    1028.0
+                ],
+                [
+                    990.0,
+                    1033.0
+                ],
+                [
+                    989.0,
+                    1096.0
+                ],
+                [
+                    25.0,
+                    1091.0
+                ]
+            ]
+        },
+        {
+            "text": "Indian all-rounder reveals new",
+            "confidence": 1.0,
+            "box": [
+                [
+                    60.0,
+                    1105.0
+                ],
+                [
+                    960.0,
+                    1112.0
+                ],
+                [
+                    960.0,
+                    1167.0
+                ],
+                [
+                    60.0,
+                    1160.0
+                ]
+            ]
+        },
+        {
+            "text": "hairdo ahead of Asia Cup 2025",
+            "confidence": 0.977,
+            "box": [
+                [
+                    63.0,
+                    1184.0
+                ],
+                [
+                    956.0,
+                    1188.0
+                ],
+                [
+                    956.0,
+                    1248.0
+                ],
+                [
+                    63.0,
+                    1244.0
+                ]
+            ]
+        }
+    ]
+}

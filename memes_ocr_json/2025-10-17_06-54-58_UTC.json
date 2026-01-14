@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-10-17_06-54-58_UTC.jpg",
+    "combined_text": "Traditional attire of Nagaland Tribe\nsarcasm\nNFIELD",
+    "detailed": [
+        {
+            "text": "Traditional attire of Nagaland Tribe",
+            "confidence": 0.991,
+            "box": [
+                [
+                    17.0,
+                    77.0
+                ],
+                [
+                    966.0,
+                    77.0
+                ],
+                [
+                    966.0,
+                    130.0
+                ],
+                [
+                    17.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    132.0,
+                    505.0
+                ],
+                [
+                    249.0,
+                    505.0
+                ],
+                [
+                    249.0,
+                    532.0
+                ],
+                [
+                    132.0,
+                    532.0
+                ]
+            ]
+        },
+        {
+            "text": "NFIELD",
+            "confidence": 0.886,
+            "box": [
+                [
+                    418.0,
+                    884.0
+                ],
+                [
+                    458.0,
+                    884.0
+                ],
+                [
+                    458.0,
+                    898.0
+                ],
+                [
+                    418.0,
+                    898.0
+                ]
+            ]
+        }
+    ]
+}

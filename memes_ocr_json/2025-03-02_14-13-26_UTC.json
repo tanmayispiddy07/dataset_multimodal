@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-03-02_14-13-26_UTC.jpg",
+    "combined_text": "'HAWAI...HAWAI...HAWAI... SONG\"\nTHE FOURTH SINGLE FROM \"NAARI THE\nWOMEN\"MOVIE RELEASING ON MARCH7TH\nADDICTEDTOMEMES\nar\nlar\nAHAA SONG CHUSTHUNTE\nPELLI CHESUKOVALI ANI UNDI",
+    "detailed": [
+        {
+            "text": "'HAWAI...HAWAI...HAWAI... SONG\"",
+            "confidence": 0.947,
+            "box": [
+                [
+                    125.0,
+                    32.0
+                ],
+                [
+                    928.0,
+                    32.0
+                ],
+                [
+                    928.0,
+                    70.0
+                ],
+                [
+                    125.0,
+                    70.0
+                ]
+            ]
+        },
+        {
+            "text": "THE FOURTH SINGLE FROM \"NAARI THE",
+            "confidence": 0.925,
+            "box": [
+                [
+                    90.0,
+                    88.0
+                ],
+                [
+                    969.0,
+                    88.0
+                ],
+                [
+                    969.0,
+                    125.0
+                ],
+                [
+                    90.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "WOMEN\"MOVIE RELEASING ON MARCH7TH",
+            "confidence": 0.97,
+            "box": [
+                [
+                    46.0,
+                    141.0
+                ],
+                [
+                    1013.0,
+                    142.0
+                ],
+                [
+                    1012.0,
+                    184.0
+                ],
+                [
+                    46.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    467.0,
+                    569.0
+                ],
+                [
+                    626.0,
+                    569.0
+                ],
+                [
+                    626.0,
+                    590.0
+                ],
+                [
+                    467.0,
+                    590.0
+                ]
+            ]
+        },
+        {
+            "text": "ar",
+            "confidence": 0.995,
+            "box": [
+                [
+                    609.0,
+                    581.0
+                ],
+                [
+                    761.0,
+                    561.0
+                ],
+                [
+                    769.0,
+                    618.0
+                ],
+                [
+                    617.0,
+                    638.0
+                ]
+            ]
+        },
+        {
+            "text": "lar",
+            "confidence": 0.834,
+            "box": [
+                [
+                    0.0,
+                    612.0
+                ],
+                [
+                    186.0,
+                    612.0
+                ],
+                [
+                    186.0,
+                    712.0
+                ],
+                [
+                    0.0,
+                    712.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAA SONG CHUSTHUNTE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    397.0,
+                    1235.0
+                ],
+                [
+                    970.0,
+                    1235.0
+                ],
+                [
+                    970.0,
+                    1272.0
+                ],
+                [
+                    397.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "PELLI CHESUKOVALI ANI UNDI",
+            "confidence": 0.945,
+            "box": [
+                [
+                    350.0,
+                    1285.0
+                ],
+                [
+                    1000.0,
+                    1286.0
+                ],
+                [
+                    1000.0,
+                    1328.0
+                ],
+                [
+                    350.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

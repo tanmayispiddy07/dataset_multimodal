@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-06-09_18-40-36_UTC.jpg",
+    "combined_text": "How to impress guests\nsarcasm",
+    "detailed": [
+        {
+            "text": "How to impress guests",
+            "confidence": 0.999,
+            "box": [
+                [
+                    99.0,
+                    160.0
+                ],
+                [
+                    440.0,
+                    162.0
+                ],
+                [
+                    440.0,
+                    194.0
+                ],
+                [
+                    99.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.98,
+            "box": [
+                [
+                    256.0,
+                    549.0
+                ],
+                [
+                    303.0,
+                    549.0
+                ],
+                [
+                    303.0,
+                    562.0
+                ],
+                [
+                    256.0,
+                    562.0
+                ]
+            ]
+        }
+    ]
+}

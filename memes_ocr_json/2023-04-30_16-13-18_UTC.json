@@ -1,0 +1,160 @@
+{
+    "image_name": "2023-04-30_16-13-18_UTC.jpg",
+    "combined_text": "MI NEED 213 RUNS TO\nWIN THIS MATCH\nTARGETBAVUNDHI\nMEMES GURU\nBIRTHDAYBOY MANCHISCORE\nANA\nKOTTALI ANTE E MATHRAM UNNDALI",
+    "detailed": [
+        {
+            "text": "MI NEED 213 RUNS TO",
+            "confidence": 0.932,
+            "box": [
+                [
+                    118.0,
+                    288.0
+                ],
+                [
+                    925.0,
+                    288.0
+                ],
+                [
+                    925.0,
+                    343.0
+                ],
+                [
+                    118.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "WIN THIS MATCH",
+            "confidence": 0.979,
+            "box": [
+                [
+                    218.0,
+                    366.0
+                ],
+                [
+                    830.0,
+                    366.0
+                ],
+                [
+                    830.0,
+                    425.0
+                ],
+                [
+                    218.0,
+                    425.0
+                ]
+            ]
+        },
+        {
+            "text": "TARGETBAVUNDHI",
+            "confidence": 0.995,
+            "box": [
+                [
+                    135.0,
+                    824.0
+                ],
+                [
+                    883.0,
+                    821.0
+                ],
+                [
+                    883.0,
+                    880.0
+                ],
+                [
+                    135.0,
+                    883.0
+                ]
+            ]
+        },
+        {
+            "text": "MEMES GURU",
+            "confidence": 0.894,
+            "box": [
+                [
+                    939.0,
+                    1081.0
+                ],
+                [
+                    1018.0,
+                    1081.0
+                ],
+                [
+                    1018.0,
+                    1098.0
+                ],
+                [
+                    939.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "BIRTHDAYBOY MANCHISCORE",
+            "confidence": 0.968,
+            "box": [
+                [
+                    176.0,
+                    1240.0
+                ],
+                [
+                    906.0,
+                    1242.0
+                ],
+                [
+                    906.0,
+                    1280.0
+                ],
+                [
+                    176.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "ANA",
+            "confidence": 0.697,
+            "box": [
+                [
+                    976.0,
+                    1280.0
+                ],
+                [
+                    1008.0,
+                    1280.0
+                ],
+                [
+                    1008.0,
+                    1298.0
+                ],
+                [
+                    976.0,
+                    1298.0
+                ]
+            ]
+        },
+        {
+            "text": "KOTTALI ANTE E MATHRAM UNNDALI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    101.0,
+                    1292.0
+                ],
+                [
+                    980.0,
+                    1291.0
+                ],
+                [
+                    980.0,
+                    1330.0
+                ],
+                [
+                    101.0,
+                    1332.0
+                ]
+            ]
+        }
+    ]
+}

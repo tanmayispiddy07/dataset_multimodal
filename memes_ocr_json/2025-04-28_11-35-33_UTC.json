@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-04-28_11-35-33_UTC.jpg",
+    "combined_text": "CRAZY AND FUN FILLED TRAILER OF SINGLE'\nMOVIE RELEASING ON MAY 9TH\nDDICTEDTOMEMES\n**MEWHILEWATCHING TRAILER\nMANCHUKUDISIPOVADAM",
+    "detailed": [
+        {
+            "text": "CRAZY AND FUN FILLED TRAILER OF SINGLE'",
+            "confidence": 0.937,
+            "box": [
+                [
+                    45.0,
+                    75.0
+                ],
+                [
+                    1052.0,
+                    75.0
+                ],
+                [
+                    1052.0,
+                    117.0
+                ],
+                [
+                    45.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON MAY 9TH",
+            "confidence": 0.934,
+            "box": [
+                [
+                    200.0,
+                    130.0
+                ],
+                [
+                    903.0,
+                    130.0
+                ],
+                [
+                    903.0,
+                    171.0
+                ],
+                [
+                    200.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "DDICTEDTOMEMES",
+            "confidence": 0.974,
+            "box": [
+                [
+                    577.0,
+                    655.0
+                ],
+                [
+                    723.0,
+                    655.0
+                ],
+                [
+                    723.0,
+                    672.0
+                ],
+                [
+                    577.0,
+                    672.0
+                ]
+            ]
+        },
+        {
+            "text": "**MEWHILEWATCHING TRAILER",
+            "confidence": 0.977,
+            "box": [
+                [
+                    72.0,
+                    987.0
+                ],
+                [
+                    698.0,
+                    990.0
+                ],
+                [
+                    697.0,
+                    1033.0
+                ],
+                [
+                    72.0,
+                    1030.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHUKUDISIPOVADAM",
+            "confidence": 0.992,
+            "box": [
+                [
+                    270.0,
+                    1272.0
+                ],
+                [
+                    955.0,
+                    1272.0
+                ],
+                [
+                    955.0,
+                    1318.0
+                ],
+                [
+                    270.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "image_name": "2023-05-26_10-34-20_UTC.jpg",
+    "combined_text": "Hira\nHi ra eppudu lenidhi ippudu\nmsg chesav enti\nOka 500 unte phone pe Chey ra\nTELUGU MEMES GURU\nOkka rupai ledhu ra\nEyethe499 kottara\nREYYYYYI\nEEDU ENDHIRAA REYYYY",
+    "detailed": [
+        {
+            "text": "Hira",
+            "confidence": 0.996,
+            "box": [
+                [
+                    174.0,
+                    99.0
+                ],
+                [
+                    277.0,
+                    103.0
+                ],
+                [
+                    276.0,
+                    151.0
+                ],
+                [
+                    172.0,
+                    148.0
+                ]
+            ]
+        },
+        {
+            "text": "Hi ra eppudu lenidhi ippudu",
+            "confidence": 0.964,
+            "box": [
+                [
+                    321.0,
+                    232.0
+                ],
+                [
+                    832.0,
+                    232.0
+                ],
+                [
+                    832.0,
+                    276.0
+                ],
+                [
+                    321.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "msg chesav enti",
+            "confidence": 0.954,
+            "box": [
+                [
+                    318.0,
+                    286.0
+                ],
+                [
+                    632.0,
+                    283.0
+                ],
+                [
+                    632.0,
+                    328.0
+                ],
+                [
+                    319.0,
+                    331.0
+                ]
+            ]
+        },
+        {
+            "text": "Oka 500 unte phone pe Chey ra",
+            "confidence": 0.938,
+            "box": [
+                [
+                    181.0,
+                    409.0
+                ],
+                [
+                    760.0,
+                    411.0
+                ],
+                [
+                    760.0,
+                    457.0
+                ],
+                [
+                    181.0,
+                    455.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.908,
+            "box": [
+                [
+                    880.0,
+                    477.0
+                ],
+                [
+                    1052.0,
+                    480.0
+                ],
+                [
+                    1051.0,
+                    504.0
+                ],
+                [
+                    880.0,
+                    501.0
+                ]
+            ]
+        },
+        {
+            "text": "Okka rupai ledhu ra",
+            "confidence": 0.971,
+            "box": [
+                [
+                    484.0,
+                    536.0
+                ],
+                [
+                    844.0,
+                    539.0
+                ],
+                [
+                    844.0,
+                    585.0
+                ],
+                [
+                    483.0,
+                    582.0
+                ]
+            ]
+        },
+        {
+            "text": "Eyethe499 kottara",
+            "confidence": 0.948,
+            "box": [
+                [
+                    179.0,
+                    665.0
+                ],
+                [
+                    528.0,
+                    663.0
+                ],
+                [
+                    528.0,
+                    708.0
+                ],
+                [
+                    180.0,
+                    711.0
+                ]
+            ]
+        },
+        {
+            "text": "REYYYYYI",
+            "confidence": 0.952,
+            "box": [
+                [
+                    9.0,
+                    1236.0
+                ],
+                [
+                    282.0,
+                    1236.0
+                ],
+                [
+                    282.0,
+                    1282.0
+                ],
+                [
+                    9.0,
+                    1282.0
+                ]
+            ]
+        },
+        {
+            "text": "EEDU ENDHIRAA REYYYY",
+            "confidence": 0.959,
+            "box": [
+                [
+                    269.0,
+                    1235.0
+                ],
+                [
+                    950.0,
+                    1236.0
+                ],
+                [
+                    950.0,
+                    1282.0
+                ],
+                [
+                    269.0,
+                    1281.0
+                ]
+            ]
+        }
+    ]
+}

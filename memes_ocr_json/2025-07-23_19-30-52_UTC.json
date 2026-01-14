@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-07-23_19-30-52_UTC.jpg",
+    "combined_text": "Western movies be like",
+    "detailed": [
+        {
+            "text": "Western movies be like",
+            "confidence": 0.966,
+            "box": [
+                [
+                    138.0,
+                    160.0
+                ],
+                [
+                    402.0,
+                    160.0
+                ],
+                [
+                    402.0,
+                    182.0
+                ],
+                [
+                    138.0,
+                    182.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-06_19-05-27_UTC_1.jpg",
+    "combined_text": "sarcasm\nSydney Sweeney And\nScooter Braun Confirm\nRomance With Central\nPark Kiss",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    482.0,
+                    834.0
+                ],
+                [
+                    596.0,
+                    834.0
+                ],
+                [
+                    596.0,
+                    857.0
+                ],
+                [
+                    482.0,
+                    857.0
+                ]
+            ]
+        },
+        {
+            "text": "Sydney Sweeney And",
+            "confidence": 0.971,
+            "box": [
+                [
+                    65.0,
+                    875.0
+                ],
+                [
+                    1021.0,
+                    875.0
+                ],
+                [
+                    1021.0,
+                    967.0
+                ],
+                [
+                    65.0,
+                    967.0
+                ]
+            ]
+        },
+        {
+            "text": "Scooter Braun Confirm",
+            "confidence": 0.99,
+            "box": [
+                [
+                    34.0,
+                    988.0
+                ],
+                [
+                    1037.0,
+                    997.0
+                ],
+                [
+                    1036.0,
+                    1081.0
+                ],
+                [
+                    34.0,
+                    1072.0
+                ]
+            ]
+        },
+        {
+            "text": "Romance With Central",
+            "confidence": 0.987,
+            "box": [
+                [
+                    35.0,
+                    1111.0
+                ],
+                [
+                    1040.0,
+                    1106.0
+                ],
+                [
+                    1041.0,
+                    1194.0
+                ],
+                [
+                    35.0,
+                    1199.0
+                ]
+            ]
+        },
+        {
+            "text": "Park Kiss",
+            "confidence": 1.0,
+            "box": [
+                [
+                    206.0,
+                    1224.0
+                ],
+                [
+                    612.0,
+                    1232.0
+                ],
+                [
+                    611.0,
+                    1313.0
+                ],
+                [
+                    205.0,
+                    1305.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-28_18-37-30_UTC.jpg",
+    "combined_text": "NEVER MESS WITH INDIANS\nTHAT'S THE STATEMENT\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "NEVER MESS WITH INDIANS",
+            "confidence": 0.949,
+            "box": [
+                [
+                    103.0,
+                    61.0
+                ],
+                [
+                    994.0,
+                    61.0
+                ],
+                [
+                    994.0,
+                    116.0
+                ],
+                [
+                    103.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT'S THE STATEMENT",
+            "confidence": 0.784,
+            "box": [
+                [
+                    163.0,
+                    141.0
+                ],
+                [
+                    922.0,
+                    141.0
+                ],
+                [
+                    922.0,
+                    199.0
+                ],
+                [
+                    163.0,
+                    199.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    901.0,
+                    967.0
+                ],
+                [
+                    1076.0,
+                    967.0
+                ],
+                [
+                    1076.0,
+                    992.0
+                ],
+                [
+                    901.0,
+                    992.0
+                ]
+            ]
+        }
+    ]
+}

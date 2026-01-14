@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-12-09_13-29-12_UTC.jpg",
+    "combined_text": "ANOTHER BEAUTIFUL SONG\nFROM CHAMPION MOVIE\n\"SALLANGUNDAALE VIDEO SONG\nMOVIE RELEASING ON DEC 25TH\nMUSIC\nMICKEYJ MEYER\nMLN\nADDICTEDTOMEMES\n**ME WATCHING MARRIAGE\nCELEBRATIONS AND EMOTIONS IN SONG",
+    "detailed": [
+        {
+            "text": "ANOTHER BEAUTIFUL SONG",
+            "confidence": 0.952,
+            "box": [
+                [
+                    212.0,
+                    50.0
+                ],
+                [
+                    922.0,
+                    50.0
+                ],
+                [
+                    922.0,
+                    88.0
+                ],
+                [
+                    212.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM CHAMPION MOVIE",
+            "confidence": 0.955,
+            "box": [
+                [
+                    240.0,
+                    113.0
+                ],
+                [
+                    894.0,
+                    113.0
+                ],
+                [
+                    894.0,
+                    155.0
+                ],
+                [
+                    240.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "\"SALLANGUNDAALE VIDEO SONG",
+            "confidence": 0.957,
+            "box": [
+                [
+                    111.0,
+                    174.0
+                ],
+                [
+                    996.0,
+                    174.0
+                ],
+                [
+                    996.0,
+                    224.0
+                ],
+                [
+                    111.0,
+                    224.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON DEC 25TH",
+            "confidence": 0.937,
+            "box": [
+                [
+                    232.0,
+                    633.0
+                ],
+                [
+                    924.0,
+                    634.0
+                ],
+                [
+                    924.0,
+                    672.0
+                ],
+                [
+                    232.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSIC",
+            "confidence": 0.984,
+            "box": [
+                [
+                    158.0,
+                    925.0
+                ],
+                [
+                    207.0,
+                    925.0
+                ],
+                [
+                    207.0,
+                    944.0
+                ],
+                [
+                    158.0,
+                    944.0
+                ]
+            ]
+        },
+        {
+            "text": "MICKEYJ MEYER",
+            "confidence": 0.962,
+            "box": [
+                [
+                    3.0,
+                    939.0
+                ],
+                [
+                    370.0,
+                    941.0
+                ],
+                [
+                    370.0,
+                    978.0
+                ],
+                [
+                    3.0,
+                    977.0
+                ]
+            ]
+        },
+        {
+            "text": "MLN",
+            "confidence": 0.503,
+            "box": [
+                [
+                    16.0,
+                    1090.0
+                ],
+                [
+                    64.0,
+                    1087.0
+                ],
+                [
+                    65.0,
+                    1099.0
+                ],
+                [
+                    17.0,
+                    1103.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    8.0,
+                    1104.0
+                ],
+                [
+                    141.0,
+                    1104.0
+                ],
+                [
+                    141.0,
+                    1121.0
+                ],
+                [
+                    8.0,
+                    1121.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WATCHING MARRIAGE",
+            "confidence": 0.96,
+            "box": [
+                [
+                    371.0,
+                    1236.0
+                ],
+                [
+                    848.0,
+                    1239.0
+                ],
+                [
+                    848.0,
+                    1278.0
+                ],
+                [
+                    371.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "CELEBRATIONS AND EMOTIONS IN SONG",
+            "confidence": 0.956,
+            "box": [
+                [
+                    264.0,
+                    1288.0
+                ],
+                [
+                    956.0,
+                    1288.0
+                ],
+                [
+                    956.0,
+                    1317.0
+                ],
+                [
+                    264.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

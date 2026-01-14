@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-04-11_07-02-25_UTC.jpg",
+    "combined_text": "PREDICTION DHI MANCHI\nCHANNEL CHEPANDI BRO\nLUCKY PREDICTION ANI UNNARU KADHA\nVALLA GROUP LO JOIN AVVANDI",
+    "detailed": [
+        {
+            "text": "PREDICTION DHI MANCHI",
+            "confidence": 0.963,
+            "box": [
+                [
+                    53.0,
+                    415.0
+                ],
+                [
+                    782.0,
+                    417.0
+                ],
+                [
+                    782.0,
+                    464.0
+                ],
+                [
+                    53.0,
+                    462.0
+                ]
+            ]
+        },
+        {
+            "text": "CHANNEL CHEPANDI BRO",
+            "confidence": 0.95,
+            "box": [
+                [
+                    40.0,
+                    479.0
+                ],
+                [
+                    796.0,
+                    479.0
+                ],
+                [
+                    796.0,
+                    526.0
+                ],
+                [
+                    40.0,
+                    526.0
+                ]
+            ]
+        },
+        {
+            "text": "LUCKY PREDICTION ANI UNNARU KADHA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    50.0,
+                    956.0
+                ],
+                [
+                    998.0,
+                    963.0
+                ],
+                [
+                    998.0,
+                    1000.0
+                ],
+                [
+                    49.0,
+                    993.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLA GROUP LO JOIN AVVANDI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    145.0,
+                    1005.0
+                ],
+                [
+                    910.0,
+                    1009.0
+                ],
+                [
+                    910.0,
+                    1047.0
+                ],
+                [
+                    145.0,
+                    1043.0
+                ]
+            ]
+        }
+    ]
+}

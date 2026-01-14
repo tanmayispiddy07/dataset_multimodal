@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-04-26_12-12-55_UTC.jpg",
+    "combined_text": "AFTER VIRUPAKSHA-KARTHIK DANDU BUILDING\nANOTHER NEW WORLD.NAGA CHAITANYA INVOLVED\nIN THIS PROJECT RIGHT FROM THE BEGINNING\nTHE\nXCAVATIOR\nBEGINS\nADDICTEDTO.MEME\nCHUSTHUNTE YEDO GATTIGANE PLAN\nCHESINATTU UNNARU NC 24 THONE",
+    "detailed": [
+        {
+            "text": "AFTER VIRUPAKSHA-KARTHIK DANDU BUILDING",
+            "confidence": 0.958,
+            "box": [
+                [
+                    58.0,
+                    52.0
+                ],
+                [
+                    1008.0,
+                    52.0
+                ],
+                [
+                    1008.0,
+                    85.0
+                ],
+                [
+                    58.0,
+                    85.0
+                ]
+            ]
+        },
+        {
+            "text": "ANOTHER NEW WORLD.NAGA CHAITANYA INVOLVED",
+            "confidence": 0.96,
+            "box": [
+                [
+                    24.0,
+                    100.0
+                ],
+                [
+                    1046.0,
+                    100.0
+                ],
+                [
+                    1046.0,
+                    134.0
+                ],
+                [
+                    24.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THIS PROJECT RIGHT FROM THE BEGINNING",
+            "confidence": 0.949,
+            "box": [
+                [
+                    79.0,
+                    146.0
+                ],
+                [
+                    987.0,
+                    146.0
+                ],
+                [
+                    987.0,
+                    184.0
+                ],
+                [
+                    79.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "THE",
+            "confidence": 0.81,
+            "box": [
+                [
+                    733.0,
+                    618.0
+                ],
+                [
+                    853.0,
+                    612.0
+                ],
+                [
+                    856.0,
+                    672.0
+                ],
+                [
+                    736.0,
+                    678.0
+                ]
+            ]
+        },
+        {
+            "text": "XCAVATIOR",
+            "confidence": 0.922,
+            "box": [
+                [
+                    599.0,
+                    708.0
+                ],
+                [
+                    1028.0,
+                    689.0
+                ],
+                [
+                    1032.0,
+                    765.0
+                ],
+                [
+                    603.0,
+                    784.0
+                ]
+            ]
+        },
+        {
+            "text": "BEGINS",
+            "confidence": 0.989,
+            "box": [
+                [
+                    620.0,
+                    792.0
+                ],
+                [
+                    948.0,
+                    792.0
+                ],
+                [
+                    948.0,
+                    884.0
+                ],
+                [
+                    620.0,
+                    884.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTO.MEME",
+            "confidence": 0.951,
+            "box": [
+                [
+                    35.0,
+                    1051.0
+                ],
+                [
+                    167.0,
+                    1051.0
+                ],
+                [
+                    167.0,
+                    1063.0
+                ],
+                [
+                    35.0,
+                    1063.0
+                ]
+            ]
+        },
+        {
+            "text": "CHUSTHUNTE YEDO GATTIGANE PLAN",
+            "confidence": 0.954,
+            "box": [
+                [
+                    70.0,
+                    1226.0
+                ],
+                [
+                    908.0,
+                    1226.0
+                ],
+                [
+                    908.0,
+                    1264.0
+                ],
+                [
+                    70.0,
+                    1264.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESINATTU UNNARU NC 24 THONE",
+            "confidence": 0.944,
+            "box": [
+                [
+                    84.0,
+                    1282.0
+                ],
+                [
+                    885.0,
+                    1282.0
+                ],
+                [
+                    885.0,
+                    1320.0
+                ],
+                [
+                    84.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

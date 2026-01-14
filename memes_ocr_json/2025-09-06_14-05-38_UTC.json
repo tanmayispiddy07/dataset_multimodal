@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-09-06_14-05-38_UTC.jpg",
+    "combined_text": "IPHONE 17DESIGN LEAK",
+    "detailed": [
+        {
+            "text": "IPHONE 17DESIGN LEAK",
+            "confidence": 0.952,
+            "box": [
+                [
+                    80.0,
+                    122.0
+                ],
+                [
+                    472.0,
+                    122.0
+                ],
+                [
+                    472.0,
+                    150.0
+                ],
+                [
+                    80.0,
+                    150.0
+                ]
+            ]
+        }
+    ]
+}

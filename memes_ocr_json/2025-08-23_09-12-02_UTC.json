@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-23_09-12-02_UTC.jpg",
+    "combined_text": "LB NAGAR LO BEST PRIVATE THEATRE STARTS FROM 9OO/-\nWITH FOODS ANDDRINKS SERVICES\nCONTACT:9329709329\nNA\nEE MARTRAM HINT ESTHE CHALUCELEBRATION AND\nPARTYKIEPUDEBOOKCHESKUNDAMU",
+    "detailed": [
+        {
+            "text": "LB NAGAR LO BEST PRIVATE THEATRE STARTS FROM 9OO/-",
+            "confidence": 0.909,
+            "box": [
+                [
+                    65.0,
+                    30.0
+                ],
+                [
+                    1004.0,
+                    28.0
+                ],
+                [
+                    1004.0,
+                    63.0
+                ],
+                [
+                    65.0,
+                    65.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH FOODS ANDDRINKS SERVICES",
+            "confidence": 0.951,
+            "box": [
+                [
+                    243.0,
+                    73.0
+                ],
+                [
+                    831.0,
+                    73.0
+                ],
+                [
+                    831.0,
+                    103.0
+                ],
+                [
+                    243.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "CONTACT:9329709329",
+            "confidence": 0.972,
+            "box": [
+                [
+                    346.0,
+                    124.0
+                ],
+                [
+                    734.0,
+                    124.0
+                ],
+                [
+                    734.0,
+                    153.0
+                ],
+                [
+                    346.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "NA",
+            "confidence": 0.645,
+            "box": [
+                [
+                    107.0,
+                    1036.0
+                ],
+                [
+                    159.0,
+                    1036.0
+                ],
+                [
+                    159.0,
+                    1055.0
+                ],
+                [
+                    107.0,
+                    1055.0
+                ]
+            ]
+        },
+        {
+            "text": "EE MARTRAM HINT ESTHE CHALUCELEBRATION AND",
+            "confidence": 0.943,
+            "box": [
+                [
+                    115.0,
+                    1207.0
+                ],
+                [
+                    963.0,
+                    1207.0
+                ],
+                [
+                    963.0,
+                    1240.0
+                ],
+                [
+                    115.0,
+                    1240.0
+                ]
+            ]
+        },
+        {
+            "text": "PARTYKIEPUDEBOOKCHESKUNDAMU",
+            "confidence": 0.994,
+            "box": [
+                [
+                    221.0,
+                    1249.0
+                ],
+                [
+                    859.0,
+                    1249.0
+                ],
+                [
+                    859.0,
+                    1278.0
+                ],
+                [
+                    221.0,
+                    1278.0
+                ]
+            ]
+        }
+    ]
+}

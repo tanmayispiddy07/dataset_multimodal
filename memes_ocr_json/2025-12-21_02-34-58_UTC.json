@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-12-21_02-34-58_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nWishing AP Ex Cm #YSJagan A Very Happy\nBirthday. The Man Who Always Thoughtful\nfor Doing something for Poor and Middle\nClass People and He Succeeded with Nadu\nNedu Program.\n-Addicted_to_memes",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.97,
+            "box": [
+                [
+                    106.0,
+                    65.0
+                ],
+                [
+                    293.0,
+                    65.0
+                ],
+                [
+                    293.0,
+                    89.0
+                ],
+                [
+                    106.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.998,
+            "box": [
+                [
+                    106.0,
+                    90.0
+                ],
+                [
+                    285.0,
+                    92.0
+                ],
+                [
+                    285.0,
+                    111.0
+                ],
+                [
+                    106.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "Wishing AP Ex Cm #YSJagan A Very Happy",
+            "confidence": 0.975,
+            "box": [
+                [
+                    40.0,
+                    128.0
+                ],
+                [
+                    491.0,
+                    131.0
+                ],
+                [
+                    491.0,
+                    159.0
+                ],
+                [
+                    40.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "Birthday. The Man Who Always Thoughtful",
+            "confidence": 0.974,
+            "box": [
+                [
+                    41.0,
+                    160.0
+                ],
+                [
+                    490.0,
+                    160.0
+                ],
+                [
+                    490.0,
+                    187.0
+                ],
+                [
+                    41.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "for Doing something for Poor and Middle",
+            "confidence": 0.96,
+            "box": [
+                [
+                    41.0,
+                    191.0
+                ],
+                [
+                    469.0,
+                    191.0
+                ],
+                [
+                    469.0,
+                    215.0
+                ],
+                [
+                    41.0,
+                    215.0
+                ]
+            ]
+        },
+        {
+            "text": "Class People and He Succeeded with Nadu",
+            "confidence": 0.968,
+            "box": [
+                [
+                    42.0,
+                    221.0
+                ],
+                [
+                    498.0,
+                    221.0
+                ],
+                [
+                    498.0,
+                    245.0
+                ],
+                [
+                    42.0,
+                    245.0
+                ]
+            ]
+        },
+        {
+            "text": "Nedu Program.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    39.0,
+                    249.0
+                ],
+                [
+                    202.0,
+                    251.0
+                ],
+                [
+                    201.0,
+                    278.0
+                ],
+                [
+                    39.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "-Addicted_to_memes",
+            "confidence": 0.983,
+            "box": [
+                [
+                    163.0,
+                    784.0
+                ],
+                [
+                    361.0,
+                    785.0
+                ],
+                [
+                    361.0,
+                    807.0
+                ],
+                [
+                    163.0,
+                    806.0
+                ]
+            ]
+        }
+    ]
+}

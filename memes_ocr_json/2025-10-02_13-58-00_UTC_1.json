@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-02_13-58-00_UTC_1.jpg",
+    "combined_text": "Satish Sanpal sets a new standard.\nELLE Residences at Dubai Islands\nadds a stylish landmark to the UAE\nskyline, continuing his legacy of.\nredefining luxury living #",
+    "detailed": [
+        {
+            "text": "Satish Sanpal sets a new standard.",
+            "confidence": 0.969,
+            "box": [
+                [
+                    73.0,
+                    1003.0
+                ],
+                [
+                    991.0,
+                    1003.0
+                ],
+                [
+                    991.0,
+                    1050.0
+                ],
+                [
+                    73.0,
+                    1050.0
+                ]
+            ]
+        },
+        {
+            "text": "ELLE Residences at Dubai Islands",
+            "confidence": 0.986,
+            "box": [
+                [
+                    106.0,
+                    1062.0
+                ],
+                [
+                    962.0,
+                    1063.0
+                ],
+                [
+                    962.0,
+                    1108.0
+                ],
+                [
+                    105.0,
+                    1107.0
+                ]
+            ]
+        },
+        {
+            "text": "adds a stylish landmark to the UAE",
+            "confidence": 0.984,
+            "box": [
+                [
+                    82.0,
+                    1125.0
+                ],
+                [
+                    991.0,
+                    1124.0
+                ],
+                [
+                    991.0,
+                    1173.0
+                ],
+                [
+                    82.0,
+                    1174.0
+                ]
+            ]
+        },
+        {
+            "text": "skyline, continuing his legacy of.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    114.0,
+                    1186.0
+                ],
+                [
+                    959.0,
+                    1184.0
+                ],
+                [
+                    959.0,
+                    1242.0
+                ],
+                [
+                    114.0,
+                    1243.0
+                ]
+            ]
+        },
+        {
+            "text": "redefining luxury living #",
+            "confidence": 0.956,
+            "box": [
+                [
+                    190.0,
+                    1254.0
+                ],
+                [
+                    879.0,
+                    1259.0
+                ],
+                [
+                    879.0,
+                    1321.0
+                ],
+                [
+                    190.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

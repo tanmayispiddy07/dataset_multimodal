@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-04-12_07-43-33_UTC.jpg",
+    "combined_text": "WEEKEND MOVIE SUGGESTION\nPERUSU (TELUGU & TAMIL)\nAVAILABLE IN NETFLIX\nFAMILY WATCH ?! STRICTLY NO NO\n**ME WHILE WATCHING THE\nMOVIE PLOT\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "WEEKEND MOVIE SUGGESTION",
+            "confidence": 0.958,
+            "box": [
+                [
+                    187.0,
+                    21.0
+                ],
+                [
+                    975.0,
+                    21.0
+                ],
+                [
+                    975.0,
+                    63.0
+                ],
+                [
+                    187.0,
+                    63.0
+                ]
+            ]
+        },
+        {
+            "text": "PERUSU (TELUGU & TAMIL)",
+            "confidence": 0.983,
+            "box": [
+                [
+                    248.0,
+                    84.0
+                ],
+                [
+                    924.0,
+                    84.0
+                ],
+                [
+                    924.0,
+                    130.0
+                ],
+                [
+                    248.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "AVAILABLE IN NETFLIX",
+            "confidence": 0.989,
+            "box": [
+                [
+                    297.0,
+                    149.0
+                ],
+                [
+                    865.0,
+                    149.0
+                ],
+                [
+                    865.0,
+                    191.0
+                ],
+                [
+                    297.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH ?! STRICTLY NO NO",
+            "confidence": 0.938,
+            "box": [
+                [
+                    148.0,
+                    212.0
+                ],
+                [
+                    1024.0,
+                    212.0
+                ],
+                [
+                    1024.0,
+                    258.0
+                ],
+                [
+                    148.0,
+                    258.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHILE WATCHING THE",
+            "confidence": 0.969,
+            "box": [
+                [
+                    307.0,
+                    867.0
+                ],
+                [
+                    828.0,
+                    870.0
+                ],
+                [
+                    828.0,
+                    912.0
+                ],
+                [
+                    306.0,
+                    909.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE PLOT",
+            "confidence": 0.956,
+            "box": [
+                [
+                    440.0,
+                    923.0
+                ],
+                [
+                    679.0,
+                    923.0
+                ],
+                [
+                    679.0,
+                    959.0
+                ],
+                [
+                    440.0,
+                    959.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    475.0,
+                    1298.0
+                ],
+                [
+                    624.0,
+                    1298.0
+                ],
+                [
+                    624.0,
+                    1318.0
+                ],
+                [
+                    475.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

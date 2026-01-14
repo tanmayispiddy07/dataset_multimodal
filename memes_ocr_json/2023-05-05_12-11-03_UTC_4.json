@@ -1,0 +1,160 @@
+{
+    "image_name": "2023-05-05_12-11-03_UTC_4.jpg",
+    "combined_text": "BEFORE\nAFTER\nHARISH METTU\nTotally non sticky and Light formula. You won't\neven feel that you've applied anything on your\nface. Using from couple of weeks and that patchy\npart is growing well",
+    "detailed": [
+        {
+            "text": "BEFORE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    245.0,
+                    91.0
+                ],
+                [
+                    382.0,
+                    94.0
+                ],
+                [
+                    381.0,
+                    133.0
+                ],
+                [
+                    244.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER",
+            "confidence": 0.998,
+            "box": [
+                [
+                    716.0,
+                    92.0
+                ],
+                [
+                    832.0,
+                    95.0
+                ],
+                [
+                    831.0,
+                    134.0
+                ],
+                [
+                    715.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "HARISH METTU",
+            "confidence": 0.972,
+            "box": [
+                [
+                    420.0,
+                    778.0
+                ],
+                [
+                    691.0,
+                    778.0
+                ],
+                [
+                    691.0,
+                    809.0
+                ],
+                [
+                    420.0,
+                    809.0
+                ]
+            ]
+        },
+        {
+            "text": "Totally non sticky and Light formula. You won't",
+            "confidence": 0.973,
+            "box": [
+                [
+                    160.0,
+                    835.0
+                ],
+                [
+                    946.0,
+                    836.0
+                ],
+                [
+                    946.0,
+                    873.0
+                ],
+                [
+                    160.0,
+                    872.0
+                ]
+            ]
+        },
+        {
+            "text": "even feel that you've applied anything on your",
+            "confidence": 0.975,
+            "box": [
+                [
+                    163.0,
+                    882.0
+                ],
+                [
+                    940.0,
+                    882.0
+                ],
+                [
+                    940.0,
+                    919.0
+                ],
+                [
+                    163.0,
+                    919.0
+                ]
+            ]
+        },
+        {
+            "text": "face. Using from couple of weeks and that patchy",
+            "confidence": 0.989,
+            "box": [
+                [
+                    145.0,
+                    925.0
+                ],
+                [
+                    955.0,
+                    927.0
+                ],
+                [
+                    955.0,
+                    964.0
+                ],
+                [
+                    145.0,
+                    962.0
+                ]
+            ]
+        },
+        {
+            "text": "part is growing well",
+            "confidence": 0.992,
+            "box": [
+                [
+                    386.0,
+                    973.0
+                ],
+                [
+                    724.0,
+                    968.0
+                ],
+                [
+                    725.0,
+                    1007.0
+                ],
+                [
+                    386.0,
+                    1012.0
+                ]
+            ]
+        }
+    ]
+}

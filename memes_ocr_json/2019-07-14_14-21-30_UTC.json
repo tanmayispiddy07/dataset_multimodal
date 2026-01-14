@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-07-14_14-21-30_UTC.jpg",
+    "combined_text": "Who would you rather have\nas your Doctor",
+    "detailed": [
+        {
+            "text": "Who would you rather have",
+            "confidence": 0.987,
+            "box": [
+                [
+                    16.0,
+                    4.0
+                ],
+                [
+                    1073.0,
+                    9.0
+                ],
+                [
+                    1072.0,
+                    97.0
+                ],
+                [
+                    16.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "as your Doctor",
+            "confidence": 0.999,
+            "box": [
+                [
+                    254.0,
+                    126.0
+                ],
+                [
+                    831.0,
+                    115.0
+                ],
+                [
+                    832.0,
+                    193.0
+                ],
+                [
+                    255.0,
+                    204.0
+                ]
+            ]
+        }
+    ]
+}

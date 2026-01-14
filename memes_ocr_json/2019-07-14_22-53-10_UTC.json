@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-07-14_22-53-10_UTC.jpg",
+    "combined_text": "when you forgot how many rice cooker whistles\nblew after your mom specifically told you to\nkeep count\n(bhale bhale magadivoy)",
+    "detailed": [
+        {
+            "text": "when you forgot how many rice cooker whistles",
+            "confidence": 0.974,
+            "box": [
+                [
+                    19.0,
+                    17.0
+                ],
+                [
+                    1060.0,
+                    17.0
+                ],
+                [
+                    1060.0,
+                    69.0
+                ],
+                [
+                    19.0,
+                    69.0
+                ]
+            ]
+        },
+        {
+            "text": "blew after your mom specifically told you to",
+            "confidence": 0.967,
+            "box": [
+                [
+                    20.0,
+                    67.0
+                ],
+                [
+                    965.0,
+                    69.0
+                ],
+                [
+                    965.0,
+                    119.0
+                ],
+                [
+                    20.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "keep count",
+            "confidence": 0.984,
+            "box": [
+                [
+                    21.0,
+                    119.0
+                ],
+                [
+                    273.0,
+                    119.0
+                ],
+                [
+                    273.0,
+                    168.0
+                ],
+                [
+                    21.0,
+                    168.0
+                ]
+            ]
+        },
+        {
+            "text": "(bhale bhale magadivoy)",
+            "confidence": 0.966,
+            "box": [
+                [
+                    203.0,
+                    458.0
+                ],
+                [
+                    473.0,
+                    358.0
+                ],
+                [
+                    484.0,
+                    390.0
+                ],
+                [
+                    214.0,
+                    490.0
+                ]
+            ]
+        }
+    ]
+}

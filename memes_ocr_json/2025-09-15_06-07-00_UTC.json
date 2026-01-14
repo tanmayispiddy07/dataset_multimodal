@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-15_06-07-00_UTC.jpg",
+    "combined_text": "Men can be up till 2 a.m.,.\nwake at 6, be broke, in debt\nalone, and still believe one day\nthings will get better.\nsarcasm",
+    "detailed": [
+        {
+            "text": "Men can be up till 2 a.m.,.",
+            "confidence": 0.969,
+            "box": [
+                [
+                    137.0,
+                    586.0
+                ],
+                [
+                    941.0,
+                    597.0
+                ],
+                [
+                    940.0,
+                    667.0
+                ],
+                [
+                    136.0,
+                    657.0
+                ]
+            ]
+        },
+        {
+            "text": "wake at 6, be broke, in debt",
+            "confidence": 0.993,
+            "box": [
+                [
+                    92.0,
+                    686.0
+                ],
+                [
+                    980.0,
+                    690.0
+                ],
+                [
+                    980.0,
+                    750.0
+                ],
+                [
+                    92.0,
+                    747.0
+                ]
+            ]
+        },
+        {
+            "text": "alone, and still believe one day",
+            "confidence": 0.995,
+            "box": [
+                [
+                    53.0,
+                    773.0
+                ],
+                [
+                    1026.0,
+                    779.0
+                ],
+                [
+                    1026.0,
+                    846.0
+                ],
+                [
+                    53.0,
+                    840.0
+                ]
+            ]
+        },
+        {
+            "text": "things will get better.",
+            "confidence": 0.991,
+            "box": [
+                [
+                    214.0,
+                    868.0
+                ],
+                [
+                    868.0,
+                    868.0
+                ],
+                [
+                    868.0,
+                    936.0
+                ],
+                [
+                    214.0,
+                    936.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    485.0,
+                    1029.0
+                ],
+                [
+                    596.0,
+                    1029.0
+                ],
+                [
+                    596.0,
+                    1054.0
+                ],
+                [
+                    485.0,
+                    1054.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-10-20_17-54-01_UTC.jpg",
+    "combined_text": "When your son's name is Govinda & he\nis lost in Thirupathi crowd..",
+    "detailed": [
+        {
+            "text": "When your son's name is Govinda & he",
+            "confidence": 0.959,
+            "box": [
+                [
+                    7.0,
+                    8.0
+                ],
+                [
+                    750.0,
+                    8.0
+                ],
+                [
+                    750.0,
+                    53.0
+                ],
+                [
+                    7.0,
+                    53.0
+                ]
+            ]
+        },
+        {
+            "text": "is lost in Thirupathi crowd..",
+            "confidence": 0.976,
+            "box": [
+                [
+                    4.0,
+                    64.0
+                ],
+                [
+                    531.0,
+                    62.0
+                ],
+                [
+                    531.0,
+                    108.0
+                ],
+                [
+                    4.0,
+                    110.0
+                ]
+            ]
+        }
+    ]
+}

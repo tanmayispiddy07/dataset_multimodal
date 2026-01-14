@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-08_16-39-23_UTC.jpg",
+    "combined_text": "My contribution in every\nassignment\nsarcas",
+    "detailed": [
+        {
+            "text": "My contribution in every",
+            "confidence": 0.98,
+            "box": [
+                [
+                    125.0,
+                    141.0
+                ],
+                [
+                    408.0,
+                    145.0
+                ],
+                [
+                    408.0,
+                    171.0
+                ],
+                [
+                    125.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "assignment",
+            "confidence": 0.996,
+            "box": [
+                [
+                    189.0,
+                    177.0
+                ],
+                [
+                    327.0,
+                    177.0
+                ],
+                [
+                    327.0,
+                    199.0
+                ],
+                [
+                    189.0,
+                    199.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcas",
+            "confidence": 0.945,
+            "box": [
+                [
+                    229.0,
+                    672.0
+                ],
+                [
+                    259.0,
+                    672.0
+                ],
+                [
+                    259.0,
+                    682.0
+                ],
+                [
+                    229.0,
+                    682.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2026-01-06_13-40-12_UTC.jpg",
+    "combined_text": "IF YOU ARE LOOKING FOR A SOFTWARE\nJOB/RECENT GRADUATED\nTHIS IS FOR YOU\nHANDS ON CODING EVERY WEEK ASSESSMENTS INKA\nMOCK INTERVIEWS INKA PLACEMENT SUPPORT\nVELLI JOIN AVUDHAM MAMA",
+    "detailed": [
+        {
+            "text": "IF YOU ARE LOOKING FOR A SOFTWARE",
+            "confidence": 0.936,
+            "box": [
+                [
+                    16.0,
+                    201.0
+                ],
+                [
+                    619.0,
+                    201.0
+                ],
+                [
+                    619.0,
+                    230.0
+                ],
+                [
+                    16.0,
+                    230.0
+                ]
+            ]
+        },
+        {
+            "text": "JOB/RECENT GRADUATED",
+            "confidence": 0.973,
+            "box": [
+                [
+                    111.0,
+                    238.0
+                ],
+                [
+                    519.0,
+                    238.0
+                ],
+                [
+                    519.0,
+                    266.0
+                ],
+                [
+                    111.0,
+                    266.0
+                ]
+            ]
+        },
+        {
+            "text": "THIS IS FOR YOU",
+            "confidence": 0.927,
+            "box": [
+                [
+                    194.0,
+                    275.0
+                ],
+                [
+                    442.0,
+                    275.0
+                ],
+                [
+                    442.0,
+                    303.0
+                ],
+                [
+                    194.0,
+                    303.0
+                ]
+            ]
+        },
+        {
+            "text": "HANDS ON CODING EVERY WEEK ASSESSMENTS INKA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    53.0,
+                    885.0
+                ],
+                [
+                    593.0,
+                    885.0
+                ],
+                [
+                    593.0,
+                    906.0
+                ],
+                [
+                    53.0,
+                    906.0
+                ]
+            ]
+        },
+        {
+            "text": "MOCK INTERVIEWS INKA PLACEMENT SUPPORT",
+            "confidence": 0.964,
+            "box": [
+                [
+                    82.0,
+                    912.0
+                ],
+                [
+                    558.0,
+                    912.0
+                ],
+                [
+                    558.0,
+                    930.0
+                ],
+                [
+                    82.0,
+                    930.0
+                ]
+            ]
+        },
+        {
+            "text": "VELLI JOIN AVUDHAM MAMA",
+            "confidence": 0.963,
+            "box": [
+                [
+                    175.0,
+                    935.0
+                ],
+                [
+                    471.0,
+                    936.0
+                ],
+                [
+                    471.0,
+                    957.0
+                ],
+                [
+                    175.0,
+                    956.0
+                ]
+            ]
+        }
+    ]
+}

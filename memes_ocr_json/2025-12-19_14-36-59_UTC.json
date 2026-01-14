@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-12-19_14-36-59_UTC.jpg",
+    "combined_text": "FUKUYAMA OFFICIAL MUSIC\nVIDEO BY SRAVANA BHARGAVI\nADDICTEDTOMEMES\nSRAVANA BHARGAVI ANTE\nNATIONAL ANUKUNTIAVA\nINTERNATIONAL",
+    "detailed": [
+        {
+            "text": "FUKUYAMA OFFICIAL MUSIC",
+            "confidence": 0.964,
+            "box": [
+                [
+                    156.0,
+                    29.0
+                ],
+                [
+                    968.0,
+                    29.0
+                ],
+                [
+                    968.0,
+                    79.0
+                ],
+                [
+                    156.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "VIDEO BY SRAVANA BHARGAVI",
+            "confidence": 0.947,
+            "box": [
+                [
+                    118.0,
+                    99.0
+                ],
+                [
+                    1008.0,
+                    99.0
+                ],
+                [
+                    1008.0,
+                    149.0
+                ],
+                [
+                    118.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    27.0,
+                    1089.0
+                ],
+                [
+                    173.0,
+                    1089.0
+                ],
+                [
+                    173.0,
+                    1105.0
+                ],
+                [
+                    27.0,
+                    1105.0
+                ]
+            ]
+        },
+        {
+            "text": "SRAVANA BHARGAVI ANTE",
+            "confidence": 0.966,
+            "box": [
+                [
+                    35.0,
+                    1203.0
+                ],
+                [
+                    491.0,
+                    1203.0
+                ],
+                [
+                    491.0,
+                    1236.0
+                ],
+                [
+                    35.0,
+                    1236.0
+                ]
+            ]
+        },
+        {
+            "text": "NATIONAL ANUKUNTIAVA",
+            "confidence": 0.974,
+            "box": [
+                [
+                    39.0,
+                    1245.0
+                ],
+                [
+                    482.0,
+                    1246.0
+                ],
+                [
+                    482.0,
+                    1280.0
+                ],
+                [
+                    39.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERNATIONAL",
+            "confidence": 0.999,
+            "box": [
+                [
+                    114.0,
+                    1289.0
+                ],
+                [
+                    398.0,
+                    1289.0
+                ],
+                [
+                    398.0,
+                    1323.0
+                ],
+                [
+                    114.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,666 @@
+{
+    "image_name": "2025-03-30_13-04-48_UTC.jpg",
+    "combined_text": "CHARMING STAR SHARWANAND FOR FIRST TIME\nIN NEVER SEEN BEFORE MASS ROLE.COMMERCIAL\nDIRECTOR SAMPATH NANDI CHANGED HIS ROUTE N\nSTYLE N ATTEMPTING A PULSATING PERIOD DRAMA\n\"PRODUCHIONIS\n4\n\"PRODUCTIONIS\nCHARMING STAR #38\nCHARMING STAR #38\nSAMPATH NANDI\nSAMPATH NANDI\nFILM\nFILM\nA BLOOD SOAKED BRILLIANCE\nFROM THE MASTERS\nA BLOOD SOAKED BRILLIANCE\nFROM THE MASTERS\nAALIM HAKIM\nPATTANAM RASHEED\nAALIM HAKIM\nPATTANAM RASHEED\nK.K.RADHAMOHAN\nSOUNDAR RAJAN\nBHEEMS CECIROLEO\nRAN KUMAR MANNI\nAUSI SHEXAR\nRACESH LOTHAPALLI\nCTEDTO\nAHAAA ESARI GATTIGANE\nPLAN CHESARU",
+    "detailed": [
+        {
+            "text": "CHARMING STAR SHARWANAND FOR FIRST TIME",
+            "confidence": 0.951,
+            "box": [
+                [
+                    94.0,
+                    13.0
+                ],
+                [
+                    996.0,
+                    14.0
+                ],
+                [
+                    996.0,
+                    47.0
+                ],
+                [
+                    94.0,
+                    46.0
+                ]
+            ]
+        },
+        {
+            "text": "IN NEVER SEEN BEFORE MASS ROLE.COMMERCIAL",
+            "confidence": 0.955,
+            "box": [
+                [
+                    90.0,
+                    59.0
+                ],
+                [
+                    1015.0,
+                    59.0
+                ],
+                [
+                    1015.0,
+                    92.0
+                ],
+                [
+                    90.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "DIRECTOR SAMPATH NANDI CHANGED HIS ROUTE N",
+            "confidence": 0.942,
+            "box": [
+                [
+                    82.0,
+                    106.0
+                ],
+                [
+                    1029.0,
+                    106.0
+                ],
+                [
+                    1029.0,
+                    135.0
+                ],
+                [
+                    82.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "STYLE N ATTEMPTING A PULSATING PERIOD DRAMA",
+            "confidence": 0.94,
+            "box": [
+                [
+                    75.0,
+                    148.0
+                ],
+                [
+                    1034.0,
+                    148.0
+                ],
+                [
+                    1034.0,
+                    181.0
+                ],
+                [
+                    75.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "\"PRODUCHIONIS",
+            "confidence": 0.802,
+            "box": [
+                [
+                    415.0,
+                    229.0
+                ],
+                [
+                    479.0,
+                    227.0
+                ],
+                [
+                    480.0,
+                    244.0
+                ],
+                [
+                    415.0,
+                    245.0
+                ]
+            ]
+        },
+        {
+            "text": "4",
+            "confidence": 0.659,
+            "box": [
+                [
+                    20.0,
+                    231.0
+                ],
+                [
+                    93.0,
+                    231.0
+                ],
+                [
+                    93.0,
+                    249.0
+                ],
+                [
+                    20.0,
+                    249.0
+                ]
+            ]
+        },
+        {
+            "text": "\"PRODUCTIONIS",
+            "confidence": 0.927,
+            "box": [
+                [
+                    984.0,
+                    223.0
+                ],
+                [
+                    1062.0,
+                    221.0
+                ],
+                [
+                    1062.0,
+                    238.0
+                ],
+                [
+                    985.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "CHARMING STAR #38",
+            "confidence": 0.944,
+            "box": [
+                [
+                    125.0,
+                    266.0
+                ],
+                [
+                    365.0,
+                    263.0
+                ],
+                [
+                    366.0,
+                    293.0
+                ],
+                [
+                    125.0,
+                    296.0
+                ]
+            ]
+        },
+        {
+            "text": "CHARMING STAR #38",
+            "confidence": 0.95,
+            "box": [
+                [
+                    648.0,
+                    268.0
+                ],
+                [
+                    924.0,
+                    265.0
+                ],
+                [
+                    924.0,
+                    295.0
+                ],
+                [
+                    648.0,
+                    298.0
+                ]
+            ]
+        },
+        {
+            "text": "SAMPATH NANDI",
+            "confidence": 0.976,
+            "box": [
+                [
+                    167.0,
+                    330.0
+                ],
+                [
+                    315.0,
+                    330.0
+                ],
+                [
+                    315.0,
+                    355.0
+                ],
+                [
+                    167.0,
+                    355.0
+                ]
+            ]
+        },
+        {
+            "text": "SAMPATH NANDI",
+            "confidence": 0.963,
+            "box": [
+                [
+                    698.0,
+                    343.0
+                ],
+                [
+                    868.0,
+                    343.0
+                ],
+                [
+                    868.0,
+                    368.0
+                ],
+                [
+                    698.0,
+                    368.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM",
+            "confidence": 0.987,
+            "box": [
+                [
+                    226.0,
+                    353.0
+                ],
+                [
+                    257.0,
+                    353.0
+                ],
+                [
+                    257.0,
+                    365.0
+                ],
+                [
+                    226.0,
+                    365.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM",
+            "confidence": 0.994,
+            "box": [
+                [
+                    764.0,
+                    365.0
+                ],
+                [
+                    803.0,
+                    365.0
+                ],
+                [
+                    803.0,
+                    383.0
+                ],
+                [
+                    764.0,
+                    383.0
+                ]
+            ]
+        },
+        {
+            "text": "A BLOOD SOAKED BRILLIANCE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    65.0,
+                    394.0
+                ],
+                [
+                    415.0,
+                    394.0
+                ],
+                [
+                    415.0,
+                    415.0
+                ],
+                [
+                    65.0,
+                    415.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM THE MASTERS",
+            "confidence": 0.95,
+            "box": [
+                [
+                    120.0,
+                    417.0
+                ],
+                [
+                    373.0,
+                    417.0
+                ],
+                [
+                    373.0,
+                    442.0
+                ],
+                [
+                    120.0,
+                    442.0
+                ]
+            ]
+        },
+        {
+            "text": "A BLOOD SOAKED BRILLIANCE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    578.0,
+                    418.0
+                ],
+                [
+                    984.0,
+                    418.0
+                ],
+                [
+                    984.0,
+                    439.0
+                ],
+                [
+                    578.0,
+                    439.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM THE MASTERS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    641.0,
+                    443.0
+                ],
+                [
+                    934.0,
+                    443.0
+                ],
+                [
+                    934.0,
+                    468.0
+                ],
+                [
+                    641.0,
+                    468.0
+                ]
+            ]
+        },
+        {
+            "text": "AALIM HAKIM",
+            "confidence": 0.95,
+            "box": [
+                [
+                    34.0,
+                    479.0
+                ],
+                [
+                    118.0,
+                    479.0
+                ],
+                [
+                    118.0,
+                    496.0
+                ],
+                [
+                    34.0,
+                    496.0
+                ]
+            ]
+        },
+        {
+            "text": "PATTANAM RASHEED",
+            "confidence": 0.981,
+            "box": [
+                [
+                    346.0,
+                    481.0
+                ],
+                [
+                    471.0,
+                    481.0
+                ],
+                [
+                    471.0,
+                    498.0
+                ],
+                [
+                    346.0,
+                    498.0
+                ]
+            ]
+        },
+        {
+            "text": "AALIM HAKIM",
+            "confidence": 0.98,
+            "box": [
+                [
+                    541.0,
+                    516.0
+                ],
+                [
+                    637.0,
+                    516.0
+                ],
+                [
+                    637.0,
+                    532.0
+                ],
+                [
+                    541.0,
+                    532.0
+                ]
+            ]
+        },
+        {
+            "text": "PATTANAM RASHEED",
+            "confidence": 0.984,
+            "box": [
+                [
+                    904.0,
+                    517.0
+                ],
+                [
+                    1050.0,
+                    517.0
+                ],
+                [
+                    1050.0,
+                    534.0
+                ],
+                [
+                    904.0,
+                    534.0
+                ]
+            ]
+        },
+        {
+            "text": "K.K.RADHAMOHAN",
+            "confidence": 0.991,
+            "box": [
+                [
+                    186.0,
+                    902.0
+                ],
+                [
+                    325.0,
+                    900.0
+                ],
+                [
+                    325.0,
+                    921.0
+                ],
+                [
+                    186.0,
+                    923.0
+                ]
+            ]
+        },
+        {
+            "text": "SOUNDAR RAJAN",
+            "confidence": 0.97,
+            "box": [
+                [
+                    141.0,
+                    918.0
+                ],
+                [
+                    240.0,
+                    918.0
+                ],
+                [
+                    240.0,
+                    935.0
+                ],
+                [
+                    141.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "BHEEMS CECIROLEO",
+            "confidence": 0.976,
+            "box": [
+                [
+                    262.0,
+                    918.0
+                ],
+                [
+                    381.0,
+                    918.0
+                ],
+                [
+                    381.0,
+                    935.0
+                ],
+                [
+                    262.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "RAN KUMAR MANNI",
+            "confidence": 0.851,
+            "box": [
+                [
+                    114.0,
+                    930.0
+                ],
+                [
+                    195.0,
+                    930.0
+                ],
+                [
+                    195.0,
+                    942.0
+                ],
+                [
+                    114.0,
+                    942.0
+                ]
+            ]
+        },
+        {
+            "text": "AUSI SHEXAR",
+            "confidence": 0.862,
+            "box": [
+                [
+                    228.0,
+                    928.0
+                ],
+                [
+                    295.0,
+                    928.0
+                ],
+                [
+                    295.0,
+                    945.0
+                ],
+                [
+                    228.0,
+                    945.0
+                ]
+            ]
+        },
+        {
+            "text": "RACESH LOTHAPALLI",
+            "confidence": 0.795,
+            "box": [
+                [
+                    308.0,
+                    926.0
+                ],
+                [
+                    410.0,
+                    924.0
+                ],
+                [
+                    411.0,
+                    945.0
+                ],
+                [
+                    308.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "CTEDTO",
+            "confidence": 0.983,
+            "box": [
+                [
+                    870.0,
+                    1072.0
+                ],
+                [
+                    925.0,
+                    1072.0
+                ],
+                [
+                    925.0,
+                    1084.0
+                ],
+                [
+                    870.0,
+                    1084.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAAA ESARI GATTIGANE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    451.0,
+                    1228.0
+                ],
+                [
+                    1018.0,
+                    1228.0
+                ],
+                [
+                    1018.0,
+                    1266.0
+                ],
+                [
+                    451.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "PLAN CHESARU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    567.0,
+                    1278.0
+                ],
+                [
+                    903.0,
+                    1278.0
+                ],
+                [
+                    903.0,
+                    1320.0
+                ],
+                [
+                    567.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

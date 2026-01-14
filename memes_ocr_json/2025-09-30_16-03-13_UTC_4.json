@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-09-30_16-03-13_UTC_4.jpg",
+    "combined_text": "Denmark, Norway, Netherlands,\nand South Korea bring expertise\nin green shipping, port innovation,\nand shipbuilding.",
+    "detailed": [
+        {
+            "text": "Denmark, Norway, Netherlands,",
+            "confidence": 0.972,
+            "box": [
+                [
+                    138.0,
+                    1075.0
+                ],
+                [
+                    944.0,
+                    1075.0
+                ],
+                [
+                    944.0,
+                    1124.0
+                ],
+                [
+                    138.0,
+                    1124.0
+                ]
+            ]
+        },
+        {
+            "text": "and South Korea bring expertise",
+            "confidence": 0.983,
+            "box": [
+                [
+                    128.0,
+                    1130.0
+                ],
+                [
+                    955.0,
+                    1133.0
+                ],
+                [
+                    955.0,
+                    1180.0
+                ],
+                [
+                    128.0,
+                    1178.0
+                ]
+            ]
+        },
+        {
+            "text": "in green shipping, port innovation,",
+            "confidence": 0.985,
+            "box": [
+                [
+                    98.0,
+                    1183.0
+                ],
+                [
+                    976.0,
+                    1185.0
+                ],
+                [
+                    976.0,
+                    1238.0
+                ],
+                [
+                    98.0,
+                    1237.0
+                ]
+            ]
+        },
+        {
+            "text": "and shipbuilding.",
+            "confidence": 0.998,
+            "box": [
+                [
+                    320.0,
+                    1238.0
+                ],
+                [
+                    755.0,
+                    1242.0
+                ],
+                [
+                    755.0,
+                    1296.0
+                ],
+                [
+                    319.0,
+                    1291.0
+                ]
+            ]
+        }
+    ]
+}

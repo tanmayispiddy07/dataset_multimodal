@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-06-01_15-08-00_UTC.jpg",
+    "combined_text": "Tata to Mahindra with Harrier.ev\nTera baap aaya",
+    "detailed": [
+        {
+            "text": "Tata to Mahindra with Harrier.ev",
+            "confidence": 0.987,
+            "box": [
+                [
+                    70.0,
+                    128.0
+                ],
+                [
+                    571.0,
+                    130.0
+                ],
+                [
+                    570.0,
+                    161.0
+                ],
+                [
+                    69.0,
+                    159.0
+                ]
+            ]
+        },
+        {
+            "text": "Tera baap aaya",
+            "confidence": 0.988,
+            "box": [
+                [
+                    176.0,
+                    178.0
+                ],
+                [
+                    408.0,
+                    180.0
+                ],
+                [
+                    408.0,
+                    218.0
+                ],
+                [
+                    175.0,
+                    216.0
+                ]
+            ]
+        }
+    ]
+}

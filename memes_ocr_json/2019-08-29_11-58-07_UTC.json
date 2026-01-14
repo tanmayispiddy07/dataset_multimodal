@@ -1,0 +1,28 @@
+{
+    "image_name": "2019-08-29_11-58-07_UTC.jpg",
+    "combined_text": "Antha Cute ga chudaku",
+    "detailed": [
+        {
+            "text": "Antha Cute ga chudaku",
+            "confidence": 0.947,
+            "box": [
+                [
+                    84.0,
+                    288.0
+                ],
+                [
+                    305.0,
+                    289.0
+                ],
+                [
+                    305.0,
+                    314.0
+                ],
+                [
+                    84.0,
+                    313.0
+                ]
+            ]
+        }
+    ]
+}

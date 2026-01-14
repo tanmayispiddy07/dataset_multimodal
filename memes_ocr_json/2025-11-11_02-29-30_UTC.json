@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-11-11_02-29-30_UTC.jpg",
+    "combined_text": "Only legends know this place\nsarcasm\nSPO",
+    "detailed": [
+        {
+            "text": "Only legends know this place",
+            "confidence": 0.99,
+            "box": [
+                [
+                    39.0,
+                    68.0
+                ],
+                [
+                    1032.0,
+                    66.0
+                ],
+                [
+                    1032.0,
+                    138.0
+                ],
+                [
+                    39.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    114.0,
+                    526.0
+                ],
+                [
+                    231.0,
+                    526.0
+                ],
+                [
+                    231.0,
+                    553.0
+                ],
+                [
+                    114.0,
+                    553.0
+                ]
+            ]
+        },
+        {
+            "text": "SPO",
+            "confidence": 0.753,
+            "box": [
+                [
+                    786.0,
+                    655.0
+                ],
+                [
+                    864.0,
+                    644.0
+                ],
+                [
+                    868.0,
+                    669.0
+                ],
+                [
+                    789.0,
+                    679.0
+                ]
+            ]
+        }
+    ]
+}

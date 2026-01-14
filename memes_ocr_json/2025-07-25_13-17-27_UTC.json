@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-07-25_13-17-27_UTC.jpg",
+    "combined_text": "\"SUNDARAKANDA\"MOVIE GRAND\nRELEASING ON AUGUST 27TH\nNO TWO LOVE STORIES ARE THE SAME\nIWIDE\n27\"AUG\nDELEASE\nHappy Birthday\nyoasoCyon\nNARA\nGoasoCon\nNO TWO LOVE STORIES ARE THE SAME\nARA\nADDICTEDTOMEMES\nNARA ROHIT LOVE STORIES LO\nUNDE MAGIC EH SIR",
+    "detailed": [
+        {
+            "text": "\"SUNDARAKANDA\"MOVIE GRAND",
+            "confidence": 0.95,
+            "box": [
+                [
+                    37.0,
+                    42.0
+                ],
+                [
+                    1007.0,
+                    43.0
+                ],
+                [
+                    1007.0,
+                    93.0
+                ],
+                [
+                    37.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING ON AUGUST 27TH",
+            "confidence": 0.954,
+            "box": [
+                [
+                    101.0,
+                    113.0
+                ],
+                [
+                    942.0,
+                    114.0
+                ],
+                [
+                    942.0,
+                    164.0
+                ],
+                [
+                    101.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "NO TWO LOVE STORIES ARE THE SAME",
+            "confidence": 0.937,
+            "box": [
+                [
+                    665.0,
+                    248.0
+                ],
+                [
+                    994.0,
+                    250.0
+                ],
+                [
+                    994.0,
+                    275.0
+                ],
+                [
+                    665.0,
+                    273.0
+                ]
+            ]
+        },
+        {
+            "text": "IWIDE",
+            "confidence": 0.897,
+            "box": [
+                [
+                    292.0,
+                    258.0
+                ],
+                [
+                    342.0,
+                    258.0
+                ],
+                [
+                    342.0,
+                    270.0
+                ],
+                [
+                    292.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "27\"AUG",
+            "confidence": 0.9,
+            "box": [
+                [
+                    233.0,
+                    275.0
+                ],
+                [
+                    347.0,
+                    275.0
+                ],
+                [
+                    347.0,
+                    314.0
+                ],
+                [
+                    233.0,
+                    314.0
+                ]
+            ]
+        },
+        {
+            "text": "DELEASE",
+            "confidence": 0.758,
+            "box": [
+                [
+                    238.0,
+                    314.0
+                ],
+                [
+                    339.0,
+                    314.0
+                ],
+                [
+                    339.0,
+                    334.0
+                ],
+                [
+                    238.0,
+                    334.0
+                ]
+            ]
+        },
+        {
+            "text": "Happy Birthday",
+            "confidence": 0.952,
+            "box": [
+                [
+                    585.0,
+                    399.0
+                ],
+                [
+                    990.0,
+                    399.0
+                ],
+                [
+                    990.0,
+                    446.0
+                ],
+                [
+                    585.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "yoasoCyon",
+            "confidence": 0.627,
+            "box": [
+                [
+                    238.0,
+                    462.0
+                ],
+                [
+                    322.0,
+                    459.0
+                ],
+                [
+                    333.0,
+                    720.0
+                ],
+                [
+                    249.0,
+                    723.0
+                ]
+            ]
+        },
+        {
+            "text": "NARA",
+            "confidence": 0.997,
+            "box": [
+                [
+                    732.0,
+                    603.0
+                ],
+                [
+                    1050.0,
+                    607.0
+                ],
+                [
+                    1048.0,
+                    728.0
+                ],
+                [
+                    731.0,
+                    724.0
+                ]
+            ]
+        },
+        {
+            "text": "GoasoCon",
+            "confidence": 0.795,
+            "box": [
+                [
+                    623.0,
+                    776.0
+                ],
+                [
+                    779.0,
+                    779.0
+                ],
+                [
+                    779.0,
+                    814.0
+                ],
+                [
+                    623.0,
+                    811.0
+                ]
+            ]
+        },
+        {
+            "text": "NO TWO LOVE STORIES ARE THE SAME",
+            "confidence": 0.923,
+            "box": [
+                [
+                    201.0,
+                    877.0
+                ],
+                [
+                    415.0,
+                    877.0
+                ],
+                [
+                    415.0,
+                    893.0
+                ],
+                [
+                    201.0,
+                    893.0
+                ]
+            ]
+        },
+        {
+            "text": "ARA",
+            "confidence": 0.697,
+            "box": [
+                [
+                    535.0,
+                    895.0
+                ],
+                [
+                    711.0,
+                    890.0
+                ],
+                [
+                    712.0,
+                    929.0
+                ],
+                [
+                    537.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    37.0,
+                    1065.0
+                ],
+                [
+                    204.0,
+                    1065.0
+                ],
+                [
+                    204.0,
+                    1086.0
+                ],
+                [
+                    37.0,
+                    1086.0
+                ]
+            ]
+        },
+        {
+            "text": "NARA ROHIT LOVE STORIES LO",
+            "confidence": 0.938,
+            "box": [
+                [
+                    480.0,
+                    1238.0
+                ],
+                [
+                    1067.0,
+                    1238.0
+                ],
+                [
+                    1067.0,
+                    1275.0
+                ],
+                [
+                    480.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDE MAGIC EH SIR",
+            "confidence": 0.93,
+            "box": [
+                [
+                    586.0,
+                    1285.0
+                ],
+                [
+                    966.0,
+                    1285.0
+                ],
+                [
+                    966.0,
+                    1323.0
+                ],
+                [
+                    586.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

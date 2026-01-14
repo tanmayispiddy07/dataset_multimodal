@@ -1,0 +1,314 @@
+{
+    "image_name": "2025-10-05_16-37-15_UTC.jpg",
+    "combined_text": "YOUTHFUL ENTERTAINER JUNIOR\nMOVIE NOW STREAMING ON\nAMAZON PRIME VIDEO & AHA\nJUNiOR\namazonprime\nWATCHNOW\nRidoevedaoSaaon\nonesaon\nIUNiOR\namazonprime\nWATCH NOW\nADDICTEDTOMEMES\nAH CINEMA LO DIALOGUES INKA NAA\nDIMAAK LONE TIRUGTHUNNAI RA",
+    "detailed": [
+        {
+            "text": "YOUTHFUL ENTERTAINER JUNIOR",
+            "confidence": 0.979,
+            "box": [
+                [
+                    124.0,
+                    45.0
+                ],
+                [
+                    942.0,
+                    45.0
+                ],
+                [
+                    942.0,
+                    86.0
+                ],
+                [
+                    124.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE NOW STREAMING ON",
+            "confidence": 0.95,
+            "box": [
+                [
+                    172.0,
+                    103.0
+                ],
+                [
+                    892.0,
+                    103.0
+                ],
+                [
+                    892.0,
+                    149.0
+                ],
+                [
+                    172.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "AMAZON PRIME VIDEO & AHA",
+            "confidence": 0.928,
+            "box": [
+                [
+                    155.0,
+                    167.0
+                ],
+                [
+                    908.0,
+                    167.0
+                ],
+                [
+                    908.0,
+                    209.0
+                ],
+                [
+                    155.0,
+                    209.0
+                ]
+            ]
+        },
+        {
+            "text": "JUNiOR",
+            "confidence": 0.944,
+            "box": [
+                [
+                    710.0,
+                    273.0
+                ],
+                [
+                    974.0,
+                    278.0
+                ],
+                [
+                    972.0,
+                    360.0
+                ],
+                [
+                    708.0,
+                    355.0
+                ]
+            ]
+        },
+        {
+            "text": "amazonprime",
+            "confidence": 0.997,
+            "box": [
+                [
+                    666.0,
+                    378.0
+                ],
+                [
+                    843.0,
+                    375.0
+                ],
+                [
+                    844.0,
+                    408.0
+                ],
+                [
+                    667.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHNOW",
+            "confidence": 0.993,
+            "box": [
+                [
+                    878.0,
+                    380.0
+                ],
+                [
+                    1017.0,
+                    380.0
+                ],
+                [
+                    1017.0,
+                    406.0
+                ],
+                [
+                    878.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "RidoevedaoSaaon",
+            "confidence": 0.59,
+            "box": [
+                [
+                    101.0,
+                    689.0
+                ],
+                [
+                    390.0,
+                    689.0
+                ],
+                [
+                    390.0,
+                    714.0
+                ],
+                [
+                    101.0,
+                    714.0
+                ]
+            ]
+        },
+        {
+            "text": "onesaon",
+            "confidence": 0.529,
+            "box": [
+                [
+                    146.0,
+                    736.0
+                ],
+                [
+                    346.0,
+                    736.0
+                ],
+                [
+                    346.0,
+                    765.0
+                ],
+                [
+                    146.0,
+                    765.0
+                ]
+            ]
+        },
+        {
+            "text": "IUNiOR",
+            "confidence": 0.815,
+            "box": [
+                [
+                    118.0,
+                    790.0
+                ],
+                [
+                    382.0,
+                    795.0
+                ],
+                [
+                    380.0,
+                    869.0
+                ],
+                [
+                    116.0,
+                    864.0
+                ]
+            ]
+        },
+        {
+            "text": "amazonprime",
+            "confidence": 0.996,
+            "box": [
+                [
+                    118.0,
+                    872.0
+                ],
+                [
+                    255.0,
+                    872.0
+                ],
+                [
+                    255.0,
+                    898.0
+                ],
+                [
+                    118.0,
+                    898.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCH NOW",
+            "confidence": 0.939,
+            "box": [
+                [
+                    260.0,
+                    874.0
+                ],
+                [
+                    380.0,
+                    874.0
+                ],
+                [
+                    380.0,
+                    895.0
+                ],
+                [
+                    260.0,
+                    895.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    10.0,
+                    1069.0
+                ],
+                [
+                    160.0,
+                    1069.0
+                ],
+                [
+                    160.0,
+                    1090.0
+                ],
+                [
+                    10.0,
+                    1090.0
+                ]
+            ]
+        },
+        {
+            "text": "AH CINEMA LO DIALOGUES INKA NAA",
+            "confidence": 0.932,
+            "box": [
+                [
+                    128.0,
+                    1222.0
+                ],
+                [
+                    977.0,
+                    1222.0
+                ],
+                [
+                    977.0,
+                    1264.0
+                ],
+                [
+                    128.0,
+                    1264.0
+                ]
+            ]
+        },
+        {
+            "text": "DIMAAK LONE TIRUGTHUNNAI RA",
+            "confidence": 0.937,
+            "box": [
+                [
+                    172.0,
+                    1279.0
+                ],
+                [
+                    924.0,
+                    1279.0
+                ],
+                [
+                    924.0,
+                    1317.0
+                ],
+                [
+                    172.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

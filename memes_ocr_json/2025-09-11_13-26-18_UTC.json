@@ -1,0 +1,974 @@
+{
+    "image_name": "2025-09-11_13-26-18_UTC.jpg",
+    "combined_text": "EXCELLENT REVIEWS FOR MIRAI\nPREMIER'S HAPPENED IN MUMBAI\nLet's XOTT GLOBAL \nRamesh Bala\nX.com\n@LetsXOtt\n@rameshlaus\nMIRAI FULL REVIEW!!\n#MIRAI-AN AMBITIOUS FANTASY ADVENTURE-\nDone with my #MIRAlshow&it's a CLEAR BOX-\n3.5/5\nOFFICE BLOCKBUSTER-4/5\nThe entire film is made technically very strong and\nis a proper fantasy film made from Telugu cinema\nto the world.\nThe second half is double the madness of the first!\nTeja Sajja excellently carried the emotions, and the\nRight from the beginning to the end, it takes you\naction stunts were very impressive.The BGM by\ninto a world one hasn't experienced before.\nCatered for all sections of audience, Teja Sajja\nHari Gowra elevated the experience to a whole new\nonce again impresses with his role this time as\nlevel.\nSuperyodha.\nIn the interval bird sequence and post interval fight\nTheatres will erupt during the climax portion, and\nsequence he stuns with his efforts and\nperformance.SURPRISES Worked Well\nthe surprise at the end is very neatly placed.\nJust Experience the Cinematic EXPERIENCE in Big\nScreens.\nKarthik's story and presentation are phenomenal,\nKarthik Gattamneni proved his technical front with\nvisual work from the team deserves lots of\namazing visuals and CGl looks absolutely wonder.\ndd\napplause,and the fantasy elements will make kids\nand family audiences go gaga 100\nMusic by Gowrahari riveting and other cast\nperformances are very good.\nDICTEDTOMEMES\nEM AYINDI RA NEKU TICKETS BOOK\nCHESAVU GA MORNING EH SHOW AAPUKO",
+    "detailed": [
+        {
+            "text": "EXCELLENT REVIEWS FOR MIRAI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    148.0,
+                    60.0
+                ],
+                [
+                    960.0,
+                    60.0
+                ],
+                [
+                    960.0,
+                    102.0
+                ],
+                [
+                    148.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "PREMIER'S HAPPENED IN MUMBAI",
+            "confidence": 0.943,
+            "box": [
+                [
+                    117.0,
+                    121.0
+                ],
+                [
+                    970.0,
+                    124.0
+                ],
+                [
+                    970.0,
+                    166.0
+                ],
+                [
+                    117.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "Let's XOTT GLOBAL ",
+            "confidence": 0.896,
+            "box": [
+                [
+                    674.0,
+                    226.0
+                ],
+                [
+                    862.0,
+                    226.0
+                ],
+                [
+                    862.0,
+                    247.0
+                ],
+                [
+                    674.0,
+                    247.0
+                ]
+            ]
+        },
+        {
+            "text": "Ramesh Bala",
+            "confidence": 0.961,
+            "box": [
+                [
+                    89.0,
+                    251.0
+                ],
+                [
+                    253.0,
+                    251.0
+                ],
+                [
+                    253.0,
+                    276.0
+                ],
+                [
+                    89.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "X.com",
+            "confidence": 0.978,
+            "box": [
+                [
+                    485.0,
+                    248.0
+                ],
+                [
+                    583.0,
+                    253.0
+                ],
+                [
+                    581.0,
+                    286.0
+                ],
+                [
+                    483.0,
+                    281.0
+                ]
+            ]
+        },
+        {
+            "text": "@LetsXOtt",
+            "confidence": 0.934,
+            "box": [
+                [
+                    674.0,
+                    247.0
+                ],
+                [
+                    764.0,
+                    247.0
+                ],
+                [
+                    764.0,
+                    268.0
+                ],
+                [
+                    674.0,
+                    268.0
+                ]
+            ]
+        },
+        {
+            "text": "@rameshlaus",
+            "confidence": 0.995,
+            "box": [
+                [
+                    87.0,
+                    279.0
+                ],
+                [
+                    232.0,
+                    276.0
+                ],
+                [
+                    232.0,
+                    302.0
+                ],
+                [
+                    88.0,
+                    305.0
+                ]
+            ]
+        },
+        {
+            "text": "MIRAI FULL REVIEW!!",
+            "confidence": 0.913,
+            "box": [
+                [
+                    616.0,
+                    282.0
+                ],
+                [
+                    820.0,
+                    282.0
+                ],
+                [
+                    820.0,
+                    302.0
+                ],
+                [
+                    616.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "#MIRAI-AN AMBITIOUS FANTASY ADVENTURE-",
+            "confidence": 0.966,
+            "box": [
+                [
+                    619.0,
+                    328.0
+                ],
+                [
+                    1059.0,
+                    328.0
+                ],
+                [
+                    1059.0,
+                    348.0
+                ],
+                [
+                    619.0,
+                    348.0
+                ]
+            ]
+        },
+        {
+            "text": "Done with my #MIRAlshow&it's a CLEAR BOX-",
+            "confidence": 0.928,
+            "box": [
+                [
+                    13.0,
+                    348.0
+                ],
+                [
+                    555.0,
+                    348.0
+                ],
+                [
+                    555.0,
+                    378.0
+                ],
+                [
+                    13.0,
+                    378.0
+                ]
+            ]
+        },
+        {
+            "text": "3.5/5",
+            "confidence": 0.998,
+            "box": [
+                [
+                    616.0,
+                    350.0
+                ],
+                [
+                    671.0,
+                    350.0
+                ],
+                [
+                    671.0,
+                    372.0
+                ],
+                [
+                    616.0,
+                    372.0
+                ]
+            ]
+        },
+        {
+            "text": "OFFICE BLOCKBUSTER-4/5",
+            "confidence": 0.956,
+            "box": [
+                [
+                    13.0,
+                    382.0
+                ],
+                [
+                    380.0,
+                    382.0
+                ],
+                [
+                    380.0,
+                    411.0
+                ],
+                [
+                    13.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "The entire film is made technically very strong and",
+            "confidence": 0.97,
+            "box": [
+                [
+                    619.0,
+                    397.0
+                ],
+                [
+                    1065.0,
+                    397.0
+                ],
+                [
+                    1065.0,
+                    418.0
+                ],
+                [
+                    619.0,
+                    418.0
+                ]
+            ]
+        },
+        {
+            "text": "is a proper fantasy film made from Telugu cinema",
+            "confidence": 0.962,
+            "box": [
+                [
+                    617.0,
+                    421.0
+                ],
+                [
+                    1056.0,
+                    421.0
+                ],
+                [
+                    1056.0,
+                    442.0
+                ],
+                [
+                    617.0,
+                    442.0
+                ]
+            ]
+        },
+        {
+            "text": "to the world.",
+            "confidence": 0.959,
+            "box": [
+                [
+                    616.0,
+                    442.0
+                ],
+                [
+                    782.0,
+                    442.0
+                ],
+                [
+                    782.0,
+                    467.0
+                ],
+                [
+                    616.0,
+                    467.0
+                ]
+            ]
+        },
+        {
+            "text": "The second half is double the madness of the first!",
+            "confidence": 0.956,
+            "box": [
+                [
+                    15.0,
+                    452.0
+                ],
+                [
+                    578.0,
+                    452.0
+                ],
+                [
+                    578.0,
+                    477.0
+                ],
+                [
+                    15.0,
+                    477.0
+                ]
+            ]
+        },
+        {
+            "text": "Teja Sajja excellently carried the emotions, and the",
+            "confidence": 0.959,
+            "box": [
+                [
+                    14.0,
+                    485.0
+                ],
+                [
+                    584.0,
+                    485.0
+                ],
+                [
+                    584.0,
+                    514.0
+                ],
+                [
+                    14.0,
+                    514.0
+                ]
+            ]
+        },
+        {
+            "text": "Right from the beginning to the end, it takes you",
+            "confidence": 0.962,
+            "box": [
+                [
+                    617.0,
+                    486.0
+                ],
+                [
+                    1043.0,
+                    488.0
+                ],
+                [
+                    1043.0,
+                    513.0
+                ],
+                [
+                    617.0,
+                    511.0
+                ]
+            ]
+        },
+        {
+            "text": "action stunts were very impressive.The BGM by",
+            "confidence": 0.969,
+            "box": [
+                [
+                    13.0,
+                    518.0
+                ],
+                [
+                    550.0,
+                    518.0
+                ],
+                [
+                    550.0,
+                    548.0
+                ],
+                [
+                    13.0,
+                    548.0
+                ]
+            ]
+        },
+        {
+            "text": "into a world one hasn't experienced before.",
+            "confidence": 0.967,
+            "box": [
+                [
+                    619.0,
+                    513.0
+                ],
+                [
+                    1003.0,
+                    513.0
+                ],
+                [
+                    1003.0,
+                    534.0
+                ],
+                [
+                    619.0,
+                    534.0
+                ]
+            ]
+        },
+        {
+            "text": "Catered for all sections of audience, Teja Sajja",
+            "confidence": 0.969,
+            "box": [
+                [
+                    617.0,
+                    534.0
+                ],
+                [
+                    1028.0,
+                    537.0
+                ],
+                [
+                    1028.0,
+                    558.0
+                ],
+                [
+                    617.0,
+                    555.0
+                ]
+            ]
+        },
+        {
+            "text": "Hari Gowra elevated the experience to a whole new",
+            "confidence": 0.97,
+            "box": [
+                [
+                    10.0,
+                    550.0
+                ],
+                [
+                    589.0,
+                    555.0
+                ],
+                [
+                    589.0,
+                    584.0
+                ],
+                [
+                    10.0,
+                    580.0
+                ]
+            ]
+        },
+        {
+            "text": "once again impresses with his role this time as",
+            "confidence": 0.951,
+            "box": [
+                [
+                    616.0,
+                    558.0
+                ],
+                [
+                    1032.0,
+                    558.0
+                ],
+                [
+                    1032.0,
+                    583.0
+                ],
+                [
+                    616.0,
+                    583.0
+                ]
+            ]
+        },
+        {
+            "text": "level.",
+            "confidence": 0.961,
+            "box": [
+                [
+                    8.0,
+                    584.0
+                ],
+                [
+                    76.0,
+                    584.0
+                ],
+                [
+                    76.0,
+                    616.0
+                ],
+                [
+                    8.0,
+                    616.0
+                ]
+            ]
+        },
+        {
+            "text": "Superyodha.",
+            "confidence": 0.991,
+            "box": [
+                [
+                    617.0,
+                    583.0
+                ],
+                [
+                    759.0,
+                    583.0
+                ],
+                [
+                    759.0,
+                    603.0
+                ],
+                [
+                    617.0,
+                    603.0
+                ]
+            ]
+        },
+        {
+            "text": "In the interval bird sequence and post interval fight",
+            "confidence": 0.958,
+            "box": [
+                [
+                    617.0,
+                    629.0
+                ],
+                [
+                    1070.0,
+                    629.0
+                ],
+                [
+                    1070.0,
+                    649.0
+                ],
+                [
+                    617.0,
+                    649.0
+                ]
+            ]
+        },
+        {
+            "text": "Theatres will erupt during the climax portion, and",
+            "confidence": 0.941,
+            "box": [
+                [
+                    13.0,
+                    655.0
+                ],
+                [
+                    562.0,
+                    655.0
+                ],
+                [
+                    562.0,
+                    684.0
+                ],
+                [
+                    13.0,
+                    684.0
+                ]
+            ]
+        },
+        {
+            "text": "sequence he stuns with his efforts and",
+            "confidence": 0.977,
+            "box": [
+                [
+                    617.0,
+                    652.0
+                ],
+                [
+                    968.0,
+                    652.0
+                ],
+                [
+                    968.0,
+                    673.0
+                ],
+                [
+                    617.0,
+                    673.0
+                ]
+            ]
+        },
+        {
+            "text": "performance.SURPRISES Worked Well",
+            "confidence": 0.946,
+            "box": [
+                [
+                    616.0,
+                    673.0
+                ],
+                [
+                    1053.0,
+                    672.0
+                ],
+                [
+                    1053.0,
+                    697.0
+                ],
+                [
+                    616.0,
+                    698.0
+                ]
+            ]
+        },
+        {
+            "text": "the surprise at the end is very neatly placed.",
+            "confidence": 0.961,
+            "box": [
+                [
+                    11.0,
+                    687.0
+                ],
+                [
+                    505.0,
+                    689.0
+                ],
+                [
+                    505.0,
+                    718.0
+                ],
+                [
+                    11.0,
+                    716.0
+                ]
+            ]
+        },
+        {
+            "text": "Just Experience the Cinematic EXPERIENCE in Big",
+            "confidence": 0.96,
+            "box": [
+                [
+                    617.0,
+                    698.0
+                ],
+                [
+                    1062.0,
+                    698.0
+                ],
+                [
+                    1062.0,
+                    719.0
+                ],
+                [
+                    617.0,
+                    719.0
+                ]
+            ]
+        },
+        {
+            "text": "Screens.",
+            "confidence": 0.997,
+            "box": [
+                [
+                    617.0,
+                    721.0
+                ],
+                [
+                    705.0,
+                    721.0
+                ],
+                [
+                    705.0,
+                    743.0
+                ],
+                [
+                    617.0,
+                    743.0
+                ]
+            ]
+        },
+        {
+            "text": "Karthik's story and presentation are phenomenal,",
+            "confidence": 0.965,
+            "box": [
+                [
+                    11.0,
+                    755.0
+                ],
+                [
+                    567.0,
+                    757.0
+                ],
+                [
+                    567.0,
+                    786.0
+                ],
+                [
+                    11.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "Karthik Gattamneni proved his technical front with",
+            "confidence": 0.972,
+            "box": [
+                [
+                    615.0,
+                    764.0
+                ],
+                [
+                    1069.0,
+                    765.0
+                ],
+                [
+                    1069.0,
+                    790.0
+                ],
+                [
+                    614.0,
+                    789.0
+                ]
+            ]
+        },
+        {
+            "text": "visual work from the team deserves lots of",
+            "confidence": 0.961,
+            "box": [
+                [
+                    14.0,
+                    793.0
+                ],
+                [
+                    488.0,
+                    793.0
+                ],
+                [
+                    488.0,
+                    818.0
+                ],
+                [
+                    14.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "amazing visuals and CGl looks absolutely wonder.",
+            "confidence": 0.966,
+            "box": [
+                [
+                    616.0,
+                    789.0
+                ],
+                [
+                    1060.0,
+                    787.0
+                ],
+                [
+                    1060.0,
+                    813.0
+                ],
+                [
+                    616.0,
+                    814.0
+                ]
+            ]
+        },
+        {
+            "text": "dd",
+            "confidence": 0.878,
+            "box": [
+                [
+                    622.0,
+                    814.0
+                ],
+                [
+                    669.0,
+                    814.0
+                ],
+                [
+                    669.0,
+                    836.0
+                ],
+                [
+                    622.0,
+                    836.0
+                ]
+            ]
+        },
+        {
+            "text": "applause,and the fantasy elements will make kids",
+            "confidence": 0.976,
+            "box": [
+                [
+                    11.0,
+                    827.0
+                ],
+                [
+                    576.0,
+                    824.0
+                ],
+                [
+                    577.0,
+                    853.0
+                ],
+                [
+                    11.0,
+                    856.0
+                ]
+            ]
+        },
+        {
+            "text": "and family audiences go gaga 100",
+            "confidence": 0.935,
+            "box": [
+                [
+                    10.0,
+                    856.0
+                ],
+                [
+                    381.0,
+                    854.0
+                ],
+                [
+                    381.0,
+                    892.0
+                ],
+                [
+                    10.0,
+                    893.0
+                ]
+            ]
+        },
+        {
+            "text": "Music by Gowrahari riveting and other cast",
+            "confidence": 0.97,
+            "box": [
+                [
+                    617.0,
+                    860.0
+                ],
+                [
+                    1000.0,
+                    860.0
+                ],
+                [
+                    1000.0,
+                    881.0
+                ],
+                [
+                    617.0,
+                    881.0
+                ]
+            ]
+        },
+        {
+            "text": "performances are very good.",
+            "confidence": 0.982,
+            "box": [
+                [
+                    616.0,
+                    882.0
+                ],
+                [
+                    875.0,
+                    882.0
+                ],
+                [
+                    875.0,
+                    907.0
+                ],
+                [
+                    616.0,
+                    907.0
+                ]
+            ]
+        },
+        {
+            "text": "DICTEDTOMEMES",
+            "confidence": 0.981,
+            "box": [
+                [
+                    920.0,
+                    1040.0
+                ],
+                [
+                    1031.0,
+                    1040.0
+                ],
+                [
+                    1031.0,
+                    1056.0
+                ],
+                [
+                    920.0,
+                    1056.0
+                ]
+            ]
+        },
+        {
+            "text": "EM AYINDI RA NEKU TICKETS BOOK",
+            "confidence": 0.93,
+            "box": [
+                [
+                    184.0,
+                    1233.0
+                ],
+                [
+                    897.0,
+                    1233.0
+                ],
+                [
+                    897.0,
+                    1267.0
+                ],
+                [
+                    184.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESAVU GA MORNING EH SHOW AAPUKO",
+            "confidence": 0.937,
+            "box": [
+                [
+                    101.0,
+                    1285.0
+                ],
+                [
+                    977.0,
+                    1285.0
+                ],
+                [
+                    977.0,
+                    1318.0
+                ],
+                [
+                    101.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

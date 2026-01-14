@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-12-11_08-46-51_UTC.jpg",
+    "combined_text": "NVU SUPER SHARWANAND BRO\nNA FAV CAR KONNAV",
+    "detailed": [
+        {
+            "text": "NVU SUPER SHARWANAND BRO",
+            "confidence": 0.936,
+            "box": [
+                [
+                    69.0,
+                    691.0
+                ],
+                [
+                    481.0,
+                    691.0
+                ],
+                [
+                    481.0,
+                    715.0
+                ],
+                [
+                    69.0,
+                    715.0
+                ]
+            ]
+        },
+        {
+            "text": "NA FAV CAR KONNAV",
+            "confidence": 0.911,
+            "box": [
+                [
+                    140.0,
+                    722.0
+                ],
+                [
+                    418.0,
+                    722.0
+                ],
+                [
+                    418.0,
+                    746.0
+                ],
+                [
+                    140.0,
+                    746.0
+                ]
+            ]
+        }
+    ]
+}

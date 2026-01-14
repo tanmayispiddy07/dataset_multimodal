@@ -1,0 +1,182 @@
+{
+    "image_name": "2023-04-14_13-04-55_UTC.jpg",
+    "combined_text": "HERE'S THE LATEST SUPER HIT DAS KA DAMKI\nSTREAMING ON AHA NOW...\nBAA\nDABBULU LEKUNDA PUTTACHU KANI\nTELUGU MEMES GURU\nDABBULU LEKUNDA SAVADHU RAA\niDream Movies\nCORRECT GAA CHEPPAV BRO.",
+    "detailed": [
+        {
+            "text": "HERE'S THE LATEST SUPER HIT DAS KA DAMKI",
+            "confidence": 0.925,
+            "box": [
+                [
+                    34.0,
+                    15.0
+                ],
+                [
+                    1049.0,
+                    17.0
+                ],
+                [
+                    1049.0,
+                    55.0
+                ],
+                [
+                    34.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMING ON AHA NOW...",
+            "confidence": 0.927,
+            "box": [
+                [
+                    197.0,
+                    66.0
+                ],
+                [
+                    855.0,
+                    66.0
+                ],
+                [
+                    855.0,
+                    104.0
+                ],
+                [
+                    197.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "BAA",
+            "confidence": 0.583,
+            "box": [
+                [
+                    1055.0,
+                    120.0
+                ],
+                [
+                    1076.0,
+                    120.0
+                ],
+                [
+                    1076.0,
+                    130.0
+                ],
+                [
+                    1055.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "DABBULU LEKUNDA PUTTACHU KANI",
+            "confidence": 0.957,
+            "box": [
+                [
+                    112.0,
+                    435.0
+                ],
+                [
+                    1014.0,
+                    435.0
+                ],
+                [
+                    1014.0,
+                    476.0
+                ],
+                [
+                    112.0,
+                    476.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.949,
+            "box": [
+                [
+                    831.0,
+                    793.0
+                ],
+                [
+                    1000.0,
+                    795.0
+                ],
+                [
+                    1000.0,
+                    817.0
+                ],
+                [
+                    831.0,
+                    815.0
+                ]
+            ]
+        },
+        {
+            "text": "DABBULU LEKUNDA SAVADHU RAA",
+            "confidence": 0.959,
+            "box": [
+                [
+                    62.0,
+                    869.0
+                ],
+                [
+                    1015.0,
+                    869.0
+                ],
+                [
+                    1015.0,
+                    911.0
+                ],
+                [
+                    62.0,
+                    911.0
+                ]
+            ]
+        },
+        {
+            "text": "iDream Movies",
+            "confidence": 0.971,
+            "box": [
+                [
+                    881.0,
+                    1185.0
+                ],
+                [
+                    1053.0,
+                    1188.0
+                ],
+                [
+                    1053.0,
+                    1214.0
+                ],
+                [
+                    880.0,
+                    1211.0
+                ]
+            ]
+        },
+        {
+            "text": "CORRECT GAA CHEPPAV BRO.",
+            "confidence": 0.94,
+            "box": [
+                [
+                    155.0,
+                    1282.0
+                ],
+                [
+                    847.0,
+                    1282.0
+                ],
+                [
+                    847.0,
+                    1323.0
+                ],
+                [
+                    155.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

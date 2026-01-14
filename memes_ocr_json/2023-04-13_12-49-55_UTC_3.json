@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-04-13_12-49-55_UTC_3.jpg",
+    "combined_text": "Entho mandi NON IT nundi IT side\nki shift avuthunaru easy ga.\nEla shift avali anedanikosamoka\nfree demo conduct chesthunaru",
+    "detailed": [
+        {
+            "text": "Entho mandi NON IT nundi IT side",
+            "confidence": 0.933,
+            "box": [
+                [
+                    97.0,
+                    449.0
+                ],
+                [
+                    899.0,
+                    450.0
+                ],
+                [
+                    899.0,
+                    501.0
+                ],
+                [
+                    97.0,
+                    499.0
+                ]
+            ]
+        },
+        {
+            "text": "ki shift avuthunaru easy ga.",
+            "confidence": 0.981,
+            "box": [
+                [
+                    152.0,
+                    495.0
+                ],
+                [
+                    836.0,
+                    504.0
+                ],
+                [
+                    835.0,
+                    549.0
+                ],
+                [
+                    152.0,
+                    540.0
+                ]
+            ]
+        },
+        {
+            "text": "Ela shift avali anedanikosamoka",
+            "confidence": 0.988,
+            "box": [
+                [
+                    151.0,
+                    978.0
+                ],
+                [
+                    914.0,
+                    978.0
+                ],
+                [
+                    914.0,
+                    1018.0
+                ],
+                [
+                    151.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "free demo conduct chesthunaru",
+            "confidence": 0.969,
+            "box": [
+                [
+                    153.0,
+                    1019.0
+                ],
+                [
+                    910.0,
+                    1022.0
+                ],
+                [
+                    910.0,
+                    1062.0
+                ],
+                [
+                    153.0,
+                    1060.0
+                ]
+            ]
+        }
+    ]
+}

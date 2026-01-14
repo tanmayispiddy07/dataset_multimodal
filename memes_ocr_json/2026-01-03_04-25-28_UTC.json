@@ -1,0 +1,116 @@
+{
+    "image_name": "2026-01-03_04-25-28_UTC.jpg",
+    "combined_text": "Yaalo Ee Gubule Elo\nSong From Trikala\nOr5\nTELUGU\nSUCH A BEAUTIFUL FEEL GOOD SONG",
+    "detailed": [
+        {
+            "text": "Yaalo Ee Gubule Elo",
+            "confidence": 0.972,
+            "box": [
+                [
+                    77.0,
+                    30.0
+                ],
+                [
+                    553.0,
+                    32.0
+                ],
+                [
+                    553.0,
+                    72.0
+                ],
+                [
+                    77.0,
+                    70.0
+                ]
+            ]
+        },
+        {
+            "text": "Song From Trikala",
+            "confidence": 0.999,
+            "box": [
+                [
+                    94.0,
+                    101.0
+                ],
+                [
+                    544.0,
+                    103.0
+                ],
+                [
+                    544.0,
+                    152.0
+                ],
+                [
+                    94.0,
+                    150.0
+                ]
+            ]
+        },
+        {
+            "text": "Or5",
+            "confidence": 0.541,
+            "box": [
+                [
+                    595.0,
+                    187.0
+                ],
+                [
+                    634.0,
+                    187.0
+                ],
+                [
+                    634.0,
+                    206.0
+                ],
+                [
+                    595.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU",
+            "confidence": 0.909,
+            "box": [
+                [
+                    596.0,
+                    204.0
+                ],
+                [
+                    633.0,
+                    204.0
+                ],
+                [
+                    633.0,
+                    217.0
+                ],
+                [
+                    596.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "SUCH A BEAUTIFUL FEEL GOOD SONG",
+            "confidence": 0.939,
+            "box": [
+                [
+                    38.0,
+                    602.0
+                ],
+                [
+                    579.0,
+                    602.0
+                ],
+                [
+                    579.0,
+                    635.0
+                ],
+                [
+                    38.0,
+                    635.0
+                ]
+            ]
+        }
+    ]
+}

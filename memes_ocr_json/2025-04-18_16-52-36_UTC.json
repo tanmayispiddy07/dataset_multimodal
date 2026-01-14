@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-04-18_16-52-36_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nVarshamu padi match aagipoyina\nbagundedi kadha ra.\nOka point ayina vachedhe.",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.989,
+            "box": [
+                [
+                    180.0,
+                    42.0
+                ],
+                [
+                    581.0,
+                    44.0
+                ],
+                [
+                    581.0,
+                    82.0
+                ],
+                [
+                    180.0,
+                    80.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 1.0,
+            "box": [
+                [
+                    179.0,
+                    90.0
+                ],
+                [
+                    575.0,
+                    94.0
+                ],
+                [
+                    575.0,
+                    137.0
+                ],
+                [
+                    178.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "Varshamu padi match aagipoyina",
+            "confidence": 1.0,
+            "box": [
+                [
+                    31.0,
+                    180.0
+                ],
+                [
+                    809.0,
+                    181.0
+                ],
+                [
+                    809.0,
+                    233.0
+                ],
+                [
+                    31.0,
+                    232.0
+                ]
+            ]
+        },
+        {
+            "text": "bagundedi kadha ra.",
+            "confidence": 0.971,
+            "box": [
+                [
+                    31.0,
+                    250.0
+                ],
+                [
+                    500.0,
+                    246.0
+                ],
+                [
+                    501.0,
+                    298.0
+                ],
+                [
+                    31.0,
+                    303.0
+                ]
+            ]
+        },
+        {
+            "text": "Oka point ayina vachedhe.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    31.0,
+                    314.0
+                ],
+                [
+                    641.0,
+                    314.0
+                ],
+                [
+                    641.0,
+                    368.0
+                ],
+                [
+                    31.0,
+                    368.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-11-18_16-01-08_UTC_6.jpg",
+    "combined_text": "Ned Stark's shocking end,\nThe true start of GOT",
+    "detailed": [
+        {
+            "text": "Ned Stark's shocking end,",
+            "confidence": 0.996,
+            "box": [
+                [
+                    256.0,
+                    1157.0
+                ],
+                [
+                    821.0,
+                    1163.0
+                ],
+                [
+                    821.0,
+                    1207.0
+                ],
+                [
+                    256.0,
+                    1201.0
+                ]
+            ]
+        },
+        {
+            "text": "The true start of GOT",
+            "confidence": 0.975,
+            "box": [
+                [
+                    311.0,
+                    1229.0
+                ],
+                [
+                    769.0,
+                    1228.0
+                ],
+                [
+                    769.0,
+                    1268.0
+                ],
+                [
+                    311.0,
+                    1270.0
+                ]
+            ]
+        }
+    ]
+}

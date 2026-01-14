@@ -1,0 +1,50 @@
+{
+    "image_name": "2020-01-30_01-05-32_UTC.jpg",
+    "combined_text": "When you see a chinese dude\nsneezing at the airport",
+    "detailed": [
+        {
+            "text": "When you see a chinese dude",
+            "confidence": 0.989,
+            "box": [
+                [
+                    32.0,
+                    30.0
+                ],
+                [
+                    826.0,
+                    30.0
+                ],
+                [
+                    826.0,
+                    91.0
+                ],
+                [
+                    32.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "sneezing at the airport",
+            "confidence": 0.993,
+            "box": [
+                [
+                    28.0,
+                    106.0
+                ],
+                [
+                    641.0,
+                    106.0
+                ],
+                [
+                    641.0,
+                    168.0
+                ],
+                [
+                    28.0,
+                    168.0
+                ]
+            ]
+        }
+    ]
+}

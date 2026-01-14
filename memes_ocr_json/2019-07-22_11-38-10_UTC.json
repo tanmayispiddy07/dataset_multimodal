@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-07-22_11-38-10_UTC.jpg",
+    "combined_text": "We are the Best Dancers in Tollywood\nhaha !! That's cute abbaiilu,look at my steps\ntroll tollywood;)",
+    "detailed": [
+        {
+            "text": "We are the Best Dancers in Tollywood",
+            "confidence": 0.958,
+            "box": [
+                [
+                    135.0,
+                    7.0
+                ],
+                [
+                    915.0,
+                    9.0
+                ],
+                [
+                    915.0,
+                    50.0
+                ],
+                [
+                    135.0,
+                    48.0
+                ]
+            ]
+        },
+        {
+            "text": "haha !! That's cute abbaiilu,look at my steps",
+            "confidence": 0.922,
+            "box": [
+                [
+                    99.0,
+                    532.0
+                ],
+                [
+                    1025.0,
+                    532.0
+                ],
+                [
+                    1025.0,
+                    572.0
+                ],
+                [
+                    99.0,
+                    572.0
+                ]
+            ]
+        },
+        {
+            "text": "troll tollywood;)",
+            "confidence": 0.93,
+            "box": [
+                [
+                    361.0,
+                    961.0
+                ],
+                [
+                    700.0,
+                    963.0
+                ],
+                [
+                    700.0,
+                    1005.0
+                ],
+                [
+                    361.0,
+                    1003.0
+                ]
+            ]
+        }
+    ]
+}

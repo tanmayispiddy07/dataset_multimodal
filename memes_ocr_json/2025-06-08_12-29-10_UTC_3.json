@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-06-08_12-29-10_UTC_3.jpg",
+    "combined_text": "Aatmanirbharta in Defence:\n5,0o0+ items added to indigenisation lists",
+    "detailed": [
+        {
+            "text": "Aatmanirbharta in Defence:",
+            "confidence": 0.997,
+            "box": [
+                [
+                    231.0,
+                    59.0
+                ],
+                [
+                    848.0,
+                    61.0
+                ],
+                [
+                    848.0,
+                    104.0
+                ],
+                [
+                    231.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "5,0o0+ items added to indigenisation lists",
+            "confidence": 0.981,
+            "box": [
+                [
+                    82.0,
+                    135.0
+                ],
+                [
+                    998.0,
+                    135.0
+                ],
+                [
+                    998.0,
+                    179.0
+                ],
+                [
+                    82.0,
+                    179.0
+                ]
+            ]
+        }
+    ]
+}

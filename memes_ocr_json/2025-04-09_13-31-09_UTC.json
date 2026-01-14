@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-04-09_13-31-09_UTC.jpg",
+    "combined_text": "LYF MOVIE ACTRESS\n\"KASHIKA KAPOOR\"\nADDICTEDTOMEMES\nMANCHI DEBUT CHANCEVACHINDI\nPAPA KUDA CHALA BAGUNDI",
+    "detailed": [
+        {
+            "text": "LYF MOVIE ACTRESS",
+            "confidence": 0.97,
+            "box": [
+                [
+                    247.0,
+                    57.0
+                ],
+                [
+                    885.0,
+                    57.0
+                ],
+                [
+                    885.0,
+                    111.0
+                ],
+                [
+                    247.0,
+                    111.0
+                ]
+            ]
+        },
+        {
+            "text": "\"KASHIKA KAPOOR\"",
+            "confidence": 0.995,
+            "box": [
+                [
+                    245.0,
+                    135.0
+                ],
+                [
+                    887.0,
+                    135.0
+                ],
+                [
+                    887.0,
+                    190.0
+                ],
+                [
+                    245.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    472.0,
+                    959.0
+                ],
+                [
+                    617.0,
+                    957.0
+                ],
+                [
+                    617.0,
+                    980.0
+                ],
+                [
+                    473.0,
+                    981.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHI DEBUT CHANCEVACHINDI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    195.0,
+                    1235.0
+                ],
+                [
+                    949.0,
+                    1235.0
+                ],
+                [
+                    949.0,
+                    1272.0
+                ],
+                [
+                    195.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "PAPA KUDA CHALA BAGUNDI",
+            "confidence": 0.956,
+            "box": [
+                [
+                    250.0,
+                    1286.0
+                ],
+                [
+                    882.0,
+                    1286.0
+                ],
+                [
+                    882.0,
+                    1328.0
+                ],
+                [
+                    250.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

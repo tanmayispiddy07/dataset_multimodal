@@ -1,0 +1,468 @@
+{
+    "image_name": "2025-05-31_05-32-43_UTC.jpg",
+    "combined_text": "CineCorn.Com\n@cinecorndotcom\nExcellent Performance@BSaiSreenivas\n#Bhairavam\nGetsCinema@GetsCinema34m\nOne Word-VERYGOODFILM\n#BellamKondaSreenivasNEVER EXPECTED\nPerformance\nkalyan babu \nFollow\n@EgoistMr85158\nMass meals pettela unnadu bellam anna\nAtttt masss oora Masssss\nAction sequences &Jathara sequence aithe\nkummmi kummi avathla vesadu\nBellam anna oora mass asalu\nPeaks screen presence anthe\n#Bhairavam @BSaiSreenivas-pakka hit bomma\nADDICTEDTOMEMES\nYOU'RE AN ACTOR BRO\nEPPUDU BEST PERFORMANCE ISTHAVU",
+    "detailed": [
+        {
+            "text": "CineCorn.Com",
+            "confidence": 0.995,
+            "box": [
+                [
+                    87.0,
+                    85.0
+                ],
+                [
+                    266.0,
+                    85.0
+                ],
+                [
+                    266.0,
+                    112.0
+                ],
+                [
+                    87.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "@cinecorndotcom",
+            "confidence": 0.981,
+            "box": [
+                [
+                    88.0,
+                    117.0
+                ],
+                [
+                    284.0,
+                    117.0
+                ],
+                [
+                    284.0,
+                    137.0
+                ],
+                [
+                    88.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "Excellent Performance@BSaiSreenivas",
+            "confidence": 0.974,
+            "box": [
+                [
+                    10.0,
+                    159.0
+                ],
+                [
+                    521.0,
+                    161.0
+                ],
+                [
+                    520.0,
+                    189.0
+                ],
+                [
+                    10.0,
+                    186.0
+                ]
+            ]
+        },
+        {
+            "text": "#Bhairavam",
+            "confidence": 0.997,
+            "box": [
+                [
+                    10.0,
+                    233.0
+                ],
+                [
+                    172.0,
+                    237.0
+                ],
+                [
+                    171.0,
+                    264.0
+                ],
+                [
+                    9.0,
+                    260.0
+                ]
+            ]
+        },
+        {
+            "text": "GetsCinema@GetsCinema34m",
+            "confidence": 0.996,
+            "box": [
+                [
+                    95.0,
+                    295.0
+                ],
+                [
+                    502.0,
+                    295.0
+                ],
+                [
+                    502.0,
+                    319.0
+                ],
+                [
+                    95.0,
+                    319.0
+                ]
+            ]
+        },
+        {
+            "text": "One Word-VERYGOODFILM",
+            "confidence": 0.958,
+            "box": [
+                [
+                    92.0,
+                    329.0
+                ],
+                [
+                    449.0,
+                    329.0
+                ],
+                [
+                    449.0,
+                    356.0
+                ],
+                [
+                    92.0,
+                    356.0
+                ]
+            ]
+        },
+        {
+            "text": "#BellamKondaSreenivasNEVER EXPECTED",
+            "confidence": 0.98,
+            "box": [
+                [
+                    95.0,
+                    394.0
+                ],
+                [
+                    585.0,
+                    394.0
+                ],
+                [
+                    585.0,
+                    418.0
+                ],
+                [
+                    95.0,
+                    418.0
+                ]
+            ]
+        },
+        {
+            "text": "Performance",
+            "confidence": 0.989,
+            "box": [
+                [
+                    90.0,
+                    423.0
+                ],
+                [
+                    339.0,
+                    426.0
+                ],
+                [
+                    339.0,
+                    458.0
+                ],
+                [
+                    89.0,
+                    455.0
+                ]
+            ]
+        },
+        {
+            "text": "kalyan babu ",
+            "confidence": 0.935,
+            "box": [
+                [
+                    82.0,
+                    480.0
+                ],
+                [
+                    264.0,
+                    480.0
+                ],
+                [
+                    264.0,
+                    507.0
+                ],
+                [
+                    82.0,
+                    507.0
+                ]
+            ]
+        },
+        {
+            "text": "Follow",
+            "confidence": 0.998,
+            "box": [
+                [
+                    458.0,
+                    487.0
+                ],
+                [
+                    528.0,
+                    487.0
+                ],
+                [
+                    528.0,
+                    515.0
+                ],
+                [
+                    458.0,
+                    515.0
+                ]
+            ]
+        },
+        {
+            "text": "@EgoistMr85158",
+            "confidence": 0.998,
+            "box": [
+                [
+                    82.0,
+                    507.0
+                ],
+                [
+                    254.0,
+                    507.0
+                ],
+                [
+                    254.0,
+                    535.0
+                ],
+                [
+                    82.0,
+                    535.0
+                ]
+            ]
+        },
+        {
+            "text": "Mass meals pettela unnadu bellam anna",
+            "confidence": 0.951,
+            "box": [
+                [
+                    10.0,
+                    546.0
+                ],
+                [
+                    496.0,
+                    548.0
+                ],
+                [
+                    496.0,
+                    579.0
+                ],
+                [
+                    10.0,
+                    578.0
+                ]
+            ]
+        },
+        {
+            "text": "Atttt masss oora Masssss",
+            "confidence": 0.968,
+            "box": [
+                [
+                    11.0,
+                    581.0
+                ],
+                [
+                    322.0,
+                    584.0
+                ],
+                [
+                    322.0,
+                    612.0
+                ],
+                [
+                    10.0,
+                    609.0
+                ]
+            ]
+        },
+        {
+            "text": "Action sequences &Jathara sequence aithe",
+            "confidence": 0.981,
+            "box": [
+                [
+                    9.0,
+                    617.0
+                ],
+                [
+                    534.0,
+                    618.0
+                ],
+                [
+                    533.0,
+                    645.0
+                ],
+                [
+                    9.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "kummmi kummi avathla vesadu",
+            "confidence": 0.949,
+            "box": [
+                [
+                    13.0,
+                    653.0
+                ],
+                [
+                    388.0,
+                    653.0
+                ],
+                [
+                    388.0,
+                    677.0
+                ],
+                [
+                    13.0,
+                    677.0
+                ]
+            ]
+        },
+        {
+            "text": "Bellam anna oora mass asalu",
+            "confidence": 0.959,
+            "box": [
+                [
+                    12.0,
+                    684.0
+                ],
+                [
+                    361.0,
+                    686.0
+                ],
+                [
+                    361.0,
+                    713.0
+                ],
+                [
+                    12.0,
+                    712.0
+                ]
+            ]
+        },
+        {
+            "text": "Peaks screen presence anthe",
+            "confidence": 0.97,
+            "box": [
+                [
+                    8.0,
+                    715.0
+                ],
+                [
+                    364.0,
+                    720.0
+                ],
+                [
+                    363.0,
+                    751.0
+                ],
+                [
+                    8.0,
+                    747.0
+                ]
+            ]
+        },
+        {
+            "text": "#Bhairavam @BSaiSreenivas-pakka hit bomma",
+            "confidence": 0.974,
+            "box": [
+                [
+                    9.0,
+                    751.0
+                ],
+                [
+                    592.0,
+                    752.0
+                ],
+                [
+                    592.0,
+                    781.0
+                ],
+                [
+                    9.0,
+                    779.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    5.0,
+                    938.0
+                ],
+                [
+                    148.0,
+                    938.0
+                ],
+                [
+                    148.0,
+                    958.0
+                ],
+                [
+                    5.0,
+                    958.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU'RE AN ACTOR BRO",
+            "confidence": 0.919,
+            "box": [
+                [
+                    309.0,
+                    1134.0
+                ],
+                [
+                    814.0,
+                    1136.0
+                ],
+                [
+                    814.0,
+                    1172.0
+                ],
+                [
+                    309.0,
+                    1171.0
+                ]
+            ]
+        },
+        {
+            "text": "EPPUDU BEST PERFORMANCE ISTHAVU",
+            "confidence": 0.955,
+            "box": [
+                [
+                    140.0,
+                    1189.0
+                ],
+                [
+                    970.0,
+                    1189.0
+                ],
+                [
+                    970.0,
+                    1228.0
+                ],
+                [
+                    140.0,
+                    1228.0
+                ]
+            ]
+        }
+    ]
+}

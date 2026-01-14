@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-10-14_19-40-37_UTC.jpg",
+    "combined_text": "TOG!\nBrian Lara-400\nHighest Score In Test Cricket History\nDREAM1\nVIaA\nRohit Sharma-264\nHighest Score In ODI Cricket History\nsarcasm\nAaron Finch-172\nHighest Score In T20ICricket History",
+    "detailed": [
+        {
+            "text": "TOG!",
+            "confidence": 0.855,
+            "box": [
+                [
+                    609.0,
+                    244.0
+                ],
+                [
+                    993.0,
+                    244.0
+                ],
+                [
+                    993.0,
+                    321.0
+                ],
+                [
+                    609.0,
+                    321.0
+                ]
+            ]
+        },
+        {
+            "text": "Brian Lara-400",
+            "confidence": 0.965,
+            "box": [
+                [
+                    273.0,
+                    339.0
+                ],
+                [
+                    807.0,
+                    339.0
+                ],
+                [
+                    807.0,
+                    396.0
+                ],
+                [
+                    273.0,
+                    396.0
+                ]
+            ]
+        },
+        {
+            "text": "Highest Score In Test Cricket History",
+            "confidence": 0.994,
+            "box": [
+                [
+                    147.0,
+                    420.0
+                ],
+                [
+                    931.0,
+                    425.0
+                ],
+                [
+                    931.0,
+                    477.0
+                ],
+                [
+                    147.0,
+                    472.0
+                ]
+            ]
+        },
+        {
+            "text": "DREAM1",
+            "confidence": 0.901,
+            "box": [
+                [
+                    549.0,
+                    700.0
+                ],
+                [
+                    655.0,
+                    700.0
+                ],
+                [
+                    655.0,
+                    730.0
+                ],
+                [
+                    549.0,
+                    730.0
+                ]
+            ]
+        },
+        {
+            "text": "VIaA",
+            "confidence": 0.75,
+            "box": [
+                [
+                    583.0,
+                    729.0
+                ],
+                [
+                    644.0,
+                    729.0
+                ],
+                [
+                    644.0,
+                    766.0
+                ],
+                [
+                    583.0,
+                    766.0
+                ]
+            ]
+        },
+        {
+            "text": "Rohit Sharma-264",
+            "confidence": 0.971,
+            "box": [
+                [
+                    222.0,
+                    807.0
+                ],
+                [
+                    856.0,
+                    804.0
+                ],
+                [
+                    856.0,
+                    861.0
+                ],
+                [
+                    223.0,
+                    864.0
+                ]
+            ]
+        },
+        {
+            "text": "Highest Score In ODI Cricket History",
+            "confidence": 0.997,
+            "box": [
+                [
+                    149.0,
+                    889.0
+                ],
+                [
+                    930.0,
+                    891.0
+                ],
+                [
+                    930.0,
+                    939.0
+                ],
+                [
+                    149.0,
+                    937.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    801.0,
+                    1040.0
+                ],
+                [
+                    913.0,
+                    1040.0
+                ],
+                [
+                    913.0,
+                    1064.0
+                ],
+                [
+                    801.0,
+                    1064.0
+                ]
+            ]
+        },
+        {
+            "text": "Aaron Finch-172",
+            "confidence": 0.943,
+            "box": [
+                [
+                    258.0,
+                    1289.0
+                ],
+                [
+                    816.0,
+                    1285.0
+                ],
+                [
+                    816.0,
+                    1338.0
+                ],
+                [
+                    258.0,
+                    1341.0
+                ]
+            ]
+        },
+        {
+            "text": "Highest Score In T20ICricket History",
+            "confidence": 0.992,
+            "box": [
+                [
+                    146.0,
+                    1366.0
+                ],
+                [
+                    927.0,
+                    1370.0
+                ],
+                [
+                    926.0,
+                    1422.0
+                ],
+                [
+                    146.0,
+                    1419.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-06-06_20-43-16_UTC.jpg",
+    "combined_text": "#GrowingUpAsian\nOur showers be like:",
+    "detailed": [
+        {
+            "text": "#GrowingUpAsian",
+            "confidence": 0.999,
+            "box": [
+                [
+                    0.0,
+                    105.0
+                ],
+                [
+                    633.0,
+                    108.0
+                ],
+                [
+                    633.0,
+                    195.0
+                ],
+                [
+                    0.0,
+                    193.0
+                ]
+            ]
+        },
+        {
+            "text": "Our showers be like:",
+            "confidence": 0.968,
+            "box": [
+                [
+                    6.0,
+                    259.0
+                ],
+                [
+                    699.0,
+                    259.0
+                ],
+                [
+                    699.0,
+                    334.0
+                ],
+                [
+                    6.0,
+                    334.0
+                ]
+            ]
+        }
+    ]
+}

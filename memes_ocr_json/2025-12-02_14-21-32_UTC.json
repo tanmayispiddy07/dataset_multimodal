@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-12-02_14-21-32_UTC.jpg",
+    "combined_text": "MS DHONI AT PARUL\nUNIVERSITY,\nGUJARAT\nParulUniv\nADDICTEDTOMEMES\nParulUn\nMISSION POSSIBLE\nParut'\n**PARUL PASSEDOUTME\nNENUCOLLEGELO UNNAPUDU\nMATRAM TESUKONIRARU",
+    "detailed": [
+        {
+            "text": "MS DHONI AT PARUL",
+            "confidence": 0.966,
+            "box": [
+                [
+                    229.0,
+                    40.0
+                ],
+                [
+                    858.0,
+                    40.0
+                ],
+                [
+                    858.0,
+                    91.0
+                ],
+                [
+                    229.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "UNIVERSITY,",
+            "confidence": 0.992,
+            "box": [
+                [
+                    192.0,
+                    115.0
+                ],
+                [
+                    606.0,
+                    120.0
+                ],
+                [
+                    606.0,
+                    172.0
+                ],
+                [
+                    191.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "GUJARAT",
+            "confidence": 0.996,
+            "box": [
+                [
+                    581.0,
+                    120.0
+                ],
+                [
+                    883.0,
+                    120.0
+                ],
+                [
+                    883.0,
+                    167.0
+                ],
+                [
+                    581.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "ParulUniv",
+            "confidence": 0.983,
+            "box": [
+                [
+                    0.0,
+                    218.0
+                ],
+                [
+                    573.0,
+                    212.0
+                ],
+                [
+                    574.0,
+                    306.0
+                ],
+                [
+                    0.0,
+                    313.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.99,
+            "box": [
+                [
+                    502.0,
+                    452.0
+                ],
+                [
+                    631.0,
+                    452.0
+                ],
+                [
+                    631.0,
+                    472.0
+                ],
+                [
+                    502.0,
+                    472.0
+                ]
+            ]
+        },
+        {
+            "text": "ParulUn",
+            "confidence": 0.957,
+            "box": [
+                [
+                    32.0,
+                    505.0
+                ],
+                [
+                    183.0,
+                    512.0
+                ],
+                [
+                    182.0,
+                    547.0
+                ],
+                [
+                    30.0,
+                    540.0
+                ]
+            ]
+        },
+        {
+            "text": "MISSION POSSIBLE",
+            "confidence": 0.967,
+            "box": [
+                [
+                    316.0,
+                    516.0
+                ],
+                [
+                    563.0,
+                    510.0
+                ],
+                [
+                    564.0,
+                    541.0
+                ],
+                [
+                    317.0,
+                    547.0
+                ]
+            ]
+        },
+        {
+            "text": "Parut'",
+            "confidence": 0.802,
+            "box": [
+                [
+                    487.0,
+                    581.0
+                ],
+                [
+                    534.0,
+                    581.0
+                ],
+                [
+                    534.0,
+                    599.0
+                ],
+                [
+                    487.0,
+                    599.0
+                ]
+            ]
+        },
+        {
+            "text": "**PARUL PASSEDOUTME",
+            "confidence": 0.969,
+            "box": [
+                [
+                    499.0,
+                    927.0
+                ],
+                [
+                    1021.0,
+                    930.0
+                ],
+                [
+                    1021.0,
+                    976.0
+                ],
+                [
+                    499.0,
+                    973.0
+                ]
+            ]
+        },
+        {
+            "text": "NENUCOLLEGELO UNNAPUDU",
+            "confidence": 0.97,
+            "box": [
+                [
+                    228.0,
+                    1219.0
+                ],
+                [
+                    970.0,
+                    1221.0
+                ],
+                [
+                    970.0,
+                    1267.0
+                ],
+                [
+                    228.0,
+                    1265.0
+                ]
+            ]
+        },
+        {
+            "text": "MATRAM TESUKONIRARU",
+            "confidence": 0.97,
+            "box": [
+                [
+                    290.0,
+                    1278.0
+                ],
+                [
+                    910.0,
+                    1278.0
+                ],
+                [
+                    910.0,
+                    1324.0
+                ],
+                [
+                    290.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

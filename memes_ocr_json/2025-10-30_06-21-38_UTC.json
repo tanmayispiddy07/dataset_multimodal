@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-10-30_06-21-38_UTC.jpg",
+    "combined_text": "AFTER TAKING COLD ,\nCOUGH TABLETS\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "AFTER TAKING COLD ,",
+            "confidence": 0.987,
+            "box": [
+                [
+                    138.0,
+                    41.0
+                ],
+                [
+                    918.0,
+                    47.0
+                ],
+                [
+                    917.0,
+                    112.0
+                ],
+                [
+                    137.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "COUGH TABLETS",
+            "confidence": 0.973,
+            "box": [
+                [
+                    226.0,
+                    132.0
+                ],
+                [
+                    815.0,
+                    135.0
+                ],
+                [
+                    815.0,
+                    197.0
+                ],
+                [
+                    226.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    442.0,
+                    773.0
+                ],
+                [
+                    590.0,
+                    773.0
+                ],
+                [
+                    590.0,
+                    792.0
+                ],
+                [
+                    442.0,
+                    792.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2019-07-23_14-22-19_UTC.jpg",
+    "combined_text": "American breakups:\n\"I just think we need some space between us.\" (Walks away with sad music).\nIndian breakups:\nBreak up Break up Break up\nKing lanti umaa gaadi\nLife ye pack up\"",
+    "detailed": [
+        {
+            "text": "American breakups:",
+            "confidence": 0.976,
+            "box": [
+                [
+                    23.0,
+                    21.0
+                ],
+                [
+                    181.0,
+                    21.0
+                ],
+                [
+                    181.0,
+                    42.0
+                ],
+                [
+                    23.0,
+                    42.0
+                ]
+            ]
+        },
+        {
+            "text": "\"I just think we need some space between us.\" (Walks away with sad music).",
+            "confidence": 0.938,
+            "box": [
+                [
+                    24.0,
+                    49.0
+                ],
+                [
+                    618.0,
+                    50.0
+                ],
+                [
+                    618.0,
+                    70.0
+                ],
+                [
+                    24.0,
+                    69.0
+                ]
+            ]
+        },
+        {
+            "text": "Indian breakups:",
+            "confidence": 0.979,
+            "box": [
+                [
+                    22.0,
+                    105.0
+                ],
+                [
+                    154.0,
+                    105.0
+                ],
+                [
+                    154.0,
+                    126.0
+                ],
+                [
+                    22.0,
+                    126.0
+                ]
+            ]
+        },
+        {
+            "text": "Break up Break up Break up",
+            "confidence": 0.922,
+            "box": [
+                [
+                    21.0,
+                    131.0
+                ],
+                [
+                    250.0,
+                    133.0
+                ],
+                [
+                    249.0,
+                    154.0
+                ],
+                [
+                    21.0,
+                    152.0
+                ]
+            ]
+        },
+        {
+            "text": "King lanti umaa gaadi",
+            "confidence": 0.967,
+            "box": [
+                [
+                    22.0,
+                    160.0
+                ],
+                [
+                    194.0,
+                    160.0
+                ],
+                [
+                    194.0,
+                    181.0
+                ],
+                [
+                    22.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "Life ye pack up\"",
+            "confidence": 0.961,
+            "box": [
+                [
+                    22.0,
+                    188.0
+                ],
+                [
+                    150.0,
+                    188.0
+                ],
+                [
+                    150.0,
+                    210.0
+                ],
+                [
+                    22.0,
+                    210.0
+                ]
+            ]
+        }
+    ]
+}

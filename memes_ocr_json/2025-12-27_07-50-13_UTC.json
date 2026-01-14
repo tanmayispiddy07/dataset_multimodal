@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-12-27_07-50-13_UTC.jpg",
+    "combined_text": "PROMO OF MEGA VICTORY MASS SONG\nFULL SONG ON DEC 3OTH\nV\nMEGA VICTORY\nMASS\nFULL LYRICAL SONG ON\nDec bothe\nADDICTEDTOMEMES\nIDHIEKKADAMASSRA MAWA",
+    "detailed": [
+        {
+            "text": "PROMO OF MEGA VICTORY MASS SONG",
+            "confidence": 0.939,
+            "box": [
+                [
+                    80.0,
+                    70.0
+                ],
+                [
+                    1036.0,
+                    70.0
+                ],
+                [
+                    1036.0,
+                    112.0
+                ],
+                [
+                    80.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "FULL SONG ON DEC 3OTH",
+            "confidence": 0.963,
+            "box": [
+                [
+                    260.0,
+                    128.0
+                ],
+                [
+                    868.0,
+                    128.0
+                ],
+                [
+                    868.0,
+                    170.0
+                ],
+                [
+                    260.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "V",
+            "confidence": 0.742,
+            "box": [
+                [
+                    494.0,
+                    496.0
+                ],
+                [
+                    513.0,
+                    496.0
+                ],
+                [
+                    513.0,
+                    523.0
+                ],
+                [
+                    494.0,
+                    523.0
+                ]
+            ]
+        },
+        {
+            "text": "MEGA VICTORY",
+            "confidence": 0.937,
+            "box": [
+                [
+                    585.0,
+                    658.0
+                ],
+                [
+                    932.0,
+                    655.0
+                ],
+                [
+                    932.0,
+                    698.0
+                ],
+                [
+                    585.0,
+                    701.0
+                ]
+            ]
+        },
+        {
+            "text": "MASS",
+            "confidence": 0.968,
+            "box": [
+                [
+                    942.0,
+                    658.0
+                ],
+                [
+                    1077.0,
+                    658.0
+                ],
+                [
+                    1077.0,
+                    702.0
+                ],
+                [
+                    942.0,
+                    702.0
+                ]
+            ]
+        },
+        {
+            "text": "FULL LYRICAL SONG ON",
+            "confidence": 0.931,
+            "box": [
+                [
+                    640.0,
+                    712.0
+                ],
+                [
+                    1024.0,
+                    711.0
+                ],
+                [
+                    1024.0,
+                    748.0
+                ],
+                [
+                    640.0,
+                    750.0
+                ]
+            ]
+        },
+        {
+            "text": "Dec bothe",
+            "confidence": 0.673,
+            "box": [
+                [
+                    640.0,
+                    757.0
+                ],
+                [
+                    1028.0,
+                    737.0
+                ],
+                [
+                    1034.0,
+                    847.0
+                ],
+                [
+                    646.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    46.0,
+                    1020.0
+                ],
+                [
+                    187.0,
+                    1019.0
+                ],
+                [
+                    187.0,
+                    1041.0
+                ],
+                [
+                    47.0,
+                    1043.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHIEKKADAMASSRA MAWA",
+            "confidence": 0.975,
+            "box": [
+                [
+                    98.0,
+                    1261.0
+                ],
+                [
+                    1022.0,
+                    1261.0
+                ],
+                [
+                    1022.0,
+                    1320.0
+                ],
+                [
+                    98.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

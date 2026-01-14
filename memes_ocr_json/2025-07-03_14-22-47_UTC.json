@@ -1,0 +1,358 @@
+{
+    "image_name": "2025-07-03_14-22-47_UTC.jpg",
+    "combined_text": "THE FIRST LOOK AND LYRICAL\"ARERE\"\nFROM PREMISTHUNNAAM IS OUT NOW!\nANURAGKULKARNI'S\"VOCAL MAGIC.STARRING\nCHILD ARTIST ISATHVIK'& PREETHINEHA\nLFURLA\nIBMII\nIBM\nArere\nLyrical Video Out Now\nSIOOHARTHASALUR!S\nKANAKADURGARAD PAPPUL\nFUTURE\nNEEDS\nADDICTEDTOMEMES\nSONG BAGUNDI\nINKOSARIVINDHAM",
+    "detailed": [
+        {
+            "text": "THE FIRST LOOK AND LYRICAL\"ARERE\"",
+            "confidence": 0.944,
+            "box": [
+                [
+                    160.0,
+                    53.0
+                ],
+                [
+                    928.0,
+                    53.0
+                ],
+                [
+                    928.0,
+                    86.0
+                ],
+                [
+                    160.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM PREMISTHUNNAAM IS OUT NOW!",
+            "confidence": 0.952,
+            "box": [
+                [
+                    160.0,
+                    100.0
+                ],
+                [
+                    930.0,
+                    102.0
+                ],
+                [
+                    929.0,
+                    137.0
+                ],
+                [
+                    160.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "ANURAGKULKARNI'S\"VOCAL MAGIC.STARRING",
+            "confidence": 0.97,
+            "box": [
+                [
+                    72.0,
+                    152.0
+                ],
+                [
+                    1018.0,
+                    152.0
+                ],
+                [
+                    1018.0,
+                    185.0
+                ],
+                [
+                    72.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "text": "CHILD ARTIST ISATHVIK'& PREETHINEHA",
+            "confidence": 0.956,
+            "box": [
+                [
+                    160.0,
+                    201.0
+                ],
+                [
+                    931.0,
+                    201.0
+                ],
+                [
+                    931.0,
+                    234.0
+                ],
+                [
+                    160.0,
+                    234.0
+                ]
+            ]
+        },
+        {
+            "text": "LFURLA",
+            "confidence": 0.568,
+            "box": [
+                [
+                    53.0,
+                    297.0
+                ],
+                [
+                    93.0,
+                    297.0
+                ],
+                [
+                    93.0,
+                    309.0
+                ],
+                [
+                    53.0,
+                    309.0
+                ]
+            ]
+        },
+        {
+            "text": "IBMII",
+            "confidence": 0.875,
+            "box": [
+                [
+                    388.0,
+                    298.0
+                ],
+                [
+                    447.0,
+                    298.0
+                ],
+                [
+                    447.0,
+                    325.0
+                ],
+                [
+                    388.0,
+                    325.0
+                ]
+            ]
+        },
+        {
+            "text": "IBM",
+            "confidence": 0.943,
+            "box": [
+                [
+                    13.0,
+                    315.0
+                ],
+                [
+                    70.0,
+                    315.0
+                ],
+                [
+                    70.0,
+                    348.0
+                ],
+                [
+                    13.0,
+                    348.0
+                ]
+            ]
+        },
+        {
+            "text": "Arere",
+            "confidence": 0.996,
+            "box": [
+                [
+                    132.0,
+                    315.0
+                ],
+                [
+                    360.0,
+                    320.0
+                ],
+                [
+                    359.0,
+                    380.0
+                ],
+                [
+                    130.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "Lyrical Video Out Now",
+            "confidence": 0.96,
+            "box": [
+                [
+                    143.0,
+                    372.0
+                ],
+                [
+                    366.0,
+                    372.0
+                ],
+                [
+                    366.0,
+                    397.0
+                ],
+                [
+                    143.0,
+                    397.0
+                ]
+            ]
+        },
+        {
+            "text": "SIOOHARTHASALUR!S",
+            "confidence": 0.809,
+            "box": [
+                [
+                    359.0,
+                    403.0
+                ],
+                [
+                    461.0,
+                    403.0
+                ],
+                [
+                    461.0,
+                    424.0
+                ],
+                [
+                    359.0,
+                    424.0
+                ]
+            ]
+        },
+        {
+            "text": "KANAKADURGARAD PAPPUL",
+            "confidence": 0.905,
+            "box": [
+                [
+                    195.0,
+                    503.0
+                ],
+                [
+                    315.0,
+                    503.0
+                ],
+                [
+                    315.0,
+                    520.0
+                ],
+                [
+                    195.0,
+                    520.0
+                ]
+            ]
+        },
+        {
+            "text": "FUTURE",
+            "confidence": 0.927,
+            "box": [
+                [
+                    726.0,
+                    626.0
+                ],
+                [
+                    948.0,
+                    687.0
+                ],
+                [
+                    916.0,
+                    803.0
+                ],
+                [
+                    693.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "NEEDS",
+            "confidence": 0.927,
+            "box": [
+                [
+                    715.0,
+                    721.0
+                ],
+                [
+                    913.0,
+                    794.0
+                ],
+                [
+                    881.0,
+                    879.0
+                ],
+                [
+                    683.0,
+                    806.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    917.0,
+                    1029.0
+                ],
+                [
+                    1069.0,
+                    1029.0
+                ],
+                [
+                    1069.0,
+                    1054.0
+                ],
+                [
+                    917.0,
+                    1054.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG BAGUNDI",
+            "confidence": 0.96,
+            "box": [
+                [
+                    533.0,
+                    1215.0
+                ],
+                [
+                    913.0,
+                    1215.0
+                ],
+                [
+                    913.0,
+                    1261.0
+                ],
+                [
+                    533.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "INKOSARIVINDHAM",
+            "confidence": 0.997,
+            "box": [
+                [
+                    484.0,
+                    1272.0
+                ],
+                [
+                    963.0,
+                    1274.0
+                ],
+                [
+                    963.0,
+                    1317.0
+                ],
+                [
+                    484.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

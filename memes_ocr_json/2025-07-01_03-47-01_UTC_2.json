@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-07-01_03-47-01_UTC_2.jpg",
+    "combined_text": "ME TO DOCTOR SHE\nADDICTEDTOMEMES\nOKA ROGI NI PREMINCHALENI\nDOCTOR KUDA ROGI\nTHONE SAMANAMU",
+    "detailed": [
+        {
+            "text": "ME TO DOCTOR SHE",
+            "confidence": 0.931,
+            "box": [
+                [
+                    141.0,
+                    74.0
+                ],
+                [
+                    997.0,
+                    74.0
+                ],
+                [
+                    997.0,
+                    145.0
+                ],
+                [
+                    141.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    893.0,
+                    358.0
+                ],
+                [
+                    1049.0,
+                    358.0
+                ],
+                [
+                    1049.0,
+                    379.0
+                ],
+                [
+                    893.0,
+                    379.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA ROGI NI PREMINCHALENI",
+            "confidence": 0.944,
+            "box": [
+                [
+                    103.0,
+                    708.0
+                ],
+                [
+                    1042.0,
+                    708.0
+                ],
+                [
+                    1042.0,
+                    758.0
+                ],
+                [
+                    103.0,
+                    758.0
+                ]
+            ]
+        },
+        {
+            "text": "DOCTOR KUDA ROGI",
+            "confidence": 0.946,
+            "box": [
+                [
+                    314.0,
+                    1220.0
+                ],
+                [
+                    838.0,
+                    1220.0
+                ],
+                [
+                    838.0,
+                    1266.0
+                ],
+                [
+                    314.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "THONE SAMANAMU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    328.0,
+                    1282.0
+                ],
+                [
+                    827.0,
+                    1279.0
+                ],
+                [
+                    827.0,
+                    1327.0
+                ],
+                [
+                    328.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

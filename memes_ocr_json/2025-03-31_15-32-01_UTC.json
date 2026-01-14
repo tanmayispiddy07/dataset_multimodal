@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-31_15-32-01_UTC.jpg",
+    "combined_text": "KKR 116 ALL OUT IN 16.2 OVERS\nEXCELLENT BOWLING FROM MI\nADDICTEDTOMEMES\nIDHI AYYA MUMBAI\nINDIANS\nS ASALU ROOPAM",
+    "detailed": [
+        {
+            "text": "KKR 116 ALL OUT IN 16.2 OVERS",
+            "confidence": 0.978,
+            "box": [
+                [
+                    61.0,
+                    131.0
+                ],
+                [
+                    1016.0,
+                    131.0
+                ],
+                [
+                    1016.0,
+                    189.0
+                ],
+                [
+                    61.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCELLENT BOWLING FROM MI",
+            "confidence": 0.967,
+            "box": [
+                [
+                    75.0,
+                    210.0
+                ],
+                [
+                    1017.0,
+                    211.0
+                ],
+                [
+                    1017.0,
+                    266.0
+                ],
+                [
+                    75.0,
+                    265.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    857.0,
+                    479.0
+                ],
+                [
+                    1037.0,
+                    479.0
+                ],
+                [
+                    1037.0,
+                    503.0
+                ],
+                [
+                    857.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHI AYYA MUMBAI",
+            "confidence": 0.944,
+            "box": [
+                [
+                    305.0,
+                    801.0
+                ],
+                [
+                    842.0,
+                    801.0
+                ],
+                [
+                    842.0,
+                    848.0
+                ],
+                [
+                    305.0,
+                    848.0
+                ]
+            ]
+        },
+        {
+            "text": "INDIANS",
+            "confidence": 0.998,
+            "box": [
+                [
+                    216.0,
+                    873.0
+                ],
+                [
+                    466.0,
+                    873.0
+                ],
+                [
+                    466.0,
+                    915.0
+                ],
+                [
+                    216.0,
+                    915.0
+                ]
+            ]
+        },
+        {
+            "text": "S ASALU ROOPAM",
+            "confidence": 0.909,
+            "box": [
+                [
+                    440.0,
+                    872.0
+                ],
+                [
+                    936.0,
+                    872.0
+                ],
+                [
+                    936.0,
+                    917.0
+                ],
+                [
+                    440.0,
+                    917.0
+                ]
+            ]
+        }
+    ]
+}

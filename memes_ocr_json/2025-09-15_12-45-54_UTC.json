@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-15_12-45-54_UTC.jpg",
+    "combined_text": "SUPREME COURT GIVES CLEAN CHIT AFTER\nREVIEWING SPECIAL INVESTIGATION TEAM (SIT)\nFINDINGS, VANTARA WORKS WITHIN ALL LAWS.\nADDICTEDTOMEMES\n**ANIMAL LOVERS",
+    "detailed": [
+        {
+            "text": "SUPREME COURT GIVES CLEAN CHIT AFTER",
+            "confidence": 0.938,
+            "box": [
+                [
+                    86.0,
+                    36.0
+                ],
+                [
+                    998.0,
+                    36.0
+                ],
+                [
+                    998.0,
+                    74.0
+                ],
+                [
+                    86.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "REVIEWING SPECIAL INVESTIGATION TEAM (SIT)",
+            "confidence": 0.961,
+            "box": [
+                [
+                    37.0,
+                    88.0
+                ],
+                [
+                    1048.0,
+                    88.0
+                ],
+                [
+                    1048.0,
+                    125.0
+                ],
+                [
+                    37.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "FINDINGS, VANTARA WORKS WITHIN ALL LAWS.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    42.0,
+                    139.0
+                ],
+                [
+                    1038.0,
+                    139.0
+                ],
+                [
+                    1038.0,
+                    177.0
+                ],
+                [
+                    42.0,
+                    177.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    10.0,
+                    942.0
+                ],
+                [
+                    174.0,
+                    942.0
+                ],
+                [
+                    174.0,
+                    967.0
+                ],
+                [
+                    10.0,
+                    967.0
+                ]
+            ]
+        },
+        {
+            "text": "**ANIMAL LOVERS",
+            "confidence": 0.958,
+            "box": [
+                [
+                    492.0,
+                    1241.0
+                ],
+                [
+                    885.0,
+                    1251.0
+                ],
+                [
+                    884.0,
+                    1302.0
+                ],
+                [
+                    490.0,
+                    1293.0
+                ]
+            ]
+        }
+    ]
+}

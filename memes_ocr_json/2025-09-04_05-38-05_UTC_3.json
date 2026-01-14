@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-09-04_05-38-05_UTC_3.jpg",
+    "combined_text": "SPORTING EVENTS LIKE IPL\nHAS BEEN REVISED FROM 28%\nTO 4O%. SO NOW IPL TICKETS\nCOSTS WILL BE HIGHER\nADDICTEDTOMEMES\n**CRICKETLOVERS\nWHO PLANS TOWATCH\nMATCH IN STADIUM",
+    "detailed": [
+        {
+            "text": "SPORTING EVENTS LIKE IPL",
+            "confidence": 0.949,
+            "box": [
+                [
+                    136.0,
+                    131.0
+                ],
+                [
+                    987.0,
+                    131.0
+                ],
+                [
+                    987.0,
+                    181.0
+                ],
+                [
+                    136.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "HAS BEEN REVISED FROM 28%",
+            "confidence": 0.938,
+            "box": [
+                [
+                    82.0,
+                    206.0
+                ],
+                [
+                    1041.0,
+                    206.0
+                ],
+                [
+                    1041.0,
+                    265.0
+                ],
+                [
+                    82.0,
+                    265.0
+                ]
+            ]
+        },
+        {
+            "text": "TO 4O%. SO NOW IPL TICKETS",
+            "confidence": 0.953,
+            "box": [
+                [
+                    75.0,
+                    284.0
+                ],
+                [
+                    1049.0,
+                    284.0
+                ],
+                [
+                    1049.0,
+                    343.0
+                ],
+                [
+                    75.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "COSTS WILL BE HIGHER",
+            "confidence": 0.992,
+            "box": [
+                [
+                    186.0,
+                    362.0
+                ],
+                [
+                    917.0,
+                    365.0
+                ],
+                [
+                    917.0,
+                    421.0
+                ],
+                [
+                    186.0,
+                    418.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    10.0,
+                    689.0
+                ],
+                [
+                    174.0,
+                    689.0
+                ],
+                [
+                    174.0,
+                    714.0
+                ],
+                [
+                    10.0,
+                    714.0
+                ]
+            ]
+        },
+        {
+            "text": "**CRICKETLOVERS",
+            "confidence": 0.987,
+            "box": [
+                [
+                    545.0,
+                    1081.0
+                ],
+                [
+                    979.0,
+                    1089.0
+                ],
+                [
+                    978.0,
+                    1136.0
+                ],
+                [
+                    544.0,
+                    1129.0
+                ]
+            ]
+        },
+        {
+            "text": "WHO PLANS TOWATCH",
+            "confidence": 0.942,
+            "box": [
+                [
+                    498.0,
+                    1143.0
+                ],
+                [
+                    1031.0,
+                    1146.0
+                ],
+                [
+                    1031.0,
+                    1188.0
+                ],
+                [
+                    498.0,
+                    1185.0
+                ]
+            ]
+        },
+        {
+            "text": "MATCH IN STADIUM",
+            "confidence": 0.941,
+            "box": [
+                [
+                    541.0,
+                    1204.0
+                ],
+                [
+                    986.0,
+                    1204.0
+                ],
+                [
+                    986.0,
+                    1242.0
+                ],
+                [
+                    541.0,
+                    1242.0
+                ]
+            ]
+        }
+    ]
+}

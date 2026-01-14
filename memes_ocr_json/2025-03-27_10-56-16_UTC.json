@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-03-27_10-56-16_UTC.jpg",
+    "combined_text": "MEGHAALU CHEPPINA PREMA KATHA\nINTRIGUING TITLE AND FIRST LOOK\nDIRECTED BY VIPIN SHIVA ANAND\nPRODUCED BY UMA DEVI KOTA\nnt Pit. Lte\nRABIYA KHATOON\nNARESH AGASTYA\n3e\nFILMBY VIPIN\nPRODUCED BY UMA DEVI KOTA\nADDICTEDTOMEMES\nNAKU ILANTI FEEL GOOD LOVE STORY\nMOVIES ANTE CHALA ISTAM RA",
+    "detailed": [
+        {
+            "text": "MEGHAALU CHEPPINA PREMA KATHA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    188.0,
+                    6.0
+                ],
+                [
+                    959.0,
+                    6.0
+                ],
+                [
+                    959.0,
+                    39.0
+                ],
+                [
+                    188.0,
+                    39.0
+                ]
+            ]
+        },
+        {
+            "text": "INTRIGUING TITLE AND FIRST LOOK",
+            "confidence": 0.964,
+            "box": [
+                [
+                    219.0,
+                    53.0
+                ],
+                [
+                    927.0,
+                    53.0
+                ],
+                [
+                    927.0,
+                    91.0
+                ],
+                [
+                    219.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "DIRECTED BY VIPIN SHIVA ANAND",
+            "confidence": 0.94,
+            "box": [
+                [
+                    245.0,
+                    102.0
+                ],
+                [
+                    914.0,
+                    102.0
+                ],
+                [
+                    914.0,
+                    139.0
+                ],
+                [
+                    245.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCED BY UMA DEVI KOTA",
+            "confidence": 0.943,
+            "box": [
+                [
+                    266.0,
+                    151.0
+                ],
+                [
+                    880.0,
+                    151.0
+                ],
+                [
+                    880.0,
+                    188.0
+                ],
+                [
+                    266.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "nt Pit. Lte",
+            "confidence": 0.652,
+            "box": [
+                [
+                    593.0,
+                    309.0
+                ],
+                [
+                    633.0,
+                    309.0
+                ],
+                [
+                    633.0,
+                    323.0
+                ],
+                [
+                    593.0,
+                    323.0
+                ]
+            ]
+        },
+        {
+            "text": "RABIYA KHATOON",
+            "confidence": 0.975,
+            "box": [
+                [
+                    626.0,
+                    748.0
+                ],
+                [
+                    735.0,
+                    748.0
+                ],
+                [
+                    735.0,
+                    769.0
+                ],
+                [
+                    626.0,
+                    769.0
+                ]
+            ]
+        },
+        {
+            "text": "NARESH AGASTYA",
+            "confidence": 0.976,
+            "box": [
+                [
+                    945.0,
+                    748.0
+                ],
+                [
+                    1059.0,
+                    748.0
+                ],
+                [
+                    1059.0,
+                    769.0
+                ],
+                [
+                    945.0,
+                    769.0
+                ]
+            ]
+        },
+        {
+            "text": "3e",
+            "confidence": 0.546,
+            "box": [
+                [
+                    819.0,
+                    775.0
+                ],
+                [
+                    878.0,
+                    763.0
+                ],
+                [
+                    884.0,
+                    791.0
+                ],
+                [
+                    825.0,
+                    803.0
+                ]
+            ]
+        },
+        {
+            "text": "FILMBY VIPIN",
+            "confidence": 0.9,
+            "box": [
+                [
+                    709.0,
+                    948.0
+                ],
+                [
+                    802.0,
+                    948.0
+                ],
+                [
+                    802.0,
+                    964.0
+                ],
+                [
+                    709.0,
+                    964.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCED BY UMA DEVI KOTA",
+            "confidence": 0.905,
+            "box": [
+                [
+                    792.0,
+                    946.0
+                ],
+                [
+                    980.0,
+                    946.0
+                ],
+                [
+                    980.0,
+                    963.0
+                ],
+                [
+                    792.0,
+                    963.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.955,
+            "box": [
+                [
+                    37.0,
+                    1086.0
+                ],
+                [
+                    153.0,
+                    1086.0
+                ],
+                [
+                    153.0,
+                    1102.0
+                ],
+                [
+                    37.0,
+                    1102.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU ILANTI FEEL GOOD LOVE STORY",
+            "confidence": 0.948,
+            "box": [
+                [
+                    163.0,
+                    1228.0
+                ],
+                [
+                    965.0,
+                    1229.0
+                ],
+                [
+                    965.0,
+                    1271.0
+                ],
+                [
+                    163.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIES ANTE CHALA ISTAM RA",
+            "confidence": 0.942,
+            "box": [
+                [
+                    233.0,
+                    1282.0
+                ],
+                [
+                    901.0,
+                    1282.0
+                ],
+                [
+                    901.0,
+                    1320.0
+                ],
+                [
+                    233.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

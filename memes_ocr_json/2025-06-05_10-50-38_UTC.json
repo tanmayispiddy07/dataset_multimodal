@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-06-05_10-50-38_UTC.jpg",
+    "combined_text": "My favourite\nguests are coming\nsarcasm",
+    "detailed": [
+        {
+            "text": "My favourite",
+            "confidence": 0.981,
+            "box": [
+                [
+                    202.0,
+                    83.0
+                ],
+                [
+                    428.0,
+                    83.0
+                ],
+                [
+                    428.0,
+                    121.0
+                ],
+                [
+                    202.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "guests are coming",
+            "confidence": 1.0,
+            "box": [
+                [
+                    138.0,
+                    136.0
+                ],
+                [
+                    461.0,
+                    135.0
+                ],
+                [
+                    461.0,
+                    173.0
+                ],
+                [
+                    138.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    126.0,
+                    724.0
+                ],
+                [
+                    189.0,
+                    724.0
+                ],
+                [
+                    189.0,
+                    740.0
+                ],
+                [
+                    126.0,
+                    740.0
+                ]
+            ]
+        }
+    ]
+}

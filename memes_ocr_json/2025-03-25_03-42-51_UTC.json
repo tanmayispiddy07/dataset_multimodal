@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-25_03-42-51_UTC.jpg",
+    "combined_text": "OREYIVALLANI APPANDI RA BABU\nVALLA TEAM MANCHIGA AADUTHE\nADDICTEDTOMEMES\nMANCHI BATTING TEAM PERFORMANCE\nANTARU VERE VALLU AADUTHE PITCH EFFECT\nFLOW LO KOTTARU GELICHARU ANTARU",
+    "detailed": [
+        {
+            "text": "OREYIVALLANI APPANDI RA BABU",
+            "confidence": 0.951,
+            "box": [
+                [
+                    142.0,
+                    406.0
+                ],
+                [
+                    1010.0,
+                    406.0
+                ],
+                [
+                    1010.0,
+                    446.0
+                ],
+                [
+                    142.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLA TEAM MANCHIGA AADUTHE",
+            "confidence": 0.975,
+            "box": [
+                [
+                    128.0,
+                    463.0
+                ],
+                [
+                    1010.0,
+                    465.0
+                ],
+                [
+                    1010.0,
+                    508.0
+                ],
+                [
+                    128.0,
+                    507.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    60.0,
+                    679.0
+                ],
+                [
+                    213.0,
+                    679.0
+                ],
+                [
+                    213.0,
+                    699.0
+                ],
+                [
+                    60.0,
+                    699.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHI BATTING TEAM PERFORMANCE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    138.0,
+                    885.0
+                ],
+                [
+                    933.0,
+                    885.0
+                ],
+                [
+                    933.0,
+                    915.0
+                ],
+                [
+                    138.0,
+                    915.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTARU VERE VALLU AADUTHE PITCH EFFECT",
+            "confidence": 0.942,
+            "box": [
+                [
+                    87.0,
+                    934.0
+                ],
+                [
+                    987.0,
+                    934.0
+                ],
+                [
+                    987.0,
+                    964.0
+                ],
+                [
+                    87.0,
+                    964.0
+                ]
+            ]
+        },
+        {
+            "text": "FLOW LO KOTTARU GELICHARU ANTARU",
+            "confidence": 0.948,
+            "box": [
+                [
+                    136.0,
+                    982.0
+                ],
+                [
+                    932.0,
+                    982.0
+                ],
+                [
+                    932.0,
+                    1015.0
+                ],
+                [
+                    136.0,
+                    1015.0
+                ]
+            ]
+        }
+    ]
+}

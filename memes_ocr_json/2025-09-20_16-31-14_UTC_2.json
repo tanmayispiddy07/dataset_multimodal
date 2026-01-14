@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-09-20_16-31-14_UTC_2.jpg",
+    "combined_text": "Iconic tribute to SRK",
+    "detailed": [
+        {
+            "text": "Iconic tribute to SRK",
+            "confidence": 0.964,
+            "box": [
+                [
+                    106.0,
+                    74.0
+                ],
+                [
+                    459.0,
+                    74.0
+                ],
+                [
+                    459.0,
+                    106.0
+                ],
+                [
+                    106.0,
+                    106.0
+                ]
+            ]
+        }
+    ]
+}

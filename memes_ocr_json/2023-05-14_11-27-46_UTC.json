@@ -1,0 +1,182 @@
+{
+    "image_name": "2023-05-14_11-27-46_UTC.jpg",
+    "combined_text": "BAYATA SOCIETY MANA GURINCHI MANAM\nENTHA BEWARS ANUKUNA SAREY...\nVIDEO\nMANA AMMA DRUSTILO MANAM EH HERO\nVIDEO\nMANA AMMA DRUSTILO MANAM EH THOPEEE\nTELUGU MEMES GURU\nMANA AMMA KI MANAM EH PRAPANCHAM.",
+    "detailed": [
+        {
+            "text": "BAYATA SOCIETY MANA GURINCHI MANAM",
+            "confidence": 0.96,
+            "box": [
+                [
+                    63.0,
+                    69.0
+                ],
+                [
+                    1001.0,
+                    69.0
+                ],
+                [
+                    1001.0,
+                    103.0
+                ],
+                [
+                    63.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTHA BEWARS ANUKUNA SAREY...",
+            "confidence": 0.975,
+            "box": [
+                [
+                    131.0,
+                    111.0
+                ],
+                [
+                    910.0,
+                    114.0
+                ],
+                [
+                    910.0,
+                    156.0
+                ],
+                [
+                    131.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "VIDEO",
+            "confidence": 0.996,
+            "box": [
+                [
+                    976.0,
+                    214.0
+                ],
+                [
+                    1062.0,
+                    214.0
+                ],
+                [
+                    1062.0,
+                    240.0
+                ],
+                [
+                    976.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA AMMA DRUSTILO MANAM EH HERO",
+            "confidence": 0.942,
+            "box": [
+                [
+                    76.0,
+                    533.0
+                ],
+                [
+                    1008.0,
+                    533.0
+                ],
+                [
+                    1008.0,
+                    571.0
+                ],
+                [
+                    76.0,
+                    571.0
+                ]
+            ]
+        },
+        {
+            "text": "VIDEO",
+            "confidence": 0.997,
+            "box": [
+                [
+                    963.0,
+                    589.0
+                ],
+                [
+                    1052.0,
+                    589.0
+                ],
+                [
+                    1052.0,
+                    615.0
+                ],
+                [
+                    963.0,
+                    615.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA AMMA DRUSTILO MANAM EH THOPEEE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    65.0,
+                    908.0
+                ],
+                [
+                    1015.0,
+                    908.0
+                ],
+                [
+                    1015.0,
+                    941.0
+                ],
+                [
+                    65.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.895,
+            "box": [
+                [
+                    938.0,
+                    1127.0
+                ],
+                [
+                    1067.0,
+                    1127.0
+                ],
+                [
+                    1067.0,
+                    1148.0
+                ],
+                [
+                    938.0,
+                    1148.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA AMMA KI MANAM EH PRAPANCHAM.",
+            "confidence": 0.951,
+            "box": [
+                [
+                    125.0,
+                    1289.0
+                ],
+                [
+                    1035.0,
+                    1289.0
+                ],
+                [
+                    1035.0,
+                    1322.0
+                ],
+                [
+                    125.0,
+                    1322.0
+                ]
+            ]
+        }
+    ]
+}

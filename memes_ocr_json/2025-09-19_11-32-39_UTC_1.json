@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-19_11-32-39_UTC_1.jpg",
+    "combined_text": "Kashyap brings magic\nto the big screen again\nwith Nishaanchi",
+    "detailed": [
+        {
+            "text": "Kashyap brings magic",
+            "confidence": 0.988,
+            "box": [
+                [
+                    161.0,
+                    1052.0
+                ],
+                [
+                    920.0,
+                    1056.0
+                ],
+                [
+                    919.0,
+                    1128.0
+                ],
+                [
+                    160.0,
+                    1123.0
+                ]
+            ]
+        },
+        {
+            "text": "to the big screen again",
+            "confidence": 0.996,
+            "box": [
+                [
+                    143.0,
+                    1129.0
+                ],
+                [
+                    934.0,
+                    1128.0
+                ],
+                [
+                    934.0,
+                    1199.0
+                ],
+                [
+                    144.0,
+                    1201.0
+                ]
+            ]
+        },
+        {
+            "text": "with Nishaanchi",
+            "confidence": 0.994,
+            "box": [
+                [
+                    174.0,
+                    1216.0
+                ],
+                [
+                    719.0,
+                    1216.0
+                ],
+                [
+                    719.0,
+                    1278.0
+                ],
+                [
+                    174.0,
+                    1278.0
+                ]
+            ]
+        }
+    ]
+}

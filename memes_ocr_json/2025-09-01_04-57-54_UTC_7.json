@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-01_04-57-54_UTC_7.jpg",
+    "combined_text": "Shows I want to experience again\nfor the first time\nNETFLIX\nANETFLIX ORIGINAL SERIES\nS1",
+    "detailed": [
+        {
+            "text": "Shows I want to experience again",
+            "confidence": 0.974,
+            "box": [
+                [
+                    121.0,
+                    73.0
+                ],
+                [
+                    956.0,
+                    75.0
+                ],
+                [
+                    956.0,
+                    128.0
+                ],
+                [
+                    121.0,
+                    127.0
+                ]
+            ]
+        },
+        {
+            "text": "for the first time",
+            "confidence": 0.986,
+            "box": [
+                [
+                    256.0,
+                    143.0
+                ],
+                [
+                    668.0,
+                    146.0
+                ],
+                [
+                    668.0,
+                    197.0
+                ],
+                [
+                    256.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "NETFLIX",
+            "confidence": 0.995,
+            "box": [
+                [
+                    435.0,
+                    319.0
+                ],
+                [
+                    643.0,
+                    319.0
+                ],
+                [
+                    643.0,
+                    384.0
+                ],
+                [
+                    435.0,
+                    384.0
+                ]
+            ]
+        },
+        {
+            "text": "ANETFLIX ORIGINAL SERIES",
+            "confidence": 0.97,
+            "box": [
+                [
+                    364.0,
+                    433.0
+                ],
+                [
+                    723.0,
+                    433.0
+                ],
+                [
+                    723.0,
+                    456.0
+                ],
+                [
+                    364.0,
+                    456.0
+                ]
+            ]
+        },
+        {
+            "text": "S1",
+            "confidence": 0.539,
+            "box": [
+                [
+                    248.0,
+                    513.0
+                ],
+                [
+                    342.0,
+                    520.0
+                ],
+                [
+                    336.0,
+                    596.0
+                ],
+                [
+                    242.0,
+                    589.0
+                ]
+            ]
+        }
+    ]
+}

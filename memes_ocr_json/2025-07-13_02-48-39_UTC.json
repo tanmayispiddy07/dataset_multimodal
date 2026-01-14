@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-07-13_02-48-39_UTC.jpg",
+    "combined_text": "KOTA SRINIVASA RAO\nGARU IS NO MORE\nADDICTEDTOMEMES\nONE OF THE BEST COMEDIANS\nACTED IN MORE THAN 85O+ FILMS",
+    "detailed": [
+        {
+            "text": "KOTA SRINIVASA RAO",
+            "confidence": 0.998,
+            "box": [
+                [
+                    207.0,
+                    51.0
+                ],
+                [
+                    903.0,
+                    54.0
+                ],
+                [
+                    903.0,
+                    110.0
+                ],
+                [
+                    207.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "GARU IS NO MORE",
+            "confidence": 0.973,
+            "box": [
+                [
+                    250.0,
+                    137.0
+                ],
+                [
+                    844.0,
+                    137.0
+                ],
+                [
+                    844.0,
+                    187.0
+                ],
+                [
+                    250.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.989,
+            "box": [
+                [
+                    494.0,
+                    369.0
+                ],
+                [
+                    638.0,
+                    369.0
+                ],
+                [
+                    638.0,
+                    390.0
+                ],
+                [
+                    494.0,
+                    390.0
+                ]
+            ]
+        },
+        {
+            "text": "ONE OF THE BEST COMEDIANS",
+            "confidence": 0.94,
+            "box": [
+                [
+                    153.0,
+                    1183.0
+                ],
+                [
+                    911.0,
+                    1183.0
+                ],
+                [
+                    911.0,
+                    1229.0
+                ],
+                [
+                    153.0,
+                    1229.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTED IN MORE THAN 85O+ FILMS",
+            "confidence": 0.935,
+            "box": [
+                [
+                    114.0,
+                    1245.0
+                ],
+                [
+                    966.0,
+                    1246.0
+                ],
+                [
+                    966.0,
+                    1293.0
+                ],
+                [
+                    114.0,
+                    1292.0
+                ]
+            ]
+        }
+    ]
+}

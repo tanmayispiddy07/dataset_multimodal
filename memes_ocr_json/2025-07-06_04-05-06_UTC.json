@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-07-06_04-05-06_UTC.jpg",
+    "combined_text": "Me after saying I am on diet\nsarcasm",
+    "detailed": [
+        {
+            "text": "Me after saying I am on diet",
+            "confidence": 0.939,
+            "box": [
+                [
+                    109.0,
+                    157.0
+                ],
+                [
+                    432.0,
+                    157.0
+                ],
+                [
+                    432.0,
+                    185.0
+                ],
+                [
+                    109.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.968,
+            "box": [
+                [
+                    303.0,
+                    626.0
+                ],
+                [
+                    337.0,
+                    626.0
+                ],
+                [
+                    337.0,
+                    636.0
+                ],
+                [
+                    303.0,
+                    636.0
+                ]
+            ]
+        }
+    ]
+}

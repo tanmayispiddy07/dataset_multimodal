@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-07-21_08-29-30_UTC.jpg",
+    "combined_text": "o SooaWes o 3e3 S8 o\neSW- $8y8 aeeS S3e3 gS3\n3o8S 8xe(35) eSwyes 53yg Se0 3)\nINTHEERAOFTHIS\naoeoesone5e\nADDICTEDTOMEMES\nFIND A GIRL LIKE PARAMAJYOTHI\nWHODON'T HURTANYONE",
+    "detailed": [
+        {
+            "text": "o SooaWes o 3e3 S8 o",
+            "confidence": 0.522,
+            "box": [
+                [
+                    195.0,
+                    10.0
+                ],
+                [
+                    952.0,
+                    7.0
+                ],
+                [
+                    952.0,
+                    53.0
+                ],
+                [
+                    196.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "eSW- $8y8 aeeS S3e3 gS3",
+            "confidence": 0.604,
+            "box": [
+                [
+                    186.0,
+                    155.0
+                ],
+                [
+                    928.0,
+                    155.0
+                ],
+                [
+                    928.0,
+                    205.0
+                ],
+                [
+                    186.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "3o8S 8xe(35) eSwyes 53yg Se0 3)",
+            "confidence": 0.696,
+            "box": [
+                [
+                    182.0,
+                    207.0
+                ],
+                [
+                    937.0,
+                    215.0
+                ],
+                [
+                    936.0,
+                    271.0
+                ],
+                [
+                    181.0,
+                    262.0
+                ]
+            ]
+        },
+        {
+            "text": "INTHEERAOFTHIS",
+            "confidence": 0.991,
+            "box": [
+                [
+                    167.0,
+                    362.0
+                ],
+                [
+                    945.0,
+                    362.0
+                ],
+                [
+                    945.0,
+                    434.0
+                ],
+                [
+                    167.0,
+                    434.0
+                ]
+            ]
+        },
+        {
+            "text": "aoeoesone5e",
+            "confidence": 0.594,
+            "box": [
+                [
+                    221.0,
+                    841.0
+                ],
+                [
+                    741.0,
+                    841.0
+                ],
+                [
+                    741.0,
+                    882.0
+                ],
+                [
+                    221.0,
+                    882.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    52.0,
+                    1045.0
+                ],
+                [
+                    208.0,
+                    1045.0
+                ],
+                [
+                    208.0,
+                    1061.0
+                ],
+                [
+                    52.0,
+                    1061.0
+                ]
+            ]
+        },
+        {
+            "text": "FIND A GIRL LIKE PARAMAJYOTHI",
+            "confidence": 0.938,
+            "box": [
+                [
+                    179.0,
+                    1224.0
+                ],
+                [
+                    963.0,
+                    1224.0
+                ],
+                [
+                    963.0,
+                    1265.0
+                ],
+                [
+                    179.0,
+                    1265.0
+                ]
+            ]
+        },
+        {
+            "text": "WHODON'T HURTANYONE",
+            "confidence": 0.961,
+            "box": [
+                [
+                    256.0,
+                    1279.0
+                ],
+                [
+                    887.0,
+                    1279.0
+                ],
+                [
+                    887.0,
+                    1325.0
+                ],
+                [
+                    256.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

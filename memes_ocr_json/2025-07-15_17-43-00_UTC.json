@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-07-15_17-43-00_UTC.jpg",
+    "combined_text": "Thats the reason girls live more\nsarcasm",
+    "detailed": [
+        {
+            "text": "Thats the reason girls live more",
+            "confidence": 0.98,
+            "box": [
+                [
+                    76.0,
+                    154.0
+                ],
+                [
+                    462.0,
+                    154.0
+                ],
+                [
+                    462.0,
+                    182.0
+                ],
+                [
+                    76.0,
+                    182.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.986,
+            "box": [
+                [
+                    105.0,
+                    510.0
+                ],
+                [
+                    168.0,
+                    510.0
+                ],
+                [
+                    168.0,
+                    523.0
+                ],
+                [
+                    105.0,
+                    523.0
+                ]
+            ]
+        }
+    ]
+}

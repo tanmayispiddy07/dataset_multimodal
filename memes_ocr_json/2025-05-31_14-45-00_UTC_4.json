@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-05-31_14-45-00_UTC_4.jpg",
+    "combined_text": "sarcasm\nNew Design\nThe thinnest iphone ever at 5.5mm thick",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    590.0,
+                    519.0
+                ],
+                [
+                    718.0,
+                    519.0
+                ],
+                [
+                    718.0,
+                    549.0
+                ],
+                [
+                    590.0,
+                    549.0
+                ]
+            ]
+        },
+        {
+            "text": "New Design",
+            "confidence": 0.982,
+            "box": [
+                [
+                    27.0,
+                    992.0
+                ],
+                [
+                    425.0,
+                    998.0
+                ],
+                [
+                    424.0,
+                    1063.0
+                ],
+                [
+                    26.0,
+                    1057.0
+                ]
+            ]
+        },
+        {
+            "text": "The thinnest iphone ever at 5.5mm thick",
+            "confidence": 0.999,
+            "box": [
+                [
+                    36.0,
+                    1100.0
+                ],
+                [
+                    988.0,
+                    1100.0
+                ],
+                [
+                    988.0,
+                    1145.0
+                ],
+                [
+                    36.0,
+                    1145.0
+                ]
+            ]
+        }
+    ]
+}

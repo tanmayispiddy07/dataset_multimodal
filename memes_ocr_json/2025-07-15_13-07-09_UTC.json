@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-07-15_13-07-09_UTC.jpg",
+    "combined_text": "INTERSTING TRAILER OF\n\"POLICE VARI HECCHARIKA\"\nADDICTEDTOMEMES\nIDHI EKKADA MASS TRAILER RA MAWA",
+    "detailed": [
+        {
+            "text": "INTERSTING TRAILER OF",
+            "confidence": 0.96,
+            "box": [
+                [
+                    219.0,
+                    46.0
+                ],
+                [
+                    928.0,
+                    46.0
+                ],
+                [
+                    928.0,
+                    96.0
+                ],
+                [
+                    219.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "\"POLICE VARI HECCHARIKA\"",
+            "confidence": 0.969,
+            "box": [
+                [
+                    159.0,
+                    114.0
+                ],
+                [
+                    987.0,
+                    119.0
+                ],
+                [
+                    987.0,
+                    170.0
+                ],
+                [
+                    159.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    470.0,
+                    629.0
+                ],
+                [
+                    619.0,
+                    629.0
+                ],
+                [
+                    619.0,
+                    649.0
+                ],
+                [
+                    470.0,
+                    649.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHI EKKADA MASS TRAILER RA MAWA",
+            "confidence": 0.937,
+            "box": [
+                [
+                    53.0,
+                    1278.0
+                ],
+                [
+                    1017.0,
+                    1278.0
+                ],
+                [
+                    1017.0,
+                    1324.0
+                ],
+                [
+                    53.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

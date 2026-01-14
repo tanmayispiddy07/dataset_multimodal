@@ -1,0 +1,666 @@
+{
+    "image_name": "2023-05-29_16-16-17_UTC.jpg",
+    "combined_text": "YOUTHBLOCKBUSTER\nrajamouliss\n@ssrajamouli\n3.1\n3DAYS\nAfter a long time thoroughly enjoyed a\nfilm in the theatre.Watch out for this\nguy Sumanth.He has a bright future\nboth as an actor and director.All the\ncharacters were nicely etched and\nactors performed naturally.Especially\nCRORES GROSS\nAnji mama.Highly recommend it to\nWORLDWIDE\neveryone.\nYouth ni encourage cheyyale.Dham\ndham cheyyoddhu.#MemFamous\nLast edited 3:31PM29 May 23\n1,367 Retweets 306 Quotes\n11.9K Likes\nFAMOUS!\nt7\nNOWIN\nHEATRES\nGFD\nTOLLYWOOD\nCELEBRITES\nMANCHI CINEMA VASTHEY PRAISE CHEYYAKUNDA\nUNDALEMU\nADHI MAA BALAHEENATHA",
+    "detailed": [
+        {
+            "text": "YOUTHBLOCKBUSTER",
+            "confidence": 0.988,
+            "box": [
+                [
+                    537.0,
+                    9.0
+                ],
+                [
+                    1079.0,
+                    11.0
+                ],
+                [
+                    1079.0,
+                    53.0
+                ],
+                [
+                    537.0,
+                    51.0
+                ]
+            ]
+        },
+        {
+            "text": "rajamouliss",
+            "confidence": 0.991,
+            "box": [
+                [
+                    96.0,
+                    38.0
+                ],
+                [
+                    270.0,
+                    35.0
+                ],
+                [
+                    270.0,
+                    67.0
+                ],
+                [
+                    96.0,
+                    70.0
+                ]
+            ]
+        },
+        {
+            "text": "@ssrajamouli",
+            "confidence": 0.994,
+            "box": [
+                [
+                    99.0,
+                    68.0
+                ],
+                [
+                    252.0,
+                    68.0
+                ],
+                [
+                    252.0,
+                    97.0
+                ],
+                [
+                    99.0,
+                    97.0
+                ]
+            ]
+        },
+        {
+            "text": "3.1",
+            "confidence": 0.952,
+            "box": [
+                [
+                    587.0,
+                    77.0
+                ],
+                [
+                    1004.0,
+                    77.0
+                ],
+                [
+                    1004.0,
+                    333.0
+                ],
+                [
+                    587.0,
+                    333.0
+                ]
+            ]
+        },
+        {
+            "text": "3DAYS",
+            "confidence": 0.972,
+            "box": [
+                [
+                    749.0,
+                    69.0
+                ],
+                [
+                    875.0,
+                    69.0
+                ],
+                [
+                    875.0,
+                    99.0
+                ],
+                [
+                    749.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "After a long time thoroughly enjoyed a",
+            "confidence": 0.975,
+            "box": [
+                [
+                    16.0,
+                    116.0
+                ],
+                [
+                    518.0,
+                    117.0
+                ],
+                [
+                    518.0,
+                    151.0
+                ],
+                [
+                    16.0,
+                    150.0
+                ]
+            ]
+        },
+        {
+            "text": "film in the theatre.Watch out for this",
+            "confidence": 0.975,
+            "box": [
+                [
+                    15.0,
+                    153.0
+                ],
+                [
+                    498.0,
+                    154.0
+                ],
+                [
+                    498.0,
+                    186.0
+                ],
+                [
+                    15.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "text": "guy Sumanth.He has a bright future",
+            "confidence": 0.973,
+            "box": [
+                [
+                    16.0,
+                    193.0
+                ],
+                [
+                    490.0,
+                    192.0
+                ],
+                [
+                    490.0,
+                    224.0
+                ],
+                [
+                    16.0,
+                    225.0
+                ]
+            ]
+        },
+        {
+            "text": "both as an actor and director.All the",
+            "confidence": 0.967,
+            "box": [
+                [
+                    19.0,
+                    230.0
+                ],
+                [
+                    493.0,
+                    230.0
+                ],
+                [
+                    493.0,
+                    258.0
+                ],
+                [
+                    19.0,
+                    258.0
+                ]
+            ]
+        },
+        {
+            "text": "characters were nicely etched and",
+            "confidence": 0.966,
+            "box": [
+                [
+                    16.0,
+                    266.0
+                ],
+                [
+                    471.0,
+                    266.0
+                ],
+                [
+                    471.0,
+                    298.0
+                ],
+                [
+                    16.0,
+                    298.0
+                ]
+            ]
+        },
+        {
+            "text": "actors performed naturally.Especially",
+            "confidence": 0.981,
+            "box": [
+                [
+                    18.0,
+                    304.0
+                ],
+                [
+                    513.0,
+                    304.0
+                ],
+                [
+                    513.0,
+                    336.0
+                ],
+                [
+                    18.0,
+                    336.0
+                ]
+            ]
+        },
+        {
+            "text": "CRORES GROSS",
+            "confidence": 0.96,
+            "box": [
+                [
+                    643.0,
+                    313.0
+                ],
+                [
+                    972.0,
+                    313.0
+                ],
+                [
+                    972.0,
+                    355.0
+                ],
+                [
+                    643.0,
+                    355.0
+                ]
+            ]
+        },
+        {
+            "text": "Anji mama.Highly recommend it to",
+            "confidence": 0.982,
+            "box": [
+                [
+                    16.0,
+                    340.0
+                ],
+                [
+                    479.0,
+                    339.0
+                ],
+                [
+                    479.0,
+                    371.0
+                ],
+                [
+                    16.0,
+                    373.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLDWIDE",
+            "confidence": 0.95,
+            "box": [
+                [
+                    671.0,
+                    358.0
+                ],
+                [
+                    946.0,
+                    358.0
+                ],
+                [
+                    946.0,
+                    396.0
+                ],
+                [
+                    671.0,
+                    396.0
+                ]
+            ]
+        },
+        {
+            "text": "everyone.",
+            "confidence": 0.997,
+            "box": [
+                [
+                    18.0,
+                    379.0
+                ],
+                [
+                    148.0,
+                    379.0
+                ],
+                [
+                    148.0,
+                    409.0
+                ],
+                [
+                    18.0,
+                    409.0
+                ]
+            ]
+        },
+        {
+            "text": "Youth ni encourage cheyyale.Dham",
+            "confidence": 0.972,
+            "box": [
+                [
+                    16.0,
+                    451.0
+                ],
+                [
+                    487.0,
+                    451.0
+                ],
+                [
+                    487.0,
+                    483.0
+                ],
+                [
+                    16.0,
+                    483.0
+                ]
+            ]
+        },
+        {
+            "text": "dham cheyyoddhu.#MemFamous",
+            "confidence": 0.991,
+            "box": [
+                [
+                    18.0,
+                    489.0
+                ],
+                [
+                    468.0,
+                    489.0
+                ],
+                [
+                    468.0,
+                    521.0
+                ],
+                [
+                    18.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "text": "Last edited 3:31PM29 May 23",
+            "confidence": 0.93,
+            "box": [
+                [
+                    20.0,
+                    533.0
+                ],
+                [
+                    387.0,
+                    533.0
+                ],
+                [
+                    387.0,
+                    562.0
+                ],
+                [
+                    20.0,
+                    562.0
+                ]
+            ]
+        },
+        {
+            "text": "1,367 Retweets 306 Quotes",
+            "confidence": 0.946,
+            "box": [
+                [
+                    18.0,
+                    605.0
+                ],
+                [
+                    347.0,
+                    605.0
+                ],
+                [
+                    347.0,
+                    629.0
+                ],
+                [
+                    18.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "11.9K Likes",
+            "confidence": 0.948,
+            "box": [
+                [
+                    358.0,
+                    605.0
+                ],
+                [
+                    487.0,
+                    605.0
+                ],
+                [
+                    487.0,
+                    629.0
+                ],
+                [
+                    358.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMOUS!",
+            "confidence": 0.904,
+            "box": [
+                [
+                    744.0,
+                    614.0
+                ],
+                [
+                    883.0,
+                    604.0
+                ],
+                [
+                    887.0,
+                    655.0
+                ],
+                [
+                    748.0,
+                    665.0
+                ]
+            ]
+        },
+        {
+            "text": "t7",
+            "confidence": 0.636,
+            "box": [
+                [
+                    150.0,
+                    672.0
+                ],
+                [
+                    192.0,
+                    672.0
+                ],
+                [
+                    192.0,
+                    706.0
+                ],
+                [
+                    150.0,
+                    706.0
+                ]
+            ]
+        },
+        {
+            "text": "NOWIN",
+            "confidence": 0.984,
+            "box": [
+                [
+                    533.0,
+                    690.0
+                ],
+                [
+                    583.0,
+                    690.0
+                ],
+                [
+                    583.0,
+                    706.0
+                ],
+                [
+                    533.0,
+                    706.0
+                ]
+            ]
+        },
+        {
+            "text": "HEATRES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    535.0,
+                    702.0
+                ],
+                [
+                    587.0,
+                    702.0
+                ],
+                [
+                    587.0,
+                    718.0
+                ],
+                [
+                    535.0,
+                    718.0
+                ]
+            ]
+        },
+        {
+            "text": "GFD",
+            "confidence": 0.839,
+            "box": [
+                [
+                    585.0,
+                    694.0
+                ],
+                [
+                    626.0,
+                    694.0
+                ],
+                [
+                    626.0,
+                    716.0
+                ],
+                [
+                    585.0,
+                    716.0
+                ]
+            ]
+        },
+        {
+            "text": "TOLLYWOOD",
+            "confidence": 0.868,
+            "box": [
+                [
+                    678.0,
+                    864.0
+                ],
+                [
+                    981.0,
+                    863.0
+                ],
+                [
+                    982.0,
+                    904.0
+                ],
+                [
+                    678.0,
+                    906.0
+                ]
+            ]
+        },
+        {
+            "text": "CELEBRITES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    686.0,
+                    918.0
+                ],
+                [
+                    949.0,
+                    918.0
+                ],
+                [
+                    949.0,
+                    956.0
+                ],
+                [
+                    686.0,
+                    956.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHI CINEMA VASTHEY PRAISE CHEYYAKUNDA",
+            "confidence": 0.956,
+            "box": [
+                [
+                    9.0,
+                    1195.0
+                ],
+                [
+                    1072.0,
+                    1195.0
+                ],
+                [
+                    1072.0,
+                    1227.0
+                ],
+                [
+                    9.0,
+                    1227.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDALEMU",
+            "confidence": 0.996,
+            "box": [
+                [
+                    124.0,
+                    1243.0
+                ],
+                [
+                    382.0,
+                    1243.0
+                ],
+                [
+                    382.0,
+                    1276.0
+                ],
+                [
+                    124.0,
+                    1276.0
+                ]
+            ]
+        },
+        {
+            "text": "ADHI MAA BALAHEENATHA",
+            "confidence": 0.966,
+            "box": [
+                [
+                    370.0,
+                    1241.0
+                ],
+                [
+                    953.0,
+                    1242.0
+                ],
+                [
+                    953.0,
+                    1278.0
+                ],
+                [
+                    370.0,
+                    1277.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-04-13_04-16-01_UTC.jpg",
+    "combined_text": "MASS MAHARAJA RAVI TEJA LAUNCHED THE\nMELODIOUS \"IRU KANULU KANULU\"FROM\nSHASHTIPOORTHI.ILAIYARAJA TUNE, WRITTEN BY\nRAHMAN, SUNG BY SP CHARAN & VIBHAVARI APTE\nMod\nThaipu\nNeeku Na\nADDICTEDTOMEMES\nAHAA SONG LO\nROMANCECUTEUNDI",
+    "detailed": [
+        {
+            "text": "MASS MAHARAJA RAVI TEJA LAUNCHED THE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    115.0,
+                    33.0
+                ],
+                [
+                    939.0,
+                    33.0
+                ],
+                [
+                    939.0,
+                    66.0
+                ],
+                [
+                    115.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "MELODIOUS \"IRU KANULU KANULU\"FROM",
+            "confidence": 0.931,
+            "box": [
+                [
+                    138.0,
+                    80.0
+                ],
+                [
+                    920.0,
+                    80.0
+                ],
+                [
+                    920.0,
+                    109.0
+                ],
+                [
+                    138.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "SHASHTIPOORTHI.ILAIYARAJA TUNE, WRITTEN BY",
+            "confidence": 0.97,
+            "box": [
+                [
+                    68.0,
+                    123.0
+                ],
+                [
+                    990.0,
+                    123.0
+                ],
+                [
+                    990.0,
+                    156.0
+                ],
+                [
+                    68.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "RAHMAN, SUNG BY SP CHARAN & VIBHAVARI APTE",
+            "confidence": 0.929,
+            "box": [
+                [
+                    60.0,
+                    167.0
+                ],
+                [
+                    996.0,
+                    166.0
+                ],
+                [
+                    996.0,
+                    200.0
+                ],
+                [
+                    61.0,
+                    202.0
+                ]
+            ]
+        },
+        {
+            "text": "Mod",
+            "confidence": 0.997,
+            "box": [
+                [
+                    347.0,
+                    324.0
+                ],
+                [
+                    558.0,
+                    339.0
+                ],
+                [
+                    551.0,
+                    435.0
+                ],
+                [
+                    339.0,
+                    419.0
+                ]
+            ]
+        },
+        {
+            "text": "Thaipu",
+            "confidence": 0.957,
+            "box": [
+                [
+                    2.0,
+                    581.0
+                ],
+                [
+                    405.0,
+                    594.0
+                ],
+                [
+                    401.0,
+                    694.0
+                ],
+                [
+                    0.0,
+                    680.0
+                ]
+            ]
+        },
+        {
+            "text": "Neeku Na",
+            "confidence": 0.925,
+            "box": [
+                [
+                    778.0,
+                    572.0
+                ],
+                [
+                    1079.0,
+                    599.0
+                ],
+                [
+                    1075.0,
+                    660.0
+                ],
+                [
+                    772.0,
+                    633.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    862.0,
+                    1038.0
+                ],
+                [
+                    1021.0,
+                    1038.0
+                ],
+                [
+                    1021.0,
+                    1059.0
+                ],
+                [
+                    862.0,
+                    1059.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAA SONG LO",
+            "confidence": 0.954,
+            "box": [
+                [
+                    495.0,
+                    1185.0
+                ],
+                [
+                    954.0,
+                    1187.0
+                ],
+                [
+                    953.0,
+                    1239.0
+                ],
+                [
+                    495.0,
+                    1236.0
+                ]
+            ]
+        },
+        {
+            "text": "ROMANCECUTEUNDI",
+            "confidence": 0.997,
+            "box": [
+                [
+                    414.0,
+                    1255.0
+                ],
+                [
+                    1039.0,
+                    1258.0
+                ],
+                [
+                    1039.0,
+                    1309.0
+                ],
+                [
+                    413.0,
+                    1306.0
+                ]
+            ]
+        }
+    ]
+}

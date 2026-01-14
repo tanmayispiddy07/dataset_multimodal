@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-12_17-54-51_UTC_3.jpg",
+    "combined_text": "sarcasm\nInterior Minister Mohsin Naqvi\nassured the team of full protection\nand guaranteed players' safety",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    485.0,
+                    1040.0
+                ],
+                [
+                    599.0,
+                    1040.0
+                ],
+                [
+                    599.0,
+                    1063.0
+                ],
+                [
+                    485.0,
+                    1063.0
+                ]
+            ]
+        },
+        {
+            "text": "Interior Minister Mohsin Naqvi",
+            "confidence": 0.994,
+            "box": [
+                [
+                    129.0,
+                    1102.0
+                ],
+                [
+                    952.0,
+                    1102.0
+                ],
+                [
+                    952.0,
+                    1155.0
+                ],
+                [
+                    129.0,
+                    1155.0
+                ]
+            ]
+        },
+        {
+            "text": "assured the team of full protection",
+            "confidence": 0.97,
+            "box": [
+                [
+                    60.0,
+                    1176.0
+                ],
+                [
+                    1015.0,
+                    1176.0
+                ],
+                [
+                    1015.0,
+                    1224.0
+                ],
+                [
+                    60.0,
+                    1224.0
+                ]
+            ]
+        },
+        {
+            "text": "and guaranteed players' safety",
+            "confidence": 1.0,
+            "box": [
+                [
+                    101.0,
+                    1241.0
+                ],
+                [
+                    979.0,
+                    1245.0
+                ],
+                [
+                    979.0,
+                    1308.0
+                ],
+                [
+                    101.0,
+                    1304.0
+                ]
+            ]
+        }
+    ]
+}

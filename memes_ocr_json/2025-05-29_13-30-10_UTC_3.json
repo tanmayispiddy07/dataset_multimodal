@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-05-29_13-30-10_UTC_3.jpg",
+    "combined_text": "SCRAWLED\nSTORIES\nWhen he smells like expensive wood\nand bad decisions",
+    "detailed": [
+        {
+            "text": "SCRAWLED",
+            "confidence": 0.998,
+            "box": [
+                [
+                    45.0,
+                    44.0
+                ],
+                [
+                    201.0,
+                    44.0
+                ],
+                [
+                    201.0,
+                    75.0
+                ],
+                [
+                    45.0,
+                    75.0
+                ]
+            ]
+        },
+        {
+            "text": "STORIES",
+            "confidence": 0.997,
+            "box": [
+                [
+                    61.0,
+                    73.0
+                ],
+                [
+                    184.0,
+                    76.0
+                ],
+                [
+                    184.0,
+                    104.0
+                ],
+                [
+                    60.0,
+                    101.0
+                ]
+            ]
+        },
+        {
+            "text": "When he smells like expensive wood",
+            "confidence": 0.984,
+            "box": [
+                [
+                    128.0,
+                    211.0
+                ],
+                [
+                    949.0,
+                    214.0
+                ],
+                [
+                    949.0,
+                    263.0
+                ],
+                [
+                    128.0,
+                    260.0
+                ]
+            ]
+        },
+        {
+            "text": "and bad decisions",
+            "confidence": 0.983,
+            "box": [
+                [
+                    335.0,
+                    270.0
+                ],
+                [
+                    744.0,
+                    273.0
+                ],
+                [
+                    744.0,
+                    318.0
+                ],
+                [
+                    335.0,
+                    315.0
+                ]
+            ]
+        }
+    ]
+}

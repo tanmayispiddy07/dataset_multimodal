@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-04-20_14-37-45_UTC.jpg",
+    "combined_text": "AUDIENCE LOVING \"ARJUN SON OF VYJAYANTHI\"\nAND PRAISING THE DIRECTOR WORK ESPECIALLY\nIN INTERVAL AND CLIMAX ARE TALK OF THE TOWN\nNOW\nADDICTEDTOMEMES\n**DIRECTOR PRADEEP\nCHILUKURI",
+    "detailed": [
+        {
+            "text": "AUDIENCE LOVING \"ARJUN SON OF VYJAYANTHI\"",
+            "confidence": 0.919,
+            "box": [
+                [
+                    74.0,
+                    50.0
+                ],
+                [
+                    1025.0,
+                    50.0
+                ],
+                [
+                    1025.0,
+                    82.0
+                ],
+                [
+                    74.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "AND PRAISING THE DIRECTOR WORK ESPECIALLY",
+            "confidence": 0.94,
+            "box": [
+                [
+                    74.0,
+                    98.0
+                ],
+                [
+                    1029.0,
+                    98.0
+                ],
+                [
+                    1029.0,
+                    130.0
+                ],
+                [
+                    74.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "IN INTERVAL AND CLIMAX ARE TALK OF THE TOWN",
+            "confidence": 0.939,
+            "box": [
+                [
+                    59.0,
+                    143.0
+                ],
+                [
+                    1045.0,
+                    143.0
+                ],
+                [
+                    1045.0,
+                    180.0
+                ],
+                [
+                    59.0,
+                    180.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW",
+            "confidence": 0.798,
+            "box": [
+                [
+                    4.0,
+                    857.0
+                ],
+                [
+                    38.0,
+                    857.0
+                ],
+                [
+                    38.0,
+                    876.0
+                ],
+                [
+                    4.0,
+                    876.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    14.0,
+                    1052.0
+                ],
+                [
+                    188.0,
+                    1052.0
+                ],
+                [
+                    188.0,
+                    1076.0
+                ],
+                [
+                    14.0,
+                    1076.0
+                ]
+            ]
+        },
+        {
+            "text": "**DIRECTOR PRADEEP",
+            "confidence": 0.957,
+            "box": [
+                [
+                    536.0,
+                    1141.0
+                ],
+                [
+                    995.0,
+                    1147.0
+                ],
+                [
+                    995.0,
+                    1192.0
+                ],
+                [
+                    536.0,
+                    1187.0
+                ]
+            ]
+        },
+        {
+            "text": "CHILUKURI",
+            "confidence": 0.996,
+            "box": [
+                [
+                    655.0,
+                    1200.0
+                ],
+                [
+                    882.0,
+                    1200.0
+                ],
+                [
+                    882.0,
+                    1238.0
+                ],
+                [
+                    655.0,
+                    1238.0
+                ]
+            ]
+        }
+    ]
+}

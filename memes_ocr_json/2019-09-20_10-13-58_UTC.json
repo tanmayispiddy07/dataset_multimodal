@@ -1,0 +1,204 @@
+{
+    "image_name": "2019-09-20_10-13-58_UTC.jpg",
+    "combined_text": "*my sister\nbrother..computer sarigga\npanicheyatledu em cheyamantav\nADIT\n*me\nha sare sare.. restart cheyy\nSEKTERTOMONRO\nOOSAMOSATIMESOAMOSA.TIMES\nmy brathar.. software engineer",
+    "detailed": [
+        {
+            "text": "*my sister",
+            "confidence": 0.922,
+            "box": [
+                [
+                    538.0,
+                    7.0
+                ],
+                [
+                    674.0,
+                    7.0
+                ],
+                [
+                    674.0,
+                    42.0
+                ],
+                [
+                    538.0,
+                    42.0
+                ]
+            ]
+        },
+        {
+            "text": "brother..computer sarigga",
+            "confidence": 0.97,
+            "box": [
+                [
+                    207.0,
+                    177.0
+                ],
+                [
+                    585.0,
+                    185.0
+                ],
+                [
+                    585.0,
+                    219.0
+                ],
+                [
+                    207.0,
+                    212.0
+                ]
+            ]
+        },
+        {
+            "text": "panicheyatledu em cheyamantav",
+            "confidence": 0.967,
+            "box": [
+                [
+                    158.0,
+                    220.0
+                ],
+                [
+                    640.0,
+                    218.0
+                ],
+                [
+                    640.0,
+                    251.0
+                ],
+                [
+                    158.0,
+                    253.0
+                ]
+            ]
+        },
+        {
+            "text": "ADIT",
+            "confidence": 0.901,
+            "box": [
+                [
+                    633.0,
+                    229.0
+                ],
+                [
+                    733.0,
+                    229.0
+                ],
+                [
+                    733.0,
+                    248.0
+                ],
+                [
+                    633.0,
+                    248.0
+                ]
+            ]
+        },
+        {
+            "text": "*me",
+            "confidence": 0.889,
+            "box": [
+                [
+                    348.0,
+                    307.0
+                ],
+                [
+                    420.0,
+                    317.0
+                ],
+                [
+                    415.0,
+                    353.0
+                ],
+                [
+                    343.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "ha sare sare.. restart cheyy",
+            "confidence": 0.958,
+            "box": [
+                [
+                    175.0,
+                    485.0
+                ],
+                [
+                    565.0,
+                    490.0
+                ],
+                [
+                    565.0,
+                    527.0
+                ],
+                [
+                    175.0,
+                    523.0
+                ]
+            ]
+        },
+        {
+            "text": "SEKTERTOMONRO",
+            "confidence": 0.593,
+            "box": [
+                [
+                    400.0,
+                    535.0
+                ],
+                [
+                    545.0,
+                    535.0
+                ],
+                [
+                    545.0,
+                    554.0
+                ],
+                [
+                    400.0,
+                    554.0
+                ]
+            ]
+        },
+        {
+            "text": "OOSAMOSATIMESOAMOSA.TIMES",
+            "confidence": 0.802,
+            "box": [
+                [
+                    563.0,
+                    564.0
+                ],
+                [
+                    807.0,
+                    564.0
+                ],
+                [
+                    807.0,
+                    582.0
+                ],
+                [
+                    563.0,
+                    582.0
+                ]
+            ]
+        },
+        {
+            "text": "my brathar.. software engineer",
+            "confidence": 0.941,
+            "box": [
+                [
+                    196.0,
+                    771.0
+                ],
+                [
+                    630.0,
+                    773.0
+                ],
+                [
+                    630.0,
+                    807.0
+                ],
+                [
+                    196.0,
+                    806.0
+                ]
+            ]
+        }
+    ]
+}

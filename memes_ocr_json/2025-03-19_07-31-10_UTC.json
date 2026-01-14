@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-19_07-31-10_UTC.jpg",
+    "combined_text": "OVER 13,OOO STUDENTS SKIPPED\nPHYSICS-IIE ECONOMICS-II\nEXAMS IN TELANGANA\nADDICTEDTOMEMES\nANOTHER EXAMPLE THAT NEETI\nBACHALE REPATI LUCHALU....",
+    "detailed": [
+        {
+            "text": "OVER 13,OOO STUDENTS SKIPPED",
+            "confidence": 0.957,
+            "box": [
+                [
+                    119.0,
+                    25.0
+                ],
+                [
+                    986.0,
+                    26.0
+                ],
+                [
+                    986.0,
+                    76.0
+                ],
+                [
+                    119.0,
+                    75.0
+                ]
+            ]
+        },
+        {
+            "text": "PHYSICS-IIE ECONOMICS-II",
+            "confidence": 0.932,
+            "box": [
+                [
+                    189.0,
+                    96.0
+                ],
+                [
+                    918.0,
+                    96.0
+                ],
+                [
+                    918.0,
+                    139.0
+                ],
+                [
+                    189.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "EXAMS IN TELANGANA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    247.0,
+                    161.0
+                ],
+                [
+                    857.0,
+                    161.0
+                ],
+                [
+                    857.0,
+                    208.0
+                ],
+                [
+                    247.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    38.0,
+                    834.0
+                ],
+                [
+                    169.0,
+                    832.0
+                ],
+                [
+                    169.0,
+                    847.0
+                ],
+                [
+                    39.0,
+                    850.0
+                ]
+            ]
+        },
+        {
+            "text": "ANOTHER EXAMPLE THAT NEETI",
+            "confidence": 0.98,
+            "box": [
+                [
+                    60.0,
+                    942.0
+                ],
+                [
+                    1032.0,
+                    944.0
+                ],
+                [
+                    1032.0,
+                    998.0
+                ],
+                [
+                    60.0,
+                    995.0
+                ]
+            ]
+        },
+        {
+            "text": "BACHALE REPATI LUCHALU....",
+            "confidence": 0.967,
+            "box": [
+                [
+                    92.0,
+                    1012.0
+                ],
+                [
+                    987.0,
+                    1021.0
+                ],
+                [
+                    987.0,
+                    1082.0
+                ],
+                [
+                    91.0,
+                    1074.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-18_13-09-50_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nRAASHI KHANNA'S PERFORMANCEE\nIN TELSU KADHA,IS SOMETHING THAT'LL\nIMPRESS YOU ACROSS THE FILM\nME EVERYTIME WHILE WATCHING\nRAASHI KHANNA IN TELUSU KADHA",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    475.0,
+                    149.0
+                ],
+                [
+                    647.0,
+                    149.0
+                ],
+                [
+                    647.0,
+                    170.0
+                ],
+                [
+                    475.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "RAASHI KHANNA'S PERFORMANCEE",
+            "confidence": 0.935,
+            "box": [
+                [
+                    267.0,
+                    744.0
+                ],
+                [
+                    831.0,
+                    744.0
+                ],
+                [
+                    831.0,
+                    778.0
+                ],
+                [
+                    267.0,
+                    778.0
+                ]
+            ]
+        },
+        {
+            "text": "IN TELSU KADHA,IS SOMETHING THAT'LL",
+            "confidence": 0.948,
+            "box": [
+                [
+                    215.0,
+                    787.0
+                ],
+                [
+                    878.0,
+                    787.0
+                ],
+                [
+                    878.0,
+                    817.0
+                ],
+                [
+                    215.0,
+                    817.0
+                ]
+            ]
+        },
+        {
+            "text": "IMPRESS YOU ACROSS THE FILM",
+            "confidence": 0.939,
+            "box": [
+                [
+                    285.0,
+                    826.0
+                ],
+                [
+                    802.0,
+                    826.0
+                ],
+                [
+                    802.0,
+                    856.0
+                ],
+                [
+                    285.0,
+                    856.0
+                ]
+            ]
+        },
+        {
+            "text": "ME EVERYTIME WHILE WATCHING",
+            "confidence": 0.949,
+            "box": [
+                [
+                    328.0,
+                    1239.0
+                ],
+                [
+                    942.0,
+                    1239.0
+                ],
+                [
+                    942.0,
+                    1272.0
+                ],
+                [
+                    328.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "RAASHI KHANNA IN TELUSU KADHA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    293.0,
+                    1282.0
+                ],
+                [
+                    970.0,
+                    1284.0
+                ],
+                [
+                    970.0,
+                    1321.0
+                ],
+                [
+                    292.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-11-23_16-02-17_UTC_2.jpg",
+    "combined_text": "Diljit's run across Australia and New Zealand set new\nbenchmarks for Indian music globally in Aura Tour",
+    "detailed": [
+        {
+            "text": "Diljit's run across Australia and New Zealand set new",
+            "confidence": 0.962,
+            "box": [
+                [
+                    42.0,
+                    48.0
+                ],
+                [
+                    641.0,
+                    50.0
+                ],
+                [
+                    641.0,
+                    78.0
+                ],
+                [
+                    42.0,
+                    76.0
+                ]
+            ]
+        },
+        {
+            "text": "benchmarks for Indian music globally in Aura Tour",
+            "confidence": 0.974,
+            "box": [
+                [
+                    55.0,
+                    83.0
+                ],
+                [
+                    624.0,
+                    84.0
+                ],
+                [
+                    624.0,
+                    111.0
+                ],
+                [
+                    55.0,
+                    110.0
+                ]
+            ]
+        }
+    ]
+}

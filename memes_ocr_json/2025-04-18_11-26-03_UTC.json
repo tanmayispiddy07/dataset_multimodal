@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-04-18_11-26-03_UTC.jpg",
+    "combined_text": "SARANGAPANI JATHAKAM TRAILER LOOKS\nLIKE COMPLETE SUMMER ENTERTAINMENT\nMOVIE RELEASING ON APRIL 25TH\nADDICTEDTOMEMES\nTRAILER LONEINTHA FUN UNTE\nINKAMOVIE LOELA UNTADHO",
+    "detailed": [
+        {
+            "text": "SARANGAPANI JATHAKAM TRAILER LOOKS",
+            "confidence": 0.968,
+            "box": [
+                [
+                    76.0,
+                    40.0
+                ],
+                [
+                    1027.0,
+                    39.0
+                ],
+                [
+                    1027.0,
+                    78.0
+                ],
+                [
+                    76.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "LIKE COMPLETE SUMMER ENTERTAINMENT",
+            "confidence": 0.968,
+            "box": [
+                [
+                    86.0,
+                    95.0
+                ],
+                [
+                    1005.0,
+                    95.0
+                ],
+                [
+                    1005.0,
+                    132.0
+                ],
+                [
+                    86.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON APRIL 25TH",
+            "confidence": 0.985,
+            "box": [
+                [
+                    173.0,
+                    146.0
+                ],
+                [
+                    932.0,
+                    146.0
+                ],
+                [
+                    932.0,
+                    188.0
+                ],
+                [
+                    173.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.99,
+            "box": [
+                [
+                    471.0,
+                    1040.0
+                ],
+                [
+                    613.0,
+                    1041.0
+                ],
+                [
+                    613.0,
+                    1064.0
+                ],
+                [
+                    471.0,
+                    1062.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILER LONEINTHA FUN UNTE",
+            "confidence": 0.945,
+            "box": [
+                [
+                    214.0,
+                    1231.0
+                ],
+                [
+                    904.0,
+                    1232.0
+                ],
+                [
+                    904.0,
+                    1271.0
+                ],
+                [
+                    214.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "INKAMOVIE LOELA UNTADHO",
+            "confidence": 0.961,
+            "box": [
+                [
+                    222.0,
+                    1281.0
+                ],
+                [
+                    896.0,
+                    1282.0
+                ],
+                [
+                    896.0,
+                    1325.0
+                ],
+                [
+                    222.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

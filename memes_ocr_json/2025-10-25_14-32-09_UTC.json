@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-25_14-32-09_UTC.jpg",
+    "combined_text": "THE MOST ANTICIPATED\nTHE GIRL FRIEND TRAILER OUT NOW\nADDICTEDTOMEMES\n**ME AFTER WATCHING ANU\nEMMANUEL AFTER MANY DAYS",
+    "detailed": [
+        {
+            "text": "THE MOST ANTICIPATED",
+            "confidence": 0.96,
+            "box": [
+                [
+                    222.0,
+                    50.0
+                ],
+                [
+                    842.0,
+                    50.0
+                ],
+                [
+                    842.0,
+                    97.0
+                ],
+                [
+                    222.0,
+                    97.0
+                ]
+            ]
+        },
+        {
+            "text": "THE GIRL FRIEND TRAILER OUT NOW",
+            "confidence": 0.944,
+            "box": [
+                [
+                    70.0,
+                    113.0
+                ],
+                [
+                    1011.0,
+                    112.0
+                ],
+                [
+                    1011.0,
+                    160.0
+                ],
+                [
+                    70.0,
+                    162.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    465.0,
+                    677.0
+                ],
+                [
+                    620.0,
+                    677.0
+                ],
+                [
+                    620.0,
+                    701.0
+                ],
+                [
+                    465.0,
+                    701.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME AFTER WATCHING ANU",
+            "confidence": 0.946,
+            "box": [
+                [
+                    260.0,
+                    924.0
+                ],
+                [
+                    683.0,
+                    927.0
+                ],
+                [
+                    683.0,
+                    958.0
+                ],
+                [
+                    260.0,
+                    956.0
+                ]
+            ]
+        },
+        {
+            "text": "EMMANUEL AFTER MANY DAYS",
+            "confidence": 0.945,
+            "box": [
+                [
+                    239.0,
+                    966.0
+                ],
+                [
+                    700.0,
+                    966.0
+                ],
+                [
+                    700.0,
+                    994.0
+                ],
+                [
+                    239.0,
+                    994.0
+                ]
+            ]
+        }
+    ]
+}

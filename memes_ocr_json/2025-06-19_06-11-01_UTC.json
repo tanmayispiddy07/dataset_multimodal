@@ -1,0 +1,1414 @@
+{
+    "image_name": "2025-06-19_06-11-01_UTC.jpg",
+    "combined_text": "EPPUDU BUSY GA UNTAV ASALU EM CHESTHAVU??\nMEANWHILE MOVIE LOVERME:-AFTER WATCHING\nA GOOD MOVIE INOTT AND UPDATING THE LIST\nKishi's Movie Su...+\nKishi's Movie Su...\nWild wild Punjab(Netflix) Telugu\nMusic Shop Murthy prime)Telugu\nNna Than Case Kodu Telugu & Tamil)\nCa Topper (Netflix) Telugu 9 episodes in\nHotstar\nlast Wife will left with someone twist)\nNakili Telugu &tamil) YouTube\nHit List (Prime) Telugu\nPani (Sony LIV)Telugu &Malayalam\nPT Sir(Prime)Telugu\nThe Secret of the Shiledars (Telugu &\nMaayon (prime) Telugu\nHindi) Hotstar 6 episodes\nThe Birthday Boy (Aha) Telugu\nADDICTEDTOMEMES\nIdentityTelugu &Malayalam)Zee5\nGolam (PrimeMalayalam\nhaseen dillrubaNetflix)2 parts Telugu\nNunakkuzhi (Telugu&Malayalam)Zee5\nYennanga Sir Unga Sattam (Sonyliv)\nGuruvayoor Ambalanadayil (Telugu&\nTelugu Tamil\nMalayalam) Hotstar\nAbraham Ozler (Telugu,Malayalam)\nPonman (Telugu &Malayalam)Hotstar\n(Hotstar)\nPravinkoodu shappu (Telugu &Malyalam)\nShekar Home 6 Episodes(TeluguHindi)\nsonyLiv\nJio Cinema\nJabilamma Neeku Antha Kopama(Telugu)\nPariyerum Perumal (Tamil) Prime\nPrime\n5/8\nWelcome Home (Telugu)YouTube\nMaharaj(Telugu&Hindi Netflix\nGentle Woman (Telugu) Prime\nTalvar(Hindi)Hotstar\nBlack white &grey (telugu)sonyliv 6 epds\nGyaarah Gyaarah (Hindi)zee5 8Episodes\nAparadhi (telugu aha\nThe Last Page (TeluguYouTube\nAsur(Telugu)hotstar 2 seasons\nThalvan (Telugu &Malayalam) Sonyliv\n7/8\nVaazha Telugu &Malayalam) Hotstar\nAnaganaga (Telugu)Etv win\nSector 36(Telugu&Hindi)Netflix\nTourist Family (Telugu & Tamil) Hotstar\nMaruthi Nagar Subramanyam (Telugu) aha\nUnsolved MurderCase(Telugu) YouTube\nCtrlTelugu+Hindi)Netflix\nStolen (Hindi)Prime\nUndekhi (Telugu+Hindi)3 seasons\nSonyliv\nJaatTelugu&Hindi)Netflix\nPadakkalam (Telugu & malayalam) hotstar\nExhuma(Telugu &Korea)Prime\nArmTelugu &Malayalam)Hotstar",
+    "detailed": [
+        {
+            "text": "EPPUDU BUSY GA UNTAV ASALU EM CHESTHAVU??",
+            "confidence": 0.957,
+            "box": [
+                [
+                    39.0,
+                    16.0
+                ],
+                [
+                    1060.0,
+                    16.0
+                ],
+                [
+                    1060.0,
+                    54.0
+                ],
+                [
+                    39.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "MEANWHILE MOVIE LOVERME:-AFTER WATCHING",
+            "confidence": 0.956,
+            "box": [
+                [
+                    51.0,
+                    87.0
+                ],
+                [
+                    1037.0,
+                    87.0
+                ],
+                [
+                    1037.0,
+                    120.0
+                ],
+                [
+                    51.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "A GOOD MOVIE INOTT AND UPDATING THE LIST",
+            "confidence": 0.929,
+            "box": [
+                [
+                    74.0,
+                    136.0
+                ],
+                [
+                    1015.0,
+                    136.0
+                ],
+                [
+                    1015.0,
+                    169.0
+                ],
+                [
+                    74.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "Kishi's Movie Su...+",
+            "confidence": 0.912,
+            "box": [
+                [
+                    74.0,
+                    187.0
+                ],
+                [
+                    462.0,
+                    186.0
+                ],
+                [
+                    462.0,
+                    219.0
+                ],
+                [
+                    74.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "Kishi's Movie Su...",
+            "confidence": 0.945,
+            "box": [
+                [
+                    614.0,
+                    208.0
+                ],
+                [
+                    906.0,
+                    209.0
+                ],
+                [
+                    906.0,
+                    242.0
+                ],
+                [
+                    614.0,
+                    241.0
+                ]
+            ]
+        },
+        {
+            "text": "Wild wild Punjab(Netflix) Telugu",
+            "confidence": 0.934,
+            "box": [
+                [
+                    34.0,
+                    242.0
+                ],
+                [
+                    381.0,
+                    245.0
+                ],
+                [
+                    381.0,
+                    274.0
+                ],
+                [
+                    34.0,
+                    271.0
+                ]
+            ]
+        },
+        {
+            "text": "Music Shop Murthy prime)Telugu",
+            "confidence": 0.945,
+            "box": [
+                [
+                    35.0,
+                    279.0
+                ],
+                [
+                    421.0,
+                    279.0
+                ],
+                [
+                    421.0,
+                    304.0
+                ],
+                [
+                    35.0,
+                    304.0
+                ]
+            ]
+        },
+        {
+            "text": "Nna Than Case Kodu Telugu & Tamil)",
+            "confidence": 0.927,
+            "box": [
+                [
+                    566.0,
+                    274.0
+                ],
+                [
+                    1007.0,
+                    274.0
+                ],
+                [
+                    1007.0,
+                    302.0
+                ],
+                [
+                    566.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "Ca Topper (Netflix) Telugu 9 episodes in",
+            "confidence": 0.932,
+            "box": [
+                [
+                    32.0,
+                    308.0
+                ],
+                [
+                    466.0,
+                    309.0
+                ],
+                [
+                    466.0,
+                    338.0
+                ],
+                [
+                    32.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "text": "Hotstar",
+            "confidence": 0.994,
+            "box": [
+                [
+                    564.0,
+                    308.0
+                ],
+                [
+                    662.0,
+                    308.0
+                ],
+                [
+                    662.0,
+                    338.0
+                ],
+                [
+                    564.0,
+                    338.0
+                ]
+            ]
+        },
+        {
+            "text": "last Wife will left with someone twist)",
+            "confidence": 0.958,
+            "box": [
+                [
+                    34.0,
+                    341.0
+                ],
+                [
+                    435.0,
+                    344.0
+                ],
+                [
+                    435.0,
+                    370.0
+                ],
+                [
+                    34.0,
+                    367.0
+                ]
+            ]
+        },
+        {
+            "text": "Nakili Telugu &tamil) YouTube",
+            "confidence": 0.937,
+            "box": [
+                [
+                    566.0,
+                    345.0
+                ],
+                [
+                    934.0,
+                    345.0
+                ],
+                [
+                    934.0,
+                    374.0
+                ],
+                [
+                    566.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "Hit List (Prime) Telugu",
+            "confidence": 0.946,
+            "box": [
+                [
+                    34.0,
+                    374.0
+                ],
+                [
+                    274.0,
+                    374.0
+                ],
+                [
+                    274.0,
+                    403.0
+                ],
+                [
+                    34.0,
+                    403.0
+                ]
+            ]
+        },
+        {
+            "text": "Pani (Sony LIV)Telugu &Malayalam",
+            "confidence": 0.941,
+            "box": [
+                [
+                    563.0,
+                    378.0
+                ],
+                [
+                    995.0,
+                    380.0
+                ],
+                [
+                    995.0,
+                    413.0
+                ],
+                [
+                    563.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "PT Sir(Prime)Telugu",
+            "confidence": 0.942,
+            "box": [
+                [
+                    33.0,
+                    403.0
+                ],
+                [
+                    269.0,
+                    406.0
+                ],
+                [
+                    268.0,
+                    436.0
+                ],
+                [
+                    32.0,
+                    433.0
+                ]
+            ]
+        },
+        {
+            "text": "The Secret of the Shiledars (Telugu &",
+            "confidence": 0.944,
+            "box": [
+                [
+                    568.0,
+                    417.0
+                ],
+                [
+                    999.0,
+                    417.0
+                ],
+                [
+                    999.0,
+                    446.0
+                ],
+                [
+                    568.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "Maayon (prime) Telugu",
+            "confidence": 0.941,
+            "box": [
+                [
+                    33.0,
+                    436.0
+                ],
+                [
+                    281.0,
+                    439.0
+                ],
+                [
+                    281.0,
+                    468.0
+                ],
+                [
+                    32.0,
+                    465.0
+                ]
+            ]
+        },
+        {
+            "text": "Hindi) Hotstar 6 episodes",
+            "confidence": 0.955,
+            "box": [
+                [
+                    566.0,
+                    451.0
+                ],
+                [
+                    868.0,
+                    452.0
+                ],
+                [
+                    868.0,
+                    481.0
+                ],
+                [
+                    566.0,
+                    480.0
+                ]
+            ]
+        },
+        {
+            "text": "The Birthday Boy (Aha) Telugu",
+            "confidence": 0.936,
+            "box": [
+                [
+                    35.0,
+                    470.0
+                ],
+                [
+                    356.0,
+                    470.0
+                ],
+                [
+                    356.0,
+                    499.0
+                ],
+                [
+                    35.0,
+                    499.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.99,
+            "box": [
+                [
+                    410.0,
+                    487.0
+                ],
+                [
+                    556.0,
+                    487.0
+                ],
+                [
+                    556.0,
+                    507.0
+                ],
+                [
+                    410.0,
+                    507.0
+                ]
+            ]
+        },
+        {
+            "text": "IdentityTelugu &Malayalam)Zee5",
+            "confidence": 0.962,
+            "box": [
+                [
+                    567.0,
+                    487.0
+                ],
+                [
+                    980.0,
+                    487.0
+                ],
+                [
+                    980.0,
+                    516.0
+                ],
+                [
+                    567.0,
+                    516.0
+                ]
+            ]
+        },
+        {
+            "text": "Golam (PrimeMalayalam",
+            "confidence": 0.967,
+            "box": [
+                [
+                    33.0,
+                    500.0
+                ],
+                [
+                    315.0,
+                    503.0
+                ],
+                [
+                    314.0,
+                    531.0
+                ],
+                [
+                    32.0,
+                    528.0
+                ]
+            ]
+        },
+        {
+            "text": "haseen dillrubaNetflix)2 parts Telugu",
+            "confidence": 0.952,
+            "box": [
+                [
+                    34.0,
+                    533.0
+                ],
+                [
+                    446.0,
+                    536.0
+                ],
+                [
+                    445.0,
+                    561.0
+                ],
+                [
+                    34.0,
+                    558.0
+                ]
+            ]
+        },
+        {
+            "text": "Nunakkuzhi (Telugu&Malayalam)Zee5",
+            "confidence": 0.979,
+            "box": [
+                [
+                    567.0,
+                    524.0
+                ],
+                [
+                    1025.0,
+                    524.0
+                ],
+                [
+                    1025.0,
+                    553.0
+                ],
+                [
+                    567.0,
+                    553.0
+                ]
+            ]
+        },
+        {
+            "text": "Yennanga Sir Unga Sattam (Sonyliv)",
+            "confidence": 0.958,
+            "box": [
+                [
+                    32.0,
+                    564.0
+                ],
+                [
+                    414.0,
+                    565.0
+                ],
+                [
+                    414.0,
+                    595.0
+                ],
+                [
+                    32.0,
+                    594.0
+                ]
+            ]
+        },
+        {
+            "text": "Guruvayoor Ambalanadayil (Telugu&",
+            "confidence": 0.97,
+            "box": [
+                [
+                    566.0,
+                    558.0
+                ],
+                [
+                    999.0,
+                    560.0
+                ],
+                [
+                    999.0,
+                    590.0
+                ],
+                [
+                    566.0,
+                    588.0
+                ]
+            ]
+        },
+        {
+            "text": "Telugu Tamil",
+            "confidence": 0.969,
+            "box": [
+                [
+                    36.0,
+                    600.0
+                ],
+                [
+                    174.0,
+                    600.0
+                ],
+                [
+                    174.0,
+                    624.0
+                ],
+                [
+                    36.0,
+                    624.0
+                ]
+            ]
+        },
+        {
+            "text": "Malayalam) Hotstar",
+            "confidence": 0.967,
+            "box": [
+                [
+                    566.0,
+                    593.0
+                ],
+                [
+                    803.0,
+                    594.0
+                ],
+                [
+                    803.0,
+                    624.0
+                ],
+                [
+                    566.0,
+                    623.0
+                ]
+            ]
+        },
+        {
+            "text": "Abraham Ozler (Telugu,Malayalam)",
+            "confidence": 0.928,
+            "box": [
+                [
+                    32.0,
+                    628.0
+                ],
+                [
+                    419.0,
+                    630.0
+                ],
+                [
+                    418.0,
+                    659.0
+                ],
+                [
+                    32.0,
+                    657.0
+                ]
+            ]
+        },
+        {
+            "text": "Ponman (Telugu &Malayalam)Hotstar",
+            "confidence": 0.957,
+            "box": [
+                [
+                    566.0,
+                    631.0
+                ],
+                [
+                    1021.0,
+                    631.0
+                ],
+                [
+                    1021.0,
+                    660.0
+                ],
+                [
+                    566.0,
+                    660.0
+                ]
+            ]
+        },
+        {
+            "text": "(Hotstar)",
+            "confidence": 0.974,
+            "box": [
+                [
+                    35.0,
+                    663.0
+                ],
+                [
+                    132.0,
+                    663.0
+                ],
+                [
+                    132.0,
+                    689.0
+                ],
+                [
+                    35.0,
+                    689.0
+                ]
+            ]
+        },
+        {
+            "text": "Pravinkoodu shappu (Telugu &Malyalam)",
+            "confidence": 0.962,
+            "box": [
+                [
+                    564.0,
+                    664.0
+                ],
+                [
+                    1050.0,
+                    667.0
+                ],
+                [
+                    1050.0,
+                    697.0
+                ],
+                [
+                    564.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "Shekar Home 6 Episodes(TeluguHindi)",
+            "confidence": 0.942,
+            "box": [
+                [
+                    34.0,
+                    694.0
+                ],
+                [
+                    466.0,
+                    694.0
+                ],
+                [
+                    466.0,
+                    723.0
+                ],
+                [
+                    34.0,
+                    723.0
+                ]
+            ]
+        },
+        {
+            "text": "sonyLiv",
+            "confidence": 0.994,
+            "box": [
+                [
+                    564.0,
+                    701.0
+                ],
+                [
+                    667.0,
+                    701.0
+                ],
+                [
+                    667.0,
+                    732.0
+                ],
+                [
+                    564.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "Jio Cinema",
+            "confidence": 0.948,
+            "box": [
+                [
+                    35.0,
+                    726.0
+                ],
+                [
+                    158.0,
+                    729.0
+                ],
+                [
+                    158.0,
+                    754.0
+                ],
+                [
+                    35.0,
+                    751.0
+                ]
+            ]
+        },
+        {
+            "text": "Jabilamma Neeku Antha Kopama(Telugu)",
+            "confidence": 0.95,
+            "box": [
+                [
+                    564.0,
+                    736.0
+                ],
+                [
+                    1067.0,
+                    738.0
+                ],
+                [
+                    1066.0,
+                    767.0
+                ],
+                [
+                    564.0,
+                    764.0
+                ]
+            ]
+        },
+        {
+            "text": "Pariyerum Perumal (Tamil) Prime",
+            "confidence": 0.931,
+            "box": [
+                [
+                    31.0,
+                    756.0
+                ],
+                [
+                    389.0,
+                    758.0
+                ],
+                [
+                    389.0,
+                    787.0
+                ],
+                [
+                    31.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "Prime",
+            "confidence": 0.998,
+            "box": [
+                [
+                    565.0,
+                    771.0
+                ],
+                [
+                    642.0,
+                    775.0
+                ],
+                [
+                    640.0,
+                    801.0
+                ],
+                [
+                    564.0,
+                    797.0
+                ]
+            ]
+        },
+        {
+            "text": "5/8",
+            "confidence": 0.993,
+            "box": [
+                [
+                    468.0,
+                    793.0
+                ],
+                [
+                    497.0,
+                    793.0
+                ],
+                [
+                    497.0,
+                    813.0
+                ],
+                [
+                    468.0,
+                    813.0
+                ]
+            ]
+        },
+        {
+            "text": "Welcome Home (Telugu)YouTube",
+            "confidence": 0.942,
+            "box": [
+                [
+                    566.0,
+                    807.0
+                ],
+                [
+                    971.0,
+                    809.0
+                ],
+                [
+                    971.0,
+                    839.0
+                ],
+                [
+                    566.0,
+                    837.0
+                ]
+            ]
+        },
+        {
+            "text": "Maharaj(Telugu&Hindi Netflix",
+            "confidence": 0.957,
+            "box": [
+                [
+                    18.0,
+                    828.0
+                ],
+                [
+                    405.0,
+                    829.0
+                ],
+                [
+                    405.0,
+                    862.0
+                ],
+                [
+                    18.0,
+                    861.0
+                ]
+            ]
+        },
+        {
+            "text": "Gentle Woman (Telugu) Prime",
+            "confidence": 0.915,
+            "box": [
+                [
+                    566.0,
+                    843.0
+                ],
+                [
+                    919.0,
+                    844.0
+                ],
+                [
+                    919.0,
+                    875.0
+                ],
+                [
+                    566.0,
+                    873.0
+                ]
+            ]
+        },
+        {
+            "text": "Talvar(Hindi)Hotstar",
+            "confidence": 0.978,
+            "box": [
+                [
+                    20.0,
+                    868.0
+                ],
+                [
+                    282.0,
+                    868.0
+                ],
+                [
+                    282.0,
+                    896.0
+                ],
+                [
+                    20.0,
+                    896.0
+                ]
+            ]
+        },
+        {
+            "text": "Black white &grey (telugu)sonyliv 6 epds",
+            "confidence": 0.94,
+            "box": [
+                [
+                    564.0,
+                    877.0
+                ],
+                [
+                    1050.0,
+                    879.0
+                ],
+                [
+                    1050.0,
+                    912.0
+                ],
+                [
+                    564.0,
+                    910.0
+                ]
+            ]
+        },
+        {
+            "text": "Gyaarah Gyaarah (Hindi)zee5 8Episodes",
+            "confidence": 0.955,
+            "box": [
+                [
+                    19.0,
+                    905.0
+                ],
+                [
+                    526.0,
+                    905.0
+                ],
+                [
+                    526.0,
+                    934.0
+                ],
+                [
+                    19.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "Aparadhi (telugu aha",
+            "confidence": 0.931,
+            "box": [
+                [
+                    564.0,
+                    914.0
+                ],
+                [
+                    822.0,
+                    916.0
+                ],
+                [
+                    822.0,
+                    946.0
+                ],
+                [
+                    564.0,
+                    945.0
+                ]
+            ]
+        },
+        {
+            "text": "The Last Page (TeluguYouTube",
+            "confidence": 0.965,
+            "box": [
+                [
+                    18.0,
+                    940.0
+                ],
+                [
+                    423.0,
+                    940.0
+                ],
+                [
+                    423.0,
+                    974.0
+                ],
+                [
+                    18.0,
+                    974.0
+                ]
+            ]
+        },
+        {
+            "text": "Asur(Telugu)hotstar 2 seasons",
+            "confidence": 0.941,
+            "box": [
+                [
+                    563.0,
+                    949.0
+                ],
+                [
+                    950.0,
+                    952.0
+                ],
+                [
+                    950.0,
+                    985.0
+                ],
+                [
+                    563.0,
+                    982.0
+                ]
+            ]
+        },
+        {
+            "text": "Thalvan (Telugu &Malayalam) Sonyliv",
+            "confidence": 0.948,
+            "box": [
+                [
+                    20.0,
+                    979.0
+                ],
+                [
+                    477.0,
+                    979.0
+                ],
+                [
+                    477.0,
+                    1008.0
+                ],
+                [
+                    20.0,
+                    1008.0
+                ]
+            ]
+        },
+        {
+            "text": "7/8",
+            "confidence": 0.972,
+            "box": [
+                [
+                    1049.0,
+                    993.0
+                ],
+                [
+                    1072.0,
+                    993.0
+                ],
+                [
+                    1072.0,
+                    1008.0
+                ],
+                [
+                    1049.0,
+                    1008.0
+                ]
+            ]
+        },
+        {
+            "text": "Vaazha Telugu &Malayalam) Hotstar",
+            "confidence": 0.949,
+            "box": [
+                [
+                    20.0,
+                    1016.0
+                ],
+                [
+                    477.0,
+                    1016.0
+                ],
+                [
+                    477.0,
+                    1045.0
+                ],
+                [
+                    20.0,
+                    1045.0
+                ]
+            ]
+        },
+        {
+            "text": "Anaganaga (Telugu)Etv win",
+            "confidence": 0.936,
+            "box": [
+                [
+                    567.0,
+                    1042.0
+                ],
+                [
+                    895.0,
+                    1042.0
+                ],
+                [
+                    895.0,
+                    1071.0
+                ],
+                [
+                    567.0,
+                    1071.0
+                ]
+            ]
+        },
+        {
+            "text": "Sector 36(Telugu&Hindi)Netflix",
+            "confidence": 0.966,
+            "box": [
+                [
+                    19.0,
+                    1052.0
+                ],
+                [
+                    416.0,
+                    1052.0
+                ],
+                [
+                    416.0,
+                    1081.0
+                ],
+                [
+                    19.0,
+                    1081.0
+                ]
+            ]
+        },
+        {
+            "text": "Tourist Family (Telugu & Tamil) Hotstar",
+            "confidence": 0.929,
+            "box": [
+                [
+                    568.0,
+                    1078.0
+                ],
+                [
+                    1023.0,
+                    1078.0
+                ],
+                [
+                    1023.0,
+                    1107.0
+                ],
+                [
+                    568.0,
+                    1107.0
+                ]
+            ]
+        },
+        {
+            "text": "Maruthi Nagar Subramanyam (Telugu) aha",
+            "confidence": 0.962,
+            "box": [
+                [
+                    18.0,
+                    1088.0
+                ],
+                [
+                    535.0,
+                    1088.0
+                ],
+                [
+                    535.0,
+                    1121.0
+                ],
+                [
+                    18.0,
+                    1121.0
+                ]
+            ]
+        },
+        {
+            "text": "Unsolved MurderCase(Telugu) YouTube",
+            "confidence": 0.966,
+            "box": [
+                [
+                    564.0,
+                    1112.0
+                ],
+                [
+                    1044.0,
+                    1114.0
+                ],
+                [
+                    1044.0,
+                    1143.0
+                ],
+                [
+                    564.0,
+                    1141.0
+                ]
+            ]
+        },
+        {
+            "text": "CtrlTelugu+Hindi)Netflix",
+            "confidence": 0.971,
+            "box": [
+                [
+                    18.0,
+                    1123.0
+                ],
+                [
+                    356.0,
+                    1125.0
+                ],
+                [
+                    356.0,
+                    1155.0
+                ],
+                [
+                    18.0,
+                    1154.0
+                ]
+            ]
+        },
+        {
+            "text": "Stolen (Hindi)Prime",
+            "confidence": 0.969,
+            "box": [
+                [
+                    566.0,
+                    1147.0
+                ],
+                [
+                    805.0,
+                    1148.0
+                ],
+                [
+                    804.0,
+                    1178.0
+                ],
+                [
+                    566.0,
+                    1177.0
+                ]
+            ]
+        },
+        {
+            "text": "Undekhi (Telugu+Hindi)3 seasons",
+            "confidence": 0.971,
+            "box": [
+                [
+                    16.0,
+                    1160.0
+                ],
+                [
+                    458.0,
+                    1163.0
+                ],
+                [
+                    458.0,
+                    1194.0
+                ],
+                [
+                    16.0,
+                    1191.0
+                ]
+            ]
+        },
+        {
+            "text": "Sonyliv",
+            "confidence": 0.987,
+            "box": [
+                [
+                    16.0,
+                    1196.0
+                ],
+                [
+                    111.0,
+                    1196.0
+                ],
+                [
+                    111.0,
+                    1231.0
+                ],
+                [
+                    16.0,
+                    1231.0
+                ]
+            ]
+        },
+        {
+            "text": "JaatTelugu&Hindi)Netflix",
+            "confidence": 0.961,
+            "box": [
+                [
+                    568.0,
+                    1187.0
+                ],
+                [
+                    900.0,
+                    1187.0
+                ],
+                [
+                    900.0,
+                    1211.0
+                ],
+                [
+                    568.0,
+                    1211.0
+                ]
+            ]
+        },
+        {
+            "text": "Padakkalam (Telugu & malayalam) hotstar",
+            "confidence": 0.937,
+            "box": [
+                [
+                    563.0,
+                    1217.0
+                ],
+                [
+                    1065.0,
+                    1218.0
+                ],
+                [
+                    1065.0,
+                    1251.0
+                ],
+                [
+                    563.0,
+                    1250.0
+                ]
+            ]
+        },
+        {
+            "text": "Exhuma(Telugu &Korea)Prime",
+            "confidence": 0.95,
+            "box": [
+                [
+                    19.0,
+                    1236.0
+                ],
+                [
+                    402.0,
+                    1236.0
+                ],
+                [
+                    402.0,
+                    1265.0
+                ],
+                [
+                    19.0,
+                    1265.0
+                ]
+            ]
+        },
+        {
+            "text": "ArmTelugu &Malayalam)Hotstar",
+            "confidence": 0.972,
+            "box": [
+                [
+                    20.0,
+                    1273.0
+                ],
+                [
+                    439.0,
+                    1273.0
+                ],
+                [
+                    439.0,
+                    1302.0
+                ],
+                [
+                    20.0,
+                    1302.0
+                ]
+            ]
+        }
+    ]
+}

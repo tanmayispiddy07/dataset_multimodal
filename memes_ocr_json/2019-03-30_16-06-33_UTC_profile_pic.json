@@ -1,0 +1,28 @@
+{
+    "image_name": "2019-03-30_16-06-33_UTC_profile_pic.jpg",
+    "combined_text": "ADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    31.0,
+                    253.0
+                ],
+                [
+                    307.0,
+                    253.0
+                ],
+                [
+                    307.0,
+                    280.0
+                ],
+                [
+                    31.0,
+                    280.0
+                ]
+            ]
+        }
+    ]
+}

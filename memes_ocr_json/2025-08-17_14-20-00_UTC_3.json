@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-08-17_14-20-00_UTC_3.jpg",
+    "combined_text": "sarcasm\nIt was determined by all that the best way.\nto end the horrifc war between Russia and\nUkraine is to go directly to a Peace Agreement\nand not a mere Ceasefire Agreement.",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    484.0,
+                    921.0
+                ],
+                [
+                    598.0,
+                    921.0
+                ],
+                [
+                    598.0,
+                    944.0
+                ],
+                [
+                    484.0,
+                    944.0
+                ]
+            ]
+        },
+        {
+            "text": "It was determined by all that the best way.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    54.0,
+                    1023.0
+                ],
+                [
+                    1024.0,
+                    1031.0
+                ],
+                [
+                    1024.0,
+                    1080.0
+                ],
+                [
+                    53.0,
+                    1072.0
+                ]
+            ]
+        },
+        {
+            "text": "to end the horrifc war between Russia and",
+            "confidence": 0.97,
+            "box": [
+                [
+                    51.0,
+                    1092.0
+                ],
+                [
+                    1027.0,
+                    1092.0
+                ],
+                [
+                    1027.0,
+                    1131.0
+                ],
+                [
+                    51.0,
+                    1131.0
+                ]
+            ]
+        },
+        {
+            "text": "Ukraine is to go directly to a Peace Agreement",
+            "confidence": 0.985,
+            "box": [
+                [
+                    14.0,
+                    1148.0
+                ],
+                [
+                    1070.0,
+                    1153.0
+                ],
+                [
+                    1070.0,
+                    1197.0
+                ],
+                [
+                    14.0,
+                    1193.0
+                ]
+            ]
+        },
+        {
+            "text": "and not a mere Ceasefire Agreement.",
+            "confidence": 0.962,
+            "box": [
+                [
+                    121.0,
+                    1210.0
+                ],
+                [
+                    962.0,
+                    1211.0
+                ],
+                [
+                    962.0,
+                    1256.0
+                ],
+                [
+                    121.0,
+                    1255.0
+                ]
+            ]
+        }
+    ]
+}

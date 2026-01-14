@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-06-28_07-01-15_UTC.jpg",
+    "combined_text": "Sorry I dont share\nMeanwhile boys\nsarcasm",
+    "detailed": [
+        {
+            "text": "Sorry I dont share",
+            "confidence": 0.939,
+            "box": [
+                [
+                    147.0,
+                    134.0
+                ],
+                [
+                    443.0,
+                    133.0
+                ],
+                [
+                    443.0,
+                    165.0
+                ],
+                [
+                    147.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "Meanwhile boys",
+            "confidence": 0.984,
+            "box": [
+                [
+                    139.0,
+                    180.0
+                ],
+                [
+                    397.0,
+                    183.0
+                ],
+                [
+                    397.0,
+                    218.0
+                ],
+                [
+                    139.0,
+                    215.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.993,
+            "box": [
+                [
+                    180.0,
+                    536.0
+                ],
+                [
+                    229.0,
+                    536.0
+                ],
+                [
+                    229.0,
+                    549.0
+                ],
+                [
+                    180.0,
+                    549.0
+                ]
+            ]
+        }
+    ]
+}

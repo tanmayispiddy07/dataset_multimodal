@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-05-08_14-44-02_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE\nFILM \"SHUBHAM\"\nSHUBHAM IS HILARIOUS HORROR FILM\nTHAT CAN BE WATCHED WITH A FAMILY\nce\nADDICTEDTOMEM\nFEELGOOD FIRST HALF WITHGOOD\nINTERVAL BLOCK ENTERTAINING 2ND\nHALF WITH NEW CHARACTERS.IT'S A\nAPPRECIABLE ATTEMPT FROM TEAM",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE",
+            "confidence": 0.93,
+            "box": [
+                [
+                    103.0,
+                    17.0
+                ],
+                [
+                    984.0,
+                    17.0
+                ],
+                [
+                    984.0,
+                    71.0
+                ],
+                [
+                    103.0,
+                    71.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM \"SHUBHAM\"",
+            "confidence": 0.962,
+            "box": [
+                [
+                    273.0,
+                    93.0
+                ],
+                [
+                    809.0,
+                    93.0
+                ],
+                [
+                    809.0,
+                    148.0
+                ],
+                [
+                    273.0,
+                    148.0
+                ]
+            ]
+        },
+        {
+            "text": "SHUBHAM IS HILARIOUS HORROR FILM",
+            "confidence": 0.943,
+            "box": [
+                [
+                    65.0,
+                    180.0
+                ],
+                [
+                    1034.0,
+                    180.0
+                ],
+                [
+                    1034.0,
+                    217.0
+                ],
+                [
+                    65.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT CAN BE WATCHED WITH A FAMILY",
+            "confidence": 0.932,
+            "box": [
+                [
+                    60.0,
+                    240.0
+                ],
+                [
+                    1022.0,
+                    240.0
+                ],
+                [
+                    1022.0,
+                    282.0
+                ],
+                [
+                    60.0,
+                    282.0
+                ]
+            ]
+        },
+        {
+            "text": "ce",
+            "confidence": 0.645,
+            "box": [
+                [
+                    838.0,
+                    748.0
+                ],
+                [
+                    872.0,
+                    752.0
+                ],
+                [
+                    865.0,
+                    808.0
+                ],
+                [
+                    831.0,
+                    804.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEM",
+            "confidence": 0.976,
+            "box": [
+                [
+                    474.0,
+                    864.0
+                ],
+                [
+                    595.0,
+                    864.0
+                ],
+                [
+                    595.0,
+                    881.0
+                ],
+                [
+                    474.0,
+                    881.0
+                ]
+            ]
+        },
+        {
+            "text": "FEELGOOD FIRST HALF WITHGOOD",
+            "confidence": 0.953,
+            "box": [
+                [
+                    70.0,
+                    1070.0
+                ],
+                [
+                    991.0,
+                    1070.0
+                ],
+                [
+                    991.0,
+                    1108.0
+                ],
+                [
+                    70.0,
+                    1108.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERVAL BLOCK ENTERTAINING 2ND",
+            "confidence": 0.961,
+            "box": [
+                [
+                    55.0,
+                    1130.0
+                ],
+                [
+                    1005.0,
+                    1130.0
+                ],
+                [
+                    1005.0,
+                    1172.0
+                ],
+                [
+                    55.0,
+                    1172.0
+                ]
+            ]
+        },
+        {
+            "text": "HALF WITH NEW CHARACTERS.IT'S A",
+            "confidence": 0.941,
+            "box": [
+                [
+                    52.0,
+                    1192.0
+                ],
+                [
+                    1008.0,
+                    1194.0
+                ],
+                [
+                    1008.0,
+                    1236.0
+                ],
+                [
+                    52.0,
+                    1233.0
+                ]
+            ]
+        },
+        {
+            "text": "APPRECIABLE ATTEMPT FROM TEAM",
+            "confidence": 0.971,
+            "box": [
+                [
+                    62.0,
+                    1252.0
+                ],
+                [
+                    989.0,
+                    1254.0
+                ],
+                [
+                    988.0,
+                    1305.0
+                ],
+                [
+                    62.0,
+                    1302.0
+                ]
+            ]
+        }
+    ]
+}

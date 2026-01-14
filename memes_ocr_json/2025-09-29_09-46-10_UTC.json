@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-09-29_09-46-10_UTC.jpg",
+    "combined_text": "\"ASURA AAGAMANA ON\nOCTOBER 15TH'\nPrimeshow Entertainment\n@Primeshowtweets\n\"ASURA AAGAMANAONOCTOBER15TH\nTeam#SambaralaYetiGattucookingup SOMETHING EPIC for Mega\nSupreme Hero@lamSaiDharamTej garu's birthday \nThis time,its going to be BEYOND YOUR IMAGINATION \n#SYG#SYGMovie\n@rohithkp_dir @Niran Reddy @Chaitanyaniran\nADDICTEDTOMEMES\nASALU EMPLAN CHESARURA",
+    "detailed": [
+        {
+            "text": "\"ASURA AAGAMANA ON",
+            "confidence": 0.926,
+            "box": [
+                [
+                    184.0,
+                    47.0
+                ],
+                [
+                    926.0,
+                    47.0
+                ],
+                [
+                    926.0,
+                    102.0
+                ],
+                [
+                    184.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "OCTOBER 15TH'",
+            "confidence": 0.959,
+            "box": [
+                [
+                    325.0,
+                    122.0
+                ],
+                [
+                    776.0,
+                    122.0
+                ],
+                [
+                    776.0,
+                    170.0
+                ],
+                [
+                    325.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "Primeshow Entertainment",
+            "confidence": 0.984,
+            "box": [
+                [
+                    648.0,
+                    570.0
+                ],
+                [
+                    805.0,
+                    570.0
+                ],
+                [
+                    805.0,
+                    590.0
+                ],
+                [
+                    648.0,
+                    590.0
+                ]
+            ]
+        },
+        {
+            "text": "@Primeshowtweets",
+            "confidence": 0.989,
+            "box": [
+                [
+                    648.0,
+                    587.0
+                ],
+                [
+                    763.0,
+                    587.0
+                ],
+                [
+                    763.0,
+                    607.0
+                ],
+                [
+                    648.0,
+                    607.0
+                ]
+            ]
+        },
+        {
+            "text": "\"ASURA AAGAMANAONOCTOBER15TH",
+            "confidence": 0.963,
+            "box": [
+                [
+                    610.0,
+                    616.0
+                ],
+                [
+                    935.0,
+                    616.0
+                ],
+                [
+                    935.0,
+                    636.0
+                ],
+                [
+                    610.0,
+                    636.0
+                ]
+            ]
+        },
+        {
+            "text": "Team#SambaralaYetiGattucookingup SOMETHING EPIC for Mega",
+            "confidence": 0.976,
+            "box": [
+                [
+                    608.0,
+                    653.0
+                ],
+                [
+                    1035.0,
+                    653.0
+                ],
+                [
+                    1035.0,
+                    676.0
+                ],
+                [
+                    608.0,
+                    676.0
+                ]
+            ]
+        },
+        {
+            "text": "Supreme Hero@lamSaiDharamTej garu's birthday ",
+            "confidence": 0.952,
+            "box": [
+                [
+                    608.0,
+                    671.0
+                ],
+                [
+                    945.0,
+                    672.0
+                ],
+                [
+                    945.0,
+                    696.0
+                ],
+                [
+                    607.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "This time,its going to be BEYOND YOUR IMAGINATION ",
+            "confidence": 0.923,
+            "box": [
+                [
+                    609.0,
+                    713.0
+                ],
+                [
+                    998.0,
+                    713.0
+                ],
+                [
+                    998.0,
+                    733.0
+                ],
+                [
+                    609.0,
+                    733.0
+                ]
+            ]
+        },
+        {
+            "text": "#SYG#SYGMovie",
+            "confidence": 0.984,
+            "box": [
+                [
+                    610.0,
+                    751.0
+                ],
+                [
+                    728.0,
+                    751.0
+                ],
+                [
+                    728.0,
+                    771.0
+                ],
+                [
+                    610.0,
+                    771.0
+                ]
+            ]
+        },
+        {
+            "text": "@rohithkp_dir @Niran Reddy @Chaitanyaniran",
+            "confidence": 0.951,
+            "box": [
+                [
+                    609.0,
+                    790.0
+                ],
+                [
+                    902.0,
+                    790.0
+                ],
+                [
+                    902.0,
+                    810.0
+                ],
+                [
+                    609.0,
+                    810.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    3.0,
+                    979.0
+                ],
+                [
+                    153.0,
+                    979.0
+                ],
+                [
+                    153.0,
+                    999.0
+                ],
+                [
+                    3.0,
+                    999.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALU EMPLAN CHESARURA",
+            "confidence": 0.956,
+            "box": [
+                [
+                    158.0,
+                    1190.0
+                ],
+                [
+                    984.0,
+                    1190.0
+                ],
+                [
+                    984.0,
+                    1241.0
+                ],
+                [
+                    158.0,
+                    1241.0
+                ]
+            ]
+        }
+    ]
+}

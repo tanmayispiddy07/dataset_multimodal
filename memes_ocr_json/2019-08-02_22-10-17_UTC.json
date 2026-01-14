@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-08-02_22-10-17_UTC.jpg",
+    "combined_text": "|ItsMyTirupathi\nTHE FIRST TIME MY DAD SHOWED ME\nLORD VENKATESHWARA SWAMY IN TIRUMALA",
+    "detailed": [
+        {
+            "text": "|ItsMyTirupathi",
+            "confidence": 0.959,
+            "box": [
+                [
+                    14.0,
+                    185.0
+                ],
+                [
+                    207.0,
+                    183.0
+                ],
+                [
+                    207.0,
+                    217.0
+                ],
+                [
+                    14.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "THE FIRST TIME MY DAD SHOWED ME",
+            "confidence": 0.921,
+            "box": [
+                [
+                    103.0,
+                    695.0
+                ],
+                [
+                    705.0,
+                    697.0
+                ],
+                [
+                    705.0,
+                    737.0
+                ],
+                [
+                    102.0,
+                    735.0
+                ]
+            ]
+        },
+        {
+            "text": "LORD VENKATESHWARA SWAMY IN TIRUMALA",
+            "confidence": 0.965,
+            "box": [
+                [
+                    28.0,
+                    748.0
+                ],
+                [
+                    780.0,
+                    748.0
+                ],
+                [
+                    780.0,
+                    790.0
+                ],
+                [
+                    28.0,
+                    790.0
+                ]
+            ]
+        }
+    ]
+}

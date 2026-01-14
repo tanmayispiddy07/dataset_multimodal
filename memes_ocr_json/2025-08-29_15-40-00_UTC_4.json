@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-29_15-40-00_UTC_4.jpg",
+    "combined_text": "sarcasm\nLord Ganesh Idol at Prambanan\nTemple Complex, Indonesia",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    489.0,
+                    1075.0
+                ],
+                [
+                    588.0,
+                    1075.0
+                ],
+                [
+                    588.0,
+                    1098.0
+                ],
+                [
+                    489.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "Lord Ganesh Idol at Prambanan",
+            "confidence": 0.99,
+            "box": [
+                [
+                    31.0,
+                    1131.0
+                ],
+                [
+                    1030.0,
+                    1139.0
+                ],
+                [
+                    1029.0,
+                    1196.0
+                ],
+                [
+                    31.0,
+                    1189.0
+                ]
+            ]
+        },
+        {
+            "text": "Temple Complex, Indonesia",
+            "confidence": 1.0,
+            "box": [
+                [
+                    94.0,
+                    1217.0
+                ],
+                [
+                    970.0,
+                    1214.0
+                ],
+                [
+                    970.0,
+                    1284.0
+                ],
+                [
+                    94.0,
+                    1287.0
+                ]
+            ]
+        }
+    ]
+}

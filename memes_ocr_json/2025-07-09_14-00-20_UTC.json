@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-07-09_14-00-20_UTC.jpg",
+    "combined_text": "INTERNSHIP ANEDHI  CHALA MANDI STUDENTS\nKI CHEYALI ANI UNTADHI ENDUKU ANTE ADHI\nVALLA RESUME KI MANCHI BOOST ISTHUNDI\nESPECIALLY BTECH/DEGREE 1ST AND\n2NDYEAR STUDENTS KI IDHI BAGA USE\nAVUTHUNDHI VALLA KOSAM OKA FREE DEMO\nSESSION CONDUCT CHESTHUNNARU\nLINK IN BIO",
+    "detailed": [
+        {
+            "text": "INTERNSHIP ANEDHI  CHALA MANDI STUDENTS",
+            "confidence": 0.941,
+            "box": [
+                [
+                    99.0,
+                    381.0
+                ],
+                [
+                    997.0,
+                    381.0
+                ],
+                [
+                    997.0,
+                    412.0
+                ],
+                [
+                    99.0,
+                    412.0
+                ]
+            ]
+        },
+        {
+            "text": "KI CHEYALI ANI UNTADHI ENDUKU ANTE ADHI",
+            "confidence": 0.934,
+            "box": [
+                [
+                    106.0,
+                    428.0
+                ],
+                [
+                    991.0,
+                    428.0
+                ],
+                [
+                    991.0,
+                    461.0
+                ],
+                [
+                    106.0,
+                    461.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLA RESUME KI MANCHI BOOST ISTHUNDI",
+            "confidence": 0.956,
+            "box": [
+                [
+                    115.0,
+                    476.0
+                ],
+                [
+                    974.0,
+                    476.0
+                ],
+                [
+                    974.0,
+                    510.0
+                ],
+                [
+                    115.0,
+                    510.0
+                ]
+            ]
+        },
+        {
+            "text": "ESPECIALLY BTECH/DEGREE 1ST AND",
+            "confidence": 0.943,
+            "box": [
+                [
+                    175.0,
+                    833.0
+                ],
+                [
+                    900.0,
+                    831.0
+                ],
+                [
+                    900.0,
+                    863.0
+                ],
+                [
+                    176.0,
+                    864.0
+                ]
+            ]
+        },
+        {
+            "text": "2NDYEAR STUDENTS KI IDHI BAGA USE",
+            "confidence": 0.937,
+            "box": [
+                [
+                    147.0,
+                    881.0
+                ],
+                [
+                    926.0,
+                    881.0
+                ],
+                [
+                    926.0,
+                    915.0
+                ],
+                [
+                    147.0,
+                    915.0
+                ]
+            ]
+        },
+        {
+            "text": "AVUTHUNDHI VALLA KOSAM OKA FREE DEMO",
+            "confidence": 0.937,
+            "box": [
+                [
+                    83.0,
+                    929.0
+                ],
+                [
+                    993.0,
+                    928.0
+                ],
+                [
+                    993.0,
+                    963.0
+                ],
+                [
+                    83.0,
+                    964.0
+                ]
+            ]
+        },
+        {
+            "text": "SESSION CONDUCT CHESTHUNNARU",
+            "confidence": 0.969,
+            "box": [
+                [
+                    169.0,
+                    980.0
+                ],
+                [
+                    892.0,
+                    980.0
+                ],
+                [
+                    892.0,
+                    1014.0
+                ],
+                [
+                    169.0,
+                    1014.0
+                ]
+            ]
+        },
+        {
+            "text": "LINK IN BIO",
+            "confidence": 0.952,
+            "box": [
+                [
+                    416.0,
+                    1029.0
+                ],
+                [
+                    645.0,
+                    1029.0
+                ],
+                [
+                    645.0,
+                    1064.0
+                ],
+                [
+                    416.0,
+                    1064.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-07-14_10-39-04_UTC.jpg",
+    "combined_text": "WHILE HEARING SONGS IN\nFRIEND PHONE\nE & SUDDENLY HIS\nRECORDED CALLS CAME\nADDICTEDTOMEMES\nENDIRAECHANDALAM\nBALAJIVIDE",
+    "detailed": [
+        {
+            "text": "WHILE HEARING SONGS IN",
+            "confidence": 0.964,
+            "box": [
+                [
+                    150.0,
+                    76.0
+                ],
+                [
+                    951.0,
+                    79.0
+                ],
+                [
+                    951.0,
+                    132.0
+                ],
+                [
+                    150.0,
+                    129.0
+                ]
+            ]
+        },
+        {
+            "text": "FRIEND PHONE",
+            "confidence": 0.96,
+            "box": [
+                [
+                    80.0,
+                    157.0
+                ],
+                [
+                    525.0,
+                    157.0
+                ],
+                [
+                    525.0,
+                    201.0
+                ],
+                [
+                    80.0,
+                    201.0
+                ]
+            ]
+        },
+        {
+            "text": "E & SUDDENLY HIS",
+            "confidence": 0.989,
+            "box": [
+                [
+                    501.0,
+                    154.0
+                ],
+                [
+                    1022.0,
+                    154.0
+                ],
+                [
+                    1022.0,
+                    204.0
+                ],
+                [
+                    501.0,
+                    204.0
+                ]
+            ]
+        },
+        {
+            "text": "RECORDED CALLS CAME",
+            "confidence": 0.962,
+            "box": [
+                [
+                    182.0,
+                    225.0
+                ],
+                [
+                    914.0,
+                    228.0
+                ],
+                [
+                    913.0,
+                    282.0
+                ],
+                [
+                    182.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    897.0,
+                    454.0
+                ],
+                [
+                    1073.0,
+                    453.0
+                ],
+                [
+                    1073.0,
+                    476.0
+                ],
+                [
+                    897.0,
+                    477.0
+                ]
+            ]
+        },
+        {
+            "text": "ENDIRAECHANDALAM",
+            "confidence": 0.99,
+            "box": [
+                [
+                    193.0,
+                    919.0
+                ],
+                [
+                    939.0,
+                    917.0
+                ],
+                [
+                    939.0,
+                    973.0
+                ],
+                [
+                    194.0,
+                    976.0
+                ]
+            ]
+        },
+        {
+            "text": "BALAJIVIDE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    953.0,
+                    913.0
+                ],
+                [
+                    1079.0,
+                    913.0
+                ],
+                [
+                    1079.0,
+                    944.0
+                ],
+                [
+                    953.0,
+                    944.0
+                ]
+            ]
+        }
+    ]
+}

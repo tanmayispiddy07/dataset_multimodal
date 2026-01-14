@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-10-11_13-59-24_UTC_4.jpg",
+    "combined_text": "If you don't know this logo\nwe can't be friends",
+    "detailed": [
+        {
+            "text": "If you don't know this logo",
+            "confidence": 0.999,
+            "box": [
+                [
+                    156.0,
+                    66.0
+                ],
+                [
+                    916.0,
+                    72.0
+                ],
+                [
+                    915.0,
+                    139.0
+                ],
+                [
+                    156.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "we can't be friends",
+            "confidence": 0.999,
+            "box": [
+                [
+                    223.0,
+                    155.0
+                ],
+                [
+                    773.0,
+                    152.0
+                ],
+                [
+                    774.0,
+                    207.0
+                ],
+                [
+                    224.0,
+                    210.0
+                ]
+            ]
+        }
+    ]
+}

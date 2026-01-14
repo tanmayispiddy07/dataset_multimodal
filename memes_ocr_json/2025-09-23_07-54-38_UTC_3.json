@@ -1,0 +1,578 @@
+{
+    "image_name": "2025-09-23_07-54-38_UTC_3.jpg",
+    "combined_text": "OUR REVIEW FOR MIRAI MOVIE\nAND YOU KNOW THE RESULT\naddicted_to_memes\n12 September\nHERE IS OUR REVIEWOF THE\nFILM \"MIRAI\"\nINTERESTING FIRST HALF WITH SOLID SETUP AND\nTHAT PRE INTERVAL BLOCK IS GOOSEBUMPS\nGUARANTEED WITH EXCELLENT VISUALS\nMIRAI\nTIRAI\nTOO GOOD2NDHALF WITH MANY HIGH SCENES\nAND THAT BACKGROUND SCORE IS EXCELLENT.\nOUR TFI HAS NEW SUPERHERO\"TEJA SAJJA\"\nVFX STANDARDS ARE TOO HIGH.JAI SHREE RAM\nCHANTS IN THEATERS IS INSTANTGOOSEBUMPS\nBLOCKBUSTER IT IS\nView insights\nBoost post\n46.4K\n40\n5,810\nW\n95\naddicted_to_memes #Mirai Blockbuster\nmore",
+    "detailed": [
+        {
+            "text": "OUR REVIEW FOR MIRAI MOVIE",
+            "confidence": 0.944,
+            "box": [
+                [
+                    91.0,
+                    100.0
+                ],
+                [
+                    1028.0,
+                    100.0
+                ],
+                [
+                    1028.0,
+                    151.0
+                ],
+                [
+                    91.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "AND YOU KNOW THE RESULT",
+            "confidence": 0.946,
+            "box": [
+                [
+                    129.0,
+                    170.0
+                ],
+                [
+                    972.0,
+                    170.0
+                ],
+                [
+                    972.0,
+                    224.0
+                ],
+                [
+                    129.0,
+                    224.0
+                ]
+            ]
+        },
+        {
+            "text": "addicted_to_memes",
+            "confidence": 0.996,
+            "box": [
+                [
+                    80.0,
+                    355.0
+                ],
+                [
+                    294.0,
+                    354.0
+                ],
+                [
+                    294.0,
+                    379.0
+                ],
+                [
+                    80.0,
+                    381.0
+                ]
+            ]
+        },
+        {
+            "text": "12 September",
+            "confidence": 0.959,
+            "box": [
+                [
+                    82.0,
+                    382.0
+                ],
+                [
+                    204.0,
+                    385.0
+                ],
+                [
+                    204.0,
+                    407.0
+                ],
+                [
+                    81.0,
+                    404.0
+                ]
+            ]
+        },
+        {
+            "text": "HERE IS OUR REVIEWOF THE",
+            "confidence": 0.929,
+            "box": [
+                [
+                    93.0,
+                    422.0
+                ],
+                [
+                    485.0,
+                    422.0
+                ],
+                [
+                    485.0,
+                    447.0
+                ],
+                [
+                    93.0,
+                    447.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM \"MIRAI\"",
+            "confidence": 0.898,
+            "box": [
+                [
+                    194.0,
+                    455.0
+                ],
+                [
+                    383.0,
+                    450.0
+                ],
+                [
+                    384.0,
+                    485.0
+                ],
+                [
+                    195.0,
+                    490.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERESTING FIRST HALF WITH SOLID SETUP AND",
+            "confidence": 0.946,
+            "box": [
+                [
+                    24.0,
+                    495.0
+                ],
+                [
+                    544.0,
+                    495.0
+                ],
+                [
+                    544.0,
+                    516.0
+                ],
+                [
+                    24.0,
+                    516.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT PRE INTERVAL BLOCK IS GOOSEBUMPS",
+            "confidence": 0.95,
+            "box": [
+                [
+                    48.0,
+                    518.0
+                ],
+                [
+                    523.0,
+                    518.0
+                ],
+                [
+                    523.0,
+                    544.0
+                ],
+                [
+                    48.0,
+                    544.0
+                ]
+            ]
+        },
+        {
+            "text": "GUARANTEED WITH EXCELLENT VISUALS",
+            "confidence": 0.963,
+            "box": [
+                [
+                    66.0,
+                    545.0
+                ],
+                [
+                    499.0,
+                    546.0
+                ],
+                [
+                    499.0,
+                    571.0
+                ],
+                [
+                    66.0,
+                    570.0
+                ]
+            ]
+        },
+        {
+            "text": "MIRAI",
+            "confidence": 0.665,
+            "box": [
+                [
+                    390.0,
+                    844.0
+                ],
+                [
+                    494.0,
+                    851.0
+                ],
+                [
+                    492.0,
+                    886.0
+                ],
+                [
+                    387.0,
+                    879.0
+                ]
+            ]
+        },
+        {
+            "text": "TIRAI",
+            "confidence": 0.607,
+            "box": [
+                [
+                    92.0,
+                    880.0
+                ],
+                [
+                    219.0,
+                    889.0
+                ],
+                [
+                    216.0,
+                    933.0
+                ],
+                [
+                    89.0,
+                    924.0
+                ]
+            ]
+        },
+        {
+            "text": "TOO GOOD2NDHALF WITH MANY HIGH SCENES",
+            "confidence": 0.933,
+            "box": [
+                [
+                    21.0,
+                    956.0
+                ],
+                [
+                    548.0,
+                    956.0
+                ],
+                [
+                    548.0,
+                    977.0
+                ],
+                [
+                    21.0,
+                    977.0
+                ]
+            ]
+        },
+        {
+            "text": "AND THAT BACKGROUND SCORE IS EXCELLENT.",
+            "confidence": 0.942,
+            "box": [
+                [
+                    30.0,
+                    983.0
+                ],
+                [
+                    537.0,
+                    983.0
+                ],
+                [
+                    537.0,
+                    1004.0
+                ],
+                [
+                    30.0,
+                    1004.0
+                ]
+            ]
+        },
+        {
+            "text": "OUR TFI HAS NEW SUPERHERO\"TEJA SAJJA\"",
+            "confidence": 0.929,
+            "box": [
+                [
+                    38.0,
+                    1008.0
+                ],
+                [
+                    523.0,
+                    1008.0
+                ],
+                [
+                    523.0,
+                    1029.0
+                ],
+                [
+                    38.0,
+                    1029.0
+                ]
+            ]
+        },
+        {
+            "text": "VFX STANDARDS ARE TOO HIGH.JAI SHREE RAM",
+            "confidence": 0.932,
+            "box": [
+                [
+                    17.0,
+                    1036.0
+                ],
+                [
+                    551.0,
+                    1036.0
+                ],
+                [
+                    551.0,
+                    1056.0
+                ],
+                [
+                    17.0,
+                    1056.0
+                ]
+            ]
+        },
+        {
+            "text": "CHANTS IN THEATERS IS INSTANTGOOSEBUMPS",
+            "confidence": 0.969,
+            "box": [
+                [
+                    20.0,
+                    1061.0
+                ],
+                [
+                    543.0,
+                    1061.0
+                ],
+                [
+                    543.0,
+                    1086.0
+                ],
+                [
+                    20.0,
+                    1086.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER IT IS",
+            "confidence": 0.954,
+            "box": [
+                [
+                    174.0,
+                    1087.0
+                ],
+                [
+                    388.0,
+                    1087.0
+                ],
+                [
+                    388.0,
+                    1112.0
+                ],
+                [
+                    174.0,
+                    1112.0
+                ]
+            ]
+        },
+        {
+            "text": "View insights",
+            "confidence": 0.962,
+            "box": [
+                [
+                    22.0,
+                    1161.0
+                ],
+                [
+                    150.0,
+                    1161.0
+                ],
+                [
+                    150.0,
+                    1186.0
+                ],
+                [
+                    22.0,
+                    1186.0
+                ]
+            ]
+        },
+        {
+            "text": "Boost post",
+            "confidence": 0.955,
+            "box": [
+                [
+                    422.0,
+                    1162.0
+                ],
+                [
+                    530.0,
+                    1162.0
+                ],
+                [
+                    530.0,
+                    1186.0
+                ],
+                [
+                    422.0,
+                    1186.0
+                ]
+            ]
+        },
+        {
+            "text": "46.4K",
+            "confidence": 0.995,
+            "box": [
+                [
+                    65.0,
+                    1236.0
+                ],
+                [
+                    125.0,
+                    1236.0
+                ],
+                [
+                    125.0,
+                    1263.0
+                ],
+                [
+                    65.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "40",
+            "confidence": 0.989,
+            "box": [
+                [
+                    228.0,
+                    1235.0
+                ],
+                [
+                    300.0,
+                    1235.0
+                ],
+                [
+                    300.0,
+                    1266.0
+                ],
+                [
+                    228.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "5,810",
+            "confidence": 0.965,
+            "box": [
+                [
+                    305.0,
+                    1233.0
+                ],
+                [
+                    408.0,
+                    1233.0
+                ],
+                [
+                    408.0,
+                    1264.0
+                ],
+                [
+                    305.0,
+                    1264.0
+                ]
+            ]
+        },
+        {
+            "text": "W",
+            "confidence": 0.577,
+            "box": [
+                [
+                    510.0,
+                    1228.0
+                ],
+                [
+                    551.0,
+                    1228.0
+                ],
+                [
+                    551.0,
+                    1267.0
+                ],
+                [
+                    510.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "95",
+            "confidence": 0.999,
+            "box": [
+                [
+                    180.0,
+                    1240.0
+                ],
+                [
+                    207.0,
+                    1240.0
+                ],
+                [
+                    207.0,
+                    1260.0
+                ],
+                [
+                    180.0,
+                    1260.0
+                ]
+            ]
+        },
+        {
+            "text": "addicted_to_memes #Mirai Blockbuster",
+            "confidence": 0.979,
+            "box": [
+                [
+                    18.0,
+                    1285.0
+                ],
+                [
+                    413.0,
+                    1285.0
+                ],
+                [
+                    413.0,
+                    1310.0
+                ],
+                [
+                    18.0,
+                    1310.0
+                ]
+            ]
+        },
+        {
+            "text": "more",
+            "confidence": 0.998,
+            "box": [
+                [
+                    484.0,
+                    1289.0
+                ],
+                [
+                    539.0,
+                    1289.0
+                ],
+                [
+                    539.0,
+                    1307.0
+                ],
+                [
+                    484.0,
+                    1307.0
+                ]
+            ]
+        }
+    ]
+}

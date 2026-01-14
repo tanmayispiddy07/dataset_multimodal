@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-11-21_07-23-14_UTC.jpg",
+    "combined_text": "\"MAA COMBINATION EPPUDU VASTADO THELIDU KAANI\nVACCHINAPPUDUMATRAM BHADDALAYPODDI\"\nBLOCKBUSTER DIRECTOR ANIL RAVIPUDI AT THE\nSAREGAMAPA SHOW.\nADDICTEDTOMEMES\nHLRAJU\nE COMBINATION LO OKA CINEMA\nPADUTHE RACHA RACHE",
+    "detailed": [
+        {
+            "text": "\"MAA COMBINATION EPPUDU VASTADO THELIDU KAANI",
+            "confidence": 0.957,
+            "box": [
+                [
+                    11.0,
+                    40.0
+                ],
+                [
+                    1072.0,
+                    40.0
+                ],
+                [
+                    1072.0,
+                    78.0
+                ],
+                [
+                    11.0,
+                    78.0
+                ]
+            ]
+        },
+        {
+            "text": "VACCHINAPPUDUMATRAM BHADDALAYPODDI\"",
+            "confidence": 0.97,
+            "box": [
+                [
+                    94.0,
+                    88.0
+                ],
+                [
+                    984.0,
+                    88.0
+                ],
+                [
+                    984.0,
+                    122.0
+                ],
+                [
+                    94.0,
+                    122.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER DIRECTOR ANIL RAVIPUDI AT THE",
+            "confidence": 0.95,
+            "box": [
+                [
+                    89.0,
+                    136.0
+                ],
+                [
+                    990.0,
+                    136.0
+                ],
+                [
+                    990.0,
+                    170.0
+                ],
+                [
+                    89.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "SAREGAMAPA SHOW.",
+            "confidence": 0.974,
+            "box": [
+                [
+                    338.0,
+                    182.0
+                ],
+                [
+                    738.0,
+                    182.0
+                ],
+                [
+                    738.0,
+                    216.0
+                ],
+                [
+                    338.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    482.0,
+                    400.0
+                ],
+                [
+                    624.0,
+                    400.0
+                ],
+                [
+                    624.0,
+                    421.0
+                ],
+                [
+                    482.0,
+                    421.0
+                ]
+            ]
+        },
+        {
+            "text": "HLRAJU",
+            "confidence": 0.974,
+            "box": [
+                [
+                    0.0,
+                    1136.0
+                ],
+                [
+                    90.0,
+                    1136.0
+                ],
+                [
+                    90.0,
+                    1163.0
+                ],
+                [
+                    0.0,
+                    1163.0
+                ]
+            ]
+        },
+        {
+            "text": "E COMBINATION LO OKA CINEMA",
+            "confidence": 0.945,
+            "box": [
+                [
+                    27.0,
+                    1252.0
+                ],
+                [
+                    720.0,
+                    1252.0
+                ],
+                [
+                    720.0,
+                    1291.0
+                ],
+                [
+                    27.0,
+                    1291.0
+                ]
+            ]
+        },
+        {
+            "text": "PADUTHE RACHA RACHE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    120.0,
+                    1303.0
+                ],
+                [
+                    623.0,
+                    1303.0
+                ],
+                [
+                    623.0,
+                    1341.0
+                ],
+                [
+                    120.0,
+                    1341.0
+                ]
+            ]
+        }
+    ]
+}

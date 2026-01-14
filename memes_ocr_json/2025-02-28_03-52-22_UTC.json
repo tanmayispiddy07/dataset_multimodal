@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-02-28_03-52-22_UTC.jpg",
+    "combined_text": "THAT ONE PERSON FOR EVERY IPL SEASON\nBEFORE IPL\nAFTER IPL\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "THAT ONE PERSON FOR EVERY IPL SEASON",
+            "confidence": 0.944,
+            "box": [
+                [
+                    45.0,
+                    47.0
+                ],
+                [
+                    1059.0,
+                    47.0
+                ],
+                [
+                    1059.0,
+                    93.0
+                ],
+                [
+                    45.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "BEFORE IPL",
+            "confidence": 0.973,
+            "box": [
+                [
+                    342.0,
+                    141.0
+                ],
+                [
+                    790.0,
+                    141.0
+                ],
+                [
+                    790.0,
+                    205.0
+                ],
+                [
+                    342.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER IPL",
+            "confidence": 0.986,
+            "box": [
+                [
+                    363.0,
+                    772.0
+                ],
+                [
+                    786.0,
+                    772.0
+                ],
+                [
+                    786.0,
+                    845.0
+                ],
+                [
+                    363.0,
+                    845.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    895.0,
+                    1005.0
+                ],
+                [
+                    1055.0,
+                    1008.0
+                ],
+                [
+                    1054.0,
+                    1034.0
+                ],
+                [
+                    894.0,
+                    1031.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2023-05-13_14-02-48_UTC.jpg",
+    "combined_text": "UGRAM HOSTEL SCENE IS OUT NOW\nONE OF THEBEST SCENE\nIN RECENT TIMES\nTELUGU MEMES GURU\nE SCENE KOSAM AYINA MALLI MALLI E\nCINEMA CHUDOCHU...",
+    "detailed": [
+        {
+            "text": "UGRAM HOSTEL SCENE IS OUT NOW",
+            "confidence": 0.907,
+            "box": [
+                [
+                    65.0,
+                    428.0
+                ],
+                [
+                    937.0,
+                    428.0
+                ],
+                [
+                    937.0,
+                    465.0
+                ],
+                [
+                    65.0,
+                    465.0
+                ]
+            ]
+        },
+        {
+            "text": "ONE OF THEBEST SCENE",
+            "confidence": 0.93,
+            "box": [
+                [
+                    155.0,
+                    769.0
+                ],
+                [
+                    927.0,
+                    769.0
+                ],
+                [
+                    927.0,
+                    824.0
+                ],
+                [
+                    155.0,
+                    824.0
+                ]
+            ]
+        },
+        {
+            "text": "IN RECENT TIMES",
+            "confidence": 0.941,
+            "box": [
+                [
+                    269.0,
+                    842.0
+                ],
+                [
+                    810.0,
+                    842.0
+                ],
+                [
+                    810.0,
+                    893.0
+                ],
+                [
+                    269.0,
+                    893.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    901.0,
+                    1070.0
+                ],
+                [
+                    1038.0,
+                    1069.0
+                ],
+                [
+                    1038.0,
+                    1087.0
+                ],
+                [
+                    902.0,
+                    1089.0
+                ]
+            ]
+        },
+        {
+            "text": "E SCENE KOSAM AYINA MALLI MALLI E",
+            "confidence": 0.946,
+            "box": [
+                [
+                    150.0,
+                    1230.0
+                ],
+                [
+                    1045.0,
+                    1229.0
+                ],
+                [
+                    1045.0,
+                    1268.0
+                ],
+                [
+                    151.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA CHUDOCHU...",
+            "confidence": 0.978,
+            "box": [
+                [
+                    335.0,
+                    1281.0
+                ],
+                [
+                    851.0,
+                    1281.0
+                ],
+                [
+                    851.0,
+                    1323.0
+                ],
+                [
+                    335.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

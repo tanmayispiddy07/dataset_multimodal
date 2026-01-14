@@ -1,0 +1,600 @@
+{
+    "image_name": "2025-05-18_04-34-58_UTC.jpg",
+    "combined_text": "MAHESH BABU FANS BUYING THESE THINGS\nTO RE CREATE IN KHALEJA RE RELEASE\nHyderabad S00048-Update location \nPrank Toy ak\nToys&GiftsMa\nake Snake Toys for GardenFunny Place Col\nest month\nADDICTEDTOMEMES\nHospriqs Unisex Reusable Patient Gown Back Open Tie\nType Ideal only for Patients Green Gown Hospital Scrub\n(Green Free)\nBarrelCactus Plant(\n66\n**4.3Very Good3ratings\nAsswred\nFicus Religiosa,Sacred fig.Bodhi\nplant\nHot Deal\n taxes\n500327\n399.0099.00\n51%015443\nrs&discounts\nOr Pay396+47\n93+034\nCHESTHUNNARU RA.....\nEMPLAN",
+    "detailed": [
+        {
+            "text": "MAHESH BABU FANS BUYING THESE THINGS",
+            "confidence": 0.937,
+            "box": [
+                [
+                    100.0,
+                    31.0
+                ],
+                [
+                    1041.0,
+                    31.0
+                ],
+                [
+                    1041.0,
+                    68.0
+                ],
+                [
+                    100.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "TO RE CREATE IN KHALEJA RE RELEASE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    150.0,
+                    84.0
+                ],
+                [
+                    983.0,
+                    84.0
+                ],
+                [
+                    983.0,
+                    121.0
+                ],
+                [
+                    150.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "Hyderabad S00048-Update location ",
+            "confidence": 0.857,
+            "box": [
+                [
+                    873.0,
+                    146.0
+                ],
+                [
+                    1062.0,
+                    146.0
+                ],
+                [
+                    1062.0,
+                    167.0
+                ],
+                [
+                    873.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "Prank Toy ak",
+            "confidence": 0.873,
+            "box": [
+                [
+                    1017.0,
+                    178.0
+                ],
+                [
+                    1076.0,
+                    178.0
+                ],
+                [
+                    1076.0,
+                    191.0
+                ],
+                [
+                    1017.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "Toys&GiftsMa",
+            "confidence": 0.789,
+            "box": [
+                [
+                    972.0,
+                    252.0
+                ],
+                [
+                    1053.0,
+                    252.0
+                ],
+                [
+                    1053.0,
+                    265.0
+                ],
+                [
+                    972.0,
+                    265.0
+                ]
+            ]
+        },
+        {
+            "text": "ake Snake Toys for GardenFunny Place Col",
+            "confidence": 0.804,
+            "box": [
+                [
+                    873.0,
+                    265.0
+                ],
+                [
+                    1079.0,
+                    265.0
+                ],
+                [
+                    1079.0,
+                    282.0
+                ],
+                [
+                    873.0,
+                    282.0
+                ]
+            ]
+        },
+        {
+            "text": "est month",
+            "confidence": 0.898,
+            "box": [
+                [
+                    875.0,
+                    301.0
+                ],
+                [
+                    920.0,
+                    301.0
+                ],
+                [
+                    920.0,
+                    314.0
+                ],
+                [
+                    875.0,
+                    314.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    293.0,
+                    589.0
+                ],
+                [
+                    463.0,
+                    591.0
+                ],
+                [
+                    463.0,
+                    613.0
+                ],
+                [
+                    292.0,
+                    612.0
+                ]
+            ]
+        },
+        {
+            "text": "Hospriqs Unisex Reusable Patient Gown Back Open Tie",
+            "confidence": 0.973,
+            "box": [
+                [
+                    13.0,
+                    668.0
+                ],
+                [
+                    375.0,
+                    668.0
+                ],
+                [
+                    375.0,
+                    689.0
+                ],
+                [
+                    13.0,
+                    689.0
+                ]
+            ]
+        },
+        {
+            "text": "Type Ideal only for Patients Green Gown Hospital Scrub",
+            "confidence": 0.95,
+            "box": [
+                [
+                    15.0,
+                    690.0
+                ],
+                [
+                    378.0,
+                    690.0
+                ],
+                [
+                    378.0,
+                    707.0
+                ],
+                [
+                    15.0,
+                    707.0
+                ]
+            ]
+        },
+        {
+            "text": "(Green Free)",
+            "confidence": 0.93,
+            "box": [
+                [
+                    13.0,
+                    708.0
+                ],
+                [
+                    101.0,
+                    708.0
+                ],
+                [
+                    101.0,
+                    729.0
+                ],
+                [
+                    13.0,
+                    729.0
+                ]
+            ]
+        },
+        {
+            "text": "BarrelCactus Plant(",
+            "confidence": 0.954,
+            "box": [
+                [
+                    394.0,
+                    716.0
+                ],
+                [
+                    603.0,
+                    716.0
+                ],
+                [
+                    603.0,
+                    741.0
+                ],
+                [
+                    394.0,
+                    741.0
+                ]
+            ]
+        },
+        {
+            "text": "66",
+            "confidence": 0.997,
+            "box": [
+                [
+                    869.0,
+                    711.0
+                ],
+                [
+                    920.0,
+                    711.0
+                ],
+                [
+                    920.0,
+                    746.0
+                ],
+                [
+                    869.0,
+                    746.0
+                ]
+            ]
+        },
+        {
+            "text": "**4.3Very Good3ratings",
+            "confidence": 0.922,
+            "box": [
+                [
+                    13.0,
+                    733.0
+                ],
+                [
+                    257.0,
+                    735.0
+                ],
+                [
+                    257.0,
+                    757.0
+                ],
+                [
+                    13.0,
+                    755.0
+                ]
+            ]
+        },
+        {
+            "text": "Asswred",
+            "confidence": 0.869,
+            "box": [
+                [
+                    325.0,
+                    735.0
+                ],
+                [
+                    387.0,
+                    735.0
+                ],
+                [
+                    387.0,
+                    757.0
+                ],
+                [
+                    325.0,
+                    757.0
+                ]
+            ]
+        },
+        {
+            "text": "Ficus Religiosa,Sacred fig.Bodhi",
+            "confidence": 0.917,
+            "box": [
+                [
+                    606.0,
+                    732.0
+                ],
+                [
+                    831.0,
+                    732.0
+                ],
+                [
+                    831.0,
+                    753.0
+                ],
+                [
+                    606.0,
+                    753.0
+                ]
+            ]
+        },
+        {
+            "text": "plant",
+            "confidence": 0.998,
+            "box": [
+                [
+                    606.0,
+                    753.0
+                ],
+                [
+                    645.0,
+                    753.0
+                ],
+                [
+                    645.0,
+                    771.0
+                ],
+                [
+                    606.0,
+                    771.0
+                ]
+            ]
+        },
+        {
+            "text": "Hot Deal",
+            "confidence": 0.884,
+            "box": [
+                [
+                    15.0,
+                    774.0
+                ],
+                [
+                    80.0,
+                    774.0
+                ],
+                [
+                    80.0,
+                    800.0
+                ],
+                [
+                    15.0,
+                    800.0
+                ]
+            ]
+        },
+        {
+            "text": " taxes",
+            "confidence": 0.886,
+            "box": [
+                [
+                    863.0,
+                    766.0
+                ],
+                [
+                    908.0,
+                    770.0
+                ],
+                [
+                    906.0,
+                    788.0
+                ],
+                [
+                    861.0,
+                    784.0
+                ]
+            ]
+        },
+        {
+            "text": "500327",
+            "confidence": 0.992,
+            "box": [
+                [
+                    389.0,
+                    779.0
+                ],
+                [
+                    573.0,
+                    782.0
+                ],
+                [
+                    572.0,
+                    817.0
+                ],
+                [
+                    388.0,
+                    814.0
+                ]
+            ]
+        },
+        {
+            "text": "399.0099.00",
+            "confidence": 0.887,
+            "box": [
+                [
+                    606.0,
+                    779.0
+                ],
+                [
+                    719.0,
+                    779.0
+                ],
+                [
+                    719.0,
+                    800.0
+                ],
+                [
+                    606.0,
+                    800.0
+                ]
+            ]
+        },
+        {
+            "text": "51%015443",
+            "confidence": 0.944,
+            "box": [
+                [
+                    14.0,
+                    807.0
+                ],
+                [
+                    193.0,
+                    810.0
+                ],
+                [
+                    192.0,
+                    835.0
+                ],
+                [
+                    14.0,
+                    832.0
+                ]
+            ]
+        },
+        {
+            "text": "rs&discounts",
+            "confidence": 0.951,
+            "box": [
+                [
+                    865.0,
+                    822.0
+                ],
+                [
+                    949.0,
+                    822.0
+                ],
+                [
+                    949.0,
+                    839.0
+                ],
+                [
+                    865.0,
+                    839.0
+                ]
+            ]
+        },
+        {
+            "text": "Or Pay396+47",
+            "confidence": 0.955,
+            "box": [
+                [
+                    11.0,
+                    842.0
+                ],
+                [
+                    148.0,
+                    842.0
+                ],
+                [
+                    148.0,
+                    863.0
+                ],
+                [
+                    11.0,
+                    863.0
+                ]
+            ]
+        },
+        {
+            "text": "93+034",
+            "confidence": 0.983,
+            "box": [
+                [
+                    395.0,
+                    833.0
+                ],
+                [
+                    496.0,
+                    833.0
+                ],
+                [
+                    496.0,
+                    856.0
+                ],
+                [
+                    395.0,
+                    856.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESTHUNNARU RA.....",
+            "confidence": 0.981,
+            "box": [
+                [
+                    306.0,
+                    1246.0
+                ],
+                [
+                    1054.0,
+                    1255.0
+                ],
+                [
+                    1053.0,
+                    1327.0
+                ],
+                [
+                    305.0,
+                    1318.0
+                ]
+            ]
+        },
+        {
+            "text": "EMPLAN",
+            "confidence": 0.995,
+            "box": [
+                [
+                    34.0,
+                    1264.0
+                ],
+                [
+                    316.0,
+                    1264.0
+                ],
+                [
+                    316.0,
+                    1312.0
+                ],
+                [
+                    34.0,
+                    1312.0
+                ]
+            ]
+        }
+    ]
+}

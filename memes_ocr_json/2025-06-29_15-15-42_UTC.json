@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-06-29_15-15-42_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nQOCTEDTOY\nSelf Love Ekkvua unna Me.\nWatching my photos in stories Again &\nagain",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.973,
+            "box": [
+                [
+                    185.0,
+                    24.0
+                ],
+                [
+                    590.0,
+                    26.0
+                ],
+                [
+                    589.0,
+                    65.0
+                ],
+                [
+                    184.0,
+                    62.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.999,
+            "box": [
+                [
+                    186.0,
+                    75.0
+                ],
+                [
+                    582.0,
+                    79.0
+                ],
+                [
+                    581.0,
+                    117.0
+                ],
+                [
+                    186.0,
+                    114.0
+                ]
+            ]
+        },
+        {
+            "text": "QOCTEDTOY",
+            "confidence": 0.573,
+            "box": [
+                [
+                    52.0,
+                    93.0
+                ],
+                [
+                    112.0,
+                    93.0
+                ],
+                [
+                    112.0,
+                    103.0
+                ],
+                [
+                    52.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "Self Love Ekkvua unna Me.",
+            "confidence": 0.967,
+            "box": [
+                [
+                    35.0,
+                    166.0
+                ],
+                [
+                    654.0,
+                    166.0
+                ],
+                [
+                    654.0,
+                    214.0
+                ],
+                [
+                    35.0,
+                    214.0
+                ]
+            ]
+        },
+        {
+            "text": "Watching my photos in stories Again &",
+            "confidence": 0.993,
+            "box": [
+                [
+                    33.0,
+                    233.0
+                ],
+                [
+                    948.0,
+                    233.0
+                ],
+                [
+                    948.0,
+                    288.0
+                ],
+                [
+                    33.0,
+                    288.0
+                ]
+            ]
+        },
+        {
+            "text": "again",
+            "confidence": 0.997,
+            "box": [
+                [
+                    27.0,
+                    301.0
+                ],
+                [
+                    169.0,
+                    295.0
+                ],
+                [
+                    172.0,
+                    357.0
+                ],
+                [
+                    30.0,
+                    363.0
+                ]
+            ]
+        }
+    ]
+}

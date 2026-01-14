@@ -1,0 +1,424 @@
+{
+    "image_name": "2025-04-11_05-54-12_UTC.jpg",
+    "combined_text": "THE FIRSTLOOK OF DEVAN'S\nKRISHNALEELA IS OUT NOW.\nINTRODUCING\nDEVAN\nMAHASEN\nINTRODUCING\nDEVAN\nTHATSTYLE\nTHATSTYLE\nSs9e\nJYOTHSNAG\nSTORY\nANIL KIRAN KUMAR G sC\nCTION DEVAN\n388050O\nMUSC BHEEMS CECIROLEO  LICs BHASKARABHATLA |OO SATISH MUTHYALA\nKSRCHOOCRACHU MASTER  NANDHU MASTER\nADDICTEDTOMEMES\nPOSTER BAGUNDI ALL THE BESTFOR FILM",
+    "detailed": [
+        {
+            "text": "THE FIRSTLOOK OF DEVAN'S",
+            "confidence": 0.949,
+            "box": [
+                [
+                    212.0,
+                    19.0
+                ],
+                [
+                    935.0,
+                    21.0
+                ],
+                [
+                    935.0,
+                    64.0
+                ],
+                [
+                    212.0,
+                    63.0
+                ]
+            ]
+        },
+        {
+            "text": "KRISHNALEELA IS OUT NOW.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    207.0,
+                    84.0
+                ],
+                [
+                    937.0,
+                    84.0
+                ],
+                [
+                    937.0,
+                    130.0
+                ],
+                [
+                    207.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "INTRODUCING",
+            "confidence": 0.997,
+            "box": [
+                [
+                    200.0,
+                    174.0
+                ],
+                [
+                    340.0,
+                    174.0
+                ],
+                [
+                    340.0,
+                    191.0
+                ],
+                [
+                    200.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "DEVAN",
+            "confidence": 0.997,
+            "box": [
+                [
+                    218.0,
+                    194.0
+                ],
+                [
+                    322.0,
+                    194.0
+                ],
+                [
+                    322.0,
+                    220.0
+                ],
+                [
+                    218.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "MAHASEN",
+            "confidence": 0.969,
+            "box": [
+                [
+                    622.0,
+                    192.0
+                ],
+                [
+                    705.0,
+                    192.0
+                ],
+                [
+                    705.0,
+                    219.0
+                ],
+                [
+                    622.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "INTRODUCING",
+            "confidence": 0.996,
+            "box": [
+                [
+                    742.0,
+                    254.0
+                ],
+                [
+                    878.0,
+                    254.0
+                ],
+                [
+                    878.0,
+                    270.0
+                ],
+                [
+                    742.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "DEVAN",
+            "confidence": 0.997,
+            "box": [
+                [
+                    758.0,
+                    270.0
+                ],
+                [
+                    861.0,
+                    270.0
+                ],
+                [
+                    861.0,
+                    293.0
+                ],
+                [
+                    758.0,
+                    293.0
+                ]
+            ]
+        },
+        {
+            "text": "THATSTYLE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    297.0,
+                    495.0
+                ],
+                [
+                    411.0,
+                    498.0
+                ],
+                [
+                    410.0,
+                    520.0
+                ],
+                [
+                    296.0,
+                    517.0
+                ]
+            ]
+        },
+        {
+            "text": "THATSTYLE",
+            "confidence": 0.995,
+            "box": [
+                [
+                    833.0,
+                    517.0
+                ],
+                [
+                    951.0,
+                    522.0
+                ],
+                [
+                    950.0,
+                    548.0
+                ],
+                [
+                    832.0,
+                    543.0
+                ]
+            ]
+        },
+        {
+            "text": "Ss9e",
+            "confidence": 0.515,
+            "box": [
+                [
+                    94.0,
+                    883.0
+                ],
+                [
+                    429.0,
+                    877.0
+                ],
+                [
+                    431.0,
+                    1006.0
+                ],
+                [
+                    96.0,
+                    1011.0
+                ]
+            ]
+        },
+        {
+            "text": "JYOTHSNAG",
+            "confidence": 0.974,
+            "box": [
+                [
+                    602.0,
+                    964.0
+                ],
+                [
+                    695.0,
+                    964.0
+                ],
+                [
+                    695.0,
+                    981.0
+                ],
+                [
+                    602.0,
+                    981.0
+                ]
+            ]
+        },
+        {
+            "text": "STORY",
+            "confidence": 0.89,
+            "box": [
+                [
+                    688.0,
+                    967.0
+                ],
+                [
+                    734.0,
+                    967.0
+                ],
+                [
+                    734.0,
+                    980.0
+                ],
+                [
+                    688.0,
+                    980.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIL KIRAN KUMAR G sC",
+            "confidence": 0.874,
+            "box": [
+                [
+                    775.0,
+                    966.0
+                ],
+                [
+                    931.0,
+                    966.0
+                ],
+                [
+                    931.0,
+                    978.0
+                ],
+                [
+                    775.0,
+                    978.0
+                ]
+            ]
+        },
+        {
+            "text": "CTION DEVAN",
+            "confidence": 0.887,
+            "box": [
+                [
+                    987.0,
+                    964.0
+                ],
+                [
+                    1056.0,
+                    964.0
+                ],
+                [
+                    1056.0,
+                    981.0
+                ],
+                [
+                    987.0,
+                    981.0
+                ]
+            ]
+        },
+        {
+            "text": "388050O",
+            "confidence": 0.589,
+            "box": [
+                [
+                    304.0,
+                    978.0
+                ],
+                [
+                    417.0,
+                    982.0
+                ],
+                [
+                    416.0,
+                    1014.0
+                ],
+                [
+                    303.0,
+                    1010.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSC BHEEMS CECIROLEO  LICs BHASKARABHATLA |OO SATISH MUTHYALA",
+            "confidence": 0.873,
+            "box": [
+                [
+                    592.0,
+                    977.0
+                ],
+                [
+                    1024.0,
+                    976.0
+                ],
+                [
+                    1024.0,
+                    997.0
+                ],
+                [
+                    592.0,
+                    998.0
+                ]
+            ]
+        },
+        {
+            "text": "KSRCHOOCRACHU MASTER  NANDHU MASTER",
+            "confidence": 0.848,
+            "box": [
+                [
+                    622.0,
+                    991.0
+                ],
+                [
+                    990.0,
+                    990.0
+                ],
+                [
+                    990.0,
+                    1010.0
+                ],
+                [
+                    622.0,
+                    1012.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    15.0,
+                    1137.0
+                ],
+                [
+                    163.0,
+                    1137.0
+                ],
+                [
+                    163.0,
+                    1158.0
+                ],
+                [
+                    15.0,
+                    1158.0
+                ]
+            ]
+        },
+        {
+            "text": "POSTER BAGUNDI ALL THE BESTFOR FILM",
+            "confidence": 0.942,
+            "box": [
+                [
+                    100.0,
+                    1286.0
+                ],
+                [
+                    1035.0,
+                    1286.0
+                ],
+                [
+                    1035.0,
+                    1328.0
+                ],
+                [
+                    100.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

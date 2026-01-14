@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-08-14_00-08-00_UTC.jpg",
+    "combined_text": "My tupperware for the rest of their life\nafter eating something with tomato\nsauce in it",
+    "detailed": [
+        {
+            "text": "My tupperware for the rest of their life",
+            "confidence": 0.969,
+            "box": [
+                [
+                    4.0,
+                    8.0
+                ],
+                [
+                    1050.0,
+                    6.0
+                ],
+                [
+                    1050.0,
+                    73.0
+                ],
+                [
+                    5.0,
+                    75.0
+                ]
+            ]
+        },
+        {
+            "text": "after eating something with tomato",
+            "confidence": 0.977,
+            "box": [
+                [
+                    7.0,
+                    104.0
+                ],
+                [
+                    984.0,
+                    104.0
+                ],
+                [
+                    984.0,
+                    171.0
+                ],
+                [
+                    7.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "sauce in it",
+            "confidence": 0.971,
+            "box": [
+                [
+                    6.0,
+                    199.0
+                ],
+                [
+                    295.0,
+                    199.0
+                ],
+                [
+                    295.0,
+                    262.0
+                ],
+                [
+                    6.0,
+                    262.0
+                ]
+            ]
+        }
+    ]
+}

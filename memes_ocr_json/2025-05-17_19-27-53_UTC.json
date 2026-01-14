@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-17_19-27-53_UTC.jpg",
+    "combined_text": "sarcasm\nC\nPAK ARA\nPhaijan, what's the best price of your Brahmos?\nAbsolutely free.Just share your location.",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    122.0,
+                    152.0
+                ],
+                [
+                    255.0,
+                    152.0
+                ],
+                [
+                    255.0,
+                    178.0
+                ],
+                [
+                    122.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "text": "C",
+            "confidence": 0.535,
+            "box": [
+                [
+                    800.0,
+                    468.0
+                ],
+                [
+                    842.0,
+                    479.0
+                ],
+                [
+                    837.0,
+                    499.0
+                ],
+                [
+                    794.0,
+                    487.0
+                ]
+            ]
+        },
+        {
+            "text": "PAK ARA",
+            "confidence": 0.78,
+            "box": [
+                [
+                    562.0,
+                    502.0
+                ],
+                [
+                    701.0,
+                    513.0
+                ],
+                [
+                    698.0,
+                    548.0
+                ],
+                [
+                    559.0,
+                    537.0
+                ]
+            ]
+        },
+        {
+            "text": "Phaijan, what's the best price of your Brahmos?",
+            "confidence": 0.995,
+            "box": [
+                [
+                    27.0,
+                    602.0
+                ],
+                [
+                    1050.0,
+                    603.0
+                ],
+                [
+                    1050.0,
+                    646.0
+                ],
+                [
+                    27.0,
+                    645.0
+                ]
+            ]
+        },
+        {
+            "text": "Absolutely free.Just share your location.",
+            "confidence": 0.961,
+            "box": [
+                [
+                    59.0,
+                    1263.0
+                ],
+                [
+                    994.0,
+                    1265.0
+                ],
+                [
+                    994.0,
+                    1309.0
+                ],
+                [
+                    59.0,
+                    1308.0
+                ]
+            ]
+        }
+    ]
+}

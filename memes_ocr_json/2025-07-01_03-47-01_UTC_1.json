@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-07-01_03-47-01_UTC_1.jpg",
+    "combined_text": "DOCTORS DAY\nVELLU KATHINANNA\nCA DAY\nADDICTEDTOMEMES\nHaankas\nVELLUAMMORUKATHINANNOI",
+    "detailed": [
+        {
+            "text": "DOCTORS DAY",
+            "confidence": 0.951,
+            "box": [
+                [
+                    200.0,
+                    66.0
+                ],
+                [
+                    945.0,
+                    66.0
+                ],
+                [
+                    945.0,
+                    155.0
+                ],
+                [
+                    200.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "VELLU KATHINANNA",
+            "confidence": 0.974,
+            "box": [
+                [
+                    30.0,
+                    620.0
+                ],
+                [
+                    681.0,
+                    620.0
+                ],
+                [
+                    681.0,
+                    675.0
+                ],
+                [
+                    30.0,
+                    675.0
+                ]
+            ]
+        },
+        {
+            "text": "CA DAY",
+            "confidence": 0.9,
+            "box": [
+                [
+                    380.0,
+                    744.0
+                ],
+                [
+                    787.0,
+                    744.0
+                ],
+                [
+                    787.0,
+                    843.0
+                ],
+                [
+                    380.0,
+                    843.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    14.0,
+                    1041.0
+                ],
+                [
+                    163.0,
+                    1041.0
+                ],
+                [
+                    163.0,
+                    1062.0
+                ],
+                [
+                    14.0,
+                    1062.0
+                ]
+            ]
+        },
+        {
+            "text": "Haankas",
+            "confidence": 0.757,
+            "box": [
+                [
+                    858.0,
+                    1190.0
+                ],
+                [
+                    976.0,
+                    1190.0
+                ],
+                [
+                    976.0,
+                    1221.0
+                ],
+                [
+                    858.0,
+                    1221.0
+                ]
+            ]
+        },
+        {
+            "text": "VELLUAMMORUKATHINANNOI",
+            "confidence": 0.989,
+            "box": [
+                [
+                    27.0,
+                    1272.0
+                ],
+                [
+                    966.0,
+                    1272.0
+                ],
+                [
+                    966.0,
+                    1327.0
+                ],
+                [
+                    27.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

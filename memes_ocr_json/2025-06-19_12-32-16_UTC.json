@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-06-19_12-32-16_UTC.jpg",
+    "combined_text": "ELEVEN IS A CONTENT-DRIVEN MOVIE THAT'S\nWELL-RECEIVED ANDCELEBRATED BY TELUGU\nAUDIENCES.TRENDING AT TOP-1 ON PRIME VIDEO\nprime\n#1in India\nEleven\nOIncluded with Prime\nADDICTEDTOMEMES\nASALU LAST 3O MINUTES KANISAM\nGUESS KUDA CHEYYALEKHAPOYYA\nINTHA INTERESTING GA UNTADHI ANUKOLEDHU",
+    "detailed": [
+        {
+            "text": "ELEVEN IS A CONTENT-DRIVEN MOVIE THAT'S",
+            "confidence": 0.947,
+            "box": [
+                [
+                    86.0,
+                    52.0
+                ],
+                [
+                    995.0,
+                    52.0
+                ],
+                [
+                    995.0,
+                    85.0
+                ],
+                [
+                    86.0,
+                    85.0
+                ]
+            ]
+        },
+        {
+            "text": "WELL-RECEIVED ANDCELEBRATED BY TELUGU",
+            "confidence": 0.961,
+            "box": [
+                [
+                    80.0,
+                    98.0
+                ],
+                [
+                    998.0,
+                    99.0
+                ],
+                [
+                    997.0,
+                    134.0
+                ],
+                [
+                    80.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "AUDIENCES.TRENDING AT TOP-1 ON PRIME VIDEO",
+            "confidence": 0.958,
+            "box": [
+                [
+                    48.0,
+                    147.0
+                ],
+                [
+                    1033.0,
+                    148.0
+                ],
+                [
+                    1032.0,
+                    186.0
+                ],
+                [
+                    47.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "text": "prime",
+            "confidence": 0.997,
+            "box": [
+                [
+                    491.0,
+                    253.0
+                ],
+                [
+                    618.0,
+                    250.0
+                ],
+                [
+                    619.0,
+                    299.0
+                ],
+                [
+                    492.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "#1in India",
+            "confidence": 0.919,
+            "box": [
+                [
+                    28.0,
+                    629.0
+                ],
+                [
+                    142.0,
+                    629.0
+                ],
+                [
+                    142.0,
+                    657.0
+                ],
+                [
+                    28.0,
+                    657.0
+                ]
+            ]
+        },
+        {
+            "text": "Eleven",
+            "confidence": 0.997,
+            "box": [
+                [
+                    25.0,
+                    688.0
+                ],
+                [
+                    147.0,
+                    694.0
+                ],
+                [
+                    145.0,
+                    734.0
+                ],
+                [
+                    23.0,
+                    728.0
+                ]
+            ]
+        },
+        {
+            "text": "OIncluded with Prime",
+            "confidence": 0.929,
+            "box": [
+                [
+                    29.0,
+                    749.0
+                ],
+                [
+                    229.0,
+                    750.0
+                ],
+                [
+                    229.0,
+                    774.0
+                ],
+                [
+                    29.0,
+                    773.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    910.0,
+                    908.0
+                ],
+                [
+                    1066.0,
+                    908.0
+                ],
+                [
+                    1066.0,
+                    931.0
+                ],
+                [
+                    910.0,
+                    931.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALU LAST 3O MINUTES KANISAM",
+            "confidence": 0.925,
+            "box": [
+                [
+                    199.0,
+                    1050.0
+                ],
+                [
+                    921.0,
+                    1050.0
+                ],
+                [
+                    921.0,
+                    1088.0
+                ],
+                [
+                    199.0,
+                    1088.0
+                ]
+            ]
+        },
+        {
+            "text": "GUESS KUDA CHEYYALEKHAPOYYA",
+            "confidence": 0.969,
+            "box": [
+                [
+                    210.0,
+                    1103.0
+                ],
+                [
+                    916.0,
+                    1103.0
+                ],
+                [
+                    916.0,
+                    1137.0
+                ],
+                [
+                    210.0,
+                    1137.0
+                ]
+            ]
+        },
+        {
+            "text": "INTHA INTERESTING GA UNTADHI ANUKOLEDHU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    60.0,
+                    1151.0
+                ],
+                [
+                    1041.0,
+                    1151.0
+                ],
+                [
+                    1041.0,
+                    1188.0
+                ],
+                [
+                    60.0,
+                    1188.0
+                ]
+            ]
+        }
+    ]
+}

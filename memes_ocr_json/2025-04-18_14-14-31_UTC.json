@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-04-18_14-14-31_UTC.jpg",
+    "combined_text": "ODELA 2 IS GETTING HUGE POSTIVE\nRESPONSE FOR ITS WILD MOMENTS AND\nDIVINE MOMENTS IN MOVIE\nADDICTEDTOMEMES\nPADHANDIMAWA CINEMA\nBAGUNDIANTA VELDHAM",
+    "detailed": [
+        {
+            "text": "ODELA 2 IS GETTING HUGE POSTIVE",
+            "confidence": 0.866,
+            "box": [
+                [
+                    136.0,
+                    35.0
+                ],
+                [
+                    996.0,
+                    36.0
+                ],
+                [
+                    996.0,
+                    78.0
+                ],
+                [
+                    136.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "RESPONSE FOR ITS WILD MOMENTS AND",
+            "confidence": 0.942,
+            "box": [
+                [
+                    89.0,
+                    95.0
+                ],
+                [
+                    1043.0,
+                    95.0
+                ],
+                [
+                    1043.0,
+                    137.0
+                ],
+                [
+                    89.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "DIVINE MOMENTS IN MOVIE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    231.0,
+                    152.0
+                ],
+                [
+                    890.0,
+                    152.0
+                ],
+                [
+                    890.0,
+                    194.0
+                ],
+                [
+                    231.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    6.0,
+                    1139.0
+                ],
+                [
+                    167.0,
+                    1139.0
+                ],
+                [
+                    167.0,
+                    1164.0
+                ],
+                [
+                    6.0,
+                    1164.0
+                ]
+            ]
+        },
+        {
+            "text": "PADHANDIMAWA CINEMA",
+            "confidence": 0.962,
+            "box": [
+                [
+                    224.0,
+                    1222.0
+                ],
+                [
+                    899.0,
+                    1222.0
+                ],
+                [
+                    899.0,
+                    1268.0
+                ],
+                [
+                    224.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "BAGUNDIANTA VELDHAM",
+            "confidence": 0.982,
+            "box": [
+                [
+                    217.0,
+                    1285.0
+                ],
+                [
+                    897.0,
+                    1285.0
+                ],
+                [
+                    897.0,
+                    1331.0
+                ],
+                [
+                    217.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

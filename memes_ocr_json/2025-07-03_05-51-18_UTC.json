@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-07-03_05-51-18_UTC.jpg",
+    "combined_text": "GOOD NEWS FOR ALL BIGG BOSS FANS.SEND YOUR VIDEO\nAND GET A CHANCE TO BE IN COMING SEASON\nStararo\n9\nbb9.jiostar.com35e5\n5..59\n53o\n55s\nADDICTEDTOMEMES\nIDHIYEDOBAGUNDICOMMON\nPEOPLE KI KUDA ENTRYUNDI\nANTATRYCHEDHAM",
+    "detailed": [
+        {
+            "text": "GOOD NEWS FOR ALL BIGG BOSS FANS.SEND YOUR VIDEO",
+            "confidence": 0.932,
+            "box": [
+                [
+                    53.0,
+                    47.0
+                ],
+                [
+                    1024.0,
+                    47.0
+                ],
+                [
+                    1024.0,
+                    77.0
+                ],
+                [
+                    53.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "AND GET A CHANCE TO BE IN COMING SEASON",
+            "confidence": 0.921,
+            "box": [
+                [
+                    142.0,
+                    85.0
+                ],
+                [
+                    937.0,
+                    85.0
+                ],
+                [
+                    937.0,
+                    118.0
+                ],
+                [
+                    142.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "Stararo",
+            "confidence": 0.813,
+            "box": [
+                [
+                    870.0,
+                    563.0
+                ],
+                [
+                    934.0,
+                    563.0
+                ],
+                [
+                    934.0,
+                    585.0
+                ],
+                [
+                    870.0,
+                    585.0
+                ]
+            ]
+        },
+        {
+            "text": "9",
+            "confidence": 0.741,
+            "box": [
+                [
+                    406.0,
+                    634.0
+                ],
+                [
+                    745.0,
+                    631.0
+                ],
+                [
+                    745.0,
+                    669.0
+                ],
+                [
+                    407.0,
+                    672.0
+                ]
+            ]
+        },
+        {
+            "text": "bb9.jiostar.com35e5",
+            "confidence": 0.871,
+            "box": [
+                [
+                    437.0,
+                    679.0
+                ],
+                [
+                    710.0,
+                    676.0
+                ],
+                [
+                    710.0,
+                    713.0
+                ],
+                [
+                    438.0,
+                    717.0
+                ]
+            ]
+        },
+        {
+            "text": "5..59",
+            "confidence": 0.606,
+            "box": [
+                [
+                    353.0,
+                    723.0
+                ],
+                [
+                    804.0,
+                    723.0
+                ],
+                [
+                    804.0,
+                    757.0
+                ],
+                [
+                    353.0,
+                    757.0
+                ]
+            ]
+        },
+        {
+            "text": "53o",
+            "confidence": 0.547,
+            "box": [
+                [
+                    402.0,
+                    767.0
+                ],
+                [
+                    748.0,
+                    768.0
+                ],
+                [
+                    748.0,
+                    799.0
+                ],
+                [
+                    402.0,
+                    797.0
+                ]
+            ]
+        },
+        {
+            "text": "55s",
+            "confidence": 0.539,
+            "box": [
+                [
+                    411.0,
+                    804.0
+                ],
+                [
+                    736.0,
+                    813.0
+                ],
+                [
+                    735.0,
+                    852.0
+                ],
+                [
+                    410.0,
+                    843.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    887.0,
+                    870.0
+                ],
+                [
+                    1039.0,
+                    870.0
+                ],
+                [
+                    1039.0,
+                    895.0
+                ],
+                [
+                    887.0,
+                    895.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHIYEDOBAGUNDICOMMON",
+            "confidence": 0.993,
+            "box": [
+                [
+                    426.0,
+                    1179.0
+                ],
+                [
+                    1073.0,
+                    1179.0
+                ],
+                [
+                    1073.0,
+                    1217.0
+                ],
+                [
+                    426.0,
+                    1217.0
+                ]
+            ]
+        },
+        {
+            "text": "PEOPLE KI KUDA ENTRYUNDI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    447.0,
+                    1231.0
+                ],
+                [
+                    1063.0,
+                    1231.0
+                ],
+                [
+                    1063.0,
+                    1268.0
+                ],
+                [
+                    447.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTATRYCHEDHAM",
+            "confidence": 0.996,
+            "box": [
+                [
+                    530.0,
+                    1282.0
+                ],
+                [
+                    967.0,
+                    1282.0
+                ],
+                [
+                    967.0,
+                    1320.0
+                ],
+                [
+                    530.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

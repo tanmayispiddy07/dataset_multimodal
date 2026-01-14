@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-12-04_11-54-00_UTC.jpg",
+    "combined_text": "CRAZY AND FUN FILLED\nTEASER OF \"GOAT\"\nADDICTEDTOMEMES\nMAA SUDHEER PERFORMANCE\nBAGUNDI BREAK IVVADANIKI\nREADY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "CRAZY AND FUN FILLED",
+            "confidence": 0.959,
+            "box": [
+                [
+                    191.0,
+                    66.0
+                ],
+                [
+                    975.0,
+                    66.0
+                ],
+                [
+                    975.0,
+                    120.0
+                ],
+                [
+                    191.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER OF \"GOAT\"",
+            "confidence": 0.969,
+            "box": [
+                [
+                    261.0,
+                    145.0
+                ],
+                [
+                    900.0,
+                    142.0
+                ],
+                [
+                    900.0,
+                    202.0
+                ],
+                [
+                    262.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    17.0,
+                    1104.0
+                ],
+                [
+                    170.0,
+                    1104.0
+                ],
+                [
+                    170.0,
+                    1125.0
+                ],
+                [
+                    17.0,
+                    1125.0
+                ]
+            ]
+        },
+        {
+            "text": "MAA SUDHEER PERFORMANCE",
+            "confidence": 0.963,
+            "box": [
+                [
+                    540.0,
+                    1210.0
+                ],
+                [
+                    1053.0,
+                    1208.0
+                ],
+                [
+                    1053.0,
+                    1239.0
+                ],
+                [
+                    540.0,
+                    1240.0
+                ]
+            ]
+        },
+        {
+            "text": "BAGUNDI BREAK IVVADANIKI",
+            "confidence": 0.956,
+            "box": [
+                [
+                    553.0,
+                    1250.0
+                ],
+                [
+                    1041.0,
+                    1250.0
+                ],
+                [
+                    1041.0,
+                    1279.0
+                ],
+                [
+                    553.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "READY GA UNNAMU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    622.0,
+                    1288.0
+                ],
+                [
+                    962.0,
+                    1289.0
+                ],
+                [
+                    962.0,
+                    1323.0
+                ],
+                [
+                    622.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

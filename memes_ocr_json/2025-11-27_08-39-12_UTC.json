@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-11-27_08-39-12_UTC.jpg",
+    "combined_text": "DIRECTOR CHAITANYA VARMA SPEECH AT\nMARUVA TARAMA PRE RELEASE EVENT\nMOVIE GRAND RELEASING TOMMOROW\nFROM DAY 1NUNCHI EROJUVARAKU\nCHALA STRUGGLES FACE CHESAMU\nOKA STORY NI ENTHA BEAUTIFUL GA\nNARRATE CHEYOCHO ANTHA CHESANU\nMEKU NACHUTHUNDI CINEMA\nADDICTEDTOMEMES\nTelugu Filr\nALLTHE BESTFOR CINEMA",
+    "detailed": [
+        {
+            "text": "DIRECTOR CHAITANYA VARMA SPEECH AT",
+            "confidence": 0.957,
+            "box": [
+                [
+                    200.0,
+                    20.0
+                ],
+                [
+                    963.0,
+                    20.0
+                ],
+                [
+                    963.0,
+                    53.0
+                ],
+                [
+                    200.0,
+                    53.0
+                ]
+            ]
+        },
+        {
+            "text": "MARUVA TARAMA PRE RELEASE EVENT",
+            "confidence": 0.957,
+            "box": [
+                [
+                    219.0,
+                    64.0
+                ],
+                [
+                    934.0,
+                    64.0
+                ],
+                [
+                    934.0,
+                    98.0
+                ],
+                [
+                    219.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE GRAND RELEASING TOMMOROW",
+            "confidence": 0.958,
+            "box": [
+                [
+                    211.0,
+                    110.0
+                ],
+                [
+                    945.0,
+                    110.0
+                ],
+                [
+                    945.0,
+                    144.0
+                ],
+                [
+                    211.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM DAY 1NUNCHI EROJUVARAKU",
+            "confidence": 0.944,
+            "box": [
+                [
+                    255.0,
+                    417.0
+                ],
+                [
+                    1004.0,
+                    417.0
+                ],
+                [
+                    1004.0,
+                    454.0
+                ],
+                [
+                    255.0,
+                    454.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALA STRUGGLES FACE CHESAMU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    260.0,
+                    466.0
+                ],
+                [
+                    996.0,
+                    464.0
+                ],
+                [
+                    996.0,
+                    503.0
+                ],
+                [
+                    260.0,
+                    505.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA STORY NI ENTHA BEAUTIFUL GA",
+            "confidence": 0.94,
+            "box": [
+                [
+                    273.0,
+                    781.0
+                ],
+                [
+                    952.0,
+                    779.0
+                ],
+                [
+                    952.0,
+                    817.0
+                ],
+                [
+                    273.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "NARRATE CHEYOCHO ANTHA CHESANU",
+            "confidence": 0.967,
+            "box": [
+                [
+                    243.0,
+                    826.0
+                ],
+                [
+                    975.0,
+                    826.0
+                ],
+                [
+                    975.0,
+                    864.0
+                ],
+                [
+                    243.0,
+                    864.0
+                ]
+            ]
+        },
+        {
+            "text": "MEKU NACHUTHUNDI CINEMA",
+            "confidence": 0.958,
+            "box": [
+                [
+                    339.0,
+                    877.0
+                ],
+                [
+                    892.0,
+                    877.0
+                ],
+                [
+                    892.0,
+                    910.0
+                ],
+                [
+                    339.0,
+                    910.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    911.0,
+                    1066.0
+                ],
+                [
+                    1046.0,
+                    1066.0
+                ],
+                [
+                    1046.0,
+                    1087.0
+                ],
+                [
+                    911.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "Telugu Filr",
+            "confidence": 0.88,
+            "box": [
+                [
+                    924.0,
+                    1129.0
+                ],
+                [
+                    1079.0,
+                    1129.0
+                ],
+                [
+                    1079.0,
+                    1172.0
+                ],
+                [
+                    924.0,
+                    1172.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLTHE BESTFOR CINEMA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    378.0,
+                    1277.0
+                ],
+                [
+                    1036.0,
+                    1280.0
+                ],
+                [
+                    1036.0,
+                    1330.0
+                ],
+                [
+                    378.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

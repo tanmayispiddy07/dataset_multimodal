@@ -1,0 +1,72 @@
+{
+    "image_name": "2020-01-10_21-45-30_UTC.jpg",
+    "combined_text": "no one:\nthat random uncle/aunty u met when u\nwere 2 months old:.",
+    "detailed": [
+        {
+            "text": "no one:",
+            "confidence": 0.979,
+            "box": [
+                [
+                    43.0,
+                    23.0
+                ],
+                [
+                    261.0,
+                    23.0
+                ],
+                [
+                    261.0,
+                    68.0
+                ],
+                [
+                    43.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "that random uncle/aunty u met when u",
+            "confidence": 0.999,
+            "box": [
+                [
+                    0.0,
+                    109.0
+                ],
+                [
+                    1074.0,
+                    115.0
+                ],
+                [
+                    1073.0,
+                    173.0
+                ],
+                [
+                    0.0,
+                    168.0
+                ]
+            ]
+        },
+        {
+            "text": "were 2 months old:.",
+            "confidence": 0.973,
+            "box": [
+                [
+                    266.0,
+                    184.0
+                ],
+                [
+                    800.0,
+                    184.0
+                ],
+                [
+                    800.0,
+                    240.0
+                ],
+                [
+                    266.0,
+                    240.0
+                ]
+            ]
+        }
+    ]
+}

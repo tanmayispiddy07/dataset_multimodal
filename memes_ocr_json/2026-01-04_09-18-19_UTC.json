@@ -1,0 +1,160 @@
+{
+    "image_name": "2026-01-04_09-18-19_UTC.jpg",
+    "combined_text": "WATCH DRIVE STREAMING\nON PRIME VIDEO\nNAKU NE SECRETS ANNI TELUSU,NE CALLS,NE ZOOM\nMEETINGS NVU ME NANNA PERU CHEPUKONI CHESINA CR*MES\nADDICTEDTOMEMES\nENTI OKA PHONE CAL LIFT CHESTHE\nMOTHAM HA*CK CHESADA",
+    "detailed": [
+        {
+            "text": "WATCH DRIVE STREAMING",
+            "confidence": 0.962,
+            "box": [
+                [
+                    159.0,
+                    52.0
+                ],
+                [
+                    941.0,
+                    52.0
+                ],
+                [
+                    941.0,
+                    102.0
+                ],
+                [
+                    159.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "ON PRIME VIDEO",
+            "confidence": 0.946,
+            "box": [
+                [
+                    284.0,
+                    123.0
+                ],
+                [
+                    797.0,
+                    123.0
+                ],
+                [
+                    797.0,
+                    177.0
+                ],
+                [
+                    284.0,
+                    177.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU NE SECRETS ANNI TELUSU,NE CALLS,NE ZOOM",
+            "confidence": 0.929,
+            "box": [
+                [
+                    134.0,
+                    472.0
+                ],
+                [
+                    998.0,
+                    472.0
+                ],
+                [
+                    998.0,
+                    502.0
+                ],
+                [
+                    134.0,
+                    502.0
+                ]
+            ]
+        },
+        {
+            "text": "MEETINGS NVU ME NANNA PERU CHEPUKONI CHESINA CR*MES",
+            "confidence": 0.938,
+            "box": [
+                [
+                    72.0,
+                    512.0
+                ],
+                [
+                    1063.0,
+                    512.0
+                ],
+                [
+                    1063.0,
+                    541.0
+                ],
+                [
+                    72.0,
+                    541.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    10.0,
+                    1107.0
+                ],
+                [
+                    136.0,
+                    1107.0
+                ],
+                [
+                    136.0,
+                    1123.0
+                ],
+                [
+                    10.0,
+                    1123.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTI OKA PHONE CAL LIFT CHESTHE",
+            "confidence": 0.943,
+            "box": [
+                [
+                    103.0,
+                    1236.0
+                ],
+                [
+                    811.0,
+                    1238.0
+                ],
+                [
+                    811.0,
+                    1275.0
+                ],
+                [
+                    103.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "MOTHAM HA*CK CHESADA",
+            "confidence": 0.957,
+            "box": [
+                [
+                    197.0,
+                    1288.0
+                ],
+                [
+                    716.0,
+                    1286.0
+                ],
+                [
+                    716.0,
+                    1321.0
+                ],
+                [
+                    197.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

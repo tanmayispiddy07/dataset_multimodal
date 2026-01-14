@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-28_18-08-35_UTC.jpg",
+    "combined_text": "PILIPINCHU EROJUCSK GELUSTHHUNDI\nANI ARGUMENT CHESINA\nADDICTEDTOMEMES\nVALLA ANDHARINI PILIPINCHU\nLOLLIPOPS ICHI PAMPIDDHAM",
+    "detailed": [
+        {
+            "text": "PILIPINCHU EROJUCSK GELUSTHHUNDI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    129.0,
+                    401.0
+                ],
+                [
+                    1009.0,
+                    401.0
+                ],
+                [
+                    1009.0,
+                    441.0
+                ],
+                [
+                    129.0,
+                    441.0
+                ]
+            ]
+        },
+        {
+            "text": "ANI ARGUMENT CHESINA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    278.0,
+                    458.0
+                ],
+                [
+                    849.0,
+                    458.0
+                ],
+                [
+                    849.0,
+                    498.0
+                ],
+                [
+                    278.0,
+                    498.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    22.0,
+                    615.0
+                ],
+                [
+                    192.0,
+                    611.0
+                ],
+                [
+                    193.0,
+                    635.0
+                ],
+                [
+                    23.0,
+                    638.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLA ANDHARINI PILIPINCHU",
+            "confidence": 0.971,
+            "box": [
+                [
+                    46.0,
+                    910.0
+                ],
+                [
+                    767.0,
+                    910.0
+                ],
+                [
+                    767.0,
+                    950.0
+                ],
+                [
+                    46.0,
+                    950.0
+                ]
+            ]
+        },
+        {
+            "text": "LOLLIPOPS ICHI PAMPIDDHAM",
+            "confidence": 0.971,
+            "box": [
+                [
+                    47.0,
+                    968.0
+                ],
+                [
+                    762.0,
+                    968.0
+                ],
+                [
+                    762.0,
+                    1008.0
+                ],
+                [
+                    47.0,
+                    1008.0
+                ]
+            ]
+        }
+    ]
+}

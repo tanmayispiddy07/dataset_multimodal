@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-06-06_20-42-32_UTC.jpg",
+    "combined_text": "A\n@amaraaaxo\nFriends who know how to act infront\nof your parents >>",
+    "detailed": [
+        {
+            "text": "A",
+            "confidence": 0.999,
+            "box": [
+                [
+                    188.0,
+                    200.0
+                ],
+                [
+                    232.0,
+                    194.0
+                ],
+                [
+                    239.0,
+                    246.0
+                ],
+                [
+                    194.0,
+                    251.0
+                ]
+            ]
+        },
+        {
+            "text": "@amaraaaxo",
+            "confidence": 0.998,
+            "box": [
+                [
+                    202.0,
+                    263.0
+                ],
+                [
+                    469.0,
+                    265.0
+                ],
+                [
+                    469.0,
+                    302.0
+                ],
+                [
+                    201.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "Friends who know how to act infront",
+            "confidence": 0.928,
+            "box": [
+                [
+                    15.0,
+                    417.0
+                ],
+                [
+                    1006.0,
+                    419.0
+                ],
+                [
+                    1006.0,
+                    476.0
+                ],
+                [
+                    15.0,
+                    473.0
+                ]
+            ]
+        },
+        {
+            "text": "of your parents >>",
+            "confidence": 0.937,
+            "box": [
+                [
+                    16.0,
+                    517.0
+                ],
+                [
+                    518.0,
+                    517.0
+                ],
+                [
+                    518.0,
+                    578.0
+                ],
+                [
+                    16.0,
+                    578.0
+                ]
+            ]
+        }
+    ]
+}

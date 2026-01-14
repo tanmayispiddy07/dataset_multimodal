@@ -1,0 +1,72 @@
+{
+    "image_name": "2023-05-21_14-10-44_UTC.jpg",
+    "combined_text": "WaTCh SIdDarTh's Takkar traIler noW.\nWORLDWIDE RELEASING ON JUNE 9TH\nHEY SIDDU BRO MALLI OCHAVAA..",
+    "detailed": [
+        {
+            "text": "WaTCh SIdDarTh's Takkar traIler noW.",
+            "confidence": 0.694,
+            "box": [
+                [
+                    41.0,
+                    339.0
+                ],
+                [
+                    784.0,
+                    342.0
+                ],
+                [
+                    784.0,
+                    374.0
+                ],
+                [
+                    41.0,
+                    371.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLDWIDE RELEASING ON JUNE 9TH",
+            "confidence": 0.949,
+            "box": [
+                [
+                    87.0,
+                    380.0
+                ],
+                [
+                    741.0,
+                    380.0
+                ],
+                [
+                    741.0,
+                    408.0
+                ],
+                [
+                    87.0,
+                    408.0
+                ]
+            ]
+        },
+        {
+            "text": "HEY SIDDU BRO MALLI OCHAVAA..",
+            "confidence": 0.928,
+            "box": [
+                [
+                    41.0,
+                    1096.0
+                ],
+                [
+                    781.0,
+                    1098.0
+                ],
+                [
+                    781.0,
+                    1139.0
+                ],
+                [
+                    41.0,
+                    1138.0
+                ]
+            ]
+        }
+    ]
+}

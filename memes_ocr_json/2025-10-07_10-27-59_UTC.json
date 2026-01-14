@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-07_10-27-59_UTC.jpg",
+    "combined_text": "ME WHILE WATCHING\nADDICTEDTOMEMES\nREELS ON THIS AUDIO\nVAA VAA PAKKAM VAA",
+    "detailed": [
+        {
+            "text": "ME WHILE WATCHING",
+            "confidence": 0.921,
+            "box": [
+                [
+                    45.0,
+                    316.0
+                ],
+                [
+                    608.0,
+                    316.0
+                ],
+                [
+                    608.0,
+                    363.0
+                ],
+                [
+                    45.0,
+                    363.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    902.0,
+                    433.0
+                ],
+                [
+                    1064.0,
+                    433.0
+                ],
+                [
+                    1064.0,
+                    457.0
+                ],
+                [
+                    902.0,
+                    457.0
+                ]
+            ]
+        },
+        {
+            "text": "REELS ON THIS AUDIO",
+            "confidence": 0.96,
+            "box": [
+                [
+                    88.0,
+                    677.0
+                ],
+                [
+                    687.0,
+                    677.0
+                ],
+                [
+                    687.0,
+                    728.0
+                ],
+                [
+                    88.0,
+                    728.0
+                ]
+            ]
+        },
+        {
+            "text": "VAA VAA PAKKAM VAA",
+            "confidence": 0.982,
+            "box": [
+                [
+                    71.0,
+                    1016.0
+                ],
+                [
+                    632.0,
+                    1016.0
+                ],
+                [
+                    632.0,
+                    1060.0
+                ],
+                [
+                    71.0,
+                    1060.0
+                ]
+            ]
+        }
+    ]
+}

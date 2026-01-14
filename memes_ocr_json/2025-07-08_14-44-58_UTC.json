@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-07-08_14-44-58_UTC.jpg",
+    "combined_text": "When no one wants to drive",
+    "detailed": [
+        {
+            "text": "When no one wants to drive",
+            "confidence": 0.954,
+            "box": [
+                [
+                    109.0,
+                    157.0
+                ],
+                [
+                    433.0,
+                    159.0
+                ],
+                [
+                    433.0,
+                    184.0
+                ],
+                [
+                    109.0,
+                    182.0
+                ]
+            ]
+        }
+    ]
+}

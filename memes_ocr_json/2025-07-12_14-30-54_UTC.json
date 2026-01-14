@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-07-12_14-30-54_UTC.jpg",
+    "combined_text": "ZUCKERBERG'S WATCH STORY\nLAST YEAR HE SAW ANANT'S RICHARD MILLE. THIS\nYEAR, HE'S WEARING MILLION-DOLLAR WATCHES.\nADDICTEDTOMEMES\nMARK MAWA KOCHAM NEWATCH\nIVVACHUGA LIFE SETAYIPOTHUNDI",
+    "detailed": [
+        {
+            "text": "ZUCKERBERG'S WATCH STORY",
+            "confidence": 0.956,
+            "box": [
+                [
+                    267.0,
+                    26.0
+                ],
+                [
+                    841.0,
+                    26.0
+                ],
+                [
+                    841.0,
+                    60.0
+                ],
+                [
+                    267.0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "text": "LAST YEAR HE SAW ANANT'S RICHARD MILLE. THIS",
+            "confidence": 0.927,
+            "box": [
+                [
+                    60.0,
+                    72.0
+                ],
+                [
+                    1048.0,
+                    72.0
+                ],
+                [
+                    1048.0,
+                    110.0
+                ],
+                [
+                    60.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "YEAR, HE'S WEARING MILLION-DOLLAR WATCHES.",
+            "confidence": 0.955,
+            "box": [
+                [
+                    65.0,
+                    120.0
+                ],
+                [
+                    1042.0,
+                    123.0
+                ],
+                [
+                    1042.0,
+                    160.0
+                ],
+                [
+                    65.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    928.0,
+                    1015.0
+                ],
+                [
+                    1070.0,
+                    1015.0
+                ],
+                [
+                    1070.0,
+                    1036.0
+                ],
+                [
+                    928.0,
+                    1036.0
+                ]
+            ]
+        },
+        {
+            "text": "MARK MAWA KOCHAM NEWATCH",
+            "confidence": 0.947,
+            "box": [
+                [
+                    108.0,
+                    1225.0
+                ],
+                [
+                    963.0,
+                    1225.0
+                ],
+                [
+                    963.0,
+                    1267.0
+                ],
+                [
+                    108.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVACHUGA LIFE SETAYIPOTHUNDI",
+            "confidence": 0.974,
+            "box": [
+                [
+                    77.0,
+                    1285.0
+                ],
+                [
+                    994.0,
+                    1285.0
+                ],
+                [
+                    994.0,
+                    1331.0
+                ],
+                [
+                    77.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

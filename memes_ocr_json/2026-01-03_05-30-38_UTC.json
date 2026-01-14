@@ -1,0 +1,248 @@
+{
+    "image_name": "2026-01-03_05-30-38_UTC.jpg",
+    "combined_text": "9DAYS TO GO FOR MANA SHANKARA\nVARA PRASADGARU\nTRAILER RELEASING TOMMOROW\nJAN1\nDAYS\nTOGO\n ANIL RAVIPUDI\nSAHUGARAPATI SUSHMITA KONIDELA\nBHEEMSCECIROLED\nADDICTEDTOMEMES\nTRAILERREPU VACHESTHUNDI",
+    "detailed": [
+        {
+            "text": "9DAYS TO GO FOR MANA SHANKARA",
+            "confidence": 0.929,
+            "box": [
+                [
+                    155.0,
+                    20.0
+                ],
+                [
+                    994.0,
+                    20.0
+                ],
+                [
+                    994.0,
+                    57.0
+                ],
+                [
+                    155.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "VARA PRASADGARU",
+            "confidence": 0.974,
+            "box": [
+                [
+                    339.0,
+                    74.0
+                ],
+                [
+                    802.0,
+                    74.0
+                ],
+                [
+                    802.0,
+                    112.0
+                ],
+                [
+                    339.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILER RELEASING TOMMOROW",
+            "confidence": 0.975,
+            "box": [
+                [
+                    197.0,
+                    130.0
+                ],
+                [
+                    942.0,
+                    130.0
+                ],
+                [
+                    942.0,
+                    167.0
+                ],
+                [
+                    197.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "JAN1",
+            "confidence": 0.874,
+            "box": [
+                [
+                    392.0,
+                    206.0
+                ],
+                [
+                    450.0,
+                    206.0
+                ],
+                [
+                    450.0,
+                    229.0
+                ],
+                [
+                    392.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "DAYS",
+            "confidence": 0.993,
+            "box": [
+                [
+                    170.0,
+                    234.0
+                ],
+                [
+                    221.0,
+                    234.0
+                ],
+                [
+                    221.0,
+                    256.0
+                ],
+                [
+                    170.0,
+                    256.0
+                ]
+            ]
+        },
+        {
+            "text": "TOGO",
+            "confidence": 0.982,
+            "box": [
+                [
+                    300.0,
+                    236.0
+                ],
+                [
+                    353.0,
+                    236.0
+                ],
+                [
+                    353.0,
+                    254.0
+                ],
+                [
+                    300.0,
+                    254.0
+                ]
+            ]
+        },
+        {
+            "text": " ANIL RAVIPUDI",
+            "confidence": 0.896,
+            "box": [
+                [
+                    187.0,
+                    905.0
+                ],
+                [
+                    332.0,
+                    905.0
+                ],
+                [
+                    332.0,
+                    921.0
+                ],
+                [
+                    187.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "text": "SAHUGARAPATI SUSHMITA KONIDELA",
+            "confidence": 0.938,
+            "box": [
+                [
+                    155.0,
+                    918.0
+                ],
+                [
+                    363.0,
+                    918.0
+                ],
+                [
+                    363.0,
+                    935.0
+                ],
+                [
+                    155.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "BHEEMSCECIROLED",
+            "confidence": 0.912,
+            "box": [
+                [
+                    214.0,
+                    932.0
+                ],
+                [
+                    302.0,
+                    934.0
+                ],
+                [
+                    302.0,
+                    952.0
+                ],
+                [
+                    214.0,
+                    950.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    911.0,
+                    1077.0
+                ],
+                [
+                    1069.0,
+                    1077.0
+                ],
+                [
+                    1069.0,
+                    1098.0
+                ],
+                [
+                    911.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILERREPU VACHESTHUNDI",
+            "confidence": 0.976,
+            "box": [
+                [
+                    271.0,
+                    1275.0
+                ],
+                [
+                    993.0,
+                    1275.0
+                ],
+                [
+                    993.0,
+                    1317.0
+                ],
+                [
+                    271.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-09-04_17-19-00_UTC_3.jpg",
+    "combined_text": "Viber\nN\nConnect.Freely.\nNimbuzz!\nTikTok\npo.\nsarcasm\nViber, TikTok, Wetalk, and Nimbuzz are\nregistered; Telegram and Global Diary are pending\nReddit\nPlatforms like WhatsApp, Reddit,\nLinkedln, and YouTube remain blocked.",
+    "detailed": [
+        {
+            "text": "Viber",
+            "confidence": 0.999,
+            "box": [
+                [
+                    200.0,
+                    19.0
+                ],
+                [
+                    493.0,
+                    26.0
+                ],
+                [
+                    490.0,
+                    134.0
+                ],
+                [
+                    197.0,
+                    127.0
+                ]
+            ]
+        },
+        {
+            "text": "N",
+            "confidence": 0.996,
+            "box": [
+                [
+                    758.0,
+                    84.0
+                ],
+                [
+                    825.0,
+                    84.0
+                ],
+                [
+                    825.0,
+                    150.0
+                ],
+                [
+                    758.0,
+                    150.0
+                ]
+            ]
+        },
+        {
+            "text": "Connect.Freely.",
+            "confidence": 0.963,
+            "box": [
+                [
+                    252.0,
+                    179.0
+                ],
+                [
+                    536.0,
+                    184.0
+                ],
+                [
+                    535.0,
+                    225.0
+                ],
+                [
+                    251.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "Nimbuzz!",
+            "confidence": 0.991,
+            "box": [
+                [
+                    673.0,
+                    171.0
+                ],
+                [
+                    903.0,
+                    165.0
+                ],
+                [
+                    905.0,
+                    214.0
+                ],
+                [
+                    675.0,
+                    221.0
+                ]
+            ]
+        },
+        {
+            "text": "TikTok",
+            "confidence": 0.986,
+            "box": [
+                [
+                    216.0,
+                    288.0
+                ],
+                [
+                    528.0,
+                    295.0
+                ],
+                [
+                    526.0,
+                    381.0
+                ],
+                [
+                    215.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "po.",
+            "confidence": 0.925,
+            "box": [
+                [
+                    674.0,
+                    381.0
+                ],
+                [
+                    920.0,
+                    356.0
+                ],
+                [
+                    935.0,
+                    502.0
+                ],
+                [
+                    689.0,
+                    527.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    482.0,
+                    515.0
+                ],
+                [
+                    598.0,
+                    515.0
+                ],
+                [
+                    598.0,
+                    537.0
+                ],
+                [
+                    482.0,
+                    537.0
+                ]
+            ]
+        },
+        {
+            "text": "Viber, TikTok, Wetalk, and Nimbuzz are",
+            "confidence": 0.998,
+            "box": [
+                [
+                    146.0,
+                    554.0
+                ],
+                [
+                    934.0,
+                    557.0
+                ],
+                [
+                    934.0,
+                    600.0
+                ],
+                [
+                    146.0,
+                    597.0
+                ]
+            ]
+        },
+        {
+            "text": "registered; Telegram and Global Diary are pending",
+            "confidence": 0.968,
+            "box": [
+                [
+                    21.0,
+                    613.0
+                ],
+                [
+                    1053.0,
+                    613.0
+                ],
+                [
+                    1053.0,
+                    652.0
+                ],
+                [
+                    21.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "Reddit",
+            "confidence": 0.999,
+            "box": [
+                [
+                    322.0,
+                    1131.0
+                ],
+                [
+                    594.0,
+                    1184.0
+                ],
+                [
+                    583.0,
+                    1243.0
+                ],
+                [
+                    310.0,
+                    1189.0
+                ]
+            ]
+        },
+        {
+            "text": "Platforms like WhatsApp, Reddit,",
+            "confidence": 0.994,
+            "box": [
+                [
+                    174.0,
+                    1220.0
+                ],
+                [
+                    901.0,
+                    1223.0
+                ],
+                [
+                    901.0,
+                    1268.0
+                ],
+                [
+                    174.0,
+                    1265.0
+                ]
+            ]
+        },
+        {
+            "text": "Linkedln, and YouTube remain blocked.",
+            "confidence": 0.963,
+            "box": [
+                [
+                    111.0,
+                    1277.0
+                ],
+                [
+                    968.0,
+                    1280.0
+                ],
+                [
+                    967.0,
+                    1324.0
+                ],
+                [
+                    111.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

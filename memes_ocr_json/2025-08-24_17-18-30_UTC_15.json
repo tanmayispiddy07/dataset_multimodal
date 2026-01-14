@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-24_17-18-30_UTC_15.jpg",
+    "combined_text": "This man just bats, and bats and bats\nJUCKF\nODRIVEXPULL",
+    "detailed": [
+        {
+            "text": "This man just bats, and bats and bats",
+            "confidence": 0.99,
+            "box": [
+                [
+                    53.0,
+                    94.0
+                ],
+                [
+                    1022.0,
+                    95.0
+                ],
+                [
+                    1022.0,
+                    149.0
+                ],
+                [
+                    53.0,
+                    147.0
+                ]
+            ]
+        },
+        {
+            "text": "JUCKF",
+            "confidence": 0.84,
+            "box": [
+                [
+                    0.0,
+                    600.0
+                ],
+                [
+                    754.0,
+                    596.0
+                ],
+                [
+                    756.0,
+                    867.0
+                ],
+                [
+                    0.0,
+                    870.0
+                ]
+            ]
+        },
+        {
+            "text": "ODRIVEXPULL",
+            "confidence": 0.963,
+            "box": [
+                [
+                    89.0,
+                    856.0
+                ],
+                [
+                    205.0,
+                    856.0
+                ],
+                [
+                    205.0,
+                    878.0
+                ],
+                [
+                    89.0,
+                    878.0
+                ]
+            ]
+        }
+    ]
+}

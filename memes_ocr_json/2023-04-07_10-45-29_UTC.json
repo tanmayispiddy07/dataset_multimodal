@@ -1,0 +1,50 @@
+{
+    "image_name": "2023-04-07_10-45-29_UTC.jpg",
+    "combined_text": "TELUGU MEMES GURU\nRAMPUUUUUUU RA MAWAAAAA",
+    "detailed": [
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    491.0,
+                    832.0
+                ],
+                [
+                    678.0,
+                    832.0
+                ],
+                [
+                    678.0,
+                    857.0
+                ],
+                [
+                    491.0,
+                    857.0
+                ]
+            ]
+        },
+        {
+            "text": "RAMPUUUUUUU RA MAWAAAAA",
+            "confidence": 0.959,
+            "box": [
+                [
+                    158.0,
+                    1271.0
+                ],
+                [
+                    944.0,
+                    1271.0
+                ],
+                [
+                    944.0,
+                    1317.0
+                ],
+                [
+                    158.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

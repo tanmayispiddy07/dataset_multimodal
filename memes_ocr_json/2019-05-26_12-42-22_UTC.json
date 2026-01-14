@@ -1,0 +1,138 @@
+{
+    "image_name": "2019-05-26_12-42-22_UTC.jpg",
+    "combined_text": "Brown kids definitely have to be\nsome of the most bravest.\npeople to ever exist... Doing.\nthings behind their parents back\nbut still somehow making it out\nalive",
+    "detailed": [
+        {
+            "text": "Brown kids definitely have to be",
+            "confidence": 0.99,
+            "box": [
+                [
+                    53.0,
+                    65.0
+                ],
+                [
+                    989.0,
+                    69.0
+                ],
+                [
+                    989.0,
+                    132.0
+                ],
+                [
+                    53.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "some of the most bravest.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    47.0,
+                    168.0
+                ],
+                [
+                    813.0,
+                    164.0
+                ],
+                [
+                    813.0,
+                    229.0
+                ],
+                [
+                    47.0,
+                    232.0
+                ]
+            ]
+        },
+        {
+            "text": "people to ever exist... Doing.",
+            "confidence": 0.945,
+            "box": [
+                [
+                    47.0,
+                    260.0
+                ],
+                [
+                    881.0,
+                    262.0
+                ],
+                [
+                    881.0,
+                    346.0
+                ],
+                [
+                    47.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "things behind their parents back",
+            "confidence": 0.993,
+            "box": [
+                [
+                    51.0,
+                    369.0
+                ],
+                [
+                    1012.0,
+                    366.0
+                ],
+                [
+                    1013.0,
+                    435.0
+                ],
+                [
+                    51.0,
+                    439.0
+                ]
+            ]
+        },
+        {
+            "text": "but still somehow making it out",
+            "confidence": 0.984,
+            "box": [
+                [
+                    52.0,
+                    465.0
+                ],
+                [
+                    974.0,
+                    473.0
+                ],
+                [
+                    974.0,
+                    540.0
+                ],
+                [
+                    52.0,
+                    532.0
+                ]
+            ]
+        },
+        {
+            "text": "alive",
+            "confidence": 0.904,
+            "box": [
+                [
+                    47.0,
+                    568.0
+                ],
+                [
+                    196.0,
+                    568.0
+                ],
+                [
+                    196.0,
+                    640.0
+                ],
+                [
+                    47.0,
+                    640.0
+                ]
+            ]
+        }
+    ]
+}

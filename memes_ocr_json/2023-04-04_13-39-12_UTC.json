@@ -1,0 +1,204 @@
+{
+    "image_name": "2023-04-04_13-39-12_UTC.jpg",
+    "combined_text": "HERE'S THE BLASTING LYRICAL VIDEO SONG\nFROM THE MOVIE METER....\n.GRAND RELEASE\nON 7TH APRIL THREE DAYS TO GO\nUPPECOALA\nTELUGU MEMES GURU\niDreamHDMovies\nSONG ADIRIPOINDHI POWERFUL POLICE\nANTEY EE MATRAM UNDALI",
+    "detailed": [
+        {
+            "text": "HERE'S THE BLASTING LYRICAL VIDEO SONG",
+            "confidence": 0.934,
+            "box": [
+                [
+                    11.0,
+                    24.0
+                ],
+                [
+                    1060.0,
+                    24.0
+                ],
+                [
+                    1060.0,
+                    61.0
+                ],
+                [
+                    11.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM THE MOVIE METER....",
+            "confidence": 0.961,
+            "box": [
+                [
+                    4.0,
+                    75.0
+                ],
+                [
+                    654.0,
+                    75.0
+                ],
+                [
+                    654.0,
+                    117.0
+                ],
+                [
+                    4.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": ".GRAND RELEASE",
+            "confidence": 0.974,
+            "box": [
+                [
+                    657.0,
+                    75.0
+                ],
+                [
+                    1073.0,
+                    75.0
+                ],
+                [
+                    1073.0,
+                    117.0
+                ],
+                [
+                    657.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "ON 7TH APRIL THREE DAYS TO GO",
+            "confidence": 0.947,
+            "box": [
+                [
+                    122.0,
+                    128.0
+                ],
+                [
+                    949.0,
+                    128.0
+                ],
+                [
+                    949.0,
+                    174.0
+                ],
+                [
+                    122.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "UPPECOALA",
+            "confidence": 0.898,
+            "box": [
+                [
+                    534.0,
+                    644.0
+                ],
+                [
+                    1045.0,
+                    634.0
+                ],
+                [
+                    1047.0,
+                    751.0
+                ],
+                [
+                    536.0,
+                    761.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.925,
+            "box": [
+                [
+                    102.0,
+                    1010.0
+                ],
+                [
+                    263.0,
+                    1007.0
+                ],
+                [
+                    263.0,
+                    1032.0
+                ],
+                [
+                    103.0,
+                    1035.0
+                ]
+            ]
+        },
+        {
+            "text": "iDreamHDMovies",
+            "confidence": 0.988,
+            "box": [
+                [
+                    875.0,
+                    1151.0
+                ],
+                [
+                    1052.0,
+                    1151.0
+                ],
+                [
+                    1052.0,
+                    1171.0
+                ],
+                [
+                    875.0,
+                    1171.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG ADIRIPOINDHI POWERFUL POLICE",
+            "confidence": 0.961,
+            "box": [
+                [
+                    77.0,
+                    1221.0
+                ],
+                [
+                    997.0,
+                    1223.0
+                ],
+                [
+                    997.0,
+                    1265.0
+                ],
+                [
+                    77.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTEY EE MATRAM UNDALI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    229.0,
+                    1283.0
+                ],
+                [
+                    854.0,
+                    1283.0
+                ],
+                [
+                    854.0,
+                    1324.0
+                ],
+                [
+                    229.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

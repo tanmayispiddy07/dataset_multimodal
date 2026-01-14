@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-12_03-36-01_UTC_1.jpg",
+    "combined_text": "sarcasm\nIndia Always Dealing With Snakes\nIn 2003, India aided Turkey after a 7.8\nearthquake, but now Turkey supports\nPakistan and criticizes Indian actions",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    98.0,
+                    781.0
+                ],
+                [
+                    198.0,
+                    781.0
+                ],
+                [
+                    198.0,
+                    803.0
+                ],
+                [
+                    98.0,
+                    803.0
+                ]
+            ]
+        },
+        {
+            "text": "India Always Dealing With Snakes",
+            "confidence": 0.98,
+            "box": [
+                [
+                    63.0,
+                    1011.0
+                ],
+                [
+                    1011.0,
+                    1011.0
+                ],
+                [
+                    1011.0,
+                    1059.0
+                ],
+                [
+                    63.0,
+                    1059.0
+                ]
+            ]
+        },
+        {
+            "text": "In 2003, India aided Turkey after a 7.8",
+            "confidence": 0.973,
+            "box": [
+                [
+                    103.0,
+                    1106.0
+                ],
+                [
+                    970.0,
+                    1108.0
+                ],
+                [
+                    970.0,
+                    1153.0
+                ],
+                [
+                    103.0,
+                    1151.0
+                ]
+            ]
+        },
+        {
+            "text": "earthquake, but now Turkey supports",
+            "confidence": 0.989,
+            "box": [
+                [
+                    103.0,
+                    1175.0
+                ],
+                [
+                    972.0,
+                    1178.0
+                ],
+                [
+                    972.0,
+                    1225.0
+                ],
+                [
+                    103.0,
+                    1223.0
+                ]
+            ]
+        },
+        {
+            "text": "Pakistan and criticizes Indian actions",
+            "confidence": 0.998,
+            "box": [
+                [
+                    115.0,
+                    1242.0
+                ],
+                [
+                    958.0,
+                    1245.0
+                ],
+                [
+                    958.0,
+                    1289.0
+                ],
+                [
+                    115.0,
+                    1286.0
+                ]
+            ]
+        }
+    ]
+}

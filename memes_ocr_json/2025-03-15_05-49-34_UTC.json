@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-03-15_05-49-34_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nFEW TAMILIANSARE ASKING NOT TO\nIMPOSE #Hindilmposition ON THEM,\nTHEN DON'T DUB YOUR #TAMIL FILMS\nINTO HINDI AND RELEASE THEM IN\nNORTHERN STATES. ALSO, DON'T\nBRING TECHNICIANS/WORKERS FROM\nNORTHERN STATES AND MAKE THEM\nWORK IN TAMILNADU\n-- AP DEPUTY CM PAWAN KALYAN",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.984,
+            "box": [
+                [
+                    193.0,
+                    13.0
+                ],
+                [
+                    618.0,
+                    16.0
+                ],
+                [
+                    618.0,
+                    56.0
+                ],
+                [
+                    193.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.999,
+            "box": [
+                [
+                    193.0,
+                    67.0
+                ],
+                [
+                    605.0,
+                    70.0
+                ],
+                [
+                    605.0,
+                    111.0
+                ],
+                [
+                    193.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "FEW TAMILIANSARE ASKING NOT TO",
+            "confidence": 0.973,
+            "box": [
+                [
+                    39.0,
+                    165.0
+                ],
+                [
+                    968.0,
+                    165.0
+                ],
+                [
+                    968.0,
+                    205.0
+                ],
+                [
+                    39.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "IMPOSE #Hindilmposition ON THEM,",
+            "confidence": 0.987,
+            "box": [
+                [
+                    34.0,
+                    232.0
+                ],
+                [
+                    961.0,
+                    232.0
+                ],
+                [
+                    961.0,
+                    284.0
+                ],
+                [
+                    34.0,
+                    284.0
+                ]
+            ]
+        },
+        {
+            "text": "THEN DON'T DUB YOUR #TAMIL FILMS",
+            "confidence": 0.984,
+            "box": [
+                [
+                    39.0,
+                    306.0
+                ],
+                [
+                    1008.0,
+                    306.0
+                ],
+                [
+                    1008.0,
+                    346.0
+                ],
+                [
+                    39.0,
+                    346.0
+                ]
+            ]
+        },
+        {
+            "text": "INTO HINDI AND RELEASE THEM IN",
+            "confidence": 0.97,
+            "box": [
+                [
+                    38.0,
+                    376.0
+                ],
+                [
+                    914.0,
+                    376.0
+                ],
+                [
+                    914.0,
+                    416.0
+                ],
+                [
+                    38.0,
+                    416.0
+                ]
+            ]
+        },
+        {
+            "text": "NORTHERN STATES. ALSO, DON'T",
+            "confidence": 0.985,
+            "box": [
+                [
+                    35.0,
+                    441.0
+                ],
+                [
+                    890.0,
+                    441.0
+                ],
+                [
+                    890.0,
+                    490.0
+                ],
+                [
+                    35.0,
+                    490.0
+                ]
+            ]
+        },
+        {
+            "text": "BRING TECHNICIANS/WORKERS FROM",
+            "confidence": 0.994,
+            "box": [
+                [
+                    38.0,
+                    514.0
+                ],
+                [
+                    1029.0,
+                    514.0
+                ],
+                [
+                    1029.0,
+                    558.0
+                ],
+                [
+                    38.0,
+                    558.0
+                ]
+            ]
+        },
+        {
+            "text": "NORTHERN STATES AND MAKE THEM",
+            "confidence": 0.991,
+            "box": [
+                [
+                    36.0,
+                    584.0
+                ],
+                [
+                    984.0,
+                    584.0
+                ],
+                [
+                    984.0,
+                    628.0
+                ],
+                [
+                    36.0,
+                    628.0
+                ]
+            ]
+        },
+        {
+            "text": "WORK IN TAMILNADU",
+            "confidence": 0.984,
+            "box": [
+                [
+                    36.0,
+                    653.0
+                ],
+                [
+                    591.0,
+                    653.0
+                ],
+                [
+                    591.0,
+                    698.0
+                ],
+                [
+                    36.0,
+                    698.0
+                ]
+            ]
+        },
+        {
+            "text": "-- AP DEPUTY CM PAWAN KALYAN",
+            "confidence": 0.96,
+            "box": [
+                [
+                    42.0,
+                    723.0
+                ],
+                [
+                    903.0,
+                    723.0
+                ],
+                [
+                    903.0,
+                    767.0
+                ],
+                [
+                    42.0,
+                    767.0
+                ]
+            ]
+        }
+    ]
+}

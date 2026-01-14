@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-04-03_18-02-31_UTC.jpg",
+    "combined_text": "CSK WON THE MATCH..\nCSKFANS\nTELUGU MEMES GURU\nIPPUDU NADAVANDRAAA...",
+    "detailed": [
+        {
+            "text": "CSK WON THE MATCH..",
+            "confidence": 0.918,
+            "box": [
+                [
+                    75.0,
+                    419.0
+                ],
+                [
+                    1028.0,
+                    425.0
+                ],
+                [
+                    1028.0,
+                    495.0
+                ],
+                [
+                    74.0,
+                    489.0
+                ]
+            ]
+        },
+        {
+            "text": "CSKFANS",
+            "confidence": 0.976,
+            "box": [
+                [
+                    490.0,
+                    551.0
+                ],
+                [
+                    855.0,
+                    559.0
+                ],
+                [
+                    854.0,
+                    622.0
+                ],
+                [
+                    489.0,
+                    615.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.903,
+            "box": [
+                [
+                    111.0,
+                    707.0
+                ],
+                [
+                    223.0,
+                    707.0
+                ],
+                [
+                    223.0,
+                    724.0
+                ],
+                [
+                    111.0,
+                    724.0
+                ]
+            ]
+        },
+        {
+            "text": "IPPUDU NADAVANDRAAA...",
+            "confidence": 0.965,
+            "box": [
+                [
+                    63.0,
+                    959.0
+                ],
+                [
+                    1024.0,
+                    966.0
+                ],
+                [
+                    1023.0,
+                    1032.0
+                ],
+                [
+                    63.0,
+                    1025.0
+                ]
+            ]
+        }
+    ]
+}

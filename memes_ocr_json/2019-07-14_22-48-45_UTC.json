@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-07-14_22-48-45_UTC.jpg",
+    "combined_text": "Me(dressed up): Amma ela unna?\nMom:Neekentra.. acchu hero la unnav!\nThat hero:\nNOWOONS",
+    "detailed": [
+        {
+            "text": "Me(dressed up): Amma ela unna?",
+            "confidence": 0.951,
+            "box": [
+                [
+                    20.0,
+                    32.0
+                ],
+                [
+                    800.0,
+                    29.0
+                ],
+                [
+                    800.0,
+                    84.0
+                ],
+                [
+                    20.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "text": "Mom:Neekentra.. acchu hero la unnav!",
+            "confidence": 0.955,
+            "box": [
+                [
+                    24.0,
+                    100.0
+                ],
+                [
+                    931.0,
+                    100.0
+                ],
+                [
+                    931.0,
+                    146.0
+                ],
+                [
+                    24.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "That hero:",
+            "confidence": 0.954,
+            "box": [
+                [
+                    20.0,
+                    220.0
+                ],
+                [
+                    261.0,
+                    225.0
+                ],
+                [
+                    259.0,
+                    279.0
+                ],
+                [
+                    19.0,
+                    274.0
+                ]
+            ]
+        },
+        {
+            "text": "NOWOONS",
+            "confidence": 0.532,
+            "box": [
+                [
+                    77.0,
+                    331.0
+                ],
+                [
+                    164.0,
+                    336.0
+                ],
+                [
+                    162.0,
+                    357.0
+                ],
+                [
+                    75.0,
+                    352.0
+                ]
+            ]
+        }
+    ]
+}

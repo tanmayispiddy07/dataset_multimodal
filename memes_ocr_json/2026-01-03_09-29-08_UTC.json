@@ -1,0 +1,292 @@
+{
+    "image_name": "2026-01-03_09-29-08_UTC.jpg",
+    "combined_text": "SAHAKUTUMBAANAAM GETTING FULL\nPOSTIVE RESPONSE FROM FAMILY AUDIENCE.\nEVERYONE LOVING THE INTERVAL TWIST\nHRG\nDirector Maruthi o\n21h\nHeartfelt congratulations to the entire\n#Sahakutumbaanaamteam.\nBest wishes to everyone who worked hard to bring\nthis beautiful project to life.\nDDICTEDTOMEMES\nANDHARU BAGUNDI ANTUNNARU\nPADHANDI RA EVENING SHOW KIVELDHAM",
+    "detailed": [
+        {
+            "text": "SAHAKUTUMBAANAAM GETTING FULL",
+            "confidence": 0.975,
+            "box": [
+                [
+                    128.0,
+                    57.0
+                ],
+                [
+                    959.0,
+                    59.0
+                ],
+                [
+                    959.0,
+                    100.0
+                ],
+                [
+                    128.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "POSTIVE RESPONSE FROM FAMILY AUDIENCE.",
+            "confidence": 0.951,
+            "box": [
+                [
+                    55.0,
+                    111.0
+                ],
+                [
+                    1027.0,
+                    114.0
+                ],
+                [
+                    1026.0,
+                    152.0
+                ],
+                [
+                    55.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "EVERYONE LOVING THE INTERVAL TWIST",
+            "confidence": 0.949,
+            "box": [
+                [
+                    114.0,
+                    170.0
+                ],
+                [
+                    975.0,
+                    170.0
+                ],
+                [
+                    975.0,
+                    203.0
+                ],
+                [
+                    114.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "HRG",
+            "confidence": 0.752,
+            "box": [
+                [
+                    0.0,
+                    261.0
+                ],
+                [
+                    53.0,
+                    266.0
+                ],
+                [
+                    50.0,
+                    306.0
+                ],
+                [
+                    0.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "Director Maruthi o",
+            "confidence": 0.92,
+            "box": [
+                [
+                    513.0,
+                    282.0
+                ],
+                [
+                    681.0,
+                    282.0
+                ],
+                [
+                    681.0,
+                    307.0
+                ],
+                [
+                    513.0,
+                    307.0
+                ]
+            ]
+        },
+        {
+            "text": "21h",
+            "confidence": 0.983,
+            "box": [
+                [
+                    512.0,
+                    307.0
+                ],
+                [
+                    574.0,
+                    307.0
+                ],
+                [
+                    574.0,
+                    329.0
+                ],
+                [
+                    512.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "Heartfelt congratulations to the entire",
+            "confidence": 0.969,
+            "box": [
+                [
+                    453.0,
+                    341.0
+                ],
+                [
+                    789.0,
+                    341.0
+                ],
+                [
+                    789.0,
+                    367.0
+                ],
+                [
+                    453.0,
+                    367.0
+                ]
+            ]
+        },
+        {
+            "text": "#Sahakutumbaanaamteam.",
+            "confidence": 0.996,
+            "box": [
+                [
+                    453.0,
+                    367.0
+                ],
+                [
+                    705.0,
+                    367.0
+                ],
+                [
+                    705.0,
+                    392.0
+                ],
+                [
+                    453.0,
+                    392.0
+                ]
+            ]
+        },
+        {
+            "text": "Best wishes to everyone who worked hard to bring",
+            "confidence": 0.963,
+            "box": [
+                [
+                    453.0,
+                    390.0
+                ],
+                [
+                    899.0,
+                    392.0
+                ],
+                [
+                    899.0,
+                    417.0
+                ],
+                [
+                    453.0,
+                    415.0
+                ]
+            ]
+        },
+        {
+            "text": "this beautiful project to life.",
+            "confidence": 0.964,
+            "box": [
+                [
+                    451.0,
+                    417.0
+                ],
+                [
+                    698.0,
+                    417.0
+                ],
+                [
+                    698.0,
+                    442.0
+                ],
+                [
+                    451.0,
+                    442.0
+                ]
+            ]
+        },
+        {
+            "text": "DDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    0.0,
+                    1027.0
+                ],
+                [
+                    155.0,
+                    1027.0
+                ],
+                [
+                    155.0,
+                    1052.0
+                ],
+                [
+                    0.0,
+                    1052.0
+                ]
+            ]
+        },
+        {
+            "text": "ANDHARU BAGUNDI ANTUNNARU",
+            "confidence": 0.966,
+            "box": [
+                [
+                    211.0,
+                    1240.0
+                ],
+                [
+                    886.0,
+                    1240.0
+                ],
+                [
+                    886.0,
+                    1278.0
+                ],
+                [
+                    211.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "PADHANDI RA EVENING SHOW KIVELDHAM",
+            "confidence": 0.948,
+            "box": [
+                [
+                    108.0,
+                    1291.0
+                ],
+                [
+                    986.0,
+                    1291.0
+                ],
+                [
+                    986.0,
+                    1328.0
+                ],
+                [
+                    108.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

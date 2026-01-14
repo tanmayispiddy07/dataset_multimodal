@@ -1,0 +1,468 @@
+{
+    "image_name": "2023-05-25_07-33-49_UTC.jpg",
+    "combined_text": "Mahesh Babu\n@urstrulyMahesh\nMOUS\nJust watched #MemFamous!Brilliant film!!\nBlown away by the performances of each and\nevery actor in the film, especially writer,\ndirector and actor @SumanthPrabha_s-what\natalent!\nThe visuals,background score and all the\ncrafts sit perfectly.Can't believe a bunch of\ndebutants made this film!\nCongratulationsto@SharathWhat,\n@anuragmayreddy and the young team for\nthis film.Proud of you guys for backing this\ntalent!\n10:09AM25/05/23from Earth490KViews\n4,173 Retweets 532 Quotes\n15.8K Likes58Bookmarks\nTELUGU MEMES GURU\nTHOP EH CINEMA THOP UNNDHI\nANTUNADU..",
+    "detailed": [
+        {
+            "text": "Mahesh Babu",
+            "confidence": 0.961,
+            "box": [
+                [
+                    633.0,
+                    35.0
+                ],
+                [
+                    786.0,
+                    35.0
+                ],
+                [
+                    786.0,
+                    56.0
+                ],
+                [
+                    633.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "@urstrulyMahesh",
+            "confidence": 0.976,
+            "box": [
+                [
+                    631.0,
+                    58.0
+                ],
+                [
+                    807.0,
+                    58.0
+                ],
+                [
+                    807.0,
+                    83.0
+                ],
+                [
+                    631.0,
+                    83.0
+                ]
+            ]
+        },
+        {
+            "text": "MOUS",
+            "confidence": 0.98,
+            "box": [
+                [
+                    186.0,
+                    103.0
+                ],
+                [
+                    410.0,
+                    71.0
+                ],
+                [
+                    422.0,
+                    151.0
+                ],
+                [
+                    198.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "Just watched #MemFamous!Brilliant film!!",
+            "confidence": 0.972,
+            "box": [
+                [
+                    565.0,
+                    122.0
+                ],
+                [
+                    1024.0,
+                    122.0
+                ],
+                [
+                    1024.0,
+                    143.0
+                ],
+                [
+                    565.0,
+                    143.0
+                ]
+            ]
+        },
+        {
+            "text": "Blown away by the performances of each and",
+            "confidence": 0.952,
+            "box": [
+                [
+                    564.0,
+                    211.0
+                ],
+                [
+                    1050.0,
+                    211.0
+                ],
+                [
+                    1050.0,
+                    236.0
+                ],
+                [
+                    564.0,
+                    236.0
+                ]
+            ]
+        },
+        {
+            "text": "every actor in the film, especially writer,",
+            "confidence": 0.935,
+            "box": [
+                [
+                    564.0,
+                    243.0
+                ],
+                [
+                    997.0,
+                    243.0
+                ],
+                [
+                    997.0,
+                    269.0
+                ],
+                [
+                    564.0,
+                    269.0
+                ]
+            ]
+        },
+        {
+            "text": "director and actor @SumanthPrabha_s-what",
+            "confidence": 0.975,
+            "box": [
+                [
+                    564.0,
+                    274.0
+                ],
+                [
+                    1056.0,
+                    274.0
+                ],
+                [
+                    1056.0,
+                    300.0
+                ],
+                [
+                    564.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "atalent!",
+            "confidence": 0.976,
+            "box": [
+                [
+                    562.0,
+                    305.0
+                ],
+                [
+                    655.0,
+                    305.0
+                ],
+                [
+                    655.0,
+                    328.0
+                ],
+                [
+                    562.0,
+                    328.0
+                ]
+            ]
+        },
+        {
+            "text": "The visuals,background score and all the",
+            "confidence": 0.974,
+            "box": [
+                [
+                    565.0,
+                    364.0
+                ],
+                [
+                    1010.0,
+                    364.0
+                ],
+                [
+                    1010.0,
+                    390.0
+                ],
+                [
+                    565.0,
+                    390.0
+                ]
+            ]
+        },
+        {
+            "text": "crafts sit perfectly.Can't believe a bunch of",
+            "confidence": 0.952,
+            "box": [
+                [
+                    564.0,
+                    395.0
+                ],
+                [
+                    1038.0,
+                    395.0
+                ],
+                [
+                    1038.0,
+                    420.0
+                ],
+                [
+                    564.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "debutants made this film!",
+            "confidence": 0.975,
+            "box": [
+                [
+                    564.0,
+                    425.0
+                ],
+                [
+                    845.0,
+                    425.0
+                ],
+                [
+                    845.0,
+                    450.0
+                ],
+                [
+                    564.0,
+                    450.0
+                ]
+            ]
+        },
+        {
+            "text": "Congratulationsto@SharathWhat,",
+            "confidence": 0.996,
+            "box": [
+                [
+                    565.0,
+                    485.0
+                ],
+                [
+                    944.0,
+                    485.0
+                ],
+                [
+                    944.0,
+                    510.0
+                ],
+                [
+                    565.0,
+                    510.0
+                ]
+            ]
+        },
+        {
+            "text": "@anuragmayreddy and the young team for",
+            "confidence": 0.964,
+            "box": [
+                [
+                    564.0,
+                    518.0
+                ],
+                [
+                    1022.0,
+                    518.0
+                ],
+                [
+                    1022.0,
+                    543.0
+                ],
+                [
+                    564.0,
+                    543.0
+                ]
+            ]
+        },
+        {
+            "text": "this film.Proud of you guys for backing this",
+            "confidence": 0.965,
+            "box": [
+                [
+                    563.0,
+                    544.0
+                ],
+                [
+                    1029.0,
+                    546.0
+                ],
+                [
+                    1029.0,
+                    575.0
+                ],
+                [
+                    562.0,
+                    574.0
+                ]
+            ]
+        },
+        {
+            "text": "talent!",
+            "confidence": 0.993,
+            "box": [
+                [
+                    562.0,
+                    575.0
+                ],
+                [
+                    640.0,
+                    578.0
+                ],
+                [
+                    639.0,
+                    605.0
+                ],
+                [
+                    561.0,
+                    601.0
+                ]
+            ]
+        },
+        {
+            "text": "10:09AM25/05/23from Earth490KViews",
+            "confidence": 0.964,
+            "box": [
+                [
+                    561.0,
+                    636.0
+                ],
+                [
+                    977.0,
+                    637.0
+                ],
+                [
+                    977.0,
+                    662.0
+                ],
+                [
+                    561.0,
+                    661.0
+                ]
+            ]
+        },
+        {
+            "text": "4,173 Retweets 532 Quotes",
+            "confidence": 0.944,
+            "box": [
+                [
+                    565.0,
+                    693.0
+                ],
+                [
+                    831.0,
+                    693.0
+                ],
+                [
+                    831.0,
+                    714.0
+                ],
+                [
+                    565.0,
+                    714.0
+                ]
+            ]
+        },
+        {
+            "text": "15.8K Likes58Bookmarks",
+            "confidence": 0.968,
+            "box": [
+                [
+                    561.0,
+                    744.0
+                ],
+                [
+                    824.0,
+                    745.0
+                ],
+                [
+                    824.0,
+                    771.0
+                ],
+                [
+                    561.0,
+                    769.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.949,
+            "box": [
+                [
+                    60.0,
+                    893.0
+                ],
+                [
+                    187.0,
+                    893.0
+                ],
+                [
+                    187.0,
+                    910.0
+                ],
+                [
+                    60.0,
+                    910.0
+                ]
+            ]
+        },
+        {
+            "text": "THOP EH CINEMA THOP UNNDHI",
+            "confidence": 0.868,
+            "box": [
+                [
+                    139.0,
+                    1250.0
+                ],
+                [
+                    939.0,
+                    1250.0
+                ],
+                [
+                    939.0,
+                    1292.0
+                ],
+                [
+                    139.0,
+                    1292.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTUNADU..",
+            "confidence": 0.966,
+            "box": [
+                [
+                    380.0,
+                    1304.0
+                ],
+                [
+                    695.0,
+                    1304.0
+                ],
+                [
+                    695.0,
+                    1347.0
+                ],
+                [
+                    380.0,
+                    1347.0
+                ]
+            ]
+        }
+    ]
+}

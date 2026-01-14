@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-03_15-46-55_UTC.jpg",
+    "combined_text": "\"NANNEA PISIKI\"SONG OUT FROM\n\"PELLAINDI KANI NO KAHANI\"\nADDICTEDTOMEMES\nAHAAA SONG LO IDDHARU\nMANCHI FIRE MEDHA UNNARU",
+    "detailed": [
+        {
+            "text": "\"NANNEA PISIKI\"SONG OUT FROM",
+            "confidence": 0.967,
+            "box": [
+                [
+                    134.0,
+                    58.0
+                ],
+                [
+                    986.0,
+                    61.0
+                ],
+                [
+                    986.0,
+                    107.0
+                ],
+                [
+                    134.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "\"PELLAINDI KANI NO KAHANI\"",
+            "confidence": 0.909,
+            "box": [
+                [
+                    194.0,
+                    124.0
+                ],
+                [
+                    921.0,
+                    124.0
+                ],
+                [
+                    921.0,
+                    166.0
+                ],
+                [
+                    194.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    929.0,
+                    1066.0
+                ],
+                [
+                    1062.0,
+                    1065.0
+                ],
+                [
+                    1062.0,
+                    1086.0
+                ],
+                [
+                    930.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAAA SONG LO IDDHARU",
+            "confidence": 0.947,
+            "box": [
+                [
+                    444.0,
+                    1238.0
+                ],
+                [
+                    993.0,
+                    1238.0
+                ],
+                [
+                    993.0,
+                    1275.0
+                ],
+                [
+                    444.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHI FIRE MEDHA UNNARU",
+            "confidence": 0.946,
+            "box": [
+                [
+                    411.0,
+                    1289.0
+                ],
+                [
+                    1022.0,
+                    1289.0
+                ],
+                [
+                    1022.0,
+                    1327.0
+                ],
+                [
+                    411.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

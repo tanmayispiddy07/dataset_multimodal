@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-05-11_08-39-54_UTC.jpg",
+    "combined_text": "SINGLE MOVIE RAMPAGE\nD DAY <<< T AAE<<< AAAAAAAT  ATT\nENTERTAINING WITH HOUSE FULLS ALL OVER\nBOOKEDIN\nADOICTEDTOM\n2DAYS\n#Sinyle\nRULING book my show\nINHOURLY\nTRENDING CHARTS\n**AUDIENCE WHILE\nWATCHINGMOVIE IN\nTHEATER",
+    "detailed": [
+        {
+            "text": "SINGLE MOVIE RAMPAGE",
+            "confidence": 0.968,
+            "box": [
+                [
+                    187.0,
+                    22.0
+                ],
+                [
+                    728.0,
+                    22.0
+                ],
+                [
+                    728.0,
+                    60.0
+                ],
+                [
+                    187.0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "text": "D DAY <<< T AAE<<< AAAAAAAT  ATT",
+            "confidence": 0.509,
+            "box": [
+                [
+                    134.0,
+                    75.0
+                ],
+                [
+                    921.0,
+                    75.0
+                ],
+                [
+                    921.0,
+                    113.0
+                ],
+                [
+                    134.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTERTAINING WITH HOUSE FULLS ALL OVER",
+            "confidence": 0.951,
+            "box": [
+                [
+                    49.0,
+                    130.0
+                ],
+                [
+                    1015.0,
+                    130.0
+                ],
+                [
+                    1015.0,
+                    167.0
+                ],
+                [
+                    49.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOKEDIN",
+            "confidence": 0.968,
+            "box": [
+                [
+                    92.0,
+                    320.0
+                ],
+                [
+                    521.0,
+                    296.0
+                ],
+                [
+                    524.0,
+                    352.0
+                ],
+                [
+                    95.0,
+                    376.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOICTEDTOM",
+            "confidence": 0.92,
+            "box": [
+                [
+                    606.0,
+                    333.0
+                ],
+                [
+                    702.0,
+                    332.0
+                ],
+                [
+                    702.0,
+                    348.0
+                ],
+                [
+                    606.0,
+                    350.0
+                ]
+            ]
+        },
+        {
+            "text": "2DAYS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    348.0,
+                    357.0
+                ],
+                [
+                    509.0,
+                    349.0
+                ],
+                [
+                    511.0,
+                    394.0
+                ],
+                [
+                    350.0,
+                    402.0
+                ]
+            ]
+        },
+        {
+            "text": "#Sinyle",
+            "confidence": 0.898,
+            "box": [
+                [
+                    91.0,
+                    698.0
+                ],
+                [
+                    522.0,
+                    698.0
+                ],
+                [
+                    522.0,
+                    849.0
+                ],
+                [
+                    91.0,
+                    849.0
+                ]
+            ]
+        },
+        {
+            "text": "RULING book my show",
+            "confidence": 0.929,
+            "box": [
+                [
+                    118.0,
+                    854.0
+                ],
+                [
+                    508.0,
+                    853.0
+                ],
+                [
+                    508.0,
+                    896.0
+                ],
+                [
+                    118.0,
+                    898.0
+                ]
+            ]
+        },
+        {
+            "text": "INHOURLY",
+            "confidence": 0.993,
+            "box": [
+                [
+                    212.0,
+                    915.0
+                ],
+                [
+                    386.0,
+                    910.0
+                ],
+                [
+                    387.0,
+                    936.0
+                ],
+                [
+                    213.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "TRENDING CHARTS",
+            "confidence": 0.975,
+            "box": [
+                [
+                    143.0,
+                    935.0
+                ],
+                [
+                    450.0,
+                    932.0
+                ],
+                [
+                    450.0,
+                    957.0
+                ],
+                [
+                    144.0,
+                    960.0
+                ]
+            ]
+        },
+        {
+            "text": "**AUDIENCE WHILE",
+            "confidence": 0.974,
+            "box": [
+                [
+                    363.0,
+                    1200.0
+                ],
+                [
+                    700.0,
+                    1201.0
+                ],
+                [
+                    700.0,
+                    1239.0
+                ],
+                [
+                    363.0,
+                    1238.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHINGMOVIE IN",
+            "confidence": 0.984,
+            "box": [
+                [
+                    345.0,
+                    1245.0
+                ],
+                [
+                    719.0,
+                    1246.0
+                ],
+                [
+                    719.0,
+                    1284.0
+                ],
+                [
+                    344.0,
+                    1282.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATER",
+            "confidence": 0.997,
+            "box": [
+                [
+                    445.0,
+                    1289.0
+                ],
+                [
+                    609.0,
+                    1292.0
+                ],
+                [
+                    608.0,
+                    1331.0
+                ],
+                [
+                    444.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

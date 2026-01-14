@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-06-12_09-01-47_UTC.jpg",
+    "combined_text": "AN AIR INDIA FLIGHT WITH 242\nPASSENGERS CRASHED IN AHMEDABAD\nDURING TAKEOFF FOR LONDON\nHOPE EVERYONE IS SAFE A\nDDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "AN AIR INDIA FLIGHT WITH 242",
+            "confidence": 0.931,
+            "box": [
+                [
+                    239.0,
+                    24.0
+                ],
+                [
+                    862.0,
+                    24.0
+                ],
+                [
+                    862.0,
+                    57.0
+                ],
+                [
+                    239.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "PASSENGERS CRASHED IN AHMEDABAD",
+            "confidence": 0.973,
+            "box": [
+                [
+                    155.0,
+                    72.0
+                ],
+                [
+                    942.0,
+                    72.0
+                ],
+                [
+                    942.0,
+                    110.0
+                ],
+                [
+                    155.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "DURING TAKEOFF FOR LONDON",
+            "confidence": 0.966,
+            "box": [
+                [
+                    226.0,
+                    123.0
+                ],
+                [
+                    869.0,
+                    123.0
+                ],
+                [
+                    869.0,
+                    160.0
+                ],
+                [
+                    226.0,
+                    160.0
+                ]
+            ]
+        },
+        {
+            "text": "HOPE EVERYONE IS SAFE A",
+            "confidence": 0.93,
+            "box": [
+                [
+                    266.0,
+                    173.0
+                ],
+                [
+                    806.0,
+                    173.0
+                ],
+                [
+                    806.0,
+                    210.0
+                ],
+                [
+                    266.0,
+                    210.0
+                ]
+            ]
+        },
+        {
+            "text": "DDICTEDTOMEMES",
+            "confidence": 0.984,
+            "box": [
+                [
+                    914.0,
+                    723.0
+                ],
+                [
+                    1056.0,
+                    723.0
+                ],
+                [
+                    1056.0,
+                    744.0
+                ],
+                [
+                    914.0,
+                    744.0
+                ]
+            ]
+        }
+    ]
+}

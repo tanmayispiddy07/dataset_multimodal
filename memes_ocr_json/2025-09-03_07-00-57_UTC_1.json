@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-03_07-00-57_UTC_1.jpg",
+    "combined_text": "SHOCKING HOSPITAL\nDetails EXPOSED\nSWIPE",
+    "detailed": [
+        {
+            "text": "SHOCKING HOSPITAL",
+            "confidence": 0.993,
+            "box": [
+                [
+                    211.0,
+                    62.0
+                ],
+                [
+                    870.0,
+                    62.0
+                ],
+                [
+                    870.0,
+                    111.0
+                ],
+                [
+                    211.0,
+                    111.0
+                ]
+            ]
+        },
+        {
+            "text": "Details EXPOSED",
+            "confidence": 0.959,
+            "box": [
+                [
+                    179.0,
+                    150.0
+                ],
+                [
+                    703.0,
+                    150.0
+                ],
+                [
+                    703.0,
+                    204.0
+                ],
+                [
+                    179.0,
+                    204.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    784.0,
+                    1217.0
+                ],
+                [
+                    923.0,
+                    1213.0
+                ],
+                [
+                    924.0,
+                    1260.0
+                ],
+                [
+                    785.0,
+                    1263.0
+                ]
+            ]
+        }
+    ]
+}

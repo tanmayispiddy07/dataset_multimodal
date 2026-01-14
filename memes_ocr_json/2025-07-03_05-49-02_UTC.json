@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-07-03_05-49-02_UTC.jpg",
+    "combined_text": "PREITY MUKHUNDHAN SURPRISED EVERYONE\nWITH HER PRESENCE IN KANNAPPA,AS A\nBUDDING ACTRESS AMONG BIG STARS\nICTEDTOMEME\nNIJAMCHEPANDI MOVIE CHUSAKA MERU KUDA\nTHANANICRUSH LIST LO ADDCHESARU KADHA",
+    "detailed": [
+        {
+            "text": "PREITY MUKHUNDHAN SURPRISED EVERYONE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    80.0,
+                    17.0
+                ],
+                [
+                    982.0,
+                    17.0
+                ],
+                [
+                    982.0,
+                    54.0
+                ],
+                [
+                    80.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH HER PRESENCE IN KANNAPPA,AS A",
+            "confidence": 0.942,
+            "box": [
+                [
+                    121.0,
+                    66.0
+                ],
+                [
+                    945.0,
+                    66.0
+                ],
+                [
+                    945.0,
+                    103.0
+                ],
+                [
+                    121.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "BUDDING ACTRESS AMONG BIG STARS",
+            "confidence": 0.96,
+            "box": [
+                [
+                    118.0,
+                    116.0
+                ],
+                [
+                    896.0,
+                    116.0
+                ],
+                [
+                    896.0,
+                    153.0
+                ],
+                [
+                    118.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "ICTEDTOMEME",
+            "confidence": 0.956,
+            "box": [
+                [
+                    458.0,
+                    924.0
+                ],
+                [
+                    558.0,
+                    924.0
+                ],
+                [
+                    558.0,
+                    937.0
+                ],
+                [
+                    458.0,
+                    937.0
+                ]
+            ]
+        },
+        {
+            "text": "NIJAMCHEPANDI MOVIE CHUSAKA MERU KUDA",
+            "confidence": 0.944,
+            "box": [
+                [
+                    66.0,
+                    1238.0
+                ],
+                [
+                    1012.0,
+                    1238.0
+                ],
+                [
+                    1012.0,
+                    1271.0
+                ],
+                [
+                    66.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "THANANICRUSH LIST LO ADDCHESARU KADHA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    62.0,
+                    1284.0
+                ],
+                [
+                    1020.0,
+                    1285.0
+                ],
+                [
+                    1019.0,
+                    1323.0
+                ],
+                [
+                    62.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

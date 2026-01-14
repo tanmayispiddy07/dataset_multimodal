@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-07-04_15-38-30_UTC.jpg",
+    "combined_text": "SOLO BOY GRAND RELEASED TODAY\nSTARRING BIGBOSS FAME GAUTHAM KRISHNA\nVE\nSOLOBOY\nRELEASING\nTODAY\nSOLO BOY\nRELEASING TODAY\nSEVELSATSHVEENKUAR\nASARAEOCRECHATATA\nADDICTEDTOMEMES\nNAKU ILANTI INSPIRING MOVIES ANTE\nCHALA ISTAM RA EROJU NIGHT VELLALI",
+    "detailed": [
+        {
+            "text": "SOLO BOY GRAND RELEASED TODAY",
+            "confidence": 0.952,
+            "box": [
+                [
+                    165.0,
+                    49.0
+                ],
+                [
+                    928.0,
+                    49.0
+                ],
+                [
+                    928.0,
+                    86.0
+                ],
+                [
+                    165.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "STARRING BIGBOSS FAME GAUTHAM KRISHNA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    60.0,
+                    100.0
+                ],
+                [
+                    1035.0,
+                    100.0
+                ],
+                [
+                    1035.0,
+                    142.0
+                ],
+                [
+                    60.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "VE",
+            "confidence": 0.646,
+            "box": [
+                [
+                    451.0,
+                    200.0
+                ],
+                [
+                    548.0,
+                    217.0
+                ],
+                [
+                    541.0,
+                    257.0
+                ],
+                [
+                    443.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "SOLOBOY",
+            "confidence": 0.984,
+            "box": [
+                [
+                    596.0,
+                    209.0
+                ],
+                [
+                    981.0,
+                    208.0
+                ],
+                [
+                    982.0,
+                    286.0
+                ],
+                [
+                    596.0,
+                    287.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING",
+            "confidence": 0.997,
+            "box": [
+                [
+                    31.0,
+                    378.0
+                ],
+                [
+                    127.0,
+                    378.0
+                ],
+                [
+                    127.0,
+                    404.0
+                ],
+                [
+                    31.0,
+                    404.0
+                ]
+            ]
+        },
+        {
+            "text": "TODAY",
+            "confidence": 0.998,
+            "box": [
+                [
+                    30.0,
+                    400.0
+                ],
+                [
+                    124.0,
+                    400.0
+                ],
+                [
+                    124.0,
+                    445.0
+                ],
+                [
+                    30.0,
+                    445.0
+                ]
+            ]
+        },
+        {
+            "text": "SOLO BOY",
+            "confidence": 0.944,
+            "box": [
+                [
+                    86.0,
+                    554.0
+                ],
+                [
+                    420.0,
+                    550.0
+                ],
+                [
+                    421.0,
+                    619.0
+                ],
+                [
+                    86.0,
+                    622.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING TODAY",
+            "confidence": 0.979,
+            "box": [
+                [
+                    581.0,
+                    613.0
+                ],
+                [
+                    983.0,
+                    613.0
+                ],
+                [
+                    983.0,
+                    665.0
+                ],
+                [
+                    581.0,
+                    665.0
+                ]
+            ]
+        },
+        {
+            "text": "SEVELSATSHVEENKUAR",
+            "confidence": 0.613,
+            "box": [
+                [
+                    131.0,
+                    638.0
+                ],
+                [
+                    384.0,
+                    638.0
+                ],
+                [
+                    384.0,
+                    659.0
+                ],
+                [
+                    131.0,
+                    659.0
+                ]
+            ]
+        },
+        {
+            "text": "ASARAEOCRECHATATA",
+            "confidence": 0.632,
+            "box": [
+                [
+                    238.0,
+                    916.0
+                ],
+                [
+                    406.0,
+                    916.0
+                ],
+                [
+                    406.0,
+                    928.0
+                ],
+                [
+                    238.0,
+                    928.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    18.0,
+                    1118.0
+                ],
+                [
+                    169.0,
+                    1118.0
+                ],
+                [
+                    169.0,
+                    1139.0
+                ],
+                [
+                    18.0,
+                    1139.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU ILANTI INSPIRING MOVIES ANTE",
+            "confidence": 0.941,
+            "box": [
+                [
+                    159.0,
+                    1235.0
+                ],
+                [
+                    953.0,
+                    1236.0
+                ],
+                [
+                    953.0,
+                    1275.0
+                ],
+                [
+                    159.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALA ISTAM RA EROJU NIGHT VELLALI",
+            "confidence": 0.944,
+            "box": [
+                [
+                    135.0,
+                    1284.0
+                ],
+                [
+                    969.0,
+                    1285.0
+                ],
+                [
+                    969.0,
+                    1328.0
+                ],
+                [
+                    135.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

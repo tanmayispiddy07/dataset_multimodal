@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-04-25_17-39-15_UTC.jpg",
+    "combined_text": "sarcasm\nKavya Maran's reaction\nwhen Kamindu Mendis\nmissed out on a free hit",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    470.0,
+                    967.0
+                ],
+                [
+                    608.0,
+                    967.0
+                ],
+                [
+                    608.0,
+                    993.0
+                ],
+                [
+                    470.0,
+                    993.0
+                ]
+            ]
+        },
+        {
+            "text": "Kavya Maran's reaction",
+            "confidence": 1.0,
+            "box": [
+                [
+                    173.0,
+                    1033.0
+                ],
+                [
+                    910.0,
+                    1033.0
+                ],
+                [
+                    910.0,
+                    1094.0
+                ],
+                [
+                    173.0,
+                    1094.0
+                ]
+            ]
+        },
+        {
+            "text": "when Kamindu Mendis",
+            "confidence": 0.998,
+            "box": [
+                [
+                    191.0,
+                    1123.0
+                ],
+                [
+                    889.0,
+                    1120.0
+                ],
+                [
+                    889.0,
+                    1173.0
+                ],
+                [
+                    191.0,
+                    1176.0
+                ]
+            ]
+        },
+        {
+            "text": "missed out on a free hit",
+            "confidence": 0.999,
+            "box": [
+                [
+                    140.0,
+                    1207.0
+                ],
+                [
+                    862.0,
+                    1201.0
+                ],
+                [
+                    862.0,
+                    1268.0
+                ],
+                [
+                    141.0,
+                    1274.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-27_16-38-36_UTC.jpg",
+    "combined_text": "Ed Sheeran's doppelganger spotted in\nthe stands enjoying test cricket\nsarcasm",
+    "detailed": [
+        {
+            "text": "Ed Sheeran's doppelganger spotted in",
+            "confidence": 1.0,
+            "box": [
+                [
+                    27.0,
+                    52.0
+                ],
+                [
+                    1046.0,
+                    53.0
+                ],
+                [
+                    1046.0,
+                    115.0
+                ],
+                [
+                    27.0,
+                    114.0
+                ]
+            ]
+        },
+        {
+            "text": "the stands enjoying test cricket",
+            "confidence": 1.0,
+            "box": [
+                [
+                    68.0,
+                    132.0
+                ],
+                [
+                    914.0,
+                    136.0
+                ],
+                [
+                    914.0,
+                    194.0
+                ],
+                [
+                    67.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.979,
+            "box": [
+                [
+                    79.0,
+                    616.0
+                ],
+                [
+                    177.0,
+                    616.0
+                ],
+                [
+                    177.0,
+                    638.0
+                ],
+                [
+                    79.0,
+                    638.0
+                ]
+            ]
+        }
+    ]
+}

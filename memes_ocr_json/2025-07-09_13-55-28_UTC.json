@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-07-09_13-55-28_UTC.jpg",
+    "combined_text": "EXCELLENT TRAILER OF\nMAHAVATAR NARASIMHA\nANIMATEDFILM\nMOVIE RELEASING ON JULY 25TH\nADDICTEDTOMEMES\nVFXAADHRINDHIAYYA",
+    "detailed": [
+        {
+            "text": "EXCELLENT TRAILER OF",
+            "confidence": 0.946,
+            "box": [
+                [
+                    240.0,
+                    317.0
+                ],
+                [
+                    937.0,
+                    317.0
+                ],
+                [
+                    937.0,
+                    371.0
+                ],
+                [
+                    240.0,
+                    371.0
+                ]
+            ]
+        },
+        {
+            "text": "MAHAVATAR NARASIMHA",
+            "confidence": 0.981,
+            "box": [
+                [
+                    274.0,
+                    599.0
+                ],
+                [
+                    832.0,
+                    600.0
+                ],
+                [
+                    832.0,
+                    642.0
+                ],
+                [
+                    274.0,
+                    640.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIMATEDFILM",
+            "confidence": 0.994,
+            "box": [
+                [
+                    378.0,
+                    657.0
+                ],
+                [
+                    718.0,
+                    657.0
+                ],
+                [
+                    718.0,
+                    694.0
+                ],
+                [
+                    378.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON JULY 25TH",
+            "confidence": 0.983,
+            "box": [
+                [
+                    189.0,
+                    911.0
+                ],
+                [
+                    950.0,
+                    911.0
+                ],
+                [
+                    950.0,
+                    952.0
+                ],
+                [
+                    189.0,
+                    952.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.965,
+            "box": [
+                [
+                    891.0,
+                    1070.0
+                ],
+                [
+                    1027.0,
+                    1070.0
+                ],
+                [
+                    1027.0,
+                    1087.0
+                ],
+                [
+                    891.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "VFXAADHRINDHIAYYA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    255.0,
+                    1253.0
+                ],
+                [
+                    979.0,
+                    1253.0
+                ],
+                [
+                    979.0,
+                    1311.0
+                ],
+                [
+                    255.0,
+                    1311.0
+                ]
+            ]
+        }
+    ]
+}

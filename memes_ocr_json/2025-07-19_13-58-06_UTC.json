@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-07-19_13-58-06_UTC.jpg",
+    "combined_text": "I still can't believe Karan Johar\nmade us believe that\nStake\nsarcasm\nThis was a house in Delhi and within\nwalking distance of Chandni Chowk",
+    "detailed": [
+        {
+            "text": "I still can't believe Karan Johar",
+            "confidence": 0.991,
+            "box": [
+                [
+                    70.0,
+                    50.0
+                ],
+                [
+                    996.0,
+                    52.0
+                ],
+                [
+                    996.0,
+                    105.0
+                ],
+                [
+                    70.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "made us believe that",
+            "confidence": 1.0,
+            "box": [
+                [
+                    219.0,
+                    140.0
+                ],
+                [
+                    858.0,
+                    137.0
+                ],
+                [
+                    858.0,
+                    195.0
+                ],
+                [
+                    220.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "Stake",
+            "confidence": 0.994,
+            "box": [
+                [
+                    899.0,
+                    251.0
+                ],
+                [
+                    1064.0,
+                    255.0
+                ],
+                [
+                    1062.0,
+                    343.0
+                ],
+                [
+                    897.0,
+                    339.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.999,
+            "box": [
+                [
+                    885.0,
+                    475.0
+                ],
+                [
+                    985.0,
+                    479.0
+                ],
+                [
+                    984.0,
+                    505.0
+                ],
+                [
+                    884.0,
+                    502.0
+                ]
+            ]
+        },
+        {
+            "text": "This was a house in Delhi and within",
+            "confidence": 0.978,
+            "box": [
+                [
+                    38.0,
+                    1162.0
+                ],
+                [
+                    1043.0,
+                    1162.0
+                ],
+                [
+                    1043.0,
+                    1211.0
+                ],
+                [
+                    38.0,
+                    1211.0
+                ]
+            ]
+        },
+        {
+            "text": "walking distance of Chandni Chowk",
+            "confidence": 0.982,
+            "box": [
+                [
+                    45.0,
+                    1242.0
+                ],
+                [
+                    1032.0,
+                    1237.0
+                ],
+                [
+                    1032.0,
+                    1298.0
+                ],
+                [
+                    45.0,
+                    1302.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-04-23_13-11-12_UTC_2.jpg",
+    "combined_text": "NIAT-NXTWAVE INSTITUTE OF ADVANCED\nTECHNOLOGIES IPPUDU HYDERBAD,\nADMISSIONS OPEN AYYAYI...INKA FURTHER\nDETAILS TELUSUKOVALI ANTE FORM LINK\nBIO LOOUNDHI...FILL CHEYYANDI.",
+    "detailed": [
+        {
+            "text": "NIAT-NXTWAVE INSTITUTE OF ADVANCED",
+            "confidence": 0.966,
+            "box": [
+                [
+                    122.0,
+                    389.0
+                ],
+                [
+                    961.0,
+                    389.0
+                ],
+                [
+                    961.0,
+                    423.0
+                ],
+                [
+                    122.0,
+                    423.0
+                ]
+            ]
+        },
+        {
+            "text": "TECHNOLOGIES IPPUDU HYDERBAD,",
+            "confidence": 0.968,
+            "box": [
+                [
+                    179.0,
+                    436.0
+                ],
+                [
+                    897.0,
+                    438.0
+                ],
+                [
+                    897.0,
+                    475.0
+                ],
+                [
+                    179.0,
+                    474.0
+                ]
+            ]
+        },
+        {
+            "text": "ADMISSIONS OPEN AYYAYI...INKA FURTHER",
+            "confidence": 0.933,
+            "box": [
+                [
+                    120.0,
+                    928.0
+                ],
+                [
+                    989.0,
+                    928.0
+                ],
+                [
+                    989.0,
+                    962.0
+                ],
+                [
+                    120.0,
+                    962.0
+                ]
+            ]
+        },
+        {
+            "text": "DETAILS TELUSUKOVALI ANTE FORM LINK",
+            "confidence": 0.956,
+            "box": [
+                [
+                    141.0,
+                    976.0
+                ],
+                [
+                    964.0,
+                    979.0
+                ],
+                [
+                    964.0,
+                    1013.0
+                ],
+                [
+                    141.0,
+                    1010.0
+                ]
+            ]
+        },
+        {
+            "text": "BIO LOOUNDHI...FILL CHEYYANDI.",
+            "confidence": 0.932,
+            "box": [
+                [
+                    183.0,
+                    1027.0
+                ],
+                [
+                    886.0,
+                    1027.0
+                ],
+                [
+                    886.0,
+                    1061.0
+                ],
+                [
+                    183.0,
+                    1061.0
+                ]
+            ]
+        }
+    ]
+}

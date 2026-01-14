@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-12-26_17-31-20_UTC.jpg",
+    "combined_text": "when you can't get taco\nbell bc there's annam\npappu at home",
+    "detailed": [
+        {
+            "text": "when you can't get taco",
+            "confidence": 1.0,
+            "box": [
+                [
+                    28.0,
+                    5.0
+                ],
+                [
+                    797.0,
+                    9.0
+                ],
+                [
+                    797.0,
+                    81.0
+                ],
+                [
+                    28.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "bell bc there's annam",
+            "confidence": 0.998,
+            "box": [
+                [
+                    66.0,
+                    87.0
+                ],
+                [
+                    762.0,
+                    91.0
+                ],
+                [
+                    762.0,
+                    156.0
+                ],
+                [
+                    66.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "pappu at home",
+            "confidence": 1.0,
+            "box": [
+                [
+                    166.0,
+                    180.0
+                ],
+                [
+                    656.0,
+                    167.0
+                ],
+                [
+                    658.0,
+                    237.0
+                ],
+                [
+                    168.0,
+                    250.0
+                ]
+            ]
+        }
+    ]
+}

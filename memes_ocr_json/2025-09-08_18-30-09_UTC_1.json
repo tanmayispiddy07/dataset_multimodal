@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-09-08_18-30-09_UTC_1.jpg",
+    "combined_text": "Ex-employee's revelation could\nchange the sale game for buyers\nSWIPE\n<<<",
+    "detailed": [
+        {
+            "text": "Ex-employee's revelation could",
+            "confidence": 0.977,
+            "box": [
+                [
+                    138.0,
+                    68.0
+                ],
+                [
+                    941.0,
+                    65.0
+                ],
+                [
+                    941.0,
+                    117.0
+                ],
+                [
+                    138.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "change the sale game for buyers",
+            "confidence": 1.0,
+            "box": [
+                [
+                    94.0,
+                    148.0
+                ],
+                [
+                    931.0,
+                    149.0
+                ],
+                [
+                    931.0,
+                    203.0
+                ],
+                [
+                    94.0,
+                    201.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    889.0,
+                    305.0
+                ],
+                [
+                    983.0,
+                    305.0
+                ],
+                [
+                    983.0,
+                    332.0
+                ],
+                [
+                    889.0,
+                    332.0
+                ]
+            ]
+        },
+        {
+            "text": "<<<",
+            "confidence": 0.749,
+            "box": [
+                [
+                    973.0,
+                    305.0
+                ],
+                [
+                    1029.0,
+                    305.0
+                ],
+                [
+                    1029.0,
+                    333.0
+                ],
+                [
+                    973.0,
+                    333.0
+                ]
+            ]
+        }
+    ]
+}

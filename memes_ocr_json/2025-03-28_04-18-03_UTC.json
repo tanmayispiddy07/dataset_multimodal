@@ -1,0 +1,468 @@
+{
+    "image_name": "2025-03-28_04-18-03_UTC.jpg",
+    "combined_text": "WATCHING THESE DAYS SOCIAL MEDIA HAT*ED\nABOUT OTHER RELIGIONS IS LIKE SLOW POISION\nGETTING INFECTED IN US.\nNENU OKA HINDU GA CHEPTHUNNA PLEASE\nGUYS NEVER EVER BRING RELIGIONS IN\nBETWEEN BONDS BE IT ANYTHING FRIENDSHIP/\nFAMILY DENTLO AYINA PLEASE DON'T GET\nINFLUENCEDBY ANYONE THIS IS OUR INDIA\nKALISI UNDHAM EPPUDU SANTHOSAMU GA\nUNDHAM.MANA DEVUDU NINAMMUDHAM\nVERE VALLAKIRESPECT IDDHAM\nNA BEST FRIEND OKA CHRISTIANNA FRIENDS\nCIRCLE LOCHALA MANDI MUSLIMS UNNARU\nNENU PRATHI MONDAY GUDIKI POTHA\nSHIVAYYA BHAKTHUDI NENU\nADDICTEDTOMEMES\nNENU NORMAL GANE UNNA KADHA A\nRELIGION NI EM ANAKUNDA EVARINI TAKKVUA\nCHEYAKUNDA MARE KONTHA MANDI ENDUKU\nALA UNDALEKHAPOTHUNNARU ?\nONE THING HUMANITY>>>>> ANY THING",
+    "detailed": [
+        {
+            "text": "WATCHING THESE DAYS SOCIAL MEDIA HAT*ED",
+            "confidence": 0.947,
+            "box": [
+                [
+                    83.0,
+                    62.0
+                ],
+                [
+                    999.0,
+                    62.0
+                ],
+                [
+                    999.0,
+                    92.0
+                ],
+                [
+                    83.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "ABOUT OTHER RELIGIONS IS LIKE SLOW POISION",
+            "confidence": 0.942,
+            "box": [
+                [
+                    64.0,
+                    109.0
+                ],
+                [
+                    1023.0,
+                    109.0
+                ],
+                [
+                    1023.0,
+                    143.0
+                ],
+                [
+                    64.0,
+                    143.0
+                ]
+            ]
+        },
+        {
+            "text": "GETTING INFECTED IN US.",
+            "confidence": 0.94,
+            "box": [
+                [
+                    286.0,
+                    160.0
+                ],
+                [
+                    793.0,
+                    160.0
+                ],
+                [
+                    793.0,
+                    190.0
+                ],
+                [
+                    286.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "NENU OKA HINDU GA CHEPTHUNNA PLEASE",
+            "confidence": 0.936,
+            "box": [
+                [
+                    106.0,
+                    209.0
+                ],
+                [
+                    979.0,
+                    209.0
+                ],
+                [
+                    979.0,
+                    240.0
+                ],
+                [
+                    106.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "GUYS NEVER EVER BRING RELIGIONS IN",
+            "confidence": 0.942,
+            "box": [
+                [
+                    144.0,
+                    256.0
+                ],
+                [
+                    937.0,
+                    256.0
+                ],
+                [
+                    937.0,
+                    290.0
+                ],
+                [
+                    144.0,
+                    290.0
+                ]
+            ]
+        },
+        {
+            "text": "BETWEEN BONDS BE IT ANYTHING FRIENDSHIP/",
+            "confidence": 0.952,
+            "box": [
+                [
+                    75.0,
+                    306.0
+                ],
+                [
+                    1006.0,
+                    306.0
+                ],
+                [
+                    1006.0,
+                    340.0
+                ],
+                [
+                    75.0,
+                    340.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY DENTLO AYINA PLEASE DON'T GET",
+            "confidence": 0.96,
+            "box": [
+                [
+                    127.0,
+                    354.0
+                ],
+                [
+                    957.0,
+                    356.0
+                ],
+                [
+                    957.0,
+                    387.0
+                ],
+                [
+                    127.0,
+                    386.0
+                ]
+            ]
+        },
+        {
+            "text": "INFLUENCEDBY ANYONE THIS IS OUR INDIA",
+            "confidence": 0.941,
+            "box": [
+                [
+                    111.0,
+                    406.0
+                ],
+                [
+                    972.0,
+                    406.0
+                ],
+                [
+                    972.0,
+                    436.0
+                ],
+                [
+                    111.0,
+                    436.0
+                ]
+            ]
+        },
+        {
+            "text": "KALISI UNDHAM EPPUDU SANTHOSAMU GA",
+            "confidence": 0.942,
+            "box": [
+                [
+                    109.0,
+                    452.0
+                ],
+                [
+                    973.0,
+                    452.0
+                ],
+                [
+                    973.0,
+                    486.0
+                ],
+                [
+                    109.0,
+                    486.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDHAM.MANA DEVUDU NINAMMUDHAM",
+            "confidence": 0.954,
+            "box": [
+                [
+                    101.0,
+                    504.0
+                ],
+                [
+                    980.0,
+                    504.0
+                ],
+                [
+                    980.0,
+                    534.0
+                ],
+                [
+                    101.0,
+                    534.0
+                ]
+            ]
+        },
+        {
+            "text": "VERE VALLAKIRESPECT IDDHAM",
+            "confidence": 0.961,
+            "box": [
+                [
+                    216.0,
+                    551.0
+                ],
+                [
+                    858.0,
+                    551.0
+                ],
+                [
+                    858.0,
+                    585.0
+                ],
+                [
+                    216.0,
+                    585.0
+                ]
+            ]
+        },
+        {
+            "text": "NA BEST FRIEND OKA CHRISTIANNA FRIENDS",
+            "confidence": 0.936,
+            "box": [
+                [
+                    91.0,
+                    602.0
+                ],
+                [
+                    991.0,
+                    602.0
+                ],
+                [
+                    991.0,
+                    632.0
+                ],
+                [
+                    91.0,
+                    632.0
+                ]
+            ]
+        },
+        {
+            "text": "CIRCLE LOCHALA MANDI MUSLIMS UNNARU",
+            "confidence": 0.948,
+            "box": [
+                [
+                    99.0,
+                    651.0
+                ],
+                [
+                    986.0,
+                    651.0
+                ],
+                [
+                    986.0,
+                    682.0
+                ],
+                [
+                    99.0,
+                    682.0
+                ]
+            ]
+        },
+        {
+            "text": "NENU PRATHI MONDAY GUDIKI POTHA",
+            "confidence": 0.942,
+            "box": [
+                [
+                    156.0,
+                    699.0
+                ],
+                [
+                    928.0,
+                    699.0
+                ],
+                [
+                    928.0,
+                    732.0
+                ],
+                [
+                    156.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "SHIVAYYA BHAKTHUDI NENU",
+            "confidence": 0.961,
+            "box": [
+                [
+                    266.0,
+                    750.0
+                ],
+                [
+                    818.0,
+                    750.0
+                ],
+                [
+                    818.0,
+                    781.0
+                ],
+                [
+                    266.0,
+                    781.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    924.0,
+                    782.0
+                ],
+                [
+                    1034.0,
+                    783.0
+                ],
+                [
+                    1034.0,
+                    798.0
+                ],
+                [
+                    924.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "NENU NORMAL GANE UNNA KADHA A",
+            "confidence": 0.946,
+            "box": [
+                [
+                    162.0,
+                    799.0
+                ],
+                [
+                    921.0,
+                    799.0
+                ],
+                [
+                    921.0,
+                    829.0
+                ],
+                [
+                    162.0,
+                    829.0
+                ]
+            ]
+        },
+        {
+            "text": "RELIGION NI EM ANAKUNDA EVARINI TAKKVUA",
+            "confidence": 0.959,
+            "box": [
+                [
+                    72.0,
+                    846.0
+                ],
+                [
+                    1011.0,
+                    846.0
+                ],
+                [
+                    1011.0,
+                    880.0
+                ],
+                [
+                    72.0,
+                    880.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEYAKUNDA MARE KONTHA MANDI ENDUKU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    87.0,
+                    897.0
+                ],
+                [
+                    998.0,
+                    897.0
+                ],
+                [
+                    998.0,
+                    927.0
+                ],
+                [
+                    87.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "text": "ALA UNDALEKHAPOTHUNNARU ?",
+            "confidence": 0.967,
+            "box": [
+                [
+                    214.0,
+                    946.0
+                ],
+                [
+                    868.0,
+                    946.0
+                ],
+                [
+                    868.0,
+                    976.0
+                ],
+                [
+                    214.0,
+                    976.0
+                ]
+            ]
+        },
+        {
+            "text": "ONE THING HUMANITY>>>>> ANY THING",
+            "confidence": 0.975,
+            "box": [
+                [
+                    133.0,
+                    992.0
+                ],
+                [
+                    948.0,
+                    992.0
+                ],
+                [
+                    948.0,
+                    1029.0
+                ],
+                [
+                    133.0,
+                    1029.0
+                ]
+            ]
+        }
+    ]
+}

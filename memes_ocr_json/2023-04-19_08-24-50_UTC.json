@@ -1,0 +1,182 @@
+{
+    "image_name": "2023-04-19_08-24-50_UTC.jpg",
+    "combined_text": "CHECKOUT POWER PACKED MAKING VIDEO\nFROM THE MOVIE UGRAM..\nMOVIE\nGRAND RELEASE\nEON 5TH MAY\nTELUGU MEMES GURU\nMAKING VIDEO YE EE RANGE LO UNTEY....INKA\nFIGHT SEQUENCE YE RANGE LO UNTUNDHOO",
+    "detailed": [
+        {
+            "text": "CHECKOUT POWER PACKED MAKING VIDEO",
+            "confidence": 0.946,
+            "box": [
+                [
+                    90.0,
+                    12.0
+                ],
+                [
+                    1001.0,
+                    12.0
+                ],
+                [
+                    1001.0,
+                    46.0
+                ],
+                [
+                    90.0,
+                    46.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM THE MOVIE UGRAM..",
+            "confidence": 0.949,
+            "box": [
+                [
+                    142.0,
+                    58.0
+                ],
+                [
+                    720.0,
+                    58.0
+                ],
+                [
+                    720.0,
+                    96.0
+                ],
+                [
+                    142.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE",
+            "confidence": 0.993,
+            "box": [
+                [
+                    800.0,
+                    60.0
+                ],
+                [
+                    946.0,
+                    60.0
+                ],
+                [
+                    946.0,
+                    94.0
+                ],
+                [
+                    800.0,
+                    94.0
+                ]
+            ]
+        },
+        {
+            "text": "GRAND RELEASE",
+            "confidence": 0.96,
+            "box": [
+                [
+                    225.0,
+                    105.0
+                ],
+                [
+                    582.0,
+                    105.0
+                ],
+                [
+                    582.0,
+                    143.0
+                ],
+                [
+                    225.0,
+                    143.0
+                ]
+            ]
+        },
+        {
+            "text": "EON 5TH MAY",
+            "confidence": 0.851,
+            "box": [
+                [
+                    564.0,
+                    105.0
+                ],
+                [
+                    866.0,
+                    105.0
+                ],
+                [
+                    866.0,
+                    143.0
+                ],
+                [
+                    564.0,
+                    143.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.92,
+            "box": [
+                [
+                    837.0,
+                    1065.0
+                ],
+                [
+                    998.0,
+                    1065.0
+                ],
+                [
+                    998.0,
+                    1090.0
+                ],
+                [
+                    837.0,
+                    1090.0
+                ]
+            ]
+        },
+        {
+            "text": "MAKING VIDEO YE EE RANGE LO UNTEY....INKA",
+            "confidence": 0.911,
+            "box": [
+                [
+                    27.0,
+                    1232.0
+                ],
+                [
+                    1048.0,
+                    1232.0
+                ],
+                [
+                    1048.0,
+                    1269.0
+                ],
+                [
+                    27.0,
+                    1269.0
+                ]
+            ]
+        },
+        {
+            "text": "FIGHT SEQUENCE YE RANGE LO UNTUNDHOO",
+            "confidence": 0.95,
+            "box": [
+                [
+                    59.0,
+                    1278.0
+                ],
+                [
+                    1018.0,
+                    1278.0
+                ],
+                [
+                    1018.0,
+                    1319.0
+                ],
+                [
+                    59.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

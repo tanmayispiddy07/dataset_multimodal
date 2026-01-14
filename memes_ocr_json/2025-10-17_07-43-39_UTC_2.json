@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-17_07-43-39_UTC_2.jpg",
+    "combined_text": "sarcasm\nRiseTower will be more than\ntwice the height of Burj Khalifa,\ncreating a 2-kilometre vertical\ncity in Riyadh.",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.993,
+            "box": [
+                [
+                    485.0,
+                    927.0
+                ],
+                [
+                    596.0,
+                    927.0
+                ],
+                [
+                    596.0,
+                    949.0
+                ],
+                [
+                    485.0,
+                    949.0
+                ]
+            ]
+        },
+        {
+            "text": "RiseTower will be more than",
+            "confidence": 0.956,
+            "box": [
+                [
+                    90.0,
+                    980.0
+                ],
+                [
+                    993.0,
+                    984.0
+                ],
+                [
+                    993.0,
+                    1042.0
+                ],
+                [
+                    90.0,
+                    1038.0
+                ]
+            ]
+        },
+        {
+            "text": "twice the height of Burj Khalifa,",
+            "confidence": 0.964,
+            "box": [
+                [
+                    38.0,
+                    1064.0
+                ],
+                [
+                    1039.0,
+                    1067.0
+                ],
+                [
+                    1039.0,
+                    1129.0
+                ],
+                [
+                    38.0,
+                    1126.0
+                ]
+            ]
+        },
+        {
+            "text": "creating a 2-kilometre vertical",
+            "confidence": 0.999,
+            "box": [
+                [
+                    49.0,
+                    1152.0
+                ],
+                [
+                    1030.0,
+                    1143.0
+                ],
+                [
+                    1031.0,
+                    1205.0
+                ],
+                [
+                    50.0,
+                    1214.0
+                ]
+            ]
+        },
+        {
+            "text": "city in Riyadh.",
+            "confidence": 0.973,
+            "box": [
+                [
+                    326.0,
+                    1230.0
+                ],
+                [
+                    755.0,
+                    1230.0
+                ],
+                [
+                    755.0,
+                    1298.0
+                ],
+                [
+                    326.0,
+                    1298.0
+                ]
+            ]
+        }
+    ]
+}

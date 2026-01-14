@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-10-01_15-16-33_UTC.jpg",
+    "combined_text": "2 MILLION TICKETS ON BMS\nBACK TO BACK 3M IN USA\nNOW 15O CRORES WWCOLLECTION\nTEJA SAJJA'S MIRAI IS JUST UNSTOPPABLE\nTIRAI\nKRATTAMNIND\nSUPZRYODHA\nR\nADDICTEDTOMEMES\nIDHIEKKADAMASS RA MAWA",
+    "detailed": [
+        {
+            "text": "2 MILLION TICKETS ON BMS",
+            "confidence": 0.925,
+            "box": [
+                [
+                    267.0,
+                    8.0
+                ],
+                [
+                    875.0,
+                    8.0
+                ],
+                [
+                    875.0,
+                    46.0
+                ],
+                [
+                    267.0,
+                    46.0
+                ]
+            ]
+        },
+        {
+            "text": "BACK TO BACK 3M IN USA",
+            "confidence": 0.923,
+            "box": [
+                [
+                    287.0,
+                    61.0
+                ],
+                [
+                    856.0,
+                    61.0
+                ],
+                [
+                    856.0,
+                    103.0
+                ],
+                [
+                    287.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW 15O CRORES WWCOLLECTION",
+            "confidence": 0.944,
+            "box": [
+                [
+                    180.0,
+                    118.0
+                ],
+                [
+                    966.0,
+                    118.0
+                ],
+                [
+                    966.0,
+                    156.0
+                ],
+                [
+                    180.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "TEJA SAJJA'S MIRAI IS JUST UNSTOPPABLE",
+            "confidence": 0.974,
+            "box": [
+                [
+                    101.0,
+                    171.0
+                ],
+                [
+                    1045.0,
+                    171.0
+                ],
+                [
+                    1045.0,
+                    213.0
+                ],
+                [
+                    101.0,
+                    213.0
+                ]
+            ]
+        },
+        {
+            "text": "TIRAI",
+            "confidence": 0.669,
+            "box": [
+                [
+                    312.0,
+                    775.0
+                ],
+                [
+                    551.0,
+                    786.0
+                ],
+                [
+                    547.0,
+                    866.0
+                ],
+                [
+                    308.0,
+                    855.0
+                ]
+            ]
+        },
+        {
+            "text": "KRATTAMNIND",
+            "confidence": 0.803,
+            "box": [
+                [
+                    200.0,
+                    806.0
+                ],
+                [
+                    284.0,
+                    806.0
+                ],
+                [
+                    284.0,
+                    828.0
+                ],
+                [
+                    200.0,
+                    828.0
+                ]
+            ]
+        },
+        {
+            "text": "SUPZRYODHA",
+            "confidence": 0.736,
+            "box": [
+                [
+                    377.0,
+                    853.0
+                ],
+                [
+                    468.0,
+                    853.0
+                ],
+                [
+                    468.0,
+                    870.0
+                ],
+                [
+                    377.0,
+                    870.0
+                ]
+            ]
+        },
+        {
+            "text": "R",
+            "confidence": 0.993,
+            "box": [
+                [
+                    503.0,
+                    944.0
+                ],
+                [
+                    540.0,
+                    944.0
+                ],
+                [
+                    540.0,
+                    974.0
+                ],
+                [
+                    503.0,
+                    974.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    41.0,
+                    1108.0
+                ],
+                [
+                    176.0,
+                    1108.0
+                ],
+                [
+                    176.0,
+                    1125.0
+                ],
+                [
+                    41.0,
+                    1125.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHIEKKADAMASS RA MAWA",
+            "confidence": 0.97,
+            "box": [
+                [
+                    153.0,
+                    1268.0
+                ],
+                [
+                    1014.0,
+                    1271.0
+                ],
+                [
+                    1014.0,
+                    1326.0
+                ],
+                [
+                    153.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

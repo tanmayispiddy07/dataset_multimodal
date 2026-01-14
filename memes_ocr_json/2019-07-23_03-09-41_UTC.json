@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-07-23_03-09-41_UTC.jpg",
+    "combined_text": "When Your Mom ls Beating You\nCiNEMAPSYCHOf\nAnd Says\nYedisthe Inka Kodatha\nBALAJIVIDEO",
+    "detailed": [
+        {
+            "text": "When Your Mom ls Beating You",
+            "confidence": 0.95,
+            "box": [
+                [
+                    75.0,
+                    356.0
+                ],
+                [
+                    762.0,
+                    356.0
+                ],
+                [
+                    762.0,
+                    404.0
+                ],
+                [
+                    75.0,
+                    404.0
+                ]
+            ]
+        },
+        {
+            "text": "CiNEMAPSYCHOf",
+            "confidence": 0.922,
+            "box": [
+                [
+                    47.0,
+                    549.0
+                ],
+                [
+                    232.0,
+                    547.0
+                ],
+                [
+                    232.0,
+                    575.0
+                ],
+                [
+                    47.0,
+                    577.0
+                ]
+            ]
+        },
+        {
+            "text": "And Says",
+            "confidence": 0.968,
+            "box": [
+                [
+                    304.0,
+                    722.0
+                ],
+                [
+                    514.0,
+                    725.0
+                ],
+                [
+                    513.0,
+                    770.0
+                ],
+                [
+                    303.0,
+                    768.0
+                ]
+            ]
+        },
+        {
+            "text": "Yedisthe Inka Kodatha",
+            "confidence": 0.96,
+            "box": [
+                [
+                    160.0,
+                    773.0
+                ],
+                [
+                    655.0,
+                    773.0
+                ],
+                [
+                    655.0,
+                    815.0
+                ],
+                [
+                    160.0,
+                    815.0
+                ]
+            ]
+        },
+        {
+            "text": "BALAJIVIDEO",
+            "confidence": 0.957,
+            "box": [
+                [
+                    631.0,
+                    766.0
+                ],
+                [
+                    730.0,
+                    766.0
+                ],
+                [
+                    730.0,
+                    784.0
+                ],
+                [
+                    631.0,
+                    784.0
+                ]
+            ]
+        }
+    ]
+}

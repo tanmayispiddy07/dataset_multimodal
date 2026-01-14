@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-09-16_05-48-07_UTC.jpg",
+    "combined_text": "aaryanajay_online 8h\nFrom Create Mode\nComing Soon\nrajamouli tarvata nuvve anna\nantha entertain chesedhi\nnannu,chaala eduguthav\nThank u so much bro\nADDICTEDTOMEMES\nmatalu nerchina chilaka\nyenni ayina chepthundhi\nSON",
+    "detailed": [
+        {
+            "text": "aaryanajay_online 8h",
+            "confidence": 0.964,
+            "box": [
+                [
+                    569.0,
+                    15.0
+                ],
+                [
+                    787.0,
+                    12.0
+                ],
+                [
+                    788.0,
+                    39.0
+                ],
+                [
+                    570.0,
+                    42.0
+                ]
+            ]
+        },
+        {
+            "text": "From Create Mode",
+            "confidence": 0.959,
+            "box": [
+                [
+                    570.0,
+                    43.0
+                ],
+                [
+                    727.0,
+                    43.0
+                ],
+                [
+                    727.0,
+                    64.0
+                ],
+                [
+                    570.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "Coming Soon",
+            "confidence": 0.977,
+            "box": [
+                [
+                    698.0,
+                    273.0
+                ],
+                [
+                    840.0,
+                    273.0
+                ],
+                [
+                    840.0,
+                    300.0
+                ],
+                [
+                    698.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "rajamouli tarvata nuvve anna",
+            "confidence": 0.976,
+            "box": [
+                [
+                    589.0,
+                    361.0
+                ],
+                [
+                    982.0,
+                    361.0
+                ],
+                [
+                    982.0,
+                    394.0
+                ],
+                [
+                    589.0,
+                    394.0
+                ]
+            ]
+        },
+        {
+            "text": "antha entertain chesedhi",
+            "confidence": 0.973,
+            "box": [
+                [
+                    615.0,
+                    400.0
+                ],
+                [
+                    956.0,
+                    400.0
+                ],
+                [
+                    956.0,
+                    429.0
+                ],
+                [
+                    615.0,
+                    429.0
+                ]
+            ]
+        },
+        {
+            "text": "nannu,chaala eduguthav",
+            "confidence": 0.976,
+            "box": [
+                [
+                    612.0,
+                    436.0
+                ],
+                [
+                    955.0,
+                    436.0
+                ],
+                [
+                    955.0,
+                    466.0
+                ],
+                [
+                    612.0,
+                    466.0
+                ]
+            ]
+        },
+        {
+            "text": "Thank u so much bro",
+            "confidence": 0.952,
+            "box": [
+                [
+                    560.0,
+                    529.0
+                ],
+                [
+                    869.0,
+                    533.0
+                ],
+                [
+                    869.0,
+                    576.0
+                ],
+                [
+                    560.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    918.0,
+                    716.0
+                ],
+                [
+                    1077.0,
+                    716.0
+                ],
+                [
+                    1077.0,
+                    741.0
+                ],
+                [
+                    918.0,
+                    741.0
+                ]
+            ]
+        },
+        {
+            "text": "matalu nerchina chilaka",
+            "confidence": 0.964,
+            "box": [
+                [
+                    125.0,
+                    1182.0
+                ],
+                [
+                    950.0,
+                    1179.0
+                ],
+                [
+                    951.0,
+                    1247.0
+                ],
+                [
+                    125.0,
+                    1250.0
+                ]
+            ]
+        },
+        {
+            "text": "yenni ayina chepthundhi",
+            "confidence": 0.997,
+            "box": [
+                [
+                    108.0,
+                    1253.0
+                ],
+                [
+                    968.0,
+                    1246.0
+                ],
+                [
+                    969.0,
+                    1322.0
+                ],
+                [
+                    109.0,
+                    1330.0
+                ]
+            ]
+        },
+        {
+            "text": "SON",
+            "confidence": 0.816,
+            "box": [
+                [
+                    1027.0,
+                    1299.0
+                ],
+                [
+                    1077.0,
+                    1299.0
+                ],
+                [
+                    1077.0,
+                    1327.0
+                ],
+                [
+                    1027.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

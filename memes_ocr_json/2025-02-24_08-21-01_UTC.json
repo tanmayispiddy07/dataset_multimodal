@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-02-24_08-21-01_UTC.jpg",
+    "combined_text": "Bombay\nIs a great place to be",
+    "detailed": [
+        {
+            "text": "Bombay",
+            "confidence": 0.997,
+            "box": [
+                [
+                    28.0,
+                    455.0
+                ],
+                [
+                    273.0,
+                    461.0
+                ],
+                [
+                    272.0,
+                    511.0
+                ],
+                [
+                    26.0,
+                    505.0
+                ]
+            ]
+        },
+        {
+            "text": "Is a great place to be",
+            "confidence": 0.98,
+            "box": [
+                [
+                    165.0,
+                    512.0
+                ],
+                [
+                    526.0,
+                    510.0
+                ],
+                [
+                    526.0,
+                    541.0
+                ],
+                [
+                    165.0,
+                    543.0
+                ]
+            ]
+        }
+    ]
+}

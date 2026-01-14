@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-07-18_09-47-27_UTC.jpg",
+    "combined_text": "A SMALL FILM KOTHAPALLILO OKAPPUDU IS GETTING\nPOSITIVE RESPONSES AND WINNING HEARTS.ONE\nSHOULD NOT MISS THIS MOVIE IN THEATRES.MUST WATCH\nSPRIT\nSPRT\n18\nRANA DAGGUBATI\n25\nPRAVEINAPARUCHURI\nADDICTEDTOMEMES\nWEEKENDKI BOOK\nCHESUKUNDAM",
+    "detailed": [
+        {
+            "text": "A SMALL FILM KOTHAPALLILO OKAPPUDU IS GETTING",
+            "confidence": 0.955,
+            "box": [
+                [
+                    62.0,
+                    33.0
+                ],
+                [
+                    1014.0,
+                    33.0
+                ],
+                [
+                    1014.0,
+                    67.0
+                ],
+                [
+                    62.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "POSITIVE RESPONSES AND WINNING HEARTS.ONE",
+            "confidence": 0.968,
+            "box": [
+                [
+                    89.0,
+                    77.0
+                ],
+                [
+                    984.0,
+                    77.0
+                ],
+                [
+                    984.0,
+                    110.0
+                ],
+                [
+                    89.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "SHOULD NOT MISS THIS MOVIE IN THEATRES.MUST WATCH",
+            "confidence": 0.938,
+            "box": [
+                [
+                    24.0,
+                    124.0
+                ],
+                [
+                    1050.0,
+                    124.0
+                ],
+                [
+                    1050.0,
+                    153.0
+                ],
+                [
+                    24.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "SPRIT",
+            "confidence": 0.663,
+            "box": [
+                [
+                    447.0,
+                    213.0
+                ],
+                [
+                    508.0,
+                    213.0
+                ],
+                [
+                    508.0,
+                    240.0
+                ],
+                [
+                    447.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "SPRT",
+            "confidence": 0.603,
+            "box": [
+                [
+                    1001.0,
+                    219.0
+                ],
+                [
+                    1062.0,
+                    219.0
+                ],
+                [
+                    1062.0,
+                    252.0
+                ],
+                [
+                    1001.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "text": "18",
+            "confidence": 0.999,
+            "box": [
+                [
+                    568.0,
+                    295.0
+                ],
+                [
+                    650.0,
+                    295.0
+                ],
+                [
+                    650.0,
+                    374.0
+                ],
+                [
+                    568.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "RANA DAGGUBATI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    155.0,
+                    718.0
+                ],
+                [
+                    270.0,
+                    718.0
+                ],
+                [
+                    270.0,
+                    739.0
+                ],
+                [
+                    155.0,
+                    739.0
+                ]
+            ]
+        },
+        {
+            "text": "25",
+            "confidence": 0.552,
+            "box": [
+                [
+                    127.0,
+                    835.0
+                ],
+                [
+                    207.0,
+                    835.0
+                ],
+                [
+                    207.0,
+                    867.0
+                ],
+                [
+                    127.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "PRAVEINAPARUCHURI",
+            "confidence": 0.813,
+            "box": [
+                [
+                    152.0,
+                    896.0
+                ],
+                [
+                    271.0,
+                    896.0
+                ],
+                [
+                    271.0,
+                    921.0
+                ],
+                [
+                    152.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    893.0,
+                    1066.0
+                ],
+                [
+                    1056.0,
+                    1065.0
+                ],
+                [
+                    1056.0,
+                    1087.0
+                ],
+                [
+                    893.0,
+                    1089.0
+                ]
+            ]
+        },
+        {
+            "text": "WEEKENDKI BOOK",
+            "confidence": 0.964,
+            "box": [
+                [
+                    518.0,
+                    1217.0
+                ],
+                [
+                    976.0,
+                    1217.0
+                ],
+                [
+                    976.0,
+                    1259.0
+                ],
+                [
+                    518.0,
+                    1259.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESUKUNDAM",
+            "confidence": 0.998,
+            "box": [
+                [
+                    561.0,
+                    1277.0
+                ],
+                [
+                    939.0,
+                    1277.0
+                ],
+                [
+                    939.0,
+                    1318.0
+                ],
+                [
+                    561.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2020-03-09_14-27-17_UTC.jpg",
+    "combined_text": "Panditji chanting rest of the\nmantra\nMe at the end.\n@arreeyyrishabhe\n*SWAHA*",
+    "detailed": [
+        {
+            "text": "Panditji chanting rest of the",
+            "confidence": 0.969,
+            "box": [
+                [
+                    4.0,
+                    0.0
+                ],
+                [
+                    945.0,
+                    0.0
+                ],
+                [
+                    945.0,
+                    70.0
+                ],
+                [
+                    4.0,
+                    70.0
+                ]
+            ]
+        },
+        {
+            "text": "mantra",
+            "confidence": 0.998,
+            "box": [
+                [
+                    9.0,
+                    76.0
+                ],
+                [
+                    248.0,
+                    76.0
+                ],
+                [
+                    248.0,
+                    135.0
+                ],
+                [
+                    9.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "Me at the end.",
+            "confidence": 0.982,
+            "box": [
+                [
+                    10.0,
+                    170.0
+                ],
+                [
+                    502.0,
+                    170.0
+                ],
+                [
+                    502.0,
+                    242.0
+                ],
+                [
+                    10.0,
+                    242.0
+                ]
+            ]
+        },
+        {
+            "text": "@arreeyyrishabhe",
+            "confidence": 0.947,
+            "box": [
+                [
+                    736.0,
+                    247.0
+                ],
+                [
+                    941.0,
+                    243.0
+                ],
+                [
+                    942.0,
+                    278.0
+                ],
+                [
+                    737.0,
+                    283.0
+                ]
+            ]
+        },
+        {
+            "text": "*SWAHA*",
+            "confidence": 0.991,
+            "box": [
+                [
+                    303.0,
+                    1145.0
+                ],
+                [
+                    654.0,
+                    1145.0
+                ],
+                [
+                    654.0,
+                    1198.0
+                ],
+                [
+                    303.0,
+                    1198.0
+                ]
+            ]
+        }
+    ]
+}

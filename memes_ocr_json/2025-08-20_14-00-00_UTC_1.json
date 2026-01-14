@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-20_14-00-00_UTC_1.jpg",
+    "combined_text": "Craziest and scariest addition to\nthe greatest universe of India\nIHAMA",
+    "detailed": [
+        {
+            "text": "Craziest and scariest addition to",
+            "confidence": 0.986,
+            "box": [
+                [
+                    112.0,
+                    86.0
+                ],
+                [
+                    970.0,
+                    86.0
+                ],
+                [
+                    970.0,
+                    135.0
+                ],
+                [
+                    112.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "the greatest universe of India",
+            "confidence": 1.0,
+            "box": [
+                [
+                    62.0,
+                    162.0
+                ],
+                [
+                    851.0,
+                    159.0
+                ],
+                [
+                    851.0,
+                    215.0
+                ],
+                [
+                    62.0,
+                    218.0
+                ]
+            ]
+        },
+        {
+            "text": "IHAMA",
+            "confidence": 0.618,
+            "box": [
+                [
+                    378.0,
+                    1146.0
+                ],
+                [
+                    752.0,
+                    1146.0
+                ],
+                [
+                    752.0,
+                    1285.0
+                ],
+                [
+                    378.0,
+                    1285.0
+                ]
+            ]
+        }
+    ]
+}

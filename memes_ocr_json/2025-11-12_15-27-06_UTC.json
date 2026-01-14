@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-11-12_15-27-06_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nGLOBETROTTER\nFIRST REVEALIN\nNOVEMBER2025\n**BABU FANSAFTER SEEING\nBACK TO BACK UPDATES",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    442.0,
+                    470.0
+                ],
+                [
+                    572.0,
+                    470.0
+                ],
+                [
+                    572.0,
+                    491.0
+                ],
+                [
+                    442.0,
+                    491.0
+                ]
+            ]
+        },
+        {
+            "text": "GLOBETROTTER",
+            "confidence": 0.994,
+            "box": [
+                [
+                    717.0,
+                    791.0
+                ],
+                [
+                    969.0,
+                    791.0
+                ],
+                [
+                    969.0,
+                    816.0
+                ],
+                [
+                    717.0,
+                    816.0
+                ]
+            ]
+        },
+        {
+            "text": "FIRST REVEALIN",
+            "confidence": 0.962,
+            "box": [
+                [
+                    747.0,
+                    817.0
+                ],
+                [
+                    941.0,
+                    817.0
+                ],
+                [
+                    941.0,
+                    838.0
+                ],
+                [
+                    747.0,
+                    838.0
+                ]
+            ]
+        },
+        {
+            "text": "NOVEMBER2025",
+            "confidence": 0.965,
+            "box": [
+                [
+                    716.0,
+                    838.0
+                ],
+                [
+                    969.0,
+                    841.0
+                ],
+                [
+                    969.0,
+                    866.0
+                ],
+                [
+                    716.0,
+                    863.0
+                ]
+            ]
+        },
+        {
+            "text": "**BABU FANSAFTER SEEING",
+            "confidence": 0.952,
+            "box": [
+                [
+                    305.0,
+                    890.0
+                ],
+                [
+                    783.0,
+                    895.0
+                ],
+                [
+                    783.0,
+                    932.0
+                ],
+                [
+                    305.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "text": "BACK TO BACK UPDATES",
+            "confidence": 0.94,
+            "box": [
+                [
+                    333.0,
+                    940.0
+                ],
+                [
+                    748.0,
+                    940.0
+                ],
+                [
+                    748.0,
+                    973.0
+                ],
+                [
+                    333.0,
+                    973.0
+                ]
+            ]
+        }
+    ]
+}

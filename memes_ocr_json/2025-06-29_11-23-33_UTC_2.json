@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-06-29_11-23-33_UTC_2.jpg",
+    "combined_text": "q4\nIt's been a year... but that.\nfeeling is still fresh..\nIndia.T20 World Champions.\nEvery second of that final still\nlives in our hearts..",
+    "detailed": [
+        {
+            "text": "q4",
+            "confidence": 0.728,
+            "box": [
+                [
+                    80.0,
+                    75.0
+                ],
+                [
+                    188.0,
+                    75.0
+                ],
+                [
+                    188.0,
+                    145.0
+                ],
+                [
+                    80.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "It's been a year... but that.",
+            "confidence": 0.964,
+            "box": [
+                [
+                    68.0,
+                    973.0
+                ],
+                [
+                    660.0,
+                    975.0
+                ],
+                [
+                    659.0,
+                    1020.0
+                ],
+                [
+                    67.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "feeling is still fresh..",
+            "confidence": 0.98,
+            "box": [
+                [
+                    69.0,
+                    1029.0
+                ],
+                [
+                    525.0,
+                    1029.0
+                ],
+                [
+                    525.0,
+                    1074.0
+                ],
+                [
+                    69.0,
+                    1074.0
+                ]
+            ]
+        },
+        {
+            "text": "India.T20 World Champions.",
+            "confidence": 0.965,
+            "box": [
+                [
+                    66.0,
+                    1086.0
+                ],
+                [
+                    743.0,
+                    1090.0
+                ],
+                [
+                    742.0,
+                    1134.0
+                ],
+                [
+                    66.0,
+                    1129.0
+                ]
+            ]
+        },
+        {
+            "text": "Every second of that final still",
+            "confidence": 0.963,
+            "box": [
+                [
+                    69.0,
+                    1145.0
+                ],
+                [
+                    762.0,
+                    1142.0
+                ],
+                [
+                    762.0,
+                    1190.0
+                ],
+                [
+                    69.0,
+                    1193.0
+                ]
+            ]
+        },
+        {
+            "text": "lives in our hearts..",
+            "confidence": 0.937,
+            "box": [
+                [
+                    68.0,
+                    1199.0
+                ],
+                [
+                    498.0,
+                    1204.0
+                ],
+                [
+                    498.0,
+                    1249.0
+                ],
+                [
+                    67.0,
+                    1244.0
+                ]
+            ]
+        }
+    ]
+}

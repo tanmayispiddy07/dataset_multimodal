@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-27_10-46-00_UTC.jpg",
+    "combined_text": "NAALO EDHO LYRICAL VIDEO SONG FROM\n\"SANTHANA PRAPTHIRASTHU\"\nADDICTEDTOMEMES\nNAKUILANTI FEELGOOD\nSONGSANTECHALAISTAM RAA",
+    "detailed": [
+        {
+            "text": "NAALO EDHO LYRICAL VIDEO SONG FROM",
+            "confidence": 0.944,
+            "box": [
+                [
+                    17.0,
+                    84.0
+                ],
+                [
+                    1052.0,
+                    84.0
+                ],
+                [
+                    1052.0,
+                    125.0
+                ],
+                [
+                    17.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "\"SANTHANA PRAPTHIRASTHU\"",
+            "confidence": 0.966,
+            "box": [
+                [
+                    173.0,
+                    144.0
+                ],
+                [
+                    911.0,
+                    142.0
+                ],
+                [
+                    911.0,
+                    185.0
+                ],
+                [
+                    173.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    423.0,
+                    606.0
+                ],
+                [
+                    600.0,
+                    606.0
+                ],
+                [
+                    600.0,
+                    631.0
+                ],
+                [
+                    423.0,
+                    631.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKUILANTI FEELGOOD",
+            "confidence": 0.968,
+            "box": [
+                [
+                    222.0,
+                    1208.0
+                ],
+                [
+                    869.0,
+                    1208.0
+                ],
+                [
+                    869.0,
+                    1250.0
+                ],
+                [
+                    222.0,
+                    1250.0
+                ]
+            ]
+        },
+        {
+            "text": "SONGSANTECHALAISTAM RAA",
+            "confidence": 0.978,
+            "box": [
+                [
+                    132.0,
+                    1274.0
+                ],
+                [
+                    965.0,
+                    1274.0
+                ],
+                [
+                    965.0,
+                    1316.0
+                ],
+                [
+                    132.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

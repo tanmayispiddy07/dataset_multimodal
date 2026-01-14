@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-04-25_10-57-33_UTC.jpg",
+    "combined_text": "STATE CM'S TO IDENTIFY ALL PAKISTAN NATIONALS\nAND RETURN THEM TO PAKISTAN\nACCORDING TO REPORTS, CURRENTLY 2O8 PAKISTANIS\nLIVING IN VARIOUS PARTS OF HYDERABAD\nADDICTEDTOMEMES\nHYDERABAD LO INTHA\nMANDHI PAKISTAN\nVALLUUNNARA",
+    "detailed": [
+        {
+            "text": "STATE CM'S TO IDENTIFY ALL PAKISTAN NATIONALS",
+            "confidence": 0.941,
+            "box": [
+                [
+                    45.0,
+                    66.0
+                ],
+                [
+                    1005.0,
+                    66.0
+                ],
+                [
+                    1005.0,
+                    99.0
+                ],
+                [
+                    45.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "AND RETURN THEM TO PAKISTAN",
+            "confidence": 0.931,
+            "box": [
+                [
+                    205.0,
+                    110.0
+                ],
+                [
+                    837.0,
+                    110.0
+                ],
+                [
+                    837.0,
+                    148.0
+                ],
+                [
+                    205.0,
+                    148.0
+                ]
+            ]
+        },
+        {
+            "text": "ACCORDING TO REPORTS, CURRENTLY 2O8 PAKISTANIS",
+            "confidence": 0.972,
+            "box": [
+                [
+                    4.0,
+                    156.0
+                ],
+                [
+                    1046.0,
+                    155.0
+                ],
+                [
+                    1046.0,
+                    192.0
+                ],
+                [
+                    4.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "LIVING IN VARIOUS PARTS OF HYDERABAD",
+            "confidence": 0.951,
+            "box": [
+                [
+                    117.0,
+                    203.0
+                ],
+                [
+                    920.0,
+                    203.0
+                ],
+                [
+                    920.0,
+                    237.0
+                ],
+                [
+                    117.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    889.0,
+                    435.0
+                ],
+                [
+                    1052.0,
+                    435.0
+                ],
+                [
+                    1052.0,
+                    456.0
+                ],
+                [
+                    889.0,
+                    456.0
+                ]
+            ]
+        },
+        {
+            "text": "HYDERABAD LO INTHA",
+            "confidence": 0.946,
+            "box": [
+                [
+                    22.0,
+                    1178.0
+                ],
+                [
+                    543.0,
+                    1178.0
+                ],
+                [
+                    543.0,
+                    1220.0
+                ],
+                [
+                    22.0,
+                    1220.0
+                ]
+            ]
+        },
+        {
+            "text": "MANDHI PAKISTAN",
+            "confidence": 0.967,
+            "box": [
+                [
+                    69.0,
+                    1233.0
+                ],
+                [
+                    498.0,
+                    1235.0
+                ],
+                [
+                    498.0,
+                    1274.0
+                ],
+                [
+                    69.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLUUNNARA",
+            "confidence": 0.995,
+            "box": [
+                [
+                    101.0,
+                    1289.0
+                ],
+                [
+                    467.0,
+                    1289.0
+                ],
+                [
+                    467.0,
+                    1331.0
+                ],
+                [
+                    101.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

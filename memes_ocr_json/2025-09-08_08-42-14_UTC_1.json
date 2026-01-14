@@ -1,0 +1,578 @@
+{
+    "image_name": "2025-09-08_08-42-14_UTC_1.jpg",
+    "combined_text": "AFTER OG AND MIRAI, TRIKAALIIS TRENDING ON\nBOOKMYSHOW WITH 31.5K+VOTES LOOKS LIKE ANOTHER\nBICHAGADU FOR TELUGU CINEMA!A MIND-BENDING\nTHRILLER IN THEATRES NEAR YOU ON 12TH SEPTEMBER.\nVEDHA PINNAMANEN\nVEDHA PINNA\nSEP\n4/5\nSEP\n12TH\n12TH\nWOREAWERE\nWORATES\nTELUGU HINDI\nTRIKAALI\nTEWGUHINDI\nTRIKAALI\nPINNAMANENI\nRAGHAVENDRAN\nRAGHAVENDRAN\nTRENDING ON bOOkmy ShOW 3I.5KINTERESTS\nTRENDING ON bOOkmyShOW 3I.5K+INTERESTS\nADDICTEDTOMEMES\nCONTENT PROMISING GA\nUNDHI THEATERS LO BREAK\nIVVADANIKI READY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "AFTER OG AND MIRAI, TRIKAALIIS TRENDING ON",
+            "confidence": 0.93,
+            "box": [
+                [
+                    136.0,
+                    14.0
+                ],
+                [
+                    960.0,
+                    14.0
+                ],
+                [
+                    960.0,
+                    43.0
+                ],
+                [
+                    136.0,
+                    43.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOKMYSHOW WITH 31.5K+VOTES LOOKS LIKE ANOTHER",
+            "confidence": 0.963,
+            "box": [
+                [
+                    65.0,
+                    50.0
+                ],
+                [
+                    1029.0,
+                    52.0
+                ],
+                [
+                    1029.0,
+                    85.0
+                ],
+                [
+                    65.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "BICHAGADU FOR TELUGU CINEMA!A MIND-BENDING",
+            "confidence": 0.946,
+            "box": [
+                [
+                    105.0,
+                    93.0
+                ],
+                [
+                    989.0,
+                    93.0
+                ],
+                [
+                    989.0,
+                    123.0
+                ],
+                [
+                    105.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "THRILLER IN THEATRES NEAR YOU ON 12TH SEPTEMBER.",
+            "confidence": 0.95,
+            "box": [
+                [
+                    87.0,
+                    134.0
+                ],
+                [
+                    1005.0,
+                    134.0
+                ],
+                [
+                    1005.0,
+                    163.0
+                ],
+                [
+                    87.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "VEDHA PINNAMANEN",
+            "confidence": 0.927,
+            "box": [
+                [
+                    449.0,
+                    230.0
+                ],
+                [
+                    581.0,
+                    230.0
+                ],
+                [
+                    581.0,
+                    261.0
+                ],
+                [
+                    449.0,
+                    261.0
+                ]
+            ]
+        },
+        {
+            "text": "VEDHA PINNA",
+            "confidence": 0.948,
+            "box": [
+                [
+                    1000.0,
+                    236.0
+                ],
+                [
+                    1079.0,
+                    246.0
+                ],
+                [
+                    1078.0,
+                    267.0
+                ],
+                [
+                    997.0,
+                    257.0
+                ]
+            ]
+        },
+        {
+            "text": "SEP",
+            "confidence": 0.997,
+            "box": [
+                [
+                    32.0,
+                    308.0
+                ],
+                [
+                    87.0,
+                    308.0
+                ],
+                [
+                    87.0,
+                    334.0
+                ],
+                [
+                    32.0,
+                    334.0
+                ]
+            ]
+        },
+        {
+            "text": "4/5",
+            "confidence": 0.972,
+            "box": [
+                [
+                    491.0,
+                    304.0
+                ],
+                [
+                    520.0,
+                    304.0
+                ],
+                [
+                    520.0,
+                    318.0
+                ],
+                [
+                    491.0,
+                    318.0
+                ]
+            ]
+        },
+        {
+            "text": "SEP",
+            "confidence": 0.997,
+            "box": [
+                [
+                    606.0,
+                    318.0
+                ],
+                [
+                    655.0,
+                    318.0
+                ],
+                [
+                    655.0,
+                    340.0
+                ],
+                [
+                    606.0,
+                    340.0
+                ]
+            ]
+        },
+        {
+            "text": "12TH",
+            "confidence": 0.994,
+            "box": [
+                [
+                    24.0,
+                    334.0
+                ],
+                [
+                    130.0,
+                    325.0
+                ],
+                [
+                    134.0,
+                    369.0
+                ],
+                [
+                    28.0,
+                    379.0
+                ]
+            ]
+        },
+        {
+            "text": "12TH",
+            "confidence": 0.995,
+            "box": [
+                [
+                    596.0,
+                    341.0
+                ],
+                [
+                    696.0,
+                    332.0
+                ],
+                [
+                    700.0,
+                    375.0
+                ],
+                [
+                    600.0,
+                    385.0
+                ]
+            ]
+        },
+        {
+            "text": "WOREAWERE",
+            "confidence": 0.812,
+            "box": [
+                [
+                    31.0,
+                    372.0
+                ],
+                [
+                    101.0,
+                    372.0
+                ],
+                [
+                    101.0,
+                    399.0
+                ],
+                [
+                    31.0,
+                    399.0
+                ]
+            ]
+        },
+        {
+            "text": "WORATES",
+            "confidence": 0.69,
+            "box": [
+                [
+                    602.0,
+                    375.0
+                ],
+                [
+                    671.0,
+                    375.0
+                ],
+                [
+                    671.0,
+                    406.0
+                ],
+                [
+                    602.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU HINDI",
+            "confidence": 0.862,
+            "box": [
+                [
+                    238.0,
+                    530.0
+                ],
+                [
+                    335.0,
+                    530.0
+                ],
+                [
+                    335.0,
+                    551.0
+                ],
+                [
+                    238.0,
+                    551.0
+                ]
+            ]
+        },
+        {
+            "text": "TRIKAALI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    108.0,
+                    544.0
+                ],
+                [
+                    485.0,
+                    559.0
+                ],
+                [
+                    482.0,
+                    639.0
+                ],
+                [
+                    104.0,
+                    625.0
+                ]
+            ]
+        },
+        {
+            "text": "TEWGUHINDI",
+            "confidence": 0.948,
+            "box": [
+                [
+                    797.0,
+                    535.0
+                ],
+                [
+                    887.0,
+                    535.0
+                ],
+                [
+                    887.0,
+                    552.0
+                ],
+                [
+                    797.0,
+                    552.0
+                ]
+            ]
+        },
+        {
+            "text": "TRIKAALI",
+            "confidence": 0.927,
+            "box": [
+                [
+                    676.0,
+                    547.0
+                ],
+                [
+                    1032.0,
+                    563.0
+                ],
+                [
+                    1028.0,
+                    645.0
+                ],
+                [
+                    672.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "PINNAMANENI",
+            "confidence": 0.971,
+            "box": [
+                [
+                    294.0,
+                    893.0
+                ],
+                [
+                    373.0,
+                    893.0
+                ],
+                [
+                    373.0,
+                    906.0
+                ],
+                [
+                    294.0,
+                    906.0
+                ]
+            ]
+        },
+        {
+            "text": "RAGHAVENDRAN",
+            "confidence": 0.989,
+            "box": [
+                [
+                    300.0,
+                    910.0
+                ],
+                [
+                    402.0,
+                    910.0
+                ],
+                [
+                    402.0,
+                    923.0
+                ],
+                [
+                    300.0,
+                    923.0
+                ]
+            ]
+        },
+        {
+            "text": "RAGHAVENDRAN",
+            "confidence": 0.98,
+            "box": [
+                [
+                    859.0,
+                    910.0
+                ],
+                [
+                    953.0,
+                    910.0
+                ],
+                [
+                    953.0,
+                    923.0
+                ],
+                [
+                    859.0,
+                    923.0
+                ]
+            ]
+        },
+        {
+            "text": "TRENDING ON bOOkmy ShOW 3I.5KINTERESTS",
+            "confidence": 0.879,
+            "box": [
+                [
+                    66.0,
+                    931.0
+                ],
+                [
+                    530.0,
+                    931.0
+                ],
+                [
+                    530.0,
+                    956.0
+                ],
+                [
+                    66.0,
+                    956.0
+                ]
+            ]
+        },
+        {
+            "text": "TRENDING ON bOOkmyShOW 3I.5K+INTERESTS",
+            "confidence": 0.895,
+            "box": [
+                [
+                    638.0,
+                    932.0
+                ],
+                [
+                    1074.0,
+                    932.0
+                ],
+                [
+                    1074.0,
+                    958.0
+                ],
+                [
+                    638.0,
+                    958.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    10.0,
+                    1082.0
+                ],
+                [
+                    146.0,
+                    1082.0
+                ],
+                [
+                    146.0,
+                    1102.0
+                ],
+                [
+                    10.0,
+                    1102.0
+                ]
+            ]
+        },
+        {
+            "text": "CONTENT PROMISING GA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    89.0,
+                    1224.0
+                ],
+                [
+                    460.0,
+                    1225.0
+                ],
+                [
+                    460.0,
+                    1254.0
+                ],
+                [
+                    89.0,
+                    1253.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDHI THEATERS LO BREAK",
+            "confidence": 0.954,
+            "box": [
+                [
+                    75.0,
+                    1259.0
+                ],
+                [
+                    474.0,
+                    1260.0
+                ],
+                [
+                    474.0,
+                    1289.0
+                ],
+                [
+                    74.0,
+                    1288.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    34.0,
+                    1295.0
+                ],
+                [
+                    509.0,
+                    1295.0
+                ],
+                [
+                    509.0,
+                    1324.0
+                ],
+                [
+                    34.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

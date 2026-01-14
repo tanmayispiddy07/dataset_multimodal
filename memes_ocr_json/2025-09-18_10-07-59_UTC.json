@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-18_10-07-59_UTC.jpg",
+    "combined_text": "RANDOMGIRL IN MY INSTA FEED\nWITH HER GOVT JOB HUSBAND\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "RANDOMGIRL IN MY INSTA FEED",
+            "confidence": 0.945,
+            "box": [
+                [
+                    86.0,
+                    50.0
+                ],
+                [
+                    983.0,
+                    50.0
+                ],
+                [
+                    983.0,
+                    96.0
+                ],
+                [
+                    86.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH HER GOVT JOB HUSBAND",
+            "confidence": 0.945,
+            "box": [
+                [
+                    100.0,
+                    114.0
+                ],
+                [
+                    952.0,
+                    116.0
+                ],
+                [
+                    952.0,
+                    166.0
+                ],
+                [
+                    100.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    918.0,
+                    245.0
+                ],
+                [
+                    1063.0,
+                    245.0
+                ],
+                [
+                    1063.0,
+                    266.0
+                ],
+                [
+                    918.0,
+                    266.0
+                ]
+            ]
+        }
+    ]
+}

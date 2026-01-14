@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-05-30_08-48-24_UTC_3.jpg",
+    "combined_text": "ARAYAN INTERNATIONAL AIRPORT,",
+    "detailed": [
+        {
+            "text": "ARAYAN INTERNATIONAL AIRPORT,",
+            "confidence": 0.976,
+            "box": [
+                [
+                    513.0,
+                    327.0
+                ],
+                [
+                    1038.0,
+                    271.0
+                ],
+                [
+                    1042.0,
+                    308.0
+                ],
+                [
+                    517.0,
+                    363.0
+                ]
+            ]
+        }
+    ]
+}

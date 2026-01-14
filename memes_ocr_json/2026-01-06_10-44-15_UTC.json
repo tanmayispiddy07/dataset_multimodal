@@ -1,0 +1,160 @@
+{
+    "image_name": "2026-01-06_10-44-15_UTC.jpg",
+    "combined_text": "14 YEARS OLD ME WHEN\nTEACHER SAID OZONE LAYER\nIS GETTING DAMAGED\nADDICTEDTOME\nMEANWHILE 24 YEARS OLD ME\nWHERE MY OWN LIVER IS GETTING\nDAMAGED BECAUSE OF ALCOHOL",
+    "detailed": [
+        {
+            "text": "14 YEARS OLD ME WHEN",
+            "confidence": 0.923,
+            "box": [
+                [
+                    99.0,
+                    195.0
+                ],
+                [
+                    562.0,
+                    194.0
+                ],
+                [
+                    562.0,
+                    230.0
+                ],
+                [
+                    99.0,
+                    231.0
+                ]
+            ]
+        },
+        {
+            "text": "TEACHER SAID OZONE LAYER",
+            "confidence": 0.957,
+            "box": [
+                [
+                    58.0,
+                    244.0
+                ],
+                [
+                    608.0,
+                    244.0
+                ],
+                [
+                    608.0,
+                    276.0
+                ],
+                [
+                    58.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "IS GETTING DAMAGED",
+            "confidence": 0.952,
+            "box": [
+                [
+                    113.0,
+                    291.0
+                ],
+                [
+                    538.0,
+                    291.0
+                ],
+                [
+                    538.0,
+                    323.0
+                ],
+                [
+                    113.0,
+                    323.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOME",
+            "confidence": 0.965,
+            "box": [
+                [
+                    286.0,
+                    443.0
+                ],
+                [
+                    361.0,
+                    443.0
+                ],
+                [
+                    361.0,
+                    457.0
+                ],
+                [
+                    286.0,
+                    457.0
+                ]
+            ]
+        },
+        {
+            "text": "MEANWHILE 24 YEARS OLD ME",
+            "confidence": 0.931,
+            "box": [
+                [
+                    94.0,
+                    602.0
+                ],
+                [
+                    549.0,
+                    602.0
+                ],
+                [
+                    549.0,
+                    627.0
+                ],
+                [
+                    94.0,
+                    627.0
+                ]
+            ]
+        },
+        {
+            "text": "WHERE MY OWN LIVER IS GETTING",
+            "confidence": 0.936,
+            "box": [
+                [
+                    67.0,
+                    638.0
+                ],
+                [
+                    576.0,
+                    639.0
+                ],
+                [
+                    576.0,
+                    665.0
+                ],
+                [
+                    67.0,
+                    664.0
+                ]
+            ]
+        },
+        {
+            "text": "DAMAGED BECAUSE OF ALCOHOL",
+            "confidence": 0.95,
+            "box": [
+                [
+                    68.0,
+                    674.0
+                ],
+                [
+                    571.0,
+                    674.0
+                ],
+                [
+                    571.0,
+                    703.0
+                ],
+                [
+                    68.0,
+                    703.0
+                ]
+            ]
+        }
+    ]
+}

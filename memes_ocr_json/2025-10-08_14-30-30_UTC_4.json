@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-10-08_14-30-30_UTC_4.jpg",
+    "combined_text": "DEA\nsarcasm\nThe details showed that there was interest.We\nstarted messaging during the World Cup, but the.\nonly chance I had to see her was to be in the final.\nbecause she would put on a show in the closing\nceremony. So I told her that if I had to make it.\nto the finals to see her, I would and I did\nGerard Pique",
+    "detailed": [
+        {
+            "text": "DEA",
+            "confidence": 0.887,
+            "box": [
+                [
+                    868.0,
+                    574.0
+                ],
+                [
+                    879.0,
+                    574.0
+                ],
+                [
+                    879.0,
+                    602.0
+                ],
+                [
+                    868.0,
+                    602.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.99,
+            "box": [
+                [
+                    485.0,
+                    918.0
+                ],
+                [
+                    597.0,
+                    918.0
+                ],
+                [
+                    597.0,
+                    938.0
+                ],
+                [
+                    485.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "The details showed that there was interest.We",
+            "confidence": 0.971,
+            "box": [
+                [
+                    44.0,
+                    1028.0
+                ],
+                [
+                    1036.0,
+                    1028.0
+                ],
+                [
+                    1036.0,
+                    1065.0
+                ],
+                [
+                    44.0,
+                    1065.0
+                ]
+            ]
+        },
+        {
+            "text": "started messaging during the World Cup, but the.",
+            "confidence": 0.969,
+            "box": [
+                [
+                    25.0,
+                    1082.0
+                ],
+                [
+                    1054.0,
+                    1082.0
+                ],
+                [
+                    1054.0,
+                    1128.0
+                ],
+                [
+                    25.0,
+                    1128.0
+                ]
+            ]
+        },
+        {
+            "text": "only chance I had to see her was to be in the final.",
+            "confidence": 0.975,
+            "box": [
+                [
+                    29.0,
+                    1139.0
+                ],
+                [
+                    1052.0,
+                    1135.0
+                ],
+                [
+                    1052.0,
+                    1177.0
+                ],
+                [
+                    29.0,
+                    1181.0
+                ]
+            ]
+        },
+        {
+            "text": "because she would put on a show in the closing",
+            "confidence": 1.0,
+            "box": [
+                [
+                    42.0,
+                    1188.0
+                ],
+                [
+                    1037.0,
+                    1193.0
+                ],
+                [
+                    1037.0,
+                    1239.0
+                ],
+                [
+                    41.0,
+                    1234.0
+                ]
+            ]
+        },
+        {
+            "text": "ceremony. So I told her that if I had to make it.",
+            "confidence": 0.974,
+            "box": [
+                [
+                    63.0,
+                    1248.0
+                ],
+                [
+                    1014.0,
+                    1245.0
+                ],
+                [
+                    1014.0,
+                    1287.0
+                ],
+                [
+                    63.0,
+                    1290.0
+                ]
+            ]
+        },
+        {
+            "text": "to the finals to see her, I would and I did",
+            "confidence": 0.999,
+            "box": [
+                [
+                    123.0,
+                    1304.0
+                ],
+                [
+                    954.0,
+                    1300.0
+                ],
+                [
+                    954.0,
+                    1342.0
+                ],
+                [
+                    123.0,
+                    1346.0
+                ]
+            ]
+        },
+        {
+            "text": "Gerard Pique",
+            "confidence": 0.983,
+            "box": [
+                [
+                    430.0,
+                    1365.0
+                ],
+                [
+                    693.0,
+                    1365.0
+                ],
+                [
+                    693.0,
+                    1402.0
+                ],
+                [
+                    430.0,
+                    1402.0
+                ]
+            ]
+        }
+    ]
+}

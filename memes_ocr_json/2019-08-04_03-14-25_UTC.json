@@ -1,0 +1,182 @@
+{
+    "image_name": "2019-08-04_03-14-25_UTC.jpg",
+    "combined_text": "Sameer Sewak\n@Naa_Cheese\nIndian uncles, on their digestive walks\nafter dinner.\n41Strange @41Strange1d\nOwls strutting\n(Photo:Austin Thomas)\nDAustin Thoaas?",
+    "detailed": [
+        {
+            "text": "Sameer Sewak",
+            "confidence": 0.963,
+            "box": [
+                [
+                    256.0,
+                    28.0
+                ],
+                [
+                    513.0,
+                    28.0
+                ],
+                [
+                    513.0,
+                    62.0
+                ],
+                [
+                    256.0,
+                    62.0
+                ]
+            ]
+        },
+        {
+            "text": "@Naa_Cheese",
+            "confidence": 0.993,
+            "box": [
+                [
+                    259.0,
+                    73.0
+                ],
+                [
+                    495.0,
+                    73.0
+                ],
+                [
+                    495.0,
+                    108.0
+                ],
+                [
+                    259.0,
+                    108.0
+                ]
+            ]
+        },
+        {
+            "text": "Indian uncles, on their digestive walks",
+            "confidence": 0.965,
+            "box": [
+                [
+                    110.0,
+                    195.0
+                ],
+                [
+                    908.0,
+                    196.0
+                ],
+                [
+                    908.0,
+                    244.0
+                ],
+                [
+                    110.0,
+                    243.0
+                ]
+            ]
+        },
+        {
+            "text": "after dinner.",
+            "confidence": 0.995,
+            "box": [
+                [
+                    112.0,
+                    269.0
+                ],
+                [
+                    368.0,
+                    269.0
+                ],
+                [
+                    368.0,
+                    317.0
+                ],
+                [
+                    112.0,
+                    317.0
+                ]
+            ]
+        },
+        {
+            "text": "41Strange @41Strange1d",
+            "confidence": 0.977,
+            "box": [
+                [
+                    199.0,
+                    408.0
+                ],
+                [
+                    658.0,
+                    410.0
+                ],
+                [
+                    658.0,
+                    448.0
+                ],
+                [
+                    199.0,
+                    447.0
+                ]
+            ]
+        },
+        {
+            "text": "Owls strutting",
+            "confidence": 0.964,
+            "box": [
+                [
+                    143.0,
+                    468.0
+                ],
+                [
+                    379.0,
+                    472.0
+                ],
+                [
+                    379.0,
+                    513.0
+                ],
+                [
+                    143.0,
+                    509.0
+                ]
+            ]
+        },
+        {
+            "text": "(Photo:Austin Thomas)",
+            "confidence": 0.968,
+            "box": [
+                [
+                    147.0,
+                    521.0
+                ],
+                [
+                    533.0,
+                    521.0
+                ],
+                [
+                    533.0,
+                    558.0
+                ],
+                [
+                    147.0,
+                    558.0
+                ]
+            ]
+        },
+        {
+            "text": "DAustin Thoaas?",
+            "confidence": 0.858,
+            "box": [
+                [
+                    377.0,
+                    1042.0
+                ],
+                [
+                    523.0,
+                    1042.0
+                ],
+                [
+                    523.0,
+                    1059.0
+                ],
+                [
+                    377.0,
+                    1059.0
+                ]
+            ]
+        }
+    ]
+}

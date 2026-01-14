@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-05-05_12-11-03_UTC_8.jpg",
+    "combined_text": "BEFORE\nAFTER\nVENKAT RAJSHEKAR\nThis product is so different! Scent is soothing\nfor regular use and really helps Healthy growth.",
+    "detailed": [
+        {
+            "text": "BEFORE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    245.0,
+                    91.0
+                ],
+                [
+                    382.0,
+                    94.0
+                ],
+                [
+                    381.0,
+                    133.0
+                ],
+                [
+                    244.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER",
+            "confidence": 0.997,
+            "box": [
+                [
+                    717.0,
+                    93.0
+                ],
+                [
+                    831.0,
+                    93.0
+                ],
+                [
+                    831.0,
+                    133.0
+                ],
+                [
+                    717.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "VENKAT RAJSHEKAR",
+            "confidence": 0.974,
+            "box": [
+                [
+                    377.0,
+                    777.0
+                ],
+                [
+                    735.0,
+                    779.0
+                ],
+                [
+                    735.0,
+                    810.0
+                ],
+                [
+                    377.0,
+                    809.0
+                ]
+            ]
+        },
+        {
+            "text": "This product is so different! Scent is soothing",
+            "confidence": 0.992,
+            "box": [
+                [
+                    172.0,
+                    829.0
+                ],
+                [
+                    932.0,
+                    833.0
+                ],
+                [
+                    931.0,
+                    873.0
+                ],
+                [
+                    172.0,
+                    870.0
+                ]
+            ]
+        },
+        {
+            "text": "for regular use and really helps Healthy growth.",
+            "confidence": 0.986,
+            "box": [
+                [
+                    156.0,
+                    876.0
+                ],
+                [
+                    954.0,
+                    878.0
+                ],
+                [
+                    954.0,
+                    915.0
+                ],
+                [
+                    156.0,
+                    913.0
+                ]
+            ]
+        }
+    ]
+}

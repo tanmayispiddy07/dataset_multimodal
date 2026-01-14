@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-28_06-29-58_UTC_3.jpg",
+    "combined_text": "sarcasm\nAnalysts say the move stems from\nAl-driven productivity gains and efforts\nto offset heavy Al investments.",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    482.0,
+                    1075.0
+                ],
+                [
+                    596.0,
+                    1075.0
+                ],
+                [
+                    596.0,
+                    1098.0
+                ],
+                [
+                    482.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "Analysts say the move stems from",
+            "confidence": 0.996,
+            "box": [
+                [
+                    117.0,
+                    1113.0
+                ],
+                [
+                    959.0,
+                    1112.0
+                ],
+                [
+                    959.0,
+                    1161.0
+                ],
+                [
+                    117.0,
+                    1162.0
+                ]
+            ]
+        },
+        {
+            "text": "Al-driven productivity gains and efforts",
+            "confidence": 0.997,
+            "box": [
+                [
+                    45.0,
+                    1183.0
+                ],
+                [
+                    1032.0,
+                    1185.0
+                ],
+                [
+                    1032.0,
+                    1238.0
+                ],
+                [
+                    45.0,
+                    1237.0
+                ]
+            ]
+        },
+        {
+            "text": "to offset heavy Al investments.",
+            "confidence": 0.977,
+            "box": [
+                [
+                    163.0,
+                    1258.0
+                ],
+                [
+                    916.0,
+                    1261.0
+                ],
+                [
+                    915.0,
+                    1314.0
+                ],
+                [
+                    163.0,
+                    1311.0
+                ]
+            ]
+        }
+    ]
+}

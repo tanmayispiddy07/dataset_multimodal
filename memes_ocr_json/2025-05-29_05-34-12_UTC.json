@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-05-29_05-34-12_UTC.jpg",
+    "combined_text": "YADADRI\nCHARMINAR\nRAMAPPA TEMPLE\nTHOUSAND PILLAR\nBEAUTY OF TELANGANA TOURISM\nMISS WORLDCONTESTANTS WHILE\nEXPLORING TELANGANA TOURISM",
+    "detailed": [
+        {
+            "text": "YADADRI",
+            "confidence": 0.997,
+            "box": [
+                [
+                    616.0,
+                    403.0
+                ],
+                [
+                    805.0,
+                    406.0
+                ],
+                [
+                    804.0,
+                    449.0
+                ],
+                [
+                    616.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "CHARMINAR",
+            "confidence": 0.998,
+            "box": [
+                [
+                    283.0,
+                    414.0
+                ],
+                [
+                    547.0,
+                    417.0
+                ],
+                [
+                    547.0,
+                    456.0
+                ],
+                [
+                    282.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "RAMAPPA TEMPLE",
+            "confidence": 0.973,
+            "box": [
+                [
+                    26.0,
+                    819.0
+                ],
+                [
+                    433.0,
+                    822.0
+                ],
+                [
+                    433.0,
+                    866.0
+                ],
+                [
+                    25.0,
+                    863.0
+                ]
+            ]
+        },
+        {
+            "text": "THOUSAND PILLAR",
+            "confidence": 0.967,
+            "box": [
+                [
+                    676.0,
+                    814.0
+                ],
+                [
+                    1029.0,
+                    814.0
+                ],
+                [
+                    1029.0,
+                    852.0
+                ],
+                [
+                    676.0,
+                    852.0
+                ]
+            ]
+        },
+        {
+            "text": "BEAUTY OF TELANGANA TOURISM",
+            "confidence": 0.978,
+            "box": [
+                [
+                    110.0,
+                    914.0
+                ],
+                [
+                    1021.0,
+                    914.0
+                ],
+                [
+                    1021.0,
+                    960.0
+                ],
+                [
+                    110.0,
+                    960.0
+                ]
+            ]
+        },
+        {
+            "text": "MISS WORLDCONTESTANTS WHILE",
+            "confidence": 0.958,
+            "box": [
+                [
+                    300.0,
+                    1247.0
+                ],
+                [
+                    911.0,
+                    1247.0
+                ],
+                [
+                    911.0,
+                    1277.0
+                ],
+                [
+                    300.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "EXPLORING TELANGANA TOURISM",
+            "confidence": 0.974,
+            "box": [
+                [
+                    291.0,
+                    1292.0
+                ],
+                [
+                    908.0,
+                    1292.0
+                ],
+                [
+                    908.0,
+                    1321.0
+                ],
+                [
+                    291.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

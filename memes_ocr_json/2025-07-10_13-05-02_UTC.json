@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-07-10_13-05-02_UTC.jpg",
+    "combined_text": "ME EVERYTIME\nWHILE\nTRAVELLING ON ROAD\nADDICTEDTOMEMES\nOPPOSITEVEHICLE NUMBERS\n**ME CHECKING THEIR\nVEHICLENUMBERS",
+    "detailed": [
+        {
+            "text": "ME EVERYTIME",
+            "confidence": 0.976,
+            "box": [
+                [
+                    205.0,
+                    39.0
+                ],
+                [
+                    683.0,
+                    39.0
+                ],
+                [
+                    683.0,
+                    90.0
+                ],
+                [
+                    205.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "text": "WHILE",
+            "confidence": 0.992,
+            "box": [
+                [
+                    663.0,
+                    39.0
+                ],
+                [
+                    897.0,
+                    39.0
+                ],
+                [
+                    897.0,
+                    91.0
+                ],
+                [
+                    663.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAVELLING ON ROAD",
+            "confidence": 0.97,
+            "box": [
+                [
+                    182.0,
+                    117.0
+                ],
+                [
+                    915.0,
+                    117.0
+                ],
+                [
+                    915.0,
+                    176.0
+                ],
+                [
+                    182.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    896.0,
+                    357.0
+                ],
+                [
+                    1070.0,
+                    357.0
+                ],
+                [
+                    1070.0,
+                    381.0
+                ],
+                [
+                    896.0,
+                    381.0
+                ]
+            ]
+        },
+        {
+            "text": "OPPOSITEVEHICLE NUMBERS",
+            "confidence": 0.978,
+            "box": [
+                [
+                    196.0,
+                    721.0
+                ],
+                [
+                    955.0,
+                    721.0
+                ],
+                [
+                    955.0,
+                    768.0
+                ],
+                [
+                    196.0,
+                    768.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME CHECKING THEIR",
+            "confidence": 0.945,
+            "box": [
+                [
+                    496.0,
+                    863.0
+                ],
+                [
+                    906.0,
+                    865.0
+                ],
+                [
+                    906.0,
+                    901.0
+                ],
+                [
+                    496.0,
+                    898.0
+                ]
+            ]
+        },
+        {
+            "text": "VEHICLENUMBERS",
+            "confidence": 0.993,
+            "box": [
+                [
+                    528.0,
+                    911.0
+                ],
+                [
+                    875.0,
+                    911.0
+                ],
+                [
+                    875.0,
+                    946.0
+                ],
+                [
+                    528.0,
+                    946.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,402 @@
+{
+    "image_name": "2025-11-08_06-42-52_UTC.jpg",
+    "combined_text": "BLOCKBUSTER COLLECTIONS\nFROM NORTH AMERICA FOR\n\"THE GIRLFRIEND MOVIE\"\nALLU ARAVIND\nTEA\nALLU\nPRESENT\nNORTH AMERICA GROSS\n$125K\nRASHMIKA MANDANNA\nTHEGIRRFRIEND\nAND COUNTING\nTHEGIRLFRIEND\nIN CINEMAS\nNOW\nADDICTEDTOMEMES\nRASHMIKA SCRIPTSELECTIONGURUINCHI\nTELISINDHE KADHA SUPER UNTADI",
+    "detailed": [
+        {
+            "text": "BLOCKBUSTER COLLECTIONS",
+            "confidence": 0.979,
+            "box": [
+                [
+                    183.0,
+                    24.0
+                ],
+                [
+                    966.0,
+                    27.0
+                ],
+                [
+                    966.0,
+                    69.0
+                ],
+                [
+                    183.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM NORTH AMERICA FOR",
+            "confidence": 0.957,
+            "box": [
+                [
+                    187.0,
+                    89.0
+                ],
+                [
+                    962.0,
+                    92.0
+                ],
+                [
+                    962.0,
+                    139.0
+                ],
+                [
+                    187.0,
+                    136.0
+                ]
+            ]
+        },
+        {
+            "text": "\"THE GIRLFRIEND MOVIE\"",
+            "confidence": 0.969,
+            "box": [
+                [
+                    225.0,
+                    148.0
+                ],
+                [
+                    918.0,
+                    154.0
+                ],
+                [
+                    918.0,
+                    214.0
+                ],
+                [
+                    225.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLU ARAVIND",
+            "confidence": 0.97,
+            "box": [
+                [
+                    245.0,
+                    252.0
+                ],
+                [
+                    342.0,
+                    252.0
+                ],
+                [
+                    342.0,
+                    273.0
+                ],
+                [
+                    245.0,
+                    273.0
+                ]
+            ]
+        },
+        {
+            "text": "TEA",
+            "confidence": 0.504,
+            "box": [
+                [
+                    510.0,
+                    254.0
+                ],
+                [
+                    578.0,
+                    248.0
+                ],
+                [
+                    580.0,
+                    274.0
+                ],
+                [
+                    512.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLU",
+            "confidence": 0.969,
+            "box": [
+                [
+                    843.0,
+                    249.0
+                ],
+                [
+                    870.0,
+                    256.0
+                ],
+                [
+                    867.0,
+                    270.0
+                ],
+                [
+                    840.0,
+                    263.0
+                ]
+            ]
+        },
+        {
+            "text": "PRESENT",
+            "confidence": 0.934,
+            "box": [
+                [
+                    271.0,
+                    267.0
+                ],
+                [
+                    312.0,
+                    267.0
+                ],
+                [
+                    312.0,
+                    280.0
+                ],
+                [
+                    271.0,
+                    280.0
+                ]
+            ]
+        },
+        {
+            "text": "NORTH AMERICA GROSS",
+            "confidence": 0.958,
+            "box": [
+                [
+                    147.0,
+                    322.0
+                ],
+                [
+                    483.0,
+                    292.0
+                ],
+                [
+                    486.0,
+                    321.0
+                ],
+                [
+                    149.0,
+                    352.0
+                ]
+            ]
+        },
+        {
+            "text": "$125K",
+            "confidence": 0.967,
+            "box": [
+                [
+                    34.0,
+                    363.0
+                ],
+                [
+                    509.0,
+                    317.0
+                ],
+                [
+                    522.0,
+                    454.0
+                ],
+                [
+                    47.0,
+                    501.0
+                ]
+            ]
+        },
+        {
+            "text": "RASHMIKA MANDANNA",
+            "confidence": 0.945,
+            "box": [
+                [
+                    823.0,
+                    370.0
+                ],
+                [
+                    918.0,
+                    370.0
+                ],
+                [
+                    918.0,
+                    387.0
+                ],
+                [
+                    823.0,
+                    387.0
+                ]
+            ]
+        },
+        {
+            "text": "THEGIRRFRIEND",
+            "confidence": 0.911,
+            "box": [
+                [
+                    671.0,
+                    396.0
+                ],
+                [
+                    1073.0,
+                    396.0
+                ],
+                [
+                    1073.0,
+                    438.0
+                ],
+                [
+                    671.0,
+                    438.0
+                ]
+            ]
+        },
+        {
+            "text": "AND COUNTING",
+            "confidence": 0.969,
+            "box": [
+                [
+                    207.0,
+                    476.0
+                ],
+                [
+                    414.0,
+                    457.0
+                ],
+                [
+                    417.0,
+                    488.0
+                ],
+                [
+                    210.0,
+                    507.0
+                ]
+            ]
+        },
+        {
+            "text": "THEGIRLFRIEND",
+            "confidence": 0.865,
+            "box": [
+                [
+                    134.0,
+                    864.0
+                ],
+                [
+                    450.0,
+                    865.0
+                ],
+                [
+                    450.0,
+                    900.0
+                ],
+                [
+                    134.0,
+                    899.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS",
+            "confidence": 0.966,
+            "box": [
+                [
+                    10.0,
+                    924.0
+                ],
+                [
+                    94.0,
+                    924.0
+                ],
+                [
+                    94.0,
+                    947.0
+                ],
+                [
+                    10.0,
+                    947.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW",
+            "confidence": 0.918,
+            "box": [
+                [
+                    38.0,
+                    946.0
+                ],
+                [
+                    75.0,
+                    946.0
+                ],
+                [
+                    75.0,
+                    960.0
+                ],
+                [
+                    38.0,
+                    960.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    7.0,
+                    1084.0
+                ],
+                [
+                    149.0,
+                    1084.0
+                ],
+                [
+                    149.0,
+                    1105.0
+                ],
+                [
+                    7.0,
+                    1105.0
+                ]
+            ]
+        },
+        {
+            "text": "RASHMIKA SCRIPTSELECTIONGURUINCHI",
+            "confidence": 0.984,
+            "box": [
+                [
+                    75.0,
+                    1254.0
+                ],
+                [
+                    983.0,
+                    1254.0
+                ],
+                [
+                    983.0,
+                    1292.0
+                ],
+                [
+                    75.0,
+                    1292.0
+                ]
+            ]
+        },
+        {
+            "text": "TELISINDHE KADHA SUPER UNTADI",
+            "confidence": 0.958,
+            "box": [
+                [
+                    156.0,
+                    1308.0
+                ],
+                [
+                    900.0,
+                    1308.0
+                ],
+                [
+                    900.0,
+                    1346.0
+                ],
+                [
+                    156.0,
+                    1346.0
+                ]
+            ]
+        }
+    ]
+}

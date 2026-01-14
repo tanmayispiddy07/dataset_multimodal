@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-06-02_13-14-57_UTC.jpg",
+    "combined_text": "FEW TEAM FANS NOW BECAME PUNJAB\nFANS AND SUPPORT PUNJAB TEAM JUST\nBECAUSE THEIR OPPONENT IS RCB\nADDICTEDTOMEMES\nUCHA KARIPOTHUNDI KADHA....\nELU\nEKKADA RCB GELUSTHUNDO ANI",
+    "detailed": [
+        {
+            "text": "FEW TEAM FANS NOW BECAME PUNJAB",
+            "confidence": 0.929,
+            "box": [
+                [
+                    87.0,
+                    60.0
+                ],
+                [
+                    1000.0,
+                    60.0
+                ],
+                [
+                    1000.0,
+                    102.0
+                ],
+                [
+                    87.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "FANS AND SUPPORT PUNJAB TEAM JUST",
+            "confidence": 0.939,
+            "box": [
+                [
+                    75.0,
+                    118.0
+                ],
+                [
+                    1015.0,
+                    118.0
+                ],
+                [
+                    1015.0,
+                    156.0
+                ],
+                [
+                    75.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "BECAUSE THEIR OPPONENT IS RCB",
+            "confidence": 0.956,
+            "box": [
+                [
+                    148.0,
+                    173.0
+                ],
+                [
+                    942.0,
+                    173.0
+                ],
+                [
+                    942.0,
+                    215.0
+                ],
+                [
+                    148.0,
+                    215.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    884.0,
+                    481.0
+                ],
+                [
+                    1077.0,
+                    479.0
+                ],
+                [
+                    1077.0,
+                    506.0
+                ],
+                [
+                    885.0,
+                    507.0
+                ]
+            ]
+        },
+        {
+            "text": "UCHA KARIPOTHUNDI KADHA....",
+            "confidence": 0.953,
+            "box": [
+                [
+                    173.0,
+                    804.0
+                ],
+                [
+                    907.0,
+                    807.0
+                ],
+                [
+                    907.0,
+                    849.0
+                ],
+                [
+                    173.0,
+                    846.0
+                ]
+            ]
+        },
+        {
+            "text": "ELU",
+            "confidence": 0.663,
+            "box": [
+                [
+                    1012.0,
+                    1105.0
+                ],
+                [
+                    1065.0,
+                    1105.0
+                ],
+                [
+                    1065.0,
+                    1123.0
+                ],
+                [
+                    1012.0,
+                    1123.0
+                ]
+            ]
+        },
+        {
+            "text": "EKKADA RCB GELUSTHUNDO ANI",
+            "confidence": 0.956,
+            "box": [
+                [
+                    75.0,
+                    1272.0
+                ],
+                [
+                    1012.0,
+                    1272.0
+                ],
+                [
+                    1012.0,
+                    1323.0
+                ],
+                [
+                    75.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

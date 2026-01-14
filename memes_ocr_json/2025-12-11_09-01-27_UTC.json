@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-12-11_09-01-27_UTC.jpg",
+    "combined_text": "WITH AKSHAYE KHANNA TRENDING\nEVERYWHERE, MAHAKALI GAINS A MASSIVE\nADVANTAGE IN THE HINDI MARKETS.\nKDUGGAL\nAKSHAYE KHANNA\nASURAGURU\nSHUKRACHARYA\nMAHAOKALI\nADDICTEDTOMEMES\nCHALUCHALU E\nMATRAM BUZZ CHALU\nMOVIE KIVELLADANIKI",
+    "detailed": [
+        {
+            "text": "WITH AKSHAYE KHANNA TRENDING",
+            "confidence": 0.96,
+            "box": [
+                [
+                    146.0,
+                    24.0
+                ],
+                [
+                    931.0,
+                    24.0
+                ],
+                [
+                    931.0,
+                    61.0
+                ],
+                [
+                    146.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "EVERYWHERE, MAHAKALI GAINS A MASSIVE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    48.0,
+                    79.0
+                ],
+                [
+                    1034.0,
+                    79.0
+                ],
+                [
+                    1034.0,
+                    117.0
+                ],
+                [
+                    48.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "ADVANTAGE IN THE HINDI MARKETS.",
+            "confidence": 0.955,
+            "box": [
+                [
+                    136.0,
+                    132.0
+                ],
+                [
+                    941.0,
+                    132.0
+                ],
+                [
+                    941.0,
+                    170.0
+                ],
+                [
+                    136.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "KDUGGAL",
+            "confidence": 0.982,
+            "box": [
+                [
+                    502.0,
+                    208.0
+                ],
+                [
+                    555.0,
+                    208.0
+                ],
+                [
+                    555.0,
+                    220.0
+                ],
+                [
+                    502.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "AKSHAYE KHANNA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    187.0,
+                    226.0
+                ],
+                [
+                    316.0,
+                    226.0
+                ],
+                [
+                    316.0,
+                    243.0
+                ],
+                [
+                    187.0,
+                    243.0
+                ]
+            ]
+        },
+        {
+            "text": "ASURAGURU",
+            "confidence": 0.987,
+            "box": [
+                [
+                    214.0,
+                    255.0
+                ],
+                [
+                    297.0,
+                    255.0
+                ],
+                [
+                    297.0,
+                    272.0
+                ],
+                [
+                    214.0,
+                    272.0
+                ]
+            ]
+        },
+        {
+            "text": "SHUKRACHARYA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    179.0,
+                    269.0
+                ],
+                [
+                    328.0,
+                    269.0
+                ],
+                [
+                    328.0,
+                    290.0
+                ],
+                [
+                    179.0,
+                    290.0
+                ]
+            ]
+        },
+        {
+            "text": "MAHAOKALI",
+            "confidence": 0.954,
+            "box": [
+                [
+                    90.0,
+                    852.0
+                ],
+                [
+                    415.0,
+                    852.0
+                ],
+                [
+                    415.0,
+                    903.0
+                ],
+                [
+                    90.0,
+                    903.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    488.0,
+                    1072.0
+                ],
+                [
+                    638.0,
+                    1072.0
+                ],
+                [
+                    638.0,
+                    1093.0
+                ],
+                [
+                    488.0,
+                    1093.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALUCHALU E",
+            "confidence": 0.965,
+            "box": [
+                [
+                    401.0,
+                    1169.0
+                ],
+                [
+                    752.0,
+                    1169.0
+                ],
+                [
+                    752.0,
+                    1207.0
+                ],
+                [
+                    401.0,
+                    1207.0
+                ]
+            ]
+        },
+        {
+            "text": "MATRAM BUZZ CHALU",
+            "confidence": 0.962,
+            "box": [
+                [
+                    331.0,
+                    1219.0
+                ],
+                [
+                    818.0,
+                    1221.0
+                ],
+                [
+                    818.0,
+                    1263.0
+                ],
+                [
+                    330.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE KIVELLADANIKI",
+            "confidence": 0.983,
+            "box": [
+                [
+                    316.0,
+                    1275.0
+                ],
+                [
+                    824.0,
+                    1275.0
+                ],
+                [
+                    824.0,
+                    1317.0
+                ],
+                [
+                    316.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-05-19_04-15-00_UTC.jpg",
+    "combined_text": "Kedarnath Dham Redevelopment\nsarcasm",
+    "detailed": [
+        {
+            "text": "Kedarnath Dham Redevelopment",
+            "confidence": 0.989,
+            "box": [
+                [
+                    49.0,
+                    71.0
+                ],
+                [
+                    931.0,
+                    74.0
+                ],
+                [
+                    931.0,
+                    126.0
+                ],
+                [
+                    49.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    179.0,
+                    797.0
+                ],
+                [
+                    278.0,
+                    797.0
+                ],
+                [
+                    278.0,
+                    819.0
+                ],
+                [
+                    179.0,
+                    819.0
+                ]
+            ]
+        }
+    ]
+}

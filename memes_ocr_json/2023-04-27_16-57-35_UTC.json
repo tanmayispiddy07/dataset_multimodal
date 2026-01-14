@@ -1,0 +1,138 @@
+{
+    "image_name": "2023-04-27_16-57-35_UTC.jpg",
+    "combined_text": "CSKFANSTO CSK\nBATSMENS\nMAK MI PLANARDHAM AYIPOYINDI..\nTELUGU MEMES GURU\nDHONIHIGHSCORECHEYALI ANEYKADHA\nMEERU ANDHARUOUT AYIPOTHUNARU",
+    "detailed": [
+        {
+            "text": "CSKFANSTO CSK",
+            "confidence": 0.956,
+            "box": [
+                [
+                    104.0,
+                    52.0
+                ],
+                [
+                    470.0,
+                    52.0
+                ],
+                [
+                    470.0,
+                    89.0
+                ],
+                [
+                    104.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "BATSMENS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    170.0,
+                    100.0
+                ],
+                [
+                    398.0,
+                    100.0
+                ],
+                [
+                    398.0,
+                    134.0
+                ],
+                [
+                    170.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "MAK MI PLANARDHAM AYIPOYINDI..",
+            "confidence": 0.923,
+            "box": [
+                [
+                    79.0,
+                    286.0
+                ],
+                [
+                    997.0,
+                    286.0
+                ],
+                [
+                    997.0,
+                    329.0
+                ],
+                [
+                    79.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.889,
+            "box": [
+                [
+                    898.0,
+                    492.0
+                ],
+                [
+                    1024.0,
+                    493.0
+                ],
+                [
+                    1024.0,
+                    513.0
+                ],
+                [
+                    898.0,
+                    512.0
+                ]
+            ]
+        },
+        {
+            "text": "DHONIHIGHSCORECHEYALI ANEYKADHA",
+            "confidence": 0.975,
+            "box": [
+                [
+                    74.0,
+                    643.0
+                ],
+                [
+                    1006.0,
+                    643.0
+                ],
+                [
+                    1006.0,
+                    680.0
+                ],
+                [
+                    74.0,
+                    680.0
+                ]
+            ]
+        },
+        {
+            "text": "MEERU ANDHARUOUT AYIPOTHUNARU",
+            "confidence": 0.973,
+            "box": [
+                [
+                    97.0,
+                    993.0
+                ],
+                [
+                    1045.0,
+                    992.0
+                ],
+                [
+                    1045.0,
+                    1030.0
+                ],
+                [
+                    97.0,
+                    1031.0
+                ]
+            ]
+        }
+    ]
+}

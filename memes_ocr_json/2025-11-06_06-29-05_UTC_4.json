@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-06_06-29-05_UTC_4.jpg",
+    "combined_text": "INLIA\nsarcasm\nThe incident has sparked debate on\nwhether the ICC should reconsider\nits medal eligibility rules.",
+    "detailed": [
+        {
+            "text": "INLIA",
+            "confidence": 0.806,
+            "box": [
+                [
+                    722.0,
+                    599.0
+                ],
+                [
+                    818.0,
+                    640.0
+                ],
+                [
+                    801.0,
+                    680.0
+                ],
+                [
+                    704.0,
+                    639.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    484.0,
+                    1049.0
+                ],
+                [
+                    596.0,
+                    1049.0
+                ],
+                [
+                    596.0,
+                    1071.0
+                ],
+                [
+                    484.0,
+                    1071.0
+                ]
+            ]
+        },
+        {
+            "text": "The incident has sparked debate on",
+            "confidence": 0.992,
+            "box": [
+                [
+                    124.0,
+                    1106.0
+                ],
+                [
+                    961.0,
+                    1111.0
+                ],
+                [
+                    960.0,
+                    1154.0
+                ],
+                [
+                    124.0,
+                    1150.0
+                ]
+            ]
+        },
+        {
+            "text": "whether the ICC should reconsider",
+            "confidence": 0.97,
+            "box": [
+                [
+                    142.0,
+                    1176.0
+                ],
+                [
+                    941.0,
+                    1176.0
+                ],
+                [
+                    941.0,
+                    1220.0
+                ],
+                [
+                    142.0,
+                    1220.0
+                ]
+            ]
+        },
+        {
+            "text": "its medal eligibility rules.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    262.0,
+                    1246.0
+                ],
+                [
+                    817.0,
+                    1246.0
+                ],
+                [
+                    817.0,
+                    1291.0
+                ],
+                [
+                    262.0,
+                    1291.0
+                ]
+            ]
+        }
+    ]
+}

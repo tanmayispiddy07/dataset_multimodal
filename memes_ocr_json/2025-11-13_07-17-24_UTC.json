@@ -1,0 +1,534 @@
+{
+    "image_name": "2025-11-13_07-17-24_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nONLYPHYSICAL PASSES NO ONLINE\nPASSES AND BELOW 18 ANDSENIOR\nCITIZENS ARE NOT ALLOWED FOR EVENT\nEVENT KI VELDHAM ANUKUNE VALLAKI OKATE CHEPTHUNNA\nAS A BABU DIE HEART FAN MERU ALREADY DOORAM NUNCHI\nRAVADANIKI PLANNING LONE UNTARU.NENU FIRST TIME\nANIMAL EVENT KIVELINA WHERE BABU IS CHIEF GUEST\nLITERALLY EVENING 5-6 KIVELTHE BABU EPUDO NYT 9-1O\nMADHAYLO VACHADU ANTHA SEPU SARIGA WATER UNDAV\nAH CROWD LO INKA FULL RUSH UNTADI SARIGA BREATHING\nUNDADU ANTHA SEPU NILCHONE UNDALI INKA IPUDU DIRECT\nBABU EVENT PAIGA CITY KI DOORAM LO RFC NA OPIONION\nAITHE BETTER FRNDS THONE ROOM LO CHUDTAM OR PRIVATE\nSCREENING ANTHA DOORAM VELLI AH CROWD VALLA\nTELISO THELIYAKA STAMPEDE LANTIVI AITHE EM CHEYALEMU\nAFTER SEEING RECENT INCIDENTS ANDUKE OKA DHFM GA\nMANA BABU FANS SAFETY KOSAM SAYING E EVENT KAKUNTE\nBUSINESSMAN RE RELEASE FULL ENJOY CHEDHAM LEDHA BABU\nBIRTHDAY CELEBRATE CHEUSKUNDAM BUT ANTHA DOORAM\nVELLI RISK CHEYAKANDI FIRST TAKE CARE OF YOURSELF\nOKAVELA VELTHE MATRAM WATER BOTTLE TESUKONI PROPER\nGA EARLY GA VELLANDI EKKVA CROWD UNNA DAGARA\nDOORAM UNDANDI TAKE CARE",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    893.0,
+                    170.0
+                ],
+                [
+                    1076.0,
+                    170.0
+                ],
+                [
+                    1076.0,
+                    195.0
+                ],
+                [
+                    893.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "ONLYPHYSICAL PASSES NO ONLINE",
+            "confidence": 0.952,
+            "box": [
+                [
+                    190.0,
+                    354.0
+                ],
+                [
+                    941.0,
+                    355.0
+                ],
+                [
+                    941.0,
+                    393.0
+                ],
+                [
+                    190.0,
+                    392.0
+                ]
+            ]
+        },
+        {
+            "text": "PASSES AND BELOW 18 ANDSENIOR",
+            "confidence": 0.939,
+            "box": [
+                [
+                    191.0,
+                    407.0
+                ],
+                [
+                    938.0,
+                    408.0
+                ],
+                [
+                    938.0,
+                    443.0
+                ],
+                [
+                    191.0,
+                    442.0
+                ]
+            ]
+        },
+        {
+            "text": "CITIZENS ARE NOT ALLOWED FOR EVENT",
+            "confidence": 0.952,
+            "box": [
+                [
+                    131.0,
+                    459.0
+                ],
+                [
+                    990.0,
+                    459.0
+                ],
+                [
+                    990.0,
+                    496.0
+                ],
+                [
+                    131.0,
+                    496.0
+                ]
+            ]
+        },
+        {
+            "text": "EVENT KI VELDHAM ANUKUNE VALLAKI OKATE CHEPTHUNNA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    42.0,
+                    544.0
+                ],
+                [
+                    1059.0,
+                    544.0
+                ],
+                [
+                    1059.0,
+                    573.0
+                ],
+                [
+                    42.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "AS A BABU DIE HEART FAN MERU ALREADY DOORAM NUNCHI",
+            "confidence": 0.925,
+            "box": [
+                [
+                    42.0,
+                    584.0
+                ],
+                [
+                    1063.0,
+                    584.0
+                ],
+                [
+                    1063.0,
+                    613.0
+                ],
+                [
+                    42.0,
+                    613.0
+                ]
+            ]
+        },
+        {
+            "text": "RAVADANIKI PLANNING LONE UNTARU.NENU FIRST TIME",
+            "confidence": 0.953,
+            "box": [
+                [
+                    75.0,
+                    623.0
+                ],
+                [
+                    1028.0,
+                    623.0
+                ],
+                [
+                    1028.0,
+                    652.0
+                ],
+                [
+                    75.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIMAL EVENT KIVELINA WHERE BABU IS CHIEF GUEST",
+            "confidence": 0.938,
+            "box": [
+                [
+                    87.0,
+                    663.0
+                ],
+                [
+                    1008.0,
+                    663.0
+                ],
+                [
+                    1008.0,
+                    693.0
+                ],
+                [
+                    87.0,
+                    693.0
+                ]
+            ]
+        },
+        {
+            "text": "LITERALLY EVENING 5-6 KIVELTHE BABU EPUDO NYT 9-1O",
+            "confidence": 0.927,
+            "box": [
+                [
+                    73.0,
+                    702.0
+                ],
+                [
+                    1031.0,
+                    702.0
+                ],
+                [
+                    1031.0,
+                    732.0
+                ],
+                [
+                    73.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "MADHAYLO VACHADU ANTHA SEPU SARIGA WATER UNDAV",
+            "confidence": 0.942,
+            "box": [
+                [
+                    60.0,
+                    743.0
+                ],
+                [
+                    1042.0,
+                    743.0
+                ],
+                [
+                    1042.0,
+                    772.0
+                ],
+                [
+                    60.0,
+                    772.0
+                ]
+            ]
+        },
+        {
+            "text": "AH CROWD LO INKA FULL RUSH UNTADI SARIGA BREATHING",
+            "confidence": 0.938,
+            "box": [
+                [
+                    53.0,
+                    782.0
+                ],
+                [
+                    1052.0,
+                    782.0
+                ],
+                [
+                    1052.0,
+                    811.0
+                ],
+                [
+                    53.0,
+                    811.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDADU ANTHA SEPU NILCHONE UNDALI INKA IPUDU DIRECT",
+            "confidence": 0.944,
+            "box": [
+                [
+                    39.0,
+                    822.0
+                ],
+                [
+                    1063.0,
+                    822.0
+                ],
+                [
+                    1063.0,
+                    852.0
+                ],
+                [
+                    39.0,
+                    852.0
+                ]
+            ]
+        },
+        {
+            "text": "BABU EVENT PAIGA CITY KI DOORAM LO RFC NA OPIONION",
+            "confidence": 0.92,
+            "box": [
+                [
+                    51.0,
+                    863.0
+                ],
+                [
+                    1052.0,
+                    863.0
+                ],
+                [
+                    1052.0,
+                    892.0
+                ],
+                [
+                    51.0,
+                    892.0
+                ]
+            ]
+        },
+        {
+            "text": "AITHE BETTER FRNDS THONE ROOM LO CHUDTAM OR PRIVATE",
+            "confidence": 0.937,
+            "box": [
+                [
+                    38.0,
+                    902.0
+                ],
+                [
+                    1069.0,
+                    902.0
+                ],
+                [
+                    1069.0,
+                    931.0
+                ],
+                [
+                    38.0,
+                    931.0
+                ]
+            ]
+        },
+        {
+            "text": "SCREENING ANTHA DOORAM VELLI AH CROWD VALLA",
+            "confidence": 0.919,
+            "box": [
+                [
+                    93.0,
+                    939.0
+                ],
+                [
+                    1008.0,
+                    941.0
+                ],
+                [
+                    1008.0,
+                    974.0
+                ],
+                [
+                    93.0,
+                    973.0
+                ]
+            ]
+        },
+        {
+            "text": "TELISO THELIYAKA STAMPEDE LANTIVI AITHE EM CHEYALEMU",
+            "confidence": 0.955,
+            "box": [
+                [
+                    45.0,
+                    981.0
+                ],
+                [
+                    1062.0,
+                    981.0
+                ],
+                [
+                    1062.0,
+                    1010.0
+                ],
+                [
+                    45.0,
+                    1010.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER SEEING RECENT INCIDENTS ANDUKE OKA DHFM GA",
+            "confidence": 0.942,
+            "box": [
+                [
+                    69.0,
+                    1020.0
+                ],
+                [
+                    1034.0,
+                    1020.0
+                ],
+                [
+                    1034.0,
+                    1049.0
+                ],
+                [
+                    69.0,
+                    1049.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA BABU FANS SAFETY KOSAM SAYING E EVENT KAKUNTE",
+            "confidence": 0.935,
+            "box": [
+                [
+                    42.0,
+                    1062.0
+                ],
+                [
+                    1065.0,
+                    1062.0
+                ],
+                [
+                    1065.0,
+                    1091.0
+                ],
+                [
+                    42.0,
+                    1091.0
+                ]
+            ]
+        },
+        {
+            "text": "BUSINESSMAN RE RELEASE FULL ENJOY CHEDHAM LEDHA BABU",
+            "confidence": 0.946,
+            "box": [
+                [
+                    24.0,
+                    1100.0
+                ],
+                [
+                    1076.0,
+                    1101.0
+                ],
+                [
+                    1076.0,
+                    1132.0
+                ],
+                [
+                    24.0,
+                    1130.0
+                ]
+            ]
+        },
+        {
+            "text": "BIRTHDAY CELEBRATE CHEUSKUNDAM BUT ANTHA DOORAM",
+            "confidence": 0.946,
+            "box": [
+                [
+                    51.0,
+                    1141.0
+                ],
+                [
+                    1052.0,
+                    1141.0
+                ],
+                [
+                    1052.0,
+                    1171.0
+                ],
+                [
+                    51.0,
+                    1171.0
+                ]
+            ]
+        },
+        {
+            "text": "VELLI RISK CHEYAKANDI FIRST TAKE CARE OF YOURSELF",
+            "confidence": 0.929,
+            "box": [
+                [
+                    83.0,
+                    1183.0
+                ],
+                [
+                    1012.0,
+                    1183.0
+                ],
+                [
+                    1012.0,
+                    1208.0
+                ],
+                [
+                    83.0,
+                    1208.0
+                ]
+            ]
+        },
+        {
+            "text": "OKAVELA VELTHE MATRAM WATER BOTTLE TESUKONI PROPER",
+            "confidence": 0.948,
+            "box": [
+                [
+                    38.0,
+                    1221.0
+                ],
+                [
+                    1069.0,
+                    1221.0
+                ],
+                [
+                    1069.0,
+                    1250.0
+                ],
+                [
+                    38.0,
+                    1250.0
+                ]
+            ]
+        },
+        {
+            "text": "GA EARLY GA VELLANDI EKKVA CROWD UNNA DAGARA",
+            "confidence": 0.934,
+            "box": [
+                [
+                    89.0,
+                    1259.0
+                ],
+                [
+                    1014.0,
+                    1259.0
+                ],
+                [
+                    1014.0,
+                    1292.0
+                ],
+                [
+                    89.0,
+                    1292.0
+                ]
+            ]
+        },
+        {
+            "text": "DOORAM UNDANDI TAKE CARE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    267.0,
+                    1300.0
+                ],
+                [
+                    792.0,
+                    1300.0
+                ],
+                [
+                    792.0,
+                    1330.0
+                ],
+                [
+                    267.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

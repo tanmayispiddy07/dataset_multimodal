@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-07-16_08-10-55_UTC.jpg",
+    "combined_text": "ME STRUGGLING TO HAVE A\nCONVERSATION WITH GIRLS\nMEANWHILE MY FRIEND AFTER CHATTING\nFOR 1WHOLE NIGHT NEXT DAY SCENARIO\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "ME STRUGGLING TO HAVE A",
+            "confidence": 0.93,
+            "box": [
+                [
+                    233.0,
+                    49.0
+                ],
+                [
+                    876.0,
+                    49.0
+                ],
+                [
+                    876.0,
+                    86.0
+                ],
+                [
+                    233.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "CONVERSATION WITH GIRLS",
+            "confidence": 0.965,
+            "box": [
+                [
+                    228.0,
+                    105.0
+                ],
+                [
+                    870.0,
+                    105.0
+                ],
+                [
+                    870.0,
+                    142.0
+                ],
+                [
+                    228.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "MEANWHILE MY FRIEND AFTER CHATTING",
+            "confidence": 0.95,
+            "box": [
+                [
+                    83.0,
+                    160.0
+                ],
+                [
+                    1028.0,
+                    160.0
+                ],
+                [
+                    1028.0,
+                    198.0
+                ],
+                [
+                    83.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR 1WHOLE NIGHT NEXT DAY SCENARIO",
+            "confidence": 0.942,
+            "box": [
+                [
+                    84.0,
+                    217.0
+                ],
+                [
+                    1027.0,
+                    217.0
+                ],
+                [
+                    1027.0,
+                    255.0
+                ],
+                [
+                    84.0,
+                    255.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    856.0,
+                    477.0
+                ],
+                [
+                    1043.0,
+                    477.0
+                ],
+                [
+                    1043.0,
+                    502.0
+                ],
+                [
+                    856.0,
+                    502.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "image_name": "2025-08-04_17-23-48_UTC_10.jpg",
+    "combined_text": "sarcasm\nMohammed Siraj\n@mdsirajofficial\n45m\nThank you bhaiya for \"Believe\"ing in me.\nVirat Kohli\n@imVkohli\n57m\nGreat win by team india. Resilience and.\ndetermination from Siraj and Prasidh has given\nus this phenomenal victory.Special mention to\nSiraj who will put everything on the line for the\nteam. Extremely happy for him\n@mdsirajofficial @prasidh43",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.993,
+            "box": [
+                [
+                    485.0,
+                    588.0
+                ],
+                [
+                    591.0,
+                    583.0
+                ],
+                [
+                    592.0,
+                    609.0
+                ],
+                [
+                    486.0,
+                    615.0
+                ]
+            ]
+        },
+        {
+            "text": "Mohammed Siraj",
+            "confidence": 0.975,
+            "box": [
+                [
+                    210.0,
+                    670.0
+                ],
+                [
+                    482.0,
+                    673.0
+                ],
+                [
+                    482.0,
+                    710.0
+                ],
+                [
+                    209.0,
+                    707.0
+                ]
+            ]
+        },
+        {
+            "text": "@mdsirajofficial",
+            "confidence": 0.998,
+            "box": [
+                [
+                    543.0,
+                    675.0
+                ],
+                [
+                    800.0,
+                    670.0
+                ],
+                [
+                    800.0,
+                    706.0
+                ],
+                [
+                    543.0,
+                    711.0
+                ]
+            ]
+        },
+        {
+            "text": "45m",
+            "confidence": 0.998,
+            "box": [
+                [
+                    943.0,
+                    668.0
+                ],
+                [
+                    1026.0,
+                    672.0
+                ],
+                [
+                    1024.0,
+                    711.0
+                ],
+                [
+                    942.0,
+                    707.0
+                ]
+            ]
+        },
+        {
+            "text": "Thank you bhaiya for \"Believe\"ing in me.",
+            "confidence": 0.978,
+            "box": [
+                [
+                    214.0,
+                    730.0
+                ],
+                [
+                    841.0,
+                    730.0
+                ],
+                [
+                    841.0,
+                    766.0
+                ],
+                [
+                    214.0,
+                    766.0
+                ]
+            ]
+        },
+        {
+            "text": "Virat Kohli",
+            "confidence": 0.975,
+            "box": [
+                [
+                    298.0,
+                    820.0
+                ],
+                [
+                    464.0,
+                    820.0
+                ],
+                [
+                    464.0,
+                    857.0
+                ],
+                [
+                    298.0,
+                    857.0
+                ]
+            ]
+        },
+        {
+            "text": "@imVkohli",
+            "confidence": 0.998,
+            "box": [
+                [
+                    519.0,
+                    820.0
+                ],
+                [
+                    694.0,
+                    817.0
+                ],
+                [
+                    695.0,
+                    858.0
+                ],
+                [
+                    519.0,
+                    861.0
+                ]
+            ]
+        },
+        {
+            "text": "57m",
+            "confidence": 0.999,
+            "box": [
+                [
+                    927.0,
+                    818.0
+                ],
+                [
+                    1006.0,
+                    824.0
+                ],
+                [
+                    1003.0,
+                    863.0
+                ],
+                [
+                    924.0,
+                    857.0
+                ]
+            ]
+        },
+        {
+            "text": "Great win by team india. Resilience and.",
+            "confidence": 0.991,
+            "box": [
+                [
+                    231.0,
+                    888.0
+                ],
+                [
+                    861.0,
+                    886.0
+                ],
+                [
+                    861.0,
+                    921.0
+                ],
+                [
+                    231.0,
+                    923.0
+                ]
+            ]
+        },
+        {
+            "text": "determination from Siraj and Prasidh has given",
+            "confidence": 0.99,
+            "box": [
+                [
+                    231.0,
+                    934.0
+                ],
+                [
+                    983.0,
+                    937.0
+                ],
+                [
+                    983.0,
+                    972.0
+                ],
+                [
+                    231.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "us this phenomenal victory.Special mention to",
+            "confidence": 0.97,
+            "box": [
+                [
+                    231.0,
+                    983.0
+                ],
+                [
+                    979.0,
+                    983.0
+                ],
+                [
+                    979.0,
+                    1018.0
+                ],
+                [
+                    231.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "Siraj who will put everything on the line for the",
+            "confidence": 0.983,
+            "box": [
+                [
+                    232.0,
+                    1031.0
+                ],
+                [
+                    965.0,
+                    1031.0
+                ],
+                [
+                    965.0,
+                    1066.0
+                ],
+                [
+                    232.0,
+                    1066.0
+                ]
+            ]
+        },
+        {
+            "text": "team. Extremely happy for him",
+            "confidence": 0.958,
+            "box": [
+                [
+                    229.0,
+                    1075.0
+                ],
+                [
+                    721.0,
+                    1075.0
+                ],
+                [
+                    721.0,
+                    1115.0
+                ],
+                [
+                    229.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "@mdsirajofficial @prasidh43",
+            "confidence": 0.987,
+            "box": [
+                [
+                    232.0,
+                    1122.0
+                ],
+                [
+                    702.0,
+                    1120.0
+                ],
+                [
+                    702.0,
+                    1159.0
+                ],
+                [
+                    232.0,
+                    1161.0
+                ]
+            ]
+        }
+    ]
+}

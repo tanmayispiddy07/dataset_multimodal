@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-22_09-28-54_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF\nDEVIKA &DANNY FROM THE\nJOY FILMS PRODUCTION HOUSE\nPREMIERES ON JIO HOTSTAR FROM JUNE 6TH\nADDICTEDTOMEMES\n**ME WHO IS FAN OF RITHU\nVARMA SCRIPT SELECTION\nREADYGAUNDANDIRAA",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF",
+            "confidence": 0.957,
+            "box": [
+                [
+                    280.0,
+                    13.0
+                ],
+                [
+                    824.0,
+                    11.0
+                ],
+                [
+                    824.0,
+                    50.0
+                ],
+                [
+                    280.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "DEVIKA &DANNY FROM THE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    248.0,
+                    67.0
+                ],
+                [
+                    859.0,
+                    67.0
+                ],
+                [
+                    859.0,
+                    105.0
+                ],
+                [
+                    248.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "JOY FILMS PRODUCTION HOUSE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    212.0,
+                    120.0
+                ],
+                [
+                    899.0,
+                    120.0
+                ],
+                [
+                    899.0,
+                    157.0
+                ],
+                [
+                    212.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "PREMIERES ON JIO HOTSTAR FROM JUNE 6TH",
+            "confidence": 0.92,
+            "box": [
+                [
+                    69.0,
+                    173.0
+                ],
+                [
+                    1050.0,
+                    173.0
+                ],
+                [
+                    1050.0,
+                    210.0
+                ],
+                [
+                    69.0,
+                    210.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.987,
+            "box": [
+                [
+                    11.0,
+                    1017.0
+                ],
+                [
+                    149.0,
+                    1017.0
+                ],
+                [
+                    149.0,
+                    1038.0
+                ],
+                [
+                    11.0,
+                    1038.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHO IS FAN OF RITHU",
+            "confidence": 0.928,
+            "box": [
+                [
+                    533.0,
+                    1013.0
+                ],
+                [
+                    966.0,
+                    1018.0
+                ],
+                [
+                    966.0,
+                    1055.0
+                ],
+                [
+                    533.0,
+                    1051.0
+                ]
+            ]
+        },
+        {
+            "text": "VARMA SCRIPT SELECTION",
+            "confidence": 0.97,
+            "box": [
+                [
+                    539.0,
+                    1056.0
+                ],
+                [
+                    960.0,
+                    1056.0
+                ],
+                [
+                    960.0,
+                    1090.0
+                ],
+                [
+                    539.0,
+                    1090.0
+                ]
+            ]
+        },
+        {
+            "text": "READYGAUNDANDIRAA",
+            "confidence": 0.991,
+            "box": [
+                [
+                    31.0,
+                    1271.0
+                ],
+                [
+                    752.0,
+                    1273.0
+                ],
+                [
+                    752.0,
+                    1324.0
+                ],
+                [
+                    31.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

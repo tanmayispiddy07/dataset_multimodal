@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-03-19_16-25-36_UTC.jpg",
+    "combined_text": "OM NAMAH SHIVAYA LYRICAL SONG\nFROM \"KANNAPPA\"IS OUT NOW\nOm Namas\nADDICTED TOMEMES\nulandh\nCha\n**ME WHILE LISTENING LYRICS",
+    "detailed": [
+        {
+            "text": "OM NAMAH SHIVAYA LYRICAL SONG",
+            "confidence": 0.944,
+            "box": [
+                [
+                    72.0,
+                    113.0
+                ],
+                [
+                    1035.0,
+                    113.0
+                ],
+                [
+                    1035.0,
+                    159.0
+                ],
+                [
+                    72.0,
+                    159.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM \"KANNAPPA\"IS OUT NOW",
+            "confidence": 0.985,
+            "box": [
+                [
+                    114.0,
+                    177.0
+                ],
+                [
+                    977.0,
+                    177.0
+                ],
+                [
+                    977.0,
+                    227.0
+                ],
+                [
+                    114.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "Om Namas",
+            "confidence": 0.913,
+            "box": [
+                [
+                    502.0,
+                    508.0
+                ],
+                [
+                    964.0,
+                    501.0
+                ],
+                [
+                    965.0,
+                    584.0
+                ],
+                [
+                    503.0,
+                    590.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTED TOMEMES",
+            "confidence": 0.954,
+            "box": [
+                [
+                    470.0,
+                    620.0
+                ],
+                [
+                    605.0,
+                    620.0
+                ],
+                [
+                    605.0,
+                    641.0
+                ],
+                [
+                    470.0,
+                    641.0
+                ]
+            ]
+        },
+        {
+            "text": "ulandh",
+            "confidence": 0.913,
+            "box": [
+                [
+                    333.0,
+                    695.0
+                ],
+                [
+                    523.0,
+                    695.0
+                ],
+                [
+                    523.0,
+                    757.0
+                ],
+                [
+                    333.0,
+                    757.0
+                ]
+            ]
+        },
+        {
+            "text": "Cha",
+            "confidence": 0.982,
+            "box": [
+                [
+                    123.0,
+                    707.0
+                ],
+                [
+                    307.0,
+                    701.0
+                ],
+                [
+                    309.0,
+                    744.0
+                ],
+                [
+                    125.0,
+                    750.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHILE LISTENING LYRICS",
+            "confidence": 0.952,
+            "box": [
+                [
+                    412.0,
+                    917.0
+                ],
+                [
+                    1013.0,
+                    920.0
+                ],
+                [
+                    1012.0,
+                    962.0
+                ],
+                [
+                    412.0,
+                    959.0
+                ]
+            ]
+        }
+    ]
+}

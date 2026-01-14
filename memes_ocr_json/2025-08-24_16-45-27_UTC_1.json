@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-08-24_16-45-27_UTC_1.jpg",
+    "combined_text": "Steam has just one active\ngamer in North Korea.\nsarcasm\nMeanwhile, the gamer",
+    "detailed": [
+        {
+            "text": "Steam has just one active",
+            "confidence": 0.987,
+            "box": [
+                [
+                    177.0,
+                    519.0
+                ],
+                [
+                    903.0,
+                    523.0
+                ],
+                [
+                    903.0,
+                    576.0
+                ],
+                [
+                    177.0,
+                    572.0
+                ]
+            ]
+        },
+        {
+            "text": "gamer in North Korea.",
+            "confidence": 1.0,
+            "box": [
+                [
+                    230.0,
+                    598.0
+                ],
+                [
+                    845.0,
+                    589.0
+                ],
+                [
+                    845.0,
+                    646.0
+                ],
+                [
+                    231.0,
+                    655.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    858.0,
+                    1169.0
+                ],
+                [
+                    969.0,
+                    1169.0
+                ],
+                [
+                    969.0,
+                    1192.0
+                ],
+                [
+                    858.0,
+                    1192.0
+                ]
+            ]
+        },
+        {
+            "text": "Meanwhile, the gamer",
+            "confidence": 1.0,
+            "box": [
+                [
+                    194.0,
+                    1263.0
+                ],
+                [
+                    828.0,
+                    1266.0
+                ],
+                [
+                    828.0,
+                    1321.0
+                ],
+                [
+                    194.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

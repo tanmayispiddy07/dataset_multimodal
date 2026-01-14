@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-22_04-27-20_UTC_3.jpg",
+    "combined_text": "ARA\nsarcasm\nThe Manmohan Singh government\neffectively stopped it in 2013. So today's\nannouncement is more a formal policy,\nnot a shocking first-time move.",
+    "detailed": [
+        {
+            "text": "ARA",
+            "confidence": 0.99,
+            "box": [
+                [
+                    31.0,
+                    862.0
+                ],
+                [
+                    173.0,
+                    872.0
+                ],
+                [
+                    169.0,
+                    935.0
+                ],
+                [
+                    26.0,
+                    925.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    481.0,
+                    1019.0
+                ],
+                [
+                    592.0,
+                    1019.0
+                ],
+                [
+                    592.0,
+                    1042.0
+                ],
+                [
+                    481.0,
+                    1042.0
+                ]
+            ]
+        },
+        {
+            "text": "The Manmohan Singh government",
+            "confidence": 0.966,
+            "box": [
+                [
+                    96.0,
+                    1070.0
+                ],
+                [
+                    987.0,
+                    1075.0
+                ],
+                [
+                    987.0,
+                    1125.0
+                ],
+                [
+                    96.0,
+                    1119.0
+                ]
+            ]
+        },
+        {
+            "text": "effectively stopped it in 2013. So today's",
+            "confidence": 0.998,
+            "box": [
+                [
+                    25.0,
+                    1136.0
+                ],
+                [
+                    1056.0,
+                    1136.0
+                ],
+                [
+                    1056.0,
+                    1193.0
+                ],
+                [
+                    25.0,
+                    1193.0
+                ]
+            ]
+        },
+        {
+            "text": "announcement is more a formal policy,",
+            "confidence": 0.987,
+            "box": [
+                [
+                    34.0,
+                    1203.0
+                ],
+                [
+                    1039.0,
+                    1207.0
+                ],
+                [
+                    1039.0,
+                    1261.0
+                ],
+                [
+                    34.0,
+                    1256.0
+                ]
+            ]
+        },
+        {
+            "text": "not a shocking first-time move.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    139.0,
+                    1274.0
+                ],
+                [
+                    939.0,
+                    1277.0
+                ],
+                [
+                    939.0,
+                    1322.0
+                ],
+                [
+                    139.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

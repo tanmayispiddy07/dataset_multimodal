@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-02-26_13-18-12_UTC.jpg",
+    "combined_text": "Presenting You Vishwas\nShankar's\n\"innocent\" Movie Title.\nIntrodacing Vishwas Shankar\ninm.cent\nVishwos Shankor\nSahane Murthy\nDirecter\nDOP Guru p Rol\nimpressive acham Tamanna\nBoyfriend lane unnadu..\nSRIBALAIIVIDE",
+    "detailed": [
+        {
+            "text": "Presenting You Vishwas",
+            "confidence": 0.973,
+            "box": [
+                [
+                    177.0,
+                    17.0
+                ],
+                [
+                    702.0,
+                    19.0
+                ],
+                [
+                    701.0,
+                    66.0
+                ],
+                [
+                    177.0,
+                    63.0
+                ]
+            ]
+        },
+        {
+            "text": "Shankar's",
+            "confidence": 0.983,
+            "box": [
+                [
+                    676.0,
+                    20.0
+                ],
+                [
+                    908.0,
+                    20.0
+                ],
+                [
+                    908.0,
+                    61.0
+                ],
+                [
+                    676.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "\"innocent\" Movie Title.",
+            "confidence": 0.96,
+            "box": [
+                [
+                    300.0,
+                    57.0
+                ],
+                [
+                    783.0,
+                    65.0
+                ],
+                [
+                    782.0,
+                    124.0
+                ],
+                [
+                    299.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "Introdacing Vishwas Shankar",
+            "confidence": 0.784,
+            "box": [
+                [
+                    72.0,
+                    583.0
+                ],
+                [
+                    198.0,
+                    583.0
+                ],
+                [
+                    198.0,
+                    601.0
+                ],
+                [
+                    72.0,
+                    601.0
+                ]
+            ]
+        },
+        {
+            "text": "inm.cent",
+            "confidence": 0.777,
+            "box": [
+                [
+                    118.0,
+                    615.0
+                ],
+                [
+                    410.0,
+                    621.0
+                ],
+                [
+                    409.0,
+                    704.0
+                ],
+                [
+                    116.0,
+                    698.0
+                ]
+            ]
+        },
+        {
+            "text": "Vishwos Shankor",
+            "confidence": 0.839,
+            "box": [
+                [
+                    135.0,
+                    717.0
+                ],
+                [
+                    212.0,
+                    714.0
+                ],
+                [
+                    212.0,
+                    732.0
+                ],
+                [
+                    135.0,
+                    735.0
+                ]
+            ]
+        },
+        {
+            "text": "Sahane Murthy",
+            "confidence": 0.783,
+            "box": [
+                [
+                    288.0,
+                    712.0
+                ],
+                [
+                    360.0,
+                    717.0
+                ],
+                [
+                    358.0,
+                    736.0
+                ],
+                [
+                    286.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "Directer",
+            "confidence": 0.745,
+            "box": [
+                [
+                    307.0,
+                    708.0
+                ],
+                [
+                    338.0,
+                    708.0
+                ],
+                [
+                    338.0,
+                    720.0
+                ],
+                [
+                    307.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "DOP Guru p Rol",
+            "confidence": 0.682,
+            "box": [
+                [
+                    207.0,
+                    738.0
+                ],
+                [
+                    284.0,
+                    738.0
+                ],
+                [
+                    284.0,
+                    756.0
+                ],
+                [
+                    207.0,
+                    756.0
+                ]
+            ]
+        },
+        {
+            "text": "impressive acham Tamanna",
+            "confidence": 0.989,
+            "box": [
+                [
+                    283.0,
+                    1049.0
+                ],
+                [
+                    844.0,
+                    1049.0
+                ],
+                [
+                    844.0,
+                    1092.0
+                ],
+                [
+                    283.0,
+                    1092.0
+                ]
+            ]
+        },
+        {
+            "text": "Boyfriend lane unnadu..",
+            "confidence": 0.982,
+            "box": [
+                [
+                    318.0,
+                    1098.0
+                ],
+                [
+                    798.0,
+                    1098.0
+                ],
+                [
+                    798.0,
+                    1138.0
+                ],
+                [
+                    318.0,
+                    1138.0
+                ]
+            ]
+        },
+        {
+            "text": "SRIBALAIIVIDE",
+            "confidence": 0.887,
+            "box": [
+                [
+                    855.0,
+                    1122.0
+                ],
+                [
+                    988.0,
+                    1122.0
+                ],
+                [
+                    988.0,
+                    1137.0
+                ],
+                [
+                    855.0,
+                    1137.0
+                ]
+            ]
+        }
+    ]
+}

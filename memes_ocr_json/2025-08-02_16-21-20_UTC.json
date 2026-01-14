@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-08-02_16-21-20_UTC.jpg",
+    "combined_text": "WEEKEND SUGGESTION WEBSERIES\nMANDALA MU*DERS (TELUGU & HINDI)\nAVAILABLE IN NETFLIX\nFAMILY WATCH?! YES\nADDICTEDTOMEMES\nOKA EPISODECHUDANDI\nMOTHAM MERECHUSTHARU\nAYIPOYYEVARAKU",
+    "detailed": [
+        {
+            "text": "WEEKEND SUGGESTION WEBSERIES",
+            "confidence": 0.971,
+            "box": [
+                [
+                    148.0,
+                    31.0
+                ],
+                [
+                    942.0,
+                    31.0
+                ],
+                [
+                    942.0,
+                    68.0
+                ],
+                [
+                    148.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "MANDALA MU*DERS (TELUGU & HINDI)",
+            "confidence": 0.971,
+            "box": [
+                [
+                    114.0,
+                    85.0
+                ],
+                [
+                    989.0,
+                    85.0
+                ],
+                [
+                    989.0,
+                    126.0
+                ],
+                [
+                    114.0,
+                    126.0
+                ]
+            ]
+        },
+        {
+            "text": "AVAILABLE IN NETFLIX",
+            "confidence": 0.988,
+            "box": [
+                [
+                    292.0,
+                    140.0
+                ],
+                [
+                    800.0,
+                    140.0
+                ],
+                [
+                    800.0,
+                    182.0
+                ],
+                [
+                    292.0,
+                    182.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH?! YES",
+            "confidence": 0.944,
+            "box": [
+                [
+                    315.0,
+                    196.0
+                ],
+                [
+                    786.0,
+                    196.0
+                ],
+                [
+                    786.0,
+                    237.0
+                ],
+                [
+                    315.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.989,
+            "box": [
+                [
+                    55.0,
+                    939.0
+                ],
+                [
+                    217.0,
+                    939.0
+                ],
+                [
+                    217.0,
+                    960.0
+                ],
+                [
+                    55.0,
+                    960.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA EPISODECHUDANDI",
+            "confidence": 0.972,
+            "box": [
+                [
+                    364.0,
+                    1163.0
+                ],
+                [
+                    949.0,
+                    1163.0
+                ],
+                [
+                    949.0,
+                    1200.0
+                ],
+                [
+                    364.0,
+                    1200.0
+                ]
+            ]
+        },
+        {
+            "text": "MOTHAM MERECHUSTHARU",
+            "confidence": 0.969,
+            "box": [
+                [
+                    328.0,
+                    1220.0
+                ],
+                [
+                    986.0,
+                    1220.0
+                ],
+                [
+                    986.0,
+                    1257.0
+                ],
+                [
+                    328.0,
+                    1257.0
+                ]
+            ]
+        },
+        {
+            "text": "AYIPOYYEVARAKU",
+            "confidence": 0.996,
+            "box": [
+                [
+                    430.0,
+                    1272.0
+                ],
+                [
+                    870.0,
+                    1272.0
+                ],
+                [
+                    870.0,
+                    1318.0
+                ],
+                [
+                    430.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

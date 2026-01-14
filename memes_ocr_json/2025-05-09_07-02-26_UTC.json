@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-05-09_07-02-26_UTC.jpg",
+    "combined_text": "sarcasm\n'Cricket not above nation'\n- The BCCI has suspended IPL 2025\ndue to India & Pakistan situation",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    487.0,
+                    943.0
+                ],
+                [
+                    595.0,
+                    943.0
+                ],
+                [
+                    595.0,
+                    965.0
+                ],
+                [
+                    487.0,
+                    965.0
+                ]
+            ]
+        },
+        {
+            "text": "'Cricket not above nation'",
+            "confidence": 0.975,
+            "box": [
+                [
+                    65.0,
+                    1019.0
+                ],
+                [
+                    1014.0,
+                    1022.0
+                ],
+                [
+                    1014.0,
+                    1083.0
+                ],
+                [
+                    65.0,
+                    1080.0
+                ]
+            ]
+        },
+        {
+            "text": "- The BCCI has suspended IPL 2025",
+            "confidence": 0.974,
+            "box": [
+                [
+                    100.0,
+                    1138.0
+                ],
+                [
+                    980.0,
+                    1139.0
+                ],
+                [
+                    980.0,
+                    1193.0
+                ],
+                [
+                    100.0,
+                    1191.0
+                ]
+            ]
+        },
+        {
+            "text": "due to India & Pakistan situation",
+            "confidence": 0.989,
+            "box": [
+                [
+                    94.0,
+                    1218.0
+                ],
+                [
+                    934.0,
+                    1218.0
+                ],
+                [
+                    934.0,
+                    1266.0
+                ],
+                [
+                    94.0,
+                    1266.0
+                ]
+            ]
+        }
+    ]
+}

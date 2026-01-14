@@ -1,0 +1,28 @@
+{
+    "image_name": "2023-04-25_06-37-36_UTC.jpg",
+    "combined_text": "GEN NEXTMOVIES",
+    "detailed": [
+        {
+            "text": "GEN NEXTMOVIES",
+            "confidence": 0.877,
+            "box": [
+                [
+                    73.0,
+                    227.0
+                ],
+                [
+                    303.0,
+                    164.0
+                ],
+                [
+                    317.0,
+                    214.0
+                ],
+                [
+                    86.0,
+                    277.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-05-30_11-53-58_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nMUSIC DIRECTOR GOWRA HARI FOR MIRAI\n**ME WHILE LISTENINg MIRAI BgM",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    470.0,
+                    379.0
+                ],
+                [
+                    618.0,
+                    378.0
+                ],
+                [
+                    618.0,
+                    399.0
+                ],
+                [
+                    470.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSIC DIRECTOR GOWRA HARI FOR MIRAI",
+            "confidence": 0.932,
+            "box": [
+                [
+                    91.0,
+                    551.0
+                ],
+                [
+                    998.0,
+                    552.0
+                ],
+                [
+                    998.0,
+                    591.0
+                ],
+                [
+                    91.0,
+                    589.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHILE LISTENINg MIRAI BgM",
+            "confidence": 0.76,
+            "box": [
+                [
+                    315.0,
+                    605.0
+                ],
+                [
+                    1000.0,
+                    612.0
+                ],
+                [
+                    1000.0,
+                    661.0
+                ],
+                [
+                    315.0,
+                    653.0
+                ]
+            ]
+        }
+    ]
+}

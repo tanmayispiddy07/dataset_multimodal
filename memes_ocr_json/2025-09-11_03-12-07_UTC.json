@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-09-11_03-12-07_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEWOF THE FILM\n'KISHKINDHAPURI\"(WATCHED PREMIERE)\nINTERESTING & ENGAGING FIRST\nHALF WITH\nDECENT 2ND HALF\nADDICTEDTOMEMES\nSAHU GARAPAT\nKOUSHIK PEGALLAPATI\nRELEASING WORLDWIDE\nONSEP12TH2025\nTHE MOVIE HAS THE BEST SOUND DESIGN THAT YOU\nSHOULD DEFINITELY EXPERIENCE IN THE THEATER ITSELF.\nINTERVAL BLOCK IS TOO GOOD AND BELLAM ANNA\nPERFORMANCE IMPRESSES EVERYONE AND CLIMAX\nTWIST WILL GIVE US A HINT.MY BEST HORROR FILM\nEXPERIENCE FROM TELUGU IN RECENT TIMES\nFAMILY WATCH?! YES",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEWOF THE FILM",
+            "confidence": 0.938,
+            "box": [
+                [
+                    159.0,
+                    24.0
+                ],
+                [
+                    930.0,
+                    25.0
+                ],
+                [
+                    929.0,
+                    63.0
+                ],
+                [
+                    159.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "'KISHKINDHAPURI\"(WATCHED PREMIERE)",
+            "confidence": 0.959,
+            "box": [
+                [
+                    84.0,
+                    81.0
+                ],
+                [
+                    1011.0,
+                    81.0
+                ],
+                [
+                    1011.0,
+                    118.0
+                ],
+                [
+                    84.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERESTING & ENGAGING FIRST",
+            "confidence": 0.959,
+            "box": [
+                [
+                    166.0,
+                    153.0
+                ],
+                [
+                    945.0,
+                    153.0
+                ],
+                [
+                    945.0,
+                    191.0
+                ],
+                [
+                    166.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "HALF WITH",
+            "confidence": 0.945,
+            "box": [
+                [
+                    183.0,
+                    212.0
+                ],
+                [
+                    454.0,
+                    210.0
+                ],
+                [
+                    454.0,
+                    249.0
+                ],
+                [
+                    183.0,
+                    251.0
+                ]
+            ]
+        },
+        {
+            "text": "DECENT 2ND HALF",
+            "confidence": 0.952,
+            "box": [
+                [
+                    465.0,
+                    212.0
+                ],
+                [
+                    913.0,
+                    212.0
+                ],
+                [
+                    913.0,
+                    249.0
+                ],
+                [
+                    465.0,
+                    249.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    488.0,
+                    417.0
+                ],
+                [
+                    627.0,
+                    417.0
+                ],
+                [
+                    627.0,
+                    433.0
+                ],
+                [
+                    488.0,
+                    433.0
+                ]
+            ]
+        },
+        {
+            "text": "SAHU GARAPAT",
+            "confidence": 0.945,
+            "box": [
+                [
+                    172.0,
+                    762.0
+                ],
+                [
+                    267.0,
+                    762.0
+                ],
+                [
+                    267.0,
+                    779.0
+                ],
+                [
+                    172.0,
+                    779.0
+                ]
+            ]
+        },
+        {
+            "text": "KOUSHIK PEGALLAPATI",
+            "confidence": 0.967,
+            "box": [
+                [
+                    287.0,
+                    762.0
+                ],
+                [
+                    425.0,
+                    762.0
+                ],
+                [
+                    425.0,
+                    779.0
+                ],
+                [
+                    287.0,
+                    779.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING WORLDWIDE",
+            "confidence": 0.973,
+            "box": [
+                [
+                    195.0,
+                    935.0
+                ],
+                [
+                    429.0,
+                    935.0
+                ],
+                [
+                    429.0,
+                    960.0
+                ],
+                [
+                    195.0,
+                    960.0
+                ]
+            ]
+        },
+        {
+            "text": "ONSEP12TH2025",
+            "confidence": 0.981,
+            "box": [
+                [
+                    167.0,
+                    964.0
+                ],
+                [
+                    456.0,
+                    964.0
+                ],
+                [
+                    456.0,
+                    1004.0
+                ],
+                [
+                    167.0,
+                    1004.0
+                ]
+            ]
+        },
+        {
+            "text": "THE MOVIE HAS THE BEST SOUND DESIGN THAT YOU",
+            "confidence": 0.947,
+            "box": [
+                [
+                    70.0,
+                    1029.0
+                ],
+                [
+                    1018.0,
+                    1029.0
+                ],
+                [
+                    1018.0,
+                    1058.0
+                ],
+                [
+                    70.0,
+                    1058.0
+                ]
+            ]
+        },
+        {
+            "text": "SHOULD DEFINITELY EXPERIENCE IN THE THEATER ITSELF.",
+            "confidence": 0.947,
+            "box": [
+                [
+                    28.0,
+                    1073.0
+                ],
+                [
+                    1060.0,
+                    1073.0
+                ],
+                [
+                    1060.0,
+                    1102.0
+                ],
+                [
+                    28.0,
+                    1102.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERVAL BLOCK IS TOO GOOD AND BELLAM ANNA",
+            "confidence": 0.936,
+            "box": [
+                [
+                    69.0,
+                    1115.0
+                ],
+                [
+                    1020.0,
+                    1116.0
+                ],
+                [
+                    1019.0,
+                    1150.0
+                ],
+                [
+                    69.0,
+                    1148.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFORMANCE IMPRESSES EVERYONE AND CLIMAX",
+            "confidence": 0.961,
+            "box": [
+                [
+                    70.0,
+                    1160.0
+                ],
+                [
+                    1018.0,
+                    1161.0
+                ],
+                [
+                    1018.0,
+                    1194.0
+                ],
+                [
+                    70.0,
+                    1193.0
+                ]
+            ]
+        },
+        {
+            "text": "TWIST WILL GIVE US A HINT.MY BEST HORROR FILM",
+            "confidence": 0.931,
+            "box": [
+                [
+                    63.0,
+                    1204.0
+                ],
+                [
+                    1022.0,
+                    1207.0
+                ],
+                [
+                    1022.0,
+                    1240.0
+                ],
+                [
+                    63.0,
+                    1238.0
+                ]
+            ]
+        },
+        {
+            "text": "EXPERIENCE FROM TELUGU IN RECENT TIMES",
+            "confidence": 0.959,
+            "box": [
+                [
+                    134.0,
+                    1252.0
+                ],
+                [
+                    955.0,
+                    1252.0
+                ],
+                [
+                    955.0,
+                    1285.0
+                ],
+                [
+                    134.0,
+                    1285.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH?! YES",
+            "confidence": 0.972,
+            "box": [
+                [
+                    357.0,
+                    1296.0
+                ],
+                [
+                    733.0,
+                    1296.0
+                ],
+                [
+                    733.0,
+                    1330.0
+                ],
+                [
+                    357.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

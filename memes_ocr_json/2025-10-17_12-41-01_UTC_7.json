@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-17_12-41-01_UTC_7.jpg",
+    "combined_text": "Some Small Conhrubetien\nIm\nKishve Dasai\nMaa Khammam valla Kosam",
+    "detailed": [
+        {
+            "text": "Some Small Conhrubetien",
+            "confidence": 0.787,
+            "box": [
+                [
+                    183.0,
+                    409.0
+                ],
+                [
+                    508.0,
+                    448.0
+                ],
+                [
+                    503.0,
+                    490.0
+                ],
+                [
+                    178.0,
+                    451.0
+                ]
+            ]
+        },
+        {
+            "text": "Im",
+            "confidence": 0.746,
+            "box": [
+                [
+                    257.0,
+                    458.0
+                ],
+                [
+                    342.0,
+                    471.0
+                ],
+                [
+                    337.0,
+                    503.0
+                ],
+                [
+                    253.0,
+                    490.0
+                ]
+            ]
+        },
+        {
+            "text": "Kishve Dasai",
+            "confidence": 0.822,
+            "box": [
+                [
+                    150.0,
+                    482.0
+                ],
+                [
+                    466.0,
+                    530.0
+                ],
+                [
+                    456.0,
+                    598.0
+                ],
+                [
+                    139.0,
+                    551.0
+                ]
+            ]
+        },
+        {
+            "text": "Maa Khammam valla Kosam",
+            "confidence": 0.997,
+            "box": [
+                [
+                    153.0,
+                    677.0
+                ],
+                [
+                    880.0,
+                    678.0
+                ],
+                [
+                    880.0,
+                    730.0
+                ],
+                [
+                    153.0,
+                    729.0
+                ]
+            ]
+        }
+    ]
+}

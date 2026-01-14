@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-04-02_11-37-20_UTC.jpg",
+    "combined_text": "FROM SHARING THE SCREEN WITH VIJAY DEVERAKONDA IN KUSHI TO\nANIRUDH'S JOURNEY HAS BEEN REMARKABLE!\nADDICTEDTOMEMES\nPLTAFORC\nLIFE LO CHALA KASTAPADDAVU ANI ARDAM\nAVUTHUNDI SERIES VACHAKA CHUSI BREAK\nIVVADANIKI READYGA UNNAMU",
+    "detailed": [
+        {
+            "text": "FROM SHARING THE SCREEN WITH VIJAY DEVERAKONDA IN KUSHI TO",
+            "confidence": 0.934,
+            "box": [
+                [
+                    17.0,
+                    50.0
+                ],
+                [
+                    1056.0,
+                    50.0
+                ],
+                [
+                    1056.0,
+                    74.0
+                ],
+                [
+                    17.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIRUDH'S JOURNEY HAS BEEN REMARKABLE!",
+            "confidence": 0.953,
+            "box": [
+                [
+                    184.0,
+                    121.0
+                ],
+                [
+                    883.0,
+                    121.0
+                ],
+                [
+                    883.0,
+                    146.0
+                ],
+                [
+                    184.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    21.0,
+                    950.0
+                ],
+                [
+                    165.0,
+                    950.0
+                ],
+                [
+                    165.0,
+                    971.0
+                ],
+                [
+                    21.0,
+                    971.0
+                ]
+            ]
+        },
+        {
+            "text": "PLTAFORC",
+            "confidence": 0.755,
+            "box": [
+                [
+                    444.0,
+                    1000.0
+                ],
+                [
+                    500.0,
+                    997.0
+                ],
+                [
+                    501.0,
+                    1015.0
+                ],
+                [
+                    445.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "LIFE LO CHALA KASTAPADDAVU ANI ARDAM",
+            "confidence": 0.949,
+            "box": [
+                [
+                    128.0,
+                    1176.0
+                ],
+                [
+                    982.0,
+                    1176.0
+                ],
+                [
+                    982.0,
+                    1209.0
+                ],
+                [
+                    128.0,
+                    1209.0
+                ]
+            ]
+        },
+        {
+            "text": "AVUTHUNDI SERIES VACHAKA CHUSI BREAK",
+            "confidence": 0.947,
+            "box": [
+                [
+                    136.0,
+                    1224.0
+                ],
+                [
+                    973.0,
+                    1224.0
+                ],
+                [
+                    973.0,
+                    1257.0
+                ],
+                [
+                    136.0,
+                    1257.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVADANIKI READYGA UNNAMU",
+            "confidence": 0.962,
+            "box": [
+                [
+                    229.0,
+                    1270.0
+                ],
+                [
+                    862.0,
+                    1270.0
+                ],
+                [
+                    862.0,
+                    1307.0
+                ],
+                [
+                    229.0,
+                    1307.0
+                ]
+            ]
+        }
+    ]
+}

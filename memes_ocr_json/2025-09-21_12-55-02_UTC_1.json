@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-09-21_12-55-02_UTC_1.jpg",
+    "combined_text": "HE\nHindustan Times\nIs Abhilash Thapliyal not going to\nbe a part of Aspirants'third\nseason?Here's what rumour...\n16hours ago\nRumour has it, Abhilash Thapliyal might\nnot return for Aspirants season 3\nand fans are heartbroken\nSWIPEE",
+    "detailed": [
+        {
+            "text": "HE",
+            "confidence": 0.735,
+            "box": [
+                [
+                    174.0,
+                    56.0
+                ],
+                [
+                    208.0,
+                    56.0
+                ],
+                [
+                    208.0,
+                    84.0
+                ],
+                [
+                    174.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "Hindustan Times",
+            "confidence": 0.983,
+            "box": [
+                [
+                    224.0,
+                    56.0
+                ],
+                [
+                    412.0,
+                    56.0
+                ],
+                [
+                    412.0,
+                    83.0
+                ],
+                [
+                    224.0,
+                    83.0
+                ]
+            ]
+        },
+        {
+            "text": "Is Abhilash Thapliyal not going to",
+            "confidence": 0.956,
+            "box": [
+                [
+                    172.0,
+                    110.0
+                ],
+                [
+                    639.0,
+                    114.0
+                ],
+                [
+                    638.0,
+                    145.0
+                ],
+                [
+                    171.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "be a part of Aspirants'third",
+            "confidence": 0.967,
+            "box": [
+                [
+                    172.0,
+                    152.0
+                ],
+                [
+                    567.0,
+                    152.0
+                ],
+                [
+                    567.0,
+                    183.0
+                ],
+                [
+                    172.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "season?Here's what rumour...",
+            "confidence": 0.955,
+            "box": [
+                [
+                    169.0,
+                    191.0
+                ],
+                [
+                    605.0,
+                    193.0
+                ],
+                [
+                    605.0,
+                    224.0
+                ],
+                [
+                    169.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "16hours ago",
+            "confidence": 0.976,
+            "box": [
+                [
+                    178.0,
+                    249.0
+                ],
+                [
+                    317.0,
+                    254.0
+                ],
+                [
+                    316.0,
+                    279.0
+                ],
+                [
+                    177.0,
+                    274.0
+                ]
+            ]
+        },
+        {
+            "text": "Rumour has it, Abhilash Thapliyal might",
+            "confidence": 0.99,
+            "box": [
+                [
+                    25.0,
+                    1093.0
+                ],
+                [
+                    1055.0,
+                    1097.0
+                ],
+                [
+                    1055.0,
+                    1146.0
+                ],
+                [
+                    25.0,
+                    1142.0
+                ]
+            ]
+        },
+        {
+            "text": "not return for Aspirants season 3",
+            "confidence": 0.967,
+            "box": [
+                [
+                    111.0,
+                    1155.0
+                ],
+                [
+                    960.0,
+                    1153.0
+                ],
+                [
+                    960.0,
+                    1198.0
+                ],
+                [
+                    111.0,
+                    1200.0
+                ]
+            ]
+        },
+        {
+            "text": "and fans are heartbroken",
+            "confidence": 0.978,
+            "box": [
+                [
+                    169.0,
+                    1220.0
+                ],
+                [
+                    824.0,
+                    1220.0
+                ],
+                [
+                    824.0,
+                    1269.0
+                ],
+                [
+                    169.0,
+                    1269.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPEE",
+            "confidence": 0.879,
+            "box": [
+                [
+                    475.0,
+                    1291.0
+                ],
+                [
+                    588.0,
+                    1291.0
+                ],
+                [
+                    588.0,
+                    1324.0
+                ],
+                [
+                    475.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-17_07-26-40_UTC_2.jpg",
+    "combined_text": "apollo\nRES\nsarcasm\n1E\nWe ask for the pitch to aid spinners from\nday one so that toss doesn't become crucial\nHad we won the Test you wouldn't be asking\nor discussing so much about pitch. We've\ngot the guys to deliver in any condition\nGautam Gambhir",
+    "detailed": [
+        {
+            "text": "apollo",
+            "confidence": 0.893,
+            "box": [
+                [
+                    460.0,
+                    399.0
+                ],
+                [
+                    584.0,
+                    379.0
+                ],
+                [
+                    592.0,
+                    425.0
+                ],
+                [
+                    468.0,
+                    445.0
+                ]
+            ]
+        },
+        {
+            "text": "RES",
+            "confidence": 0.72,
+            "box": [
+                [
+                    539.0,
+                    427.0
+                ],
+                [
+                    583.0,
+                    420.0
+                ],
+                [
+                    586.0,
+                    435.0
+                ],
+                [
+                    542.0,
+                    443.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.982,
+            "box": [
+                [
+                    482.0,
+                    855.0
+                ],
+                [
+                    598.0,
+                    855.0
+                ],
+                [
+                    598.0,
+                    878.0
+                ],
+                [
+                    482.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "text": "1E",
+            "confidence": 0.539,
+            "box": [
+                [
+                    484.0,
+                    895.0
+                ],
+                [
+                    593.0,
+                    895.0
+                ],
+                [
+                    593.0,
+                    927.0
+                ],
+                [
+                    484.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "text": "We ask for the pitch to aid spinners from",
+            "confidence": 0.967,
+            "box": [
+                [
+                    84.0,
+                    963.0
+                ],
+                [
+                    996.0,
+                    966.0
+                ],
+                [
+                    996.0,
+                    1007.0
+                ],
+                [
+                    84.0,
+                    1004.0
+                ]
+            ]
+        },
+        {
+            "text": "day one so that toss doesn't become crucial",
+            "confidence": 0.983,
+            "box": [
+                [
+                    38.0,
+                    1025.0
+                ],
+                [
+                    1039.0,
+                    1022.0
+                ],
+                [
+                    1039.0,
+                    1066.0
+                ],
+                [
+                    38.0,
+                    1068.0
+                ]
+            ]
+        },
+        {
+            "text": "Had we won the Test you wouldn't be asking",
+            "confidence": 0.999,
+            "box": [
+                [
+                    35.0,
+                    1078.0
+                ],
+                [
+                    1039.0,
+                    1084.0
+                ],
+                [
+                    1039.0,
+                    1132.0
+                ],
+                [
+                    35.0,
+                    1126.0
+                ]
+            ]
+        },
+        {
+            "text": "or discussing so much about pitch. We've",
+            "confidence": 0.987,
+            "box": [
+                [
+                    72.0,
+                    1144.0
+                ],
+                [
+                    1010.0,
+                    1144.0
+                ],
+                [
+                    1010.0,
+                    1188.0
+                ],
+                [
+                    72.0,
+                    1188.0
+                ]
+            ]
+        },
+        {
+            "text": "got the guys to deliver in any condition",
+            "confidence": 0.999,
+            "box": [
+                [
+                    94.0,
+                    1204.0
+                ],
+                [
+                    983.0,
+                    1199.0
+                ],
+                [
+                    983.0,
+                    1248.0
+                ],
+                [
+                    94.0,
+                    1254.0
+                ]
+            ]
+        },
+        {
+            "text": "Gautam Gambhir",
+            "confidence": 0.975,
+            "box": [
+                [
+                    373.0,
+                    1279.0
+                ],
+                [
+                    720.0,
+                    1279.0
+                ],
+                [
+                    720.0,
+                    1314.0
+                ],
+                [
+                    373.0,
+                    1314.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-03-09_04-02-05_UTC.jpg",
+    "combined_text": "WEEKEND MOVIE SUGGESTION\nUDAL (MALAYALAM)\nAVAILABLE IN PRIME\nFAMILY WATCH?! STRICTLY NO\nADDICTEDTOMEMES\nAUNTY BAGUNDI ANI POTHE\nINTHA PANI CHESARA",
+    "detailed": [
+        {
+            "text": "WEEKEND MOVIE SUGGESTION",
+            "confidence": 0.962,
+            "box": [
+                [
+                    177.0,
+                    18.0
+                ],
+                [
+                    966.0,
+                    18.0
+                ],
+                [
+                    966.0,
+                    60.0
+                ],
+                [
+                    177.0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "text": "UDAL (MALAYALAM)",
+            "confidence": 0.893,
+            "box": [
+                [
+                    314.0,
+                    81.0
+                ],
+                [
+                    830.0,
+                    81.0
+                ],
+                [
+                    830.0,
+                    127.0
+                ],
+                [
+                    314.0,
+                    127.0
+                ]
+            ]
+        },
+        {
+            "text": "AVAILABLE IN PRIME",
+            "confidence": 0.972,
+            "box": [
+                [
+                    314.0,
+                    145.0
+                ],
+                [
+                    830.0,
+                    145.0
+                ],
+                [
+                    830.0,
+                    191.0
+                ],
+                [
+                    314.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH?! STRICTLY NO",
+            "confidence": 0.971,
+            "box": [
+                [
+                    188.0,
+                    212.0
+                ],
+                [
+                    951.0,
+                    212.0
+                ],
+                [
+                    951.0,
+                    254.0
+                ],
+                [
+                    188.0,
+                    254.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.985,
+            "box": [
+                [
+                    245.0,
+                    842.0
+                ],
+                [
+                    390.0,
+                    842.0
+                ],
+                [
+                    390.0,
+                    859.0
+                ],
+                [
+                    245.0,
+                    859.0
+                ]
+            ]
+        },
+        {
+            "text": "AUNTY BAGUNDI ANI POTHE",
+            "confidence": 0.948,
+            "box": [
+                [
+                    195.0,
+                    1233.0
+                ],
+                [
+                    782.0,
+                    1233.0
+                ],
+                [
+                    782.0,
+                    1267.0
+                ],
+                [
+                    195.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "INTHA PANI CHESARA",
+            "confidence": 0.956,
+            "box": [
+                [
+                    260.0,
+                    1282.0
+                ],
+                [
+                    719.0,
+                    1282.0
+                ],
+                [
+                    719.0,
+                    1320.0
+                ],
+                [
+                    260.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

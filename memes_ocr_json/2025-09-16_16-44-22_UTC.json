@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-09-16_16-44-22_UTC.jpg",
+    "combined_text": "NARENDRA MODI BIOPIC ON CARDS\nANNOUNCEMENT AT TOMMOROW MORNING IIAM\nSlR\nA film from Bharat to the world\nwill be announced\non SEPTEMBER 17\nPRODUCTION NO.2\nOVEER KEDDYM\nADDICTEDTOMEMES\nAHAAA YEDO GATTIGANE\nPLAN CHESINATTU UNNARU",
+    "detailed": [
+        {
+            "text": "NARENDRA MODI BIOPIC ON CARDS",
+            "confidence": 0.954,
+            "box": [
+                [
+                    177.0,
+                    59.0
+                ],
+                [
+                    904.0,
+                    59.0
+                ],
+                [
+                    904.0,
+                    92.0
+                ],
+                [
+                    177.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "ANNOUNCEMENT AT TOMMOROW MORNING IIAM",
+            "confidence": 0.951,
+            "box": [
+                [
+                    41.0,
+                    107.0
+                ],
+                [
+                    1045.0,
+                    107.0
+                ],
+                [
+                    1045.0,
+                    145.0
+                ],
+                [
+                    41.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "SlR",
+            "confidence": 0.589,
+            "box": [
+                [
+                    984.0,
+                    233.0
+                ],
+                [
+                    1062.0,
+                    233.0
+                ],
+                [
+                    1062.0,
+                    293.0
+                ],
+                [
+                    984.0,
+                    293.0
+                ]
+            ]
+        },
+        {
+            "text": "A film from Bharat to the world",
+            "confidence": 0.939,
+            "box": [
+                [
+                    532.0,
+                    355.0
+                ],
+                [
+                    721.0,
+                    355.0
+                ],
+                [
+                    721.0,
+                    372.0
+                ],
+                [
+                    532.0,
+                    372.0
+                ]
+            ]
+        },
+        {
+            "text": "will be announced",
+            "confidence": 0.967,
+            "box": [
+                [
+                    570.0,
+                    375.0
+                ],
+                [
+                    685.0,
+                    375.0
+                ],
+                [
+                    685.0,
+                    396.0
+                ],
+                [
+                    570.0,
+                    396.0
+                ]
+            ]
+        },
+        {
+            "text": "on SEPTEMBER 17",
+            "confidence": 0.908,
+            "box": [
+                [
+                    560.0,
+                    394.0
+                ],
+                [
+                    689.0,
+                    394.0
+                ],
+                [
+                    689.0,
+                    415.0
+                ],
+                [
+                    560.0,
+                    415.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCTION NO.2",
+            "confidence": 0.954,
+            "box": [
+                [
+                    582.0,
+                    873.0
+                ],
+                [
+                    969.0,
+                    871.0
+                ],
+                [
+                    969.0,
+                    910.0
+                ],
+                [
+                    582.0,
+                    912.0
+                ]
+            ]
+        },
+        {
+            "text": "OVEER KEDDYM",
+            "confidence": 0.872,
+            "box": [
+                [
+                    713.0,
+                    914.0
+                ],
+                [
+                    844.0,
+                    913.0
+                ],
+                [
+                    844.0,
+                    934.0
+                ],
+                [
+                    713.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    894.0,
+                    1059.0
+                ],
+                [
+                    1025.0,
+                    1059.0
+                ],
+                [
+                    1025.0,
+                    1076.0
+                ],
+                [
+                    894.0,
+                    1076.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAAA YEDO GATTIGANE",
+            "confidence": 0.95,
+            "box": [
+                [
+                    467.0,
+                    1229.0
+                ],
+                [
+                    1005.0,
+                    1229.0
+                ],
+                [
+                    1005.0,
+                    1267.0
+                ],
+                [
+                    467.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "PLAN CHESINATTU UNNARU",
+            "confidence": 0.968,
+            "box": [
+                [
+                    444.0,
+                    1281.0
+                ],
+                [
+                    1015.0,
+                    1281.0
+                ],
+                [
+                    1015.0,
+                    1318.0
+                ],
+                [
+                    444.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

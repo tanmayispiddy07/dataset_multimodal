@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-04-30_22-48-07_UTC.jpg",
+    "combined_text": "JOKE ESAVA\nNAVADDAM MARICHIPOYA",
+    "detailed": [
+        {
+            "text": "JOKE ESAVA",
+            "confidence": 0.963,
+            "box": [
+                [
+                    53.0,
+                    9.0
+                ],
+                [
+                    239.0,
+                    9.0
+                ],
+                [
+                    239.0,
+                    40.0
+                ],
+                [
+                    53.0,
+                    40.0
+                ]
+            ]
+        },
+        {
+            "text": "NAVADDAM MARICHIPOYA",
+            "confidence": 0.983,
+            "box": [
+                [
+                    6.0,
+                    281.0
+                ],
+                [
+                    324.0,
+                    283.0
+                ],
+                [
+                    324.0,
+                    316.0
+                ],
+                [
+                    6.0,
+                    314.0
+                ]
+            ]
+        }
+    ]
+}

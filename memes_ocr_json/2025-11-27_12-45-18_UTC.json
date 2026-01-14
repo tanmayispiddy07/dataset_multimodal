@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-11-27_12-45-18_UTC.jpg",
+    "combined_text": "BLUE YELLOW\nBREAKUP RHYME FULL BREAKUP RHYME\nSONG FROM \"PSYCH SIDDHARTHA\"\nMOVIE RELEASING ON DEC 12TH\nTELUPA\nBRC\nPSYCH\nDU\nNUKUN\n**ME WHILE LISTENING SONG\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "BLUE YELLOW",
+            "confidence": 0.957,
+            "box": [
+                [
+                    384.0,
+                    13.0
+                ],
+                [
+                    678.0,
+                    11.0
+                ],
+                [
+                    678.0,
+                    50.0
+                ],
+                [
+                    384.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAKUP RHYME FULL BREAKUP RHYME",
+            "confidence": 0.946,
+            "box": [
+                [
+                    110.0,
+                    67.0
+                ],
+                [
+                    970.0,
+                    67.0
+                ],
+                [
+                    970.0,
+                    105.0
+                ],
+                [
+                    110.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG FROM \"PSYCH SIDDHARTHA\"",
+            "confidence": 0.948,
+            "box": [
+                [
+                    159.0,
+                    120.0
+                ],
+                [
+                    915.0,
+                    120.0
+                ],
+                [
+                    915.0,
+                    157.0
+                ],
+                [
+                    159.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON DEC 12TH",
+            "confidence": 0.952,
+            "box": [
+                [
+                    186.0,
+                    173.0
+                ],
+                [
+                    876.0,
+                    173.0
+                ],
+                [
+                    876.0,
+                    210.0
+                ],
+                [
+                    186.0,
+                    210.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUPA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    879.0,
+                    227.0
+                ],
+                [
+                    1079.0,
+                    227.0
+                ],
+                [
+                    1079.0,
+                    289.0
+                ],
+                [
+                    879.0,
+                    289.0
+                ]
+            ]
+        },
+        {
+            "text": "BRC",
+            "confidence": 0.812,
+            "box": [
+                [
+                    0.0,
+                    312.0
+                ],
+                [
+                    205.0,
+                    312.0
+                ],
+                [
+                    205.0,
+                    435.0
+                ],
+                [
+                    0.0,
+                    435.0
+                ]
+            ]
+        },
+        {
+            "text": "PSYCH",
+            "confidence": 0.779,
+            "box": [
+                [
+                    606.0,
+                    666.0
+                ],
+                [
+                    698.0,
+                    658.0
+                ],
+                [
+                    702.0,
+                    700.0
+                ],
+                [
+                    610.0,
+                    708.0
+                ]
+            ]
+        },
+        {
+            "text": "DU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    0.0,
+                    697.0
+                ],
+                [
+                    119.0,
+                    702.0
+                ],
+                [
+                    116.0,
+                    779.0
+                ],
+                [
+                    0.0,
+                    774.0
+                ]
+            ]
+        },
+        {
+            "text": "NUKUN",
+            "confidence": 0.781,
+            "box": [
+                [
+                    0.0,
+                    780.0
+                ],
+                [
+                    118.0,
+                    787.0
+                ],
+                [
+                    115.0,
+                    837.0
+                ],
+                [
+                    0.0,
+                    830.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHILE LISTENING SONG",
+            "confidence": 0.993,
+            "box": [
+                [
+                    339.0,
+                    909.0
+                ],
+                [
+                    961.0,
+                    914.0
+                ],
+                [
+                    960.0,
+                    965.0
+                ],
+                [
+                    339.0,
+                    959.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    8.0,
+                    1008.0
+                ],
+                [
+                    142.0,
+                    1008.0
+                ],
+                [
+                    142.0,
+                    1024.0
+                ],
+                [
+                    8.0,
+                    1024.0
+                ]
+            ]
+        }
+    ]
+}

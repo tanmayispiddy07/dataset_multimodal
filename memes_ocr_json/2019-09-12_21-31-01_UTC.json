@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-09-12_21-31-01_UTC.jpg",
+    "combined_text": "WHEN YOU LIVEALONEAND SUDDENLY HEAR\nGAJJALA SOUND AFTER WATCHING CHANDRAMUKI\nmgilip.com",
+    "detailed": [
+        {
+            "text": "WHEN YOU LIVEALONEAND SUDDENLY HEAR",
+            "confidence": 0.955,
+            "box": [
+                [
+                    83.0,
+                    45.0
+                ],
+                [
+                    730.0,
+                    45.0
+                ],
+                [
+                    730.0,
+                    81.0
+                ],
+                [
+                    83.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "GAJJALA SOUND AFTER WATCHING CHANDRAMUKI",
+            "confidence": 0.939,
+            "box": [
+                [
+                    32.0,
+                    89.0
+                ],
+                [
+                    778.0,
+                    89.0
+                ],
+                [
+                    778.0,
+                    128.0
+                ],
+                [
+                    32.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "mgilip.com",
+            "confidence": 0.828,
+            "box": [
+                [
+                    3.0,
+                    782.0
+                ],
+                [
+                    91.0,
+                    782.0
+                ],
+                [
+                    91.0,
+                    801.0
+                ],
+                [
+                    3.0,
+                    801.0
+                ]
+            ]
+        }
+    ]
+}

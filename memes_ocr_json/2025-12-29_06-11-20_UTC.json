@@ -1,0 +1,776 @@
+{
+    "image_name": "2025-12-29_06-11-20_UTC.jpg",
+    "combined_text": "MAKE YOUR DEC 3IST MORE MEMORABLE WITH SOULFUL MUSIC\nSUNITHA UPADRASTA &RP PATNAIK LIVE ALONG WITH VARNAM BAND\nVENUE:GSR CONVENTION, HASTINAPURAM, LB NAGAR\nBOOK YOUR TICKETS ON BOOK MY SHOW\nPRISM\nPRISM\nOUTDOORS\nOUTDOORS\nnew\nnew\nO\neve\nSUNITHA\nRPPATNAR\nUPADRASTA\nSUNITHA\nRPPATNAR\nUPADRASTA\nVARNAM\nVARNAM\n3FDEC\n700PM ONWARDS\n31st DEC\nVENUE:GSR CONVENTION\nHASTINAPURAM.LBNAGARE\nRSVP9609602929/88669 66666\n7OOPM ONWARDS\nVENUE:GSR CONVENTION\nTIGKETSON\nHASTINAPURAM,LBNAGAR\nhnnk mv.shnw\nalcs\nADOICTEDTOMEMES\n31ST NIGHT ALA CONCERT LO SONGS VINTU YEAR\nENDCHESTHUNTE AH HAPPINESS EH VERU",
+    "detailed": [
+        {
+            "text": "MAKE YOUR DEC 3IST MORE MEMORABLE WITH SOULFUL MUSIC",
+            "confidence": 0.927,
+            "box": [
+                [
+                    98.0,
+                    38.0
+                ],
+                [
+                    1024.0,
+                    38.0
+                ],
+                [
+                    1024.0,
+                    63.0
+                ],
+                [
+                    98.0,
+                    63.0
+                ]
+            ]
+        },
+        {
+            "text": "SUNITHA UPADRASTA &RP PATNAIK LIVE ALONG WITH VARNAM BAND",
+            "confidence": 0.95,
+            "box": [
+                [
+                    56.0,
+                    74.0
+                ],
+                [
+                    1072.0,
+                    74.0
+                ],
+                [
+                    1072.0,
+                    99.0
+                ],
+                [
+                    56.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "VENUE:GSR CONVENTION, HASTINAPURAM, LB NAGAR",
+            "confidence": 0.952,
+            "box": [
+                [
+                    163.0,
+                    106.0
+                ],
+                [
+                    968.0,
+                    106.0
+                ],
+                [
+                    968.0,
+                    135.0
+                ],
+                [
+                    163.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOK YOUR TICKETS ON BOOK MY SHOW",
+            "confidence": 0.926,
+            "box": [
+                [
+                    264.0,
+                    144.0
+                ],
+                [
+                    863.0,
+                    144.0
+                ],
+                [
+                    863.0,
+                    169.0
+                ],
+                [
+                    264.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "PRISM",
+            "confidence": 0.994,
+            "box": [
+                [
+                    757.0,
+                    216.0
+                ],
+                [
+                    832.0,
+                    216.0
+                ],
+                [
+                    832.0,
+                    243.0
+                ],
+                [
+                    757.0,
+                    243.0
+                ]
+            ]
+        },
+        {
+            "text": "PRISM",
+            "confidence": 0.967,
+            "box": [
+                [
+                    221.0,
+                    240.0
+                ],
+                [
+                    291.0,
+                    240.0
+                ],
+                [
+                    291.0,
+                    270.0
+                ],
+                [
+                    221.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "OUTDOORS",
+            "confidence": 0.995,
+            "box": [
+                [
+                    727.0,
+                    231.0
+                ],
+                [
+                    859.0,
+                    231.0
+                ],
+                [
+                    859.0,
+                    256.0
+                ],
+                [
+                    727.0,
+                    256.0
+                ]
+            ]
+        },
+        {
+            "text": "OUTDOORS",
+            "confidence": 0.992,
+            "box": [
+                [
+                    199.0,
+                    253.0
+                ],
+                [
+                    311.0,
+                    257.0
+                ],
+                [
+                    310.0,
+                    279.0
+                ],
+                [
+                    198.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "new",
+            "confidence": 0.913,
+            "box": [
+                [
+                    645.0,
+                    268.0
+                ],
+                [
+                    778.0,
+                    268.0
+                ],
+                [
+                    778.0,
+                    311.0
+                ],
+                [
+                    645.0,
+                    311.0
+                ]
+            ]
+        },
+        {
+            "text": "new",
+            "confidence": 0.985,
+            "box": [
+                [
+                    135.0,
+                    289.0
+                ],
+                [
+                    253.0,
+                    289.0
+                ],
+                [
+                    253.0,
+                    329.0
+                ],
+                [
+                    135.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.503,
+            "box": [
+                [
+                    713.0,
+                    319.0
+                ],
+                [
+                    796.0,
+                    321.0
+                ],
+                [
+                    796.0,
+                    335.0
+                ],
+                [
+                    713.0,
+                    333.0
+                ]
+            ]
+        },
+        {
+            "text": "eve",
+            "confidence": 0.985,
+            "box": [
+                [
+                    155.0,
+                    367.0
+                ],
+                [
+                    246.0,
+                    373.0
+                ],
+                [
+                    243.0,
+                    413.0
+                ],
+                [
+                    152.0,
+                    408.0
+                ]
+            ]
+        },
+        {
+            "text": "SUNITHA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    54.0,
+                    727.0
+                ],
+                [
+                    218.0,
+                    731.0
+                ],
+                [
+                    218.0,
+                    765.0
+                ],
+                [
+                    53.0,
+                    762.0
+                ]
+            ]
+        },
+        {
+            "text": "RPPATNAR",
+            "confidence": 0.936,
+            "box": [
+                [
+                    246.0,
+                    746.0
+                ],
+                [
+                    470.0,
+                    749.0
+                ],
+                [
+                    469.0,
+                    779.0
+                ],
+                [
+                    246.0,
+                    776.0
+                ]
+            ]
+        },
+        {
+            "text": "UPADRASTA",
+            "confidence": 0.997,
+            "box": [
+                [
+                    23.0,
+                    760.0
+                ],
+                [
+                    249.0,
+                    761.0
+                ],
+                [
+                    249.0,
+                    792.0
+                ],
+                [
+                    22.0,
+                    790.0
+                ]
+            ]
+        },
+        {
+            "text": "SUNITHA",
+            "confidence": 0.954,
+            "box": [
+                [
+                    550.0,
+                    755.0
+                ],
+                [
+                    747.0,
+                    755.0
+                ],
+                [
+                    747.0,
+                    790.0
+                ],
+                [
+                    550.0,
+                    790.0
+                ]
+            ]
+        },
+        {
+            "text": "RPPATNAR",
+            "confidence": 0.964,
+            "box": [
+                [
+                    786.0,
+                    775.0
+                ],
+                [
+                    1049.0,
+                    773.0
+                ],
+                [
+                    1049.0,
+                    804.0
+                ],
+                [
+                    786.0,
+                    806.0
+                ]
+            ]
+        },
+        {
+            "text": "UPADRASTA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    513.0,
+                    789.0
+                ],
+                [
+                    780.0,
+                    789.0
+                ],
+                [
+                    780.0,
+                    822.0
+                ],
+                [
+                    513.0,
+                    822.0
+                ]
+            ]
+        },
+        {
+            "text": "VARNAM",
+            "confidence": 0.995,
+            "box": [
+                [
+                    195.0,
+                    813.0
+                ],
+                [
+                    304.0,
+                    813.0
+                ],
+                [
+                    304.0,
+                    843.0
+                ],
+                [
+                    195.0,
+                    843.0
+                ]
+            ]
+        },
+        {
+            "text": "VARNAM",
+            "confidence": 0.996,
+            "box": [
+                [
+                    720.0,
+                    849.0
+                ],
+                [
+                    848.0,
+                    849.0
+                ],
+                [
+                    848.0,
+                    879.0
+                ],
+                [
+                    720.0,
+                    879.0
+                ]
+            ]
+        },
+        {
+            "text": "3FDEC",
+            "confidence": 0.861,
+            "box": [
+                [
+                    161.0,
+                    860.0
+                ],
+                [
+                    334.0,
+                    857.0
+                ],
+                [
+                    335.0,
+                    904.0
+                ],
+                [
+                    162.0,
+                    908.0
+                ]
+            ]
+        },
+        {
+            "text": "700PM ONWARDS",
+            "confidence": 0.862,
+            "box": [
+                [
+                    197.0,
+                    903.0
+                ],
+                [
+                    297.0,
+                    903.0
+                ],
+                [
+                    297.0,
+                    920.0
+                ],
+                [
+                    197.0,
+                    920.0
+                ]
+            ]
+        },
+        {
+            "text": "31st DEC",
+            "confidence": 0.817,
+            "box": [
+                [
+                    683.0,
+                    899.0
+                ],
+                [
+                    883.0,
+                    899.0
+                ],
+                [
+                    883.0,
+                    946.0
+                ],
+                [
+                    683.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "VENUE:GSR CONVENTION",
+            "confidence": 0.959,
+            "box": [
+                [
+                    162.0,
+                    921.0
+                ],
+                [
+                    329.0,
+                    921.0
+                ],
+                [
+                    329.0,
+                    938.0
+                ],
+                [
+                    162.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "HASTINAPURAM.LBNAGARE",
+            "confidence": 0.925,
+            "box": [
+                [
+                    158.0,
+                    932.0
+                ],
+                [
+                    340.0,
+                    932.0
+                ],
+                [
+                    340.0,
+                    953.0
+                ],
+                [
+                    158.0,
+                    953.0
+                ]
+            ]
+        },
+        {
+            "text": "RSVP9609602929/88669 66666",
+            "confidence": 0.957,
+            "box": [
+                [
+                    141.0,
+                    955.0
+                ],
+                [
+                    354.0,
+                    952.0
+                ],
+                [
+                    354.0,
+                    973.0
+                ],
+                [
+                    141.0,
+                    976.0
+                ]
+            ]
+        },
+        {
+            "text": "7OOPM ONWARDS",
+            "confidence": 0.875,
+            "box": [
+                [
+                    720.0,
+                    946.0
+                ],
+                [
+                    842.0,
+                    946.0
+                ],
+                [
+                    842.0,
+                    963.0
+                ],
+                [
+                    720.0,
+                    963.0
+                ]
+            ]
+        },
+        {
+            "text": "VENUE:GSR CONVENTION",
+            "confidence": 0.965,
+            "box": [
+                [
+                    679.0,
+                    964.0
+                ],
+                [
+                    882.0,
+                    964.0
+                ],
+                [
+                    882.0,
+                    981.0
+                ],
+                [
+                    679.0,
+                    981.0
+                ]
+            ]
+        },
+        {
+            "text": "TIGKETSON",
+            "confidence": 0.842,
+            "box": [
+                [
+                    198.0,
+                    978.0
+                ],
+                [
+                    240.0,
+                    978.0
+                ],
+                [
+                    240.0,
+                    991.0
+                ],
+                [
+                    198.0,
+                    991.0
+                ]
+            ]
+        },
+        {
+            "text": "HASTINAPURAM,LBNAGAR",
+            "confidence": 0.954,
+            "box": [
+                [
+                    674.0,
+                    978.0
+                ],
+                [
+                    892.0,
+                    978.0
+                ],
+                [
+                    892.0,
+                    999.0
+                ],
+                [
+                    674.0,
+                    999.0
+                ]
+            ]
+        },
+        {
+            "text": "hnnk mv.shnw",
+            "confidence": 0.863,
+            "box": [
+                [
+                    181.0,
+                    992.0
+                ],
+                [
+                    253.0,
+                    992.0
+                ],
+                [
+                    253.0,
+                    1009.0
+                ],
+                [
+                    181.0,
+                    1009.0
+                ]
+            ]
+        },
+        {
+            "text": "alcs",
+            "confidence": 0.68,
+            "box": [
+                [
+                    273.0,
+                    988.0
+                ],
+                [
+                    308.0,
+                    988.0
+                ],
+                [
+                    308.0,
+                    1006.0
+                ],
+                [
+                    273.0,
+                    1006.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOICTEDTOMEMES",
+            "confidence": 0.961,
+            "box": [
+                [
+                    956.0,
+                    1097.0
+                ],
+                [
+                    1058.0,
+                    1097.0
+                ],
+                [
+                    1058.0,
+                    1114.0
+                ],
+                [
+                    956.0,
+                    1114.0
+                ]
+            ]
+        },
+        {
+            "text": "31ST NIGHT ALA CONCERT LO SONGS VINTU YEAR",
+            "confidence": 0.939,
+            "box": [
+                [
+                    96.0,
+                    1240.0
+                ],
+                [
+                    1022.0,
+                    1240.0
+                ],
+                [
+                    1022.0,
+                    1278.0
+                ],
+                [
+                    96.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "ENDCHESTHUNTE AH HAPPINESS EH VERU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    165.0,
+                    1288.0
+                ],
+                [
+                    942.0,
+                    1288.0
+                ],
+                [
+                    942.0,
+                    1321.0
+                ],
+                [
+                    165.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-08-05_11-06-37_UTC.jpg",
+    "combined_text": "CLOUDBURST AND FLASH FLOOD IN A\nVILLAGE IN UTTARAKHAND\nMANY HOUSES WERE DESTROYED AND\n60 PEOPLE MISSING\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "CLOUDBURST AND FLASH FLOOD IN A",
+            "confidence": 0.938,
+            "box": [
+                [
+                    182.0,
+                    5.0
+                ],
+                [
+                    939.0,
+                    8.0
+                ],
+                [
+                    938.0,
+                    44.0
+                ],
+                [
+                    182.0,
+                    41.0
+                ]
+            ]
+        },
+        {
+            "text": "VILLAGE IN UTTARAKHAND",
+            "confidence": 0.959,
+            "box": [
+                [
+                    274.0,
+                    57.0
+                ],
+                [
+                    829.0,
+                    57.0
+                ],
+                [
+                    829.0,
+                    93.0
+                ],
+                [
+                    274.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "MANY HOUSES WERE DESTROYED AND",
+            "confidence": 0.957,
+            "box": [
+                [
+                    173.0,
+                    106.0
+                ],
+                [
+                    945.0,
+                    106.0
+                ],
+                [
+                    945.0,
+                    146.0
+                ],
+                [
+                    173.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "60 PEOPLE MISSING",
+            "confidence": 0.938,
+            "box": [
+                [
+                    352.0,
+                    156.0
+                ],
+                [
+                    750.0,
+                    157.0
+                ],
+                [
+                    750.0,
+                    195.0
+                ],
+                [
+                    352.0,
+                    193.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    470.0,
+                    783.0
+                ],
+                [
+                    620.0,
+                    783.0
+                ],
+                [
+                    620.0,
+                    803.0
+                ],
+                [
+                    470.0,
+                    803.0
+                ]
+            ]
+        }
+    ]
+}

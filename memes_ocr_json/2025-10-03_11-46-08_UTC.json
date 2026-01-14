@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-10-03_11-46-08_UTC.jpg",
+    "combined_text": "FESTIVE SURPRISE FROM SREE VISHNU THIS\nDUSSHERA! HE ANNOUNCED TWO EXCITING\nPROJECTS.COMRADE KALYAN AND A HILARIOUS\nENTERTAINER WITH SAMAJAVARAGAMANA DIRECTOR\nRAM ABBARAJU.CAN'T WAIT FOR THESE!\nMYTHRI\nSREE\nVISHNU\nRAM ABBARAJO\nNAVEEN YERNENL Y RAVI SHANKAR\nBHANU BHOGAVARAPU NANDU SAVIRIGANA\nBIGGEST FUN RIDE\nONCE AGAIN!!\n#FunReloaded\nADDICTEDTOMEMES\nAHAA ESARI YEDO GATTIGANE\nPLAN CHESINATTU UNNAV",
+    "detailed": [
+        {
+            "text": "FESTIVE SURPRISE FROM SREE VISHNU THIS",
+            "confidence": 0.947,
+            "box": [
+                [
+                    177.0,
+                    42.0
+                ],
+                [
+                    945.0,
+                    42.0
+                ],
+                [
+                    945.0,
+                    75.0
+                ],
+                [
+                    177.0,
+                    75.0
+                ]
+            ]
+        },
+        {
+            "text": "DUSSHERA! HE ANNOUNCED TWO EXCITING",
+            "confidence": 0.948,
+            "box": [
+                [
+                    174.0,
+                    85.0
+                ],
+                [
+                    946.0,
+                    85.0
+                ],
+                [
+                    946.0,
+                    118.0
+                ],
+                [
+                    174.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "PROJECTS.COMRADE KALYAN AND A HILARIOUS",
+            "confidence": 0.962,
+            "box": [
+                [
+                    127.0,
+                    131.0
+                ],
+                [
+                    996.0,
+                    131.0
+                ],
+                [
+                    996.0,
+                    160.0
+                ],
+                [
+                    127.0,
+                    160.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTERTAINER WITH SAMAJAVARAGAMANA DIRECTOR",
+            "confidence": 0.974,
+            "box": [
+                [
+                    84.0,
+                    174.0
+                ],
+                [
+                    1036.0,
+                    174.0
+                ],
+                [
+                    1036.0,
+                    203.0
+                ],
+                [
+                    84.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "RAM ABBARAJU.CAN'T WAIT FOR THESE!",
+            "confidence": 0.948,
+            "box": [
+                [
+                    193.0,
+                    217.0
+                ],
+                [
+                    930.0,
+                    217.0
+                ],
+                [
+                    930.0,
+                    251.0
+                ],
+                [
+                    193.0,
+                    251.0
+                ]
+            ]
+        },
+        {
+            "text": "MYTHRI",
+            "confidence": 0.979,
+            "box": [
+                [
+                    842.0,
+                    358.0
+                ],
+                [
+                    900.0,
+                    358.0
+                ],
+                [
+                    900.0,
+                    380.0
+                ],
+                [
+                    842.0,
+                    380.0
+                ]
+            ]
+        },
+        {
+            "text": "SREE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    800.0,
+                    413.0
+                ],
+                [
+                    976.0,
+                    413.0
+                ],
+                [
+                    976.0,
+                    484.0
+                ],
+                [
+                    800.0,
+                    484.0
+                ]
+            ]
+        },
+        {
+            "text": "VISHNU",
+            "confidence": 0.978,
+            "box": [
+                [
+                    773.0,
+                    478.0
+                ],
+                [
+                    1010.0,
+                    478.0
+                ],
+                [
+                    1010.0,
+                    539.0
+                ],
+                [
+                    773.0,
+                    539.0
+                ]
+            ]
+        },
+        {
+            "text": "RAM ABBARAJO",
+            "confidence": 0.941,
+            "box": [
+                [
+                    752.0,
+                    563.0
+                ],
+                [
+                    1022.0,
+                    560.0
+                ],
+                [
+                    1023.0,
+                    607.0
+                ],
+                [
+                    753.0,
+                    611.0
+                ]
+            ]
+        },
+        {
+            "text": "NAVEEN YERNENL Y RAVI SHANKAR",
+            "confidence": 0.943,
+            "box": [
+                [
+                    780.0,
+                    693.0
+                ],
+                [
+                    993.0,
+                    693.0
+                ],
+                [
+                    993.0,
+                    714.0
+                ],
+                [
+                    780.0,
+                    714.0
+                ]
+            ]
+        },
+        {
+            "text": "BHANU BHOGAVARAPU NANDU SAVIRIGANA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    757.0,
+                    715.0
+                ],
+                [
+                    1018.0,
+                    715.0
+                ],
+                [
+                    1018.0,
+                    736.0
+                ],
+                [
+                    757.0,
+                    736.0
+                ]
+            ]
+        },
+        {
+            "text": "BIGGEST FUN RIDE",
+            "confidence": 0.932,
+            "box": [
+                [
+                    780.0,
+                    782.0
+                ],
+                [
+                    996.0,
+                    782.0
+                ],
+                [
+                    996.0,
+                    807.0
+                ],
+                [
+                    780.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "ONCE AGAIN!!",
+            "confidence": 0.936,
+            "box": [
+                [
+                    806.0,
+                    804.0
+                ],
+                [
+                    970.0,
+                    804.0
+                ],
+                [
+                    970.0,
+                    829.0
+                ],
+                [
+                    806.0,
+                    829.0
+                ]
+            ]
+        },
+        {
+            "text": "#FunReloaded",
+            "confidence": 0.956,
+            "box": [
+                [
+                    837.0,
+                    828.0
+                ],
+                [
+                    939.0,
+                    828.0
+                ],
+                [
+                    939.0,
+                    850.0
+                ],
+                [
+                    837.0,
+                    850.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    875.0,
+                    1022.0
+                ],
+                [
+                    1032.0,
+                    1022.0
+                ],
+                [
+                    1032.0,
+                    1043.0
+                ],
+                [
+                    875.0,
+                    1043.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAA ESARI YEDO GATTIGANE",
+            "confidence": 0.952,
+            "box": [
+                [
+                    371.0,
+                    1238.0
+                ],
+                [
+                    975.0,
+                    1238.0
+                ],
+                [
+                    975.0,
+                    1271.0
+                ],
+                [
+                    371.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "PLAN CHESINATTU UNNAV",
+            "confidence": 0.956,
+            "box": [
+                [
+                    412.0,
+                    1282.0
+                ],
+                [
+                    930.0,
+                    1284.0
+                ],
+                [
+                    929.0,
+                    1323.0
+                ],
+                [
+                    412.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

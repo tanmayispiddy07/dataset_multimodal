@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-09-07_05-49-04_UTC.jpg",
+    "combined_text": "NARESH 65- A MYTHICAL COMEDY FILM\nLAUNCHED IN A GRAND MANNER WITH MANY\nCELEBRITIES ATTENDING THE CERMONY.\nANNAPURNA STUDIOS AND HASYA MOVIES JOINS\nHANDS FOR THE FIRST TIME FOR THIS FILM\nADDICTEDTOMEMES\nNVU SUPER NARESH ANNA EPPUDU\nDIFFERENTGA TRYCHESTHUNTU UNTAV",
+    "detailed": [
+        {
+            "text": "NARESH 65- A MYTHICAL COMEDY FILM",
+            "confidence": 0.932,
+            "box": [
+                [
+                    163.0,
+                    18.0
+                ],
+                [
+                    901.0,
+                    18.0
+                ],
+                [
+                    901.0,
+                    52.0
+                ],
+                [
+                    163.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "LAUNCHED IN A GRAND MANNER WITH MANY",
+            "confidence": 0.935,
+            "box": [
+                [
+                    111.0,
+                    63.0
+                ],
+                [
+                    951.0,
+                    63.0
+                ],
+                [
+                    951.0,
+                    96.0
+                ],
+                [
+                    111.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "CELEBRITIES ATTENDING THE CERMONY.",
+            "confidence": 0.969,
+            "box": [
+                [
+                    163.0,
+                    109.0
+                ],
+                [
+                    896.0,
+                    109.0
+                ],
+                [
+                    896.0,
+                    142.0
+                ],
+                [
+                    163.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "ANNAPURNA STUDIOS AND HASYA MOVIES JOINS",
+            "confidence": 0.951,
+            "box": [
+                [
+                    75.0,
+                    153.0
+                ],
+                [
+                    990.0,
+                    153.0
+                ],
+                [
+                    990.0,
+                    187.0
+                ],
+                [
+                    75.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "HANDS FOR THE FIRST TIME FOR THIS FILM",
+            "confidence": 0.919,
+            "box": [
+                [
+                    143.0,
+                    201.0
+                ],
+                [
+                    920.0,
+                    201.0
+                ],
+                [
+                    920.0,
+                    230.0
+                ],
+                [
+                    143.0,
+                    230.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.989,
+            "box": [
+                [
+                    922.0,
+                    1019.0
+                ],
+                [
+                    1048.0,
+                    1019.0
+                ],
+                [
+                    1048.0,
+                    1036.0
+                ],
+                [
+                    922.0,
+                    1036.0
+                ]
+            ]
+        },
+        {
+            "text": "NVU SUPER NARESH ANNA EPPUDU",
+            "confidence": 0.939,
+            "box": [
+                [
+                    181.0,
+                    1235.0
+                ],
+                [
+                    910.0,
+                    1235.0
+                ],
+                [
+                    910.0,
+                    1272.0
+                ],
+                [
+                    181.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "DIFFERENTGA TRYCHESTHUNTU UNTAV",
+            "confidence": 0.966,
+            "box": [
+                [
+                    136.0,
+                    1286.0
+                ],
+                [
+                    952.0,
+                    1286.0
+                ],
+                [
+                    952.0,
+                    1324.0
+                ],
+                [
+                    136.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-05-14_19-31-02_UTC.jpg",
+    "combined_text": "sarcasm\nSuri and Tani Partner in Real Life",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    484.0,
+                    607.0
+                ],
+                [
+                    595.0,
+                    607.0
+                ],
+                [
+                    595.0,
+                    630.0
+                ],
+                [
+                    484.0,
+                    630.0
+                ]
+            ]
+        },
+        {
+            "text": "Suri and Tani Partner in Real Life",
+            "confidence": 0.999,
+            "box": [
+                [
+                    18.0,
+                    642.0
+                ],
+                [
+                    1062.0,
+                    642.0
+                ],
+                [
+                    1062.0,
+                    695.0
+                ],
+                [
+                    18.0,
+                    695.0
+                ]
+            ]
+        }
+    ]
+}

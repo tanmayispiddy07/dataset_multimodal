@@ -1,0 +1,182 @@
+{
+    "image_name": "2023-05-26_11-20-29_UTC_9.jpg",
+    "combined_text": "BEFORE\nAFTER\nDEEPTHICHERUKURI\nIT'SVERYDEEP HYDRATING THAILAM I'VE EVERUSED,IUSES THIS\nEVERYDAY AND IT MAKES SKIN SO SOFT THE NEXTDAY ANDICAN\nSEEAGLOW IN THE SKIN.IT'SNOT STICKYORMAKES SKIN SMOOTH\nAND YOU KEEP FEEL LIKE TOUCHING IT.ONE OF THE BEST\nKUMKUMADITHAILAM",
+    "detailed": [
+        {
+            "text": "BEFORE",
+            "confidence": 0.995,
+            "box": [
+                [
+                    246.0,
+                    61.0
+                ],
+                [
+                    384.0,
+                    61.0
+                ],
+                [
+                    384.0,
+                    99.0
+                ],
+                [
+                    246.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER",
+            "confidence": 0.997,
+            "box": [
+                [
+                    719.0,
+                    62.0
+                ],
+                [
+                    832.0,
+                    62.0
+                ],
+                [
+                    832.0,
+                    98.0
+                ],
+                [
+                    719.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "DEEPTHICHERUKURI",
+            "confidence": 0.996,
+            "box": [
+                [
+                    382.0,
+                    775.0
+                ],
+                [
+                    732.0,
+                    775.0
+                ],
+                [
+                    732.0,
+                    802.0
+                ],
+                [
+                    382.0,
+                    802.0
+                ]
+            ]
+        },
+        {
+            "text": "IT'SVERYDEEP HYDRATING THAILAM I'VE EVERUSED,IUSES THIS",
+            "confidence": 0.949,
+            "box": [
+                [
+                    84.0,
+                    836.0
+                ],
+                [
+                    991.0,
+                    836.0
+                ],
+                [
+                    991.0,
+                    860.0
+                ],
+                [
+                    84.0,
+                    860.0
+                ]
+            ]
+        },
+        {
+            "text": "EVERYDAY AND IT MAKES SKIN SO SOFT THE NEXTDAY ANDICAN",
+            "confidence": 0.923,
+            "box": [
+                [
+                    76.0,
+                    871.0
+                ],
+                [
+                    999.0,
+                    871.0
+                ],
+                [
+                    999.0,
+                    894.0
+                ],
+                [
+                    76.0,
+                    894.0
+                ]
+            ]
+        },
+        {
+            "text": "SEEAGLOW IN THE SKIN.IT'SNOT STICKYORMAKES SKIN SMOOTH",
+            "confidence": 0.947,
+            "box": [
+                [
+                    71.0,
+                    904.0
+                ],
+                [
+                    1005.0,
+                    904.0
+                ],
+                [
+                    1005.0,
+                    928.0
+                ],
+                [
+                    71.0,
+                    928.0
+                ]
+            ]
+        },
+        {
+            "text": "AND YOU KEEP FEEL LIKE TOUCHING IT.ONE OF THE BEST",
+            "confidence": 0.929,
+            "box": [
+                [
+                    141.0,
+                    936.0
+                ],
+                [
+                    937.0,
+                    936.0
+                ],
+                [
+                    937.0,
+                    963.0
+                ],
+                [
+                    141.0,
+                    963.0
+                ]
+            ]
+        },
+        {
+            "text": "KUMKUMADITHAILAM",
+            "confidence": 0.996,
+            "box": [
+                [
+                    381.0,
+                    972.0
+                ],
+                [
+                    695.0,
+                    972.0
+                ],
+                [
+                    695.0,
+                    996.0
+                ],
+                [
+                    381.0,
+                    996.0
+                ]
+            ]
+        }
+    ]
+}

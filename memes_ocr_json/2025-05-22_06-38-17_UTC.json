@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-05-22_06-38-17_UTC.jpg",
+    "combined_text": "Rafale was not shot down\nStake\nT-GK\nsarcasm\nPakistan claimed it shot down\n3 Indian Rafales. No evidence\nhas been shown so far.",
+    "detailed": [
+        {
+            "text": "Rafale was not shot down",
+            "confidence": 0.974,
+            "box": [
+                [
+                    74.0,
+                    60.0
+                ],
+                [
+                    914.0,
+                    60.0
+                ],
+                [
+                    914.0,
+                    116.0
+                ],
+                [
+                    74.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "Stake",
+            "confidence": 0.976,
+            "box": [
+                [
+                    884.0,
+                    195.0
+                ],
+                [
+                    1054.0,
+                    195.0
+                ],
+                [
+                    1054.0,
+                    282.0
+                ],
+                [
+                    884.0,
+                    282.0
+                ]
+            ]
+        },
+        {
+            "text": "T-GK",
+            "confidence": 0.933,
+            "box": [
+                [
+                    388.0,
+                    566.0
+                ],
+                [
+                    471.0,
+                    566.0
+                ],
+                [
+                    471.0,
+                    600.0
+                ],
+                [
+                    388.0,
+                    600.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    730.0,
+                    791.0
+                ],
+                [
+                    853.0,
+                    791.0
+                ],
+                [
+                    853.0,
+                    818.0
+                ],
+                [
+                    730.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "Pakistan claimed it shot down",
+            "confidence": 0.999,
+            "box": [
+                [
+                    114.0,
+                    942.0
+                ],
+                [
+                    968.0,
+                    943.0
+                ],
+                [
+                    967.0,
+                    991.0
+                ],
+                [
+                    114.0,
+                    989.0
+                ]
+            ]
+        },
+        {
+            "text": "3 Indian Rafales. No evidence",
+            "confidence": 0.982,
+            "box": [
+                [
+                    118.0,
+                    1023.0
+                ],
+                [
+                    963.0,
+                    1026.0
+                ],
+                [
+                    962.0,
+                    1078.0
+                ],
+                [
+                    117.0,
+                    1075.0
+                ]
+            ]
+        },
+        {
+            "text": "has been shown so far.",
+            "confidence": 0.959,
+            "box": [
+                [
+                    213.0,
+                    1106.0
+                ],
+                [
+                    868.0,
+                    1109.0
+                ],
+                [
+                    867.0,
+                    1164.0
+                ],
+                [
+                    212.0,
+                    1162.0
+                ]
+            ]
+        }
+    ]
+}

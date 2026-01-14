@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-29_07-26-50_UTC_2.jpg",
+    "combined_text": "-Gf:I Love Ganapathi Vinayaka\nMe:On NextDay",
+    "detailed": [
+        {
+            "text": "-Gf:I Love Ganapathi Vinayaka",
+            "confidence": 0.927,
+            "box": [
+                [
+                    103.0,
+                    75.0
+                ],
+                [
+                    373.0,
+                    77.0
+                ],
+                [
+                    373.0,
+                    99.0
+                ],
+                [
+                    103.0,
+                    97.0
+                ]
+            ]
+        },
+        {
+            "text": "Me:On NextDay",
+            "confidence": 0.94,
+            "box": [
+                [
+                    160.0,
+                    103.0
+                ],
+                [
+                    314.0,
+                    107.0
+                ],
+                [
+                    314.0,
+                    127.0
+                ],
+                [
+                    160.0,
+                    124.0
+                ]
+            ]
+        }
+    ]
+}

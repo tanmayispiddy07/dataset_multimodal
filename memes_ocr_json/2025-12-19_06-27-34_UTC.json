@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-12-19_06-27-34_UTC.jpg",
+    "combined_text": "AVATAR IN CINEMAS NOW\nADDICTEDTOMEMES\nWHOLE FAMILYCAN ENJOY THIS 3\nHOURS OF PURE ENTERTAINMENT\nHEIMAX3DEXPERIENCE\nAVATAR\nFIREANDASH",
+    "detailed": [
+        {
+            "text": "AVATAR IN CINEMAS NOW",
+            "confidence": 0.994,
+            "box": [
+                [
+                    139.0,
+                    74.0
+                ],
+                [
+                    1014.0,
+                    74.0
+                ],
+                [
+                    1014.0,
+                    141.0
+                ],
+                [
+                    139.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    900.0,
+                    336.0
+                ],
+                [
+                    1057.0,
+                    334.0
+                ],
+                [
+                    1058.0,
+                    360.0
+                ],
+                [
+                    900.0,
+                    361.0
+                ]
+            ]
+        },
+        {
+            "text": "WHOLE FAMILYCAN ENJOY THIS 3",
+            "confidence": 0.951,
+            "box": [
+                [
+                    191.0,
+                    479.0
+                ],
+                [
+                    972.0,
+                    482.0
+                ],
+                [
+                    972.0,
+                    526.0
+                ],
+                [
+                    191.0,
+                    523.0
+                ]
+            ]
+        },
+        {
+            "text": "HOURS OF PURE ENTERTAINMENT",
+            "confidence": 0.958,
+            "box": [
+                [
+                    198.0,
+                    538.0
+                ],
+                [
+                    963.0,
+                    538.0
+                ],
+                [
+                    963.0,
+                    580.0
+                ],
+                [
+                    198.0,
+                    580.0
+                ]
+            ]
+        },
+        {
+            "text": "HEIMAX3DEXPERIENCE",
+            "confidence": 0.985,
+            "box": [
+                [
+                    672.0,
+                    605.0
+                ],
+                [
+                    1012.0,
+                    605.0
+                ],
+                [
+                    1012.0,
+                    630.0
+                ],
+                [
+                    672.0,
+                    630.0
+                ]
+            ]
+        },
+        {
+            "text": "AVATAR",
+            "confidence": 0.998,
+            "box": [
+                [
+                    163.0,
+                    1235.0
+                ],
+                [
+                    437.0,
+                    1235.0
+                ],
+                [
+                    437.0,
+                    1300.0
+                ],
+                [
+                    163.0,
+                    1300.0
+                ]
+            ]
+        },
+        {
+            "text": "FIREANDASH",
+            "confidence": 0.997,
+            "box": [
+                [
+                    173.0,
+                    1299.0
+                ],
+                [
+                    423.0,
+                    1299.0
+                ],
+                [
+                    423.0,
+                    1324.0
+                ],
+                [
+                    173.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-06-05_13-45-57_UTC.jpg",
+    "combined_text": "Telegram then and now\n2020\n2025\nsarcasm\nJust tell me the name of the\nThis channel is\nmovie or show you want and\nunavailable due\nI will bring it for you even if\nto copyright\nit's the rarest of rare\ninfringement",
+    "detailed": [
+        {
+            "text": "Telegram then and now",
+            "confidence": 0.999,
+            "box": [
+                [
+                    121.0,
+                    124.0
+                ],
+                [
+                    953.0,
+                    115.0
+                ],
+                [
+                    954.0,
+                    182.0
+                ],
+                [
+                    121.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "2020",
+            "confidence": 1.0,
+            "box": [
+                [
+                    233.0,
+                    362.0
+                ],
+                [
+                    388.0,
+                    362.0
+                ],
+                [
+                    388.0,
+                    422.0
+                ],
+                [
+                    233.0,
+                    422.0
+                ]
+            ]
+        },
+        {
+            "text": "2025",
+            "confidence": 1.0,
+            "box": [
+                [
+                    873.0,
+                    364.0
+                ],
+                [
+                    1023.0,
+                    360.0
+                ],
+                [
+                    1024.0,
+                    418.0
+                ],
+                [
+                    874.0,
+                    421.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    349.0,
+                    697.0
+                ],
+                [
+                    440.0,
+                    697.0
+                ],
+                [
+                    440.0,
+                    720.0
+                ],
+                [
+                    349.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "Just tell me the name of the",
+            "confidence": 0.997,
+            "box": [
+                [
+                    56.0,
+                    988.0
+                ],
+                [
+                    609.0,
+                    986.0
+                ],
+                [
+                    609.0,
+                    1026.0
+                ],
+                [
+                    56.0,
+                    1027.0
+                ]
+            ]
+        },
+        {
+            "text": "This channel is",
+            "confidence": 0.99,
+            "box": [
+                [
+                    698.0,
+                    985.0
+                ],
+                [
+                    979.0,
+                    988.0
+                ],
+                [
+                    978.0,
+                    1029.0
+                ],
+                [
+                    697.0,
+                    1026.0
+                ]
+            ]
+        },
+        {
+            "text": "movie or show you want and",
+            "confidence": 1.0,
+            "box": [
+                [
+                    46.0,
+                    1047.0
+                ],
+                [
+                    620.0,
+                    1045.0
+                ],
+                [
+                    620.0,
+                    1086.0
+                ],
+                [
+                    46.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "unavailable due",
+            "confidence": 0.994,
+            "box": [
+                [
+                    689.0,
+                    1044.0
+                ],
+                [
+                    990.0,
+                    1044.0
+                ],
+                [
+                    990.0,
+                    1083.0
+                ],
+                [
+                    689.0,
+                    1083.0
+                ]
+            ]
+        },
+        {
+            "text": "I will bring it for you even if",
+            "confidence": 0.975,
+            "box": [
+                [
+                    56.0,
+                    1101.0
+                ],
+                [
+                    607.0,
+                    1100.0
+                ],
+                [
+                    608.0,
+                    1145.0
+                ],
+                [
+                    56.0,
+                    1146.0
+                ]
+            ]
+        },
+        {
+            "text": "to copyright",
+            "confidence": 0.986,
+            "box": [
+                [
+                    721.0,
+                    1097.0
+                ],
+                [
+                    956.0,
+                    1097.0
+                ],
+                [
+                    956.0,
+                    1142.0
+                ],
+                [
+                    721.0,
+                    1142.0
+                ]
+            ]
+        },
+        {
+            "text": "it's the rarest of rare",
+            "confidence": 0.999,
+            "box": [
+                [
+                    131.0,
+                    1162.0
+                ],
+                [
+                    534.0,
+                    1162.0
+                ],
+                [
+                    534.0,
+                    1201.0
+                ],
+                [
+                    131.0,
+                    1201.0
+                ]
+            ]
+        },
+        {
+            "text": "infringement",
+            "confidence": 0.999,
+            "box": [
+                [
+                    714.0,
+                    1155.0
+                ],
+                [
+                    966.0,
+                    1155.0
+                ],
+                [
+                    966.0,
+                    1195.0
+                ],
+                [
+                    714.0,
+                    1195.0
+                ]
+            ]
+        }
+    ]
+}

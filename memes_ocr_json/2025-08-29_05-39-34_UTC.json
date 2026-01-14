@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-29_05-39-34_UTC.jpg",
+    "combined_text": "BEAUTY, ELEGANCE AND A SPARK OF TALENT\nATHULYA RAVI IS ALL SET TO SHINE IN DIESEL\nINTHA CUTE UNDHIENTIMAWA",
+    "detailed": [
+        {
+            "text": "BEAUTY, ELEGANCE AND A SPARK OF TALENT",
+            "confidence": 0.926,
+            "box": [
+                [
+                    56.0,
+                    14.0
+                ],
+                [
+                    1012.0,
+                    14.0
+                ],
+                [
+                    1012.0,
+                    52.0
+                ],
+                [
+                    56.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "ATHULYA RAVI IS ALL SET TO SHINE IN DIESEL",
+            "confidence": 0.924,
+            "box": [
+                [
+                    68.0,
+                    68.0
+                ],
+                [
+                    1011.0,
+                    68.0
+                ],
+                [
+                    1011.0,
+                    105.0
+                ],
+                [
+                    68.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "INTHA CUTE UNDHIENTIMAWA",
+            "confidence": 0.956,
+            "box": [
+                [
+                    97.0,
+                    1291.0
+                ],
+                [
+                    897.0,
+                    1291.0
+                ],
+                [
+                    897.0,
+                    1337.0
+                ],
+                [
+                    97.0,
+                    1337.0
+                ]
+            ]
+        }
+    ]
+}

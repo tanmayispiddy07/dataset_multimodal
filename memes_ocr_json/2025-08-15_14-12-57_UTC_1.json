@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-08-15_14-12-57_UTC_1.jpg",
+    "combined_text": "This boy packed a Christmas gift for a girl in the\nPhilippines, and 14 years later she found him on\nFacebook, they fell in Iove, and got married.\nsarcasm",
+    "detailed": [
+        {
+            "text": "This boy packed a Christmas gift for a girl in the",
+            "confidence": 0.997,
+            "box": [
+                [
+                    30.0,
+                    43.0
+                ],
+                [
+                    1048.0,
+                    43.0
+                ],
+                [
+                    1048.0,
+                    87.0
+                ],
+                [
+                    30.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "text": "Philippines, and 14 years later she found him on",
+            "confidence": 0.99,
+            "box": [
+                [
+                    20.0,
+                    107.0
+                ],
+                [
+                    1058.0,
+                    107.0
+                ],
+                [
+                    1058.0,
+                    154.0
+                ],
+                [
+                    20.0,
+                    154.0
+                ]
+            ]
+        },
+        {
+            "text": "Facebook, they fell in Iove, and got married.",
+            "confidence": 0.979,
+            "box": [
+                [
+                    30.0,
+                    177.0
+                ],
+                [
+                    969.0,
+                    175.0
+                ],
+                [
+                    969.0,
+                    219.0
+                ],
+                [
+                    30.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    489.0,
+                    733.0
+                ],
+                [
+                    586.0,
+                    733.0
+                ],
+                [
+                    586.0,
+                    756.0
+                ],
+                [
+                    489.0,
+                    756.0
+                ]
+            ]
+        }
+    ]
+}

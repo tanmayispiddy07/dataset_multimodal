@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-05-31_18-14-16_UTC_6.jpg",
+    "combined_text": "AnyaMikh\n@gmail.com>\nJamesFridman<fjamie013@gmail.com>\ntome\nHi James!I love this photo of myself in\nThere you go.\nParis, but could you please remove that\nlong metal thing? Thanks,Anya.\nSURCOS\nSUR\nSROIS",
+    "detailed": [
+        {
+            "text": "AnyaMikh",
+            "confidence": 0.995,
+            "box": [
+                [
+                    80.0,
+                    62.0
+                ],
+                [
+                    169.0,
+                    62.0
+                ],
+                [
+                    169.0,
+                    81.0
+                ],
+                [
+                    80.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "@gmail.com>",
+            "confidence": 0.99,
+            "box": [
+                [
+                    255.0,
+                    61.0
+                ],
+                [
+                    344.0,
+                    61.0
+                ],
+                [
+                    344.0,
+                    80.0
+                ],
+                [
+                    255.0,
+                    80.0
+                ]
+            ]
+        },
+        {
+            "text": "JamesFridman<fjamie013@gmail.com>",
+            "confidence": 0.991,
+            "box": [
+                [
+                    480.0,
+                    59.0
+                ],
+                [
+                    787.0,
+                    59.0
+                ],
+                [
+                    787.0,
+                    78.0
+                ],
+                [
+                    480.0,
+                    78.0
+                ]
+            ]
+        },
+        {
+            "text": "tome",
+            "confidence": 0.991,
+            "box": [
+                [
+                    80.0,
+                    85.0
+                ],
+                [
+                    140.0,
+                    85.0
+                ],
+                [
+                    140.0,
+                    104.0
+                ],
+                [
+                    80.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "Hi James!I love this photo of myself in",
+            "confidence": 0.93,
+            "box": [
+                [
+                    18.0,
+                    127.0
+                ],
+                [
+                    366.0,
+                    127.0
+                ],
+                [
+                    366.0,
+                    146.0
+                ],
+                [
+                    18.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "There you go.",
+            "confidence": 0.951,
+            "box": [
+                [
+                    421.0,
+                    129.0
+                ],
+                [
+                    548.0,
+                    129.0
+                ],
+                [
+                    548.0,
+                    151.0
+                ],
+                [
+                    421.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "Paris, but could you please remove that",
+            "confidence": 0.948,
+            "box": [
+                [
+                    18.0,
+                    150.0
+                ],
+                [
+                    377.0,
+                    150.0
+                ],
+                [
+                    377.0,
+                    172.0
+                ],
+                [
+                    18.0,
+                    172.0
+                ]
+            ]
+        },
+        {
+            "text": "long metal thing? Thanks,Anya.",
+            "confidence": 0.92,
+            "box": [
+                [
+                    17.0,
+                    173.0
+                ],
+                [
+                    307.0,
+                    174.0
+                ],
+                [
+                    306.0,
+                    196.0
+                ],
+                [
+                    17.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "SURCOS",
+            "confidence": 0.922,
+            "box": [
+                [
+                    41.0,
+                    586.0
+                ],
+                [
+                    80.0,
+                    583.0
+                ],
+                [
+                    81.0,
+                    599.0
+                ],
+                [
+                    43.0,
+                    601.0
+                ]
+            ]
+        },
+        {
+            "text": "SUR",
+            "confidence": 0.731,
+            "box": [
+                [
+                    454.0,
+                    585.0
+                ],
+                [
+                    469.0,
+                    592.0
+                ],
+                [
+                    464.0,
+                    603.0
+                ],
+                [
+                    449.0,
+                    595.0
+                ]
+            ]
+        },
+        {
+            "text": "SROIS",
+            "confidence": 0.602,
+            "box": [
+                [
+                    446.0,
+                    615.0
+                ],
+                [
+                    474.0,
+                    615.0
+                ],
+                [
+                    474.0,
+                    622.0
+                ],
+                [
+                    446.0,
+                    622.0
+                ]
+            ]
+        }
+    ]
+}

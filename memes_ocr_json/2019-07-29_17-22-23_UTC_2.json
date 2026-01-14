@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-07-29_17-22-23_UTC_2.jpg",
+    "combined_text": "brown girl: \"i have a boyfriend'\nandharu:",
+    "detailed": [
+        {
+            "text": "brown girl: \"i have a boyfriend'",
+            "confidence": 0.974,
+            "box": [
+                [
+                    121.0,
+                    158.0
+                ],
+                [
+                    958.0,
+                    155.0
+                ],
+                [
+                    959.0,
+                    220.0
+                ],
+                [
+                    122.0,
+                    223.0
+                ]
+            ]
+        },
+        {
+            "text": "andharu:",
+            "confidence": 0.999,
+            "box": [
+                [
+                    66.0,
+                    364.0
+                ],
+                [
+                    319.0,
+                    367.0
+                ],
+                [
+                    318.0,
+                    423.0
+                ],
+                [
+                    65.0,
+                    421.0
+                ]
+            ]
+        }
+    ]
+}

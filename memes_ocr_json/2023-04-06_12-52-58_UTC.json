@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-04-06_12-52-58_UTC.jpg",
+    "combined_text": "30 weds 21 fame Actor chaitanya raos next.\n80's village backdrop lo crime comedy thriller.\nsong giving retro vibes\nTELUSU MEMES GURU\nITLANTI SONGS ANTE MANAKI BAGA INTREST RAA.",
+    "detailed": [
+        {
+            "text": "30 weds 21 fame Actor chaitanya raos next.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    49.0,
+                    378.0
+                ],
+                [
+                    1001.0,
+                    380.0
+                ],
+                [
+                    1001.0,
+                    423.0
+                ],
+                [
+                    49.0,
+                    422.0
+                ]
+            ]
+        },
+        {
+            "text": "80's village backdrop lo crime comedy thriller.",
+            "confidence": 0.98,
+            "box": [
+                [
+                    30.0,
+                    423.0
+                ],
+                [
+                    1018.0,
+                    425.0
+                ],
+                [
+                    1018.0,
+                    471.0
+                ],
+                [
+                    30.0,
+                    470.0
+                ]
+            ]
+        },
+        {
+            "text": "song giving retro vibes",
+            "confidence": 0.999,
+            "box": [
+                [
+                    195.0,
+                    824.0
+                ],
+                [
+                    859.0,
+                    820.0
+                ],
+                [
+                    859.0,
+                    879.0
+                ],
+                [
+                    196.0,
+                    883.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUSU MEMES GURU",
+            "confidence": 0.804,
+            "box": [
+                [
+                    899.0,
+                    1038.0
+                ],
+                [
+                    1020.0,
+                    1038.0
+                ],
+                [
+                    1020.0,
+                    1059.0
+                ],
+                [
+                    899.0,
+                    1059.0
+                ]
+            ]
+        },
+        {
+            "text": "ITLANTI SONGS ANTE MANAKI BAGA INTREST RAA.",
+            "confidence": 0.943,
+            "box": [
+                [
+                    77.0,
+                    1294.0
+                ],
+                [
+                    994.0,
+                    1294.0
+                ],
+                [
+                    994.0,
+                    1323.0
+                ],
+                [
+                    77.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

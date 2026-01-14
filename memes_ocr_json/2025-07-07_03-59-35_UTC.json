@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-07-07_03-59-35_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nBirthday Wishes to #ThalaDhoni.\nThe Man The Myth The Legend.\nJersey no 7 is Emotion and Inspiration for\nMany\nThanks For Setting Team India Standards 8\nCsk Standards Very High\nBorn in Ranchi, Adopted by Entire Nation\n#MSDhoni\nHAPPYBIRTHDAY\nMThoni\nINOHO",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.964,
+            "box": [
+                [
+                    191.0,
+                    35.0
+                ],
+                [
+                    609.0,
+                    35.0
+                ],
+                [
+                    609.0,
+                    72.0
+                ],
+                [
+                    191.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.984,
+            "box": [
+                [
+                    190.0,
+                    82.0
+                ],
+                [
+                    601.0,
+                    87.0
+                ],
+                [
+                    600.0,
+                    128.0
+                ],
+                [
+                    190.0,
+                    124.0
+                ]
+            ]
+        },
+        {
+            "text": "Birthday Wishes to #ThalaDhoni.",
+            "confidence": 0.986,
+            "box": [
+                [
+                    37.0,
+                    178.0
+                ],
+                [
+                    835.0,
+                    178.0
+                ],
+                [
+                    835.0,
+                    229.0
+                ],
+                [
+                    37.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "The Man The Myth The Legend.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    32.0,
+                    245.0
+                ],
+                [
+                    789.0,
+                    247.0
+                ],
+                [
+                    789.0,
+                    302.0
+                ],
+                [
+                    32.0,
+                    301.0
+                ]
+            ]
+        },
+        {
+            "text": "Jersey no 7 is Emotion and Inspiration for",
+            "confidence": 0.984,
+            "box": [
+                [
+                    34.0,
+                    319.0
+                ],
+                [
+                    1041.0,
+                    319.0
+                ],
+                [
+                    1041.0,
+                    369.0
+                ],
+                [
+                    34.0,
+                    369.0
+                ]
+            ]
+        },
+        {
+            "text": "Many",
+            "confidence": 0.999,
+            "box": [
+                [
+                    28.0,
+                    384.0
+                ],
+                [
+                    173.0,
+                    388.0
+                ],
+                [
+                    172.0,
+                    446.0
+                ],
+                [
+                    26.0,
+                    443.0
+                ]
+            ]
+        },
+        {
+            "text": "Thanks For Setting Team India Standards 8",
+            "confidence": 0.989,
+            "box": [
+                [
+                    34.0,
+                    459.0
+                ],
+                [
+                    1077.0,
+                    460.0
+                ],
+                [
+                    1077.0,
+                    512.0
+                ],
+                [
+                    34.0,
+                    510.0
+                ]
+            ]
+        },
+        {
+            "text": "Csk Standards Very High",
+            "confidence": 0.999,
+            "box": [
+                [
+                    31.0,
+                    527.0
+                ],
+                [
+                    648.0,
+                    530.0
+                ],
+                [
+                    648.0,
+                    588.0
+                ],
+                [
+                    31.0,
+                    585.0
+                ]
+            ]
+        },
+        {
+            "text": "Born in Ranchi, Adopted by Entire Nation",
+            "confidence": 1.0,
+            "box": [
+                [
+                    37.0,
+                    602.0
+                ],
+                [
+                    1038.0,
+                    602.0
+                ],
+                [
+                    1038.0,
+                    652.0
+                ],
+                [
+                    37.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "#MSDhoni",
+            "confidence": 0.985,
+            "box": [
+                [
+                    33.0,
+                    667.0
+                ],
+                [
+                    305.0,
+                    671.0
+                ],
+                [
+                    305.0,
+                    722.0
+                ],
+                [
+                    32.0,
+                    719.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPYBIRTHDAY",
+            "confidence": 0.996,
+            "box": [
+                [
+                    782.0,
+                    782.0
+                ],
+                [
+                    1007.0,
+                    782.0
+                ],
+                [
+                    1007.0,
+                    803.0
+                ],
+                [
+                    782.0,
+                    803.0
+                ]
+            ]
+        },
+        {
+            "text": "MThoni",
+            "confidence": 0.844,
+            "box": [
+                [
+                    745.0,
+                    804.0
+                ],
+                [
+                    1027.0,
+                    804.0
+                ],
+                [
+                    1027.0,
+                    882.0
+                ],
+                [
+                    745.0,
+                    882.0
+                ]
+            ]
+        },
+        {
+            "text": "INOHO",
+            "confidence": 0.912,
+            "box": [
+                [
+                    329.0,
+                    952.0
+                ],
+                [
+                    382.0,
+                    952.0
+                ],
+                [
+                    382.0,
+                    980.0
+                ],
+                [
+                    329.0,
+                    980.0
+                ]
+            ]
+        }
+    ]
+}

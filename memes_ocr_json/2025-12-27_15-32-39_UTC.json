@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-12-27_15-32-39_UTC.jpg",
+    "combined_text": "DARLING\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "DARLING",
+            "confidence": 0.997,
+            "box": [
+                [
+                    250.0,
+                    295.0
+                ],
+                [
+                    580.0,
+                    295.0
+                ],
+                [
+                    580.0,
+                    361.0
+                ],
+                [
+                    250.0,
+                    361.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    466.0,
+                    731.0
+                ],
+                [
+                    632.0,
+                    729.0
+                ],
+                [
+                    632.0,
+                    750.0
+                ],
+                [
+                    466.0,
+                    753.0
+                ]
+            ]
+        }
+    ]
+}

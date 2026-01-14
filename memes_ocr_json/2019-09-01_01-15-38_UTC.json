@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-09-01_01-15-38_UTC.jpg",
+    "combined_text": "me: *boils water*\nmom:\nMy kitchen has been destroyed today.\nNow how am I going to clean all this?",
+    "detailed": [
+        {
+            "text": "me: *boils water*",
+            "confidence": 0.962,
+            "box": [
+                [
+                    14.0,
+                    9.0
+                ],
+                [
+                    438.0,
+                    6.0
+                ],
+                [
+                    438.0,
+                    53.0
+                ],
+                [
+                    14.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "mom:",
+            "confidence": 0.982,
+            "box": [
+                [
+                    13.0,
+                    83.0
+                ],
+                [
+                    162.0,
+                    83.0
+                ],
+                [
+                    162.0,
+                    123.0
+                ],
+                [
+                    13.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "My kitchen has been destroyed today.",
+            "confidence": 0.949,
+            "box": [
+                [
+                    56.0,
+                    706.0
+                ],
+                [
+                    776.0,
+                    710.0
+                ],
+                [
+                    776.0,
+                    757.0
+                ],
+                [
+                    56.0,
+                    753.0
+                ]
+            ]
+        },
+        {
+            "text": "Now how am I going to clean all this?",
+            "confidence": 0.963,
+            "box": [
+                [
+                    61.0,
+                    760.0
+                ],
+                [
+                    770.0,
+                    761.0
+                ],
+                [
+                    770.0,
+                    802.0
+                ],
+                [
+                    61.0,
+                    801.0
+                ]
+            ]
+        }
+    ]
+}

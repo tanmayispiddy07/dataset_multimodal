@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-10_13-32-34_UTC_1.jpg",
+    "combined_text": "Minister Nara Lokesh skipped the\nSuper Six Super Hit event to focus on\na bigger concern, the safety of Telugu\ncitizens in Nepal\nSWIPE\n00",
+    "detailed": [
+        {
+            "text": "Minister Nara Lokesh skipped the",
+            "confidence": 0.986,
+            "box": [
+                [
+                    131.0,
+                    28.0
+                ],
+                [
+                    965.0,
+                    28.0
+                ],
+                [
+                    965.0,
+                    77.0
+                ],
+                [
+                    131.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "Super Six Super Hit event to focus on",
+            "confidence": 0.997,
+            "box": [
+                [
+                    87.0,
+                    91.0
+                ],
+                [
+                    1010.0,
+                    90.0
+                ],
+                [
+                    1010.0,
+                    135.0
+                ],
+                [
+                    87.0,
+                    136.0
+                ]
+            ]
+        },
+        {
+            "text": "a bigger concern, the safety of Telugu",
+            "confidence": 1.0,
+            "box": [
+                [
+                    84.0,
+                    149.0
+                ],
+                [
+                    1013.0,
+                    152.0
+                ],
+                [
+                    1012.0,
+                    201.0
+                ],
+                [
+                    84.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "citizens in Nepal",
+            "confidence": 0.999,
+            "box": [
+                [
+                    269.0,
+                    219.0
+                ],
+                [
+                    679.0,
+                    219.0
+                ],
+                [
+                    679.0,
+                    273.0
+                ],
+                [
+                    269.0,
+                    273.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE",
+            "confidence": 0.995,
+            "box": [
+                [
+                    15.0,
+                    325.0
+                ],
+                [
+                    139.0,
+                    325.0
+                ],
+                [
+                    139.0,
+                    371.0
+                ],
+                [
+                    15.0,
+                    371.0
+                ]
+            ]
+        },
+        {
+            "text": "00",
+            "confidence": 0.63,
+            "box": [
+                [
+                    232.0,
+                    995.0
+                ],
+                [
+                    289.0,
+                    1001.0
+                ],
+                [
+                    286.0,
+                    1031.0
+                ],
+                [
+                    228.0,
+                    1024.0
+                ]
+            ]
+        }
+    ]
+}

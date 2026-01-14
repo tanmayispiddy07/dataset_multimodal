@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-08-21_15-00-36_UTC.jpg",
+    "combined_text": "MEGA157 TITLE GLIMPSE EVENT TOMORROW\nAT PRASAD PCX SCREEN,HYDERABAD\nFOR FREE PASSES YOUWEMEDIA.COM OR COLLECT\nAT YOUWEMEDIA OFFICE, MADHAPUR\nSNIHS\nHINE\n#ChiruAnil #MSG\nGRAND-LAUNCHEVENT\nTOMORROW22NDAUGUST,10AM ONWARDS\nAT PRASADSPCX SCREEN\nMEGA\n157\nBOOK YOUR FREE PASSESON YOUWEMEDIA.COM &COLLECTAT YOUWEMEDIA OFFICE\nsChicaAait\nADDICTEDTOMEMES\nFREE PASSES BOOK CHESUKUNNA REPU\nBREAK IVVADANIKI READY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "MEGA157 TITLE GLIMPSE EVENT TOMORROW",
+            "confidence": 0.935,
+            "box": [
+                [
+                    142.0,
+                    21.0
+                ],
+                [
+                    956.0,
+                    21.0
+                ],
+                [
+                    956.0,
+                    54.0
+                ],
+                [
+                    142.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "AT PRASAD PCX SCREEN,HYDERABAD",
+            "confidence": 0.946,
+            "box": [
+                [
+                    201.0,
+                    66.0
+                ],
+                [
+                    900.0,
+                    66.0
+                ],
+                [
+                    900.0,
+                    99.0
+                ],
+                [
+                    201.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR FREE PASSES YOUWEMEDIA.COM OR COLLECT",
+            "confidence": 0.961,
+            "box": [
+                [
+                    84.0,
+                    109.0
+                ],
+                [
+                    1015.0,
+                    110.0
+                ],
+                [
+                    1015.0,
+                    145.0
+                ],
+                [
+                    84.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "AT YOUWEMEDIA OFFICE, MADHAPUR",
+            "confidence": 0.961,
+            "box": [
+                [
+                    200.0,
+                    156.0
+                ],
+                [
+                    896.0,
+                    156.0
+                ],
+                [
+                    896.0,
+                    190.0
+                ],
+                [
+                    200.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "SNIHS",
+            "confidence": 0.841,
+            "box": [
+                [
+                    650.0,
+                    252.0
+                ],
+                [
+                    699.0,
+                    252.0
+                ],
+                [
+                    699.0,
+                    280.0
+                ],
+                [
+                    650.0,
+                    280.0
+                ]
+            ]
+        },
+        {
+            "text": "HINE",
+            "confidence": 0.962,
+            "box": [
+                [
+                    83.0,
+                    287.0
+                ],
+                [
+                    108.0,
+                    287.0
+                ],
+                [
+                    108.0,
+                    297.0
+                ],
+                [
+                    83.0,
+                    297.0
+                ]
+            ]
+        },
+        {
+            "text": "#ChiruAnil #MSG",
+            "confidence": 0.967,
+            "box": [
+                [
+                    418.0,
+                    283.0
+                ],
+                [
+                    548.0,
+                    283.0
+                ],
+                [
+                    548.0,
+                    300.0
+                ],
+                [
+                    418.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "GRAND-LAUNCHEVENT",
+            "confidence": 0.986,
+            "box": [
+                [
+                    84.0,
+                    778.0
+                ],
+                [
+                    311.0,
+                    778.0
+                ],
+                [
+                    311.0,
+                    799.0
+                ],
+                [
+                    84.0,
+                    799.0
+                ]
+            ]
+        },
+        {
+            "text": "TOMORROW22NDAUGUST,10AM ONWARDS",
+            "confidence": 0.933,
+            "box": [
+                [
+                    37.0,
+                    803.0
+                ],
+                [
+                    363.0,
+                    803.0
+                ],
+                [
+                    363.0,
+                    824.0
+                ],
+                [
+                    37.0,
+                    824.0
+                ]
+            ]
+        },
+        {
+            "text": "AT PRASADSPCX SCREEN",
+            "confidence": 0.945,
+            "box": [
+                [
+                    104.0,
+                    826.0
+                ],
+                [
+                    292.0,
+                    826.0
+                ],
+                [
+                    292.0,
+                    847.0
+                ],
+                [
+                    104.0,
+                    847.0
+                ]
+            ]
+        },
+        {
+            "text": "MEGA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    809.0,
+                    836.0
+                ],
+                [
+                    949.0,
+                    836.0
+                ],
+                [
+                    949.0,
+                    881.0
+                ],
+                [
+                    809.0,
+                    881.0
+                ]
+            ]
+        },
+        {
+            "text": "157",
+            "confidence": 0.999,
+            "box": [
+                [
+                    830.0,
+                    874.0
+                ],
+                [
+                    914.0,
+                    874.0
+                ],
+                [
+                    914.0,
+                    927.0
+                ],
+                [
+                    830.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOK YOUR FREE PASSESON YOUWEMEDIA.COM &COLLECTAT YOUWEMEDIA OFFICE",
+            "confidence": 0.951,
+            "box": [
+                [
+                    6.0,
+                    928.0
+                ],
+                [
+                    579.0,
+                    928.0
+                ],
+                [
+                    579.0,
+                    949.0
+                ],
+                [
+                    6.0,
+                    949.0
+                ]
+            ]
+        },
+        {
+            "text": "sChicaAait",
+            "confidence": 0.751,
+            "box": [
+                [
+                    837.0,
+                    920.0
+                ],
+                [
+                    903.0,
+                    920.0
+                ],
+                [
+                    903.0,
+                    938.0
+                ],
+                [
+                    837.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    15.0,
+                    1093.0
+                ],
+                [
+                    174.0,
+                    1091.0
+                ],
+                [
+                    174.0,
+                    1116.0
+                ],
+                [
+                    16.0,
+                    1118.0
+                ]
+            ]
+        },
+        {
+            "text": "FREE PASSES BOOK CHESUKUNNA REPU",
+            "confidence": 0.943,
+            "box": [
+                [
+                    346.0,
+                    1249.0
+                ],
+                [
+                    1004.0,
+                    1249.0
+                ],
+                [
+                    1004.0,
+                    1278.0
+                ],
+                [
+                    346.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAK IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    335.0,
+                    1285.0
+                ],
+                [
+                    1007.0,
+                    1286.0
+                ],
+                [
+                    1007.0,
+                    1320.0
+                ],
+                [
+                    335.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

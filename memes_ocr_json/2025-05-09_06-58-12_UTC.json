@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-05-09_06-58-12_UTC.jpg",
+    "combined_text": "BLOCKBUSTER RESPONSE FROM MORNING SHOWS\nAND COMEDY TIMING OF SREE VISHNU AND VENNELA\nKISHOR STANDS OUT HIGHLIGHT OF THE FILM\nTH\nWORLAO\nPAY\nMAY\n#Sinyle\n#Sinyle\nDOICTEDTOMEMES\nNVU SUPER SREE VISHNU ANNA\nSILENTGA VASTHAVUHITKODTHAVU",
+    "detailed": [
+        {
+            "text": "BLOCKBUSTER RESPONSE FROM MORNING SHOWS",
+            "confidence": 0.955,
+            "box": [
+                [
+                    65.0,
+                    61.0
+                ],
+                [
+                    991.0,
+                    61.0
+                ],
+                [
+                    991.0,
+                    95.0
+                ],
+                [
+                    65.0,
+                    95.0
+                ]
+            ]
+        },
+        {
+            "text": "AND COMEDY TIMING OF SREE VISHNU AND VENNELA",
+            "confidence": 0.932,
+            "box": [
+                [
+                    35.0,
+                    107.0
+                ],
+                [
+                    1022.0,
+                    107.0
+                ],
+                [
+                    1022.0,
+                    141.0
+                ],
+                [
+                    35.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "KISHOR STANDS OUT HIGHLIGHT OF THE FILM",
+            "confidence": 0.951,
+            "box": [
+                [
+                    106.0,
+                    149.0
+                ],
+                [
+                    948.0,
+                    151.0
+                ],
+                [
+                    948.0,
+                    188.0
+                ],
+                [
+                    105.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "TH",
+            "confidence": 0.985,
+            "box": [
+                [
+                    868.0,
+                    287.0
+                ],
+                [
+                    903.0,
+                    280.0
+                ],
+                [
+                    907.0,
+                    304.0
+                ],
+                [
+                    872.0,
+                    311.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLAO",
+            "confidence": 0.506,
+            "box": [
+                [
+                    854.0,
+                    311.0
+                ],
+                [
+                    953.0,
+                    278.0
+                ],
+                [
+                    964.0,
+                    311.0
+                ],
+                [
+                    865.0,
+                    344.0
+                ]
+            ]
+        },
+        {
+            "text": "PAY",
+            "confidence": 0.739,
+            "box": [
+                [
+                    122.0,
+                    343.0
+                ],
+                [
+                    192.0,
+                    326.0
+                ],
+                [
+                    201.0,
+                    364.0
+                ],
+                [
+                    132.0,
+                    381.0
+                ]
+            ]
+        },
+        {
+            "text": "MAY",
+            "confidence": 0.99,
+            "box": [
+                [
+                    707.0,
+                    343.0
+                ],
+                [
+                    786.0,
+                    322.0
+                ],
+                [
+                    796.0,
+                    358.0
+                ],
+                [
+                    717.0,
+                    379.0
+                ]
+            ]
+        },
+        {
+            "text": "#Sinyle",
+            "confidence": 0.963,
+            "box": [
+                [
+                    660.0,
+                    788.0
+                ],
+                [
+                    991.0,
+                    779.0
+                ],
+                [
+                    994.0,
+                    898.0
+                ],
+                [
+                    663.0,
+                    907.0
+                ]
+            ]
+        },
+        {
+            "text": "#Sinyle",
+            "confidence": 0.967,
+            "box": [
+                [
+                    39.0,
+                    798.0
+                ],
+                [
+                    451.0,
+                    772.0
+                ],
+                [
+                    462.0,
+                    932.0
+                ],
+                [
+                    49.0,
+                    958.0
+                ]
+            ]
+        },
+        {
+            "text": "DOICTEDTOMEMES",
+            "confidence": 0.949,
+            "box": [
+                [
+                    22.0,
+                    1054.0
+                ],
+                [
+                    153.0,
+                    1054.0
+                ],
+                [
+                    153.0,
+                    1070.0
+                ],
+                [
+                    22.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "text": "NVU SUPER SREE VISHNU ANNA",
+            "confidence": 0.933,
+            "box": [
+                [
+                    107.0,
+                    1240.0
+                ],
+                [
+                    710.0,
+                    1240.0
+                ],
+                [
+                    710.0,
+                    1278.0
+                ],
+                [
+                    107.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "SILENTGA VASTHAVUHITKODTHAVU",
+            "confidence": 0.98,
+            "box": [
+                [
+                    58.0,
+                    1288.0
+                ],
+                [
+                    761.0,
+                    1288.0
+                ],
+                [
+                    761.0,
+                    1325.0
+                ],
+                [
+                    58.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

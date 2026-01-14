@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-10-23_15-13-59_UTC.jpg",
+    "combined_text": "FIRST TIME DUAL MOVIE IS SHOWN A MONTH BEFORE\nRELEASE THIS SATURDAY TO REVIEWERS, WATCH WHAT\nREVIEWERS WILL SAY ABOUT THE MOVIE.MOVIE\nRELEASING WORLD WIDE NOVEMBER 2IST IN THEATERS\nDUAL\n2282\n \nTELUGU.HINDITAMILMALAYALAM\nKANNADA\nADDICTED TOMEMES\nCHALU CHALUEMATRAM\nCONFIDENCE CHALU PAKKA\nMOVIE CHUDALISINDHE",
+    "detailed": [
+        {
+            "text": "FIRST TIME DUAL MOVIE IS SHOWN A MONTH BEFORE",
+            "confidence": 0.931,
+            "box": [
+                [
+                    51.0,
+                    38.0
+                ],
+                [
+                    1024.0,
+                    38.0
+                ],
+                [
+                    1024.0,
+                    68.0
+                ],
+                [
+                    51.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASE THIS SATURDAY TO REVIEWERS, WATCH WHAT",
+            "confidence": 0.961,
+            "box": [
+                [
+                    37.0,
+                    82.0
+                ],
+                [
+                    1036.0,
+                    82.0
+                ],
+                [
+                    1036.0,
+                    116.0
+                ],
+                [
+                    37.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "REVIEWERS WILL SAY ABOUT THE MOVIE.MOVIE",
+            "confidence": 0.945,
+            "box": [
+                [
+                    93.0,
+                    126.0
+                ],
+                [
+                    980.0,
+                    126.0
+                ],
+                [
+                    980.0,
+                    159.0
+                ],
+                [
+                    93.0,
+                    159.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING WORLD WIDE NOVEMBER 2IST IN THEATERS",
+            "confidence": 0.949,
+            "box": [
+                [
+                    35.0,
+                    172.0
+                ],
+                [
+                    1042.0,
+                    172.0
+                ],
+                [
+                    1042.0,
+                    206.0
+                ],
+                [
+                    35.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "DUAL",
+            "confidence": 0.997,
+            "box": [
+                [
+                    183.0,
+                    370.0
+                ],
+                [
+                    505.0,
+                    370.0
+                ],
+                [
+                    505.0,
+                    463.0
+                ],
+                [
+                    183.0,
+                    463.0
+                ]
+            ]
+        },
+        {
+            "text": "2282",
+            "confidence": 0.52,
+            "box": [
+                [
+                    260.0,
+                    464.0
+                ],
+                [
+                    318.0,
+                    464.0
+                ],
+                [
+                    318.0,
+                    477.0
+                ],
+                [
+                    260.0,
+                    477.0
+                ]
+            ]
+        },
+        {
+            "text": " ",
+            "confidence": 0.648,
+            "box": [
+                [
+                    342.0,
+                    462.0
+                ],
+                [
+                    404.0,
+                    462.0
+                ],
+                [
+                    404.0,
+                    478.0
+                ],
+                [
+                    342.0,
+                    478.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU.HINDITAMILMALAYALAM",
+            "confidence": 0.964,
+            "box": [
+                [
+                    13.0,
+                    893.0
+                ],
+                [
+                    391.0,
+                    893.0
+                ],
+                [
+                    391.0,
+                    915.0
+                ],
+                [
+                    13.0,
+                    915.0
+                ]
+            ]
+        },
+        {
+            "text": "KANNADA",
+            "confidence": 0.995,
+            "box": [
+                [
+                    422.0,
+                    896.0
+                ],
+                [
+                    501.0,
+                    896.0
+                ],
+                [
+                    501.0,
+                    913.0
+                ],
+                [
+                    422.0,
+                    913.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTED TOMEMES",
+            "confidence": 0.959,
+            "box": [
+                [
+                    480.0,
+                    1070.0
+                ],
+                [
+                    601.0,
+                    1071.0
+                ],
+                [
+                    600.0,
+                    1093.0
+                ],
+                [
+                    479.0,
+                    1091.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALU CHALUEMATRAM",
+            "confidence": 0.972,
+            "box": [
+                [
+                    294.0,
+                    1211.0
+                ],
+                [
+                    800.0,
+                    1211.0
+                ],
+                [
+                    800.0,
+                    1245.0
+                ],
+                [
+                    294.0,
+                    1245.0
+                ]
+            ]
+        },
+        {
+            "text": "CONFIDENCE CHALU PAKKA",
+            "confidence": 0.962,
+            "box": [
+                [
+                    270.0,
+                    1259.0
+                ],
+                [
+                    818.0,
+                    1260.0
+                ],
+                [
+                    818.0,
+                    1296.0
+                ],
+                [
+                    270.0,
+                    1294.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE CHUDALISINDHE",
+            "confidence": 0.975,
+            "box": [
+                [
+                    315.0,
+                    1307.0
+                ],
+                [
+                    776.0,
+                    1307.0
+                ],
+                [
+                    776.0,
+                    1345.0
+                ],
+                [
+                    315.0,
+                    1345.0
+                ]
+            ]
+        }
+    ]
+}

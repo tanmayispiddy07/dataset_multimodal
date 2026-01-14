@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-08-11_06-15-00_UTC.jpg",
+    "combined_text": "RETIREMENT\nCHRTONS\nTONMTARETE\nCHANIONS\nTROPHY2025PAKI5TAN\nsarcasm\nA BCCl source: No discussion yet\non Kohli, Rohit's ODl future. Board\nin no rush to decide. (PTI)",
+    "detailed": [
+        {
+            "text": "RETIREMENT",
+            "confidence": 0.996,
+            "box": [
+                [
+                    53.0,
+                    254.0
+                ],
+                [
+                    523.0,
+                    217.0
+                ],
+                [
+                    529.0,
+                    299.0
+                ],
+                [
+                    59.0,
+                    335.0
+                ]
+            ]
+        },
+        {
+            "text": "CHRTONS",
+            "confidence": 0.695,
+            "box": [
+                [
+                    613.0,
+                    677.0
+                ],
+                [
+                    697.0,
+                    681.0
+                ],
+                [
+                    694.0,
+                    730.0
+                ],
+                [
+                    611.0,
+                    726.0
+                ]
+            ]
+        },
+        {
+            "text": "TONMTARETE",
+            "confidence": 0.535,
+            "box": [
+                [
+                    615.0,
+                    722.0
+                ],
+                [
+                    685.0,
+                    722.0
+                ],
+                [
+                    685.0,
+                    741.0
+                ],
+                [
+                    615.0,
+                    741.0
+                ]
+            ]
+        },
+        {
+            "text": "CHANIONS",
+            "confidence": 0.978,
+            "box": [
+                [
+                    98.0,
+                    794.0
+                ],
+                [
+                    260.0,
+                    814.0
+                ],
+                [
+                    254.0,
+                    860.0
+                ],
+                [
+                    92.0,
+                    840.0
+                ]
+            ]
+        },
+        {
+            "text": "TROPHY2025PAKI5TAN",
+            "confidence": 0.849,
+            "box": [
+                [
+                    100.0,
+                    837.0
+                ],
+                [
+                    251.0,
+                    854.0
+                ],
+                [
+                    249.0,
+                    872.0
+                ],
+                [
+                    98.0,
+                    855.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    475.0,
+                    1054.0
+                ],
+                [
+                    602.0,
+                    1054.0
+                ],
+                [
+                    602.0,
+                    1081.0
+                ],
+                [
+                    475.0,
+                    1081.0
+                ]
+            ]
+        },
+        {
+            "text": "A BCCl source: No discussion yet",
+            "confidence": 0.937,
+            "box": [
+                [
+                    49.0,
+                    1104.0
+                ],
+                [
+                    1029.0,
+                    1109.0
+                ],
+                [
+                    1029.0,
+                    1166.0
+                ],
+                [
+                    49.0,
+                    1162.0
+                ]
+            ]
+        },
+        {
+            "text": "on Kohli, Rohit's ODl future. Board",
+            "confidence": 0.985,
+            "box": [
+                [
+                    29.0,
+                    1189.0
+                ],
+                [
+                    1048.0,
+                    1186.0
+                ],
+                [
+                    1048.0,
+                    1244.0
+                ],
+                [
+                    30.0,
+                    1246.0
+                ]
+            ]
+        },
+        {
+            "text": "in no rush to decide. (PTI)",
+            "confidence": 0.963,
+            "box": [
+                [
+                    159.0,
+                    1266.0
+                ],
+                [
+                    915.0,
+                    1266.0
+                ],
+                [
+                    915.0,
+                    1324.0
+                ],
+                [
+                    159.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

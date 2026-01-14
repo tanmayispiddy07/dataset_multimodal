@@ -1,0 +1,138 @@
+{
+    "image_name": "2023-05-13_14-37-55_UTC.jpg",
+    "combined_text": "KrantHi\n@kranthigaa\n@SunRisers\nJust because I'm mad\nSUNRISERS\nThat does't mean i stop loving",
+    "detailed": [
+        {
+            "text": "KrantHi",
+            "confidence": 0.997,
+            "box": [
+                [
+                    171.0,
+                    26.0
+                ],
+                [
+                    330.0,
+                    26.0
+                ],
+                [
+                    330.0,
+                    67.0
+                ],
+                [
+                    171.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "@kranthigaa",
+            "confidence": 0.999,
+            "box": [
+                [
+                    173.0,
+                    73.0
+                ],
+                [
+                    412.0,
+                    77.0
+                ],
+                [
+                    412.0,
+                    121.0
+                ],
+                [
+                    172.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "@SunRisers",
+            "confidence": 0.999,
+            "box": [
+                [
+                    32.0,
+                    147.0
+                ],
+                [
+                    303.0,
+                    150.0
+                ],
+                [
+                    302.0,
+                    195.0
+                ],
+                [
+                    32.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "Just because I'm mad",
+            "confidence": 0.965,
+            "box": [
+                [
+                    55.0,
+                    259.0
+                ],
+                [
+                    854.0,
+                    259.0
+                ],
+                [
+                    854.0,
+                    323.0
+                ],
+                [
+                    55.0,
+                    323.0
+                ]
+            ]
+        },
+        {
+            "text": "SUNRISERS",
+            "confidence": 0.907,
+            "box": [
+                [
+                    78.0,
+                    712.0
+                ],
+                [
+                    385.0,
+                    719.0
+                ],
+                [
+                    382.0,
+                    819.0
+                ],
+                [
+                    75.0,
+                    811.0
+                ]
+            ]
+        },
+        {
+            "text": "That does't mean i stop loving",
+            "confidence": 0.945,
+            "box": [
+                [
+                    91.0,
+                    1112.0
+                ],
+                [
+                    930.0,
+                    1114.0
+                ],
+                [
+                    930.0,
+                    1167.0
+                ],
+                [
+                    91.0,
+                    1164.0
+                ]
+            ]
+        }
+    ]
+}

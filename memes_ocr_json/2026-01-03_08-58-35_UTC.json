@@ -1,0 +1,424 @@
+{
+    "image_name": "2026-01-03_08-58-35_UTC.jpg",
+    "combined_text": "INTERESTING POSTER OF \"HAINDAVA\"\nDIRECTED BY LUDHEER BYREDDY\nFAMEES\nHAPPY BIRTHDA\nBELLAMKONDA\nSAI SREENIVAS\nBIRTHD\nHAPPY\nHAINDAVA\nBELLAMKONDA\nSAI SREENIVAS\nLURRE\nHAINDAVA\nSE-CLASE\nS MUSIOL\nADDICTEDTOMEMES\nPOSTER CHUSTHUNTE HAINDAVA\nMOVIE BELLAM ANNA KI MILESTONE\nLAAGA MIGILIPOTHUNDHEMO..",
+    "detailed": [
+        {
+            "text": "INTERESTING POSTER OF \"HAINDAVA\"",
+            "confidence": 0.943,
+            "box": [
+                [
+                    51.0,
+                    64.0
+                ],
+                [
+                    991.0,
+                    66.0
+                ],
+                [
+                    991.0,
+                    112.0
+                ],
+                [
+                    51.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "DIRECTED BY LUDHEER BYREDDY",
+            "confidence": 0.95,
+            "box": [
+                [
+                    134.0,
+                    130.0
+                ],
+                [
+                    930.0,
+                    130.0
+                ],
+                [
+                    930.0,
+                    171.0
+                ],
+                [
+                    134.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMEES",
+            "confidence": 0.653,
+            "box": [
+                [
+                    1049.0,
+                    220.0
+                ],
+                [
+                    1077.0,
+                    220.0
+                ],
+                [
+                    1077.0,
+                    231.0
+                ],
+                [
+                    1049.0,
+                    231.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY BIRTHDA",
+            "confidence": 0.925,
+            "box": [
+                [
+                    396.0,
+                    526.0
+                ],
+                [
+                    548.0,
+                    490.0
+                ],
+                [
+                    553.0,
+                    511.0
+                ],
+                [
+                    401.0,
+                    547.0
+                ]
+            ]
+        },
+        {
+            "text": "BELLAMKONDA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    425.0,
+                    532.0
+                ],
+                [
+                    533.0,
+                    510.0
+                ],
+                [
+                    538.0,
+                    531.0
+                ],
+                [
+                    430.0,
+                    553.0
+                ]
+            ]
+        },
+        {
+            "text": "SAI SREENIVAS",
+            "confidence": 0.979,
+            "box": [
+                [
+                    428.0,
+                    550.0
+                ],
+                [
+                    539.0,
+                    525.0
+                ],
+                [
+                    544.0,
+                    547.0
+                ],
+                [
+                    433.0,
+                    572.0
+                ]
+            ]
+        },
+        {
+            "text": "BIRTHD",
+            "confidence": 0.967,
+            "box": [
+                [
+                    998.0,
+                    562.0
+                ],
+                [
+                    1073.0,
+                    545.0
+                ],
+                [
+                    1077.0,
+                    563.0
+                ],
+                [
+                    1003.0,
+                    580.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY",
+            "confidence": 0.985,
+            "box": [
+                [
+                    940.0,
+                    575.0
+                ],
+                [
+                    1009.0,
+                    557.0
+                ],
+                [
+                    1015.0,
+                    578.0
+                ],
+                [
+                    945.0,
+                    595.0
+                ]
+            ]
+        },
+        {
+            "text": "HAINDAVA",
+            "confidence": 0.968,
+            "box": [
+                [
+                    31.0,
+                    585.0
+                ],
+                [
+                    287.0,
+                    534.0
+                ],
+                [
+                    300.0,
+                    596.0
+                ],
+                [
+                    43.0,
+                    647.0
+                ]
+            ]
+        },
+        {
+            "text": "BELLAMKONDA",
+            "confidence": 0.985,
+            "box": [
+                [
+                    969.0,
+                    581.0
+                ],
+                [
+                    1071.0,
+                    559.0
+                ],
+                [
+                    1076.0,
+                    580.0
+                ],
+                [
+                    973.0,
+                    602.0
+                ]
+            ]
+        },
+        {
+            "text": "SAI SREENIVAS",
+            "confidence": 0.976,
+            "box": [
+                [
+                    971.0,
+                    595.0
+                ],
+                [
+                    1074.0,
+                    574.0
+                ],
+                [
+                    1079.0,
+                    596.0
+                ],
+                [
+                    976.0,
+                    617.0
+                ]
+            ]
+        },
+        {
+            "text": "LURRE",
+            "confidence": 0.529,
+            "box": [
+                [
+                    163.0,
+                    627.0
+                ],
+                [
+                    238.0,
+                    615.0
+                ],
+                [
+                    242.0,
+                    636.0
+                ],
+                [
+                    167.0,
+                    648.0
+                ]
+            ]
+        },
+        {
+            "text": "HAINDAVA",
+            "confidence": 0.983,
+            "box": [
+                [
+                    598.0,
+                    634.0
+                ],
+                [
+                    854.0,
+                    582.0
+                ],
+                [
+                    868.0,
+                    648.0
+                ],
+                [
+                    612.0,
+                    700.0
+                ]
+            ]
+        },
+        {
+            "text": "SE-CLASE",
+            "confidence": 0.522,
+            "box": [
+                [
+                    668.0,
+                    699.0
+                ],
+                [
+                    715.0,
+                    687.0
+                ],
+                [
+                    718.0,
+                    700.0
+                ],
+                [
+                    672.0,
+                    712.0
+                ]
+            ]
+        },
+        {
+            "text": "S MUSIOL",
+            "confidence": 0.733,
+            "box": [
+                [
+                    735.0,
+                    713.0
+                ],
+                [
+                    793.0,
+                    704.0
+                ],
+                [
+                    795.0,
+                    723.0
+                ],
+                [
+                    737.0,
+                    731.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.987,
+            "box": [
+                [
+                    31.0,
+                    1079.0
+                ],
+                [
+                    158.0,
+                    1079.0
+                ],
+                [
+                    158.0,
+                    1100.0
+                ],
+                [
+                    31.0,
+                    1100.0
+                ]
+            ]
+        },
+        {
+            "text": "POSTER CHUSTHUNTE HAINDAVA",
+            "confidence": 0.967,
+            "box": [
+                [
+                    245.0,
+                    1201.0
+                ],
+                [
+                    861.0,
+                    1201.0
+                ],
+                [
+                    861.0,
+                    1235.0
+                ],
+                [
+                    245.0,
+                    1235.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE BELLAM ANNA KI MILESTONE",
+            "confidence": 0.947,
+            "box": [
+                [
+                    208.0,
+                    1247.0
+                ],
+                [
+                    896.0,
+                    1247.0
+                ],
+                [
+                    896.0,
+                    1281.0
+                ],
+                [
+                    208.0,
+                    1281.0
+                ]
+            ]
+        },
+        {
+            "text": "LAAGA MIGILIPOTHUNDHEMO..",
+            "confidence": 0.975,
+            "box": [
+                [
+                    255.0,
+                    1292.0
+                ],
+                [
+                    849.0,
+                    1293.0
+                ],
+                [
+                    849.0,
+                    1328.0
+                ],
+                [
+                    254.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

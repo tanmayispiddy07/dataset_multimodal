@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-04-30_23-48-01_UTC.jpg",
+    "combined_text": "YOUCAN BEANYTHING\nYOUWANT\nDOCTOR OR ENGINEER",
+    "detailed": [
+        {
+            "text": "YOUCAN BEANYTHING",
+            "confidence": 0.97,
+            "box": [
+                [
+                    34.0,
+                    5.0
+                ],
+                [
+                    433.0,
+                    5.0
+                ],
+                [
+                    433.0,
+                    48.0
+                ],
+                [
+                    34.0,
+                    48.0
+                ]
+            ]
+        },
+        {
+            "text": "YOUWANT",
+            "confidence": 0.994,
+            "box": [
+                [
+                    139.0,
+                    54.0
+                ],
+                [
+                    333.0,
+                    54.0
+                ],
+                [
+                    333.0,
+                    104.0
+                ],
+                [
+                    139.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "DOCTOR OR ENGINEER",
+            "confidence": 0.957,
+            "box": [
+                [
+                    26.0,
+                    387.0
+                ],
+                [
+                    431.0,
+                    387.0
+                ],
+                [
+                    431.0,
+                    433.0
+                ],
+                [
+                    26.0,
+                    433.0
+                ]
+            ]
+        }
+    ]
+}

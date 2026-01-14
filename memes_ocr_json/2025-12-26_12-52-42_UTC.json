@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-12-26_12-52-42_UTC.jpg",
+    "combined_text": "ME ANDMYFAMILY WATCHING THIS\nSHOW IN ZEE TELUGUFOR NEWYEAR",
+    "detailed": [
+        {
+            "text": "ME ANDMYFAMILY WATCHING THIS",
+            "confidence": 0.954,
+            "box": [
+                [
+                    53.0,
+                    692.0
+                ],
+                [
+                    481.0,
+                    693.0
+                ],
+                [
+                    481.0,
+                    715.0
+                ],
+                [
+                    53.0,
+                    714.0
+                ]
+            ]
+        },
+        {
+            "text": "SHOW IN ZEE TELUGUFOR NEWYEAR",
+            "confidence": 0.94,
+            "box": [
+                [
+                    44.0,
+                    722.0
+                ],
+                [
+                    491.0,
+                    722.0
+                ],
+                [
+                    491.0,
+                    743.0
+                ],
+                [
+                    44.0,
+                    743.0
+                ]
+            ]
+        }
+    ]
+}

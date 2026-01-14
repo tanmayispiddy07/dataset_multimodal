@@ -1,0 +1,754 @@
+{
+    "image_name": "2025-10-09_03-59-35_UTC.jpg",
+    "combined_text": "INSTAGRAM NEW UPDATE\nLOCATION SHARING WITH FRIENDS\nFRANG\nC\nSee what everyone's up to\nShare location with\nCatch up with friends and see what's\nYour precise location updates every time you open\naround you.\nInstagram, but disappears if you don't open the app\nfor 24 hours.Learn more\nDiscover places and posts.See what's\ntagged nearby.\nMutual followers\nNo one can see your location until you\nClose Friends\nshare it with them.Shared locations\n17 people you follow back\nappear in places like the mapfeed\nand chats.\nSpecific accounts\nChoose people>\nShare with people you trust.Change\nyour settings at any time.\nHide from...\nChoose people>\nNext\nShare\nCTEDTOM\nMARK MAWA NEKUOFFICE LO\nPANI LEKHAPOTHE EVARINI AYINA\nTHAGULUKO OFFICE LO\nKANI MAMALINI ILA KOTHA KOTHA\nUPDATES THO THAGULUKOKU",
+    "detailed": [
+        {
+            "text": "INSTAGRAM NEW UPDATE",
+            "confidence": 0.964,
+            "box": [
+                [
+                    212.0,
+                    26.0
+                ],
+                [
+                    893.0,
+                    26.0
+                ],
+                [
+                    893.0,
+                    68.0
+                ],
+                [
+                    212.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "LOCATION SHARING WITH FRIENDS",
+            "confidence": 0.953,
+            "box": [
+                [
+                    83.0,
+                    93.0
+                ],
+                [
+                    1021.0,
+                    93.0
+                ],
+                [
+                    1021.0,
+                    135.0
+                ],
+                [
+                    83.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "FRANG",
+            "confidence": 0.852,
+            "box": [
+                [
+                    232.0,
+                    174.0
+                ],
+                [
+                    267.0,
+                    174.0
+                ],
+                [
+                    267.0,
+                    187.0
+                ],
+                [
+                    232.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "C",
+            "confidence": 0.836,
+            "box": [
+                [
+                    899.0,
+                    208.0
+                ],
+                [
+                    928.0,
+                    208.0
+                ],
+                [
+                    928.0,
+                    236.0
+                ],
+                [
+                    899.0,
+                    236.0
+                ]
+            ]
+        },
+        {
+            "text": "See what everyone's up to",
+            "confidence": 0.946,
+            "box": [
+                [
+                    56.0,
+                    464.0
+                ],
+                [
+                    408.0,
+                    466.0
+                ],
+                [
+                    408.0,
+                    496.0
+                ],
+                [
+                    56.0,
+                    495.0
+                ]
+            ]
+        },
+        {
+            "text": "Share location with",
+            "confidence": 0.957,
+            "box": [
+                [
+                    652.0,
+                    474.0
+                ],
+                [
+                    861.0,
+                    474.0
+                ],
+                [
+                    861.0,
+                    503.0
+                ],
+                [
+                    652.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "Catch up with friends and see what's",
+            "confidence": 0.949,
+            "box": [
+                [
+                    106.0,
+                    510.0
+                ],
+                [
+                    408.0,
+                    512.0
+                ],
+                [
+                    408.0,
+                    534.0
+                ],
+                [
+                    105.0,
+                    532.0
+                ]
+            ]
+        },
+        {
+            "text": "Your precise location updates every time you open",
+            "confidence": 0.973,
+            "box": [
+                [
+                    570.0,
+                    520.0
+                ],
+                [
+                    942.0,
+                    521.0
+                ],
+                [
+                    942.0,
+                    542.0
+                ],
+                [
+                    569.0,
+                    541.0
+                ]
+            ]
+        },
+        {
+            "text": "around you.",
+            "confidence": 0.983,
+            "box": [
+                [
+                    107.0,
+                    531.0
+                ],
+                [
+                    207.0,
+                    531.0
+                ],
+                [
+                    207.0,
+                    552.0
+                ],
+                [
+                    107.0,
+                    552.0
+                ]
+            ]
+        },
+        {
+            "text": "Instagram, but disappears if you don't open the app",
+            "confidence": 0.935,
+            "box": [
+                [
+                    565.0,
+                    539.0
+                ],
+                [
+                    946.0,
+                    539.0
+                ],
+                [
+                    946.0,
+                    560.0
+                ],
+                [
+                    565.0,
+                    560.0
+                ]
+            ]
+        },
+        {
+            "text": "for 24 hours.Learn more",
+            "confidence": 0.957,
+            "box": [
+                [
+                    662.0,
+                    556.0
+                ],
+                [
+                    849.0,
+                    556.0
+                ],
+                [
+                    849.0,
+                    577.0
+                ],
+                [
+                    662.0,
+                    577.0
+                ]
+            ]
+        },
+        {
+            "text": "Discover places and posts.See what's",
+            "confidence": 0.983,
+            "box": [
+                [
+                    108.0,
+                    584.0
+                ],
+                [
+                    418.0,
+                    584.0
+                ],
+                [
+                    418.0,
+                    605.0
+                ],
+                [
+                    108.0,
+                    605.0
+                ]
+            ]
+        },
+        {
+            "text": "tagged nearby.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    107.0,
+                    602.0
+                ],
+                [
+                    232.0,
+                    604.0
+                ],
+                [
+                    232.0,
+                    626.0
+                ],
+                [
+                    107.0,
+                    624.0
+                ]
+            ]
+        },
+        {
+            "text": "Mutual followers",
+            "confidence": 0.993,
+            "box": [
+                [
+                    622.0,
+                    605.0
+                ],
+                [
+                    752.0,
+                    605.0
+                ],
+                [
+                    752.0,
+                    626.0
+                ],
+                [
+                    622.0,
+                    626.0
+                ]
+            ]
+        },
+        {
+            "text": "No one can see your location until you",
+            "confidence": 0.951,
+            "box": [
+                [
+                    107.0,
+                    655.0
+                ],
+                [
+                    416.0,
+                    655.0
+                ],
+                [
+                    416.0,
+                    676.0
+                ],
+                [
+                    107.0,
+                    676.0
+                ]
+            ]
+        },
+        {
+            "text": "Close Friends",
+            "confidence": 0.978,
+            "box": [
+                [
+                    623.0,
+                    659.0
+                ],
+                [
+                    731.0,
+                    659.0
+                ],
+                [
+                    731.0,
+                    683.0
+                ],
+                [
+                    623.0,
+                    683.0
+                ]
+            ]
+        },
+        {
+            "text": "share it with them.Shared locations",
+            "confidence": 0.966,
+            "box": [
+                [
+                    108.0,
+                    675.0
+                ],
+                [
+                    401.0,
+                    675.0
+                ],
+                [
+                    401.0,
+                    695.0
+                ],
+                [
+                    108.0,
+                    695.0
+                ]
+            ]
+        },
+        {
+            "text": "17 people you follow back",
+            "confidence": 0.932,
+            "box": [
+                [
+                    622.0,
+                    677.0
+                ],
+                [
+                    831.0,
+                    677.0
+                ],
+                [
+                    831.0,
+                    702.0
+                ],
+                [
+                    622.0,
+                    702.0
+                ]
+            ]
+        },
+        {
+            "text": "appear in places like the mapfeed",
+            "confidence": 0.951,
+            "box": [
+                [
+                    104.0,
+                    693.0
+                ],
+                [
+                    389.0,
+                    691.0
+                ],
+                [
+                    390.0,
+                    716.0
+                ],
+                [
+                    104.0,
+                    718.0
+                ]
+            ]
+        },
+        {
+            "text": "and chats.",
+            "confidence": 0.975,
+            "box": [
+                [
+                    105.0,
+                    711.0
+                ],
+                [
+                    197.0,
+                    714.0
+                ],
+                [
+                    196.0,
+                    736.0
+                ],
+                [
+                    104.0,
+                    733.0
+                ]
+            ]
+        },
+        {
+            "text": "Specific accounts",
+            "confidence": 0.985,
+            "box": [
+                [
+                    622.0,
+                    725.0
+                ],
+                [
+                    762.0,
+                    725.0
+                ],
+                [
+                    762.0,
+                    746.0
+                ],
+                [
+                    622.0,
+                    746.0
+                ]
+            ]
+        },
+        {
+            "text": "Choose people>",
+            "confidence": 0.963,
+            "box": [
+                [
+                    622.0,
+                    743.0
+                ],
+                [
+                    757.0,
+                    743.0
+                ],
+                [
+                    757.0,
+                    764.0
+                ],
+                [
+                    622.0,
+                    764.0
+                ]
+            ]
+        },
+        {
+            "text": "Share with people you trust.Change",
+            "confidence": 0.977,
+            "box": [
+                [
+                    107.0,
+                    764.0
+                ],
+                [
+                    405.0,
+                    767.0
+                ],
+                [
+                    405.0,
+                    788.0
+                ],
+                [
+                    107.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "your settings at any time.",
+            "confidence": 0.977,
+            "box": [
+                [
+                    107.0,
+                    786.0
+                ],
+                [
+                    314.0,
+                    786.0
+                ],
+                [
+                    314.0,
+                    807.0
+                ],
+                [
+                    107.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "Hide from...",
+            "confidence": 0.957,
+            "box": [
+                [
+                    621.0,
+                    786.0
+                ],
+                [
+                    717.0,
+                    789.0
+                ],
+                [
+                    717.0,
+                    811.0
+                ],
+                [
+                    620.0,
+                    808.0
+                ]
+            ]
+        },
+        {
+            "text": "Choose people>",
+            "confidence": 0.96,
+            "box": [
+                [
+                    620.0,
+                    805.0
+                ],
+                [
+                    752.0,
+                    807.0
+                ],
+                [
+                    752.0,
+                    829.0
+                ],
+                [
+                    620.0,
+                    828.0
+                ]
+            ]
+        },
+        {
+            "text": "Next",
+            "confidence": 0.998,
+            "box": [
+                [
+                    215.0,
+                    868.0
+                ],
+                [
+                    263.0,
+                    868.0
+                ],
+                [
+                    263.0,
+                    891.0
+                ],
+                [
+                    215.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "Share",
+            "confidence": 0.995,
+            "box": [
+                [
+                    729.0,
+                    869.0
+                ],
+                [
+                    784.0,
+                    873.0
+                ],
+                [
+                    782.0,
+                    895.0
+                ],
+                [
+                    728.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "CTEDTOM",
+            "confidence": 0.994,
+            "box": [
+                [
+                    958.0,
+                    980.0
+                ],
+                [
+                    1027.0,
+                    980.0
+                ],
+                [
+                    1027.0,
+                    992.0
+                ],
+                [
+                    958.0,
+                    992.0
+                ]
+            ]
+        },
+        {
+            "text": "MARK MAWA NEKUOFFICE LO",
+            "confidence": 0.943,
+            "box": [
+                [
+                    562.0,
+                    1150.0
+                ],
+                [
+                    1008.0,
+                    1150.0
+                ],
+                [
+                    1008.0,
+                    1179.0
+                ],
+                [
+                    562.0,
+                    1179.0
+                ]
+            ]
+        },
+        {
+            "text": "PANI LEKHAPOTHE EVARINI AYINA",
+            "confidence": 0.966,
+            "box": [
+                [
+                    530.0,
+                    1185.0
+                ],
+                [
+                    1035.0,
+                    1186.0
+                ],
+                [
+                    1035.0,
+                    1217.0
+                ],
+                [
+                    530.0,
+                    1215.0
+                ]
+            ]
+        },
+        {
+            "text": "THAGULUKO OFFICE LO",
+            "confidence": 0.954,
+            "box": [
+                [
+                    608.0,
+                    1224.0
+                ],
+                [
+                    963.0,
+                    1224.0
+                ],
+                [
+                    963.0,
+                    1253.0
+                ],
+                [
+                    608.0,
+                    1253.0
+                ]
+            ]
+        },
+        {
+            "text": "KANI MAMALINI ILA KOTHA KOTHA",
+            "confidence": 0.94,
+            "box": [
+                [
+                    522.0,
+                    1261.0
+                ],
+                [
+                    1049.0,
+                    1261.0
+                ],
+                [
+                    1049.0,
+                    1291.0
+                ],
+                [
+                    522.0,
+                    1291.0
+                ]
+            ]
+        },
+        {
+            "text": "UPDATES THO THAGULUKOKU",
+            "confidence": 0.975,
+            "box": [
+                [
+                    561.0,
+                    1299.0
+                ],
+                [
+                    1008.0,
+                    1296.0
+                ],
+                [
+                    1008.0,
+                    1325.0
+                ],
+                [
+                    561.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

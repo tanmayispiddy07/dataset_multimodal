@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-03-19_15-55-48_UTC.jpg",
+    "combined_text": "AFTER COURT, DARSHI AIMS ANOTHER HIT\nWITH WHOLESOME FAMILY ENTERTAINER\n'SARANGAPANI JATHAKAM'ON APRIL 18TH\nIndrogant\nSRIDEVI MOVIES\ntooonty\nSRIDEVI MOVIES\ntooontr\n350\nIN CINEMAS\nIN CINEMAS\n18'APRIL\n18'APRIL\nCe\nADDICTEDTOMEMES\nAHAAA SILENT GA INKO\nBLOCKBUSTER LOADING",
+    "detailed": [
+        {
+            "text": "AFTER COURT, DARSHI AIMS ANOTHER HIT",
+            "confidence": 0.945,
+            "box": [
+                [
+                    167.0,
+                    15.0
+                ],
+                [
+                    983.0,
+                    14.0
+                ],
+                [
+                    983.0,
+                    52.0
+                ],
+                [
+                    167.0,
+                    53.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH WHOLESOME FAMILY ENTERTAINER",
+            "confidence": 0.958,
+            "box": [
+                [
+                    186.0,
+                    64.0
+                ],
+                [
+                    963.0,
+                    64.0
+                ],
+                [
+                    963.0,
+                    98.0
+                ],
+                [
+                    186.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "'SARANGAPANI JATHAKAM'ON APRIL 18TH",
+            "confidence": 0.955,
+            "box": [
+                [
+                    159.0,
+                    113.0
+                ],
+                [
+                    989.0,
+                    113.0
+                ],
+                [
+                    989.0,
+                    146.0
+                ],
+                [
+                    159.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "Indrogant",
+            "confidence": 0.986,
+            "box": [
+                [
+                    833.0,
+                    187.0
+                ],
+                [
+                    892.0,
+                    188.0
+                ],
+                [
+                    891.0,
+                    202.0
+                ],
+                [
+                    832.0,
+                    201.0
+                ]
+            ]
+        },
+        {
+            "text": "SRIDEVI MOVIES",
+            "confidence": 0.951,
+            "box": [
+                [
+                    11.0,
+                    205.0
+                ],
+                [
+                    93.0,
+                    205.0
+                ],
+                [
+                    93.0,
+                    227.0
+                ],
+                [
+                    11.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "tooonty",
+            "confidence": 0.712,
+            "box": [
+                [
+                    206.0,
+                    210.0
+                ],
+                [
+                    358.0,
+                    201.0
+                ],
+                [
+                    361.0,
+                    254.0
+                ],
+                [
+                    209.0,
+                    263.0
+                ]
+            ]
+        },
+        {
+            "text": "SRIDEVI MOVIES",
+            "confidence": 0.933,
+            "box": [
+                [
+                    544.0,
+                    206.0
+                ],
+                [
+                    627.0,
+                    206.0
+                ],
+                [
+                    627.0,
+                    227.0
+                ],
+                [
+                    544.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "tooontr",
+            "confidence": 0.674,
+            "box": [
+                [
+                    741.0,
+                    209.0
+                ],
+                [
+                    903.0,
+                    198.0
+                ],
+                [
+                    907.0,
+                    255.0
+                ],
+                [
+                    745.0,
+                    266.0
+                ]
+            ]
+        },
+        {
+            "text": "350",
+            "confidence": 0.517,
+            "box": [
+                [
+                    771.0,
+                    241.0
+                ],
+                [
+                    865.0,
+                    241.0
+                ],
+                [
+                    865.0,
+                    276.0
+                ],
+                [
+                    771.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS",
+            "confidence": 0.973,
+            "box": [
+                [
+                    46.0,
+                    356.0
+                ],
+                [
+                    211.0,
+                    360.0
+                ],
+                [
+                    210.0,
+                    403.0
+                ],
+                [
+                    45.0,
+                    400.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS",
+            "confidence": 0.956,
+            "box": [
+                [
+                    579.0,
+                    358.0
+                ],
+                [
+                    748.0,
+                    358.0
+                ],
+                [
+                    748.0,
+                    401.0
+                ],
+                [
+                    579.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "18'APRIL",
+            "confidence": 0.933,
+            "box": [
+                [
+                    24.0,
+                    401.0
+                ],
+                [
+                    231.0,
+                    401.0
+                ],
+                [
+                    231.0,
+                    463.0
+                ],
+                [
+                    24.0,
+                    463.0
+                ]
+            ]
+        },
+        {
+            "text": "18'APRIL",
+            "confidence": 0.919,
+            "box": [
+                [
+                    560.0,
+                    403.0
+                ],
+                [
+                    768.0,
+                    403.0
+                ],
+                [
+                    768.0,
+                    464.0
+                ],
+                [
+                    560.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "text": "Ce",
+            "confidence": 0.558,
+            "box": [
+                [
+                    383.0,
+                    653.0
+                ],
+                [
+                    417.0,
+                    650.0
+                ],
+                [
+                    421.0,
+                    706.0
+                ],
+                [
+                    387.0,
+                    709.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    847.0,
+                    1114.0
+                ],
+                [
+                    998.0,
+                    1114.0
+                ],
+                [
+                    998.0,
+                    1135.0
+                ],
+                [
+                    847.0,
+                    1135.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAAA SILENT GA INKO",
+            "confidence": 0.935,
+            "box": [
+                [
+                    499.0,
+                    1233.0
+                ],
+                [
+                    982.0,
+                    1233.0
+                ],
+                [
+                    982.0,
+                    1271.0
+                ],
+                [
+                    499.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER LOADING",
+            "confidence": 0.982,
+            "box": [
+                [
+                    489.0,
+                    1282.0
+                ],
+                [
+                    977.0,
+                    1284.0
+                ],
+                [
+                    977.0,
+                    1323.0
+                ],
+                [
+                    489.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

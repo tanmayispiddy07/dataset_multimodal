@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-27_08-46-32_UTC_1.jpg",
+    "combined_text": "Australia\nSource:Parks Australia\nsarcasm\n\"Like a moving red carpet\": Millions\nof crabs cover Australia's Christmas\nIsland marching to the sea",
+    "detailed": [
+        {
+            "text": "Australia",
+            "confidence": 0.997,
+            "box": [
+                [
+                    38.0,
+                    23.0
+                ],
+                [
+                    123.0,
+                    23.0
+                ],
+                [
+                    123.0,
+                    43.0
+                ],
+                [
+                    38.0,
+                    43.0
+                ]
+            ]
+        },
+        {
+            "text": "Source:Parks Australia",
+            "confidence": 0.979,
+            "box": [
+                [
+                    503.0,
+                    21.0
+                ],
+                [
+                    709.0,
+                    21.0
+                ],
+                [
+                    709.0,
+                    40.0
+                ],
+                [
+                    503.0,
+                    40.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    312.0,
+                    722.0
+                ],
+                [
+                    399.0,
+                    722.0
+                ],
+                [
+                    399.0,
+                    741.0
+                ],
+                [
+                    312.0,
+                    741.0
+                ]
+            ]
+        },
+        {
+            "text": "\"Like a moving red carpet\": Millions",
+            "confidence": 0.975,
+            "box": [
+                [
+                    31.0,
+                    751.0
+                ],
+                [
+                    685.0,
+                    753.0
+                ],
+                [
+                    685.0,
+                    795.0
+                ],
+                [
+                    31.0,
+                    792.0
+                ]
+            ]
+        },
+        {
+            "text": "of crabs cover Australia's Christmas",
+            "confidence": 0.992,
+            "box": [
+                [
+                    31.0,
+                    803.0
+                ],
+                [
+                    690.0,
+                    805.0
+                ],
+                [
+                    690.0,
+                    837.0
+                ],
+                [
+                    31.0,
+                    835.0
+                ]
+            ]
+        },
+        {
+            "text": "Island marching to the sea",
+            "confidence": 0.997,
+            "box": [
+                [
+                    62.0,
+                    849.0
+                ],
+                [
+                    551.0,
+                    851.0
+                ],
+                [
+                    551.0,
+                    886.0
+                ],
+                [
+                    62.0,
+                    884.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-04-11_04-46-45_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE FILM\n\"MARANA MASS\"\nALMOST ACTEDIN 7-8 FILMS AND TRUST ME EVERY FILM\nOF HIM FULLYFUN FILLED ANDFAMILY THONE HAPPYGA\nNAVVUKUNTUCHUDAVACHU THAT'S THE STANDARDS HE SET\nTOVINO THOMAS\nPRODUCTIONS\nADDCTEDTOMEMES\nMAKANAMASS\nSIVAPRASAD\nEXCELLENT AND ENTERTAINING 1ST\nHALF,EMOTIONAL 2ND HALF ANOTHER\nBLOCKBUSTER FOR BASIL JOSEPH\nA MUST WATCH FILM THEATERS LO ONLY\nMALAYALAM LO UNDI VELLI CHUDANDI\nSUBTITLES AVAILABLE\nHE IS THE NEXT SUPERSTAR FROM MALAYALAM",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE FILM",
+            "confidence": 0.944,
+            "box": [
+                [
+                    148.0,
+                    42.0
+                ],
+                [
+                    906.0,
+                    42.0
+                ],
+                [
+                    906.0,
+                    85.0
+                ],
+                [
+                    148.0,
+                    85.0
+                ]
+            ]
+        },
+        {
+            "text": "\"MARANA MASS\"",
+            "confidence": 0.986,
+            "box": [
+                [
+                    331.0,
+                    99.0
+                ],
+                [
+                    724.0,
+                    98.0
+                ],
+                [
+                    724.0,
+                    137.0
+                ],
+                [
+                    331.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "ALMOST ACTEDIN 7-8 FILMS AND TRUST ME EVERY FILM",
+            "confidence": 0.925,
+            "box": [
+                [
+                    71.0,
+                    215.0
+                ],
+                [
+                    1016.0,
+                    215.0
+                ],
+                [
+                    1016.0,
+                    246.0
+                ],
+                [
+                    71.0,
+                    246.0
+                ]
+            ]
+        },
+        {
+            "text": "OF HIM FULLYFUN FILLED ANDFAMILY THONE HAPPYGA",
+            "confidence": 0.942,
+            "box": [
+                [
+                    70.0,
+                    259.0
+                ],
+                [
+                    1015.0,
+                    259.0
+                ],
+                [
+                    1015.0,
+                    286.0
+                ],
+                [
+                    70.0,
+                    286.0
+                ]
+            ]
+        },
+        {
+            "text": "NAVVUKUNTUCHUDAVACHU THAT'S THE STANDARDS HE SET",
+            "confidence": 0.952,
+            "box": [
+                [
+                    34.0,
+                    298.0
+                ],
+                [
+                    1055.0,
+                    298.0
+                ],
+                [
+                    1055.0,
+                    329.0
+                ],
+                [
+                    34.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "TOVINO THOMAS",
+            "confidence": 0.937,
+            "box": [
+                [
+                    280.0,
+                    395.0
+                ],
+                [
+                    449.0,
+                    393.0
+                ],
+                [
+                    449.0,
+                    418.0
+                ],
+                [
+                    281.0,
+                    419.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCTIONS",
+            "confidence": 0.991,
+            "box": [
+                [
+                    314.0,
+                    415.0
+                ],
+                [
+                    414.0,
+                    415.0
+                ],
+                [
+                    414.0,
+                    431.0
+                ],
+                [
+                    314.0,
+                    431.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDCTEDTOMEMES",
+            "confidence": 0.947,
+            "box": [
+                [
+                    588.0,
+                    501.0
+                ],
+                [
+                    705.0,
+                    501.0
+                ],
+                [
+                    705.0,
+                    521.0
+                ],
+                [
+                    588.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "text": "MAKANAMASS",
+            "confidence": 0.949,
+            "box": [
+                [
+                    8.0,
+                    770.0
+                ],
+                [
+                    336.0,
+                    792.0
+                ],
+                [
+                    330.0,
+                    882.0
+                ],
+                [
+                    2.0,
+                    860.0
+                ]
+            ]
+        },
+        {
+            "text": "SIVAPRASAD",
+            "confidence": 0.987,
+            "box": [
+                [
+                    363.0,
+                    849.0
+                ],
+                [
+                    450.0,
+                    846.0
+                ],
+                [
+                    451.0,
+                    866.0
+                ],
+                [
+                    364.0,
+                    869.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCELLENT AND ENTERTAINING 1ST",
+            "confidence": 0.967,
+            "box": [
+                [
+                    182.0,
+                    895.0
+                ],
+                [
+                    937.0,
+                    895.0
+                ],
+                [
+                    937.0,
+                    930.0
+                ],
+                [
+                    182.0,
+                    930.0
+                ]
+            ]
+        },
+        {
+            "text": "HALF,EMOTIONAL 2ND HALF ANOTHER",
+            "confidence": 0.947,
+            "box": [
+                [
+                    123.0,
+                    944.0
+                ],
+                [
+                    996.0,
+                    945.0
+                ],
+                [
+                    996.0,
+                    984.0
+                ],
+                [
+                    123.0,
+                    983.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER FOR BASIL JOSEPH",
+            "confidence": 0.945,
+            "box": [
+                [
+                    188.0,
+                    999.0
+                ],
+                [
+                    920.0,
+                    999.0
+                ],
+                [
+                    920.0,
+                    1034.0
+                ],
+                [
+                    188.0,
+                    1034.0
+                ]
+            ]
+        },
+        {
+            "text": "A MUST WATCH FILM THEATERS LO ONLY",
+            "confidence": 0.944,
+            "box": [
+                [
+                    123.0,
+                    1051.0
+                ],
+                [
+                    994.0,
+                    1051.0
+                ],
+                [
+                    994.0,
+                    1086.0
+                ],
+                [
+                    123.0,
+                    1086.0
+                ]
+            ]
+        },
+        {
+            "text": "MALAYALAM LO UNDI VELLI CHUDANDI",
+            "confidence": 0.946,
+            "box": [
+                [
+                    131.0,
+                    1102.0
+                ],
+                [
+                    989.0,
+                    1100.0
+                ],
+                [
+                    989.0,
+                    1139.0
+                ],
+                [
+                    131.0,
+                    1141.0
+                ]
+            ]
+        },
+        {
+            "text": "SUBTITLES AVAILABLE",
+            "confidence": 0.984,
+            "box": [
+                [
+                    321.0,
+                    1155.0
+                ],
+                [
+                    788.0,
+                    1155.0
+                ],
+                [
+                    788.0,
+                    1190.0
+                ],
+                [
+                    321.0,
+                    1190.0
+                ]
+            ]
+        },
+        {
+            "text": "HE IS THE NEXT SUPERSTAR FROM MALAYALAM",
+            "confidence": 0.983,
+            "box": [
+                [
+                    47.0,
+                    1206.0
+                ],
+                [
+                    1062.0,
+                    1206.0
+                ],
+                [
+                    1062.0,
+                    1245.0
+                ],
+                [
+                    47.0,
+                    1245.0
+                ]
+            ]
+        }
+    ]
+}

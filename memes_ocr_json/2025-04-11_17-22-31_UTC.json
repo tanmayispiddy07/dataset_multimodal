@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-04-11_17-22-31_UTC.jpg",
+    "combined_text": "**OTHERS TEAMS TOCSK\nKOCHAM PEDDHA MANASUCHESUKONI\nMAA TEAM KI KUDA OKA 2 POINTS\nKOCHAM NET RUN RATE KUDA ISTHE.\nADDICTEDTOMEMES\nREY KOCHAM AYINA UNDALI AKKADA\nVALLUNATURE NI SAVE CHESTHUNTE\nMERU EM ANUKOKANDI BABU CAPTIAN CHANGE\nAYYE SARIKE ASHA KANIPICHI ADIGARU",
+    "detailed": [
+        {
+            "text": "**OTHERS TEAMS TOCSK",
+            "confidence": 0.97,
+            "box": [
+                [
+                    92.0,
+                    32.0
+                ],
+                [
+                    619.0,
+                    39.0
+                ],
+                [
+                    618.0,
+                    84.0
+                ],
+                [
+                    91.0,
+                    78.0
+                ]
+            ]
+        },
+        {
+            "text": "KOCHAM PEDDHA MANASUCHESUKONI",
+            "confidence": 0.966,
+            "box": [
+                [
+                    270.0,
+                    263.0
+                ],
+                [
+                    1040.0,
+                    263.0
+                ],
+                [
+                    1040.0,
+                    300.0
+                ],
+                [
+                    270.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "MAA TEAM KI KUDA OKA 2 POINTS",
+            "confidence": 0.915,
+            "box": [
+                [
+                    304.0,
+                    311.0
+                ],
+                [
+                    990.0,
+                    312.0
+                ],
+                [
+                    990.0,
+                    349.0
+                ],
+                [
+                    304.0,
+                    348.0
+                ]
+            ]
+        },
+        {
+            "text": "KOCHAM NET RUN RATE KUDA ISTHE.",
+            "confidence": 0.933,
+            "box": [
+                [
+                    281.0,
+                    360.0
+                ],
+                [
+                    998.0,
+                    360.0
+                ],
+                [
+                    998.0,
+                    398.0
+                ],
+                [
+                    281.0,
+                    398.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    910.0,
+                    562.0
+                ],
+                [
+                    1071.0,
+                    562.0
+                ],
+                [
+                    1071.0,
+                    585.0
+                ],
+                [
+                    910.0,
+                    585.0
+                ]
+            ]
+        },
+        {
+            "text": "REY KOCHAM AYINA UNDALI AKKADA",
+            "confidence": 0.963,
+            "box": [
+                [
+                    110.0,
+                    749.0
+                ],
+                [
+                    955.0,
+                    751.0
+                ],
+                [
+                    955.0,
+                    789.0
+                ],
+                [
+                    110.0,
+                    788.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLUNATURE NI SAVE CHESTHUNTE",
+            "confidence": 0.97,
+            "box": [
+                [
+                    122.0,
+                    808.0
+                ],
+                [
+                    948.0,
+                    808.0
+                ],
+                [
+                    948.0,
+                    845.0
+                ],
+                [
+                    122.0,
+                    845.0
+                ]
+            ]
+        },
+        {
+            "text": "MERU EM ANUKOKANDI BABU CAPTIAN CHANGE",
+            "confidence": 0.932,
+            "box": [
+                [
+                    71.0,
+                    1090.0
+                ],
+                [
+                    1015.0,
+                    1090.0
+                ],
+                [
+                    1015.0,
+                    1123.0
+                ],
+                [
+                    71.0,
+                    1123.0
+                ]
+            ]
+        },
+        {
+            "text": "AYYE SARIKE ASHA KANIPICHI ADIGARU",
+            "confidence": 0.947,
+            "box": [
+                [
+                    158.0,
+                    1137.0
+                ],
+                [
+                    929.0,
+                    1137.0
+                ],
+                [
+                    929.0,
+                    1170.0
+                ],
+                [
+                    158.0,
+                    1170.0
+                ]
+            ]
+        }
+    ]
+}

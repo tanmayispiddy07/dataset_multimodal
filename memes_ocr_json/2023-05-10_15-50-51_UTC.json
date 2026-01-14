@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-05-10_15-50-51_UTC.jpg",
+    "combined_text": "FANS AFTER WATCHING\nDHONI BATTING TODAY\nCHALU SAAAMYYY....\nTELUGU MEMES GURU\nCHALUUU...",
+    "detailed": [
+        {
+            "text": "FANS AFTER WATCHING",
+            "confidence": 0.947,
+            "box": [
+                [
+                    390.0,
+                    60.0
+                ],
+                [
+                    866.0,
+                    60.0
+                ],
+                [
+                    866.0,
+                    94.0
+                ],
+                [
+                    390.0,
+                    94.0
+                ]
+            ]
+        },
+        {
+            "text": "DHONI BATTING TODAY",
+            "confidence": 0.936,
+            "box": [
+                [
+                    390.0,
+                    104.0
+                ],
+                [
+                    866.0,
+                    104.0
+                ],
+                [
+                    866.0,
+                    137.0
+                ],
+                [
+                    390.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALU SAAAMYYY....",
+            "confidence": 0.975,
+            "box": [
+                [
+                    191.0,
+                    461.0
+                ],
+                [
+                    943.0,
+                    468.0
+                ],
+                [
+                    942.0,
+                    536.0
+                ],
+                [
+                    190.0,
+                    529.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.939,
+            "box": [
+                [
+                    881.0,
+                    725.0
+                ],
+                [
+                    1019.0,
+                    725.0
+                ],
+                [
+                    1019.0,
+                    742.0
+                ],
+                [
+                    881.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALUUU...",
+            "confidence": 0.943,
+            "box": [
+                [
+                    399.0,
+                    939.0
+                ],
+                [
+                    951.0,
+                    945.0
+                ],
+                [
+                    950.0,
+                    1038.0
+                ],
+                [
+                    398.0,
+                    1032.0
+                ]
+            ]
+        }
+    ]
+}

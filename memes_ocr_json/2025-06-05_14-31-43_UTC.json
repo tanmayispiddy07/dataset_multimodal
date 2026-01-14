@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-06-05_14-31-43_UTC.jpg",
+    "combined_text": "How to turn chain into a bracelet\nsarcasm",
+    "detailed": [
+        {
+            "text": "How to turn chain into a bracelet",
+            "confidence": 0.961,
+            "box": [
+                [
+                    56.0,
+                    125.0
+                ],
+                [
+                    485.0,
+                    125.0
+                ],
+                [
+                    485.0,
+                    150.0
+                ],
+                [
+                    56.0,
+                    150.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    268.0,
+                    555.0
+                ],
+                [
+                    321.0,
+                    555.0
+                ],
+                [
+                    321.0,
+                    568.0
+                ],
+                [
+                    268.0,
+                    568.0
+                ]
+            ]
+        }
+    ]
+}

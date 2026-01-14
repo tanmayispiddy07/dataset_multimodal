@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-10-27_15-39-35_UTC.jpg",
+    "combined_text": "MASS TRAILER OF MASS JATHARA\nMOVIE RELEASING ON OCT 31ST\n**ME WHILE WATCHING RAVITEJA\nENERGY IN TRAILER\nADDICTEDTOMEMES\nVINTAGE RAVIANNAIS BACK\nTHAT LASTSHOTPUREMASS",
+    "detailed": [
+        {
+            "text": "MASS TRAILER OF MASS JATHARA",
+            "confidence": 0.952,
+            "box": [
+                [
+                    55.0,
+                    56.0
+                ],
+                [
+                    1000.0,
+                    56.0
+                ],
+                [
+                    1000.0,
+                    102.0
+                ],
+                [
+                    55.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON OCT 31ST",
+            "confidence": 0.956,
+            "box": [
+                [
+                    93.0,
+                    124.0
+                ],
+                [
+                    982.0,
+                    124.0
+                ],
+                [
+                    982.0,
+                    170.0
+                ],
+                [
+                    93.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHILE WATCHING RAVITEJA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    311.0,
+                    902.0
+                ],
+                [
+                    962.0,
+                    905.0
+                ],
+                [
+                    962.0,
+                    946.0
+                ],
+                [
+                    311.0,
+                    944.0
+                ]
+            ]
+        },
+        {
+            "text": "ENERGY IN TRAILER",
+            "confidence": 0.952,
+            "box": [
+                [
+                    442.0,
+                    956.0
+                ],
+                [
+                    827.0,
+                    956.0
+                ],
+                [
+                    827.0,
+                    994.0
+                ],
+                [
+                    442.0,
+                    994.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    18.0,
+                    1031.0
+                ],
+                [
+                    158.0,
+                    1031.0
+                ],
+                [
+                    158.0,
+                    1052.0
+                ],
+                [
+                    18.0,
+                    1052.0
+                ]
+            ]
+        },
+        {
+            "text": "VINTAGE RAVIANNAIS BACK",
+            "confidence": 0.958,
+            "box": [
+                [
+                    212.0,
+                    1218.0
+                ],
+                [
+                    917.0,
+                    1218.0
+                ],
+                [
+                    917.0,
+                    1260.0
+                ],
+                [
+                    212.0,
+                    1260.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT LASTSHOTPUREMASS",
+            "confidence": 0.977,
+            "box": [
+                [
+                    232.0,
+                    1277.0
+                ],
+                [
+                    914.0,
+                    1277.0
+                ],
+                [
+                    914.0,
+                    1318.0
+                ],
+                [
+                    232.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

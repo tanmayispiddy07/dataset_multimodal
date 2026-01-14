@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-08-05_12-48-09_UTC.jpg",
+    "combined_text": "OLE OLE LYRICAL VIDEO SONG\nFROM MASS JATHARA\nADDICTEDTOMEMES\nINKA CHUSTHARUGA E SONG KI\nTHEATER LO MASS JATHARA",
+    "detailed": [
+        {
+            "text": "OLE OLE LYRICAL VIDEO SONG",
+            "confidence": 0.972,
+            "box": [
+                [
+                    145.0,
+                    43.0
+                ],
+                [
+                    951.0,
+                    43.0
+                ],
+                [
+                    951.0,
+                    93.0
+                ],
+                [
+                    145.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM MASS JATHARA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    260.0,
+                    111.0
+                ],
+                [
+                    837.0,
+                    111.0
+                ],
+                [
+                    837.0,
+                    157.0
+                ],
+                [
+                    260.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    10.0,
+                    1094.0
+                ],
+                [
+                    169.0,
+                    1094.0
+                ],
+                [
+                    169.0,
+                    1115.0
+                ],
+                [
+                    10.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "INKA CHUSTHARUGA E SONG KI",
+            "confidence": 0.936,
+            "box": [
+                [
+                    200.0,
+                    1226.0
+                ],
+                [
+                    907.0,
+                    1226.0
+                ],
+                [
+                    907.0,
+                    1264.0
+                ],
+                [
+                    200.0,
+                    1264.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATER LO MASS JATHARA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    248.0,
+                    1281.0
+                ],
+                [
+                    859.0,
+                    1281.0
+                ],
+                [
+                    859.0,
+                    1318.0
+                ],
+                [
+                    248.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

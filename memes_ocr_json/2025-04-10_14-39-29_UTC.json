@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-04-10_14-39-29_UTC.jpg",
+    "combined_text": "\"CHERASAALA\" THEATRICAL TRAILER\nMOVIE GRAND RELEASING ON APRIL 1ITH\nADDICTEDTOMEMES\nHORROR THRILLER ANTE SAHASAM ANE\nCHEPALI ANYWAYS ALL THE BEST",
+    "detailed": [
+        {
+            "text": "\"CHERASAALA\" THEATRICAL TRAILER",
+            "confidence": 0.97,
+            "box": [
+                [
+                    84.0,
+                    66.0
+                ],
+                [
+                    986.0,
+                    66.0
+                ],
+                [
+                    986.0,
+                    107.0
+                ],
+                [
+                    84.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE GRAND RELEASING ON APRIL 1ITH",
+            "confidence": 0.923,
+            "box": [
+                [
+                    38.0,
+                    123.0
+                ],
+                [
+                    1042.0,
+                    124.0
+                ],
+                [
+                    1042.0,
+                    167.0
+                ],
+                [
+                    38.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    518.0,
+                    585.0
+                ],
+                [
+                    671.0,
+                    585.0
+                ],
+                [
+                    671.0,
+                    606.0
+                ],
+                [
+                    518.0,
+                    606.0
+                ]
+            ]
+        },
+        {
+            "text": "HORROR THRILLER ANTE SAHASAM ANE",
+            "confidence": 0.971,
+            "box": [
+                [
+                    163.0,
+                    1229.0
+                ],
+                [
+                    1015.0,
+                    1231.0
+                ],
+                [
+                    1015.0,
+                    1273.0
+                ],
+                [
+                    163.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEPALI ANYWAYS ALL THE BEST",
+            "confidence": 0.957,
+            "box": [
+                [
+                    248.0,
+                    1282.0
+                ],
+                [
+                    932.0,
+                    1284.0
+                ],
+                [
+                    932.0,
+                    1323.0
+                ],
+                [
+                    247.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

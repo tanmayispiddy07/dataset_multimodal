@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-06-14_19-08-05_UTC.jpg",
+    "combined_text": "Things we did in school\nsarcasm",
+    "detailed": [
+        {
+            "text": "Things we did in school",
+            "confidence": 0.993,
+            "box": [
+                [
+                    73.0,
+                    129.0
+                ],
+                [
+                    458.0,
+                    129.0
+                ],
+                [
+                    458.0,
+                    164.0
+                ],
+                [
+                    73.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.987,
+            "box": [
+                [
+                    326.0,
+                    620.0
+                ],
+                [
+                    377.0,
+                    622.0
+                ],
+                [
+                    377.0,
+                    635.0
+                ],
+                [
+                    325.0,
+                    633.0
+                ]
+            ]
+        }
+    ]
+}

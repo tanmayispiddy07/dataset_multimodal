@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-17_10-45-41_UTC_4.jpg",
+    "combined_text": "IVI ANNI MANASULOPETTUKUNI\nSRUJAN NI R@GGING CHEDDHAM\nANIAMMAYI VALLA BROTHER\n11PMKIROOM KIPILICHADU",
+    "detailed": [
+        {
+            "text": "IVI ANNI MANASULOPETTUKUNI",
+            "confidence": 0.962,
+            "box": [
+                [
+                    92.0,
+                    551.0
+                ],
+                [
+                    921.0,
+                    551.0
+                ],
+                [
+                    921.0,
+                    600.0
+                ],
+                [
+                    92.0,
+                    600.0
+                ]
+            ]
+        },
+        {
+            "text": "SRUJAN NI R@GGING CHEDDHAM",
+            "confidence": 0.968,
+            "box": [
+                [
+                    103.0,
+                    1093.0
+                ],
+                [
+                    984.0,
+                    1093.0
+                ],
+                [
+                    984.0,
+                    1155.0
+                ],
+                [
+                    103.0,
+                    1155.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIAMMAYI VALLA BROTHER",
+            "confidence": 0.96,
+            "box": [
+                [
+                    148.0,
+                    1160.0
+                ],
+                [
+                    940.0,
+                    1160.0
+                ],
+                [
+                    940.0,
+                    1213.0
+                ],
+                [
+                    148.0,
+                    1213.0
+                ]
+            ]
+        },
+        {
+            "text": "11PMKIROOM KIPILICHADU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    161.0,
+                    1225.0
+                ],
+                [
+                    930.0,
+                    1225.0
+                ],
+                [
+                    930.0,
+                    1278.0
+                ],
+                [
+                    161.0,
+                    1278.0
+                ]
+            ]
+        }
+    ]
+}

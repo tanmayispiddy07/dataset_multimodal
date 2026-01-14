@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-12-27_12-08-06_UTC.jpg",
+    "combined_text": "DULQUER SALMAAN\nAS\nGEORGE WILLIAMS\n-Addicted_to_memes\nCHAMPION CINEMA LO ASALU AH\nCAMEOEXPECT EH CHEYALEDHU",
+    "detailed": [
+        {
+            "text": "DULQUER SALMAAN",
+            "confidence": 0.964,
+            "box": [
+                [
+                    224.0,
+                    379.0
+                ],
+                [
+                    481.0,
+                    379.0
+                ],
+                [
+                    481.0,
+                    400.0
+                ],
+                [
+                    224.0,
+                    400.0
+                ]
+            ]
+        },
+        {
+            "text": "AS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    338.0,
+                    401.0
+                ],
+                [
+                    368.0,
+                    401.0
+                ],
+                [
+                    368.0,
+                    417.0
+                ],
+                [
+                    338.0,
+                    417.0
+                ]
+            ]
+        },
+        {
+            "text": "GEORGE WILLIAMS",
+            "confidence": 0.969,
+            "box": [
+                [
+                    160.0,
+                    418.0
+                ],
+                [
+                    539.0,
+                    419.0
+                ],
+                [
+                    539.0,
+                    447.0
+                ],
+                [
+                    160.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "-Addicted_to_memes",
+            "confidence": 0.981,
+            "box": [
+                [
+                    222.0,
+                    522.0
+                ],
+                [
+                    372.0,
+                    524.0
+                ],
+                [
+                    372.0,
+                    543.0
+                ],
+                [
+                    221.0,
+                    541.0
+                ]
+            ]
+        },
+        {
+            "text": "CHAMPION CINEMA LO ASALU AH",
+            "confidence": 0.944,
+            "box": [
+                [
+                    26.0,
+                    689.0
+                ],
+                [
+                    420.0,
+                    690.0
+                ],
+                [
+                    420.0,
+                    715.0
+                ],
+                [
+                    26.0,
+                    714.0
+                ]
+            ]
+        },
+        {
+            "text": "CAMEOEXPECT EH CHEYALEDHU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    34.0,
+                    721.0
+                ],
+                [
+                    409.0,
+                    721.0
+                ],
+                [
+                    409.0,
+                    742.0
+                ],
+                [
+                    34.0,
+                    742.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-09_17-31-01_UTC_1.jpg",
+    "combined_text": "Rizwan Sajan was shocked when he\nentered Dubai for the first time.\nSWIPE",
+    "detailed": [
+        {
+            "text": "Rizwan Sajan was shocked when he",
+            "confidence": 1.0,
+            "box": [
+                [
+                    108.0,
+                    90.0
+                ],
+                [
+                    972.0,
+                    89.0
+                ],
+                [
+                    972.0,
+                    138.0
+                ],
+                [
+                    108.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "entered Dubai for the first time.",
+            "confidence": 0.997,
+            "box": [
+                [
+                    122.0,
+                    163.0
+                ],
+                [
+                    892.0,
+                    163.0
+                ],
+                [
+                    892.0,
+                    207.0
+                ],
+                [
+                    122.0,
+                    207.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE",
+            "confidence": 0.99,
+            "box": [
+                [
+                    873.0,
+                    1219.0
+                ],
+                [
+                    1015.0,
+                    1219.0
+                ],
+                [
+                    1015.0,
+                    1266.0
+                ],
+                [
+                    873.0,
+                    1266.0
+                ]
+            ]
+        }
+    ]
+}

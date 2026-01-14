@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-12-26_06-59-07_UTC.jpg",
+    "combined_text": "PATANG STANDS OUT AS YOUTHFUL\nENTERTAINER AMONG ALL RELEASED MOVIES\nTHEATRES\nTHEATRES\n25THDECEMBER\n25TDECEMBER\nADDICTEDTOMEMES\nCINEMA LOCOMEDY INKA\nLOVE TRACK CHALA BAGUNDI",
+    "detailed": [
+        {
+            "text": "PATANG STANDS OUT AS YOUTHFUL",
+            "confidence": 0.952,
+            "box": [
+                [
+                    172.0,
+                    49.0
+                ],
+                [
+                    924.0,
+                    49.0
+                ],
+                [
+                    924.0,
+                    86.0
+                ],
+                [
+                    172.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTERTAINER AMONG ALL RELEASED MOVIES",
+            "confidence": 0.955,
+            "box": [
+                [
+                    55.0,
+                    96.0
+                ],
+                [
+                    1035.0,
+                    98.0
+                ],
+                [
+                    1035.0,
+                    139.0
+                ],
+                [
+                    55.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATRES",
+            "confidence": 0.997,
+            "box": [
+                [
+                    841.0,
+                    845.0
+                ],
+                [
+                    914.0,
+                    845.0
+                ],
+                [
+                    914.0,
+                    871.0
+                ],
+                [
+                    841.0,
+                    871.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATRES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    234.0,
+                    873.0
+                ],
+                [
+                    303.0,
+                    869.0
+                ],
+                [
+                    304.0,
+                    892.0
+                ],
+                [
+                    236.0,
+                    895.0
+                ]
+            ]
+        },
+        {
+            "text": "25THDECEMBER",
+            "confidence": 0.964,
+            "box": [
+                [
+                    766.0,
+                    868.0
+                ],
+                [
+                    972.0,
+                    868.0
+                ],
+                [
+                    972.0,
+                    912.0
+                ],
+                [
+                    766.0,
+                    912.0
+                ]
+            ]
+        },
+        {
+            "text": "25TDECEMBER",
+            "confidence": 0.976,
+            "box": [
+                [
+                    166.0,
+                    889.0
+                ],
+                [
+                    360.0,
+                    892.0
+                ],
+                [
+                    360.0,
+                    935.0
+                ],
+                [
+                    166.0,
+                    932.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    941.0,
+                    1052.0
+                ],
+                [
+                    1074.0,
+                    1052.0
+                ],
+                [
+                    1074.0,
+                    1073.0
+                ],
+                [
+                    941.0,
+                    1073.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA LOCOMEDY INKA",
+            "confidence": 0.954,
+            "box": [
+                [
+                    249.0,
+                    1231.0
+                ],
+                [
+                    789.0,
+                    1232.0
+                ],
+                [
+                    789.0,
+                    1271.0
+                ],
+                [
+                    249.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "LOVE TRACK CHALA BAGUNDI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    208.0,
+                    1282.0
+                ],
+                [
+                    834.0,
+                    1281.0
+                ],
+                [
+                    834.0,
+                    1320.0
+                ],
+                [
+                    208.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

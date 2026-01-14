@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-08-31_07-25-21_UTC.jpg",
+    "combined_text": "HRIDAYAPOORVAM THE FILM\nA FEEL-GOOD FAMILY DRAMA THAT BLENDS\nCOMEDY AND EMOTIONS BEAUTIFULLY.\nMALAVIKA SCREEN PRESENCE\nLIGHTS UP EVERY FRAME\nNAKU MALAVIKA SCREEN PRESENCE\nANTE CHALA ISTAM RA THANA\nKOSAM AYINAMOVIE KIVELLOCHU",
+    "detailed": [
+        {
+            "text": "HRIDAYAPOORVAM THE FILM",
+            "confidence": 0.975,
+            "box": [
+                [
+                    239.0,
+                    43.0
+                ],
+                [
+                    825.0,
+                    43.0
+                ],
+                [
+                    825.0,
+                    76.0
+                ],
+                [
+                    239.0,
+                    76.0
+                ]
+            ]
+        },
+        {
+            "text": "A FEEL-GOOD FAMILY DRAMA THAT BLENDS",
+            "confidence": 0.943,
+            "box": [
+                [
+                    85.0,
+                    93.0
+                ],
+                [
+                    983.0,
+                    93.0
+                ],
+                [
+                    983.0,
+                    126.0
+                ],
+                [
+                    85.0,
+                    126.0
+                ]
+            ]
+        },
+        {
+            "text": "COMEDY AND EMOTIONS BEAUTIFULLY.",
+            "confidence": 0.958,
+            "box": [
+                [
+                    135.0,
+                    144.0
+                ],
+                [
+                    930.0,
+                    144.0
+                ],
+                [
+                    930.0,
+                    177.0
+                ],
+                [
+                    135.0,
+                    177.0
+                ]
+            ]
+        },
+        {
+            "text": "MALAVIKA SCREEN PRESENCE",
+            "confidence": 0.962,
+            "box": [
+                [
+                    281.0,
+                    761.0
+                ],
+                [
+                    925.0,
+                    761.0
+                ],
+                [
+                    925.0,
+                    798.0
+                ],
+                [
+                    281.0,
+                    798.0
+                ]
+            ]
+        },
+        {
+            "text": "LIGHTS UP EVERY FRAME",
+            "confidence": 0.953,
+            "box": [
+                [
+                    332.0,
+                    816.0
+                ],
+                [
+                    872.0,
+                    816.0
+                ],
+                [
+                    872.0,
+                    853.0
+                ],
+                [
+                    332.0,
+                    853.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU MALAVIKA SCREEN PRESENCE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    163.0,
+                    1162.0
+                ],
+                [
+                    933.0,
+                    1162.0
+                ],
+                [
+                    933.0,
+                    1199.0
+                ],
+                [
+                    163.0,
+                    1199.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTE CHALA ISTAM RA THANA",
+            "confidence": 0.933,
+            "box": [
+                [
+                    220.0,
+                    1213.0
+                ],
+                [
+                    873.0,
+                    1213.0
+                ],
+                [
+                    873.0,
+                    1250.0
+                ],
+                [
+                    220.0,
+                    1250.0
+                ]
+            ]
+        },
+        {
+            "text": "KOSAM AYINAMOVIE KIVELLOCHU",
+            "confidence": 0.966,
+            "box": [
+                [
+                    169.0,
+                    1263.0
+                ],
+                [
+                    923.0,
+                    1263.0
+                ],
+                [
+                    923.0,
+                    1304.0
+                ],
+                [
+                    169.0,
+                    1304.0
+                ]
+            ]
+        }
+    ]
+}

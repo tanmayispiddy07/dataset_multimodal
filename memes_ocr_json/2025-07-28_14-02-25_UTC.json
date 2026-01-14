@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-07-28_14-02-25_UTC.jpg",
+    "combined_text": "GLIMPSE OF \"AAKASAMLOOKA TARA\"\nHAPPY BIRTHDAY DULQUER SALMAAN\nSMAIEINIA\nIAPIPY\nBIRT\nIDA\nHAPPY BIRTHDAY\nDULQUERSALMAAN\nAAKASAMLO OKA TARA\nDLQUERSAM\nAAKASAMLO OKA TARA\nBAKASH\nGLIMPSOUT NOW\nMACATAM TAMS\nADDICTEDTOMEMES\nBIG FAN OF YOUR\nSCRIPT SELECTION DQ",
+    "detailed": [
+        {
+            "text": "GLIMPSE OF \"AAKASAMLOOKA TARA\"",
+            "confidence": 0.944,
+            "box": [
+                [
+                    63.0,
+                    59.0
+                ],
+                [
+                    998.0,
+                    59.0
+                ],
+                [
+                    998.0,
+                    100.0
+                ],
+                [
+                    63.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY BIRTHDAY DULQUER SALMAAN",
+            "confidence": 0.97,
+            "box": [
+                [
+                    63.0,
+                    120.0
+                ],
+                [
+                    987.0,
+                    120.0
+                ],
+                [
+                    987.0,
+                    162.0
+                ],
+                [
+                    63.0,
+                    162.0
+                ]
+            ]
+        },
+        {
+            "text": "SMAIEINIA",
+            "confidence": 0.825,
+            "box": [
+                [
+                    983.0,
+                    241.0
+                ],
+                [
+                    1057.0,
+                    241.0
+                ],
+                [
+                    1057.0,
+                    268.0
+                ],
+                [
+                    983.0,
+                    268.0
+                ]
+            ]
+        },
+        {
+            "text": "IAPIPY",
+            "confidence": 0.85,
+            "box": [
+                [
+                    745.0,
+                    355.0
+                ],
+                [
+                    913.0,
+                    355.0
+                ],
+                [
+                    913.0,
+                    386.0
+                ],
+                [
+                    745.0,
+                    386.0
+                ]
+            ]
+        },
+        {
+            "text": "BIRT",
+            "confidence": 0.983,
+            "box": [
+                [
+                    689.0,
+                    387.0
+                ],
+                [
+                    821.0,
+                    387.0
+                ],
+                [
+                    821.0,
+                    426.0
+                ],
+                [
+                    689.0,
+                    426.0
+                ]
+            ]
+        },
+        {
+            "text": "IDA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    838.0,
+                    390.0
+                ],
+                [
+                    927.0,
+                    390.0
+                ],
+                [
+                    927.0,
+                    425.0
+                ],
+                [
+                    838.0,
+                    425.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY BIRTHDAY",
+            "confidence": 0.963,
+            "box": [
+                [
+                    63.0,
+                    411.0
+                ],
+                [
+                    342.0,
+                    411.0
+                ],
+                [
+                    342.0,
+                    445.0
+                ],
+                [
+                    63.0,
+                    445.0
+                ]
+            ]
+        },
+        {
+            "text": "DULQUERSALMAAN",
+            "confidence": 0.997,
+            "box": [
+                [
+                    1.0,
+                    460.0
+                ],
+                [
+                    411.0,
+                    460.0
+                ],
+                [
+                    411.0,
+                    502.0
+                ],
+                [
+                    1.0,
+                    502.0
+                ]
+            ]
+        },
+        {
+            "text": "AAKASAMLO OKA TARA",
+            "confidence": 0.921,
+            "box": [
+                [
+                    59.0,
+                    652.0
+                ],
+                [
+                    540.0,
+                    652.0
+                ],
+                [
+                    540.0,
+                    686.0
+                ],
+                [
+                    59.0,
+                    686.0
+                ]
+            ]
+        },
+        {
+            "text": "DLQUERSAM",
+            "confidence": 0.833,
+            "box": [
+                [
+                    780.0,
+                    712.0
+                ],
+                [
+                    890.0,
+                    711.0
+                ],
+                [
+                    890.0,
+                    727.0
+                ],
+                [
+                    781.0,
+                    729.0
+                ]
+            ]
+        },
+        {
+            "text": "AAKASAMLO OKA TARA",
+            "confidence": 0.93,
+            "box": [
+                [
+                    692.0,
+                    735.0
+                ],
+                [
+                    1003.0,
+                    735.0
+                ],
+                [
+                    1003.0,
+                    768.0
+                ],
+                [
+                    692.0,
+                    768.0
+                ]
+            ]
+        },
+        {
+            "text": "BAKASH",
+            "confidence": 0.898,
+            "box": [
+                [
+                    811.0,
+                    810.0
+                ],
+                [
+                    858.0,
+                    810.0
+                ],
+                [
+                    858.0,
+                    822.0
+                ],
+                [
+                    811.0,
+                    822.0
+                ]
+            ]
+        },
+        {
+            "text": "GLIMPSOUT NOW",
+            "confidence": 0.97,
+            "box": [
+                [
+                    726.0,
+                    840.0
+                ],
+                [
+                    968.0,
+                    840.0
+                ],
+                [
+                    968.0,
+                    866.0
+                ],
+                [
+                    726.0,
+                    866.0
+                ]
+            ]
+        },
+        {
+            "text": "MACATAM TAMS",
+            "confidence": 0.602,
+            "box": [
+                [
+                    797.0,
+                    861.0
+                ],
+                [
+                    902.0,
+                    866.0
+                ],
+                [
+                    901.0,
+                    887.0
+                ],
+                [
+                    796.0,
+                    882.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    20.0,
+                    1079.0
+                ],
+                [
+                    176.0,
+                    1079.0
+                ],
+                [
+                    176.0,
+                    1100.0
+                ],
+                [
+                    20.0,
+                    1100.0
+                ]
+            ]
+        },
+        {
+            "text": "BIG FAN OF YOUR",
+            "confidence": 0.923,
+            "box": [
+                [
+                    105.0,
+                    1214.0
+                ],
+                [
+                    529.0,
+                    1214.0
+                ],
+                [
+                    529.0,
+                    1256.0
+                ],
+                [
+                    105.0,
+                    1256.0
+                ]
+            ]
+        },
+        {
+            "text": "SCRIPT SELECTION DQ",
+            "confidence": 0.959,
+            "box": [
+                [
+                    46.0,
+                    1271.0
+                ],
+                [
+                    585.0,
+                    1273.0
+                ],
+                [
+                    585.0,
+                    1319.0
+                ],
+                [
+                    46.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

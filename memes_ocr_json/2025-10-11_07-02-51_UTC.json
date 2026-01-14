@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-11_07-02-51_UTC.jpg",
+    "combined_text": "SOUL OF PREMISTUNNAA TEASER\nOUT FROM PREMISTUNNAA\nADDICTEDTOMEMES\nAH ACTING CHUSTHUNTE NEN\nEMOTIONAL AITHUNNA ENTRA",
+    "detailed": [
+        {
+            "text": "SOUL OF PREMISTUNNAA TEASER",
+            "confidence": 0.965,
+            "box": [
+                [
+                    125.0,
+                    53.0
+                ],
+                [
+                    1038.0,
+                    54.0
+                ],
+                [
+                    1038.0,
+                    102.0
+                ],
+                [
+                    125.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "OUT FROM PREMISTUNNAA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    205.0,
+                    120.0
+                ],
+                [
+                    953.0,
+                    121.0
+                ],
+                [
+                    953.0,
+                    169.0
+                ],
+                [
+                    205.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    499.0,
+                    641.0
+                ],
+                [
+                    675.0,
+                    641.0
+                ],
+                [
+                    675.0,
+                    662.0
+                ],
+                [
+                    499.0,
+                    662.0
+                ]
+            ]
+        },
+        {
+            "text": "AH ACTING CHUSTHUNTE NEN",
+            "confidence": 0.943,
+            "box": [
+                [
+                    338.0,
+                    1224.0
+                ],
+                [
+                    977.0,
+                    1224.0
+                ],
+                [
+                    977.0,
+                    1261.0
+                ],
+                [
+                    338.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "EMOTIONAL AITHUNNA ENTRA",
+            "confidence": 0.963,
+            "box": [
+                [
+                    328.0,
+                    1274.0
+                ],
+                [
+                    983.0,
+                    1274.0
+                ],
+                [
+                    983.0,
+                    1316.0
+                ],
+                [
+                    328.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

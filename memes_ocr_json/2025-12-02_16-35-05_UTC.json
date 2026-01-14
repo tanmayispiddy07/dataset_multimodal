@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-12-02_16-35-05_UTC.jpg",
+    "combined_text": "g\nADDICTEDTOMEMES\nPAPAMUYEDO AMMAYI VISHYAM LO\nBAGA FEEL AYINATTU UNNADU",
+    "detailed": [
+        {
+            "text": "g",
+            "confidence": 0.605,
+            "box": [
+                [
+                    347.0,
+                    485.0
+                ],
+                [
+                    723.0,
+                    375.0
+                ],
+                [
+                    740.0,
+                    431.0
+                ],
+                [
+                    364.0,
+                    541.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    73.0,
+                    932.0
+                ],
+                [
+                    235.0,
+                    932.0
+                ],
+                [
+                    235.0,
+                    953.0
+                ],
+                [
+                    73.0,
+                    953.0
+                ]
+            ]
+        },
+        {
+            "text": "PAPAMUYEDO AMMAYI VISHYAM LO",
+            "confidence": 0.959,
+            "box": [
+                [
+                    90.0,
+                    1221.0
+                ],
+                [
+                    968.0,
+                    1221.0
+                ],
+                [
+                    968.0,
+                    1267.0
+                ],
+                [
+                    90.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "BAGA FEEL AYINATTU UNNADU",
+            "confidence": 0.951,
+            "box": [
+                [
+                    158.0,
+                    1281.0
+                ],
+                [
+                    896.0,
+                    1281.0
+                ],
+                [
+                    896.0,
+                    1327.0
+                ],
+                [
+                    158.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

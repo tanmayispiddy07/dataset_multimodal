@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-05-29_14-16-24_UTC.jpg",
+    "combined_text": "FROM NATIONAL PRIDE TO TELANGANA STATE HONOUR\nALLU ARJUNBECOMES THE FIRST ACTOR TO WIN BOTH THE\nNATIONAL AWARD AND GADDAR AWARD FOR BEST ACTOR.\nThat's not Just fame. that's A movement.\nALLBARION\nGADDAR\nTELANGANA FILM AWARDSE\n(2024)\nBEST LEADING ACTOR\nALLU ARJUN\n(PUSHPA2-THE RULE\nPUSHPA\nADDICTEDTOMEMES\nD\nIKKADA UNDEDI OKATE RULE\nPUSHPA\nGADI RULEES",
+    "detailed": [
+        {
+            "text": "FROM NATIONAL PRIDE TO TELANGANA STATE HONOUR",
+            "confidence": 0.951,
+            "box": [
+                [
+                    41.0,
+                    43.0
+                ],
+                [
+                    1003.0,
+                    43.0
+                ],
+                [
+                    1003.0,
+                    77.0
+                ],
+                [
+                    41.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLU ARJUNBECOMES THE FIRST ACTOR TO WIN BOTH THE",
+            "confidence": 0.909,
+            "box": [
+                [
+                    28.0,
+                    89.0
+                ],
+                [
+                    1032.0,
+                    89.0
+                ],
+                [
+                    1032.0,
+                    118.0
+                ],
+                [
+                    28.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "NATIONAL AWARD AND GADDAR AWARD FOR BEST ACTOR.",
+            "confidence": 0.957,
+            "box": [
+                [
+                    23.0,
+                    128.0
+                ],
+                [
+                    1029.0,
+                    130.0
+                ],
+                [
+                    1029.0,
+                    163.0
+                ],
+                [
+                    22.0,
+                    162.0
+                ]
+            ]
+        },
+        {
+            "text": "That's not Just fame. that's A movement.",
+            "confidence": 0.853,
+            "box": [
+                [
+                    134.0,
+                    171.0
+                ],
+                [
+                    918.0,
+                    173.0
+                ],
+                [
+                    918.0,
+                    206.0
+                ],
+                [
+                    134.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLBARION",
+            "confidence": 0.752,
+            "box": [
+                [
+                    284.0,
+                    272.0
+                ],
+                [
+                    352.0,
+                    272.0
+                ],
+                [
+                    352.0,
+                    289.0
+                ],
+                [
+                    284.0,
+                    289.0
+                ]
+            ]
+        },
+        {
+            "text": "GADDAR",
+            "confidence": 0.997,
+            "box": [
+                [
+                    132.0,
+                    413.0
+                ],
+                [
+                    248.0,
+                    417.0
+                ],
+                [
+                    247.0,
+                    462.0
+                ],
+                [
+                    130.0,
+                    458.0
+                ]
+            ]
+        },
+        {
+            "text": "TELANGANA FILM AWARDSE",
+            "confidence": 0.937,
+            "box": [
+                [
+                    13.0,
+                    460.0
+                ],
+                [
+                    366.0,
+                    463.0
+                ],
+                [
+                    365.0,
+                    506.0
+                ],
+                [
+                    13.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "(2024)",
+            "confidence": 0.832,
+            "box": [
+                [
+                    148.0,
+                    500.0
+                ],
+                [
+                    231.0,
+                    500.0
+                ],
+                [
+                    231.0,
+                    546.0
+                ],
+                [
+                    148.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "text": "BEST LEADING ACTOR",
+            "confidence": 0.953,
+            "box": [
+                [
+                    90.0,
+                    574.0
+                ],
+                [
+                    267.0,
+                    574.0
+                ],
+                [
+                    267.0,
+                    599.0
+                ],
+                [
+                    90.0,
+                    599.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLU ARJUN",
+            "confidence": 0.952,
+            "box": [
+                [
+                    61.0,
+                    598.0
+                ],
+                [
+                    298.0,
+                    601.0
+                ],
+                [
+                    298.0,
+                    644.0
+                ],
+                [
+                    60.0,
+                    641.0
+                ]
+            ]
+        },
+        {
+            "text": "(PUSHPA2-THE RULE",
+            "confidence": 0.913,
+            "box": [
+                [
+                    122.0,
+                    641.0
+                ],
+                [
+                    238.0,
+                    641.0
+                ],
+                [
+                    238.0,
+                    662.0
+                ],
+                [
+                    122.0,
+                    662.0
+                ]
+            ]
+        },
+        {
+            "text": "PUSHPA",
+            "confidence": 0.984,
+            "box": [
+                [
+                    87.0,
+                    869.0
+                ],
+                [
+                    231.0,
+                    831.0
+                ],
+                [
+                    244.0,
+                    881.0
+                ],
+                [
+                    100.0,
+                    919.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    505.0,
+                    881.0
+                ],
+                [
+                    643.0,
+                    881.0
+                ],
+                [
+                    643.0,
+                    902.0
+                ],
+                [
+                    505.0,
+                    902.0
+                ]
+            ]
+        },
+        {
+            "text": "D",
+            "confidence": 0.67,
+            "box": [
+                [
+                    0.0,
+                    1048.0
+                ],
+                [
+                    105.0,
+                    1048.0
+                ],
+                [
+                    105.0,
+                    1069.0
+                ],
+                [
+                    0.0,
+                    1069.0
+                ]
+            ]
+        },
+        {
+            "text": "IKKADA UNDEDI OKATE RULE",
+            "confidence": 0.949,
+            "box": [
+                [
+                    110.0,
+                    1137.0
+                ],
+                [
+                    976.0,
+                    1137.0
+                ],
+                [
+                    976.0,
+                    1187.0
+                ],
+                [
+                    110.0,
+                    1187.0
+                ]
+            ]
+        },
+        {
+            "text": "PUSHPA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    220.0,
+                    1205.0
+                ],
+                [
+                    464.0,
+                    1210.0
+                ],
+                [
+                    463.0,
+                    1263.0
+                ],
+                [
+                    219.0,
+                    1258.0
+                ]
+            ]
+        },
+        {
+            "text": "GADI RULEES",
+            "confidence": 0.953,
+            "box": [
+                [
+                    463.0,
+                    1208.0
+                ],
+                [
+                    862.0,
+                    1208.0
+                ],
+                [
+                    862.0,
+                    1260.0
+                ],
+                [
+                    463.0,
+                    1260.0
+                ]
+            ]
+        }
+    ]
+}

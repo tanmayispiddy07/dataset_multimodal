@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-06-02_11-50-05_UTC.jpg",
+    "combined_text": "TELUSU KADA RELEASING ON OCTOBER 17\nPRE-DIWALI CELEBRATIONS TURN BRIGHTER WITH\nTHIS DIWALI DHAMAKA, PROMISING A WHOLESOME\nENTERTAINER THAT BLENDS HEART AND HUMOR.\nTeused\nIDDU SONNALAGADSE\nOCTOBER17\nOCTOBER17\nINCINEMASWORLDWIDE\nIN\nICINEMASWORLDWIDE\nSMESCSA\nADDICTED TOMEMES\nINKA CHUSTHARUGA E DIWALI KI\nTHEATERS LO MANA SIDDHU CHESE RACHA",
+    "detailed": [
+        {
+            "text": "TELUSU KADA RELEASING ON OCTOBER 17",
+            "confidence": 0.937,
+            "box": [
+                [
+                    158.0,
+                    22.0
+                ],
+                [
+                    927.0,
+                    22.0
+                ],
+                [
+                    927.0,
+                    52.0
+                ],
+                [
+                    158.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "PRE-DIWALI CELEBRATIONS TURN BRIGHTER WITH",
+            "confidence": 0.957,
+            "box": [
+                [
+                    86.0,
+                    64.0
+                ],
+                [
+                    998.0,
+                    64.0
+                ],
+                [
+                    998.0,
+                    98.0
+                ],
+                [
+                    86.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "THIS DIWALI DHAMAKA, PROMISING A WHOLESOME",
+            "confidence": 0.944,
+            "box": [
+                [
+                    65.0,
+                    108.0
+                ],
+                [
+                    1018.0,
+                    109.0
+                ],
+                [
+                    1018.0,
+                    144.0
+                ],
+                [
+                    65.0,
+                    143.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTERTAINER THAT BLENDS HEART AND HUMOR.",
+            "confidence": 0.957,
+            "box": [
+                [
+                    94.0,
+                    155.0
+                ],
+                [
+                    984.0,
+                    155.0
+                ],
+                [
+                    984.0,
+                    189.0
+                ],
+                [
+                    94.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "Teused",
+            "confidence": 0.562,
+            "box": [
+                [
+                    122.0,
+                    242.0
+                ],
+                [
+                    433.0,
+                    317.0
+                ],
+                [
+                    399.0,
+                    455.0
+                ],
+                [
+                    88.0,
+                    380.0
+                ]
+            ]
+        },
+        {
+            "text": "IDDU SONNALAGADSE",
+            "confidence": 0.738,
+            "box": [
+                [
+                    202.0,
+                    243.0
+                ],
+                [
+                    319.0,
+                    243.0
+                ],
+                [
+                    319.0,
+                    260.0
+                ],
+                [
+                    202.0,
+                    260.0
+                ]
+            ]
+        },
+        {
+            "text": "OCTOBER17",
+            "confidence": 0.985,
+            "box": [
+                [
+                    558.0,
+                    792.0
+                ],
+                [
+                    1015.0,
+                    787.0
+                ],
+                [
+                    1016.0,
+                    860.0
+                ],
+                [
+                    559.0,
+                    865.0
+                ]
+            ]
+        },
+        {
+            "text": "OCTOBER17",
+            "confidence": 0.94,
+            "box": [
+                [
+                    35.0,
+                    823.0
+                ],
+                [
+                    495.0,
+                    823.0
+                ],
+                [
+                    495.0,
+                    887.0
+                ],
+                [
+                    35.0,
+                    887.0
+                ]
+            ]
+        },
+        {
+            "text": "INCINEMASWORLDWIDE",
+            "confidence": 0.993,
+            "box": [
+                [
+                    568.0,
+                    859.0
+                ],
+                [
+                    1020.0,
+                    863.0
+                ],
+                [
+                    1019.0,
+                    895.0
+                ],
+                [
+                    568.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "IN",
+            "confidence": 0.96,
+            "box": [
+                [
+                    46.0,
+                    890.0
+                ],
+                [
+                    84.0,
+                    881.0
+                ],
+                [
+                    89.0,
+                    901.0
+                ],
+                [
+                    50.0,
+                    909.0
+                ]
+            ]
+        },
+        {
+            "text": "ICINEMASWORLDWIDE",
+            "confidence": 0.965,
+            "box": [
+                [
+                    80.0,
+                    883.0
+                ],
+                [
+                    478.0,
+                    884.0
+                ],
+                [
+                    478.0,
+                    911.0
+                ],
+                [
+                    80.0,
+                    909.0
+                ]
+            ]
+        },
+        {
+            "text": "SMESCSA",
+            "confidence": 0.627,
+            "box": [
+                [
+                    797.0,
+                    897.0
+                ],
+                [
+                    847.0,
+                    897.0
+                ],
+                [
+                    847.0,
+                    909.0
+                ],
+                [
+                    797.0,
+                    909.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTED TOMEMES",
+            "confidence": 0.953,
+            "box": [
+                [
+                    27.0,
+                    1121.0
+                ],
+                [
+                    163.0,
+                    1121.0
+                ],
+                [
+                    163.0,
+                    1142.0
+                ],
+                [
+                    27.0,
+                    1142.0
+                ]
+            ]
+        },
+        {
+            "text": "INKA CHUSTHARUGA E DIWALI KI",
+            "confidence": 0.937,
+            "box": [
+                [
+                    202.0,
+                    1235.0
+                ],
+                [
+                    892.0,
+                    1235.0
+                ],
+                [
+                    892.0,
+                    1273.0
+                ],
+                [
+                    202.0,
+                    1273.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATERS LO MANA SIDDHU CHESE RACHA",
+            "confidence": 0.943,
+            "box": [
+                [
+                    105.0,
+                    1286.0
+                ],
+                [
+                    991.0,
+                    1286.0
+                ],
+                [
+                    991.0,
+                    1323.0
+                ],
+                [
+                    105.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-17_04-03-42_UTC.jpg",
+    "combined_text": "Next time you want to give up,..\nthink of this Elon Musk photo\nafter a failed spacex launch.\nsarcasm\n700 700 7000",
+    "detailed": [
+        {
+            "text": "Next time you want to give up,..",
+            "confidence": 0.971,
+            "box": [
+                [
+                    40.0,
+                    45.0
+                ],
+                [
+                    1028.0,
+                    55.0
+                ],
+                [
+                    1027.0,
+                    123.0
+                ],
+                [
+                    39.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "think of this Elon Musk photo",
+            "confidence": 0.991,
+            "box": [
+                [
+                    64.0,
+                    149.0
+                ],
+                [
+                    1010.0,
+                    155.0
+                ],
+                [
+                    1009.0,
+                    212.0
+                ],
+                [
+                    63.0,
+                    207.0
+                ]
+            ]
+        },
+        {
+            "text": "after a failed spacex launch.",
+            "confidence": 0.976,
+            "box": [
+                [
+                    101.0,
+                    250.0
+                ],
+                [
+                    976.0,
+                    250.0
+                ],
+                [
+                    976.0,
+                    316.0
+                ],
+                [
+                    101.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    804.0,
+                    854.0
+                ],
+                [
+                    914.0,
+                    854.0
+                ],
+                [
+                    914.0,
+                    880.0
+                ],
+                [
+                    804.0,
+                    880.0
+                ]
+            ]
+        },
+        {
+            "text": "700 700 7000",
+            "confidence": 0.909,
+            "box": [
+                [
+                    277.0,
+                    1144.0
+                ],
+                [
+                    775.0,
+                    1139.0
+                ],
+                [
+                    777.0,
+                    1292.0
+                ],
+                [
+                    278.0,
+                    1297.0
+                ]
+            ]
+        }
+    ]
+}

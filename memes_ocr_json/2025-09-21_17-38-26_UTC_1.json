@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-21_17-38-26_UTC_1.jpg",
+    "combined_text": "Abhishek Sharma literally said \"Ja B**K\nbowling kar jake\" to Shaheen Afridi\nafter hitting six on 1st ball\nNLD\nKISTAN\nNDIA",
+    "detailed": [
+        {
+            "text": "Abhishek Sharma literally said \"Ja B**K",
+            "confidence": 1.0,
+            "box": [
+                [
+                    15.0,
+                    37.0
+                ],
+                [
+                    1060.0,
+                    34.0
+                ],
+                [
+                    1060.0,
+                    95.0
+                ],
+                [
+                    16.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "bowling kar jake\" to Shaheen Afridi",
+            "confidence": 1.0,
+            "box": [
+                [
+                    69.0,
+                    119.0
+                ],
+                [
+                    1012.0,
+                    116.0
+                ],
+                [
+                    1013.0,
+                    172.0
+                ],
+                [
+                    69.0,
+                    175.0
+                ]
+            ]
+        },
+        {
+            "text": "after hitting six on 1st ball",
+            "confidence": 0.999,
+            "box": [
+                [
+                    111.0,
+                    196.0
+                ],
+                [
+                    804.0,
+                    193.0
+                ],
+                [
+                    804.0,
+                    251.0
+                ],
+                [
+                    111.0,
+                    254.0
+                ]
+            ]
+        },
+        {
+            "text": "NLD",
+            "confidence": 0.56,
+            "box": [
+                [
+                    314.0,
+                    1006.0
+                ],
+                [
+                    362.0,
+                    1002.0
+                ],
+                [
+                    363.0,
+                    1020.0
+                ],
+                [
+                    316.0,
+                    1024.0
+                ]
+            ]
+        },
+        {
+            "text": "KISTAN",
+            "confidence": 0.985,
+            "box": [
+                [
+                    737.0,
+                    1085.0
+                ],
+                [
+                    869.0,
+                    1097.0
+                ],
+                [
+                    863.0,
+                    1166.0
+                ],
+                [
+                    731.0,
+                    1153.0
+                ]
+            ]
+        },
+        {
+            "text": "NDIA",
+            "confidence": 0.979,
+            "box": [
+                [
+                    277.0,
+                    1151.0
+                ],
+                [
+                    540.0,
+                    1151.0
+                ],
+                [
+                    540.0,
+                    1291.0
+                ],
+                [
+                    277.0,
+                    1291.0
+                ]
+            ]
+        }
+    ]
+}

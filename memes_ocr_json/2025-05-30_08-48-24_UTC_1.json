@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-30_08-48-24_UTC_1.jpg",
+    "combined_text": "JATIONAL AIRPO\nJAYP\nsarcasm\nPM Narendra Modi meets\n14 y/o IPL sensation Vaibhav\nSuryavanshi at Patna airport",
+    "detailed": [
+        {
+            "text": "JATIONAL AIRPO",
+            "confidence": 0.895,
+            "box": [
+                [
+                    655.0,
+                    36.0
+                ],
+                [
+                    1024.0,
+                    3.0
+                ],
+                [
+                    1028.0,
+                    50.0
+                ],
+                [
+                    660.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "JAYP",
+            "confidence": 0.95,
+            "box": [
+                [
+                    63.0,
+                    115.0
+                ],
+                [
+                    154.0,
+                    105.0
+                ],
+                [
+                    159.0,
+                    149.0
+                ],
+                [
+                    68.0,
+                    158.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    481.0,
+                    1010.0
+                ],
+                [
+                    600.0,
+                    1010.0
+                ],
+                [
+                    600.0,
+                    1032.0
+                ],
+                [
+                    481.0,
+                    1032.0
+                ]
+            ]
+        },
+        {
+            "text": "PM Narendra Modi meets",
+            "confidence": 0.981,
+            "box": [
+                [
+                    146.0,
+                    1061.0
+                ],
+                [
+                    937.0,
+                    1064.0
+                ],
+                [
+                    936.0,
+                    1118.0
+                ],
+                [
+                    146.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "14 y/o IPL sensation Vaibhav",
+            "confidence": 0.99,
+            "box": [
+                [
+                    87.0,
+                    1148.0
+                ],
+                [
+                    993.0,
+                    1148.0
+                ],
+                [
+                    993.0,
+                    1210.0
+                ],
+                [
+                    87.0,
+                    1210.0
+                ]
+            ]
+        },
+        {
+            "text": "Suryavanshi at Patna airport",
+            "confidence": 0.978,
+            "box": [
+                [
+                    45.0,
+                    1239.0
+                ],
+                [
+                    966.0,
+                    1239.0
+                ],
+                [
+                    966.0,
+                    1301.0
+                ],
+                [
+                    45.0,
+                    1301.0
+                ]
+            ]
+        }
+    ]
+}

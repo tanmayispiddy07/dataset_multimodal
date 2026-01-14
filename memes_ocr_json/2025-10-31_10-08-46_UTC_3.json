@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-31_10-08-46_UTC_3.jpg",
+    "combined_text": "Plot, music, visuals, emotions, everything\njust hits right. Like this is cinema fr\nHow To Train Your Dragon\nsta",
+    "detailed": [
+        {
+            "text": "Plot, music, visuals, emotions, everything",
+            "confidence": 0.994,
+            "box": [
+                [
+                    65.0,
+                    51.0
+                ],
+                [
+                    1013.0,
+                    55.0
+                ],
+                [
+                    1012.0,
+                    108.0
+                ],
+                [
+                    65.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "just hits right. Like this is cinema fr",
+            "confidence": 0.997,
+            "box": [
+                [
+                    100.0,
+                    128.0
+                ],
+                [
+                    898.0,
+                    122.0
+                ],
+                [
+                    899.0,
+                    170.0
+                ],
+                [
+                    100.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "How To Train Your Dragon",
+            "confidence": 0.963,
+            "box": [
+                [
+                    3.0,
+                    247.0
+                ],
+                [
+                    229.0,
+                    250.0
+                ],
+                [
+                    229.0,
+                    274.0
+                ],
+                [
+                    3.0,
+                    271.0
+                ]
+            ]
+        },
+        {
+            "text": "sta",
+            "confidence": 0.854,
+            "box": [
+                [
+                    1043.0,
+                    309.0
+                ],
+                [
+                    1070.0,
+                    309.0
+                ],
+                [
+                    1070.0,
+                    319.0
+                ],
+                [
+                    1043.0,
+                    319.0
+                ]
+            ]
+        }
+    ]
+}

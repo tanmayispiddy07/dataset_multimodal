@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-12-29_07-31-36_UTC.jpg",
+    "combined_text": "MALAVIKA MOHANAN IS GORGEOUS\nADDICTEDTOMEMES\nDRESS BAGUNDI",
+    "detailed": [
+        {
+            "text": "MALAVIKA MOHANAN IS GORGEOUS",
+            "confidence": 0.988,
+            "box": [
+                [
+                    35.0,
+                    57.0
+                ],
+                [
+                    1052.0,
+                    54.0
+                ],
+                [
+                    1052.0,
+                    110.0
+                ],
+                [
+                    35.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    917.0,
+                    1019.0
+                ],
+                [
+                    1058.0,
+                    1019.0
+                ],
+                [
+                    1058.0,
+                    1040.0
+                ],
+                [
+                    917.0,
+                    1040.0
+                ]
+            ]
+        },
+        {
+            "text": "DRESS BAGUNDI",
+            "confidence": 0.961,
+            "box": [
+                [
+                    242.0,
+                    1264.0
+                ],
+                [
+                    699.0,
+                    1264.0
+                ],
+                [
+                    699.0,
+                    1316.0
+                ],
+                [
+                    242.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

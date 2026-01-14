@@ -1,0 +1,160 @@
+{
+    "image_name": "2019-06-09_17-17-09_UTC.jpg",
+    "combined_text": "ME:HIIII\nCRUSH:NOREPLY\nME:SENDING..HI..5TIMES\nCRUSH:HI\nme to my friends\nmama.. evala propose chesindi raa.\nFB/TELUGUSWAG",
+    "detailed": [
+        {
+            "text": "ME:HIIII",
+            "confidence": 0.932,
+            "box": [
+                [
+                    55.0,
+                    29.0
+                ],
+                [
+                    298.0,
+                    29.0
+                ],
+                [
+                    298.0,
+                    78.0
+                ],
+                [
+                    55.0,
+                    78.0
+                ]
+            ]
+        },
+        {
+            "text": "CRUSH:NOREPLY",
+            "confidence": 0.956,
+            "box": [
+                [
+                    57.0,
+                    110.0
+                ],
+                [
+                    579.0,
+                    110.0
+                ],
+                [
+                    579.0,
+                    158.0
+                ],
+                [
+                    57.0,
+                    158.0
+                ]
+            ]
+        },
+        {
+            "text": "ME:SENDING..HI..5TIMES",
+            "confidence": 0.939,
+            "box": [
+                [
+                    55.0,
+                    190.0
+                ],
+                [
+                    839.0,
+                    190.0
+                ],
+                [
+                    839.0,
+                    237.0
+                ],
+                [
+                    55.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "CRUSH:HI",
+            "confidence": 0.947,
+            "box": [
+                [
+                    56.0,
+                    268.0
+                ],
+                [
+                    349.0,
+                    268.0
+                ],
+                [
+                    349.0,
+                    320.0
+                ],
+                [
+                    56.0,
+                    320.0
+                ]
+            ]
+        },
+        {
+            "text": "me to my friends",
+            "confidence": 0.95,
+            "box": [
+                [
+                    315.0,
+                    356.0
+                ],
+                [
+                    768.0,
+                    350.0
+                ],
+                [
+                    769.0,
+                    408.0
+                ],
+                [
+                    316.0,
+                    414.0
+                ]
+            ]
+        },
+        {
+            "text": "mama.. evala propose chesindi raa.",
+            "confidence": 0.959,
+            "box": [
+                [
+                    43.0,
+                    430.0
+                ],
+                [
+                    1034.0,
+                    425.0
+                ],
+                [
+                    1034.0,
+                    486.0
+                ],
+                [
+                    43.0,
+                    491.0
+                ]
+            ]
+        },
+        {
+            "text": "FB/TELUGUSWAG",
+            "confidence": 0.995,
+            "box": [
+                [
+                    259.0,
+                    1000.0
+                ],
+                [
+                    692.0,
+                    1007.0
+                ],
+                [
+                    691.0,
+                    1069.0
+                ],
+                [
+                    258.0,
+                    1062.0
+                ]
+            ]
+        }
+    ]
+}

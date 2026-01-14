@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-06-12_16-58-30_UTC_2.jpg",
+    "combined_text": "THESE TWO DAUGHTERS HAD COME\nTO AHMEDABAD TO CELEBRATE THEIR\nGRANDMOTHER'S BIRTHDAY. THEYWERE\nRETURNING TO LONDON ON THURSDAY AND\nBECAME VICTIMS OF A PLANE ACCIDENT.\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "THESE TWO DAUGHTERS HAD COME",
+            "confidence": 0.937,
+            "box": [
+                [
+                    159.0,
+                    65.0
+                ],
+                [
+                    908.0,
+                    65.0
+                ],
+                [
+                    908.0,
+                    99.0
+                ],
+                [
+                    159.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "TO AHMEDABAD TO CELEBRATE THEIR",
+            "confidence": 0.948,
+            "box": [
+                [
+                    135.0,
+                    114.0
+                ],
+                [
+                    937.0,
+                    114.0
+                ],
+                [
+                    937.0,
+                    152.0
+                ],
+                [
+                    135.0,
+                    152.0
+                ]
+            ]
+        },
+        {
+            "text": "GRANDMOTHER'S BIRTHDAY. THEYWERE",
+            "confidence": 0.962,
+            "box": [
+                [
+                    111.0,
+                    166.0
+                ],
+                [
+                    959.0,
+                    166.0
+                ],
+                [
+                    959.0,
+                    203.0
+                ],
+                [
+                    111.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "RETURNING TO LONDON ON THURSDAY AND",
+            "confidence": 0.956,
+            "box": [
+                [
+                    65.0,
+                    217.0
+                ],
+                [
+                    1004.0,
+                    217.0
+                ],
+                [
+                    1004.0,
+                    255.0
+                ],
+                [
+                    65.0,
+                    255.0
+                ]
+            ]
+        },
+        {
+            "text": "BECAME VICTIMS OF A PLANE ACCIDENT.",
+            "confidence": 0.955,
+            "box": [
+                [
+                    101.0,
+                    269.0
+                ],
+                [
+                    969.0,
+                    269.0
+                ],
+                [
+                    969.0,
+                    306.0
+                ],
+                [
+                    101.0,
+                    306.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    914.0,
+                    471.0
+                ],
+                [
+                    1070.0,
+                    469.0
+                ],
+                [
+                    1070.0,
+                    492.0
+                ],
+                [
+                    914.0,
+                    493.0
+                ]
+            ]
+        }
+    ]
+}

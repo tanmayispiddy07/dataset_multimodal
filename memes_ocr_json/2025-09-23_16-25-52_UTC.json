@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-09-23_16-25-52_UTC.jpg",
+    "combined_text": "5L PARTICIPANTS IN JUST ONE DAY\nNEED ANOTHOR 5L TO UNLOCK\nCINEVIZ\nFIRESIORM\nS\nOG\nTHEFIRSTBLOOD\nSTART\nPILIPINCHU ANDHARINI PILIPINCHU\nPARTICIPATE CHEYYAMANU",
+    "detailed": [
+        {
+            "text": "5L PARTICIPANTS IN JUST ONE DAY",
+            "confidence": 0.932,
+            "box": [
+                [
+                    91.0,
+                    38.0
+                ],
+                [
+                    1014.0,
+                    38.0
+                ],
+                [
+                    1014.0,
+                    84.0
+                ],
+                [
+                    91.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "NEED ANOTHOR 5L TO UNLOCK",
+            "confidence": 0.961,
+            "box": [
+                [
+                    141.0,
+                    103.0
+                ],
+                [
+                    983.0,
+                    103.0
+                ],
+                [
+                    983.0,
+                    153.0
+                ],
+                [
+                    141.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEVIZ",
+            "confidence": 0.987,
+            "box": [
+                [
+                    790.0,
+                    217.0
+                ],
+                [
+                    905.0,
+                    222.0
+                ],
+                [
+                    904.0,
+                    244.0
+                ],
+                [
+                    789.0,
+                    239.0
+                ]
+            ]
+        },
+        {
+            "text": "FIRESIORM",
+            "confidence": 0.925,
+            "box": [
+                [
+                    118.0,
+                    245.0
+                ],
+                [
+                    495.0,
+                    245.0
+                ],
+                [
+                    495.0,
+                    309.0
+                ],
+                [
+                    118.0,
+                    309.0
+                ]
+            ]
+        },
+        {
+            "text": "S",
+            "confidence": 0.883,
+            "box": [
+                [
+                    695.0,
+                    291.0
+                ],
+                [
+                    705.0,
+                    291.0
+                ],
+                [
+                    705.0,
+                    302.0
+                ],
+                [
+                    695.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "OG",
+            "confidence": 0.709,
+            "box": [
+                [
+                    786.0,
+                    677.0
+                ],
+                [
+                    989.0,
+                    702.0
+                ],
+                [
+                    968.0,
+                    867.0
+                ],
+                [
+                    765.0,
+                    842.0
+                ]
+            ]
+        },
+        {
+            "text": "THEFIRSTBLOOD",
+            "confidence": 0.986,
+            "box": [
+                [
+                    765.0,
+                    848.0
+                ],
+                [
+                    953.0,
+                    844.0
+                ],
+                [
+                    954.0,
+                    870.0
+                ],
+                [
+                    765.0,
+                    873.0
+                ]
+            ]
+        },
+        {
+            "text": "START",
+            "confidence": 0.996,
+            "box": [
+                [
+                    255.0,
+                    921.0
+                ],
+                [
+                    352.0,
+                    921.0
+                ],
+                [
+                    352.0,
+                    948.0
+                ],
+                [
+                    255.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "PILIPINCHU ANDHARINI PILIPINCHU",
+            "confidence": 0.971,
+            "box": [
+                [
+                    18.0,
+                    1239.0
+                ],
+                [
+                    669.0,
+                    1239.0
+                ],
+                [
+                    669.0,
+                    1272.0
+                ],
+                [
+                    18.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "PARTICIPATE CHEYYAMANU",
+            "confidence": 0.978,
+            "box": [
+                [
+                    96.0,
+                    1284.0
+                ],
+                [
+                    593.0,
+                    1284.0
+                ],
+                [
+                    593.0,
+                    1317.0
+                ],
+                [
+                    96.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

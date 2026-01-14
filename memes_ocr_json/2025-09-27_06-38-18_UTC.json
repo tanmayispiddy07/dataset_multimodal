@@ -1,0 +1,600 @@
+{
+    "image_name": "2025-09-27_06-38-18_UTC.jpg",
+    "combined_text": "\"A comment can't scare you\".\nThe comment:\nComments\nbeingmarthashilshi 2w\nWhen I was 10 years old, my father\nforced me to go to the funeral of a friend\n1469\nof his I didn't know.When we got there, !\nstood in a corner waiting to leave. Then,\na man approached me and said, \"Enjoy\nyour life, kid, be happy because I didn't\nenjoy it. He put his hand on my head and\nwalked away.\nBefore we left, my father forced me to\nsay goodbye to the dead man, and when\nI looked at the coffin, I got scared: it was\nthe man who was talking to me while 1\nstood in a corner. I started to struggle to\nsleep,I was afraid of being alone, I went\nto a psychologist, I didn't turn off the\nlights at night... Years later, I discovered\nsomething incredible that changed my\nlife:that miserable dead man had a twin\nbrother...\nReply\nsarcasm\nsangramkumarjena_official 2w",
+    "detailed": [
+        {
+            "text": "\"A comment can't scare you\".",
+            "confidence": 0.985,
+            "box": [
+                [
+                    35.0,
+                    49.0
+                ],
+                [
+                    873.0,
+                    52.0
+                ],
+                [
+                    873.0,
+                    111.0
+                ],
+                [
+                    35.0,
+                    108.0
+                ]
+            ]
+        },
+        {
+            "text": "The comment:",
+            "confidence": 1.0,
+            "box": [
+                [
+                    33.0,
+                    171.0
+                ],
+                [
+                    452.0,
+                    177.0
+                ],
+                [
+                    451.0,
+                    232.0
+                ],
+                [
+                    32.0,
+                    226.0
+                ]
+            ]
+        },
+        {
+            "text": "Comments",
+            "confidence": 0.999,
+            "box": [
+                [
+                    454.0,
+                    289.0
+                ],
+                [
+                    637.0,
+                    289.0
+                ],
+                [
+                    637.0,
+                    324.0
+                ],
+                [
+                    454.0,
+                    324.0
+                ]
+            ]
+        },
+        {
+            "text": "beingmarthashilshi 2w",
+            "confidence": 0.99,
+            "box": [
+                [
+                    221.0,
+                    382.0
+                ],
+                [
+                    540.0,
+                    380.0
+                ],
+                [
+                    540.0,
+                    412.0
+                ],
+                [
+                    221.0,
+                    414.0
+                ]
+            ]
+        },
+        {
+            "text": "When I was 10 years old, my father",
+            "confidence": 0.943,
+            "box": [
+                [
+                    222.0,
+                    432.0
+                ],
+                [
+                    779.0,
+                    432.0
+                ],
+                [
+                    779.0,
+                    467.0
+                ],
+                [
+                    222.0,
+                    467.0
+                ]
+            ]
+        },
+        {
+            "text": "forced me to go to the funeral of a friend",
+            "confidence": 0.968,
+            "box": [
+                [
+                    221.0,
+                    471.0
+                ],
+                [
+                    879.0,
+                    471.0
+                ],
+                [
+                    879.0,
+                    507.0
+                ],
+                [
+                    221.0,
+                    507.0
+                ]
+            ]
+        },
+        {
+            "text": "1469",
+            "confidence": 0.989,
+            "box": [
+                [
+                    922.0,
+                    470.0
+                ],
+                [
+                    990.0,
+                    470.0
+                ],
+                [
+                    990.0,
+                    498.0
+                ],
+                [
+                    922.0,
+                    498.0
+                ]
+            ]
+        },
+        {
+            "text": "of his I didn't know.When we got there, !",
+            "confidence": 0.951,
+            "box": [
+                [
+                    222.0,
+                    511.0
+                ],
+                [
+                    882.0,
+                    514.0
+                ],
+                [
+                    882.0,
+                    544.0
+                ],
+                [
+                    222.0,
+                    542.0
+                ]
+            ]
+        },
+        {
+            "text": "stood in a corner waiting to leave. Then,",
+            "confidence": 0.989,
+            "box": [
+                [
+                    219.0,
+                    549.0
+                ],
+                [
+                    869.0,
+                    551.0
+                ],
+                [
+                    869.0,
+                    587.0
+                ],
+                [
+                    219.0,
+                    584.0
+                ]
+            ]
+        },
+        {
+            "text": "a man approached me and said, \"Enjoy",
+            "confidence": 0.963,
+            "box": [
+                [
+                    217.0,
+                    586.0
+                ],
+                [
+                    844.0,
+                    589.0
+                ],
+                [
+                    844.0,
+                    629.0
+                ],
+                [
+                    216.0,
+                    626.0
+                ]
+            ]
+        },
+        {
+            "text": "your life, kid, be happy because I didn't",
+            "confidence": 0.941,
+            "box": [
+                [
+                    222.0,
+                    630.0
+                ],
+                [
+                    851.0,
+                    630.0
+                ],
+                [
+                    851.0,
+                    665.0
+                ],
+                [
+                    222.0,
+                    665.0
+                ]
+            ]
+        },
+        {
+            "text": "enjoy it. He put his hand on my head and",
+            "confidence": 0.944,
+            "box": [
+                [
+                    221.0,
+                    669.0
+                ],
+                [
+                    889.0,
+                    666.0
+                ],
+                [
+                    889.0,
+                    702.0
+                ],
+                [
+                    221.0,
+                    704.0
+                ]
+            ]
+        },
+        {
+            "text": "walked away.",
+            "confidence": 0.968,
+            "box": [
+                [
+                    220.0,
+                    706.0
+                ],
+                [
+                    433.0,
+                    710.0
+                ],
+                [
+                    433.0,
+                    745.0
+                ],
+                [
+                    219.0,
+                    741.0
+                ]
+            ]
+        },
+        {
+            "text": "Before we left, my father forced me to",
+            "confidence": 0.938,
+            "box": [
+                [
+                    222.0,
+                    749.0
+                ],
+                [
+                    837.0,
+                    749.0
+                ],
+                [
+                    837.0,
+                    780.0
+                ],
+                [
+                    222.0,
+                    780.0
+                ]
+            ]
+        },
+        {
+            "text": "say goodbye to the dead man, and when",
+            "confidence": 0.969,
+            "box": [
+                [
+                    219.0,
+                    786.0
+                ],
+                [
+                    880.0,
+                    783.0
+                ],
+                [
+                    880.0,
+                    822.0
+                ],
+                [
+                    219.0,
+                    825.0
+                ]
+            ]
+        },
+        {
+            "text": "I looked at the coffin, I got scared: it was",
+            "confidence": 0.965,
+            "box": [
+                [
+                    219.0,
+                    826.0
+                ],
+                [
+                    878.0,
+                    826.0
+                ],
+                [
+                    878.0,
+                    862.0
+                ],
+                [
+                    219.0,
+                    862.0
+                ]
+            ]
+        },
+        {
+            "text": "the man who was talking to me while 1",
+            "confidence": 0.93,
+            "box": [
+                [
+                    221.0,
+                    866.0
+                ],
+                [
+                    840.0,
+                    866.0
+                ],
+                [
+                    840.0,
+                    901.0
+                ],
+                [
+                    221.0,
+                    901.0
+                ]
+            ]
+        },
+        {
+            "text": "stood in a corner. I started to struggle to",
+            "confidence": 0.985,
+            "box": [
+                [
+                    219.0,
+                    904.0
+                ],
+                [
+                    875.0,
+                    905.0
+                ],
+                [
+                    875.0,
+                    942.0
+                ],
+                [
+                    219.0,
+                    940.0
+                ]
+            ]
+        },
+        {
+            "text": "sleep,I was afraid of being alone, I went",
+            "confidence": 0.931,
+            "box": [
+                [
+                    222.0,
+                    947.0
+                ],
+                [
+                    866.0,
+                    947.0
+                ],
+                [
+                    866.0,
+                    978.0
+                ],
+                [
+                    222.0,
+                    978.0
+                ]
+            ]
+        },
+        {
+            "text": "to a psychologist, I didn't turn off the",
+            "confidence": 0.962,
+            "box": [
+                [
+                    221.0,
+                    985.0
+                ],
+                [
+                    823.0,
+                    985.0
+                ],
+                [
+                    823.0,
+                    1020.0
+                ],
+                [
+                    221.0,
+                    1020.0
+                ]
+            ]
+        },
+        {
+            "text": "lights at night... Years later, I discovered",
+            "confidence": 0.963,
+            "box": [
+                [
+                    224.0,
+                    1026.0
+                ],
+                [
+                    862.0,
+                    1026.0
+                ],
+                [
+                    862.0,
+                    1057.0
+                ],
+                [
+                    224.0,
+                    1057.0
+                ]
+            ]
+        },
+        {
+            "text": "something incredible that changed my",
+            "confidence": 0.991,
+            "box": [
+                [
+                    221.0,
+                    1062.0
+                ],
+                [
+                    845.0,
+                    1064.0
+                ],
+                [
+                    845.0,
+                    1100.0
+                ],
+                [
+                    221.0,
+                    1099.0
+                ]
+            ]
+        },
+        {
+            "text": "life:that miserable dead man had a twin",
+            "confidence": 0.955,
+            "box": [
+                [
+                    222.0,
+                    1101.0
+                ],
+                [
+                    863.0,
+                    1104.0
+                ],
+                [
+                    863.0,
+                    1135.0
+                ],
+                [
+                    222.0,
+                    1132.0
+                ]
+            ]
+        },
+        {
+            "text": "brother...",
+            "confidence": 0.98,
+            "box": [
+                [
+                    220.0,
+                    1139.0
+                ],
+                [
+                    367.0,
+                    1144.0
+                ],
+                [
+                    366.0,
+                    1176.0
+                ],
+                [
+                    219.0,
+                    1171.0
+                ]
+            ]
+        },
+        {
+            "text": "Reply",
+            "confidence": 0.999,
+            "box": [
+                [
+                    217.0,
+                    1186.0
+                ],
+                [
+                    305.0,
+                    1192.0
+                ],
+                [
+                    302.0,
+                    1230.0
+                ],
+                [
+                    214.0,
+                    1224.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    796.0,
+                    1187.0
+                ],
+                [
+                    915.0,
+                    1187.0
+                ],
+                [
+                    915.0,
+                    1214.0
+                ],
+                [
+                    796.0,
+                    1214.0
+                ]
+            ]
+        },
+        {
+            "text": "sangramkumarjena_official 2w",
+            "confidence": 0.979,
+            "box": [
+                [
+                    295.0,
+                    1292.0
+                ],
+                [
+                    725.0,
+                    1289.0
+                ],
+                [
+                    726.0,
+                    1320.0
+                ],
+                [
+                    295.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

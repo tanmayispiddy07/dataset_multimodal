@@ -1,0 +1,468 @@
+{
+    "image_name": "2025-08-16_12-01-47_UTC.jpg",
+    "combined_text": "AIR,ANANAGANAGA AND CONSTABLE KANAKAM\nBACK TO BACK BLOCKBUSTERS IN ETVWIN\nORIGINAL SERIES\nA WIN ORIGINAL SERIES\nWiNOngina/fim\nOSAST\nASQ3MO\nGVMALL\nlebrate\nSTREAMINI\nNOW\nCONSTABLE\nNATCHNOW\nKANARAN\nALL SNDEA RANKERS\nSANDLEPRAM\nJOSEHCLINTON\nDELTAFORCE\nADDICTEDTOMEMES\nETVWIN GURUINCHI TELISINDHE KADHA\nVALLA OTT LO ANNI BLOCKBUSTERS EH",
+    "detailed": [
+        {
+            "text": "AIR,ANANAGANAGA AND CONSTABLE KANAKAM",
+            "confidence": 0.959,
+            "box": [
+                [
+                    52.0,
+                    77.0
+                ],
+                [
+                    1076.0,
+                    78.0
+                ],
+                [
+                    1076.0,
+                    120.0
+                ],
+                [
+                    52.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "BACK TO BACK BLOCKBUSTERS IN ETVWIN",
+            "confidence": 0.94,
+            "box": [
+                [
+                    136.0,
+                    131.0
+                ],
+                [
+                    991.0,
+                    131.0
+                ],
+                [
+                    991.0,
+                    164.0
+                ],
+                [
+                    136.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "ORIGINAL SERIES",
+            "confidence": 0.959,
+            "box": [
+                [
+                    526.0,
+                    251.0
+                ],
+                [
+                    647.0,
+                    251.0
+                ],
+                [
+                    647.0,
+                    272.0
+                ],
+                [
+                    526.0,
+                    272.0
+                ]
+            ]
+        },
+        {
+            "text": "A WIN ORIGINAL SERIES",
+            "confidence": 0.952,
+            "box": [
+                [
+                    878.0,
+                    243.0
+                ],
+                [
+                    1027.0,
+                    243.0
+                ],
+                [
+                    1027.0,
+                    259.0
+                ],
+                [
+                    878.0,
+                    259.0
+                ]
+            ]
+        },
+        {
+            "text": "WiNOngina/fim",
+            "confidence": 0.763,
+            "box": [
+                [
+                    65.0,
+                    258.0
+                ],
+                [
+                    169.0,
+                    258.0
+                ],
+                [
+                    169.0,
+                    280.0
+                ],
+                [
+                    65.0,
+                    280.0
+                ]
+            ]
+        },
+        {
+            "text": "OSAST",
+            "confidence": 0.536,
+            "box": [
+                [
+                    10.0,
+                    286.0
+                ],
+                [
+                    228.0,
+                    286.0
+                ],
+                [
+                    228.0,
+                    357.0
+                ],
+                [
+                    10.0,
+                    357.0
+                ]
+            ]
+        },
+        {
+            "text": "ASQ3MO",
+            "confidence": 0.578,
+            "box": [
+                [
+                    91.0,
+                    367.0
+                ],
+                [
+                    138.0,
+                    367.0
+                ],
+                [
+                    138.0,
+                    379.0
+                ],
+                [
+                    91.0,
+                    379.0
+                ]
+            ]
+        },
+        {
+            "text": "GVMALL",
+            "confidence": 0.991,
+            "box": [
+                [
+                    91.0,
+                    376.0
+                ],
+                [
+                    173.0,
+                    376.0
+                ],
+                [
+                    173.0,
+                    399.0
+                ],
+                [
+                    91.0,
+                    399.0
+                ]
+            ]
+        },
+        {
+            "text": "lebrate",
+            "confidence": 0.97,
+            "box": [
+                [
+                    136.0,
+                    394.0
+                ],
+                [
+                    172.0,
+                    394.0
+                ],
+                [
+                    172.0,
+                    407.0
+                ],
+                [
+                    136.0,
+                    407.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMINI",
+            "confidence": 0.982,
+            "box": [
+                [
+                    359.0,
+                    647.0
+                ],
+                [
+                    744.0,
+                    647.0
+                ],
+                [
+                    744.0,
+                    707.0
+                ],
+                [
+                    359.0,
+                    707.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW",
+            "confidence": 0.982,
+            "box": [
+                [
+                    468.0,
+                    709.0
+                ],
+                [
+                    647.0,
+                    709.0
+                ],
+                [
+                    647.0,
+                    786.0
+                ],
+                [
+                    468.0,
+                    786.0
+                ]
+            ]
+        },
+        {
+            "text": "CONSTABLE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    491.0,
+                    807.0
+                ],
+                [
+                    646.0,
+                    810.0
+                ],
+                [
+                    645.0,
+                    850.0
+                ],
+                [
+                    490.0,
+                    847.0
+                ]
+            ]
+        },
+        {
+            "text": "NATCHNOW",
+            "confidence": 0.982,
+            "box": [
+                [
+                    0.0,
+                    861.0
+                ],
+                [
+                    250.0,
+                    861.0
+                ],
+                [
+                    250.0,
+                    899.0
+                ],
+                [
+                    0.0,
+                    899.0
+                ]
+            ]
+        },
+        {
+            "text": "KANARAN",
+            "confidence": 0.871,
+            "box": [
+                [
+                    461.0,
+                    856.0
+                ],
+                [
+                    651.0,
+                    856.0
+                ],
+                [
+                    651.0,
+                    909.0
+                ],
+                [
+                    461.0,
+                    909.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL SNDEA RANKERS",
+            "confidence": 0.878,
+            "box": [
+                [
+                    828.0,
+                    857.0
+                ],
+                [
+                    1077.0,
+                    857.0
+                ],
+                [
+                    1077.0,
+                    878.0
+                ],
+                [
+                    828.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "text": "SANDLEPRAM",
+            "confidence": 0.791,
+            "box": [
+                [
+                    835.0,
+                    885.0
+                ],
+                [
+                    906.0,
+                    885.0
+                ],
+                [
+                    906.0,
+                    902.0
+                ],
+                [
+                    835.0,
+                    902.0
+                ]
+            ]
+        },
+        {
+            "text": "JOSEHCLINTON",
+            "confidence": 0.837,
+            "box": [
+                [
+                    986.0,
+                    882.0
+                ],
+                [
+                    1076.0,
+                    882.0
+                ],
+                [
+                    1076.0,
+                    903.0
+                ],
+                [
+                    986.0,
+                    903.0
+                ]
+            ]
+        },
+        {
+            "text": "DELTAFORCE",
+            "confidence": 0.982,
+            "box": [
+                [
+                    605.0,
+                    932.0
+                ],
+                [
+                    768.0,
+                    892.0
+                ],
+                [
+                    780.0,
+                    940.0
+                ],
+                [
+                    617.0,
+                    980.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    11.0,
+                    1049.0
+                ],
+                [
+                    179.0,
+                    1049.0
+                ],
+                [
+                    179.0,
+                    1070.0
+                ],
+                [
+                    11.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "text": "ETVWIN GURUINCHI TELISINDHE KADHA",
+            "confidence": 0.961,
+            "box": [
+                [
+                    18.0,
+                    1235.0
+                ],
+                [
+                    875.0,
+                    1235.0
+                ],
+                [
+                    875.0,
+                    1272.0
+                ],
+                [
+                    18.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLA OTT LO ANNI BLOCKBUSTERS EH",
+            "confidence": 0.953,
+            "box": [
+                [
+                    20.0,
+                    1282.0
+                ],
+                [
+                    861.0,
+                    1284.0
+                ],
+                [
+                    861.0,
+                    1325.0
+                ],
+                [
+                    20.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2023-04-17_16-15-31_UTC.jpg",
+    "combined_text": "You can have this\nmystery box",
+    "detailed": [
+        {
+            "text": "You can have this",
+            "confidence": 0.969,
+            "box": [
+                [
+                    130.0,
+                    943.0
+                ],
+                [
+                    658.0,
+                    946.0
+                ],
+                [
+                    657.0,
+                    1008.0
+                ],
+                [
+                    129.0,
+                    1004.0
+                ]
+            ]
+        },
+        {
+            "text": "mystery box",
+            "confidence": 0.958,
+            "box": [
+                [
+                    173.0,
+                    1012.0
+                ],
+                [
+                    566.0,
+                    1009.0
+                ],
+                [
+                    566.0,
+                    1079.0
+                ],
+                [
+                    174.0,
+                    1083.0
+                ]
+            ]
+        }
+    ]
+}

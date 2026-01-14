@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-04-29_00-24-40_UTC.jpg",
+    "combined_text": "YOU BEING GAY\nBUTCOULDN'T YOU HAVE\nFOUNDANICEINDIAN BOYA",
+    "detailed": [
+        {
+            "text": "YOU BEING GAY",
+            "confidence": 0.958,
+            "box": [
+                [
+                    110.0,
+                    37.0
+                ],
+                [
+                    298.0,
+                    37.0
+                ],
+                [
+                    298.0,
+                    67.0
+                ],
+                [
+                    110.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "BUTCOULDN'T YOU HAVE",
+            "confidence": 0.943,
+            "box": [
+                [
+                    57.0,
+                    232.0
+                ],
+                [
+                    361.0,
+                    232.0
+                ],
+                [
+                    361.0,
+                    261.0
+                ],
+                [
+                    57.0,
+                    261.0
+                ]
+            ]
+        },
+        {
+            "text": "FOUNDANICEINDIAN BOYA",
+            "confidence": 0.92,
+            "box": [
+                [
+                    41.0,
+                    270.0
+                ],
+                [
+                    372.0,
+                    270.0
+                ],
+                [
+                    372.0,
+                    296.0
+                ],
+                [
+                    41.0,
+                    296.0
+                ]
+            ]
+        }
+    ]
+}

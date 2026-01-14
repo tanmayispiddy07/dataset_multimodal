@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-06-11_17-34-19_UTC.jpg",
+    "combined_text": "I belong to this era\nsarcasm",
+    "detailed": [
+        {
+            "text": "I belong to this era",
+            "confidence": 0.999,
+            "box": [
+                [
+                    134.0,
+                    41.0
+                ],
+                [
+                    717.0,
+                    45.0
+                ],
+                [
+                    717.0,
+                    112.0
+                ],
+                [
+                    133.0,
+                    108.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    671.0,
+                    535.0
+                ],
+                [
+                    765.0,
+                    535.0
+                ],
+                [
+                    765.0,
+                    555.0
+                ],
+                [
+                    671.0,
+                    555.0
+                ]
+            ]
+        }
+    ]
+}

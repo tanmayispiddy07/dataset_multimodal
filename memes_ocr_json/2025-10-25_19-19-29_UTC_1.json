@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-10-25_19-19-29_UTC_1.jpg",
+    "combined_text": "CECET\napollo\nTYRES\nsarcasm\n1E\nThree months of Hardwork,.\nnot eating his favourite food, training.\nhard - maybe you will see few more kilos\ndown when we see him play next time.\n-Abhishek Nayar",
+    "detailed": [
+        {
+            "text": "CECET",
+            "confidence": 0.581,
+            "box": [
+                [
+                    993.0,
+                    467.0
+                ],
+                [
+                    1037.0,
+                    462.0
+                ],
+                [
+                    1040.0,
+                    489.0
+                ],
+                [
+                    996.0,
+                    495.0
+                ]
+            ]
+        },
+        {
+            "text": "apollo",
+            "confidence": 0.988,
+            "box": [
+                [
+                    369.0,
+                    751.0
+                ],
+                [
+                    644.0,
+                    696.0
+                ],
+                [
+                    666.0,
+                    804.0
+                ],
+                [
+                    391.0,
+                    859.0
+                ]
+            ]
+        },
+        {
+            "text": "TYRES",
+            "confidence": 0.985,
+            "box": [
+                [
+                    450.0,
+                    810.0
+                ],
+                [
+                    643.0,
+                    795.0
+                ],
+                [
+                    647.0,
+                    840.0
+                ],
+                [
+                    454.0,
+                    855.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.995,
+            "box": [
+                [
+                    480.0,
+                    890.0
+                ],
+                [
+                    595.0,
+                    890.0
+                ],
+                [
+                    595.0,
+                    917.0
+                ],
+                [
+                    480.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "1E",
+            "confidence": 0.522,
+            "box": [
+                [
+                    482.0,
+                    927.0
+                ],
+                [
+                    602.0,
+                    927.0
+                ],
+                [
+                    602.0,
+                    969.0
+                ],
+                [
+                    482.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "Three months of Hardwork,.",
+            "confidence": 0.952,
+            "box": [
+                [
+                    189.0,
+                    991.0
+                ],
+                [
+                    887.0,
+                    993.0
+                ],
+                [
+                    887.0,
+                    1042.0
+                ],
+                [
+                    188.0,
+                    1040.0
+                ]
+            ]
+        },
+        {
+            "text": "not eating his favourite food, training.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    54.0,
+                    1057.0
+                ],
+                [
+                    1021.0,
+                    1061.0
+                ],
+                [
+                    1021.0,
+                    1115.0
+                ],
+                [
+                    53.0,
+                    1110.0
+                ]
+            ]
+        },
+        {
+            "text": "hard - maybe you will see few more kilos",
+            "confidence": 0.996,
+            "box": [
+                [
+                    17.0,
+                    1129.0
+                ],
+                [
+                    1060.0,
+                    1129.0
+                ],
+                [
+                    1060.0,
+                    1178.0
+                ],
+                [
+                    17.0,
+                    1178.0
+                ]
+            ]
+        },
+        {
+            "text": "down when we see him play next time.",
+            "confidence": 0.997,
+            "box": [
+                [
+                    52.0,
+                    1197.0
+                ],
+                [
+                    1025.0,
+                    1197.0
+                ],
+                [
+                    1025.0,
+                    1251.0
+                ],
+                [
+                    52.0,
+                    1251.0
+                ]
+            ]
+        },
+        {
+            "text": "-Abhishek Nayar",
+            "confidence": 0.947,
+            "box": [
+                [
+                    377.0,
+                    1269.0
+                ],
+                [
+                    703.0,
+                    1272.0
+                ],
+                [
+                    703.0,
+                    1307.0
+                ],
+                [
+                    377.0,
+                    1304.0
+                ]
+            ]
+        }
+    ]
+}

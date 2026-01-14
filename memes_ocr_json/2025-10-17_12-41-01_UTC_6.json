@@ -1,0 +1,600 @@
+{
+    "image_name": "2025-10-17_12-41-01_UTC_6.jpg",
+    "combined_text": "Certificate ofCompletion\nYour Name\nShranitL\nGyR\nThis Certificate is Recognized by 1100+Companies Like\nswoev Google Flipkart zepto\nLifetime Access Just For399999\nPersonalised Syllabus\n24/7 Live Doubt Solving\nIndustry Recognised Projects\n60% Average Salary Hike\n5 Practice Interviews\nNaku ee course tesukovali ani\nvundi. It will help me for my\ncareer. But i don't have money.\nMaadi konchem financial ga\npoor family.\nEdited 9:35pm\n400\nSent to~Saiprasad\nCompleted\n9:39pm\nAll the best bro 9:39 pm \nUnnapude ivu em ibbandi padaku\n9:39pm\nJob vasthadhi neku\n9:39pm",
+    "detailed": [
+        {
+            "text": "Certificate ofCompletion",
+            "confidence": 0.974,
+            "box": [
+                [
+                    345.0,
+                    35.0
+                ],
+                [
+                    616.0,
+                    35.0
+                ],
+                [
+                    616.0,
+                    64.0
+                ],
+                [
+                    345.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "Your Name",
+            "confidence": 0.963,
+            "box": [
+                [
+                    418.0,
+                    77.0
+                ],
+                [
+                    543.0,
+                    80.0
+                ],
+                [
+                    542.0,
+                    106.0
+                ],
+                [
+                    417.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "ShranitL",
+            "confidence": 0.821,
+            "box": [
+                [
+                    404.0,
+                    141.0
+                ],
+                [
+                    474.0,
+                    141.0
+                ],
+                [
+                    474.0,
+                    163.0
+                ],
+                [
+                    404.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "GyR",
+            "confidence": 0.654,
+            "box": [
+                [
+                    484.0,
+                    144.0
+                ],
+                [
+                    557.0,
+                    144.0
+                ],
+                [
+                    557.0,
+                    166.0
+                ],
+                [
+                    484.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "This Certificate is Recognized by 1100+Companies Like",
+            "confidence": 0.975,
+            "box": [
+                [
+                    323.0,
+                    180.0
+                ],
+                [
+                    634.0,
+                    180.0
+                ],
+                [
+                    634.0,
+                    201.0
+                ],
+                [
+                    323.0,
+                    201.0
+                ]
+            ]
+        },
+        {
+            "text": "swoev Google Flipkart zepto",
+            "confidence": 0.828,
+            "box": [
+                [
+                    393.0,
+                    201.0
+                ],
+                [
+                    620.0,
+                    204.0
+                ],
+                [
+                    620.0,
+                    225.0
+                ],
+                [
+                    392.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "Lifetime Access Just For399999",
+            "confidence": 0.953,
+            "box": [
+                [
+                    302.0,
+                    314.0
+                ],
+                [
+                    558.0,
+                    314.0
+                ],
+                [
+                    558.0,
+                    335.0
+                ],
+                [
+                    302.0,
+                    335.0
+                ]
+            ]
+        },
+        {
+            "text": "Personalised Syllabus",
+            "confidence": 0.981,
+            "box": [
+                [
+                    290.0,
+                    356.0
+                ],
+                [
+                    475.0,
+                    357.0
+                ],
+                [
+                    475.0,
+                    380.0
+                ],
+                [
+                    290.0,
+                    378.0
+                ]
+            ]
+        },
+        {
+            "text": "24/7 Live Doubt Solving",
+            "confidence": 0.954,
+            "box": [
+                [
+                    289.0,
+                    393.0
+                ],
+                [
+                    491.0,
+                    398.0
+                ],
+                [
+                    490.0,
+                    423.0
+                ],
+                [
+                    288.0,
+                    419.0
+                ]
+            ]
+        },
+        {
+            "text": "Industry Recognised Projects",
+            "confidence": 0.979,
+            "box": [
+                [
+                    291.0,
+                    440.0
+                ],
+                [
+                    533.0,
+                    440.0
+                ],
+                [
+                    533.0,
+                    461.0
+                ],
+                [
+                    291.0,
+                    461.0
+                ]
+            ]
+        },
+        {
+            "text": "60% Average Salary Hike",
+            "confidence": 0.961,
+            "box": [
+                [
+                    288.0,
+                    476.0
+                ],
+                [
+                    504.0,
+                    477.0
+                ],
+                [
+                    503.0,
+                    503.0
+                ],
+                [
+                    288.0,
+                    501.0
+                ]
+            ]
+        },
+        {
+            "text": "5 Practice Interviews",
+            "confidence": 0.957,
+            "box": [
+                [
+                    291.0,
+                    521.0
+                ],
+                [
+                    467.0,
+                    521.0
+                ],
+                [
+                    467.0,
+                    542.0
+                ],
+                [
+                    291.0,
+                    542.0
+                ]
+            ]
+        },
+        {
+            "text": "Naku ee course tesukovali ani",
+            "confidence": 0.98,
+            "box": [
+                [
+                    241.0,
+                    610.0
+                ],
+                [
+                    681.0,
+                    611.0
+                ],
+                [
+                    681.0,
+                    645.0
+                ],
+                [
+                    240.0,
+                    643.0
+                ]
+            ]
+        },
+        {
+            "text": "vundi. It will help me for my",
+            "confidence": 0.938,
+            "box": [
+                [
+                    241.0,
+                    648.0
+                ],
+                [
+                    644.0,
+                    652.0
+                ],
+                [
+                    644.0,
+                    685.0
+                ],
+                [
+                    240.0,
+                    681.0
+                ]
+            ]
+        },
+        {
+            "text": "career. But i don't have money.",
+            "confidence": 0.988,
+            "box": [
+                [
+                    239.0,
+                    685.0
+                ],
+                [
+                    685.0,
+                    690.0
+                ],
+                [
+                    685.0,
+                    727.0
+                ],
+                [
+                    239.0,
+                    723.0
+                ]
+            ]
+        },
+        {
+            "text": "Maadi konchem financial ga",
+            "confidence": 0.998,
+            "box": [
+                [
+                    239.0,
+                    721.0
+                ],
+                [
+                    656.0,
+                    727.0
+                ],
+                [
+                    655.0,
+                    767.0
+                ],
+                [
+                    239.0,
+                    761.0
+                ]
+            ]
+        },
+        {
+            "text": "poor family.",
+            "confidence": 0.974,
+            "box": [
+                [
+                    240.0,
+                    765.0
+                ],
+                [
+                    415.0,
+                    765.0
+                ],
+                [
+                    415.0,
+                    804.0
+                ],
+                [
+                    240.0,
+                    804.0
+                ]
+            ]
+        },
+        {
+            "text": "Edited 9:35pm",
+            "confidence": 0.957,
+            "box": [
+                [
+                    543.0,
+                    777.0
+                ],
+                [
+                    717.0,
+                    780.0
+                ],
+                [
+                    717.0,
+                    810.0
+                ],
+                [
+                    543.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "400",
+            "confidence": 0.998,
+            "box": [
+                [
+                    583.0,
+                    884.0
+                ],
+                [
+                    746.0,
+                    888.0
+                ],
+                [
+                    744.0,
+                    955.0
+                ],
+                [
+                    582.0,
+                    951.0
+                ]
+            ]
+        },
+        {
+            "text": "Sent to~Saiprasad",
+            "confidence": 0.987,
+            "box": [
+                [
+                    467.0,
+                    1012.0
+                ],
+                [
+                    688.0,
+                    1012.0
+                ],
+                [
+                    688.0,
+                    1041.0
+                ],
+                [
+                    467.0,
+                    1041.0
+                ]
+            ]
+        },
+        {
+            "text": "Completed",
+            "confidence": 0.998,
+            "box": [
+                [
+                    466.0,
+                    1045.0
+                ],
+                [
+                    594.0,
+                    1049.0
+                ],
+                [
+                    593.0,
+                    1079.0
+                ],
+                [
+                    465.0,
+                    1076.0
+                ]
+            ]
+        },
+        {
+            "text": "9:39pm",
+            "confidence": 0.945,
+            "box": [
+                [
+                    775.0,
+                    1052.0
+                ],
+                [
+                    915.0,
+                    1052.0
+                ],
+                [
+                    915.0,
+                    1087.0
+                ],
+                [
+                    775.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "All the best bro 9:39 pm ",
+            "confidence": 0.926,
+            "box": [
+                [
+                    550.0,
+                    1107.0
+                ],
+                [
+                    929.0,
+                    1127.0
+                ],
+                [
+                    926.0,
+                    1175.0
+                ],
+                [
+                    548.0,
+                    1155.0
+                ]
+            ]
+        },
+        {
+            "text": "Unnapude ivu em ibbandi padaku",
+            "confidence": 0.977,
+            "box": [
+                [
+                    433.0,
+                    1192.0
+                ],
+                [
+                    918.0,
+                    1192.0
+                ],
+                [
+                    918.0,
+                    1226.0
+                ],
+                [
+                    433.0,
+                    1226.0
+                ]
+            ]
+        },
+        {
+            "text": "9:39pm",
+            "confidence": 0.964,
+            "box": [
+                [
+                    784.0,
+                    1239.0
+                ],
+                [
+                    886.0,
+                    1243.0
+                ],
+                [
+                    885.0,
+                    1273.0
+                ],
+                [
+                    783.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "Job vasthadhi neku",
+            "confidence": 0.973,
+            "box": [
+                [
+                    490.0,
+                    1294.0
+                ],
+                [
+                    778.0,
+                    1297.0
+                ],
+                [
+                    777.0,
+                    1335.0
+                ],
+                [
+                    489.0,
+                    1332.0
+                ]
+            ]
+        },
+        {
+            "text": "9:39pm",
+            "confidence": 0.931,
+            "box": [
+                [
+                    787.0,
+                    1310.0
+                ],
+                [
+                    884.0,
+                    1318.0
+                ],
+                [
+                    882.0,
+                    1339.0
+                ],
+                [
+                    785.0,
+                    1332.0
+                ]
+            ]
+        }
+    ]
+}

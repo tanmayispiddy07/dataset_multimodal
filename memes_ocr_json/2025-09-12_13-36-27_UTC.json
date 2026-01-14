@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-09-12_13-36-27_UTC.jpg",
+    "combined_text": "ME WATCHINGFEWPEOPLE DRINKING\nCOFFEE/ TEA FOR EVERY 1O MINS IN OFFICE\nTEAA\nCOFFEE\nCOFFEE\nOREYI MERU ROJU KI ENNI SARLU THAGUTHARU RA\nTEA ASALU INKA ADHE PANI AH",
+    "detailed": [
+        {
+            "text": "ME WATCHINGFEWPEOPLE DRINKING",
+            "confidence": 0.965,
+            "box": [
+                [
+                    131.0,
+                    59.0
+                ],
+                [
+                    969.0,
+                    59.0
+                ],
+                [
+                    969.0,
+                    95.0
+                ],
+                [
+                    131.0,
+                    95.0
+                ]
+            ]
+        },
+        {
+            "text": "COFFEE/ TEA FOR EVERY 1O MINS IN OFFICE",
+            "confidence": 0.934,
+            "box": [
+                [
+                    66.0,
+                    115.0
+                ],
+                [
+                    1027.0,
+                    115.0
+                ],
+                [
+                    1027.0,
+                    151.0
+                ],
+                [
+                    66.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "TEAA",
+            "confidence": 0.708,
+            "box": [
+                [
+                    489.0,
+                    568.0
+                ],
+                [
+                    661.0,
+                    562.0
+                ],
+                [
+                    664.0,
+                    649.0
+                ],
+                [
+                    491.0,
+                    655.0
+                ]
+            ]
+        },
+        {
+            "text": "COFFEE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    51.0,
+                    586.0
+                ],
+                [
+                    292.0,
+                    586.0
+                ],
+                [
+                    292.0,
+                    642.0
+                ],
+                [
+                    51.0,
+                    642.0
+                ]
+            ]
+        },
+        {
+            "text": "COFFEE",
+            "confidence": 0.998,
+            "box": [
+                [
+                    774.0,
+                    581.0
+                ],
+                [
+                    1021.0,
+                    581.0
+                ],
+                [
+                    1021.0,
+                    638.0
+                ],
+                [
+                    774.0,
+                    638.0
+                ]
+            ]
+        },
+        {
+            "text": "OREYI MERU ROJU KI ENNI SARLU THAGUTHARU RA",
+            "confidence": 0.926,
+            "box": [
+                [
+                    75.0,
+                    1069.0
+                ],
+                [
+                    1041.0,
+                    1069.0
+                ],
+                [
+                    1041.0,
+                    1101.0
+                ],
+                [
+                    75.0,
+                    1101.0
+                ]
+            ]
+        },
+        {
+            "text": "TEA ASALU INKA ADHE PANI AH",
+            "confidence": 0.93,
+            "box": [
+                [
+                    258.0,
+                    1115.0
+                ],
+                [
+                    861.0,
+                    1115.0
+                ],
+                [
+                    861.0,
+                    1151.0
+                ],
+                [
+                    258.0,
+                    1151.0
+                ]
+            ]
+        }
+    ]
+}

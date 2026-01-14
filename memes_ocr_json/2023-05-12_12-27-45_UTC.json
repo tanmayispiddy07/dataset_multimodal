@@ -1,0 +1,226 @@
+{
+    "image_name": "2023-05-12_12-27-45_UTC.jpg",
+    "combined_text": "TELUGU MEMES GURU\nBREATHTAKING STORYLINE WITH THRILLING\nTWISTS KATHA VENUKA KATHA RECEIVING\nREL\nPOSITIVE REVIEWS FROM AUDIENCE\niDream HDMovies\nCONTENT ADIRINDHI.....\nWEEKEND ENJOY\nCHEYYADANIKI\nEEMATRAM UNDALI",
+    "detailed": [
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.915,
+            "box": [
+                [
+                    444.0,
+                    586.0
+                ],
+                [
+                    592.0,
+                    586.0
+                ],
+                [
+                    592.0,
+                    606.0
+                ],
+                [
+                    444.0,
+                    606.0
+                ]
+            ]
+        },
+        {
+            "text": "BREATHTAKING STORYLINE WITH THRILLING",
+            "confidence": 0.959,
+            "box": [
+                [
+                    94.0,
+                    694.0
+                ],
+                [
+                    990.0,
+                    694.0
+                ],
+                [
+                    990.0,
+                    727.0
+                ],
+                [
+                    94.0,
+                    727.0
+                ]
+            ]
+        },
+        {
+            "text": "TWISTS KATHA VENUKA KATHA RECEIVING",
+            "confidence": 0.958,
+            "box": [
+                [
+                    110.0,
+                    741.0
+                ],
+                [
+                    973.0,
+                    741.0
+                ],
+                [
+                    973.0,
+                    774.0
+                ],
+                [
+                    110.0,
+                    774.0
+                ]
+            ]
+        },
+        {
+            "text": "REL",
+            "confidence": 0.995,
+            "box": [
+                [
+                    4.0,
+                    756.0
+                ],
+                [
+                    97.0,
+                    756.0
+                ],
+                [
+                    97.0,
+                    796.0
+                ],
+                [
+                    4.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "POSITIVE REVIEWS FROM AUDIENCE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    177.0,
+                    786.0
+                ],
+                [
+                    899.0,
+                    786.0
+                ],
+                [
+                    899.0,
+                    820.0
+                ],
+                [
+                    177.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "iDream HDMovies",
+            "confidence": 0.964,
+            "box": [
+                [
+                    882.0,
+                    1076.0
+                ],
+                [
+                    1074.0,
+                    1076.0
+                ],
+                [
+                    1074.0,
+                    1101.0
+                ],
+                [
+                    882.0,
+                    1101.0
+                ]
+            ]
+        },
+        {
+            "text": "CONTENT ADIRINDHI.....",
+            "confidence": 0.948,
+            "box": [
+                [
+                    56.0,
+                    1238.0
+                ],
+                [
+                    602.0,
+                    1238.0
+                ],
+                [
+                    602.0,
+                    1275.0
+                ],
+                [
+                    56.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "WEEKEND ENJOY",
+            "confidence": 0.975,
+            "box": [
+                [
+                    602.0,
+                    1238.0
+                ],
+                [
+                    998.0,
+                    1238.0
+                ],
+                [
+                    998.0,
+                    1275.0
+                ],
+                [
+                    602.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEYYADANIKI",
+            "confidence": 0.995,
+            "box": [
+                [
+                    107.0,
+                    1288.0
+                ],
+                [
+                    457.0,
+                    1285.0
+                ],
+                [
+                    457.0,
+                    1322.0
+                ],
+                [
+                    107.0,
+                    1325.0
+                ]
+            ]
+        },
+        {
+            "text": "EEMATRAM UNDALI",
+            "confidence": 0.935,
+            "box": [
+                [
+                    470.0,
+                    1286.0
+                ],
+                [
+                    941.0,
+                    1286.0
+                ],
+                [
+                    941.0,
+                    1323.0
+                ],
+                [
+                    470.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

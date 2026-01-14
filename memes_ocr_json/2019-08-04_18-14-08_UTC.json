@@ -1,0 +1,248 @@
+{
+    "image_name": "2019-08-04_18-14-08_UTC.jpg",
+    "combined_text": "Typical Asian drama plot guide:\n- Two lovers who's families are\nenemies\n- Rich guy falls in love with a\npoor girl\n- Evil mother in law tries to ruin\nthe relationship of her son and\nhis wife\n- Two lovers met at a tragic\nevent in their past life.\n- A ghost is after a family",
+    "detailed": [
+        {
+            "text": "Typical Asian drama plot guide:",
+            "confidence": 0.998,
+            "box": [
+                [
+                    55.0,
+                    65.0
+                ],
+                [
+                    985.0,
+                    65.0
+                ],
+                [
+                    985.0,
+                    137.0
+                ],
+                [
+                    55.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "- Two lovers who's families are",
+            "confidence": 0.954,
+            "box": [
+                [
+                    55.0,
+                    193.0
+                ],
+                [
+                    954.0,
+                    196.0
+                ],
+                [
+                    954.0,
+                    257.0
+                ],
+                [
+                    55.0,
+                    253.0
+                ]
+            ]
+        },
+        {
+            "text": "enemies",
+            "confidence": 0.998,
+            "box": [
+                [
+                    54.0,
+                    299.0
+                ],
+                [
+                    309.0,
+                    299.0
+                ],
+                [
+                    309.0,
+                    358.0
+                ],
+                [
+                    54.0,
+                    358.0
+                ]
+            ]
+        },
+        {
+            "text": "- Rich guy falls in love with a",
+            "confidence": 0.96,
+            "box": [
+                [
+                    56.0,
+                    396.0
+                ],
+                [
+                    882.0,
+                    396.0
+                ],
+                [
+                    882.0,
+                    465.0
+                ],
+                [
+                    56.0,
+                    465.0
+                ]
+            ]
+        },
+        {
+            "text": "poor girl",
+            "confidence": 0.995,
+            "box": [
+                [
+                    44.0,
+                    502.0
+                ],
+                [
+                    305.0,
+                    490.0
+                ],
+                [
+                    309.0,
+                    570.0
+                ],
+                [
+                    48.0,
+                    583.0
+                ]
+            ]
+        },
+        {
+            "text": "- Evil mother in law tries to ruin",
+            "confidence": 0.97,
+            "box": [
+                [
+                    55.0,
+                    601.0
+                ],
+                [
+                    955.0,
+                    603.0
+                ],
+                [
+                    955.0,
+                    660.0
+                ],
+                [
+                    55.0,
+                    659.0
+                ]
+            ]
+        },
+        {
+            "text": "the relationship of her son and",
+            "confidence": 0.999,
+            "box": [
+                [
+                    49.0,
+                    697.0
+                ],
+                [
+                    956.0,
+                    695.0
+                ],
+                [
+                    956.0,
+                    767.0
+                ],
+                [
+                    49.0,
+                    769.0
+                ]
+            ]
+        },
+        {
+            "text": "his wife",
+            "confidence": 0.998,
+            "box": [
+                [
+                    48.0,
+                    797.0
+                ],
+                [
+                    280.0,
+                    797.0
+                ],
+                [
+                    280.0,
+                    867.0
+                ],
+                [
+                    48.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "- Two lovers met at a tragic",
+            "confidence": 0.998,
+            "box": [
+                [
+                    53.0,
+                    898.0
+                ],
+                [
+                    855.0,
+                    907.0
+                ],
+                [
+                    855.0,
+                    972.0
+                ],
+                [
+                    52.0,
+                    963.0
+                ]
+            ]
+        },
+        {
+            "text": "event in their past life.",
+            "confidence": 0.98,
+            "box": [
+                [
+                    52.0,
+                    1007.0
+                ],
+                [
+                    676.0,
+                    1007.0
+                ],
+                [
+                    676.0,
+                    1067.0
+                ],
+                [
+                    52.0,
+                    1067.0
+                ]
+            ]
+        },
+        {
+            "text": "- A ghost is after a family",
+            "confidence": 0.977,
+            "box": [
+                [
+                    51.0,
+                    1102.0
+                ],
+                [
+                    784.0,
+                    1106.0
+                ],
+                [
+                    784.0,
+                    1171.0
+                ],
+                [
+                    51.0,
+                    1167.0
+                ]
+            ]
+        }
+    ]
+}

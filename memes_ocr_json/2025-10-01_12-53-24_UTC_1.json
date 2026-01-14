@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-01_12-53-24_UTC_1.jpg",
+    "combined_text": "itsbennyblanco i married a real life disney princess\nSelena Gomez\nz & Benny\nBlanco Are Now Married!",
+    "detailed": [
+        {
+            "text": "itsbennyblanco i married a real life disney princess",
+            "confidence": 0.975,
+            "box": [
+                [
+                    173.0,
+                    1149.0
+                ],
+                [
+                    891.0,
+                    1151.0
+                ],
+                [
+                    891.0,
+                    1184.0
+                ],
+                [
+                    173.0,
+                    1182.0
+                ]
+            ]
+        },
+        {
+            "text": "Selena Gomez",
+            "confidence": 0.972,
+            "box": [
+                [
+                    83.0,
+                    1218.0
+                ],
+                [
+                    669.0,
+                    1221.0
+                ],
+                [
+                    669.0,
+                    1287.0
+                ],
+                [
+                    83.0,
+                    1284.0
+                ]
+            ]
+        },
+        {
+            "text": "z & Benny",
+            "confidence": 0.937,
+            "box": [
+                [
+                    634.0,
+                    1212.0
+                ],
+                [
+                    998.0,
+                    1230.0
+                ],
+                [
+                    995.0,
+                    1302.0
+                ],
+                [
+                    631.0,
+                    1284.0
+                ]
+            ]
+        },
+        {
+            "text": "Blanco Are Now Married!",
+            "confidence": 0.992,
+            "box": [
+                [
+                    46.0,
+                    1321.0
+                ],
+                [
+                    1037.0,
+                    1325.0
+                ],
+                [
+                    1037.0,
+                    1401.0
+                ],
+                [
+                    46.0,
+                    1398.0
+                ]
+            ]
+        }
+    ]
+}

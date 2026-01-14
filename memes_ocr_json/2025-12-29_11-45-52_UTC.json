@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-12-29_11-45-52_UTC.jpg",
+    "combined_text": "ENGAGING AND INTERESTING TRAILER OF\ny best care of moms,\nvery best place\nADDICTEDTOMEMES\nCASTING INKACONTENT\nAADHRINDHIAYYA",
+    "detailed": [
+        {
+            "text": "ENGAGING AND INTERESTING TRAILER OF",
+            "confidence": 0.947,
+            "box": [
+                [
+                    91.0,
+                    52.0
+                ],
+                [
+                    980.0,
+                    52.0
+                ],
+                [
+                    980.0,
+                    88.0
+                ],
+                [
+                    91.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "y best care of moms,",
+            "confidence": 0.861,
+            "box": [
+                [
+                    238.0,
+                    589.0
+                ],
+                [
+                    386.0,
+                    589.0
+                ],
+                [
+                    386.0,
+                    613.0
+                ],
+                [
+                    238.0,
+                    613.0
+                ]
+            ]
+        },
+        {
+            "text": "very best place",
+            "confidence": 0.966,
+            "box": [
+                [
+                    286.0,
+                    610.0
+                ],
+                [
+                    393.0,
+                    610.0
+                ],
+                [
+                    393.0,
+                    635.0
+                ],
+                [
+                    286.0,
+                    635.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    915.0,
+                    970.0
+                ],
+                [
+                    1051.0,
+                    970.0
+                ],
+                [
+                    1051.0,
+                    990.0
+                ],
+                [
+                    915.0,
+                    990.0
+                ]
+            ]
+        },
+        {
+            "text": "CASTING INKACONTENT",
+            "confidence": 0.983,
+            "box": [
+                [
+                    306.0,
+                    1139.0
+                ],
+                [
+                    953.0,
+                    1139.0
+                ],
+                [
+                    953.0,
+                    1183.0
+                ],
+                [
+                    306.0,
+                    1183.0
+                ]
+            ]
+        },
+        {
+            "text": "AADHRINDHIAYYA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    375.0,
+                    1200.0
+                ],
+                [
+                    870.0,
+                    1202.0
+                ],
+                [
+                    870.0,
+                    1251.0
+                ],
+                [
+                    375.0,
+                    1248.0
+                ]
+            ]
+        }
+    ]
+}

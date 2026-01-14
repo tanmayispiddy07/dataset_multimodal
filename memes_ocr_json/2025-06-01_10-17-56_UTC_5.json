@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-06-01_10-17-56_UTC_5.jpg",
+    "combined_text": "NISSVORLD",
+    "detailed": [
+        {
+            "text": "NISSVORLD",
+            "confidence": 0.846,
+            "box": [
+                [
+                    447.0,
+                    554.0
+                ],
+                [
+                    537.0,
+                    544.0
+                ],
+                [
+                    581.0,
+                    932.0
+                ],
+                [
+                    491.0,
+                    943.0
+                ]
+            ]
+        }
+    ]
+}

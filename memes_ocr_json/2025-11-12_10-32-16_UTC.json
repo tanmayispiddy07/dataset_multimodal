@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-11-12_10-32-16_UTC.jpg",
+    "combined_text": "ME AND SHE AFTER HAVING A\nBEAUTIFUL LATE NIGHT CONVERSATION\nMEANWHILE SHE IN MY DREAMS\nASnE\nADDICTEDTOMEMES\nJUST",
+    "detailed": [
+        {
+            "text": "ME AND SHE AFTER HAVING A",
+            "confidence": 0.949,
+            "box": [
+                [
+                    177.0,
+                    64.0
+                ],
+                [
+                    922.0,
+                    64.0
+                ],
+                [
+                    922.0,
+                    106.0
+                ],
+                [
+                    177.0,
+                    106.0
+                ]
+            ]
+        },
+        {
+            "text": "BEAUTIFUL LATE NIGHT CONVERSATION",
+            "confidence": 0.973,
+            "box": [
+                [
+                    48.0,
+                    125.0
+                ],
+                [
+                    1041.0,
+                    125.0
+                ],
+                [
+                    1041.0,
+                    171.0
+                ],
+                [
+                    48.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "MEANWHILE SHE IN MY DREAMS",
+            "confidence": 0.983,
+            "box": [
+                [
+                    139.0,
+                    238.0
+                ],
+                [
+                    997.0,
+                    238.0
+                ],
+                [
+                    997.0,
+                    297.0
+                ],
+                [
+                    139.0,
+                    297.0
+                ]
+            ]
+        },
+        {
+            "text": "ASnE",
+            "confidence": 0.604,
+            "box": [
+                [
+                    180.0,
+                    347.0
+                ],
+                [
+                    527.0,
+                    457.0
+                ],
+                [
+                    475.0,
+                    618.0
+                ],
+                [
+                    128.0,
+                    509.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    23.0,
+                    489.0
+                ],
+                [
+                    156.0,
+                    491.0
+                ],
+                [
+                    156.0,
+                    507.0
+                ],
+                [
+                    22.0,
+                    506.0
+                ]
+            ]
+        },
+        {
+            "text": "JUST",
+            "confidence": 0.945,
+            "box": [
+                [
+                    240.0,
+                    832.0
+                ],
+                [
+                    565.0,
+                    914.0
+                ],
+                [
+                    521.0,
+                    1085.0
+                ],
+                [
+                    196.0,
+                    1003.0
+                ]
+            ]
+        }
+    ]
+}

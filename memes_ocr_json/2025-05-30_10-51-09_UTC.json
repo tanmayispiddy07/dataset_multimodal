@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-30_10-51-09_UTC.jpg",
+    "combined_text": "\"Dad, why is my sister's name rose?\"\n\"Because your mother loves roses\"\n\"Thanks dad\"\n\"No problem Phil Hazlewood\"\nsarcasm",
+    "detailed": [
+        {
+            "text": "\"Dad, why is my sister's name rose?\"",
+            "confidence": 0.999,
+            "box": [
+                [
+                    37.0,
+                    66.0
+                ],
+                [
+                    1046.0,
+                    63.0
+                ],
+                [
+                    1046.0,
+                    127.0
+                ],
+                [
+                    38.0,
+                    129.0
+                ]
+            ]
+        },
+        {
+            "text": "\"Because your mother loves roses\"",
+            "confidence": 0.989,
+            "box": [
+                [
+                    32.0,
+                    157.0
+                ],
+                [
+                    998.0,
+                    157.0
+                ],
+                [
+                    998.0,
+                    223.0
+                ],
+                [
+                    32.0,
+                    223.0
+                ]
+            ]
+        },
+        {
+            "text": "\"Thanks dad\"",
+            "confidence": 0.966,
+            "box": [
+                [
+                    38.0,
+                    251.0
+                ],
+                [
+                    405.0,
+                    251.0
+                ],
+                [
+                    405.0,
+                    307.0
+                ],
+                [
+                    38.0,
+                    307.0
+                ]
+            ]
+        },
+        {
+            "text": "\"No problem Phil Hazlewood\"",
+            "confidence": 0.997,
+            "box": [
+                [
+                    37.0,
+                    345.0
+                ],
+                [
+                    855.0,
+                    342.0
+                ],
+                [
+                    855.0,
+                    402.0
+                ],
+                [
+                    38.0,
+                    404.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.999,
+            "box": [
+                [
+                    856.0,
+                    1076.0
+                ],
+                [
+                    991.0,
+                    1076.0
+                ],
+                [
+                    991.0,
+                    1103.0
+                ],
+                [
+                    856.0,
+                    1103.0
+                ]
+            ]
+        }
+    ]
+}

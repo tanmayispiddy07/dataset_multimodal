@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-09-03_06-40-00_UTC_5.jpg",
+    "combined_text": "Trump's worst nightmare\nsarcasm",
+    "detailed": [
+        {
+            "text": "Trump's worst nightmare",
+            "confidence": 1.0,
+            "box": [
+                [
+                    41.0,
+                    57.0
+                ],
+                [
+                    791.0,
+                    57.0
+                ],
+                [
+                    791.0,
+                    124.0
+                ],
+                [
+                    41.0,
+                    124.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    829.0,
+                    748.0
+                ],
+                [
+                    935.0,
+                    748.0
+                ],
+                [
+                    935.0,
+                    773.0
+                ],
+                [
+                    829.0,
+                    773.0
+                ]
+            ]
+        }
+    ]
+}

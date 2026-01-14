@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-07-19_21-42-50_UTC.jpg",
+    "combined_text": "Hey I just met you\nAnd this is crazy\nBut here's my number\nSo\nKaalmi Maibi",
+    "detailed": [
+        {
+            "text": "Hey I just met you",
+            "confidence": 0.952,
+            "box": [
+                [
+                    14.0,
+                    4.0
+                ],
+                [
+                    256.0,
+                    7.0
+                ],
+                [
+                    255.0,
+                    41.0
+                ],
+                [
+                    14.0,
+                    38.0
+                ]
+            ]
+        },
+        {
+            "text": "And this is crazy",
+            "confidence": 0.973,
+            "box": [
+                [
+                    15.0,
+                    45.0
+                ],
+                [
+                    236.0,
+                    49.0
+                ],
+                [
+                    235.0,
+                    83.0
+                ],
+                [
+                    15.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "But here's my number",
+            "confidence": 0.966,
+            "box": [
+                [
+                    16.0,
+                    90.0
+                ],
+                [
+                    310.0,
+                    90.0
+                ],
+                [
+                    310.0,
+                    123.0
+                ],
+                [
+                    16.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "So",
+            "confidence": 0.948,
+            "box": [
+                [
+                    13.0,
+                    127.0
+                ],
+                [
+                    61.0,
+                    130.0
+                ],
+                [
+                    58.0,
+                    166.0
+                ],
+                [
+                    10.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "Kaalmi Maibi",
+            "confidence": 0.98,
+            "box": [
+                [
+                    147.0,
+                    432.0
+                ],
+                [
+                    357.0,
+                    432.0
+                ],
+                [
+                    357.0,
+                    466.0
+                ],
+                [
+                    147.0,
+                    466.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-11-22_02-06-13_UTC.jpg",
+    "combined_text": "*Train At 9 PM*\nIndian Parents At 10 AM-",
+    "detailed": [
+        {
+            "text": "*Train At 9 PM*",
+            "confidence": 0.929,
+            "box": [
+                [
+                    41.0,
+                    79.0
+                ],
+                [
+                    407.0,
+                    79.0
+                ],
+                [
+                    407.0,
+                    130.0
+                ],
+                [
+                    41.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "Indian Parents At 10 AM-",
+            "confidence": 0.957,
+            "box": [
+                [
+                    45.0,
+                    171.0
+                ],
+                [
+                    632.0,
+                    170.0
+                ],
+                [
+                    632.0,
+                    218.0
+                ],
+                [
+                    46.0,
+                    219.0
+                ]
+            ]
+        }
+    ]
+}

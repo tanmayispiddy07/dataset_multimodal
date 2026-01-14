@@ -1,0 +1,160 @@
+{
+    "image_name": "2023-05-17_07-16-04_UTC.jpg",
+    "combined_text": "@Janmanchi_\nTRADEALERT\nuge revenue forecasted for #TheKeralaStoryin\nelugu states on May20.\nhe Kerala Story:\nNIAekoERclusiu\nPLUSD NEME9 GURD",
+    "detailed": [
+        {
+            "text": "@Janmanchi_",
+            "confidence": 0.987,
+            "box": [
+                [
+                    66.0,
+                    11.0
+                ],
+                [
+                    197.0,
+                    11.0
+                ],
+                [
+                    197.0,
+                    38.0
+                ],
+                [
+                    66.0,
+                    38.0
+                ]
+            ]
+        },
+        {
+            "text": "TRADEALERT",
+            "confidence": 0.907,
+            "box": [
+                [
+                    0.0,
+                    67.0
+                ],
+                [
+                    174.0,
+                    67.0
+                ],
+                [
+                    174.0,
+                    97.0
+                ],
+                [
+                    0.0,
+                    97.0
+                ]
+            ]
+        },
+        {
+            "text": "uge revenue forecasted for #TheKeralaStoryin",
+            "confidence": 0.971,
+            "box": [
+                [
+                    0.0,
+                    125.0
+                ],
+                [
+                    508.0,
+                    124.0
+                ],
+                [
+                    508.0,
+                    153.0
+                ],
+                [
+                    0.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "elugu states on May20.",
+            "confidence": 0.965,
+            "box": [
+                [
+                    0.0,
+                    155.0
+                ],
+                [
+                    253.0,
+                    153.0
+                ],
+                [
+                    253.0,
+                    180.0
+                ],
+                [
+                    0.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "he Kerala Story:",
+            "confidence": 0.925,
+            "box": [
+                [
+                    0.0,
+                    205.0
+                ],
+                [
+                    173.0,
+                    208.0
+                ],
+                [
+                    173.0,
+                    239.0
+                ],
+                [
+                    0.0,
+                    236.0
+                ]
+            ]
+        },
+        {
+            "text": "NIAekoERclusiu",
+            "confidence": 0.653,
+            "box": [
+                [
+                    1.0,
+                    260.0
+                ],
+                [
+                    128.0,
+                    260.0
+                ],
+                [
+                    128.0,
+                    281.0
+                ],
+                [
+                    1.0,
+                    281.0
+                ]
+            ]
+        },
+        {
+            "text": "PLUSD NEME9 GURD",
+            "confidence": 0.7,
+            "box": [
+                [
+                    865.0,
+                    926.0
+                ],
+                [
+                    987.0,
+                    926.0
+                ],
+                [
+                    987.0,
+                    947.0
+                ],
+                [
+                    865.0,
+                    947.0
+                ]
+            ]
+        }
+    ]
+}

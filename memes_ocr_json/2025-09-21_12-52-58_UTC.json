@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-09-21_12-52-58_UTC.jpg",
+    "combined_text": "JAMBAR GIMBAR LALA SONG PROMO\nFROM THE MOVIE MITHRA MANDALI\nFULL SONG RELEASING ON SEPT 22ND\nANITVA\nADDICTEDTOMEMES\nIDHI EKKADAMASS GURUJI\nAH ENERGYENTI ANDI",
+    "detailed": [
+        {
+            "text": "JAMBAR GIMBAR LALA SONG PROMO",
+            "confidence": 0.951,
+            "box": [
+                [
+                    80.0,
+                    47.0
+                ],
+                [
+                    1004.0,
+                    47.0
+                ],
+                [
+                    1004.0,
+                    87.0
+                ],
+                [
+                    80.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM THE MOVIE MITHRA MANDALI",
+            "confidence": 0.941,
+            "box": [
+                [
+                    99.0,
+                    107.0
+                ],
+                [
+                    984.0,
+                    107.0
+                ],
+                [
+                    984.0,
+                    147.0
+                ],
+                [
+                    99.0,
+                    147.0
+                ]
+            ]
+        },
+        {
+            "text": "FULL SONG RELEASING ON SEPT 22ND",
+            "confidence": 0.932,
+            "box": [
+                [
+                    73.0,
+                    167.0
+                ],
+                [
+                    1007.0,
+                    167.0
+                ],
+                [
+                    1007.0,
+                    207.0
+                ],
+                [
+                    73.0,
+                    207.0
+                ]
+            ]
+        },
+        {
+            "text": "ANITVA",
+            "confidence": 0.787,
+            "box": [
+                [
+                    563.0,
+                    562.0
+                ],
+                [
+                    601.0,
+                    562.0
+                ],
+                [
+                    601.0,
+                    575.0
+                ],
+                [
+                    563.0,
+                    575.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    16.0,
+                    976.0
+                ],
+                [
+                    165.0,
+                    978.0
+                ],
+                [
+                    165.0,
+                    998.0
+                ],
+                [
+                    16.0,
+                    996.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHI EKKADAMASS GURUJI",
+            "confidence": 0.962,
+            "box": [
+                [
+                    225.0,
+                    1166.0
+                ],
+                [
+                    879.0,
+                    1166.0
+                ],
+                [
+                    879.0,
+                    1210.0
+                ],
+                [
+                    225.0,
+                    1210.0
+                ]
+            ]
+        },
+        {
+            "text": "AH ENERGYENTI ANDI",
+            "confidence": 0.955,
+            "box": [
+                [
+                    292.0,
+                    1228.0
+                ],
+                [
+                    825.0,
+                    1228.0
+                ],
+                [
+                    825.0,
+                    1268.0
+                ],
+                [
+                    292.0,
+                    1268.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-10-12_09-35-11_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nCOKIEDTOMME\nSituation near Pungulu Bandi / Tiffin\nShop :-\nThala aina thenchukuntamu kani akkada\nmatram Water thagamu.",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.998,
+            "box": [
+                [
+                    181.0,
+                    28.0
+                ],
+                [
+                    578.0,
+                    28.0
+                ],
+                [
+                    578.0,
+                    64.0
+                ],
+                [
+                    181.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.972,
+            "box": [
+                [
+                    182.0,
+                    76.0
+                ],
+                [
+                    572.0,
+                    80.0
+                ],
+                [
+                    571.0,
+                    116.0
+                ],
+                [
+                    182.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "COKIEDTOMME",
+            "confidence": 0.836,
+            "box": [
+                [
+                    51.0,
+                    95.0
+                ],
+                [
+                    128.0,
+                    95.0
+                ],
+                [
+                    128.0,
+                    105.0
+                ],
+                [
+                    51.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "Situation near Pungulu Bandi / Tiffin",
+            "confidence": 1.0,
+            "box": [
+                [
+                    32.0,
+                    164.0
+                ],
+                [
+                    890.0,
+                    164.0
+                ],
+                [
+                    890.0,
+                    217.0
+                ],
+                [
+                    32.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "Shop :-",
+            "confidence": 0.993,
+            "box": [
+                [
+                    30.0,
+                    229.0
+                ],
+                [
+                    207.0,
+                    233.0
+                ],
+                [
+                    206.0,
+                    288.0
+                ],
+                [
+                    29.0,
+                    284.0
+                ]
+            ]
+        },
+        {
+            "text": "Thala aina thenchukuntamu kani akkada",
+            "confidence": 0.991,
+            "box": [
+                [
+                    35.0,
+                    301.0
+                ],
+                [
+                    987.0,
+                    301.0
+                ],
+                [
+                    987.0,
+                    344.0
+                ],
+                [
+                    35.0,
+                    344.0
+                ]
+            ]
+        },
+        {
+            "text": "matram Water thagamu.",
+            "confidence": 0.975,
+            "box": [
+                [
+                    32.0,
+                    364.0
+                ],
+                [
+                    592.0,
+                    370.0
+                ],
+                [
+                    591.0,
+                    418.0
+                ],
+                [
+                    31.0,
+                    412.0
+                ]
+            ]
+        }
+    ]
+}

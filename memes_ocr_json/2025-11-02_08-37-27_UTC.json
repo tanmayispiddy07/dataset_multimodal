@@ -1,0 +1,534 @@
+{
+    "image_name": "2025-11-02_08-37-27_UTC.jpg",
+    "combined_text": "\"YENUGU THONDAM GHATIKACHALAM\"\nRELEASING ON NOV 13TH IN ETV WIN\nFLYING FROGS\nFLYING FROGS\nPRODSCTION\nSESISEES\nBOSSCTION\nPRESERTS\ne3sae\n0e3sae0\nWRITER-PRODUCER-DIRECTOR\nWRITER-PRODUCER-DIRECTOR\nRAVI BABU\nRAVI BABU\nSATYANARAYANA SALLA\nNARAYANAREDDY\nS.SRAJESH\nROYNARESH\nRBALLA\nARAYANAREDDY\nADDICTEDTOMEMES\nRAVI BABU NUNCHI INNI DAYS TARVATA\nMOVIE ASALU EXPECT CHEYALEDHU\nPAIGA ETVWIN CONTENT",
+    "detailed": [
+        {
+            "text": "\"YENUGU THONDAM GHATIKACHALAM\"",
+            "confidence": 0.9,
+            "box": [
+                [
+                    49.0,
+                    59.0
+                ],
+                [
+                    1042.0,
+                    60.0
+                ],
+                [
+                    1042.0,
+                    106.0
+                ],
+                [
+                    49.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING ON NOV 13TH IN ETV WIN",
+            "confidence": 0.946,
+            "box": [
+                [
+                    87.0,
+                    125.0
+                ],
+                [
+                    1011.0,
+                    125.0
+                ],
+                [
+                    1011.0,
+                    167.0
+                ],
+                [
+                    87.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "FLYING FROGS",
+            "confidence": 0.942,
+            "box": [
+                [
+                    4.0,
+                    261.0
+                ],
+                [
+                    87.0,
+                    261.0
+                ],
+                [
+                    87.0,
+                    282.0
+                ],
+                [
+                    4.0,
+                    282.0
+                ]
+            ]
+        },
+        {
+            "text": "FLYING FROGS",
+            "confidence": 0.956,
+            "box": [
+                [
+                    539.0,
+                    261.0
+                ],
+                [
+                    620.0,
+                    261.0
+                ],
+                [
+                    620.0,
+                    282.0
+                ],
+                [
+                    539.0,
+                    282.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODSCTION",
+            "confidence": 0.775,
+            "box": [
+                [
+                    20.0,
+                    275.0
+                ],
+                [
+                    70.0,
+                    275.0
+                ],
+                [
+                    70.0,
+                    287.0
+                ],
+                [
+                    20.0,
+                    287.0
+                ]
+            ]
+        },
+        {
+            "text": "SESISEES",
+            "confidence": 0.538,
+            "box": [
+                [
+                    478.0,
+                    284.0
+                ],
+                [
+                    527.0,
+                    284.0
+                ],
+                [
+                    527.0,
+                    300.0
+                ],
+                [
+                    478.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "BOSSCTION",
+            "confidence": 0.677,
+            "box": [
+                [
+                    557.0,
+                    276.0
+                ],
+                [
+                    605.0,
+                    276.0
+                ],
+                [
+                    605.0,
+                    289.0
+                ],
+                [
+                    557.0,
+                    289.0
+                ]
+            ]
+        },
+        {
+            "text": "PRESERTS",
+            "confidence": 0.944,
+            "box": [
+                [
+                    1022.0,
+                    284.0
+                ],
+                [
+                    1069.0,
+                    284.0
+                ],
+                [
+                    1069.0,
+                    298.0
+                ],
+                [
+                    1022.0,
+                    298.0
+                ]
+            ]
+        },
+        {
+            "text": "e3sae",
+            "confidence": 0.73,
+            "box": [
+                [
+                    156.0,
+                    407.0
+                ],
+                [
+                    406.0,
+                    390.0
+                ],
+                [
+                    411.0,
+                    460.0
+                ],
+                [
+                    160.0,
+                    477.0
+                ]
+            ]
+        },
+        {
+            "text": "0e3sae0",
+            "confidence": 0.592,
+            "box": [
+                [
+                    674.0,
+                    405.0
+                ],
+                [
+                    993.0,
+                    391.0
+                ],
+                [
+                    997.0,
+                    463.0
+                ],
+                [
+                    677.0,
+                    478.0
+                ]
+            ]
+        },
+        {
+            "text": "WRITER-PRODUCER-DIRECTOR",
+            "confidence": 0.995,
+            "box": [
+                [
+                    191.0,
+                    789.0
+                ],
+                [
+                    343.0,
+                    789.0
+                ],
+                [
+                    343.0,
+                    806.0
+                ],
+                [
+                    191.0,
+                    806.0
+                ]
+            ]
+        },
+        {
+            "text": "WRITER-PRODUCER-DIRECTOR",
+            "confidence": 0.991,
+            "box": [
+                [
+                    728.0,
+                    794.0
+                ],
+                [
+                    885.0,
+                    794.0
+                ],
+                [
+                    885.0,
+                    811.0
+                ],
+                [
+                    728.0,
+                    811.0
+                ]
+            ]
+        },
+        {
+            "text": "RAVI BABU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    208.0,
+                    804.0
+                ],
+                [
+                    324.0,
+                    801.0
+                ],
+                [
+                    325.0,
+                    828.0
+                ],
+                [
+                    209.0,
+                    831.0
+                ]
+            ]
+        },
+        {
+            "text": "RAVI BABU",
+            "confidence": 0.962,
+            "box": [
+                [
+                    748.0,
+                    811.0
+                ],
+                [
+                    863.0,
+                    811.0
+                ],
+                [
+                    863.0,
+                    836.0
+                ],
+                [
+                    748.0,
+                    836.0
+                ]
+            ]
+        },
+        {
+            "text": "SATYANARAYANA SALLA",
+            "confidence": 0.855,
+            "box": [
+                [
+                    158.0,
+                    835.0
+                ],
+                [
+                    274.0,
+                    835.0
+                ],
+                [
+                    274.0,
+                    852.0
+                ],
+                [
+                    158.0,
+                    852.0
+                ]
+            ]
+        },
+        {
+            "text": "NARAYANAREDDY",
+            "confidence": 0.945,
+            "box": [
+                [
+                    300.0,
+                    835.0
+                ],
+                [
+                    377.0,
+                    835.0
+                ],
+                [
+                    377.0,
+                    852.0
+                ],
+                [
+                    300.0,
+                    852.0
+                ]
+            ]
+        },
+        {
+            "text": "S.SRAJESH",
+            "confidence": 0.907,
+            "box": [
+                [
+                    339.0,
+                    826.0
+                ],
+                [
+                    391.0,
+                    826.0
+                ],
+                [
+                    391.0,
+                    839.0
+                ],
+                [
+                    339.0,
+                    839.0
+                ]
+            ]
+        },
+        {
+            "text": "ROYNARESH",
+            "confidence": 0.825,
+            "box": [
+                [
+                    233.0,
+                    849.0
+                ],
+                [
+                    318.0,
+                    849.0
+                ],
+                [
+                    318.0,
+                    861.0
+                ],
+                [
+                    233.0,
+                    861.0
+                ]
+            ]
+        },
+        {
+            "text": "RBALLA",
+            "confidence": 0.861,
+            "box": [
+                [
+                    776.0,
+                    843.0
+                ],
+                [
+                    807.0,
+                    843.0
+                ],
+                [
+                    807.0,
+                    856.0
+                ],
+                [
+                    776.0,
+                    856.0
+                ]
+            ]
+        },
+        {
+            "text": "ARAYANAREDDY",
+            "confidence": 0.972,
+            "box": [
+                [
+                    851.0,
+                    843.0
+                ],
+                [
+                    914.0,
+                    843.0
+                ],
+                [
+                    914.0,
+                    856.0
+                ],
+                [
+                    851.0,
+                    856.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    46.0,
+                    1024.0
+                ],
+                [
+                    190.0,
+                    1024.0
+                ],
+                [
+                    190.0,
+                    1045.0
+                ],
+                [
+                    46.0,
+                    1045.0
+                ]
+            ]
+        },
+        {
+            "text": "RAVI BABU NUNCHI INNI DAYS TARVATA",
+            "confidence": 0.933,
+            "box": [
+                [
+                    128.0,
+                    1190.0
+                ],
+                [
+                    913.0,
+                    1190.0
+                ],
+                [
+                    913.0,
+                    1224.0
+                ],
+                [
+                    128.0,
+                    1224.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE ASALU EXPECT CHEYALEDHU",
+            "confidence": 0.941,
+            "box": [
+                [
+                    159.0,
+                    1238.0
+                ],
+                [
+                    880.0,
+                    1235.0
+                ],
+                [
+                    880.0,
+                    1272.0
+                ],
+                [
+                    159.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "PAIGA ETVWIN CONTENT",
+            "confidence": 0.964,
+            "box": [
+                [
+                    262.0,
+                    1286.0
+                ],
+                [
+                    769.0,
+                    1286.0
+                ],
+                [
+                    769.0,
+                    1324.0
+                ],
+                [
+                    262.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-05_04-50-00_UTC_4.jpg",
+    "combined_text": "sarcasm\nMany Western leaders skipped the event, while\nleaders from Russia, North Korea, Iran, and\nother allies attended\nXi used the occasion to project China as strong,.\nresilient, and ready to shape a \"new world order.'",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.989,
+            "box": [
+                [
+                    480.0,
+                    463.0
+                ],
+                [
+                    593.0,
+                    463.0
+                ],
+                [
+                    593.0,
+                    485.0
+                ],
+                [
+                    480.0,
+                    485.0
+                ]
+            ]
+        },
+        {
+            "text": "Many Western leaders skipped the event, while",
+            "confidence": 0.976,
+            "box": [
+                [
+                    16.0,
+                    503.0
+                ],
+                [
+                    1066.0,
+                    505.0
+                ],
+                [
+                    1066.0,
+                    548.0
+                ],
+                [
+                    15.0,
+                    547.0
+                ]
+            ]
+        },
+        {
+            "text": "leaders from Russia, North Korea, Iran, and",
+            "confidence": 0.942,
+            "box": [
+                [
+                    66.0,
+                    566.0
+                ],
+                [
+                    1012.0,
+                    566.0
+                ],
+                [
+                    1012.0,
+                    606.0
+                ],
+                [
+                    66.0,
+                    606.0
+                ]
+            ]
+        },
+        {
+            "text": "other allies attended",
+            "confidence": 0.979,
+            "box": [
+                [
+                    308.0,
+                    623.0
+                ],
+                [
+                    773.0,
+                    623.0
+                ],
+                [
+                    773.0,
+                    662.0
+                ],
+                [
+                    308.0,
+                    662.0
+                ]
+            ]
+        },
+        {
+            "text": "Xi used the occasion to project China as strong,.",
+            "confidence": 0.988,
+            "box": [
+                [
+                    51.0,
+                    1218.0
+                ],
+                [
+                    1024.0,
+                    1226.0
+                ],
+                [
+                    1024.0,
+                    1270.0
+                ],
+                [
+                    51.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "resilient, and ready to shape a \"new world order.'",
+            "confidence": 0.998,
+            "box": [
+                [
+                    35.0,
+                    1277.0
+                ],
+                [
+                    1034.0,
+                    1276.0
+                ],
+                [
+                    1034.0,
+                    1317.0
+                ],
+                [
+                    35.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

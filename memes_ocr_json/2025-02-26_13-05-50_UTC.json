@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-02-26_13-05-50_UTC.jpg",
+    "combined_text": "TEAM \"A MASTER PIECE\"STARRING ARVIND KRISHNA\nWISHES\nYOU ALL A VERY HAPPY MAHA SHIVARATIRI\nOM NAMAH SHIVAYA A\nPOORVAIPARADOX\nWIEISSHLAN\nPHASE-1-SIVAM\nTESERTSSTREASEIFA\nMASTER\nPHASE-1-SHIVAM\nPIECE\nPIEO\nIN-HOUSE SECRETS &THE RISE OFA\nADO\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "TEAM \"A MASTER PIECE\"STARRING ARVIND KRISHNA",
+            "confidence": 0.951,
+            "box": [
+                [
+                    10.0,
+                    46.0
+                ],
+                [
+                    1076.0,
+                    46.0
+                ],
+                [
+                    1076.0,
+                    79.0
+                ],
+                [
+                    10.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "WISHES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    16.0,
+                    92.0
+                ],
+                [
+                    172.0,
+                    95.0
+                ],
+                [
+                    171.0,
+                    134.0
+                ],
+                [
+                    15.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU ALL A VERY HAPPY MAHA SHIVARATIRI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    186.0,
+                    95.0
+                ],
+                [
+                    1056.0,
+                    95.0
+                ],
+                [
+                    1056.0,
+                    132.0
+                ],
+                [
+                    186.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "OM NAMAH SHIVAYA A",
+            "confidence": 0.949,
+            "box": [
+                [
+                    309.0,
+                    144.0
+                ],
+                [
+                    769.0,
+                    145.0
+                ],
+                [
+                    769.0,
+                    183.0
+                ],
+                [
+                    309.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "POORVAIPARADOX",
+            "confidence": 0.963,
+            "box": [
+                [
+                    742.0,
+                    245.0
+                ],
+                [
+                    880.0,
+                    245.0
+                ],
+                [
+                    880.0,
+                    266.0
+                ],
+                [
+                    742.0,
+                    266.0
+                ]
+            ]
+        },
+        {
+            "text": "WIEISSHLAN",
+            "confidence": 0.719,
+            "box": [
+                [
+                    766.0,
+                    263.0
+                ],
+                [
+                    835.0,
+                    263.0
+                ],
+                [
+                    835.0,
+                    276.0
+                ],
+                [
+                    766.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "PHASE-1-SIVAM",
+            "confidence": 0.933,
+            "box": [
+                [
+                    14.0,
+                    584.0
+                ],
+                [
+                    120.0,
+                    584.0
+                ],
+                [
+                    120.0,
+                    605.0
+                ],
+                [
+                    14.0,
+                    605.0
+                ]
+            ]
+        },
+        {
+            "text": "TESERTSSTREASEIFA",
+            "confidence": 0.659,
+            "box": [
+                [
+                    31.0,
+                    603.0
+                ],
+                [
+                    121.0,
+                    603.0
+                ],
+                [
+                    121.0,
+                    616.0
+                ],
+                [
+                    31.0,
+                    616.0
+                ]
+            ]
+        },
+        {
+            "text": "MASTER",
+            "confidence": 0.992,
+            "box": [
+                [
+                    386.0,
+                    743.0
+                ],
+                [
+                    467.0,
+                    740.0
+                ],
+                [
+                    469.0,
+                    776.0
+                ],
+                [
+                    388.0,
+                    780.0
+                ]
+            ]
+        },
+        {
+            "text": "PHASE-1-SHIVAM",
+            "confidence": 0.978,
+            "box": [
+                [
+                    491.0,
+                    758.0
+                ],
+                [
+                    656.0,
+                    763.0
+                ],
+                [
+                    655.0,
+                    792.0
+                ],
+                [
+                    490.0,
+                    787.0
+                ]
+            ]
+        },
+        {
+            "text": "PIECE",
+            "confidence": 0.998,
+            "box": [
+                [
+                    384.0,
+                    769.0
+                ],
+                [
+                    464.0,
+                    769.0
+                ],
+                [
+                    464.0,
+                    815.0
+                ],
+                [
+                    384.0,
+                    815.0
+                ]
+            ]
+        },
+        {
+            "text": "PIEO",
+            "confidence": 0.924,
+            "box": [
+                [
+                    1022.0,
+                    761.0
+                ],
+                [
+                    1077.0,
+                    761.0
+                ],
+                [
+                    1077.0,
+                    808.0
+                ],
+                [
+                    1022.0,
+                    808.0
+                ]
+            ]
+        },
+        {
+            "text": "IN-HOUSE SECRETS &THE RISE OFA",
+            "confidence": 0.922,
+            "box": [
+                [
+                    489.0,
+                    790.0
+                ],
+                [
+                    654.0,
+                    790.0
+                ],
+                [
+                    654.0,
+                    807.0
+                ],
+                [
+                    489.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "ADO",
+            "confidence": 0.982,
+            "box": [
+                [
+                    273.0,
+                    808.0
+                ],
+                [
+                    292.0,
+                    808.0
+                ],
+                [
+                    292.0,
+                    818.0
+                ],
+                [
+                    273.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    931.0,
+                    1026.0
+                ],
+                [
+                    1073.0,
+                    1026.0
+                ],
+                [
+                    1073.0,
+                    1047.0
+                ],
+                [
+                    931.0,
+                    1047.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,578 @@
+{
+    "image_name": "2026-01-11_09-51-22_UTC.jpg",
+    "combined_text": "20 YEARS OF ENERGETIC STAR RAM IN\nTFI .A RARE ALL-ROUND PERFORMER WITH\nTWO DECADES OF ELECTRIFYING ENERGY &\nICONIC BIG-SCREEN MOMENTS\nMaar Muntha Chod Chinta!\nRoad meeda vellinappudu andanga\nunnaro ledo chooddam anukunte\nface coverchesukonivelthunnaru.\nanukunte,\nkaallaki\nundalsina\nmettilu theesi cupboard lo petti\nvasthunnaru.\n720\nYEARS\nLNI\n5 feet 8 inches\nking laanti\nghtlo velta\nTrain lo veltavo\nSeenu gaadu,5\nlo Veltav\narigetthukoni\nfeet 4 inches\nSubbalakshmi\npadipoyaadu.",
+    "detailed": [
+        {
+            "text": "20 YEARS OF ENERGETIC STAR RAM IN",
+            "confidence": 0.923,
+            "box": [
+                [
+                    131.0,
+                    24.0
+                ],
+                [
+                    956.0,
+                    24.0
+                ],
+                [
+                    956.0,
+                    57.0
+                ],
+                [
+                    131.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "TFI .A RARE ALL-ROUND PERFORMER WITH",
+            "confidence": 0.93,
+            "box": [
+                [
+                    83.0,
+                    75.0
+                ],
+                [
+                    1007.0,
+                    75.0
+                ],
+                [
+                    1007.0,
+                    113.0
+                ],
+                [
+                    83.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "TWO DECADES OF ELECTRIFYING ENERGY &",
+            "confidence": 0.946,
+            "box": [
+                [
+                    77.0,
+                    128.0
+                ],
+                [
+                    1010.0,
+                    128.0
+                ],
+                [
+                    1010.0,
+                    166.0
+                ],
+                [
+                    77.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "ICONIC BIG-SCREEN MOMENTS",
+            "confidence": 0.962,
+            "box": [
+                [
+                    202.0,
+                    181.0
+                ],
+                [
+                    870.0,
+                    181.0
+                ],
+                [
+                    870.0,
+                    219.0
+                ],
+                [
+                    202.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "Maar Muntha Chod Chinta!",
+            "confidence": 0.943,
+            "box": [
+                [
+                    384.0,
+                    283.0
+                ],
+                [
+                    741.0,
+                    284.0
+                ],
+                [
+                    741.0,
+                    314.0
+                ],
+                [
+                    384.0,
+                    312.0
+                ]
+            ]
+        },
+        {
+            "text": "Road meeda vellinappudu andanga",
+            "confidence": 0.977,
+            "box": [
+                [
+                    44.0,
+                    754.0
+                ],
+                [
+                    266.0,
+                    755.0
+                ],
+                [
+                    266.0,
+                    772.0
+                ],
+                [
+                    44.0,
+                    771.0
+                ]
+            ]
+        },
+        {
+            "text": "unnaro ledo chooddam anukunte",
+            "confidence": 0.962,
+            "box": [
+                [
+                    45.0,
+                    768.0
+                ],
+                [
+                    269.0,
+                    768.0
+                ],
+                [
+                    269.0,
+                    785.0
+                ],
+                [
+                    45.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "face coverchesukonivelthunnaru.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    48.0,
+                    782.0
+                ],
+                [
+                    264.0,
+                    782.0
+                ],
+                [
+                    264.0,
+                    794.0
+                ],
+                [
+                    48.0,
+                    794.0
+                ]
+            ]
+        },
+        {
+            "text": "anukunte,",
+            "confidence": 0.969,
+            "box": [
+                [
+                    46.0,
+                    807.0
+                ],
+                [
+                    114.0,
+                    807.0
+                ],
+                [
+                    114.0,
+                    820.0
+                ],
+                [
+                    46.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "kaallaki",
+            "confidence": 0.905,
+            "box": [
+                [
+                    118.0,
+                    804.0
+                ],
+                [
+                    188.0,
+                    804.0
+                ],
+                [
+                    188.0,
+                    821.0
+                ],
+                [
+                    118.0,
+                    821.0
+                ]
+            ]
+        },
+        {
+            "text": "undalsina",
+            "confidence": 0.958,
+            "box": [
+                [
+                    187.0,
+                    807.0
+                ],
+                [
+                    263.0,
+                    807.0
+                ],
+                [
+                    263.0,
+                    820.0
+                ],
+                [
+                    187.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "mettilu theesi cupboard lo petti",
+            "confidence": 0.946,
+            "box": [
+                [
+                    42.0,
+                    818.0
+                ],
+                [
+                    266.0,
+                    818.0
+                ],
+                [
+                    266.0,
+                    835.0
+                ],
+                [
+                    42.0,
+                    835.0
+                ]
+            ]
+        },
+        {
+            "text": "vasthunnaru.",
+            "confidence": 0.983,
+            "box": [
+                [
+                    108.0,
+                    831.0
+                ],
+                [
+                    198.0,
+                    831.0
+                ],
+                [
+                    198.0,
+                    847.0
+                ],
+                [
+                    108.0,
+                    847.0
+                ]
+            ]
+        },
+        {
+            "text": "720",
+            "confidence": 0.941,
+            "box": [
+                [
+                    498.0,
+                    959.0
+                ],
+                [
+                    619.0,
+                    973.0
+                ],
+                [
+                    609.0,
+                    1055.0
+                ],
+                [
+                    488.0,
+                    1041.0
+                ]
+            ]
+        },
+        {
+            "text": "YEARS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    519.0,
+                    1034.0
+                ],
+                [
+                    600.0,
+                    1034.0
+                ],
+                [
+                    600.0,
+                    1061.0
+                ],
+                [
+                    519.0,
+                    1061.0
+                ]
+            ]
+        },
+        {
+            "text": "LNI",
+            "confidence": 0.54,
+            "box": [
+                [
+                    534.0,
+                    1058.0
+                ],
+                [
+                    591.0,
+                    1058.0
+                ],
+                [
+                    591.0,
+                    1075.0
+                ],
+                [
+                    534.0,
+                    1075.0
+                ]
+            ]
+        },
+        {
+            "text": "5 feet 8 inches",
+            "confidence": 0.954,
+            "box": [
+                [
+                    13.0,
+                    1157.0
+                ],
+                [
+                    215.0,
+                    1157.0
+                ],
+                [
+                    215.0,
+                    1190.0
+                ],
+                [
+                    13.0,
+                    1190.0
+                ]
+            ]
+        },
+        {
+            "text": "king laanti",
+            "confidence": 0.952,
+            "box": [
+                [
+                    13.0,
+                    1186.0
+                ],
+                [
+                    159.0,
+                    1186.0
+                ],
+                [
+                    159.0,
+                    1221.0
+                ],
+                [
+                    13.0,
+                    1221.0
+                ]
+            ]
+        },
+        {
+            "text": "ghtlo velta",
+            "confidence": 0.878,
+            "box": [
+                [
+                    716.0,
+                    1203.0
+                ],
+                [
+                    792.0,
+                    1203.0
+                ],
+                [
+                    792.0,
+                    1220.0
+                ],
+                [
+                    716.0,
+                    1220.0
+                ]
+            ]
+        },
+        {
+            "text": "Train lo veltavo",
+            "confidence": 0.906,
+            "box": [
+                [
+                    818.0,
+                    1203.0
+                ],
+                [
+                    932.0,
+                    1201.0
+                ],
+                [
+                    932.0,
+                    1218.0
+                ],
+                [
+                    819.0,
+                    1220.0
+                ]
+            ]
+        },
+        {
+            "text": "Seenu gaadu,5",
+            "confidence": 0.936,
+            "box": [
+                [
+                    13.0,
+                    1215.0
+                ],
+                [
+                    213.0,
+                    1218.0
+                ],
+                [
+                    212.0,
+                    1249.0
+                ],
+                [
+                    12.0,
+                    1246.0
+                ]
+            ]
+        },
+        {
+            "text": "lo Veltav",
+            "confidence": 0.891,
+            "box": [
+                [
+                    731.0,
+                    1218.0
+                ],
+                [
+                    806.0,
+                    1217.0
+                ],
+                [
+                    806.0,
+                    1231.0
+                ],
+                [
+                    731.0,
+                    1232.0
+                ]
+            ]
+        },
+        {
+            "text": "arigetthukoni",
+            "confidence": 0.99,
+            "box": [
+                [
+                    841.0,
+                    1218.0
+                ],
+                [
+                    938.0,
+                    1218.0
+                ],
+                [
+                    938.0,
+                    1235.0
+                ],
+                [
+                    841.0,
+                    1235.0
+                ]
+            ]
+        },
+        {
+            "text": "feet 4 inches",
+            "confidence": 0.948,
+            "box": [
+                [
+                    13.0,
+                    1245.0
+                ],
+                [
+                    186.0,
+                    1245.0
+                ],
+                [
+                    186.0,
+                    1274.0
+                ],
+                [
+                    13.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "Subbalakshmi",
+            "confidence": 0.994,
+            "box": [
+                [
+                    13.0,
+                    1270.0
+                ],
+                [
+                    200.0,
+                    1273.0
+                ],
+                [
+                    199.0,
+                    1303.0
+                ],
+                [
+                    12.0,
+                    1300.0
+                ]
+            ]
+        },
+        {
+            "text": "padipoyaadu.",
+            "confidence": 0.993,
+            "box": [
+                [
+                    14.0,
+                    1303.0
+                ],
+                [
+                    184.0,
+                    1303.0
+                ],
+                [
+                    184.0,
+                    1334.0
+                ],
+                [
+                    14.0,
+                    1334.0
+                ]
+            ]
+        }
+    ]
+}

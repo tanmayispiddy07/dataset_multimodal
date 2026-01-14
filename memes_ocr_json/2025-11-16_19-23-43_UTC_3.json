@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-11-16_19-23-43_UTC_3.jpg",
+    "combined_text": "sarcasm\nI have got a lot of time for him. A lot of regard.\nHe is a competitor. He has done well for India\nas a coach. But he must play on good wickets.\nBecause he has got Bumrah, he has got Siraj.\nhe has got Shami, he has got Kuldeep,\nhe has got Jadeja\n- Sourav Ganguly",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.979,
+            "box": [
+                [
+                    488.0,
+                    796.0
+                ],
+                [
+                    595.0,
+                    796.0
+                ],
+                [
+                    595.0,
+                    815.0
+                ],
+                [
+                    488.0,
+                    815.0
+                ]
+            ]
+        },
+        {
+            "text": "I have got a lot of time for him. A lot of regard.",
+            "confidence": 0.994,
+            "box": [
+                [
+                    10.0,
+                    899.0
+                ],
+                [
+                    1073.0,
+                    899.0
+                ],
+                [
+                    1073.0,
+                    946.0
+                ],
+                [
+                    10.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "He is a competitor. He has done well for India",
+            "confidence": 0.993,
+            "box": [
+                [
+                    22.0,
+                    959.0
+                ],
+                [
+                    1067.0,
+                    959.0
+                ],
+                [
+                    1067.0,
+                    1007.0
+                ],
+                [
+                    22.0,
+                    1007.0
+                ]
+            ]
+        },
+        {
+            "text": "as a coach. But he must play on good wickets.",
+            "confidence": 0.983,
+            "box": [
+                [
+                    6.0,
+                    1019.0
+                ],
+                [
+                    1074.0,
+                    1022.0
+                ],
+                [
+                    1074.0,
+                    1070.0
+                ],
+                [
+                    6.0,
+                    1067.0
+                ]
+            ]
+        },
+        {
+            "text": "Because he has got Bumrah, he has got Siraj.",
+            "confidence": 0.997,
+            "box": [
+                [
+                    20.0,
+                    1078.0
+                ],
+                [
+                    1063.0,
+                    1084.0
+                ],
+                [
+                    1063.0,
+                    1132.0
+                ],
+                [
+                    20.0,
+                    1126.0
+                ]
+            ]
+        },
+        {
+            "text": "he has got Shami, he has got Kuldeep,",
+            "confidence": 0.999,
+            "box": [
+                [
+                    94.0,
+                    1136.0
+                ],
+                [
+                    987.0,
+                    1141.0
+                ],
+                [
+                    987.0,
+                    1199.0
+                ],
+                [
+                    94.0,
+                    1193.0
+                ]
+            ]
+        },
+        {
+            "text": "he has got Jadeja",
+            "confidence": 0.997,
+            "box": [
+                [
+                    332.0,
+                    1203.0
+                ],
+                [
+                    752.0,
+                    1206.0
+                ],
+                [
+                    752.0,
+                    1255.0
+                ],
+                [
+                    332.0,
+                    1252.0
+                ]
+            ]
+        },
+        {
+            "text": "- Sourav Ganguly",
+            "confidence": 0.981,
+            "box": [
+                [
+                    366.0,
+                    1274.0
+                ],
+                [
+                    706.0,
+                    1280.0
+                ],
+                [
+                    705.0,
+                    1321.0
+                ],
+                [
+                    365.0,
+                    1315.0
+                ]
+            ]
+        }
+    ]
+}

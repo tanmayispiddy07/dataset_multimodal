@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-04-29_02-01-07_UTC.jpg",
+    "combined_text": "PARENTS:INTIKI POYNA\nTARAVAATHA.NEE SANGATHI CHEPTAMU\n(chuckles)\n'm in danger",
+    "detailed": [
+        {
+            "text": "PARENTS:INTIKI POYNA",
+            "confidence": 0.961,
+            "box": [
+                [
+                    16.0,
+                    38.0
+                ],
+                [
+                    354.0,
+                    38.0
+                ],
+                [
+                    354.0,
+                    71.0
+                ],
+                [
+                    16.0,
+                    71.0
+                ]
+            ]
+        },
+        {
+            "text": "TARAVAATHA.NEE SANGATHI CHEPTAMU",
+            "confidence": 0.948,
+            "box": [
+                [
+                    16.0,
+                    80.0
+                ],
+                [
+                    590.0,
+                    80.0
+                ],
+                [
+                    590.0,
+                    113.0
+                ],
+                [
+                    16.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "(chuckles)",
+            "confidence": 0.989,
+            "box": [
+                [
+                    93.0,
+                    550.0
+                ],
+                [
+                    242.0,
+                    550.0
+                ],
+                [
+                    242.0,
+                    586.0
+                ],
+                [
+                    93.0,
+                    586.0
+                ]
+            ]
+        },
+        {
+            "text": "'m in danger",
+            "confidence": 0.93,
+            "box": [
+                [
+                    81.0,
+                    594.0
+                ],
+                [
+                    263.0,
+                    596.0
+                ],
+                [
+                    262.0,
+                    626.0
+                ],
+                [
+                    81.0,
+                    624.0
+                ]
+            ]
+        }
+    ]
+}

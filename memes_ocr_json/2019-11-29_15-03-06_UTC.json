@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-11-29_15-03-06_UTC.jpg",
+    "combined_text": "PARENTS\nBHAYAM LEDU\nBHAKTI LEDU\nMY SLIGHTLY CONTROVERSIAL OPINION",
+    "detailed": [
+        {
+            "text": "PARENTS",
+            "confidence": 0.997,
+            "box": [
+                [
+                    100.0,
+                    27.0
+                ],
+                [
+                    237.0,
+                    27.0
+                ],
+                [
+                    237.0,
+                    64.0
+                ],
+                [
+                    100.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "BHAYAM LEDU",
+            "confidence": 0.967,
+            "box": [
+                [
+                    235.0,
+                    209.0
+                ],
+                [
+                    464.0,
+                    209.0
+                ],
+                [
+                    464.0,
+                    246.0
+                ],
+                [
+                    235.0,
+                    246.0
+                ]
+            ]
+        },
+        {
+            "text": "BHAKTI LEDU",
+            "confidence": 0.957,
+            "box": [
+                [
+                    241.0,
+                    253.0
+                ],
+                [
+                    455.0,
+                    253.0
+                ],
+                [
+                    455.0,
+                    293.0
+                ],
+                [
+                    241.0,
+                    293.0
+                ]
+            ]
+        },
+        {
+            "text": "MY SLIGHTLY CONTROVERSIAL OPINION",
+            "confidence": 0.948,
+            "box": [
+                [
+                    54.0,
+                    518.0
+                ],
+                [
+                    568.0,
+                    517.0
+                ],
+                [
+                    568.0,
+                    549.0
+                ],
+                [
+                    54.0,
+                    550.0
+                ]
+            ]
+        }
+    ]
+}

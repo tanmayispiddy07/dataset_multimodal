@@ -1,0 +1,578 @@
+{
+    "image_name": "2025-09-27_07-26-15_UTC.jpg",
+    "combined_text": "AFTER BACK 2 BACK TO BACK HITS IN TELUGU\nNOW VARALAXMI SARATHKUMAR TURING INTO\nDIRECTOR .DOSA DIARIES PRODUCTION NO-1 TITLED\nSARASWATHI DIRECTIONAL DEBUT DIRECTED BY THE\nVERSATILE VARALAXMI SARATH KUMAR\nVARALAXMI\nPRAKASH RAJ\nPRIYAMANI\nNAVEENCHANDRA\nTHAAANS\nA.M.EDWIN SAKAY\nVENKAT RAAJEN\nSUDHEER MACHARLA\nMUSIC\nDOP\nEDITOR\nART DIRECTOR\nDosa Diaries\nPrecum\nSARASWATH\nVARALAXMI SARATHKUMAR\nPOOJA & VARALAXMI\nPRODUCERS\nADDICTEDTOMEMES\nAHAAA FROM ACTOR\nTO DIRECTOR",
+    "detailed": [
+        {
+            "text": "AFTER BACK 2 BACK TO BACK HITS IN TELUGU",
+            "confidence": 0.918,
+            "box": [
+                [
+                    128.0,
+                    11.0
+                ],
+                [
+                    963.0,
+                    11.0
+                ],
+                [
+                    963.0,
+                    45.0
+                ],
+                [
+                    128.0,
+                    45.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW VARALAXMI SARATHKUMAR TURING INTO",
+            "confidence": 0.954,
+            "box": [
+                [
+                    110.0,
+                    57.0
+                ],
+                [
+                    980.0,
+                    57.0
+                ],
+                [
+                    980.0,
+                    91.0
+                ],
+                [
+                    110.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "DIRECTOR .DOSA DIARIES PRODUCTION NO-1 TITLED",
+            "confidence": 0.941,
+            "box": [
+                [
+                    53.0,
+                    103.0
+                ],
+                [
+                    1038.0,
+                    103.0
+                ],
+                [
+                    1038.0,
+                    137.0
+                ],
+                [
+                    53.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "SARASWATHI DIRECTIONAL DEBUT DIRECTED BY THE",
+            "confidence": 0.955,
+            "box": [
+                [
+                    70.0,
+                    149.0
+                ],
+                [
+                    1021.0,
+                    149.0
+                ],
+                [
+                    1021.0,
+                    183.0
+                ],
+                [
+                    70.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "VERSATILE VARALAXMI SARATH KUMAR",
+            "confidence": 0.963,
+            "box": [
+                [
+                    181.0,
+                    194.0
+                ],
+                [
+                    913.0,
+                    195.0
+                ],
+                [
+                    913.0,
+                    230.0
+                ],
+                [
+                    181.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "VARALAXMI",
+            "confidence": 0.998,
+            "box": [
+                [
+                    555.0,
+                    420.0
+                ],
+                [
+                    652.0,
+                    420.0
+                ],
+                [
+                    652.0,
+                    440.0
+                ],
+                [
+                    555.0,
+                    440.0
+                ]
+            ]
+        },
+        {
+            "text": "PRAKASH RAJ",
+            "confidence": 0.944,
+            "box": [
+                [
+                    674.0,
+                    418.0
+                ],
+                [
+                    778.0,
+                    418.0
+                ],
+                [
+                    778.0,
+                    439.0
+                ],
+                [
+                    674.0,
+                    439.0
+                ]
+            ]
+        },
+        {
+            "text": "PRIYAMANI",
+            "confidence": 0.995,
+            "box": [
+                [
+                    807.0,
+                    417.0
+                ],
+                [
+                    901.0,
+                    417.0
+                ],
+                [
+                    901.0,
+                    438.0
+                ],
+                [
+                    807.0,
+                    438.0
+                ]
+            ]
+        },
+        {
+            "text": "NAVEENCHANDRA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    917.0,
+                    418.0
+                ],
+                [
+                    1055.0,
+                    418.0
+                ],
+                [
+                    1055.0,
+                    439.0
+                ],
+                [
+                    917.0,
+                    439.0
+                ]
+            ]
+        },
+        {
+            "text": "THAAANS",
+            "confidence": 0.793,
+            "box": [
+                [
+                    588.0,
+                    665.0
+                ],
+                [
+                    657.0,
+                    665.0
+                ],
+                [
+                    657.0,
+                    682.0
+                ],
+                [
+                    588.0,
+                    682.0
+                ]
+            ]
+        },
+        {
+            "text": "A.M.EDWIN SAKAY",
+            "confidence": 0.954,
+            "box": [
+                [
+                    685.0,
+                    663.0
+                ],
+                [
+                    802.0,
+                    663.0
+                ],
+                [
+                    802.0,
+                    684.0
+                ],
+                [
+                    685.0,
+                    684.0
+                ]
+            ]
+        },
+        {
+            "text": "VENKAT RAAJEN",
+            "confidence": 0.954,
+            "box": [
+                [
+                    810.0,
+                    665.0
+                ],
+                [
+                    915.0,
+                    665.0
+                ],
+                [
+                    915.0,
+                    682.0
+                ],
+                [
+                    810.0,
+                    682.0
+                ]
+            ]
+        },
+        {
+            "text": "SUDHEER MACHARLA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    922.0,
+                    665.0
+                ],
+                [
+                    1049.0,
+                    665.0
+                ],
+                [
+                    1049.0,
+                    682.0
+                ],
+                [
+                    922.0,
+                    682.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSIC",
+            "confidence": 0.994,
+            "box": [
+                [
+                    600.0,
+                    682.0
+                ],
+                [
+                    645.0,
+                    682.0
+                ],
+                [
+                    645.0,
+                    695.0
+                ],
+                [
+                    600.0,
+                    695.0
+                ]
+            ]
+        },
+        {
+            "text": "DOP",
+            "confidence": 0.998,
+            "box": [
+                [
+                    728.0,
+                    682.0
+                ],
+                [
+                    758.0,
+                    682.0
+                ],
+                [
+                    758.0,
+                    695.0
+                ],
+                [
+                    728.0,
+                    695.0
+                ]
+            ]
+        },
+        {
+            "text": "EDITOR",
+            "confidence": 0.998,
+            "box": [
+                [
+                    838.0,
+                    682.0
+                ],
+                [
+                    887.0,
+                    682.0
+                ],
+                [
+                    887.0,
+                    697.0
+                ],
+                [
+                    838.0,
+                    697.0
+                ]
+            ]
+        },
+        {
+            "text": "ART DIRECTOR",
+            "confidence": 0.96,
+            "box": [
+                [
+                    938.0,
+                    677.0
+                ],
+                [
+                    1034.0,
+                    679.0
+                ],
+                [
+                    1033.0,
+                    697.0
+                ],
+                [
+                    938.0,
+                    695.0
+                ]
+            ]
+        },
+        {
+            "text": "Dosa Diaries",
+            "confidence": 0.919,
+            "box": [
+                [
+                    878.0,
+                    751.0
+                ],
+                [
+                    991.0,
+                    751.0
+                ],
+                [
+                    991.0,
+                    772.0
+                ],
+                [
+                    878.0,
+                    772.0
+                ]
+            ]
+        },
+        {
+            "text": "Precum",
+            "confidence": 0.777,
+            "box": [
+                [
+                    915.0,
+                    772.0
+                ],
+                [
+                    953.0,
+                    772.0
+                ],
+                [
+                    953.0,
+                    785.0
+                ],
+                [
+                    915.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "SARASWATH",
+            "confidence": 0.998,
+            "box": [
+                [
+                    831.0,
+                    793.0
+                ],
+                [
+                    1040.0,
+                    792.0
+                ],
+                [
+                    1041.0,
+                    836.0
+                ],
+                [
+                    831.0,
+                    838.0
+                ]
+            ]
+        },
+        {
+            "text": "VARALAXMI SARATHKUMAR",
+            "confidence": 0.974,
+            "box": [
+                [
+                    849.0,
+                    860.0
+                ],
+                [
+                    1032.0,
+                    860.0
+                ],
+                [
+                    1032.0,
+                    881.0
+                ],
+                [
+                    849.0,
+                    881.0
+                ]
+            ]
+        },
+        {
+            "text": "POOJA & VARALAXMI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    548.0,
+                    895.0
+                ],
+                [
+                    730.0,
+                    895.0
+                ],
+                [
+                    730.0,
+                    916.0
+                ],
+                [
+                    548.0,
+                    916.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCERS",
+            "confidence": 0.995,
+            "box": [
+                [
+                    596.0,
+                    916.0
+                ],
+                [
+                    685.0,
+                    916.0
+                ],
+                [
+                    685.0,
+                    932.0
+                ],
+                [
+                    596.0,
+                    932.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    935.0,
+                    1062.0
+                ],
+                [
+                    1069.0,
+                    1062.0
+                ],
+                [
+                    1069.0,
+                    1079.0
+                ],
+                [
+                    935.0,
+                    1079.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAAA FROM ACTOR",
+            "confidence": 0.96,
+            "box": [
+                [
+                    474.0,
+                    1229.0
+                ],
+                [
+                    932.0,
+                    1229.0
+                ],
+                [
+                    932.0,
+                    1267.0
+                ],
+                [
+                    474.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "TO DIRECTOR",
+            "confidence": 0.962,
+            "box": [
+                [
+                    552.0,
+                    1281.0
+                ],
+                [
+                    842.0,
+                    1284.0
+                ],
+                [
+                    842.0,
+                    1321.0
+                ],
+                [
+                    551.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

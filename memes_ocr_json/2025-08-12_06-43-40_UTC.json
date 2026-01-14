@@ -1,0 +1,424 @@
+{
+    "image_name": "2025-08-12_06-43-40_UTC.jpg",
+    "combined_text": "Cyberabad Traffic Police \n@CYBTRAFFIC\nPOLICE\nTRAFFIC\nB\nE\nR\nCYBERABAD TRAFFICPOLICE\nADVISORY\nAdvisory-12th August:Early Logout & Eveningshifts to\nconsider Work From Home (WFH) Due to Heavy Rain\nforecast in evening.\nDue to predictions of heavy rainfall in the city,we recommend\ncompanies & employees to plan for an early logout starting\n3:00pM in staggered manner today and Evening Shifts may\nconsider WFH (Working from home) to ensure safety, avoid\ntraffic congestion and uninterrupted movement of emergency\nservices.\nCyberabad Traffic Police",
+    "detailed": [
+        {
+            "text": "Cyberabad Traffic Police ",
+            "confidence": 0.994,
+            "box": [
+                [
+                    179.0,
+                    23.0
+                ],
+                [
+                    713.0,
+                    23.0
+                ],
+                [
+                    713.0,
+                    65.0
+                ],
+                [
+                    179.0,
+                    65.0
+                ]
+            ]
+        },
+        {
+            "text": "@CYBTRAFFIC",
+            "confidence": 0.988,
+            "box": [
+                [
+                    182.0,
+                    73.0
+                ],
+                [
+                    471.0,
+                    73.0
+                ],
+                [
+                    471.0,
+                    111.0
+                ],
+                [
+                    182.0,
+                    111.0
+                ]
+            ]
+        },
+        {
+            "text": "POLICE",
+            "confidence": 0.986,
+            "box": [
+                [
+                    544.0,
+                    259.0
+                ],
+                [
+                    691.0,
+                    363.0
+                ],
+                [
+                    650.0,
+                    420.0
+                ],
+                [
+                    503.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAFFIC",
+            "confidence": 0.986,
+            "box": [
+                [
+                    355.0,
+                    337.0
+                ],
+                [
+                    524.0,
+                    258.0
+                ],
+                [
+                    555.0,
+                    323.0
+                ],
+                [
+                    386.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "B",
+            "confidence": 0.538,
+            "box": [
+                [
+                    440.0,
+                    572.0
+                ],
+                [
+                    465.0,
+                    572.0
+                ],
+                [
+                    465.0,
+                    591.0
+                ],
+                [
+                    440.0,
+                    591.0
+                ]
+            ]
+        },
+        {
+            "text": "E",
+            "confidence": 0.818,
+            "box": [
+                [
+                    476.0,
+                    582.0
+                ],
+                [
+                    498.0,
+                    582.0
+                ],
+                [
+                    498.0,
+                    601.0
+                ],
+                [
+                    476.0,
+                    601.0
+                ]
+            ]
+        },
+        {
+            "text": "R",
+            "confidence": 0.995,
+            "box": [
+                [
+                    506.0,
+                    586.0
+                ],
+                [
+                    530.0,
+                    586.0
+                ],
+                [
+                    530.0,
+                    605.0
+                ],
+                [
+                    506.0,
+                    605.0
+                ]
+            ]
+        },
+        {
+            "text": "CYBERABAD TRAFFICPOLICE",
+            "confidence": 0.978,
+            "box": [
+                [
+                    289.0,
+                    648.0
+                ],
+                [
+                    746.0,
+                    648.0
+                ],
+                [
+                    746.0,
+                    675.0
+                ],
+                [
+                    289.0,
+                    675.0
+                ]
+            ]
+        },
+        {
+            "text": "ADVISORY",
+            "confidence": 0.998,
+            "box": [
+                [
+                    471.0,
+                    685.0
+                ],
+                [
+                    640.0,
+                    685.0
+                ],
+                [
+                    640.0,
+                    721.0
+                ],
+                [
+                    471.0,
+                    721.0
+                ]
+            ]
+        },
+        {
+            "text": "Advisory-12th August:Early Logout & Eveningshifts to",
+            "confidence": 0.95,
+            "box": [
+                [
+                    138.0,
+                    753.0
+                ],
+                [
+                    902.0,
+                    753.0
+                ],
+                [
+                    902.0,
+                    783.0
+                ],
+                [
+                    138.0,
+                    783.0
+                ]
+            ]
+        },
+        {
+            "text": "consider Work From Home (WFH) Due to Heavy Rain",
+            "confidence": 0.94,
+            "box": [
+                [
+                    139.0,
+                    790.0
+                ],
+                [
+                    866.0,
+                    790.0
+                ],
+                [
+                    866.0,
+                    820.0
+                ],
+                [
+                    139.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "forecast in evening.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    136.0,
+                    825.0
+                ],
+                [
+                    412.0,
+                    828.0
+                ],
+                [
+                    411.0,
+                    859.0
+                ],
+                [
+                    136.0,
+                    856.0
+                ]
+            ]
+        },
+        {
+            "text": "Due to predictions of heavy rainfall in the city,we recommend",
+            "confidence": 0.954,
+            "box": [
+                [
+                    139.0,
+                    901.0
+                ],
+                [
+                    951.0,
+                    901.0
+                ],
+                [
+                    951.0,
+                    932.0
+                ],
+                [
+                    139.0,
+                    932.0
+                ]
+            ]
+        },
+        {
+            "text": "companies & employees to plan for an early logout starting",
+            "confidence": 0.984,
+            "box": [
+                [
+                    136.0,
+                    935.0
+                ],
+                [
+                    916.0,
+                    938.0
+                ],
+                [
+                    916.0,
+                    972.0
+                ],
+                [
+                    136.0,
+                    970.0
+                ]
+            ]
+        },
+        {
+            "text": "3:00pM in staggered manner today and Evening Shifts may",
+            "confidence": 0.986,
+            "box": [
+                [
+                    135.0,
+                    972.0
+                ],
+                [
+                    913.0,
+                    975.0
+                ],
+                [
+                    912.0,
+                    1009.0
+                ],
+                [
+                    135.0,
+                    1007.0
+                ]
+            ]
+        },
+        {
+            "text": "consider WFH (Working from home) to ensure safety, avoid",
+            "confidence": 0.93,
+            "box": [
+                [
+                    135.0,
+                    1008.0
+                ],
+                [
+                    916.0,
+                    1009.0
+                ],
+                [
+                    916.0,
+                    1044.0
+                ],
+                [
+                    135.0,
+                    1043.0
+                ]
+            ]
+        },
+        {
+            "text": "traffic congestion and uninterrupted movement of emergency",
+            "confidence": 0.973,
+            "box": [
+                [
+                    136.0,
+                    1046.0
+                ],
+                [
+                    953.0,
+                    1049.0
+                ],
+                [
+                    953.0,
+                    1081.0
+                ],
+                [
+                    136.0,
+                    1078.0
+                ]
+            ]
+        },
+        {
+            "text": "services.",
+            "confidence": 0.998,
+            "box": [
+                [
+                    138.0,
+                    1087.0
+                ],
+                [
+                    258.0,
+                    1087.0
+                ],
+                [
+                    258.0,
+                    1115.0
+                ],
+                [
+                    138.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "Cyberabad Traffic Police",
+            "confidence": 0.983,
+            "box": [
+                [
+                    139.0,
+                    1159.0
+                ],
+                [
+                    478.0,
+                    1159.0
+                ],
+                [
+                    478.0,
+                    1189.0
+                ],
+                [
+                    139.0,
+                    1189.0
+                ]
+            ]
+        }
+    ]
+}

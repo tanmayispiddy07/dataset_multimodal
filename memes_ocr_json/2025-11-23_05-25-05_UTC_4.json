@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-11-23_05-25-05_UTC_4.jpg",
+    "combined_text": "E COLDSHOCK\nINFLAMMATORY SIGNALS\nNidistOrb chesthundh\nEDGI\nKNOW\nME BRAINbLOODVESSELS\nLO7OO.DENTHOME\nHEADACHE..MIGRAINE\nTAGGUTHUNDHIINSTANTGA",
+    "detailed": [
+        {
+            "text": "E COLDSHOCK",
+            "confidence": 0.777,
+            "box": [
+                [
+                    271.0,
+                    407.0
+                ],
+                [
+                    792.0,
+                    404.0
+                ],
+                [
+                    792.0,
+                    460.0
+                ],
+                [
+                    272.0,
+                    463.0
+                ]
+            ]
+        },
+        {
+            "text": "INFLAMMATORY SIGNALS",
+            "confidence": 0.971,
+            "box": [
+                [
+                    56.0,
+                    466.0
+                ],
+                [
+                    1008.0,
+                    469.0
+                ],
+                [
+                    1008.0,
+                    524.0
+                ],
+                [
+                    56.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "text": "NidistOrb chesthundh",
+            "confidence": 0.65,
+            "box": [
+                [
+                    51.0,
+                    531.0
+                ],
+                [
+                    998.0,
+                    529.0
+                ],
+                [
+                    998.0,
+                    581.0
+                ],
+                [
+                    51.0,
+                    583.0
+                ]
+            ]
+        },
+        {
+            "text": "EDGI",
+            "confidence": 0.96,
+            "box": [
+                [
+                    100.0,
+                    667.0
+                ],
+                [
+                    143.0,
+                    643.0
+                ],
+                [
+                    153.0,
+                    661.0
+                ],
+                [
+                    110.0,
+                    686.0
+                ]
+            ]
+        },
+        {
+            "text": "KNOW",
+            "confidence": 0.995,
+            "box": [
+                [
+                    26.0,
+                    706.0
+                ],
+                [
+                    88.0,
+                    675.0
+                ],
+                [
+                    99.0,
+                    697.0
+                ],
+                [
+                    37.0,
+                    728.0
+                ]
+            ]
+        },
+        {
+            "text": "ME BRAINbLOODVESSELS",
+            "confidence": 0.715,
+            "box": [
+                [
+                    55.0,
+                    1099.0
+                ],
+                [
+                    1014.0,
+                    1099.0
+                ],
+                [
+                    1014.0,
+                    1154.0
+                ],
+                [
+                    55.0,
+                    1154.0
+                ]
+            ]
+        },
+        {
+            "text": "LO7OO.DENTHOME",
+            "confidence": 0.876,
+            "box": [
+                [
+                    197.0,
+                    1148.0
+                ],
+                [
+                    866.0,
+                    1147.0
+                ],
+                [
+                    866.0,
+                    1220.0
+                ],
+                [
+                    197.0,
+                    1222.0
+                ]
+            ]
+        },
+        {
+            "text": "HEADACHE..MIGRAINE",
+            "confidence": 0.911,
+            "box": [
+                [
+                    118.0,
+                    1220.0
+                ],
+                [
+                    952.0,
+                    1220.0
+                ],
+                [
+                    952.0,
+                    1275.0
+                ],
+                [
+                    118.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "TAGGUTHUNDHIINSTANTGA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    13.0,
+                    1279.0
+                ],
+                [
+                    1059.0,
+                    1279.0
+                ],
+                [
+                    1059.0,
+                    1338.0
+                ],
+                [
+                    13.0,
+                    1338.0
+                ]
+            ]
+        }
+    ]
+}

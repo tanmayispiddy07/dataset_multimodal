@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-11-01_13-56-40_UTC.jpg",
+    "combined_text": "RAGE OF KAANTHA FROM\n\"KAANTHA mOVIe\"\nPIRANCHAVAN\nFOR\nADDICTEDTOMEMES\nJUSTGOOSEBUMPS IT IS\nASALU EXPECTCHEYALE",
+    "detailed": [
+        {
+            "text": "RAGE OF KAANTHA FROM",
+            "confidence": 0.946,
+            "box": [
+                [
+                    107.0,
+                    74.0
+                ],
+                [
+                    982.0,
+                    74.0
+                ],
+                [
+                    982.0,
+                    132.0
+                ],
+                [
+                    107.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "\"KAANTHA mOVIe\"",
+            "confidence": 0.769,
+            "box": [
+                [
+                    225.0,
+                    153.0
+                ],
+                [
+                    862.0,
+                    153.0
+                ],
+                [
+                    862.0,
+                    222.0
+                ],
+                [
+                    225.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "PIRANCHAVAN",
+            "confidence": 0.877,
+            "box": [
+                [
+                    0.0,
+                    266.0
+                ],
+                [
+                    652.0,
+                    286.0
+                ],
+                [
+                    645.0,
+                    483.0
+                ],
+                [
+                    0.0,
+                    462.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR",
+            "confidence": 0.974,
+            "box": [
+                [
+                    820.0,
+                    722.0
+                ],
+                [
+                    918.0,
+                    722.0
+                ],
+                [
+                    918.0,
+                    807.0
+                ],
+                [
+                    820.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    4.0,
+                    1118.0
+                ],
+                [
+                    163.0,
+                    1118.0
+                ],
+                [
+                    163.0,
+                    1143.0
+                ],
+                [
+                    4.0,
+                    1143.0
+                ]
+            ]
+        },
+        {
+            "text": "JUSTGOOSEBUMPS IT IS",
+            "confidence": 0.951,
+            "box": [
+                [
+                    90.0,
+                    1233.0
+                ],
+                [
+                    608.0,
+                    1233.0
+                ],
+                [
+                    608.0,
+                    1271.0
+                ],
+                [
+                    90.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALU EXPECTCHEYALE",
+            "confidence": 0.968,
+            "box": [
+                [
+                    83.0,
+                    1286.0
+                ],
+                [
+                    598.0,
+                    1286.0
+                ],
+                [
+                    598.0,
+                    1324.0
+                ],
+                [
+                    83.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

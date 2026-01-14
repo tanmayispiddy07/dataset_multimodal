@@ -1,0 +1,182 @@
+{
+    "image_name": "2019-06-24_15-19-23_UTC.jpg",
+    "combined_text": "My Frnd*\nNu mango ela thintav?\n*Me\nAeadab.toca Beij\nLUXSTUDIO\nNeat ga cut cheskuni thinta\nNenaithe, pisiki pisiki, nalipi nalipi, koriki\nLopalunna gujju na muthiki antukunela thinta",
+    "detailed": [
+        {
+            "text": "My Frnd*",
+            "confidence": 1.0,
+            "box": [
+                [
+                    17.0,
+                    22.0
+                ],
+                [
+                    245.0,
+                    15.0
+                ],
+                [
+                    247.0,
+                    75.0
+                ],
+                [
+                    19.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "Nu mango ela thintav?",
+            "confidence": 0.994,
+            "box": [
+                [
+                    417.0,
+                    267.0
+                ],
+                [
+                    1058.0,
+                    267.0
+                ],
+                [
+                    1058.0,
+                    339.0
+                ],
+                [
+                    417.0,
+                    339.0
+                ]
+            ]
+        },
+        {
+            "text": "*Me",
+            "confidence": 0.992,
+            "box": [
+                [
+                    386.0,
+                    379.0
+                ],
+                [
+                    498.0,
+                    387.0
+                ],
+                [
+                    493.0,
+                    447.0
+                ],
+                [
+                    381.0,
+                    438.0
+                ]
+            ]
+        },
+        {
+            "text": "Aeadab.toca Beij",
+            "confidence": 0.661,
+            "box": [
+                [
+                    768.0,
+                    531.0
+                ],
+                [
+                    935.0,
+                    534.0
+                ],
+                [
+                    935.0,
+                    569.0
+                ],
+                [
+                    767.0,
+                    566.0
+                ]
+            ]
+        },
+        {
+            "text": "LUXSTUDIO",
+            "confidence": 0.987,
+            "box": [
+                [
+                    898.0,
+                    609.0
+                ],
+                [
+                    1008.0,
+                    609.0
+                ],
+                [
+                    1008.0,
+                    633.0
+                ],
+                [
+                    898.0,
+                    633.0
+                ]
+            ]
+        },
+        {
+            "text": "Neat ga cut cheskuni thinta",
+            "confidence": 0.998,
+            "box": [
+                [
+                    39.0,
+                    635.0
+                ],
+                [
+                    773.0,
+                    635.0
+                ],
+                [
+                    773.0,
+                    697.0
+                ],
+                [
+                    39.0,
+                    697.0
+                ]
+            ]
+        },
+        {
+            "text": "Nenaithe, pisiki pisiki, nalipi nalipi, koriki",
+            "confidence": 0.944,
+            "box": [
+                [
+                    51.0,
+                    951.0
+                ],
+                [
+                    1015.0,
+                    950.0
+                ],
+                [
+                    1015.0,
+                    1007.0
+                ],
+                [
+                    51.0,
+                    1008.0
+                ]
+            ]
+        },
+        {
+            "text": "Lopalunna gujju na muthiki antukunela thinta",
+            "confidence": 0.993,
+            "box": [
+                [
+                    9.0,
+                    1011.0
+                ],
+                [
+                    1072.0,
+                    1009.0
+                ],
+                [
+                    1072.0,
+                    1063.0
+                ],
+                [
+                    9.0,
+                    1065.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "image_name": "2025-09-19_07-20-59_UTC.jpg",
+    "combined_text": "BHADRAKAALI GRAND RELEASED\nTODAY AND POSITIVE RESPONSE\nEVERYWHERE FROM MORNING SHOWS\nRAMANJANEYULOJAYVAILE\nVUAY ANTONY\n3838\nRELEASING\nTODAY\nARUN PRABU\nSHELLEY CALIST\nVUAY ANTONY\nINCINENAS\nNOW\nIN CINEM\nARUNPRABU\nNOV\nVIFAY ANTONT MUSICA\nADDICTEDTOMEMES\nPILIPINCHU MANA FRIENDS NI\nPILIPINCHU RA EVENING VELDHAM",
+    "detailed": [
+        {
+            "text": "BHADRAKAALI GRAND RELEASED",
+            "confidence": 0.966,
+            "box": [
+                [
+                    158.0,
+                    26.0
+                ],
+                [
+                    921.0,
+                    26.0
+                ],
+                [
+                    921.0,
+                    64.0
+                ],
+                [
+                    158.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "TODAY AND POSITIVE RESPONSE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    169.0,
+                    82.0
+                ],
+                [
+                    913.0,
+                    82.0
+                ],
+                [
+                    913.0,
+                    120.0
+                ],
+                [
+                    169.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "EVERYWHERE FROM MORNING SHOWS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    104.0,
+                    137.0
+                ],
+                [
+                    977.0,
+                    137.0
+                ],
+                [
+                    977.0,
+                    174.0
+                ],
+                [
+                    104.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "RAMANJANEYULOJAYVAILE",
+            "confidence": 0.841,
+            "box": [
+                [
+                    17.0,
+                    224.0
+                ],
+                [
+                    150.0,
+                    224.0
+                ],
+                [
+                    150.0,
+                    245.0
+                ],
+                [
+                    17.0,
+                    245.0
+                ]
+            ]
+        },
+        {
+            "text": "VUAY ANTONY",
+            "confidence": 0.977,
+            "box": [
+                [
+                    257.0,
+                    229.0
+                ],
+                [
+                    340.0,
+                    229.0
+                ],
+                [
+                    340.0,
+                    249.0
+                ],
+                [
+                    257.0,
+                    249.0
+                ]
+            ]
+        },
+        {
+            "text": "3838",
+            "confidence": 0.643,
+            "box": [
+                [
+                    170.0,
+                    267.0
+                ],
+                [
+                    411.0,
+                    257.0
+                ],
+                [
+                    415.0,
+                    336.0
+                ],
+                [
+                    174.0,
+                    347.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING",
+            "confidence": 0.997,
+            "box": [
+                [
+                    706.0,
+                    258.0
+                ],
+                [
+                    954.0,
+                    240.0
+                ],
+                [
+                    957.0,
+                    287.0
+                ],
+                [
+                    710.0,
+                    305.0
+                ]
+            ]
+        },
+        {
+            "text": "TODAY",
+            "confidence": 0.996,
+            "box": [
+                [
+                    676.0,
+                    307.0
+                ],
+                [
+                    977.0,
+                    286.0
+                ],
+                [
+                    984.0,
+                    378.0
+                ],
+                [
+                    683.0,
+                    399.0
+                ]
+            ]
+        },
+        {
+            "text": "ARUN PRABU",
+            "confidence": 0.966,
+            "box": [
+                [
+                    260.0,
+                    341.0
+                ],
+                [
+                    339.0,
+                    341.0
+                ],
+                [
+                    339.0,
+                    362.0
+                ],
+                [
+                    260.0,
+                    362.0
+                ]
+            ]
+        },
+        {
+            "text": "SHELLEY CALIST",
+            "confidence": 0.936,
+            "box": [
+                [
+                    264.0,
+                    365.0
+                ],
+                [
+                    332.0,
+                    365.0
+                ],
+                [
+                    332.0,
+                    382.0
+                ],
+                [
+                    264.0,
+                    382.0
+                ]
+            ]
+        },
+        {
+            "text": "VUAY ANTONY",
+            "confidence": 0.974,
+            "box": [
+                [
+                    655.0,
+                    760.0
+                ],
+                [
+                    727.0,
+                    760.0
+                ],
+                [
+                    727.0,
+                    776.0
+                ],
+                [
+                    655.0,
+                    776.0
+                ]
+            ]
+        },
+        {
+            "text": "INCINENAS",
+            "confidence": 0.811,
+            "box": [
+                [
+                    182.0,
+                    783.0
+                ],
+                [
+                    418.0,
+                    786.0
+                ],
+                [
+                    417.0,
+                    811.0
+                ],
+                [
+                    181.0,
+                    808.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW",
+            "confidence": 0.822,
+            "box": [
+                [
+                    112.0,
+                    799.0
+                ],
+                [
+                    501.0,
+                    799.0
+                ],
+                [
+                    501.0,
+                    945.0
+                ],
+                [
+                    112.0,
+                    945.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEM",
+            "confidence": 0.909,
+            "box": [
+                [
+                    1001.0,
+                    849.0
+                ],
+                [
+                    1077.0,
+                    846.0
+                ],
+                [
+                    1078.0,
+                    867.0
+                ],
+                [
+                    1002.0,
+                    870.0
+                ]
+            ]
+        },
+        {
+            "text": "ARUNPRABU",
+            "confidence": 0.983,
+            "box": [
+                [
+                    650.0,
+                    875.0
+                ],
+                [
+                    740.0,
+                    875.0
+                ],
+                [
+                    740.0,
+                    896.0
+                ],
+                [
+                    650.0,
+                    896.0
+                ]
+            ]
+        },
+        {
+            "text": "NOV",
+            "confidence": 0.948,
+            "box": [
+                [
+                    998.0,
+                    866.0
+                ],
+                [
+                    1079.0,
+                    866.0
+                ],
+                [
+                    1079.0,
+                    913.0
+                ],
+                [
+                    998.0,
+                    913.0
+                ]
+            ]
+        },
+        {
+            "text": "VIFAY ANTONT MUSICA",
+            "confidence": 0.905,
+            "box": [
+                [
+                    568.0,
+                    930.0
+                ],
+                [
+                    696.0,
+                    930.0
+                ],
+                [
+                    696.0,
+                    946.0
+                ],
+                [
+                    568.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    10.0,
+                    1065.0
+                ],
+                [
+                    163.0,
+                    1065.0
+                ],
+                [
+                    163.0,
+                    1086.0
+                ],
+                [
+                    10.0,
+                    1086.0
+                ]
+            ]
+        },
+        {
+            "text": "PILIPINCHU MANA FRIENDS NI",
+            "confidence": 0.945,
+            "box": [
+                [
+                    82.0,
+                    1250.0
+                ],
+                [
+                    627.0,
+                    1250.0
+                ],
+                [
+                    627.0,
+                    1279.0
+                ],
+                [
+                    82.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "PILIPINCHU RA EVENING VELDHAM",
+            "confidence": 0.961,
+            "box": [
+                [
+                    28.0,
+                    1293.0
+                ],
+                [
+                    676.0,
+                    1293.0
+                ],
+                [
+                    676.0,
+                    1327.0
+                ],
+                [
+                    28.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-11-10_15-37-02_UTC_5.jpg",
+    "combined_text": "sarcasm\nAn explosion occurred in a car near\nGate No. 1 of Red Fort Metro Station,\ntriggering a fire that damaged multiple\nvehicles; seven fire tenders and a Delhi\nPolice Special Cell team are on the\nspot, with further details awaited",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    481.0,
+                    845.0
+                ],
+                [
+                    595.0,
+                    845.0
+                ],
+                [
+                    595.0,
+                    868.0
+                ],
+                [
+                    481.0,
+                    868.0
+                ]
+            ]
+        },
+        {
+            "text": "An explosion occurred in a car near",
+            "confidence": 0.989,
+            "box": [
+                [
+                    80.0,
+                    900.0
+                ],
+                [
+                    1003.0,
+                    900.0
+                ],
+                [
+                    1003.0,
+                    949.0
+                ],
+                [
+                    80.0,
+                    949.0
+                ]
+            ]
+        },
+        {
+            "text": "Gate No. 1 of Red Fort Metro Station,",
+            "confidence": 0.97,
+            "box": [
+                [
+                    66.0,
+                    967.0
+                ],
+                [
+                    1011.0,
+                    970.0
+                ],
+                [
+                    1011.0,
+                    1015.0
+                ],
+                [
+                    66.0,
+                    1012.0
+                ]
+            ]
+        },
+        {
+            "text": "triggering a fire that damaged multiple",
+            "confidence": 0.982,
+            "box": [
+                [
+                    29.0,
+                    1036.0
+                ],
+                [
+                    1050.0,
+                    1033.0
+                ],
+                [
+                    1051.0,
+                    1087.0
+                ],
+                [
+                    30.0,
+                    1089.0
+                ]
+            ]
+        },
+        {
+            "text": "vehicles; seven fire tenders and a Delhi",
+            "confidence": 0.979,
+            "box": [
+                [
+                    35.0,
+                    1105.0
+                ],
+                [
+                    1045.0,
+                    1103.0
+                ],
+                [
+                    1045.0,
+                    1148.0
+                ],
+                [
+                    35.0,
+                    1150.0
+                ]
+            ]
+        },
+        {
+            "text": "Police Special Cell team are on the",
+            "confidence": 0.993,
+            "box": [
+                [
+                    86.0,
+                    1171.0
+                ],
+                [
+                    994.0,
+                    1171.0
+                ],
+                [
+                    994.0,
+                    1218.0
+                ],
+                [
+                    86.0,
+                    1218.0
+                ]
+            ]
+        },
+        {
+            "text": "spot, with further details awaited",
+            "confidence": 1.0,
+            "box": [
+                [
+                    105.0,
+                    1242.0
+                ],
+                [
+                    974.0,
+                    1238.0
+                ],
+                [
+                    975.0,
+                    1286.0
+                ],
+                [
+                    106.0,
+                    1290.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-10-08_13-23-14_UTC.jpg",
+    "combined_text": "EM AYINDI ANNAA\nTELUGU MEMES GURU\nOSTHUNARU....DUCK OUT AVUTUNARU..\nPOTHUNARU...",
+    "detailed": [
+        {
+            "text": "EM AYINDI ANNAA",
+            "confidence": 0.953,
+            "box": [
+                [
+                    297.0,
+                    296.0
+                ],
+                [
+                    845.0,
+                    296.0
+                ],
+                [
+                    845.0,
+                    343.0
+                ],
+                [
+                    297.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.858,
+            "box": [
+                [
+                    912.0,
+                    509.0
+                ],
+                [
+                    1028.0,
+                    509.0
+                ],
+                [
+                    1028.0,
+                    529.0
+                ],
+                [
+                    912.0,
+                    529.0
+                ]
+            ]
+        },
+        {
+            "text": "OSTHUNARU....DUCK OUT AVUTUNARU..",
+            "confidence": 0.93,
+            "box": [
+                [
+                    55.0,
+                    673.0
+                ],
+                [
+                    1007.0,
+                    671.0
+                ],
+                [
+                    1007.0,
+                    712.0
+                ],
+                [
+                    55.0,
+                    713.0
+                ]
+            ]
+        },
+        {
+            "text": "POTHUNARU...",
+            "confidence": 0.99,
+            "box": [
+                [
+                    361.0,
+                    984.0
+                ],
+                [
+                    935.0,
+                    990.0
+                ],
+                [
+                    934.0,
+                    1062.0
+                ],
+                [
+                    360.0,
+                    1056.0
+                ]
+            ]
+        }
+    ]
+}

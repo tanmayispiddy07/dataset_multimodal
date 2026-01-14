@@ -1,0 +1,358 @@
+{
+    "image_name": "2025-09-17_15-12-49_UTC.jpg",
+    "combined_text": "CHEATION\nCRTATION\nA mothers courage is stronger than mang battles\n-Narendra Modi\nNarendra Modi\nMAA VANDE\nTHE ANTHEM OF A MOTHER\nTHE ANTHEM OFA MOTHER\nPANTHEKRHARCH\nKEANTRI XUHAR-CH\nTSCY\nTHE BIOPIC OF PM NARENDRA MODI\nIS TITLED AS MAA VANDE\nADDICTEDTOMEMES\nNAKU POLITICAL LEADERS BIOPICS\nANTE CHALA INTERESTRA",
+    "detailed": [
+        {
+            "text": "CHEATION",
+            "confidence": 0.867,
+            "box": [
+                [
+                    19.0,
+                    60.0
+                ],
+                [
+                    62.0,
+                    60.0
+                ],
+                [
+                    62.0,
+                    72.0
+                ],
+                [
+                    19.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "CRTATION",
+            "confidence": 0.878,
+            "box": [
+                [
+                    559.0,
+                    60.0
+                ],
+                [
+                    602.0,
+                    60.0
+                ],
+                [
+                    602.0,
+                    72.0
+                ],
+                [
+                    559.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "A mothers courage is stronger than mang battles",
+            "confidence": 0.939,
+            "box": [
+                [
+                    614.0,
+                    456.0
+                ],
+                [
+                    988.0,
+                    459.0
+                ],
+                [
+                    988.0,
+                    488.0
+                ],
+                [
+                    614.0,
+                    486.0
+                ]
+            ]
+        },
+        {
+            "text": "-Narendra Modi",
+            "confidence": 0.904,
+            "box": [
+                [
+                    315.0,
+                    490.0
+                ],
+                [
+                    440.0,
+                    490.0
+                ],
+                [
+                    440.0,
+                    515.0
+                ],
+                [
+                    315.0,
+                    515.0
+                ]
+            ]
+        },
+        {
+            "text": "Narendra Modi",
+            "confidence": 0.928,
+            "box": [
+                [
+                    875.0,
+                    494.0
+                ],
+                [
+                    984.0,
+                    494.0
+                ],
+                [
+                    984.0,
+                    514.0
+                ],
+                [
+                    875.0,
+                    514.0
+                ]
+            ]
+        },
+        {
+            "text": "MAA VANDE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    671.0,
+                    535.0
+                ],
+                [
+                    940.0,
+                    535.0
+                ],
+                [
+                    940.0,
+                    601.0
+                ],
+                [
+                    671.0,
+                    601.0
+                ]
+            ]
+        },
+        {
+            "text": "THE ANTHEM OF A MOTHER",
+            "confidence": 0.897,
+            "box": [
+                [
+                    190.0,
+                    601.0
+                ],
+                [
+                    355.0,
+                    601.0
+                ],
+                [
+                    355.0,
+                    621.0
+                ],
+                [
+                    190.0,
+                    621.0
+                ]
+            ]
+        },
+        {
+            "text": "THE ANTHEM OFA MOTHER",
+            "confidence": 0.874,
+            "box": [
+                [
+                    730.0,
+                    600.0
+                ],
+                [
+                    902.0,
+                    601.0
+                ],
+                [
+                    902.0,
+                    621.0
+                ],
+                [
+                    730.0,
+                    620.0
+                ]
+            ]
+        },
+        {
+            "text": "PANTHEKRHARCH",
+            "confidence": 0.747,
+            "box": [
+                [
+                    212.0,
+                    622.0
+                ],
+                [
+                    296.0,
+                    622.0
+                ],
+                [
+                    296.0,
+                    634.0
+                ],
+                [
+                    212.0,
+                    634.0
+                ]
+            ]
+        },
+        {
+            "text": "KEANTRI XUHAR-CH",
+            "confidence": 0.841,
+            "box": [
+                [
+                    747.0,
+                    622.0
+                ],
+                [
+                    834.0,
+                    622.0
+                ],
+                [
+                    834.0,
+                    634.0
+                ],
+                [
+                    747.0,
+                    634.0
+                ]
+            ]
+        },
+        {
+            "text": "TSCY",
+            "confidence": 0.514,
+            "box": [
+                [
+                    355.0,
+                    640.0
+                ],
+                [
+                    397.0,
+                    640.0
+                ],
+                [
+                    397.0,
+                    652.0
+                ],
+                [
+                    355.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "THE BIOPIC OF PM NARENDRA MODI",
+            "confidence": 0.938,
+            "box": [
+                [
+                    80.0,
+                    715.0
+                ],
+                [
+                    1002.0,
+                    714.0
+                ],
+                [
+                    1002.0,
+                    762.0
+                ],
+                [
+                    80.0,
+                    763.0
+                ]
+            ]
+        },
+        {
+            "text": "IS TITLED AS MAA VANDE",
+            "confidence": 0.99,
+            "box": [
+                [
+                    217.0,
+                    758.0
+                ],
+                [
+                    860.0,
+                    759.0
+                ],
+                [
+                    860.0,
+                    804.0
+                ],
+                [
+                    217.0,
+                    803.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    936.0,
+                    888.0
+                ],
+                [
+                    1072.0,
+                    888.0
+                ],
+                [
+                    1072.0,
+                    904.0
+                ],
+                [
+                    936.0,
+                    904.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU POLITICAL LEADERS BIOPICS",
+            "confidence": 0.956,
+            "box": [
+                [
+                    180.0,
+                    1160.0
+                ],
+                [
+                    940.0,
+                    1160.0
+                ],
+                [
+                    940.0,
+                    1200.0
+                ],
+                [
+                    180.0,
+                    1200.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTE CHALA INTERESTRA",
+            "confidence": 0.946,
+            "box": [
+                [
+                    275.0,
+                    1216.0
+                ],
+                [
+                    844.0,
+                    1216.0
+                ],
+                [
+                    844.0,
+                    1255.0
+                ],
+                [
+                    275.0,
+                    1255.0
+                ]
+            ]
+        }
+    ]
+}

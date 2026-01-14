@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-11-21_16-01-43_UTC.jpg",
+    "combined_text": "VENU UDUGULA WHO IS THE\nPRODUCER OF RAJU WEDS RAMBAI.\nHE ALWAYS ENCOURAGES NEW\nTALENTS AND GOOD CONTENT FILMS\nWeds\nADDICTEDTOMEMES\nTHANK YOU\nTHANK YOU\nEM CHEPAGALAM INTHA KANNA",
+    "detailed": [
+        {
+            "text": "VENU UDUGULA WHO IS THE",
+            "confidence": 0.976,
+            "box": [
+                [
+                    208.0,
+                    31.0
+                ],
+                [
+                    885.0,
+                    31.0
+                ],
+                [
+                    885.0,
+                    68.0
+                ],
+                [
+                    208.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCER OF RAJU WEDS RAMBAI.",
+            "confidence": 0.955,
+            "box": [
+                [
+                    113.0,
+                    86.0
+                ],
+                [
+                    976.0,
+                    88.0
+                ],
+                [
+                    976.0,
+                    131.0
+                ],
+                [
+                    112.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "HE ALWAYS ENCOURAGES NEW",
+            "confidence": 0.953,
+            "box": [
+                [
+                    180.0,
+                    148.0
+                ],
+                [
+                    911.0,
+                    148.0
+                ],
+                [
+                    911.0,
+                    190.0
+                ],
+                [
+                    180.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "TALENTS AND GOOD CONTENT FILMS",
+            "confidence": 0.941,
+            "box": [
+                [
+                    100.0,
+                    206.0
+                ],
+                [
+                    989.0,
+                    208.0
+                ],
+                [
+                    989.0,
+                    251.0
+                ],
+                [
+                    100.0,
+                    249.0
+                ]
+            ]
+        },
+        {
+            "text": "Weds",
+            "confidence": 0.89,
+            "box": [
+                [
+                    804.0,
+                    359.0
+                ],
+                [
+                    859.0,
+                    351.0
+                ],
+                [
+                    864.0,
+                    379.0
+                ],
+                [
+                    808.0,
+                    387.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    39.0,
+                    1006.0
+                ],
+                [
+                    191.0,
+                    1006.0
+                ],
+                [
+                    191.0,
+                    1027.0
+                ],
+                [
+                    39.0,
+                    1027.0
+                ]
+            ]
+        },
+        {
+            "text": "THANK YOU",
+            "confidence": 0.973,
+            "box": [
+                [
+                    214.0,
+                    1200.0
+                ],
+                [
+                    439.0,
+                    1200.0
+                ],
+                [
+                    439.0,
+                    1239.0
+                ],
+                [
+                    214.0,
+                    1239.0
+                ]
+            ]
+        },
+        {
+            "text": "THANK YOU",
+            "confidence": 0.959,
+            "box": [
+                [
+                    215.0,
+                    1247.0
+                ],
+                [
+                    437.0,
+                    1247.0
+                ],
+                [
+                    437.0,
+                    1282.0
+                ],
+                [
+                    215.0,
+                    1282.0
+                ]
+            ]
+        },
+        {
+            "text": "EM CHEPAGALAM INTHA KANNA",
+            "confidence": 0.963,
+            "box": [
+                [
+                    22.0,
+                    1293.0
+                ],
+                [
+                    620.0,
+                    1293.0
+                ],
+                [
+                    620.0,
+                    1327.0
+                ],
+                [
+                    22.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

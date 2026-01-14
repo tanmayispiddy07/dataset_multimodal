@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-20_10-32-03_UTC.jpg",
+    "combined_text": "souree:@aman4jayaswal\nsarcasm\nHistoric: Ayodhya glows with\ndivinity as the final Kalash\nis placed",
+    "detailed": [
+        {
+            "text": "souree:@aman4jayaswal",
+            "confidence": 0.899,
+            "box": [
+                [
+                    424.0,
+                    22.0
+                ],
+                [
+                    629.0,
+                    20.0
+                ],
+                [
+                    629.0,
+                    39.0
+                ],
+                [
+                    424.0,
+                    41.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    275.0,
+                    625.0
+                ],
+                [
+                    359.0,
+                    625.0
+                ],
+                [
+                    359.0,
+                    641.0
+                ],
+                [
+                    275.0,
+                    641.0
+                ]
+            ]
+        },
+        {
+            "text": "Historic: Ayodhya glows with",
+            "confidence": 0.977,
+            "box": [
+                [
+                    58.0,
+                    649.0
+                ],
+                [
+                    579.0,
+                    650.0
+                ],
+                [
+                    579.0,
+                    688.0
+                ],
+                [
+                    58.0,
+                    687.0
+                ]
+            ]
+        },
+        {
+            "text": "divinity as the final Kalash",
+            "confidence": 0.976,
+            "box": [
+                [
+                    90.0,
+                    697.0
+                ],
+                [
+                    559.0,
+                    695.0
+                ],
+                [
+                    559.0,
+                    732.0
+                ],
+                [
+                    90.0,
+                    734.0
+                ]
+            ]
+        },
+        {
+            "text": "is placed",
+            "confidence": 0.956,
+            "box": [
+                [
+                    189.0,
+                    743.0
+                ],
+                [
+                    354.0,
+                    743.0
+                ],
+                [
+                    354.0,
+                    782.0
+                ],
+                [
+                    189.0,
+                    782.0
+                ]
+            ]
+        }
+    ]
+}

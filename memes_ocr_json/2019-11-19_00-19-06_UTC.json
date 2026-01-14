@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-11-19_00-19-06_UTC.jpg",
+    "combined_text": "Me:Amma,can we have bubble\ntea?\nAmma:We have bubble tea at\nhome.\nBubble tea at home:",
+    "detailed": [
+        {
+            "text": "Me:Amma,can we have bubble",
+            "confidence": 0.939,
+            "box": [
+                [
+                    42.0,
+                    33.0
+                ],
+                [
+                    829.0,
+                    35.0
+                ],
+                [
+                    829.0,
+                    84.0
+                ],
+                [
+                    42.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "tea?",
+            "confidence": 0.996,
+            "box": [
+                [
+                    372.0,
+                    94.0
+                ],
+                [
+                    494.0,
+                    91.0
+                ],
+                [
+                    495.0,
+                    147.0
+                ],
+                [
+                    373.0,
+                    150.0
+                ]
+            ]
+        },
+        {
+            "text": "Amma:We have bubble tea at",
+            "confidence": 0.947,
+            "box": [
+                [
+                    65.0,
+                    161.0
+                ],
+                [
+                    808.0,
+                    161.0
+                ],
+                [
+                    808.0,
+                    206.0
+                ],
+                [
+                    65.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "home.",
+            "confidence": 0.996,
+            "box": [
+                [
+                    352.0,
+                    218.0
+                ],
+                [
+                    518.0,
+                    221.0
+                ],
+                [
+                    517.0,
+                    274.0
+                ],
+                [
+                    351.0,
+                    272.0
+                ]
+            ]
+        },
+        {
+            "text": "Bubble tea at home:",
+            "confidence": 0.954,
+            "box": [
+                [
+                    186.0,
+                    347.0
+                ],
+                [
+                    684.0,
+                    349.0
+                ],
+                [
+                    684.0,
+                    394.0
+                ],
+                [
+                    186.0,
+                    392.0
+                ]
+            ]
+        }
+    ]
+}

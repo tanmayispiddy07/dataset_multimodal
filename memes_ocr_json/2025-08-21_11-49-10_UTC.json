@@ -1,0 +1,710 @@
+{
+    "image_name": "2025-08-21_11-49-10_UTC.jpg",
+    "combined_text": "POSTIVE REVIEWS EVERYWHERE FOR\nPARADHA PREMIERES\nMOVIE GRAND RELEASING TOMMOROW\nUNANIMOUS\nNANDA\nRESPONSE FROM\nSPECIAL PREMIERES\nADDICTEDTOMEMES\nLets OTT xCINEMAO\n@LetsOTTxCinema\n#Paradha presents a fresh concept from\n#PraveenKandregula.packed with engaging and\nintriguing moments in both halves.\n#Anupama shines as Subbu.One of her career\nbest performances.You willclapwhiste and enjoy\nthe whole film.#DarshanaRajendran and\n#Sangeetha bring charm and energy with the fun\nmoments.\nGood One to enjoy in theatres this weekend\n3/5\nPARADHA\nBheeshma Talks \nPARADHA\n@BheeshmaTalks\nRELEASING\n#Paradha-A decent,watchable film powered by\nTOMORROW\nterrific performances from #Anupama,\n#DarshanaRajendran&#Sangeetha\nCHALUCHALUE MATRAM\nCHALU PADHANDI REPU\nMOVIE KIVELDHAM",
+    "detailed": [
+        {
+            "text": "POSTIVE REVIEWS EVERYWHERE FOR",
+            "confidence": 0.961,
+            "box": [
+                [
+                    188.0,
+                    14.0
+                ],
+                [
+                    930.0,
+                    15.0
+                ],
+                [
+                    929.0,
+                    53.0
+                ],
+                [
+                    188.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "PARADHA PREMIERES",
+            "confidence": 0.98,
+            "box": [
+                [
+                    338.0,
+                    66.0
+                ],
+                [
+                    772.0,
+                    66.0
+                ],
+                [
+                    772.0,
+                    103.0
+                ],
+                [
+                    338.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE GRAND RELEASING TOMMOROW",
+            "confidence": 0.961,
+            "box": [
+                [
+                    149.0,
+                    116.0
+                ],
+                [
+                    959.0,
+                    116.0
+                ],
+                [
+                    959.0,
+                    153.0
+                ],
+                [
+                    149.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "UNANIMOUS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    699.0,
+                    188.0
+                ],
+                [
+                    1039.0,
+                    188.0
+                ],
+                [
+                    1039.0,
+                    252.0
+                ],
+                [
+                    699.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "text": "NANDA",
+            "confidence": 0.986,
+            "box": [
+                [
+                    1.0,
+                    219.0
+                ],
+                [
+                    39.0,
+                    219.0
+                ],
+                [
+                    39.0,
+                    240.0
+                ],
+                [
+                    1.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "RESPONSE FROM",
+            "confidence": 0.958,
+            "box": [
+                [
+                    701.0,
+                    256.0
+                ],
+                [
+                    1039.0,
+                    259.0
+                ],
+                [
+                    1039.0,
+                    303.0
+                ],
+                [
+                    700.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "SPECIAL PREMIERES",
+            "confidence": 0.974,
+            "box": [
+                [
+                    698.0,
+                    305.0
+                ],
+                [
+                    1042.0,
+                    308.0
+                ],
+                [
+                    1042.0,
+                    347.0
+                ],
+                [
+                    697.0,
+                    344.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    555.0,
+                    357.0
+                ],
+                [
+                    686.0,
+                    357.0
+                ],
+                [
+                    686.0,
+                    374.0
+                ],
+                [
+                    555.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "Lets OTT xCINEMAO",
+            "confidence": 0.913,
+            "box": [
+                [
+                    751.0,
+                    385.0
+                ],
+                [
+                    883.0,
+                    385.0
+                ],
+                [
+                    883.0,
+                    406.0
+                ],
+                [
+                    751.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "@LetsOTTxCinema",
+            "confidence": 0.962,
+            "box": [
+                [
+                    754.0,
+                    403.0
+                ],
+                [
+                    865.0,
+                    403.0
+                ],
+                [
+                    865.0,
+                    420.0
+                ],
+                [
+                    754.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "#Paradha presents a fresh concept from",
+            "confidence": 0.966,
+            "box": [
+                [
+                    707.0,
+                    440.0
+                ],
+                [
+                    969.0,
+                    440.0
+                ],
+                [
+                    969.0,
+                    461.0
+                ],
+                [
+                    707.0,
+                    461.0
+                ]
+            ]
+        },
+        {
+            "text": "#PraveenKandregula.packed with engaging and",
+            "confidence": 0.95,
+            "box": [
+                [
+                    707.0,
+                    457.0
+                ],
+                [
+                    1018.0,
+                    459.0
+                ],
+                [
+                    1018.0,
+                    481.0
+                ],
+                [
+                    707.0,
+                    479.0
+                ]
+            ]
+        },
+        {
+            "text": "intriguing moments in both halves.",
+            "confidence": 0.962,
+            "box": [
+                [
+                    707.0,
+                    479.0
+                ],
+                [
+                    930.0,
+                    479.0
+                ],
+                [
+                    930.0,
+                    500.0
+                ],
+                [
+                    707.0,
+                    500.0
+                ]
+            ]
+        },
+        {
+            "text": "#Anupama shines as Subbu.One of her career",
+            "confidence": 0.956,
+            "box": [
+                [
+                    707.0,
+                    504.0
+                ],
+                [
+                    1004.0,
+                    506.0
+                ],
+                [
+                    1004.0,
+                    528.0
+                ],
+                [
+                    707.0,
+                    527.0
+                ]
+            ]
+        },
+        {
+            "text": "best performances.You willclapwhiste and enjoy",
+            "confidence": 0.912,
+            "box": [
+                [
+                    707.0,
+                    527.0
+                ],
+                [
+                    1032.0,
+                    527.0
+                ],
+                [
+                    1032.0,
+                    548.0
+                ],
+                [
+                    707.0,
+                    548.0
+                ]
+            ]
+        },
+        {
+            "text": "the whole film.#DarshanaRajendran and",
+            "confidence": 0.974,
+            "box": [
+                [
+                    706.0,
+                    545.0
+                ],
+                [
+                    973.0,
+                    545.0
+                ],
+                [
+                    973.0,
+                    566.0
+                ],
+                [
+                    706.0,
+                    566.0
+                ]
+            ]
+        },
+        {
+            "text": "#Sangeetha bring charm and energy with the fun",
+            "confidence": 0.966,
+            "box": [
+                [
+                    707.0,
+                    564.0
+                ],
+                [
+                    1021.0,
+                    564.0
+                ],
+                [
+                    1021.0,
+                    585.0
+                ],
+                [
+                    707.0,
+                    585.0
+                ]
+            ]
+        },
+        {
+            "text": "moments.",
+            "confidence": 0.991,
+            "box": [
+                [
+                    709.0,
+                    585.0
+                ],
+                [
+                    775.0,
+                    585.0
+                ],
+                [
+                    775.0,
+                    603.0
+                ],
+                [
+                    709.0,
+                    603.0
+                ]
+            ]
+        },
+        {
+            "text": "Good One to enjoy in theatres this weekend",
+            "confidence": 0.955,
+            "box": [
+                [
+                    706.0,
+                    608.0
+                ],
+                [
+                    984.0,
+                    608.0
+                ],
+                [
+                    984.0,
+                    629.0
+                ],
+                [
+                    706.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "3/5",
+            "confidence": 0.985,
+            "box": [
+                [
+                    706.0,
+                    630.0
+                ],
+                [
+                    758.0,
+                    630.0
+                ],
+                [
+                    758.0,
+                    652.0
+                ],
+                [
+                    706.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "PARADHA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    769.0,
+                    689.0
+                ],
+                [
+                    963.0,
+                    685.0
+                ],
+                [
+                    964.0,
+                    729.0
+                ],
+                [
+                    770.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "Bheeshma Talks ",
+            "confidence": 0.946,
+            "box": [
+                [
+                    702.0,
+                    815.0
+                ],
+                [
+                    853.0,
+                    814.0
+                ],
+                [
+                    854.0,
+                    836.0
+                ],
+                [
+                    702.0,
+                    838.0
+                ]
+            ]
+        },
+        {
+            "text": "PARADHA",
+            "confidence": 0.997,
+            "box": [
+                [
+                    184.0,
+                    840.0
+                ],
+                [
+                    388.0,
+                    840.0
+                ],
+                [
+                    388.0,
+                    892.0
+                ],
+                [
+                    184.0,
+                    892.0
+                ]
+            ]
+        },
+        {
+            "text": "@BheeshmaTalks",
+            "confidence": 0.973,
+            "box": [
+                [
+                    702.0,
+                    835.0
+                ],
+                [
+                    841.0,
+                    836.0
+                ],
+                [
+                    841.0,
+                    859.0
+                ],
+                [
+                    702.0,
+                    857.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING",
+            "confidence": 0.997,
+            "box": [
+                [
+                    492.0,
+                    892.0
+                ],
+                [
+                    608.0,
+                    892.0
+                ],
+                [
+                    608.0,
+                    918.0
+                ],
+                [
+                    492.0,
+                    918.0
+                ]
+            ]
+        },
+        {
+            "text": "#Paradha-A decent,watchable film powered by",
+            "confidence": 0.967,
+            "box": [
+                [
+                    647.0,
+                    891.0
+                ],
+                [
+                    1059.0,
+                    891.0
+                ],
+                [
+                    1059.0,
+                    912.0
+                ],
+                [
+                    647.0,
+                    912.0
+                ]
+            ]
+        },
+        {
+            "text": "TOMORROW",
+            "confidence": 0.994,
+            "box": [
+                [
+                    489.0,
+                    918.0
+                ],
+                [
+                    610.0,
+                    918.0
+                ],
+                [
+                    610.0,
+                    945.0
+                ],
+                [
+                    489.0,
+                    945.0
+                ]
+            ]
+        },
+        {
+            "text": "terrific performances from #Anupama,",
+            "confidence": 0.97,
+            "box": [
+                [
+                    643.0,
+                    913.0
+                ],
+                [
+                    975.0,
+                    914.0
+                ],
+                [
+                    974.0,
+                    939.0
+                ],
+                [
+                    643.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "#DarshanaRajendran&#Sangeetha",
+            "confidence": 0.997,
+            "box": [
+                [
+                    645.0,
+                    939.0
+                ],
+                [
+                    962.0,
+                    939.0
+                ],
+                [
+                    962.0,
+                    964.0
+                ],
+                [
+                    645.0,
+                    964.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALUCHALUE MATRAM",
+            "confidence": 0.967,
+            "box": [
+                [
+                    319.0,
+                    1194.0
+                ],
+                [
+                    807.0,
+                    1194.0
+                ],
+                [
+                    807.0,
+                    1228.0
+                ],
+                [
+                    319.0,
+                    1228.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALU PADHANDI REPU",
+            "confidence": 0.945,
+            "box": [
+                [
+                    336.0,
+                    1242.0
+                ],
+                [
+                    789.0,
+                    1242.0
+                ],
+                [
+                    789.0,
+                    1275.0
+                ],
+                [
+                    336.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE KIVELDHAM",
+            "confidence": 0.979,
+            "box": [
+                [
+                    371.0,
+                    1287.0
+                ],
+                [
+                    754.0,
+                    1284.0
+                ],
+                [
+                    754.0,
+                    1321.0
+                ],
+                [
+                    371.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

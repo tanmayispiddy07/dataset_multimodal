@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-04_14-06-39_UTC.jpg",
+    "combined_text": "YEMI MAYA PREMALONA MUSIC VIDEO\nEXCELLENT LOCATIONS AND MUSIC IS\nSOULOF THE SONG\nADDICTEDTOMEMES\nMEWHILELISTENINGSONG",
+    "detailed": [
+        {
+            "text": "YEMI MAYA PREMALONA MUSIC VIDEO",
+            "confidence": 0.95,
+            "box": [
+                [
+                    135.0,
+                    29.0
+                ],
+                [
+                    967.0,
+                    29.0
+                ],
+                [
+                    967.0,
+                    65.0
+                ],
+                [
+                    135.0,
+                    65.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCELLENT LOCATIONS AND MUSIC IS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    150.0,
+                    84.0
+                ],
+                [
+                    963.0,
+                    84.0
+                ],
+                [
+                    963.0,
+                    121.0
+                ],
+                [
+                    150.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "SOULOF THE SONG",
+            "confidence": 0.963,
+            "box": [
+                [
+                    344.0,
+                    136.0
+                ],
+                [
+                    767.0,
+                    136.0
+                ],
+                [
+                    767.0,
+                    177.0
+                ],
+                [
+                    344.0,
+                    177.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    495.0,
+                    645.0
+                ],
+                [
+                    632.0,
+                    645.0
+                ],
+                [
+                    632.0,
+                    665.0
+                ],
+                [
+                    495.0,
+                    665.0
+                ]
+            ]
+        },
+        {
+            "text": "MEWHILELISTENINGSONG",
+            "confidence": 0.995,
+            "box": [
+                [
+                    104.0,
+                    1230.0
+                ],
+                [
+                    960.0,
+                    1231.0
+                ],
+                [
+                    960.0,
+                    1290.0
+                ],
+                [
+                    104.0,
+                    1288.0
+                ]
+            ]
+        }
+    ]
+}

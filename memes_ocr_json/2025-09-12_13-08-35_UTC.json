@@ -1,0 +1,358 @@
+{
+    "image_name": "2025-09-12_13-08-35_UTC.jpg",
+    "combined_text": "KISHKINDHAPURI ONE OF THE BEST\nHORROR THRILLER FROM TOLLYWOOD\nsreenivasbellamkonda My dear cinema lovers\ntoday i understood that you are the only best\npeople in this world.from now on i will be only\nworking more harder and harder for your love.. so\nglad with the response you giving for\n#kishkindhapuri from yesterday premieres ..\n#purelove can't imagine what would they do to\ngood cinema if you guys aren't there\n#kishkindhapurionsept12th less\nADDICTEDTOMEMES\nOKATE MATRAM NIJAM ILANTI CONTENT UNNA\nMALAYALAM NUNCHI KANIOTHERS ACTORS NUNCHI\nVASTHE MANA TFI AUDIENCE BLOCKBUSTER CHESTHARU\nMANAM IPUDU ENCOURAGE CHEYALIE MOVIE NI",
+    "detailed": [
+        {
+            "text": "KISHKINDHAPURI ONE OF THE BEST",
+            "confidence": 0.949,
+            "box": [
+                [
+                    101.0,
+                    52.0
+                ],
+                [
+                    962.0,
+                    53.0
+                ],
+                [
+                    962.0,
+                    95.0
+                ],
+                [
+                    101.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "HORROR THRILLER FROM TOLLYWOOD",
+            "confidence": 0.963,
+            "box": [
+                [
+                    52.0,
+                    114.0
+                ],
+                [
+                    994.0,
+                    114.0
+                ],
+                [
+                    994.0,
+                    156.0
+                ],
+                [
+                    52.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "sreenivasbellamkonda My dear cinema lovers",
+            "confidence": 0.976,
+            "box": [
+                [
+                    509.0,
+                    249.0
+                ],
+                [
+                    1018.0,
+                    249.0
+                ],
+                [
+                    1018.0,
+                    274.0
+                ],
+                [
+                    509.0,
+                    274.0
+                ]
+            ]
+        },
+        {
+            "text": "today i understood that you are the only best",
+            "confidence": 0.965,
+            "box": [
+                [
+                    510.0,
+                    281.0
+                ],
+                [
+                    1005.0,
+                    281.0
+                ],
+                [
+                    1005.0,
+                    306.0
+                ],
+                [
+                    510.0,
+                    306.0
+                ]
+            ]
+        },
+        {
+            "text": "people in this world.from now on i will be only",
+            "confidence": 0.924,
+            "box": [
+                [
+                    508.0,
+                    311.0
+                ],
+                [
+                    1028.0,
+                    309.0
+                ],
+                [
+                    1028.0,
+                    340.0
+                ],
+                [
+                    508.0,
+                    341.0
+                ]
+            ]
+        },
+        {
+            "text": "working more harder and harder for your love.. so",
+            "confidence": 0.929,
+            "box": [
+                [
+                    509.0,
+                    341.0
+                ],
+                [
+                    1060.0,
+                    343.0
+                ],
+                [
+                    1060.0,
+                    372.0
+                ],
+                [
+                    509.0,
+                    370.0
+                ]
+            ]
+        },
+        {
+            "text": "glad with the response you giving for",
+            "confidence": 0.944,
+            "box": [
+                [
+                    508.0,
+                    373.0
+                ],
+                [
+                    918.0,
+                    373.0
+                ],
+                [
+                    918.0,
+                    402.0
+                ],
+                [
+                    508.0,
+                    402.0
+                ]
+            ]
+        },
+        {
+            "text": "#kishkindhapuri from yesterday premieres ..",
+            "confidence": 0.962,
+            "box": [
+                [
+                    509.0,
+                    404.0
+                ],
+                [
+                    996.0,
+                    407.0
+                ],
+                [
+                    996.0,
+                    433.0
+                ],
+                [
+                    509.0,
+                    430.0
+                ]
+            ]
+        },
+        {
+            "text": "#purelove can't imagine what would they do to",
+            "confidence": 0.953,
+            "box": [
+                [
+                    510.0,
+                    439.0
+                ],
+                [
+                    1028.0,
+                    439.0
+                ],
+                [
+                    1028.0,
+                    464.0
+                ],
+                [
+                    510.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "text": "good cinema if you guys aren't there",
+            "confidence": 0.962,
+            "box": [
+                [
+                    508.0,
+                    468.0
+                ],
+                [
+                    913.0,
+                    468.0
+                ],
+                [
+                    913.0,
+                    497.0
+                ],
+                [
+                    508.0,
+                    497.0
+                ]
+            ]
+        },
+        {
+            "text": "#kishkindhapurionsept12th less",
+            "confidence": 0.959,
+            "box": [
+                [
+                    506.0,
+                    497.0
+                ],
+                [
+                    863.0,
+                    499.0
+                ],
+                [
+                    863.0,
+                    529.0
+                ],
+                [
+                    506.0,
+                    528.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    395.0,
+                    944.0
+                ],
+                [
+                    547.0,
+                    944.0
+                ],
+                [
+                    547.0,
+                    961.0
+                ],
+                [
+                    395.0,
+                    961.0
+                ]
+            ]
+        },
+        {
+            "text": "OKATE MATRAM NIJAM ILANTI CONTENT UNNA",
+            "confidence": 0.953,
+            "box": [
+                [
+                    249.0,
+                    1187.0
+                ],
+                [
+                    955.0,
+                    1187.0
+                ],
+                [
+                    955.0,
+                    1216.0
+                ],
+                [
+                    249.0,
+                    1216.0
+                ]
+            ]
+        },
+        {
+            "text": "MALAYALAM NUNCHI KANIOTHERS ACTORS NUNCHI",
+            "confidence": 0.956,
+            "box": [
+                [
+                    212.0,
+                    1226.0
+                ],
+                [
+                    1000.0,
+                    1226.0
+                ],
+                [
+                    1000.0,
+                    1251.0
+                ],
+                [
+                    212.0,
+                    1251.0
+                ]
+            ]
+        },
+        {
+            "text": "VASTHE MANA TFI AUDIENCE BLOCKBUSTER CHESTHARU",
+            "confidence": 0.945,
+            "box": [
+                [
+                    187.0,
+                    1263.0
+                ],
+                [
+                    1028.0,
+                    1263.0
+                ],
+                [
+                    1028.0,
+                    1288.0
+                ],
+                [
+                    187.0,
+                    1288.0
+                ]
+            ]
+        },
+        {
+            "text": "MANAM IPUDU ENCOURAGE CHEYALIE MOVIE NI",
+            "confidence": 0.945,
+            "box": [
+                [
+                    242.0,
+                    1301.0
+                ],
+                [
+                    972.0,
+                    1301.0
+                ],
+                [
+                    972.0,
+                    1326.0
+                ],
+                [
+                    242.0,
+                    1326.0
+                ]
+            ]
+        }
+    ]
+}

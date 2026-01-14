@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-10-03_18-26-46_UTC_2.jpg",
+    "combined_text": "sarcasm\nWhen we see stumps like these.\nWe already know who's behind it",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    848.0,
+                    303.0
+                ],
+                [
+                    956.0,
+                    303.0
+                ],
+                [
+                    956.0,
+                    325.0
+                ],
+                [
+                    848.0,
+                    325.0
+                ]
+            ]
+        },
+        {
+            "text": "When we see stumps like these.",
+            "confidence": 0.986,
+            "box": [
+                [
+                    69.0,
+                    580.0
+                ],
+                [
+                    1010.0,
+                    582.0
+                ],
+                [
+                    1010.0,
+                    644.0
+                ],
+                [
+                    69.0,
+                    642.0
+                ]
+            ]
+        },
+        {
+            "text": "We already know who's behind it",
+            "confidence": 0.979,
+            "box": [
+                [
+                    46.0,
+                    1274.0
+                ],
+                [
+                    1035.0,
+                    1276.0
+                ],
+                [
+                    1035.0,
+                    1333.0
+                ],
+                [
+                    46.0,
+                    1332.0
+                ]
+            ]
+        }
+    ]
+}

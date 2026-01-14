@@ -1,0 +1,490 @@
+{
+    "image_name": "2025-12-20_16-18-54_UTC.jpg",
+    "combined_text": "RECENT THRILLER FILM MUKHYA GAMANIKA\nNOW STREAMING ON AHA\nYOU CAN WATCH IT WITHOUT SUBSCRIPTION\nahia\nSUSPENSE THRILLER\nSTREAMING NOW\naha\nWATCHWITHOUT SUBSCRIPTION\nVIRAN MUTTAMSETTY\nRAJASHEKAR&SAI KRISHNA\nVENU MURALIDHAR.V\nVEMU MURALI\nKIRAN VENNA SHIVA SARVA\nARICH\nTYERRAMPATI\nSURESHANSA\nROAKAND\nBN338S1000\nMDD8.70\nTHRILLER MOVIE NI SUBSCRIPTION\nLEKUNDA CHUSE CHANCE UNDI ANTE\nMOVIE LOVERS ANDHARU CHUDALI",
+    "detailed": [
+        {
+            "text": "RECENT THRILLER FILM MUKHYA GAMANIKA",
+            "confidence": 0.953,
+            "box": [
+                [
+                    123.0,
+                    50.0
+                ],
+                [
+                    979.0,
+                    50.0
+                ],
+                [
+                    979.0,
+                    82.0
+                ],
+                [
+                    123.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW STREAMING ON AHA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    288.0,
+                    99.0
+                ],
+                [
+                    805.0,
+                    99.0
+                ],
+                [
+                    805.0,
+                    131.0
+                ],
+                [
+                    288.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU CAN WATCH IT WITHOUT SUBSCRIPTION",
+            "confidence": 0.949,
+            "box": [
+                [
+                    119.0,
+                    147.0
+                ],
+                [
+                    987.0,
+                    147.0
+                ],
+                [
+                    987.0,
+                    183.0
+                ],
+                [
+                    119.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "ahia",
+            "confidence": 0.834,
+            "box": [
+                [
+                    877.0,
+                    237.0
+                ],
+                [
+                    992.0,
+                    237.0
+                ],
+                [
+                    992.0,
+                    304.0
+                ],
+                [
+                    877.0,
+                    304.0
+                ]
+            ]
+        },
+        {
+            "text": "SUSPENSE THRILLER",
+            "confidence": 0.969,
+            "box": [
+                [
+                    115.0,
+                    377.0
+                ],
+                [
+                    424.0,
+                    377.0
+                ],
+                [
+                    424.0,
+                    404.0
+                ],
+                [
+                    115.0,
+                    404.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMING NOW",
+            "confidence": 0.985,
+            "box": [
+                [
+                    43.0,
+                    410.0
+                ],
+                [
+                    493.0,
+                    412.0
+                ],
+                [
+                    493.0,
+                    460.0
+                ],
+                [
+                    43.0,
+                    457.0
+                ]
+            ]
+        },
+        {
+            "text": "aha",
+            "confidence": 0.934,
+            "box": [
+                [
+                    184.0,
+                    465.0
+                ],
+                [
+                    348.0,
+                    465.0
+                ],
+                [
+                    348.0,
+                    558.0
+                ],
+                [
+                    184.0,
+                    558.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHWITHOUT SUBSCRIPTION",
+            "confidence": 0.978,
+            "box": [
+                [
+                    59.0,
+                    558.0
+                ],
+                [
+                    481.0,
+                    558.0
+                ],
+                [
+                    481.0,
+                    586.0
+                ],
+                [
+                    59.0,
+                    586.0
+                ]
+            ]
+        },
+        {
+            "text": "VIRAN MUTTAMSETTY",
+            "confidence": 0.969,
+            "box": [
+                [
+                    150.0,
+                    629.0
+                ],
+                [
+                    244.0,
+                    629.0
+                ],
+                [
+                    244.0,
+                    644.0
+                ],
+                [
+                    150.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "RAJASHEKAR&SAI KRISHNA",
+            "confidence": 0.971,
+            "box": [
+                [
+                    73.0,
+                    699.0
+                ],
+                [
+                    208.0,
+                    700.0
+                ],
+                [
+                    208.0,
+                    716.0
+                ],
+                [
+                    73.0,
+                    715.0
+                ]
+            ]
+        },
+        {
+            "text": "VENU MURALIDHAR.V",
+            "confidence": 0.924,
+            "box": [
+                [
+                    363.0,
+                    700.0
+                ],
+                [
+                    467.0,
+                    699.0
+                ],
+                [
+                    467.0,
+                    715.0
+                ],
+                [
+                    363.0,
+                    716.0
+                ]
+            ]
+        },
+        {
+            "text": "VEMU MURALI",
+            "confidence": 0.903,
+            "box": [
+                [
+                    108.0,
+                    720.0
+                ],
+                [
+                    159.0,
+                    720.0
+                ],
+                [
+                    159.0,
+                    732.0
+                ],
+                [
+                    108.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "KIRAN VENNA SHIVA SARVA",
+            "confidence": 0.895,
+            "box": [
+                [
+                    190.0,
+                    720.0
+                ],
+                [
+                    289.0,
+                    719.0
+                ],
+                [
+                    289.0,
+                    732.0
+                ],
+                [
+                    190.0,
+                    733.0
+                ]
+            ]
+        },
+        {
+            "text": "ARICH",
+            "confidence": 0.869,
+            "box": [
+                [
+                    308.0,
+                    721.0
+                ],
+                [
+                    331.0,
+                    721.0
+                ],
+                [
+                    331.0,
+                    731.0
+                ],
+                [
+                    308.0,
+                    731.0
+                ]
+            ]
+        },
+        {
+            "text": "TYERRAMPATI",
+            "confidence": 0.949,
+            "box": [
+                [
+                    385.0,
+                    720.0
+                ],
+                [
+                    435.0,
+                    720.0
+                ],
+                [
+                    435.0,
+                    732.0
+                ],
+                [
+                    385.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "SURESHANSA",
+            "confidence": 0.888,
+            "box": [
+                [
+                    142.0,
+                    741.0
+                ],
+                [
+                    184.0,
+                    741.0
+                ],
+                [
+                    184.0,
+                    753.0
+                ],
+                [
+                    142.0,
+                    753.0
+                ]
+            ]
+        },
+        {
+            "text": "ROAKAND",
+            "confidence": 0.869,
+            "box": [
+                [
+                    359.0,
+                    740.0
+                ],
+                [
+                    393.0,
+                    740.0
+                ],
+                [
+                    393.0,
+                    753.0
+                ],
+                [
+                    359.0,
+                    753.0
+                ]
+            ]
+        },
+        {
+            "text": "BN338S1000",
+            "confidence": 0.63,
+            "box": [
+                [
+                    174.0,
+                    753.0
+                ],
+                [
+                    224.0,
+                    753.0
+                ],
+                [
+                    224.0,
+                    765.0
+                ],
+                [
+                    174.0,
+                    765.0
+                ]
+            ]
+        },
+        {
+            "text": "MDD8.70",
+            "confidence": 0.622,
+            "box": [
+                [
+                    15.0,
+                    781.0
+                ],
+                [
+                    107.0,
+                    781.0
+                ],
+                [
+                    107.0,
+                    806.0
+                ],
+                [
+                    15.0,
+                    806.0
+                ]
+            ]
+        },
+        {
+            "text": "THRILLER MOVIE NI SUBSCRIPTION",
+            "confidence": 0.956,
+            "box": [
+                [
+                    374.0,
+                    1135.0
+                ],
+                [
+                    990.0,
+                    1135.0
+                ],
+                [
+                    990.0,
+                    1167.0
+                ],
+                [
+                    374.0,
+                    1167.0
+                ]
+            ]
+        },
+        {
+            "text": "LEKUNDA CHUSE CHANCE UNDI ANTE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    351.0,
+                    1179.0
+                ],
+                [
+                    1011.0,
+                    1179.0
+                ],
+                [
+                    1011.0,
+                    1211.0
+                ],
+                [
+                    351.0,
+                    1211.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE LOVERS ANDHARU CHUDALI",
+            "confidence": 0.955,
+            "box": [
+                [
+                    367.0,
+                    1225.0
+                ],
+                [
+                    995.0,
+                    1225.0
+                ],
+                [
+                    995.0,
+                    1253.0
+                ],
+                [
+                    367.0,
+                    1253.0
+                ]
+            ]
+        }
+    ]
+}

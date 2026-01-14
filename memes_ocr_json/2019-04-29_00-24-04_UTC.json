@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-04-29_00-24-04_UTC.jpg",
+    "combined_text": "ROSESARERED\nVIOLETS ARE BLUE\nYOU HAVE AN ARRANGED\nMARRIAGE WAITING FOR YOU",
+    "detailed": [
+        {
+            "text": "ROSESARERED",
+            "confidence": 0.986,
+            "box": [
+                [
+                    71.0,
+                    24.0
+                ],
+                [
+                    240.0,
+                    24.0
+                ],
+                [
+                    240.0,
+                    55.0
+                ],
+                [
+                    71.0,
+                    55.0
+                ]
+            ]
+        },
+        {
+            "text": "VIOLETS ARE BLUE",
+            "confidence": 0.929,
+            "box": [
+                [
+                    63.0,
+                    58.0
+                ],
+                [
+                    254.0,
+                    58.0
+                ],
+                [
+                    254.0,
+                    86.0
+                ],
+                [
+                    63.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU HAVE AN ARRANGED",
+            "confidence": 0.945,
+            "box": [
+                [
+                    48.0,
+                    257.0
+                ],
+                [
+                    286.0,
+                    255.0
+                ],
+                [
+                    286.0,
+                    283.0
+                ],
+                [
+                    48.0,
+                    284.0
+                ]
+            ]
+        },
+        {
+            "text": "MARRIAGE WAITING FOR YOU",
+            "confidence": 0.948,
+            "box": [
+                [
+                    26.0,
+                    287.0
+                ],
+                [
+                    309.0,
+                    287.0
+                ],
+                [
+                    309.0,
+                    315.0
+                ],
+                [
+                    26.0,
+                    315.0
+                ]
+            ]
+        }
+    ]
+}

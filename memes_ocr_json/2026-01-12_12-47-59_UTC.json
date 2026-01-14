@@ -1,0 +1,94 @@
+{
+    "image_name": "2026-01-12_12-47-59_UTC.jpg",
+    "combined_text": "ANDHRA PRADESH GOVT IS BUILDING\nSR.NTR STATUE IN\nAMARAVATHI WITH\nA BUDGET OF 175O CRORES",
+    "detailed": [
+        {
+            "text": "ANDHRA PRADESH GOVT IS BUILDING",
+            "confidence": 0.94,
+            "box": [
+                [
+                    102.0,
+                    75.0
+                ],
+                [
+                    1022.0,
+                    75.0
+                ],
+                [
+                    1022.0,
+                    114.0
+                ],
+                [
+                    102.0,
+                    114.0
+                ]
+            ]
+        },
+        {
+            "text": "SR.NTR STATUE IN",
+            "confidence": 0.969,
+            "box": [
+                [
+                    106.0,
+                    137.0
+                ],
+                [
+                    550.0,
+                    134.0
+                ],
+                [
+                    551.0,
+                    173.0
+                ],
+                [
+                    106.0,
+                    175.0
+                ]
+            ]
+        },
+        {
+            "text": "AMARAVATHI WITH",
+            "confidence": 0.969,
+            "box": [
+                [
+                    544.0,
+                    132.0
+                ],
+                [
+                    1017.0,
+                    136.0
+                ],
+                [
+                    1017.0,
+                    178.0
+                ],
+                [
+                    543.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "A BUDGET OF 175O CRORES",
+            "confidence": 0.939,
+            "box": [
+                [
+                    219.0,
+                    192.0
+                ],
+                [
+                    888.0,
+                    195.0
+                ],
+                [
+                    888.0,
+                    238.0
+                ],
+                [
+                    219.0,
+                    235.0
+                ]
+            ]
+        }
+    ]
+}

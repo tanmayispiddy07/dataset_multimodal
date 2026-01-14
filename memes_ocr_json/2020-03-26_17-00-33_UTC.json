@@ -1,0 +1,72 @@
+{
+    "image_name": "2020-03-26_17-00-33_UTC.jpg",
+    "combined_text": "me after my moms whatsapp\ngroups say they found a new\n\"natural remedy\" for corona",
+    "detailed": [
+        {
+            "text": "me after my moms whatsapp",
+            "confidence": 1.0,
+            "box": [
+                [
+                    65.0,
+                    18.0
+                ],
+                [
+                    959.0,
+                    25.0
+                ],
+                [
+                    959.0,
+                    100.0
+                ],
+                [
+                    65.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "groups say they found a new",
+            "confidence": 1.0,
+            "box": [
+                [
+                    71.0,
+                    108.0
+                ],
+                [
+                    960.0,
+                    98.0
+                ],
+                [
+                    961.0,
+                    169.0
+                ],
+                [
+                    72.0,
+                    179.0
+                ]
+            ]
+        },
+        {
+            "text": "\"natural remedy\" for corona",
+            "confidence": 0.997,
+            "box": [
+                [
+                    96.0,
+                    181.0
+                ],
+                [
+                    937.0,
+                    185.0
+                ],
+                [
+                    937.0,
+                    249.0
+                ],
+                [
+                    96.0,
+                    245.0
+                ]
+            ]
+        }
+    ]
+}

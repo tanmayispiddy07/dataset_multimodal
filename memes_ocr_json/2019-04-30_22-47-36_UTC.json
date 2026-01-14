@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-04-30_22-47-36_UTC.jpg",
+    "combined_text": "***After listening her Love SToRIES***\nBiggBoss\nhousemates\nOk...Memu Childish.\nNeevi Matured Love Stories",
+    "detailed": [
+        {
+            "text": "***After listening her Love SToRIES***",
+            "confidence": 0.921,
+            "box": [
+                [
+                    55.0,
+                    85.0
+                ],
+                [
+                    390.0,
+                    86.0
+                ],
+                [
+                    390.0,
+                    112.0
+                ],
+                [
+                    55.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "BiggBoss",
+            "confidence": 0.994,
+            "box": [
+                [
+                    66.0,
+                    120.0
+                ],
+                [
+                    143.0,
+                    120.0
+                ],
+                [
+                    143.0,
+                    139.0
+                ],
+                [
+                    66.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "housemates",
+            "confidence": 0.995,
+            "box": [
+                [
+                    61.0,
+                    139.0
+                ],
+                [
+                    158.0,
+                    140.0
+                ],
+                [
+                    157.0,
+                    157.0
+                ],
+                [
+                    61.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "Ok...Memu Childish.",
+            "confidence": 0.907,
+            "box": [
+                [
+                    187.0,
+                    209.0
+                ],
+                [
+                    379.0,
+                    209.0
+                ],
+                [
+                    379.0,
+                    233.0
+                ],
+                [
+                    187.0,
+                    233.0
+                ]
+            ]
+        },
+        {
+            "text": "Neevi Matured Love Stories",
+            "confidence": 0.95,
+            "box": [
+                [
+                    42.0,
+                    333.0
+                ],
+                [
+                    313.0,
+                    334.0
+                ],
+                [
+                    313.0,
+                    359.0
+                ],
+                [
+                    42.0,
+                    358.0
+                ]
+            ]
+        }
+    ]
+}

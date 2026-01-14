@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-12_08-21-32_UTC.jpg",
+    "combined_text": "AFTER FACING HEAVY BACKLASHOVER TICKET\nHIKES FROM PUBLIC & FANS...NOW,NO TICKET\nHIKES FOR COOLIE & WAR2 IN TELANGANA!\nBOOKINGS OPEN TODAY AFTER 2 PM.\nADDICTEDTOMEMES\nWAR2",
+    "detailed": [
+        {
+            "text": "AFTER FACING HEAVY BACKLASHOVER TICKET",
+            "confidence": 0.96,
+            "box": [
+                [
+                    120.0,
+                    20.0
+                ],
+                [
+                    994.0,
+                    20.0
+                ],
+                [
+                    994.0,
+                    53.0
+                ],
+                [
+                    120.0,
+                    53.0
+                ]
+            ]
+        },
+        {
+            "text": "HIKES FROM PUBLIC & FANS...NOW,NO TICKET",
+            "confidence": 0.908,
+            "box": [
+                [
+                    115.0,
+                    66.0
+                ],
+                [
+                    997.0,
+                    66.0
+                ],
+                [
+                    997.0,
+                    99.0
+                ],
+                [
+                    115.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "HIKES FOR COOLIE & WAR2 IN TELANGANA!",
+            "confidence": 0.942,
+            "box": [
+                [
+                    145.0,
+                    112.0
+                ],
+                [
+                    970.0,
+                    112.0
+                ],
+                [
+                    970.0,
+                    145.0
+                ],
+                [
+                    145.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOKINGS OPEN TODAY AFTER 2 PM.",
+            "confidence": 0.95,
+            "box": [
+                [
+                    202.0,
+                    156.0
+                ],
+                [
+                    908.0,
+                    156.0
+                ],
+                [
+                    908.0,
+                    194.0
+                ],
+                [
+                    202.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    887.0,
+                    382.0
+                ],
+                [
+                    1046.0,
+                    382.0
+                ],
+                [
+                    1046.0,
+                    403.0
+                ],
+                [
+                    887.0,
+                    403.0
+                ]
+            ]
+        },
+        {
+            "text": "WAR2",
+            "confidence": 0.855,
+            "box": [
+                [
+                    558.0,
+                    913.0
+                ],
+                [
+                    1074.0,
+                    908.0
+                ],
+                [
+                    1075.0,
+                    1038.0
+                ],
+                [
+                    559.0,
+                    1043.0
+                ]
+            ]
+        }
+    ]
+}

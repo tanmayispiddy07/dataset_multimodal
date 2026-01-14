@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-09_08-40-00_UTC.jpg",
+    "combined_text": "Behind every successful man\nthere is a women\nsarcasm",
+    "detailed": [
+        {
+            "text": "Behind every successful man",
+            "confidence": 0.975,
+            "box": [
+                [
+                    83.0,
+                    134.0
+                ],
+                [
+                    455.0,
+                    135.0
+                ],
+                [
+                    455.0,
+                    163.0
+                ],
+                [
+                    83.0,
+                    162.0
+                ]
+            ]
+        },
+        {
+            "text": "there is a women",
+            "confidence": 0.954,
+            "box": [
+                [
+                    155.0,
+                    164.0
+                ],
+                [
+                    384.0,
+                    168.0
+                ],
+                [
+                    384.0,
+                    194.0
+                ],
+                [
+                    155.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.983,
+            "box": [
+                [
+                    341.0,
+                    722.0
+                ],
+                [
+                    383.0,
+                    722.0
+                ],
+                [
+                    383.0,
+                    735.0
+                ],
+                [
+                    341.0,
+                    735.0
+                ]
+            ]
+        }
+    ]
+}

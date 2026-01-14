@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-12-18_15-14-47_UTC.jpg",
+    "combined_text": "Wait for it",
+    "detailed": [
+        {
+            "text": "Wait for it",
+            "confidence": 0.982,
+            "box": [
+                [
+                    129.0,
+                    40.0
+                ],
+                [
+                    461.0,
+                    38.0
+                ],
+                [
+                    461.0,
+                    103.0
+                ],
+                [
+                    130.0,
+                    105.0
+                ]
+            ]
+        }
+    ]
+}

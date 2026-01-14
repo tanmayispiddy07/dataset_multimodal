@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-04-30_23-50-59_UTC.jpg",
+    "combined_text": "Hey Mom, do you need help?\nNo, it's okay\n*10 Minutes later*\nNo one in this house ever helps me",
+    "detailed": [
+        {
+            "text": "Hey Mom, do you need help?",
+            "confidence": 0.928,
+            "box": [
+                [
+                    287.0,
+                    245.0
+                ],
+                [
+                    749.0,
+                    246.0
+                ],
+                [
+                    749.0,
+                    286.0
+                ],
+                [
+                    287.0,
+                    285.0
+                ]
+            ]
+        },
+        {
+            "text": "No, it's okay",
+            "confidence": 0.931,
+            "box": [
+                [
+                    397.0,
+                    582.0
+                ],
+                [
+                    621.0,
+                    585.0
+                ],
+                [
+                    620.0,
+                    633.0
+                ],
+                [
+                    396.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "*10 Minutes later*",
+            "confidence": 0.945,
+            "box": [
+                [
+                    314.0,
+                    655.0
+                ],
+                [
+                    714.0,
+                    655.0
+                ],
+                [
+                    714.0,
+                    702.0
+                ],
+                [
+                    314.0,
+                    702.0
+                ]
+            ]
+        },
+        {
+            "text": "No one in this house ever helps me",
+            "confidence": 0.975,
+            "box": [
+                [
+                    227.0,
+                    998.0
+                ],
+                [
+                    814.0,
+                    1002.0
+                ],
+                [
+                    814.0,
+                    1049.0
+                ],
+                [
+                    226.0,
+                    1046.0
+                ]
+            ]
+        }
+    ]
+}

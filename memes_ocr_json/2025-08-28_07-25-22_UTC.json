@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-08-28_07-25-22_UTC.jpg",
+    "combined_text": "DIESELMOVIE\nTEASER OUT NOW\nI did.\nTEASER ADHIRIPOYINDHI",
+    "detailed": [
+        {
+            "text": "DIESELMOVIE",
+            "confidence": 0.995,
+            "box": [
+                [
+                    294.0,
+                    27.0
+                ],
+                [
+                    742.0,
+                    27.0
+                ],
+                [
+                    742.0,
+                    77.0
+                ],
+                [
+                    294.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER OUT NOW",
+            "confidence": 0.894,
+            "box": [
+                [
+                    212.0,
+                    84.0
+                ],
+                [
+                    785.0,
+                    84.0
+                ],
+                [
+                    785.0,
+                    139.0
+                ],
+                [
+                    212.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "I did.",
+            "confidence": 0.949,
+            "box": [
+                [
+                    890.0,
+                    459.0
+                ],
+                [
+                    945.0,
+                    459.0
+                ],
+                [
+                    945.0,
+                    487.0
+                ],
+                [
+                    890.0,
+                    487.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER ADHIRIPOYINDHI",
+            "confidence": 0.981,
+            "box": [
+                [
+                    146.0,
+                    1283.0
+                ],
+                [
+                    890.0,
+                    1283.0
+                ],
+                [
+                    890.0,
+                    1329.0
+                ],
+                [
+                    146.0,
+                    1329.0
+                ]
+            ]
+        }
+    ]
+}

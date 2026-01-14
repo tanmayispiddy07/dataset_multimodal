@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-03_08-37-32_UTC.jpg",
+    "combined_text": "Only moving when the\nlights are off\nireasm",
+    "detailed": [
+        {
+            "text": "Only moving when the",
+            "confidence": 0.965,
+            "box": [
+                [
+                    142.0,
+                    144.0
+                ],
+                [
+                    398.0,
+                    144.0
+                ],
+                [
+                    398.0,
+                    169.0
+                ],
+                [
+                    142.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "lights are off",
+            "confidence": 0.959,
+            "box": [
+                [
+                    197.0,
+                    174.0
+                ],
+                [
+                    344.0,
+                    172.0
+                ],
+                [
+                    345.0,
+                    198.0
+                ],
+                [
+                    198.0,
+                    200.0
+                ]
+            ]
+        },
+        {
+            "text": "ireasm",
+            "confidence": 0.834,
+            "box": [
+                [
+                    245.0,
+                    736.0
+                ],
+                [
+                    271.0,
+                    736.0
+                ],
+                [
+                    271.0,
+                    743.0
+                ],
+                [
+                    245.0,
+                    743.0
+                ]
+            ]
+        }
+    ]
+}

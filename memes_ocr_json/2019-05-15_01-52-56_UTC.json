@@ -1,0 +1,138 @@
+{
+    "image_name": "2019-05-15_01-52-56_UTC.jpg",
+    "combined_text": "me:\"amma ican't find the-\"\nmom:\n'IFICOMEHOMEANDFINDITEKTHAPAD\nMAARDUNGIYOUDIDNTLOOKHARDEN\nOUGHISWEARTOGODIHAVETODOTHIS\nEVERYDAMNDAY-\"",
+    "detailed": [
+        {
+            "text": "me:\"amma ican't find the-\"",
+            "confidence": 0.926,
+            "box": [
+                [
+                    33.0,
+                    16.0
+                ],
+                [
+                    738.0,
+                    12.0
+                ],
+                [
+                    738.0,
+                    63.0
+                ],
+                [
+                    33.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "mom:",
+            "confidence": 0.979,
+            "box": [
+                [
+                    32.0,
+                    134.0
+                ],
+                [
+                    183.0,
+                    134.0
+                ],
+                [
+                    183.0,
+                    177.0
+                ],
+                [
+                    32.0,
+                    177.0
+                ]
+            ]
+        },
+        {
+            "text": "'IFICOMEHOMEANDFINDITEKTHAPAD",
+            "confidence": 0.984,
+            "box": [
+                [
+                    39.0,
+                    212.0
+                ],
+                [
+                    1022.0,
+                    212.0
+                ],
+                [
+                    1022.0,
+                    259.0
+                ],
+                [
+                    39.0,
+                    259.0
+                ]
+            ]
+        },
+        {
+            "text": "MAARDUNGIYOUDIDNTLOOKHARDEN",
+            "confidence": 0.997,
+            "box": [
+                [
+                    35.0,
+                    297.0
+                ],
+                [
+                    1037.0,
+                    297.0
+                ],
+                [
+                    1037.0,
+                    344.0
+                ],
+                [
+                    35.0,
+                    344.0
+                ]
+            ]
+        },
+        {
+            "text": "OUGHISWEARTOGODIHAVETODOTHIS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    35.0,
+                    380.0
+                ],
+                [
+                    1045.0,
+                    379.0
+                ],
+                [
+                    1045.0,
+                    430.0
+                ],
+                [
+                    35.0,
+                    431.0
+                ]
+            ]
+        },
+        {
+            "text": "EVERYDAMNDAY-\"",
+            "confidence": 0.974,
+            "box": [
+                [
+                    32.0,
+                    466.0
+                ],
+                [
+                    527.0,
+                    460.0
+                ],
+                [
+                    528.0,
+                    515.0
+                ],
+                [
+                    33.0,
+                    521.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-03_16-00-28_UTC.jpg",
+    "combined_text": "He knows your route, your mood,\nand your \"late again\" panic!\nCNG\nThis Friendship Day, thank him\nwith a cup of chai and Parle-G\n#JoAasPassWohiKhaas",
+    "detailed": [
+        {
+            "text": "He knows your route, your mood,",
+            "confidence": 1.0,
+            "box": [
+                [
+                    45.0,
+                    51.0
+                ],
+                [
+                    1032.0,
+                    53.0
+                ],
+                [
+                    1032.0,
+                    117.0
+                ],
+                [
+                    45.0,
+                    114.0
+                ]
+            ]
+        },
+        {
+            "text": "and your \"late again\" panic!",
+            "confidence": 0.983,
+            "box": [
+                [
+                    132.0,
+                    125.0
+                ],
+                [
+                    953.0,
+                    125.0
+                ],
+                [
+                    953.0,
+                    183.0
+                ],
+                [
+                    132.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "CNG",
+            "confidence": 0.992,
+            "box": [
+                [
+                    261.0,
+                    712.0
+                ],
+                [
+                    316.0,
+                    704.0
+                ],
+                [
+                    324.0,
+                    759.0
+                ],
+                [
+                    269.0,
+                    767.0
+                ]
+            ]
+        },
+        {
+            "text": "This Friendship Day, thank him",
+            "confidence": 0.983,
+            "box": [
+                [
+                    90.0,
+                    1100.0
+                ],
+                [
+                    990.0,
+                    1100.0
+                ],
+                [
+                    990.0,
+                    1162.0
+                ],
+                [
+                    90.0,
+                    1162.0
+                ]
+            ]
+        },
+        {
+            "text": "with a cup of chai and Parle-G",
+            "confidence": 0.974,
+            "box": [
+                [
+                    46.0,
+                    1186.0
+                ],
+                [
+                    919.0,
+                    1181.0
+                ],
+                [
+                    920.0,
+                    1239.0
+                ],
+                [
+                    47.0,
+                    1243.0
+                ]
+            ]
+        },
+        {
+            "text": "#JoAasPassWohiKhaas",
+            "confidence": 0.996,
+            "box": [
+                [
+                    211.0,
+                    1257.0
+                ],
+                [
+                    869.0,
+                    1259.0
+                ],
+                [
+                    869.0,
+                    1308.0
+                ],
+                [
+                    211.0,
+                    1306.0
+                ]
+            ]
+        }
+    ]
+}

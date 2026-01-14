@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-07-20_17-05-22_UTC.jpg",
+    "combined_text": "When you and your friend both like the\nsame kind of memes",
+    "detailed": [
+        {
+            "text": "When you and your friend both like the",
+            "confidence": 0.966,
+            "box": [
+                [
+                    22.0,
+                    9.0
+                ],
+                [
+                    678.0,
+                    9.0
+                ],
+                [
+                    678.0,
+                    47.0
+                ],
+                [
+                    22.0,
+                    47.0
+                ]
+            ]
+        },
+        {
+            "text": "same kind of memes",
+            "confidence": 0.966,
+            "box": [
+                [
+                    21.0,
+                    62.0
+                ],
+                [
+                    379.0,
+                    64.0
+                ],
+                [
+                    379.0,
+                    101.0
+                ],
+                [
+                    21.0,
+                    99.0
+                ]
+            ]
+        }
+    ]
+}

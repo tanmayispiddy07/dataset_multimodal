@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-08-01_16-00-16_UTC.jpg",
+    "combined_text": "'FOR THE FIRST TIME IN INDIAN CINEMA HISTORY,\nREAL WORLD WAR II TANKS WERE USED TO\nPROMOTE JR.NTR'S WAR2 FILM.\"\nMASS HERO MASS CELEBRATIONS",
+    "detailed": [
+        {
+            "text": "'FOR THE FIRST TIME IN INDIAN CINEMA HISTORY,",
+            "confidence": 0.932,
+            "box": [
+                [
+                    41.0,
+                    25.0
+                ],
+                [
+                    1048.0,
+                    29.0
+                ],
+                [
+                    1048.0,
+                    67.0
+                ],
+                [
+                    41.0,
+                    63.0
+                ]
+            ]
+        },
+        {
+            "text": "REAL WORLD WAR II TANKS WERE USED TO",
+            "confidence": 0.917,
+            "box": [
+                [
+                    108.0,
+                    79.0
+                ],
+                [
+                    975.0,
+                    79.0
+                ],
+                [
+                    975.0,
+                    113.0
+                ],
+                [
+                    108.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "PROMOTE JR.NTR'S WAR2 FILM.\"",
+            "confidence": 0.945,
+            "box": [
+                [
+                    204.0,
+                    128.0
+                ],
+                [
+                    878.0,
+                    128.0
+                ],
+                [
+                    878.0,
+                    166.0
+                ],
+                [
+                    204.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "MASS HERO MASS CELEBRATIONS",
+            "confidence": 0.956,
+            "box": [
+                [
+                    32.0,
+                    1228.0
+                ],
+                [
+                    1057.0,
+                    1228.0
+                ],
+                [
+                    1057.0,
+                    1278.0
+                ],
+                [
+                    32.0,
+                    1278.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,424 @@
+{
+    "image_name": "2025-08-10_14-09-35_UTC.jpg",
+    "combined_text": "FIRST LOOK OF VADDE NAVEEN'S TRANSFER TRIMURTHULU.\nRENOWNED STAR VADDE NAVEEN IS MAKING A RE-ENTRY\nWITH TRANSFER TRIMURTHULU MOVIE\nDEJISHNU\nACOE CHEANONS P\nSHOOT\nIN\nVADDE NAVEEN\nPROGRESS\nTrimurthulu\nHAPPY\nRAKSHA\nBANDHAN\nVADDENAVEEN\nKAMAL TEJA NARLA\nADDICTEDTOMEMES\nTelugu Filr\nALL THE BEST COMEBACK\nMANCHIGA IVVALI",
+    "detailed": [
+        {
+            "text": "FIRST LOOK OF VADDE NAVEEN'S TRANSFER TRIMURTHULU.",
+            "confidence": 0.944,
+            "box": [
+                [
+                    31.0,
+                    41.0
+                ],
+                [
+                    1046.0,
+                    41.0
+                ],
+                [
+                    1046.0,
+                    74.0
+                ],
+                [
+                    31.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "RENOWNED STAR VADDE NAVEEN IS MAKING A RE-ENTRY",
+            "confidence": 0.956,
+            "box": [
+                [
+                    48.0,
+                    81.0
+                ],
+                [
+                    1027.0,
+                    83.0
+                ],
+                [
+                    1027.0,
+                    121.0
+                ],
+                [
+                    48.0,
+                    119.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH TRANSFER TRIMURTHULU MOVIE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    215.0,
+                    128.0
+                ],
+                [
+                    868.0,
+                    128.0
+                ],
+                [
+                    868.0,
+                    161.0
+                ],
+                [
+                    215.0,
+                    161.0
+                ]
+            ]
+        },
+        {
+            "text": "DEJISHNU",
+            "confidence": 0.861,
+            "box": [
+                [
+                    0.0,
+                    238.0
+                ],
+                [
+                    49.0,
+                    238.0
+                ],
+                [
+                    49.0,
+                    257.0
+                ],
+                [
+                    0.0,
+                    257.0
+                ]
+            ]
+        },
+        {
+            "text": "ACOE CHEANONS P",
+            "confidence": 0.762,
+            "box": [
+                [
+                    461.0,
+                    269.0
+                ],
+                [
+                    540.0,
+                    269.0
+                ],
+                [
+                    540.0,
+                    286.0
+                ],
+                [
+                    461.0,
+                    286.0
+                ]
+            ]
+        },
+        {
+            "text": "SHOOT",
+            "confidence": 0.998,
+            "box": [
+                [
+                    347.0,
+                    639.0
+                ],
+                [
+                    423.0,
+                    639.0
+                ],
+                [
+                    423.0,
+                    666.0
+                ],
+                [
+                    347.0,
+                    666.0
+                ]
+            ]
+        },
+        {
+            "text": "IN",
+            "confidence": 0.997,
+            "box": [
+                [
+                    387.0,
+                    663.0
+                ],
+                [
+                    418.0,
+                    663.0
+                ],
+                [
+                    418.0,
+                    688.0
+                ],
+                [
+                    387.0,
+                    688.0
+                ]
+            ]
+        },
+        {
+            "text": "VADDE NAVEEN",
+            "confidence": 0.948,
+            "box": [
+                [
+                    107.0,
+                    681.0
+                ],
+                [
+                    186.0,
+                    681.0
+                ],
+                [
+                    186.0,
+                    702.0
+                ],
+                [
+                    107.0,
+                    702.0
+                ]
+            ]
+        },
+        {
+            "text": "PROGRESS",
+            "confidence": 0.997,
+            "box": [
+                [
+                    345.0,
+                    686.0
+                ],
+                [
+                    458.0,
+                    686.0
+                ],
+                [
+                    458.0,
+                    711.0
+                ],
+                [
+                    345.0,
+                    711.0
+                ]
+            ]
+        },
+        {
+            "text": "Trimurthulu",
+            "confidence": 0.911,
+            "box": [
+                [
+                    117.0,
+                    772.0
+                ],
+                [
+                    401.0,
+                    746.0
+                ],
+                [
+                    408.0,
+                    825.0
+                ],
+                [
+                    124.0,
+                    850.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY",
+            "confidence": 0.992,
+            "box": [
+                [
+                    4.0,
+                    859.0
+                ],
+                [
+                    65.0,
+                    859.0
+                ],
+                [
+                    65.0,
+                    878.0
+                ],
+                [
+                    4.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "text": "RAKSHA",
+            "confidence": 0.997,
+            "box": [
+                [
+                    0.0,
+                    876.0
+                ],
+                [
+                    72.0,
+                    876.0
+                ],
+                [
+                    72.0,
+                    899.0
+                ],
+                [
+                    0.0,
+                    899.0
+                ]
+            ]
+        },
+        {
+            "text": "BANDHAN",
+            "confidence": 0.994,
+            "box": [
+                [
+                    0.0,
+                    895.0
+                ],
+                [
+                    77.0,
+                    895.0
+                ],
+                [
+                    77.0,
+                    917.0
+                ],
+                [
+                    0.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "VADDENAVEEN",
+            "confidence": 0.985,
+            "box": [
+                [
+                    153.0,
+                    931.0
+                ],
+                [
+                    240.0,
+                    931.0
+                ],
+                [
+                    240.0,
+                    948.0
+                ],
+                [
+                    153.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "KAMAL TEJA NARLA",
+            "confidence": 0.925,
+            "box": [
+                [
+                    273.0,
+                    928.0
+                ],
+                [
+                    387.0,
+                    930.0
+                ],
+                [
+                    387.0,
+                    948.0
+                ],
+                [
+                    273.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    22.0,
+                    1064.0
+                ],
+                [
+                    162.0,
+                    1064.0
+                ],
+                [
+                    162.0,
+                    1085.0
+                ],
+                [
+                    22.0,
+                    1085.0
+                ]
+            ]
+        },
+        {
+            "text": "Telugu Filr",
+            "confidence": 0.889,
+            "box": [
+                [
+                    921.0,
+                    1146.0
+                ],
+                [
+                    1079.0,
+                    1146.0
+                ],
+                [
+                    1079.0,
+                    1189.0
+                ],
+                [
+                    921.0,
+                    1189.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL THE BEST COMEBACK",
+            "confidence": 0.939,
+            "box": [
+                [
+                    488.0,
+                    1231.0
+                ],
+                [
+                    1011.0,
+                    1232.0
+                ],
+                [
+                    1011.0,
+                    1272.0
+                ],
+                [
+                    488.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHIGA IVVALI",
+            "confidence": 0.982,
+            "box": [
+                [
+                    554.0,
+                    1284.0
+                ],
+                [
+                    944.0,
+                    1284.0
+                ],
+                [
+                    944.0,
+                    1322.0
+                ],
+                [
+                    554.0,
+                    1322.0
+                ]
+            ]
+        }
+    ]
+}

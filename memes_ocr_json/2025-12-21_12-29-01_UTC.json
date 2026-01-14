@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-12-21_12-29-01_UTC.jpg",
+    "combined_text": "CHANIPOYAKA EMAVUTUNDO\nTELUSUKOVALANI UNTE..\nJUST WATCH JANANAM TELUGU\nSHORTFILM'ON YOUTUBE",
+    "detailed": [
+        {
+            "text": "CHANIPOYAKA EMAVUTUNDO",
+            "confidence": 0.986,
+            "box": [
+                [
+                    82.0,
+                    567.0
+                ],
+                [
+                    420.0,
+                    567.0
+                ],
+                [
+                    420.0,
+                    588.0
+                ],
+                [
+                    82.0,
+                    588.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUSUKOVALANI UNTE..",
+            "confidence": 0.949,
+            "box": [
+                [
+                    109.0,
+                    588.0
+                ],
+                [
+                    392.0,
+                    588.0
+                ],
+                [
+                    392.0,
+                    609.0
+                ],
+                [
+                    109.0,
+                    609.0
+                ]
+            ]
+        },
+        {
+            "text": "JUST WATCH JANANAM TELUGU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    67.0,
+                    828.0
+                ],
+                [
+                    442.0,
+                    829.0
+                ],
+                [
+                    442.0,
+                    853.0
+                ],
+                [
+                    66.0,
+                    852.0
+                ]
+            ]
+        },
+        {
+            "text": "SHORTFILM'ON YOUTUBE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    107.0,
+                    852.0
+                ],
+                [
+                    402.0,
+                    852.0
+                ],
+                [
+                    402.0,
+                    873.0
+                ],
+                [
+                    107.0,
+                    873.0
+                ]
+            ]
+        }
+    ]
+}

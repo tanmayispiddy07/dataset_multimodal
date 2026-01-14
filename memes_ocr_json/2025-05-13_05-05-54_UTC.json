@@ -1,0 +1,358 @@
+{
+    "image_name": "2025-05-13_05-05-54_UTC.jpg",
+    "combined_text": "For the next RCB match, could you help spread\nthe word and encourage fans to wear Test whites\nin the stadium as a tribute to Virat Kohli?\nHe made so many of us fall in love with Test\ncricket, and even though I'll never get to see him\nplay in whites live, I just want him to know how\ndeeply loved he was in his favourite format.\nThis gesture could be a powerful way to show\nthat his legacy goes far beyond stats - it lives in\nthe hearts of fans.\nPlease think about it and help us make it real. It\nwould mean the world to many of us.\nI even made a template. I also think we can raise\nfund to give away the jerseys outside.\nchinnaswamy. That's our best chance..\nEven if not jerseys plain white tshirts should do",
+    "detailed": [
+        {
+            "text": "For the next RCB match, could you help spread",
+            "confidence": 0.99,
+            "box": [
+                [
+                    104.0,
+                    198.0
+                ],
+                [
+                    975.0,
+                    199.0
+                ],
+                [
+                    975.0,
+                    249.0
+                ],
+                [
+                    104.0,
+                    247.0
+                ]
+            ]
+        },
+        {
+            "text": "the word and encourage fans to wear Test whites",
+            "confidence": 1.0,
+            "box": [
+                [
+                    100.0,
+                    251.0
+                ],
+                [
+                    981.0,
+                    253.0
+                ],
+                [
+                    981.0,
+                    294.0
+                ],
+                [
+                    100.0,
+                    292.0
+                ]
+            ]
+        },
+        {
+            "text": "in the stadium as a tribute to Virat Kohli?",
+            "confidence": 0.964,
+            "box": [
+                [
+                    163.0,
+                    302.0
+                ],
+                [
+                    916.0,
+                    302.0
+                ],
+                [
+                    916.0,
+                    340.0
+                ],
+                [
+                    163.0,
+                    340.0
+                ]
+            ]
+        },
+        {
+            "text": "He made so many of us fall in love with Test",
+            "confidence": 0.977,
+            "box": [
+                [
+                    138.0,
+                    347.0
+                ],
+                [
+                    943.0,
+                    348.0
+                ],
+                [
+                    942.0,
+                    393.0
+                ],
+                [
+                    137.0,
+                    392.0
+                ]
+            ]
+        },
+        {
+            "text": "cricket, and even though I'll never get to see him",
+            "confidence": 0.989,
+            "box": [
+                [
+                    96.0,
+                    397.0
+                ],
+                [
+                    984.0,
+                    399.0
+                ],
+                [
+                    984.0,
+                    444.0
+                ],
+                [
+                    96.0,
+                    441.0
+                ]
+            ]
+        },
+        {
+            "text": "play in whites live, I just want him to know how",
+            "confidence": 0.97,
+            "box": [
+                [
+                    105.0,
+                    450.0
+                ],
+                [
+                    975.0,
+                    445.0
+                ],
+                [
+                    975.0,
+                    490.0
+                ],
+                [
+                    105.0,
+                    495.0
+                ]
+            ]
+        },
+        {
+            "text": "deeply loved he was in his favourite format.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    144.0,
+                    499.0
+                ],
+                [
+                    934.0,
+                    496.0
+                ],
+                [
+                    934.0,
+                    541.0
+                ],
+                [
+                    144.0,
+                    544.0
+                ]
+            ]
+        },
+        {
+            "text": "This gesture could be a powerful way to show",
+            "confidence": 0.991,
+            "box": [
+                [
+                    125.0,
+                    543.0
+                ],
+                [
+                    953.0,
+                    546.0
+                ],
+                [
+                    952.0,
+                    596.0
+                ],
+                [
+                    125.0,
+                    593.0
+                ]
+            ]
+        },
+        {
+            "text": "that his legacy goes far beyond stats - it lives in",
+            "confidence": 0.991,
+            "box": [
+                [
+                    112.0,
+                    593.0
+                ],
+                [
+                    967.0,
+                    593.0
+                ],
+                [
+                    967.0,
+                    646.0
+                ],
+                [
+                    112.0,
+                    646.0
+                ]
+            ]
+        },
+        {
+            "text": "the hearts of fans.",
+            "confidence": 0.988,
+            "box": [
+                [
+                    375.0,
+                    648.0
+                ],
+                [
+                    704.0,
+                    648.0
+                ],
+                [
+                    704.0,
+                    685.0
+                ],
+                [
+                    375.0,
+                    685.0
+                ]
+            ]
+        },
+        {
+            "text": "Please think about it and help us make it real. It",
+            "confidence": 0.987,
+            "box": [
+                [
+                    103.0,
+                    692.0
+                ],
+                [
+                    979.0,
+                    693.0
+                ],
+                [
+                    979.0,
+                    739.0
+                ],
+                [
+                    102.0,
+                    738.0
+                ]
+            ]
+        },
+        {
+            "text": "would mean the world to many of us.",
+            "confidence": 0.996,
+            "box": [
+                [
+                    203.0,
+                    744.0
+                ],
+                [
+                    871.0,
+                    745.0
+                ],
+                [
+                    871.0,
+                    786.0
+                ],
+                [
+                    202.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "I even made a template. I also think we can raise",
+            "confidence": 0.989,
+            "box": [
+                [
+                    96.0,
+                    788.0
+                ],
+                [
+                    985.0,
+                    791.0
+                ],
+                [
+                    985.0,
+                    841.0
+                ],
+                [
+                    96.0,
+                    838.0
+                ]
+            ]
+        },
+        {
+            "text": "fund to give away the jerseys outside.",
+            "confidence": 0.992,
+            "box": [
+                [
+                    206.0,
+                    842.0
+                ],
+                [
+                    871.0,
+                    843.0
+                ],
+                [
+                    871.0,
+                    888.0
+                ],
+                [
+                    206.0,
+                    887.0
+                ]
+            ]
+        },
+        {
+            "text": "chinnaswamy. That's our best chance..",
+            "confidence": 0.984,
+            "box": [
+                [
+                    200.0,
+                    890.0
+                ],
+                [
+                    874.0,
+                    892.0
+                ],
+                [
+                    874.0,
+                    937.0
+                ],
+                [
+                    200.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "Even if not jerseys plain white tshirts should do",
+            "confidence": 0.995,
+            "box": [
+                [
+                    107.0,
+                    939.0
+                ],
+                [
+                    971.0,
+                    938.0
+                ],
+                [
+                    971.0,
+                    988.0
+                ],
+                [
+                    108.0,
+                    989.0
+                ]
+            ]
+        }
+    ]
+}

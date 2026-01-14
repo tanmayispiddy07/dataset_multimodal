@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-12_17-04-48_UTC_5.jpg",
+    "combined_text": "hlh\nIndia's actions underscore\nits commitment to national\nsecurity and zero tolerance\nfor t*rrorism",
+    "detailed": [
+        {
+            "text": "hlh",
+            "confidence": 0.708,
+            "box": [
+                [
+                    53.0,
+                    80.0
+                ],
+                [
+                    163.0,
+                    80.0
+                ],
+                [
+                    163.0,
+                    145.0
+                ],
+                [
+                    53.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "India's actions underscore",
+            "confidence": 0.995,
+            "box": [
+                [
+                    107.0,
+                    1014.0
+                ],
+                [
+                    788.0,
+                    1017.0
+                ],
+                [
+                    787.0,
+                    1061.0
+                ],
+                [
+                    107.0,
+                    1058.0
+                ]
+            ]
+        },
+        {
+            "text": "its commitment to national",
+            "confidence": 0.992,
+            "box": [
+                [
+                    108.0,
+                    1078.0
+                ],
+                [
+                    796.0,
+                    1078.0
+                ],
+                [
+                    796.0,
+                    1121.0
+                ],
+                [
+                    108.0,
+                    1121.0
+                ]
+            ]
+        },
+        {
+            "text": "security and zero tolerance",
+            "confidence": 0.977,
+            "box": [
+                [
+                    107.0,
+                    1140.0
+                ],
+                [
+                    816.0,
+                    1140.0
+                ],
+                [
+                    816.0,
+                    1187.0
+                ],
+                [
+                    107.0,
+                    1187.0
+                ]
+            ]
+        },
+        {
+            "text": "for t*rrorism",
+            "confidence": 0.976,
+            "box": [
+                [
+                    106.0,
+                    1200.0
+                ],
+                [
+                    443.0,
+                    1203.0
+                ],
+                [
+                    443.0,
+                    1248.0
+                ],
+                [
+                    105.0,
+                    1245.0
+                ]
+            ]
+        }
+    ]
+}

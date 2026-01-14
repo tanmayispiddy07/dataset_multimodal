@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-03_08-40-33_UTC.jpg",
+    "combined_text": "Your dad is waiting in the\ncar for 3 girls to get ready",
+    "detailed": [
+        {
+            "text": "Your dad is waiting in the",
+            "confidence": 0.953,
+            "box": [
+                [
+                    108.0,
+                    139.0
+                ],
+                [
+                    429.0,
+                    140.0
+                ],
+                [
+                    429.0,
+                    166.0
+                ],
+                [
+                    108.0,
+                    165.0
+                ]
+            ]
+        },
+        {
+            "text": "car for 3 girls to get ready",
+            "confidence": 0.953,
+            "box": [
+                [
+                    104.0,
+                    172.0
+                ],
+                [
+                    427.0,
+                    172.0
+                ],
+                [
+                    427.0,
+                    200.0
+                ],
+                [
+                    104.0,
+                    200.0
+                ]
+            ]
+        }
+    ]
+}

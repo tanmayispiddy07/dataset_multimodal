@@ -1,0 +1,50 @@
+{
+    "image_name": "2020-02-21_21-36-25_UTC_1.jpg",
+    "combined_text": "when amma is on the phone and says\n\"oka nimisham ikade undhi\"",
+    "detailed": [
+        {
+            "text": "when amma is on the phone and says",
+            "confidence": 0.99,
+            "box": [
+                [
+                    7.0,
+                    6.0
+                ],
+                [
+                    913.0,
+                    12.0
+                ],
+                [
+                    913.0,
+                    64.0
+                ],
+                [
+                    7.0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "text": "\"oka nimisham ikade undhi\"",
+            "confidence": 0.993,
+            "box": [
+                [
+                    136.0,
+                    69.0
+                ],
+                [
+                    788.0,
+                    68.0
+                ],
+                [
+                    788.0,
+                    119.0
+                ],
+                [
+                    136.0,
+                    120.0
+                ]
+            ]
+        }
+    ]
+}

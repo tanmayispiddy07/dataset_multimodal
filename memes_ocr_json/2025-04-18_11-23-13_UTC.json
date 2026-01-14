@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-04-18_11-23-13_UTC.jpg",
+    "combined_text": "APPANNA TANNAMANNA LYRICAL\nRepe\nADDICTEDTOMEMES\nENTHA DOORA\nVOSTHAVALAA\n**MEWHILELISTENING SONG",
+    "detailed": [
+        {
+            "text": "APPANNA TANNAMANNA LYRICAL",
+            "confidence": 0.979,
+            "box": [
+                [
+                    80.0,
+                    63.0
+                ],
+                [
+                    994.0,
+                    63.0
+                ],
+                [
+                    994.0,
+                    107.0
+                ],
+                [
+                    80.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "Repe",
+            "confidence": 0.965,
+            "box": [
+                [
+                    944.0,
+                    375.0
+                ],
+                [
+                    1079.0,
+                    406.0
+                ],
+                [
+                    1078.0,
+                    477.0
+                ],
+                [
+                    929.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    437.0,
+                    609.0
+                ],
+                [
+                    594.0,
+                    609.0
+                ],
+                [
+                    594.0,
+                    629.0
+                ],
+                [
+                    437.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTHA DOORA",
+            "confidence": 0.976,
+            "box": [
+                [
+                    801.0,
+                    676.0
+                ],
+                [
+                    1076.0,
+                    679.0
+                ],
+                [
+                    1076.0,
+                    716.0
+                ],
+                [
+                    800.0,
+                    713.0
+                ]
+            ]
+        },
+        {
+            "text": "VOSTHAVALAA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    826.0,
+                    720.0
+                ],
+                [
+                    1079.0,
+                    720.0
+                ],
+                [
+                    1079.0,
+                    758.0
+                ],
+                [
+                    826.0,
+                    758.0
+                ]
+            ]
+        },
+        {
+            "text": "**MEWHILELISTENING SONG",
+            "confidence": 0.978,
+            "box": [
+                [
+                    176.0,
+                    957.0
+                ],
+                [
+                    861.0,
+                    958.0
+                ],
+                [
+                    861.0,
+                    1000.0
+                ],
+                [
+                    175.0,
+                    999.0
+                ]
+            ]
+        }
+    ]
+}

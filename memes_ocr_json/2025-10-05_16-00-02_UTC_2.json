@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-10-05_16-00-02_UTC_2.jpg",
+    "combined_text": "Avatar 3 sneak peek inside Avatar 2's\nre-release = the best plot twist ever\n700",
+    "detailed": [
+        {
+            "text": "Avatar 3 sneak peek inside Avatar 2's",
+            "confidence": 0.959,
+            "box": [
+                [
+                    53.0,
+                    39.0
+                ],
+                [
+                    657.0,
+                    37.0
+                ],
+                [
+                    657.0,
+                    71.0
+                ],
+                [
+                    53.0,
+                    73.0
+                ]
+            ]
+        },
+        {
+            "text": "re-release = the best plot twist ever",
+            "confidence": 0.943,
+            "box": [
+                [
+                    42.0,
+                    94.0
+                ],
+                [
+                    623.0,
+                    94.0
+                ],
+                [
+                    623.0,
+                    129.0
+                ],
+                [
+                    42.0,
+                    129.0
+                ]
+            ]
+        },
+        {
+            "text": "700",
+            "confidence": 0.806,
+            "box": [
+                [
+                    633.0,
+                    86.0
+                ],
+                [
+                    677.0,
+                    86.0
+                ],
+                [
+                    677.0,
+                    123.0
+                ],
+                [
+                    633.0,
+                    123.0
+                ]
+            ]
+        }
+    ]
+}

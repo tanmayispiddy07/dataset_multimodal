@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-24_10-07-32_UTC.jpg",
+    "combined_text": "LUCKY PEOPLE ANTE\nEVARU AMMA...\nADDICTEDTOMEMES\nMAHESH BABU CINEMA SUDARSHAN\nTHEATER LO CHUSE\nEVALLU",
+    "detailed": [
+        {
+            "text": "LUCKY PEOPLE ANTE",
+            "confidence": 0.919,
+            "box": [
+                [
+                    56.0,
+                    399.0
+                ],
+                [
+                    670.0,
+                    399.0
+                ],
+                [
+                    670.0,
+                    453.0
+                ],
+                [
+                    56.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "EVARU AMMA...",
+            "confidence": 0.92,
+            "box": [
+                [
+                    118.0,
+                    471.0
+                ],
+                [
+                    596.0,
+                    474.0
+                ],
+                [
+                    596.0,
+                    525.0
+                ],
+                [
+                    118.0,
+                    523.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    883.0,
+                    634.0
+                ],
+                [
+                    1059.0,
+                    634.0
+                ],
+                [
+                    1059.0,
+                    658.0
+                ],
+                [
+                    883.0,
+                    658.0
+                ]
+            ]
+        },
+        {
+            "text": "MAHESH BABU CINEMA SUDARSHAN",
+            "confidence": 0.955,
+            "box": [
+                [
+                    102.0,
+                    963.0
+                ],
+                [
+                    971.0,
+                    963.0
+                ],
+                [
+                    971.0,
+                    1004.0
+                ],
+                [
+                    102.0,
+                    1004.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATER LO CHUSE",
+            "confidence": 0.945,
+            "box": [
+                [
+                    226.0,
+                    1024.0
+                ],
+                [
+                    694.0,
+                    1024.0
+                ],
+                [
+                    694.0,
+                    1061.0
+                ],
+                [
+                    226.0,
+                    1061.0
+                ]
+            ]
+        },
+        {
+            "text": "EVALLU",
+            "confidence": 0.919,
+            "box": [
+                [
+                    674.0,
+                    1023.0
+                ],
+                [
+                    853.0,
+                    1020.0
+                ],
+                [
+                    854.0,
+                    1062.0
+                ],
+                [
+                    674.0,
+                    1064.0
+                ]
+            ]
+        }
+    ]
+}

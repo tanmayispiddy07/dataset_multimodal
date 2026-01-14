@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-03_06-11-57_UTC.jpg",
+    "combined_text": "EXCELLENT TRAILER OF\n'KISHKINDHAPURI\"\nMOVIE RELEASING ON SEPT 12TH\nADDICTEDTOMEMES\nAH VISUALSAH MUSIC\nAADHRINDHIAYYA",
+    "detailed": [
+        {
+            "text": "EXCELLENT TRAILER OF",
+            "confidence": 0.953,
+            "box": [
+                [
+                    274.0,
+                    50.0
+                ],
+                [
+                    813.0,
+                    50.0
+                ],
+                [
+                    813.0,
+                    88.0
+                ],
+                [
+                    274.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "'KISHKINDHAPURI\"",
+            "confidence": 0.935,
+            "box": [
+                [
+                    322.0,
+                    107.0
+                ],
+                [
+                    764.0,
+                    107.0
+                ],
+                [
+                    764.0,
+                    145.0
+                ],
+                [
+                    322.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON SEPT 12TH",
+            "confidence": 0.956,
+            "box": [
+                [
+                    156.0,
+                    166.0
+                ],
+                [
+                    917.0,
+                    166.0
+                ],
+                [
+                    917.0,
+                    203.0
+                ],
+                [
+                    156.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    437.0,
+                    672.0
+                ],
+                [
+                    584.0,
+                    672.0
+                ],
+                [
+                    584.0,
+                    693.0
+                ],
+                [
+                    437.0,
+                    693.0
+                ]
+            ]
+        },
+        {
+            "text": "AH VISUALSAH MUSIC",
+            "confidence": 0.944,
+            "box": [
+                [
+                    357.0,
+                    1224.0
+                ],
+                [
+                    882.0,
+                    1225.0
+                ],
+                [
+                    882.0,
+                    1271.0
+                ],
+                [
+                    357.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "AADHRINDHIAYYA",
+            "confidence": 0.997,
+            "box": [
+                [
+                    399.0,
+                    1284.0
+                ],
+                [
+                    827.0,
+                    1284.0
+                ],
+                [
+                    827.0,
+                    1325.0
+                ],
+                [
+                    399.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

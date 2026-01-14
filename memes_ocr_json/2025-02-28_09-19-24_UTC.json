@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-02-28_09-19-24_UTC.jpg",
+    "combined_text": "**MOVIE LOVERS\nMERU MOVIE BAGUNDI ANTE THEATER KI\nBALEDO CHUDATANIKI THEATER LI VELTHAMU\nMERUOTT KIVASTHE MOVIE CHUSTHARU MEMU\nTHEATER LONE CHUSTHAMU\nADDICTEDTOMEMES\nMEKU CINEMA ANTE MULTIPLEXMAKU CINEMA\nANTE SINGLE SCREEN\nMERU OTT LO CHUSI CINEMA NI LEPUTHARU\nMEMU AH CINEMA NI ALREADY BIG SCREEN\nMEDHA NEYCHUSI UNTAMU\nCINEMA ANTE MEMU MEMU ANTE NEY CINEMA",
+    "detailed": [
+        {
+            "text": "**MOVIE LOVERS",
+            "confidence": 0.963,
+            "box": [
+                [
+                    218.0,
+                    38.0
+                ],
+                [
+                    613.0,
+                    44.0
+                ],
+                [
+                    613.0,
+                    89.0
+                ],
+                [
+                    217.0,
+                    83.0
+                ]
+            ]
+        },
+        {
+            "text": "MERU MOVIE BAGUNDI ANTE THEATER KI",
+            "confidence": 0.942,
+            "box": [
+                [
+                    296.0,
+                    339.0
+                ],
+                [
+                    948.0,
+                    339.0
+                ],
+                [
+                    948.0,
+                    366.0
+                ],
+                [
+                    296.0,
+                    366.0
+                ]
+            ]
+        },
+        {
+            "text": "BALEDO CHUDATANIKI THEATER LI VELTHAMU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    254.0,
+                    417.0
+                ],
+                [
+                    978.0,
+                    417.0
+                ],
+                [
+                    978.0,
+                    444.0
+                ],
+                [
+                    254.0,
+                    444.0
+                ]
+            ]
+        },
+        {
+            "text": "MERUOTT KIVASTHE MOVIE CHUSTHARU MEMU",
+            "confidence": 0.948,
+            "box": [
+                [
+                    236.0,
+                    457.0
+                ],
+                [
+                    1007.0,
+                    457.0
+                ],
+                [
+                    1007.0,
+                    487.0
+                ],
+                [
+                    236.0,
+                    487.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATER LONE CHUSTHAMU",
+            "confidence": 0.973,
+            "box": [
+                [
+                    398.0,
+                    497.0
+                ],
+                [
+                    849.0,
+                    497.0
+                ],
+                [
+                    849.0,
+                    528.0
+                ],
+                [
+                    398.0,
+                    528.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    862.0,
+                    620.0
+                ],
+                [
+                    1024.0,
+                    620.0
+                ],
+                [
+                    1024.0,
+                    640.0
+                ],
+                [
+                    862.0,
+                    640.0
+                ]
+            ]
+        },
+        {
+            "text": "MEKU CINEMA ANTE MULTIPLEXMAKU CINEMA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    243.0,
+                    828.0
+                ],
+                [
+                    1036.0,
+                    827.0
+                ],
+                [
+                    1036.0,
+                    857.0
+                ],
+                [
+                    243.0,
+                    858.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTE SINGLE SCREEN",
+            "confidence": 0.964,
+            "box": [
+                [
+                    453.0,
+                    870.0
+                ],
+                [
+                    817.0,
+                    870.0
+                ],
+                [
+                    817.0,
+                    900.0
+                ],
+                [
+                    453.0,
+                    900.0
+                ]
+            ]
+        },
+        {
+            "text": "MERU OTT LO CHUSI CINEMA NI LEPUTHARU",
+            "confidence": 0.928,
+            "box": [
+                [
+                    267.0,
+                    911.0
+                ],
+                [
+                    1011.0,
+                    911.0
+                ],
+                [
+                    1011.0,
+                    942.0
+                ],
+                [
+                    267.0,
+                    942.0
+                ]
+            ]
+        },
+        {
+            "text": "MEMU AH CINEMA NI ALREADY BIG SCREEN",
+            "confidence": 0.941,
+            "box": [
+                [
+                    273.0,
+                    953.0
+                ],
+                [
+                    1006.0,
+                    953.0
+                ],
+                [
+                    1006.0,
+                    983.0
+                ],
+                [
+                    273.0,
+                    983.0
+                ]
+            ]
+        },
+        {
+            "text": "MEDHA NEYCHUSI UNTAMU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    404.0,
+                    996.0
+                ],
+                [
+                    872.0,
+                    996.0
+                ],
+                [
+                    872.0,
+                    1023.0
+                ],
+                [
+                    404.0,
+                    1023.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA ANTE MEMU MEMU ANTE NEY CINEMA",
+            "confidence": 0.938,
+            "box": [
+                [
+                    238.0,
+                    1035.0
+                ],
+                [
+                    1029.0,
+                    1034.0
+                ],
+                [
+                    1029.0,
+                    1065.0
+                ],
+                [
+                    239.0,
+                    1067.0
+                ]
+            ]
+        }
+    ]
+}

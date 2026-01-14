@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-11-18_03-00-42_UTC.jpg",
+    "combined_text": "HAPPY PRINCESS DAY\nADDICTEDTOMEMES\nTO EVERY GIRL WITH A BEAUTIFUL SOUL\nAND A BRAVEHEART\nEVERYGIRLISAPRINCESS IN\nHEROWN STORY.",
+    "detailed": [
+        {
+            "text": "HAPPY PRINCESS DAY",
+            "confidence": 0.97,
+            "box": [
+                [
+                    131.0,
+                    52.0
+                ],
+                [
+                    968.0,
+                    52.0
+                ],
+                [
+                    968.0,
+                    120.0
+                ],
+                [
+                    131.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    920.0,
+                    308.0
+                ],
+                [
+                    1079.0,
+                    307.0
+                ],
+                [
+                    1079.0,
+                    329.0
+                ],
+                [
+                    920.0,
+                    331.0
+                ]
+            ]
+        },
+        {
+            "text": "TO EVERY GIRL WITH A BEAUTIFUL SOUL",
+            "confidence": 0.943,
+            "box": [
+                [
+                    117.0,
+                    543.0
+                ],
+                [
+                    1007.0,
+                    543.0
+                ],
+                [
+                    1007.0,
+                    585.0
+                ],
+                [
+                    117.0,
+                    585.0
+                ]
+            ]
+        },
+        {
+            "text": "AND A BRAVEHEART",
+            "confidence": 0.978,
+            "box": [
+                [
+                    183.0,
+                    898.0
+                ],
+                [
+                    939.0,
+                    898.0
+                ],
+                [
+                    939.0,
+                    961.0
+                ],
+                [
+                    183.0,
+                    961.0
+                ]
+            ]
+        },
+        {
+            "text": "EVERYGIRLISAPRINCESS IN",
+            "confidence": 0.981,
+            "box": [
+                [
+                    440.0,
+                    1250.0
+                ],
+                [
+                    1072.0,
+                    1250.0
+                ],
+                [
+                    1072.0,
+                    1288.0
+                ],
+                [
+                    440.0,
+                    1288.0
+                ]
+            ]
+        },
+        {
+            "text": "HEROWN STORY.",
+            "confidence": 0.966,
+            "box": [
+                [
+                    567.0,
+                    1302.0
+                ],
+                [
+                    939.0,
+                    1302.0
+                ],
+                [
+                    939.0,
+                    1344.0
+                ],
+                [
+                    567.0,
+                    1344.0
+                ]
+            ]
+        }
+    ]
+}

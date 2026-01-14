@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-09_14-38-20_UTC.jpg",
+    "combined_text": "What if the asteroid that k!lled all\nthe Dinosaurs was actually a crashed\nUFO? And we are the aliens.\nsarcasm",
+    "detailed": [
+        {
+            "text": "What if the asteroid that k!lled all",
+            "confidence": 0.984,
+            "box": [
+                [
+                    79.0,
+                    82.0
+                ],
+                [
+                    1005.0,
+                    82.0
+                ],
+                [
+                    1005.0,
+                    128.0
+                ],
+                [
+                    79.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "the Dinosaurs was actually a crashed",
+            "confidence": 1.0,
+            "box": [
+                [
+                    34.0,
+                    166.0
+                ],
+                [
+                    1046.0,
+                    167.0
+                ],
+                [
+                    1046.0,
+                    220.0
+                ],
+                [
+                    34.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "UFO? And we are the aliens.",
+            "confidence": 0.983,
+            "box": [
+                [
+                    126.0,
+                    253.0
+                ],
+                [
+                    885.0,
+                    256.0
+                ],
+                [
+                    885.0,
+                    305.0
+                ],
+                [
+                    126.0,
+                    303.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    56.0,
+                    655.0
+                ],
+                [
+                    186.0,
+                    655.0
+                ],
+                [
+                    186.0,
+                    679.0
+                ],
+                [
+                    56.0,
+                    679.0
+                ]
+            ]
+        }
+    ]
+}

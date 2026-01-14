@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-24_09-39-32_UTC.jpg",
+    "combined_text": "FIRST SINGLE FROM PARADHA\"\nMAA ANDHAALA SIRI OUT NOW\nADDICTEDTOMEMES\nOK OK OK SONG CHALA BAGUNDI INKA\nPRATHI PELLI LOE SONG PEDUTHARU",
+    "detailed": [
+        {
+            "text": "FIRST SINGLE FROM PARADHA\"",
+            "confidence": 0.945,
+            "box": [
+                [
+                    124.0,
+                    57.0
+                ],
+                [
+                    975.0,
+                    57.0
+                ],
+                [
+                    975.0,
+                    103.0
+                ],
+                [
+                    124.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "MAA ANDHAALA SIRI OUT NOW",
+            "confidence": 0.982,
+            "box": [
+                [
+                    129.0,
+                    123.0
+                ],
+                [
+                    984.0,
+                    121.0
+                ],
+                [
+                    984.0,
+                    169.0
+                ],
+                [
+                    129.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    493.0,
+                    626.0
+                ],
+                [
+                    626.0,
+                    624.0
+                ],
+                [
+                    626.0,
+                    642.0
+                ],
+                [
+                    494.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "OK OK OK SONG CHALA BAGUNDI INKA",
+            "confidence": 0.92,
+            "box": [
+                [
+                    108.0,
+                    1228.0
+                ],
+                [
+                    1011.0,
+                    1228.0
+                ],
+                [
+                    1011.0,
+                    1270.0
+                ],
+                [
+                    108.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "PRATHI PELLI LOE SONG PEDUTHARU",
+            "confidence": 0.942,
+            "box": [
+                [
+                    132.0,
+                    1282.0
+                ],
+                [
+                    975.0,
+                    1285.0
+                ],
+                [
+                    974.0,
+                    1327.0
+                ],
+                [
+                    132.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

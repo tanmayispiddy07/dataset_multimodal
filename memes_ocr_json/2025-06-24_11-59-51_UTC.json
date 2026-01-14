@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-06-24_11-59-51_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF\n\"CHANDRESHWARA\"\nDEVOTIONAL ACTION THRILLER\nMOVIE RELEASING ON JULY27TH\nADDICTEDTOMEMES\nSPIRITUAL THRILLERS LO\nUNDE MAGIC EHVERU SIR",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF",
+            "confidence": 0.957,
+            "box": [
+                [
+                    297.0,
+                    17.0
+                ],
+                [
+                    841.0,
+                    17.0
+                ],
+                [
+                    841.0,
+                    54.0
+                ],
+                [
+                    297.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "\"CHANDRESHWARA\"",
+            "confidence": 0.981,
+            "box": [
+                [
+                    342.0,
+                    67.0
+                ],
+                [
+                    786.0,
+                    68.0
+                ],
+                [
+                    786.0,
+                    110.0
+                ],
+                [
+                    342.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "DEVOTIONAL ACTION THRILLER",
+            "confidence": 0.969,
+            "box": [
+                [
+                    231.0,
+                    124.0
+                ],
+                [
+                    911.0,
+                    124.0
+                ],
+                [
+                    911.0,
+                    162.0
+                ],
+                [
+                    231.0,
+                    162.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON JULY27TH",
+            "confidence": 0.957,
+            "box": [
+                [
+                    218.0,
+                    176.0
+                ],
+                [
+                    934.0,
+                    176.0
+                ],
+                [
+                    934.0,
+                    213.0
+                ],
+                [
+                    218.0,
+                    213.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    914.0,
+                    1052.0
+                ],
+                [
+                    1073.0,
+                    1052.0
+                ],
+                [
+                    1073.0,
+                    1077.0
+                ],
+                [
+                    914.0,
+                    1077.0
+                ]
+            ]
+        },
+        {
+            "text": "SPIRITUAL THRILLERS LO",
+            "confidence": 0.962,
+            "box": [
+                [
+                    534.0,
+                    1243.0
+                ],
+                [
+                    986.0,
+                    1243.0
+                ],
+                [
+                    986.0,
+                    1277.0
+                ],
+                [
+                    534.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDE MAGIC EHVERU SIR",
+            "confidence": 0.937,
+            "box": [
+                [
+                    520.0,
+                    1289.0
+                ],
+                [
+                    998.0,
+                    1289.0
+                ],
+                [
+                    998.0,
+                    1323.0
+                ],
+                [
+                    520.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

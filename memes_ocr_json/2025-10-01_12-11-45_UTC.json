@@ -1,0 +1,556 @@
+{
+    "image_name": "2025-10-01_12-11-45_UTC.jpg",
+    "combined_text": "FIRST LOOK POSTER OF\"KATHAKALI\"\nDIRECTED BY DEBUT DIRECTOR PRASANNA\nKUMAR NANI UNDER \"MANYATA PRODUCTIONS'\nMants\nMIRAY\nM\nHappy Birthday\nYashwanth Pendyala\nYashwanth Pendyala\nas PC.P.Gopala Krishna\nas PC.P.Gopala Krishna\nHoppy\nHappy\nDussehra\nDussehra\nRAANUARAN\nPRASANKUMARAN\nDRAVI KIRAN KALIDINDI\nRAVIKIRAN KALIDINDI\nOCAA\nTHN ND\nEWSSRES\nADDICTEDTOMEMES\nRAVALI ILANTIYOUNG TALENTS\nANDHARU INDUSTRY KI RAVALI",
+    "detailed": [
+        {
+            "text": "FIRST LOOK POSTER OF\"KATHAKALI\"",
+            "confidence": 0.941,
+            "box": [
+                [
+                    138.0,
+                    49.0
+                ],
+                [
+                    928.0,
+                    49.0
+                ],
+                [
+                    928.0,
+                    82.0
+                ],
+                [
+                    138.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "DIRECTED BY DEBUT DIRECTOR PRASANNA",
+            "confidence": 0.945,
+            "box": [
+                [
+                    87.0,
+                    100.0
+                ],
+                [
+                    980.0,
+                    100.0
+                ],
+                [
+                    980.0,
+                    134.0
+                ],
+                [
+                    87.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "KUMAR NANI UNDER \"MANYATA PRODUCTIONS'",
+            "confidence": 0.945,
+            "box": [
+                [
+                    25.0,
+                    149.0
+                ],
+                [
+                    1039.0,
+                    149.0
+                ],
+                [
+                    1039.0,
+                    187.0
+                ],
+                [
+                    25.0,
+                    187.0
+                ]
+            ]
+        },
+        {
+            "text": "Mants",
+            "confidence": 0.617,
+            "box": [
+                [
+                    12.0,
+                    277.0
+                ],
+                [
+                    68.0,
+                    273.0
+                ],
+                [
+                    70.0,
+                    300.0
+                ],
+                [
+                    14.0,
+                    304.0
+                ]
+            ]
+        },
+        {
+            "text": "MIRAY",
+            "confidence": 0.822,
+            "box": [
+                [
+                    520.0,
+                    273.0
+                ],
+                [
+                    567.0,
+                    273.0
+                ],
+                [
+                    567.0,
+                    307.0
+                ],
+                [
+                    520.0,
+                    307.0
+                ]
+            ]
+        },
+        {
+            "text": "M",
+            "confidence": 0.736,
+            "box": [
+                [
+                    573.0,
+                    278.0
+                ],
+                [
+                    630.0,
+                    271.0
+                ],
+                [
+                    634.0,
+                    297.0
+                ],
+                [
+                    576.0,
+                    305.0
+                ]
+            ]
+        },
+        {
+            "text": "Happy Birthday",
+            "confidence": 0.971,
+            "box": [
+                [
+                    782.0,
+                    273.0
+                ],
+                [
+                    945.0,
+                    273.0
+                ],
+                [
+                    945.0,
+                    294.0
+                ],
+                [
+                    782.0,
+                    294.0
+                ]
+            ]
+        },
+        {
+            "text": "Yashwanth Pendyala",
+            "confidence": 0.978,
+            "box": [
+                [
+                    202.0,
+                    294.0
+                ],
+                [
+                    404.0,
+                    294.0
+                ],
+                [
+                    404.0,
+                    315.0
+                ],
+                [
+                    202.0,
+                    315.0
+                ]
+            ]
+        },
+        {
+            "text": "Yashwanth Pendyala",
+            "confidence": 0.981,
+            "box": [
+                [
+                    766.0,
+                    294.0
+                ],
+                [
+                    966.0,
+                    294.0
+                ],
+                [
+                    966.0,
+                    315.0
+                ],
+                [
+                    766.0,
+                    315.0
+                ]
+            ]
+        },
+        {
+            "text": "as PC.P.Gopala Krishna",
+            "confidence": 0.958,
+            "box": [
+                [
+                    179.0,
+                    315.0
+                ],
+                [
+                    423.0,
+                    315.0
+                ],
+                [
+                    423.0,
+                    336.0
+                ],
+                [
+                    179.0,
+                    336.0
+                ]
+            ]
+        },
+        {
+            "text": "as PC.P.Gopala Krishna",
+            "confidence": 0.952,
+            "box": [
+                [
+                    741.0,
+                    314.0
+                ],
+                [
+                    987.0,
+                    314.0
+                ],
+                [
+                    987.0,
+                    339.0
+                ],
+                [
+                    741.0,
+                    339.0
+                ]
+            ]
+        },
+        {
+            "text": "Hoppy",
+            "confidence": 0.958,
+            "box": [
+                [
+                    62.0,
+                    778.0
+                ],
+                [
+                    104.0,
+                    784.0
+                ],
+                [
+                    101.0,
+                    804.0
+                ],
+                [
+                    60.0,
+                    798.0
+                ]
+            ]
+        },
+        {
+            "text": "Happy",
+            "confidence": 0.993,
+            "box": [
+                [
+                    631.0,
+                    781.0
+                ],
+                [
+                    668.0,
+                    788.0
+                ],
+                [
+                    664.0,
+                    806.0
+                ],
+                [
+                    627.0,
+                    799.0
+                ]
+            ]
+        },
+        {
+            "text": "Dussehra",
+            "confidence": 0.985,
+            "box": [
+                [
+                    33.0,
+                    793.0
+                ],
+                [
+                    134.0,
+                    796.0
+                ],
+                [
+                    133.0,
+                    821.0
+                ],
+                [
+                    32.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "Dussehra",
+            "confidence": 0.985,
+            "box": [
+                [
+                    599.0,
+                    794.0
+                ],
+                [
+                    698.0,
+                    799.0
+                ],
+                [
+                    697.0,
+                    826.0
+                ],
+                [
+                    597.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "RAANUARAN",
+            "confidence": 0.684,
+            "box": [
+                [
+                    211.0,
+                    914.0
+                ],
+                [
+                    385.0,
+                    913.0
+                ],
+                [
+                    385.0,
+                    935.0
+                ],
+                [
+                    211.0,
+                    937.0
+                ]
+            ]
+        },
+        {
+            "text": "PRASANKUMARAN",
+            "confidence": 0.709,
+            "box": [
+                [
+                    776.0,
+                    916.0
+                ],
+                [
+                    948.0,
+                    916.0
+                ],
+                [
+                    948.0,
+                    937.0
+                ],
+                [
+                    776.0,
+                    937.0
+                ]
+            ]
+        },
+        {
+            "text": "DRAVI KIRAN KALIDINDI",
+            "confidence": 0.805,
+            "box": [
+                [
+                    235.0,
+                    928.0
+                ],
+                [
+                    363.0,
+                    927.0
+                ],
+                [
+                    363.0,
+                    948.0
+                ],
+                [
+                    235.0,
+                    949.0
+                ]
+            ]
+        },
+        {
+            "text": "RAVIKIRAN KALIDINDI",
+            "confidence": 0.803,
+            "box": [
+                [
+                    806.0,
+                    931.0
+                ],
+                [
+                    924.0,
+                    930.0
+                ],
+                [
+                    924.0,
+                    946.0
+                ],
+                [
+                    806.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "OCAA",
+            "confidence": 0.51,
+            "box": [
+                [
+                    183.0,
+                    952.0
+                ],
+                [
+                    263.0,
+                    952.0
+                ],
+                [
+                    263.0,
+                    969.0
+                ],
+                [
+                    183.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "THN ND",
+            "confidence": 0.602,
+            "box": [
+                [
+                    274.0,
+                    944.0
+                ],
+                [
+                    307.0,
+                    944.0
+                ],
+                [
+                    307.0,
+                    956.0
+                ],
+                [
+                    274.0,
+                    956.0
+                ]
+            ]
+        },
+        {
+            "text": "EWSSRES",
+            "confidence": 0.756,
+            "box": [
+                [
+                    361.0,
+                    955.0
+                ],
+                [
+                    397.0,
+                    955.0
+                ],
+                [
+                    397.0,
+                    967.0
+                ],
+                [
+                    361.0,
+                    967.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    25.0,
+                    1119.0
+                ],
+                [
+                    176.0,
+                    1119.0
+                ],
+                [
+                    176.0,
+                    1140.0
+                ],
+                [
+                    25.0,
+                    1140.0
+                ]
+            ]
+        },
+        {
+            "text": "RAVALI ILANTIYOUNG TALENTS",
+            "confidence": 0.971,
+            "box": [
+                [
+                    194.0,
+                    1235.0
+                ],
+                [
+                    811.0,
+                    1235.0
+                ],
+                [
+                    811.0,
+                    1268.0
+                ],
+                [
+                    194.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "ANDHARU INDUSTRY KI RAVALI",
+            "confidence": 0.945,
+            "box": [
+                [
+                    200.0,
+                    1282.0
+                ],
+                [
+                    807.0,
+                    1282.0
+                ],
+                [
+                    807.0,
+                    1320.0
+                ],
+                [
+                    200.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

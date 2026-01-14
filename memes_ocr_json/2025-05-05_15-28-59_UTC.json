@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-05_15-28-59_UTC.jpg",
+    "combined_text": "LUMINOUS\nI have seen in the IPL, the son of Bihar,\nVaibhav Suryavanshi's spectacular\nperformance. At such a young age,\nVaibhav has set such a great record.\nThere is a lot of hard work behind\nVaibhav's performance\nPrime Minister Narendra Modi",
+    "detailed": [
+        {
+            "text": "LUMINOUS",
+            "confidence": 0.984,
+            "box": [
+                [
+                    195.0,
+                    370.0
+                ],
+                [
+                    319.0,
+                    383.0
+                ],
+                [
+                    315.0,
+                    423.0
+                ],
+                [
+                    191.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "I have seen in the IPL, the son of Bihar,",
+            "confidence": 0.981,
+            "box": [
+                [
+                    17.0,
+                    908.0
+                ],
+                [
+                    1055.0,
+                    913.0
+                ],
+                [
+                    1055.0,
+                    966.0
+                ],
+                [
+                    17.0,
+                    962.0
+                ]
+            ]
+        },
+        {
+            "text": "Vaibhav Suryavanshi's spectacular",
+            "confidence": 0.974,
+            "box": [
+                [
+                    75.0,
+                    977.0
+                ],
+                [
+                    1001.0,
+                    980.0
+                ],
+                [
+                    1001.0,
+                    1025.0
+                ],
+                [
+                    74.0,
+                    1022.0
+                ]
+            ]
+        },
+        {
+            "text": "performance. At such a young age,",
+            "confidence": 0.999,
+            "box": [
+                [
+                    68.0,
+                    1035.0
+                ],
+                [
+                    1008.0,
+                    1039.0
+                ],
+                [
+                    1008.0,
+                    1097.0
+                ],
+                [
+                    67.0,
+                    1092.0
+                ]
+            ]
+        },
+        {
+            "text": "Vaibhav has set such a great record.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    58.0,
+                    1099.0
+                ],
+                [
+                    1014.0,
+                    1102.0
+                ],
+                [
+                    1014.0,
+                    1151.0
+                ],
+                [
+                    58.0,
+                    1148.0
+                ]
+            ]
+        },
+        {
+            "text": "There is a lot of hard work behind",
+            "confidence": 0.973,
+            "box": [
+                [
+                    84.0,
+                    1162.0
+                ],
+                [
+                    991.0,
+                    1162.0
+                ],
+                [
+                    991.0,
+                    1210.0
+                ],
+                [
+                    84.0,
+                    1210.0
+                ]
+            ]
+        },
+        {
+            "text": "Vaibhav's performance",
+            "confidence": 0.988,
+            "box": [
+                [
+                    227.0,
+                    1224.0
+                ],
+                [
+                    852.0,
+                    1228.0
+                ],
+                [
+                    852.0,
+                    1277.0
+                ],
+                [
+                    226.0,
+                    1273.0
+                ]
+            ]
+        },
+        {
+            "text": "Prime Minister Narendra Modi",
+            "confidence": 0.958,
+            "box": [
+                [
+                    308.0,
+                    1298.0
+                ],
+                [
+                    779.0,
+                    1300.0
+                ],
+                [
+                    779.0,
+                    1331.0
+                ],
+                [
+                    308.0,
+                    1329.0
+                ]
+            ]
+        }
+    ]
+}

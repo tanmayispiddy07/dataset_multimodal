@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-16_16-53-43_UTC_1.jpg",
+    "combined_text": "sarcasm\nPriyanka Chopra\nCame To Remind Everyone\nThat She Is Miss World",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    482.0,
+                    959.0
+                ],
+                [
+                    596.0,
+                    959.0
+                ],
+                [
+                    596.0,
+                    981.0
+                ],
+                [
+                    482.0,
+                    981.0
+                ]
+            ]
+        },
+        {
+            "text": "Priyanka Chopra",
+            "confidence": 0.99,
+            "box": [
+                [
+                    202.0,
+                    1011.0
+                ],
+                [
+                    879.0,
+                    1018.0
+                ],
+                [
+                    878.0,
+                    1104.0
+                ],
+                [
+                    201.0,
+                    1096.0
+                ]
+            ]
+        },
+        {
+            "text": "Came To Remind Everyone",
+            "confidence": 0.998,
+            "box": [
+                [
+                    13.0,
+                    1126.0
+                ],
+                [
+                    1072.0,
+                    1130.0
+                ],
+                [
+                    1071.0,
+                    1206.0
+                ],
+                [
+                    13.0,
+                    1201.0
+                ]
+            ]
+        },
+        {
+            "text": "That She Is Miss World",
+            "confidence": 0.999,
+            "box": [
+                [
+                    22.0,
+                    1240.0
+                ],
+                [
+                    918.0,
+                    1237.0
+                ],
+                [
+                    918.0,
+                    1312.0
+                ],
+                [
+                    23.0,
+                    1315.0
+                ]
+            ]
+        }
+    ]
+}

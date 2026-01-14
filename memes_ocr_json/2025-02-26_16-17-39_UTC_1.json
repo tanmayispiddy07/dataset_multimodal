@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-02-26_16-17-39_UTC_1.jpg",
+    "combined_text": "ME TO MY CRUSH\nADDICTEDTOMEMES\nCHUDUBANGARAM NVUE FASTING\nUNDATAMU JAGARAM LANTIVI EMCHEYAKU\nENDUKU ANTE DEVATHALU KIAVI\nANNI VARTHINCHAVU KABATI",
+    "detailed": [
+        {
+            "text": "ME TO MY CRUSH",
+            "confidence": 0.957,
+            "box": [
+                [
+                    196.0,
+                    73.0
+                ],
+                [
+                    946.0,
+                    70.0
+                ],
+                [
+                    946.0,
+                    142.0
+                ],
+                [
+                    196.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    861.0,
+                    348.0
+                ],
+                [
+                    1020.0,
+                    348.0
+                ],
+                [
+                    1020.0,
+                    368.0
+                ],
+                [
+                    861.0,
+                    368.0
+                ]
+            ]
+        },
+        {
+            "text": "CHUDUBANGARAM NVUE FASTING",
+            "confidence": 0.965,
+            "box": [
+                [
+                    169.0,
+                    677.0
+                ],
+                [
+                    905.0,
+                    677.0
+                ],
+                [
+                    905.0,
+                    709.0
+                ],
+                [
+                    169.0,
+                    709.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDATAMU JAGARAM LANTIVI EMCHEYAKU",
+            "confidence": 0.971,
+            "box": [
+                [
+                    73.0,
+                    723.0
+                ],
+                [
+                    1001.0,
+                    724.0
+                ],
+                [
+                    1001.0,
+                    764.0
+                ],
+                [
+                    73.0,
+                    762.0
+                ]
+            ]
+        },
+        {
+            "text": "ENDUKU ANTE DEVATHALU KIAVI",
+            "confidence": 0.952,
+            "box": [
+                [
+                    110.0,
+                    1154.0
+                ],
+                [
+                    804.0,
+                    1154.0
+                ],
+                [
+                    804.0,
+                    1189.0
+                ],
+                [
+                    110.0,
+                    1189.0
+                ]
+            ]
+        },
+        {
+            "text": "ANNI VARTHINCHAVU KABATI",
+            "confidence": 0.961,
+            "box": [
+                [
+                    144.0,
+                    1206.0
+                ],
+                [
+                    758.0,
+                    1206.0
+                ],
+                [
+                    758.0,
+                    1241.0
+                ],
+                [
+                    144.0,
+                    1241.0
+                ]
+            ]
+        }
+    ]
+}

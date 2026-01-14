@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-04-24_05-05-31_UTC.jpg",
+    "combined_text": "GOD OF CRICKET\nBAAP OF ALL RECORDS\nINSPIRATION TO MILLIONS\nADDICTEDTOMEMES\nAnL\nHAPPY BIRTHDAY TO THE\n GOD OF\nCRICKET SACHIN TENDULKAR",
+    "detailed": [
+        {
+            "text": "GOD OF CRICKET",
+            "confidence": 0.929,
+            "box": [
+                [
+                    318.0,
+                    37.0
+                ],
+                [
+                    834.0,
+                    34.0
+                ],
+                [
+                    835.0,
+                    82.0
+                ],
+                [
+                    318.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "BAAP OF ALL RECORDS",
+            "confidence": 0.928,
+            "box": [
+                [
+                    221.0,
+                    112.0
+                ],
+                [
+                    918.0,
+                    112.0
+                ],
+                [
+                    918.0,
+                    158.0
+                ],
+                [
+                    221.0,
+                    158.0
+                ]
+            ]
+        },
+        {
+            "text": "INSPIRATION TO MILLIONS",
+            "confidence": 0.958,
+            "box": [
+                [
+                    170.0,
+                    184.0
+                ],
+                [
+                    968.0,
+                    181.0
+                ],
+                [
+                    968.0,
+                    235.0
+                ],
+                [
+                    170.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    889.0,
+                    403.0
+                ],
+                [
+                    1055.0,
+                    403.0
+                ],
+                [
+                    1055.0,
+                    422.0
+                ],
+                [
+                    889.0,
+                    422.0
+                ]
+            ]
+        },
+        {
+            "text": "AnL",
+            "confidence": 0.547,
+            "box": [
+                [
+                    487.0,
+                    709.0
+                ],
+                [
+                    619.0,
+                    760.0
+                ],
+                [
+                    600.0,
+                    809.0
+                ],
+                [
+                    468.0,
+                    759.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY BIRTHDAY TO THE",
+            "confidence": 0.943,
+            "box": [
+                [
+                    106.0,
+                    1041.0
+                ],
+                [
+                    744.0,
+                    1041.0
+                ],
+                [
+                    744.0,
+                    1083.0
+                ],
+                [
+                    106.0,
+                    1083.0
+                ]
+            ]
+        },
+        {
+            "text": " GOD OF",
+            "confidence": 0.89,
+            "box": [
+                [
+                    724.0,
+                    1043.0
+                ],
+                [
+                    958.0,
+                    1043.0
+                ],
+                [
+                    958.0,
+                    1082.0
+                ],
+                [
+                    724.0,
+                    1082.0
+                ]
+            ]
+        },
+        {
+            "text": "CRICKET SACHIN TENDULKAR",
+            "confidence": 0.974,
+            "box": [
+                [
+                    152.0,
+                    1102.0
+                ],
+                [
+                    900.0,
+                    1102.0
+                ],
+                [
+                    900.0,
+                    1152.0
+                ],
+                [
+                    152.0,
+                    1152.0
+                ]
+            ]
+        }
+    ]
+}

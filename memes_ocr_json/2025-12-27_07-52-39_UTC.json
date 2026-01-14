@@ -1,0 +1,358 @@
+{
+    "image_name": "2025-12-27_07-52-39_UTC.jpg",
+    "combined_text": "AMONG CHRISTMAS RELEASES,EESHA\nPERFORMING WELL AT BOXOFFICE .DAY BY\nDAY COLLECTIONS ARE INCREASING\nB/\n2025CHRISTMASWINNER\nThe Fear Collections : Growing\n3.6CR+\nGROSS\nIN20AY5(AP&TG\n2025\nIN CINEMAS NOW\nCHRISTMASWINNERS\nIN CINEMAS NOW\nADDICTEDTOMEMES\nNAKU ILANTI SOUNDQUALITYBAGA\nUNNA MOVIES ANTE INTEREST RA",
+    "detailed": [
+        {
+            "text": "AMONG CHRISTMAS RELEASES,EESHA",
+            "confidence": 0.965,
+            "box": [
+                [
+                    104.0,
+                    56.0
+                ],
+                [
+                    1000.0,
+                    57.0
+                ],
+                [
+                    1000.0,
+                    96.0
+                ],
+                [
+                    103.0,
+                    95.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFORMING WELL AT BOXOFFICE .DAY BY",
+            "confidence": 0.941,
+            "box": [
+                [
+                    60.0,
+                    114.0
+                ],
+                [
+                    1044.0,
+                    114.0
+                ],
+                [
+                    1044.0,
+                    155.0
+                ],
+                [
+                    60.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "DAY COLLECTIONS ARE INCREASING",
+            "confidence": 0.97,
+            "box": [
+                [
+                    128.0,
+                    172.0
+                ],
+                [
+                    974.0,
+                    172.0
+                ],
+                [
+                    974.0,
+                    213.0
+                ],
+                [
+                    128.0,
+                    213.0
+                ]
+            ]
+        },
+        {
+            "text": "B/",
+            "confidence": 0.629,
+            "box": [
+                [
+                    72.0,
+                    285.0
+                ],
+                [
+                    93.0,
+                    285.0
+                ],
+                [
+                    93.0,
+                    301.0
+                ],
+                [
+                    72.0,
+                    301.0
+                ]
+            ]
+        },
+        {
+            "text": "2025CHRISTMASWINNER",
+            "confidence": 0.988,
+            "box": [
+                [
+                    25.0,
+                    324.0
+                ],
+                [
+                    547.0,
+                    324.0
+                ],
+                [
+                    547.0,
+                    374.0
+                ],
+                [
+                    25.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "The Fear Collections : Growing",
+            "confidence": 0.931,
+            "box": [
+                [
+                    598.0,
+                    315.0
+                ],
+                [
+                    1025.0,
+                    322.0
+                ],
+                [
+                    1024.0,
+                    367.0
+                ],
+                [
+                    597.0,
+                    361.0
+                ]
+            ]
+        },
+        {
+            "text": "3.6CR+",
+            "confidence": 0.988,
+            "box": [
+                [
+                    852.0,
+                    394.0
+                ],
+                [
+                    1071.0,
+                    394.0
+                ],
+                [
+                    1071.0,
+                    481.0
+                ],
+                [
+                    852.0,
+                    481.0
+                ]
+            ]
+        },
+        {
+            "text": "GROSS",
+            "confidence": 0.816,
+            "box": [
+                [
+                    860.0,
+                    480.0
+                ],
+                [
+                    1058.0,
+                    480.0
+                ],
+                [
+                    1058.0,
+                    512.0
+                ],
+                [
+                    860.0,
+                    512.0
+                ]
+            ]
+        },
+        {
+            "text": "IN20AY5(AP&TG",
+            "confidence": 0.864,
+            "box": [
+                [
+                    858.0,
+                    520.0
+                ],
+                [
+                    1059.0,
+                    520.0
+                ],
+                [
+                    1059.0,
+                    550.0
+                ],
+                [
+                    858.0,
+                    550.0
+                ]
+            ]
+        },
+        {
+            "text": "2025",
+            "confidence": 0.998,
+            "box": [
+                [
+                    927.0,
+                    582.0
+                ],
+                [
+                    988.0,
+                    582.0
+                ],
+                [
+                    988.0,
+                    612.0
+                ],
+                [
+                    927.0,
+                    612.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS NOW",
+            "confidence": 0.949,
+            "box": [
+                [
+                    650.0,
+                    623.0
+                ],
+                [
+                    724.0,
+                    623.0
+                ],
+                [
+                    724.0,
+                    640.0
+                ],
+                [
+                    650.0,
+                    640.0
+                ]
+            ]
+        },
+        {
+            "text": "CHRISTMASWINNERS",
+            "confidence": 0.944,
+            "box": [
+                [
+                    870.0,
+                    614.0
+                ],
+                [
+                    1046.0,
+                    614.0
+                ],
+                [
+                    1046.0,
+                    642.0
+                ],
+                [
+                    870.0,
+                    642.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS NOW",
+            "confidence": 0.916,
+            "box": [
+                [
+                    58.0,
+                    635.0
+                ],
+                [
+                    164.0,
+                    635.0
+                ],
+                [
+                    164.0,
+                    656.0
+                ],
+                [
+                    58.0,
+                    656.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    922.0,
+                    787.0
+                ],
+                [
+                    1071.0,
+                    787.0
+                ],
+                [
+                    1071.0,
+                    808.0
+                ],
+                [
+                    922.0,
+                    808.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU ILANTI SOUNDQUALITYBAGA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    195.0,
+                    988.0
+                ],
+                [
+                    945.0,
+                    988.0
+                ],
+                [
+                    945.0,
+                    1022.0
+                ],
+                [
+                    195.0,
+                    1022.0
+                ]
+            ]
+        },
+        {
+            "text": "UNNA MOVIES ANTE INTEREST RA",
+            "confidence": 0.942,
+            "box": [
+                [
+                    223.0,
+                    1037.0
+                ],
+                [
+                    915.0,
+                    1038.0
+                ],
+                [
+                    915.0,
+                    1074.0
+                ],
+                [
+                    223.0,
+                    1072.0
+                ]
+            ]
+        }
+    ]
+}

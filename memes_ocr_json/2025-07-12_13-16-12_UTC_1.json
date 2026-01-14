@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-07-12_13-16-12_UTC_1.jpg",
+    "combined_text": "sarcasm\nAsia's Oldest Elephant, 100-Year-Old\nVatsala, Fondly Known as the Grandma\nof Kerala's Wildlife, Passes Away.",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.983,
+            "box": [
+                [
+                    484.0,
+                    1064.0
+                ],
+                [
+                    595.0,
+                    1064.0
+                ],
+                [
+                    595.0,
+                    1082.0
+                ],
+                [
+                    484.0,
+                    1082.0
+                ]
+            ]
+        },
+        {
+            "text": "Asia's Oldest Elephant, 100-Year-Old",
+            "confidence": 0.969,
+            "box": [
+                [
+                    42.0,
+                    1106.0
+                ],
+                [
+                    1041.0,
+                    1106.0
+                ],
+                [
+                    1041.0,
+                    1155.0
+                ],
+                [
+                    42.0,
+                    1155.0
+                ]
+            ]
+        },
+        {
+            "text": "Vatsala, Fondly Known as the Grandma",
+            "confidence": 0.99,
+            "box": [
+                [
+                    18.0,
+                    1174.0
+                ],
+                [
+                    1066.0,
+                    1175.0
+                ],
+                [
+                    1066.0,
+                    1224.0
+                ],
+                [
+                    18.0,
+                    1223.0
+                ]
+            ]
+        },
+        {
+            "text": "of Kerala's Wildlife, Passes Away.",
+            "confidence": 0.991,
+            "box": [
+                [
+                    65.0,
+                    1239.0
+                ],
+                [
+                    931.0,
+                    1247.0
+                ],
+                [
+                    931.0,
+                    1301.0
+                ],
+                [
+                    65.0,
+                    1294.0
+                ]
+            ]
+        }
+    ]
+}

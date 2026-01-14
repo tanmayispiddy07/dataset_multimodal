@@ -1,0 +1,402 @@
+{
+    "image_name": "2025-11-13_11-59-48_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE FILM \"JIGRIS\nWATCHED PREMIER\nLIFE LO OKA 2 HOURS ANNI MARCHIPOYI FRIENDS\nTHONE WHOLE HEARTEDLY NAVVUKOVALI ANTE\nBLINDLY GO FOR THIS MOVIE\nJIGRIS\nUNTMEEPCTIRES\nGRAND\nRELEASE\nTOMOE\nOW\nNOVEMBER\nIN THEATRES\nCRAZE FIRST HALF FOLLOWEDBY EXCELLENT AND\nEMOTIONAL 2ND HALF.FRIENDS MANDHAYLO LO\nCAUSAL CONVERSATIONS ENTHA FUNNY UNTAYO\nALANE UNDI. E MOVIE OTT KI VACHAKA FULL\nMEME CONTENT VASTHUNDI",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE FILM \"JIGRIS",
+            "confidence": 0.922,
+            "box": [
+                [
+                    44.0,
+                    15.0
+                ],
+                [
+                    1057.0,
+                    14.0
+                ],
+                [
+                    1058.0,
+                    56.0
+                ],
+                [
+                    44.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHED PREMIER",
+            "confidence": 0.966,
+            "box": [
+                [
+                    329.0,
+                    75.0
+                ],
+                [
+                    776.0,
+                    75.0
+                ],
+                [
+                    776.0,
+                    113.0
+                ],
+                [
+                    329.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "LIFE LO OKA 2 HOURS ANNI MARCHIPOYI FRIENDS",
+            "confidence": 0.935,
+            "box": [
+                [
+                    46.0,
+                    141.0
+                ],
+                [
+                    1063.0,
+                    142.0
+                ],
+                [
+                    1063.0,
+                    180.0
+                ],
+                [
+                    46.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "text": "THONE WHOLE HEARTEDLY NAVVUKOVALI ANTE",
+            "confidence": 0.958,
+            "box": [
+                [
+                    75.0,
+                    195.0
+                ],
+                [
+                    1035.0,
+                    195.0
+                ],
+                [
+                    1035.0,
+                    229.0
+                ],
+                [
+                    75.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "BLINDLY GO FOR THIS MOVIE",
+            "confidence": 0.934,
+            "box": [
+                [
+                    263.0,
+                    241.0
+                ],
+                [
+                    847.0,
+                    241.0
+                ],
+                [
+                    847.0,
+                    279.0
+                ],
+                [
+                    263.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "JIGRIS",
+            "confidence": 0.89,
+            "box": [
+                [
+                    100.0,
+                    279.0
+                ],
+                [
+                    471.0,
+                    279.0
+                ],
+                [
+                    471.0,
+                    425.0
+                ],
+                [
+                    100.0,
+                    425.0
+                ]
+            ]
+        },
+        {
+            "text": "UNTMEEPCTIRES",
+            "confidence": 0.684,
+            "box": [
+                [
+                    589.0,
+                    322.0
+                ],
+                [
+                    657.0,
+                    322.0
+                ],
+                [
+                    657.0,
+                    339.0
+                ],
+                [
+                    589.0,
+                    339.0
+                ]
+            ]
+        },
+        {
+            "text": "GRAND",
+            "confidence": 0.994,
+            "box": [
+                [
+                    125.0,
+                    447.0
+                ],
+                [
+                    420.0,
+                    447.0
+                ],
+                [
+                    420.0,
+                    495.0
+                ],
+                [
+                    125.0,
+                    495.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASE",
+            "confidence": 0.845,
+            "box": [
+                [
+                    90.0,
+                    500.0
+                ],
+                [
+                    450.0,
+                    500.0
+                ],
+                [
+                    450.0,
+                    546.0
+                ],
+                [
+                    90.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "text": "TOMOE",
+            "confidence": 0.867,
+            "box": [
+                [
+                    50.0,
+                    553.0
+                ],
+                [
+                    317.0,
+                    556.0
+                ],
+                [
+                    316.0,
+                    613.0
+                ],
+                [
+                    49.0,
+                    610.0
+                ]
+            ]
+        },
+        {
+            "text": "OW",
+            "confidence": 0.635,
+            "box": [
+                [
+                    367.0,
+                    558.0
+                ],
+                [
+                    516.0,
+                    558.0
+                ],
+                [
+                    516.0,
+                    606.0
+                ],
+                [
+                    367.0,
+                    606.0
+                ]
+            ]
+        },
+        {
+            "text": "NOVEMBER",
+            "confidence": 0.992,
+            "box": [
+                [
+                    450.0,
+                    885.0
+                ],
+                [
+                    571.0,
+                    885.0
+                ],
+                [
+                    571.0,
+                    916.0
+                ],
+                [
+                    450.0,
+                    916.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATRES",
+            "confidence": 0.967,
+            "box": [
+                [
+                    450.0,
+                    1014.0
+                ],
+                [
+                    568.0,
+                    1018.0
+                ],
+                [
+                    568.0,
+                    1044.0
+                ],
+                [
+                    450.0,
+                    1041.0
+                ]
+            ]
+        },
+        {
+            "text": "CRAZE FIRST HALF FOLLOWEDBY EXCELLENT AND",
+            "confidence": 0.939,
+            "box": [
+                [
+                    39.0,
+                    1082.0
+                ],
+                [
+                    1050.0,
+                    1082.0
+                ],
+                [
+                    1050.0,
+                    1111.0
+                ],
+                [
+                    39.0,
+                    1111.0
+                ]
+            ]
+        },
+        {
+            "text": "EMOTIONAL 2ND HALF.FRIENDS MANDHAYLO LO",
+            "confidence": 0.95,
+            "box": [
+                [
+                    34.0,
+                    1128.0
+                ],
+                [
+                    1055.0,
+                    1128.0
+                ],
+                [
+                    1055.0,
+                    1165.0
+                ],
+                [
+                    34.0,
+                    1165.0
+                ]
+            ]
+        },
+        {
+            "text": "CAUSAL CONVERSATIONS ENTHA FUNNY UNTAYO",
+            "confidence": 0.965,
+            "box": [
+                [
+                    41.0,
+                    1181.0
+                ],
+                [
+                    1048.0,
+                    1181.0
+                ],
+                [
+                    1048.0,
+                    1214.0
+                ],
+                [
+                    41.0,
+                    1214.0
+                ]
+            ]
+        },
+        {
+            "text": "ALANE UNDI. E MOVIE OTT KI VACHAKA FULL",
+            "confidence": 0.942,
+            "box": [
+                [
+                    79.0,
+                    1228.0
+                ],
+                [
+                    1011.0,
+                    1228.0
+                ],
+                [
+                    1011.0,
+                    1266.0
+                ],
+                [
+                    79.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "MEME CONTENT VASTHUNDI",
+            "confidence": 0.966,
+            "box": [
+                [
+                    252.0,
+                    1279.0
+                ],
+                [
+                    827.0,
+                    1279.0
+                ],
+                [
+                    827.0,
+                    1313.0
+                ],
+                [
+                    252.0,
+                    1313.0
+                ]
+            ]
+        }
+    ]
+}

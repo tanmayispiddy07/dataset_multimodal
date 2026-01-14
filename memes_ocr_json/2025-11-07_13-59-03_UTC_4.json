@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-07_13-59-03_UTC_4.jpg",
+    "combined_text": "DRNEP\nROLO\nBut from the first part to this one,\none thing has always been common\n&that's Mastii",
+    "detailed": [
+        {
+            "text": "DRNEP",
+            "confidence": 0.715,
+            "box": [
+                [
+                    117.0,
+                    146.0
+                ],
+                [
+                    226.0,
+                    149.0
+                ],
+                [
+                    225.0,
+                    182.0
+                ],
+                [
+                    116.0,
+                    180.0
+                ]
+            ]
+        },
+        {
+            "text": "ROLO",
+            "confidence": 0.579,
+            "box": [
+                [
+                    128.0,
+                    222.0
+                ],
+                [
+                    224.0,
+                    230.0
+                ],
+                [
+                    221.0,
+                    266.0
+                ],
+                [
+                    125.0,
+                    258.0
+                ]
+            ]
+        },
+        {
+            "text": "But from the first part to this one,",
+            "confidence": 0.951,
+            "box": [
+                [
+                    60.0,
+                    743.0
+                ],
+                [
+                    658.0,
+                    747.0
+                ],
+                [
+                    657.0,
+                    780.0
+                ],
+                [
+                    60.0,
+                    775.0
+                ]
+            ]
+        },
+        {
+            "text": "one thing has always been common",
+            "confidence": 0.968,
+            "box": [
+                [
+                    36.0,
+                    782.0
+                ],
+                [
+                    686.0,
+                    785.0
+                ],
+                [
+                    686.0,
+                    820.0
+                ],
+                [
+                    36.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "&that's Mastii",
+            "confidence": 0.969,
+            "box": [
+                [
+                    176.0,
+                    823.0
+                ],
+                [
+                    449.0,
+                    821.0
+                ],
+                [
+                    449.0,
+                    856.0
+                ],
+                [
+                    176.0,
+                    858.0
+                ]
+            ]
+        }
+    ]
+}

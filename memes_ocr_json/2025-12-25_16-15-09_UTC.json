@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-12-25_16-15-09_UTC.jpg",
+    "combined_text": "HASYA MOVIES IS PRODUCING ITS NEXT\nPROJECT WITH AADI SAI KUMAR.PRODUCER\nRAJESH DANDA MET AND CONGRATULATED\nHIM ON THE SUCCESS OF SHAMBHALA\nAADHI SAI KUMAR\nADOICTEDTOMEMES\nSHAMBHALA LAGA CONTENTUNNA FILMS\nTHONE VASTHE MANA TELUGU AUDIENCE\nEPUDU ENCOURAGE CHESTHARU",
+    "detailed": [
+        {
+            "text": "HASYA MOVIES IS PRODUCING ITS NEXT",
+            "confidence": 0.943,
+            "box": [
+                [
+                    113.0,
+                    36.0
+                ],
+                [
+                    972.0,
+                    36.0
+                ],
+                [
+                    972.0,
+                    71.0
+                ],
+                [
+                    113.0,
+                    71.0
+                ]
+            ]
+        },
+        {
+            "text": "PROJECT WITH AADI SAI KUMAR.PRODUCER",
+            "confidence": 0.949,
+            "box": [
+                [
+                    57.0,
+                    86.0
+                ],
+                [
+                    1026.0,
+                    87.0
+                ],
+                [
+                    1025.0,
+                    127.0
+                ],
+                [
+                    57.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "RAJESH DANDA MET AND CONGRATULATED",
+            "confidence": 0.952,
+            "box": [
+                [
+                    70.0,
+                    144.0
+                ],
+                [
+                    1012.0,
+                    144.0
+                ],
+                [
+                    1012.0,
+                    179.0
+                ],
+                [
+                    70.0,
+                    179.0
+                ]
+            ]
+        },
+        {
+            "text": "HIM ON THE SUCCESS OF SHAMBHALA",
+            "confidence": 0.98,
+            "box": [
+                [
+                    122.0,
+                    196.0
+                ],
+                [
+                    949.0,
+                    196.0
+                ],
+                [
+                    949.0,
+                    236.0
+                ],
+                [
+                    122.0,
+                    236.0
+                ]
+            ]
+        },
+        {
+            "text": "AADHI SAI KUMAR",
+            "confidence": 0.939,
+            "box": [
+                [
+                    47.0,
+                    839.0
+                ],
+                [
+                    360.0,
+                    839.0
+                ],
+                [
+                    360.0,
+                    875.0
+                ],
+                [
+                    47.0,
+                    875.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOICTEDTOMEMES",
+            "confidence": 0.985,
+            "box": [
+                [
+                    482.0,
+                    912.0
+                ],
+                [
+                    597.0,
+                    912.0
+                ],
+                [
+                    597.0,
+                    928.0
+                ],
+                [
+                    482.0,
+                    928.0
+                ]
+            ]
+        },
+        {
+            "text": "SHAMBHALA LAGA CONTENTUNNA FILMS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    66.0,
+                    1107.0
+                ],
+                [
+                    979.0,
+                    1107.0
+                ],
+                [
+                    979.0,
+                    1146.0
+                ],
+                [
+                    66.0,
+                    1146.0
+                ]
+            ]
+        },
+        {
+            "text": "THONE VASTHE MANA TELUGU AUDIENCE",
+            "confidence": 0.95,
+            "box": [
+                [
+                    78.0,
+                    1164.0
+                ],
+                [
+                    967.0,
+                    1164.0
+                ],
+                [
+                    967.0,
+                    1199.0
+                ],
+                [
+                    78.0,
+                    1199.0
+                ]
+            ]
+        },
+        {
+            "text": "EPUDU ENCOURAGE CHESTHARU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    170.0,
+                    1215.0
+                ],
+                [
+                    874.0,
+                    1215.0
+                ],
+                [
+                    874.0,
+                    1254.0
+                ],
+                [
+                    170.0,
+                    1254.0
+                ]
+            ]
+        }
+    ]
+}

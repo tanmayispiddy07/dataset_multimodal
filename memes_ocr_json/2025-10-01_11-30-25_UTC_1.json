@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-10-01_11-30-25_UTC_1.jpg",
+    "combined_text": "Internet celebrates as Dilip Tahil &\nMukesh Rishi gave a hint of comeback\nwith retro-style movie posters\nSwipe >\nShubham2.0\n@bhav_paaji\nThe real bads of bollywood are coming\nback????",
+    "detailed": [
+        {
+            "text": "Internet celebrates as Dilip Tahil &",
+            "confidence": 0.984,
+            "box": [
+                [
+                    94.0,
+                    56.0
+                ],
+                [
+                    977.0,
+                    56.0
+                ],
+                [
+                    977.0,
+                    104.0
+                ],
+                [
+                    94.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "Mukesh Rishi gave a hint of comeback",
+            "confidence": 0.984,
+            "box": [
+                [
+                    48.0,
+                    122.0
+                ],
+                [
+                    1028.0,
+                    122.0
+                ],
+                [
+                    1028.0,
+                    172.0
+                ],
+                [
+                    48.0,
+                    172.0
+                ]
+            ]
+        },
+        {
+            "text": "with retro-style movie posters",
+            "confidence": 0.997,
+            "box": [
+                [
+                    149.0,
+                    188.0
+                ],
+                [
+                    928.0,
+                    190.0
+                ],
+                [
+                    928.0,
+                    239.0
+                ],
+                [
+                    149.0,
+                    238.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe >",
+            "confidence": 0.991,
+            "box": [
+                [
+                    902.0,
+                    312.0
+                ],
+                [
+                    1042.0,
+                    315.0
+                ],
+                [
+                    1041.0,
+                    358.0
+                ],
+                [
+                    901.0,
+                    354.0
+                ]
+            ]
+        },
+        {
+            "text": "Shubham2.0",
+            "confidence": 0.992,
+            "box": [
+                [
+                    449.0,
+                    900.0
+                ],
+                [
+                    657.0,
+                    900.0
+                ],
+                [
+                    657.0,
+                    931.0
+                ],
+                [
+                    449.0,
+                    931.0
+                ]
+            ]
+        },
+        {
+            "text": "@bhav_paaji",
+            "confidence": 0.992,
+            "box": [
+                [
+                    446.0,
+                    934.0
+                ],
+                [
+                    615.0,
+                    937.0
+                ],
+                [
+                    614.0,
+                    969.0
+                ],
+                [
+                    446.0,
+                    966.0
+                ]
+            ]
+        },
+        {
+            "text": "The real bads of bollywood are coming",
+            "confidence": 0.995,
+            "box": [
+                [
+                    369.0,
+                    986.0
+                ],
+                [
+                    963.0,
+                    990.0
+                ],
+                [
+                    963.0,
+                    1025.0
+                ],
+                [
+                    368.0,
+                    1021.0
+                ]
+            ]
+        },
+        {
+            "text": "back????",
+            "confidence": 1.0,
+            "box": [
+                [
+                    368.0,
+                    1032.0
+                ],
+                [
+                    515.0,
+                    1032.0
+                ],
+                [
+                    515.0,
+                    1065.0
+                ],
+                [
+                    368.0,
+                    1065.0
+                ]
+            ]
+        }
+    ]
+}

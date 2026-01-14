@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-03-24_16-32-27_UTC.jpg",
+    "combined_text": "DIRECTOR OF DETECTIVE THRILLER\nVIKKATAKAVI -PRADEEP MADDALIBAGS THE BEST\nDIRECTOR AWARD AT OTT PLAY AWARDS 2025\nSERIES NOW STREAMING ON ZEE5\nZEESWEBSERIES\nADDICTEDTOMEMES\nRELEASE AYINAPUDU NUNCHI CHUSTHUNNA\nAH SUCCESS NI EVARU AAPALERU",
+    "detailed": [
+        {
+            "text": "DIRECTOR OF DETECTIVE THRILLER",
+            "confidence": 0.956,
+            "box": [
+                [
+                    249.0,
+                    18.0
+                ],
+                [
+                    840.0,
+                    18.0
+                ],
+                [
+                    840.0,
+                    47.0
+                ],
+                [
+                    249.0,
+                    47.0
+                ]
+            ]
+        },
+        {
+            "text": "VIKKATAKAVI -PRADEEP MADDALIBAGS THE BEST",
+            "confidence": 0.961,
+            "box": [
+                [
+                    125.0,
+                    57.0
+                ],
+                [
+                    979.0,
+                    59.0
+                ],
+                [
+                    979.0,
+                    89.0
+                ],
+                [
+                    125.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "DIRECTOR AWARD AT OTT PLAY AWARDS 2025",
+            "confidence": 0.921,
+            "box": [
+                [
+                    158.0,
+                    100.0
+                ],
+                [
+                    932.0,
+                    100.0
+                ],
+                [
+                    932.0,
+                    130.0
+                ],
+                [
+                    158.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "SERIES NOW STREAMING ON ZEE5",
+            "confidence": 0.935,
+            "box": [
+                [
+                    260.0,
+                    142.0
+                ],
+                [
+                    832.0,
+                    142.0
+                ],
+                [
+                    832.0,
+                    171.0
+                ],
+                [
+                    260.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "ZEESWEBSERIES",
+            "confidence": 0.965,
+            "box": [
+                [
+                    228.0,
+                    843.0
+                ],
+                [
+                    399.0,
+                    843.0
+                ],
+                [
+                    399.0,
+                    860.0
+                ],
+                [
+                    228.0,
+                    860.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    30.0,
+                    1171.0
+                ],
+                [
+                    207.0,
+                    1171.0
+                ],
+                [
+                    207.0,
+                    1192.0
+                ],
+                [
+                    30.0,
+                    1192.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASE AYINAPUDU NUNCHI CHUSTHUNNA",
+            "confidence": 0.961,
+            "box": [
+                [
+                    104.0,
+                    1240.0
+                ],
+                [
+                    990.0,
+                    1240.0
+                ],
+                [
+                    990.0,
+                    1274.0
+                ],
+                [
+                    104.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "AH SUCCESS NI EVARU AAPALERU",
+            "confidence": 0.937,
+            "box": [
+                [
+                    211.0,
+                    1291.0
+                ],
+                [
+                    873.0,
+                    1291.0
+                ],
+                [
+                    873.0,
+                    1324.0
+                ],
+                [
+                    211.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

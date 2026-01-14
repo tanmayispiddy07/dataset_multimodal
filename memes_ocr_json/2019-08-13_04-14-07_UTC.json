@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-08-13_04-14-07_UTC.jpg",
+    "combined_text": "Sorry sir.helmet intlo marchipoya..\nAITHEV ENT\nnuvvu-Bedroomlohelmet\nuseCheyira saami mundhu..",
+    "detailed": [
+        {
+            "text": "Sorry sir.helmet intlo marchipoya..",
+            "confidence": 0.954,
+            "box": [
+                [
+                    2.0,
+                    138.0
+                ],
+                [
+                    288.0,
+                    139.0
+                ],
+                [
+                    288.0,
+                    164.0
+                ],
+                [
+                    2.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "AITHEV ENT",
+            "confidence": 0.901,
+            "box": [
+                [
+                    253.0,
+                    180.0
+                ],
+                [
+                    308.0,
+                    180.0
+                ],
+                [
+                    308.0,
+                    196.0
+                ],
+                [
+                    253.0,
+                    196.0
+                ]
+            ]
+        },
+        {
+            "text": "nuvvu-Bedroomlohelmet",
+            "confidence": 0.939,
+            "box": [
+                [
+                    1.0,
+                    273.0
+                ],
+                [
+                    223.0,
+                    273.0
+                ],
+                [
+                    223.0,
+                    297.0
+                ],
+                [
+                    1.0,
+                    297.0
+                ]
+            ]
+        },
+        {
+            "text": "useCheyira saami mundhu..",
+            "confidence": 0.944,
+            "box": [
+                [
+                    1.0,
+                    296.0
+                ],
+                [
+                    228.0,
+                    296.0
+                ],
+                [
+                    228.0,
+                    317.0
+                ],
+                [
+                    1.0,
+                    317.0
+                ]
+            ]
+        }
+    ]
+}

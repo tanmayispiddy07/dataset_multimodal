@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-04-29_00-29-35_UTC.jpg",
+    "combined_text": "WHENYOIREISNGYOIR\nPHONEIN THENIGHT\nAND YOUR MOM ENTERSTHE\nROOM",
+    "detailed": [
+        {
+            "text": "WHENYOIREISNGYOIR",
+            "confidence": 0.852,
+            "box": [
+                [
+                    31.0,
+                    12.0
+                ],
+                [
+                    298.0,
+                    12.0
+                ],
+                [
+                    298.0,
+                    31.0
+                ],
+                [
+                    31.0,
+                    31.0
+                ]
+            ]
+        },
+        {
+            "text": "PHONEIN THENIGHT",
+            "confidence": 0.974,
+            "box": [
+                [
+                    58.0,
+                    36.0
+                ],
+                [
+                    270.0,
+                    36.0
+                ],
+                [
+                    270.0,
+                    61.0
+                ],
+                [
+                    58.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "AND YOUR MOM ENTERSTHE",
+            "confidence": 0.933,
+            "box": [
+                [
+                    18.0,
+                    238.0
+                ],
+                [
+                    312.0,
+                    238.0
+                ],
+                [
+                    312.0,
+                    263.0
+                ],
+                [
+                    18.0,
+                    263.0
+                ]
+            ]
+        },
+        {
+            "text": "ROOM",
+            "confidence": 0.996,
+            "box": [
+                [
+                    132.0,
+                    266.0
+                ],
+                [
+                    196.0,
+                    266.0
+                ],
+                [
+                    196.0,
+                    289.0
+                ],
+                [
+                    132.0,
+                    289.0
+                ]
+            ]
+        }
+    ]
+}

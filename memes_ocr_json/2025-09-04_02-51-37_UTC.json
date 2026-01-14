@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-04_02-51-37_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF\n'CONSTABLE\"\nEXCELLENT BGM\nADDICTEDTOMEMES\nTRAILER AADHRINDHI AYYA\nVARUN SANDESHCOMEBACK FILM LAGA UNDI",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF",
+            "confidence": 0.971,
+            "box": [
+                [
+                    183.0,
+                    29.0
+                ],
+                [
+                    869.0,
+                    26.0
+                ],
+                [
+                    869.0,
+                    77.0
+                ],
+                [
+                    183.0,
+                    80.0
+                ]
+            ]
+        },
+        {
+            "text": "'CONSTABLE\"",
+            "confidence": 0.953,
+            "box": [
+                [
+                    350.0,
+                    96.0
+                ],
+                [
+                    705.0,
+                    96.0
+                ],
+                [
+                    705.0,
+                    141.0
+                ],
+                [
+                    350.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCELLENT BGM",
+            "confidence": 0.968,
+            "box": [
+                [
+                    302.0,
+                    162.0
+                ],
+                [
+                    734.0,
+                    162.0
+                ],
+                [
+                    734.0,
+                    208.0
+                ],
+                [
+                    302.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    890.0,
+                    1108.0
+                ],
+                [
+                    1046.0,
+                    1108.0
+                ],
+                [
+                    1046.0,
+                    1129.0
+                ],
+                [
+                    890.0,
+                    1129.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILER AADHRINDHI AYYA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    309.0,
+                    1242.0
+                ],
+                [
+                    828.0,
+                    1242.0
+                ],
+                [
+                    828.0,
+                    1275.0
+                ],
+                [
+                    309.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "VARUN SANDESHCOMEBACK FILM LAGA UNDI",
+            "confidence": 0.946,
+            "box": [
+                [
+                    139.0,
+                    1282.0
+                ],
+                [
+                    1013.0,
+                    1284.0
+                ],
+                [
+                    1012.0,
+                    1325.0
+                ],
+                [
+                    139.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

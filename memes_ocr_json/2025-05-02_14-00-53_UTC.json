@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-05-02_14-00-53_UTC.jpg",
+    "combined_text": "HRIDAYAM LOPALA SONG FROM KINGDOM\nMUSIC BY ANIRUDH\nADDICTEDTOMEMES\nEKKINCHUKUNNADU ANTE BLOCKBUSTER PAKKA",
+    "detailed": [
+        {
+            "text": "HRIDAYAM LOPALA SONG FROM KINGDOM",
+            "confidence": 0.947,
+            "box": [
+                [
+                    4.0,
+                    47.0
+                ],
+                [
+                    1048.0,
+                    47.0
+                ],
+                [
+                    1048.0,
+                    98.0
+                ],
+                [
+                    4.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSIC BY ANIRUDH",
+            "confidence": 0.971,
+            "box": [
+                [
+                    288.0,
+                    110.0
+                ],
+                [
+                    758.0,
+                    110.0
+                ],
+                [
+                    758.0,
+                    152.0
+                ],
+                [
+                    288.0,
+                    152.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    479.0,
+                    627.0
+                ],
+                [
+                    648.0,
+                    626.0
+                ],
+                [
+                    648.0,
+                    651.0
+                ],
+                [
+                    480.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "EKKINCHUKUNNADU ANTE BLOCKBUSTER PAKKA",
+            "confidence": 0.957,
+            "box": [
+                [
+                    87.0,
+                    1291.0
+                ],
+                [
+                    1039.0,
+                    1291.0
+                ],
+                [
+                    1039.0,
+                    1328.0
+                ],
+                [
+                    87.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

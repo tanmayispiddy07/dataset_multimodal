@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-05-21_07-22-25_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nSTOP....STOP....\n**RAIN BRO\nBhava\nWHAT'S GOING ON HERE...\nIDHI SUMMER ANUKUNNAVA LEDHA\nVARSHA KALAM ANUKUNNAVA",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    899.0,
+                    223.0
+                ],
+                [
+                    1057.0,
+                    221.0
+                ],
+                [
+                    1058.0,
+                    239.0
+                ],
+                [
+                    899.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "STOP....STOP....",
+            "confidence": 0.988,
+            "box": [
+                [
+                    249.0,
+                    393.0
+                ],
+                [
+                    847.0,
+                    398.0
+                ],
+                [
+                    847.0,
+                    469.0
+                ],
+                [
+                    248.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "text": "**RAIN BRO",
+            "confidence": 0.974,
+            "box": [
+                [
+                    694.0,
+                    644.0
+                ],
+                [
+                    976.0,
+                    649.0
+                ],
+                [
+                    975.0,
+                    700.0
+                ],
+                [
+                    693.0,
+                    695.0
+                ]
+            ]
+        },
+        {
+            "text": "Bhava",
+            "confidence": 0.949,
+            "box": [
+                [
+                    974.0,
+                    765.0
+                ],
+                [
+                    1079.0,
+                    768.0
+                ],
+                [
+                    1078.0,
+                    799.0
+                ],
+                [
+                    973.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "WHAT'S GOING ON HERE...",
+            "confidence": 0.915,
+            "box": [
+                [
+                    288.0,
+                    895.0
+                ],
+                [
+                    889.0,
+                    896.0
+                ],
+                [
+                    889.0,
+                    937.0
+                ],
+                [
+                    288.0,
+                    936.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHI SUMMER ANUKUNNAVA LEDHA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    183.0,
+                    951.0
+                ],
+                [
+                    996.0,
+                    951.0
+                ],
+                [
+                    996.0,
+                    991.0
+                ],
+                [
+                    183.0,
+                    991.0
+                ]
+            ]
+        },
+        {
+            "text": "VARSHA KALAM ANUKUNNAVA",
+            "confidence": 0.97,
+            "box": [
+                [
+                    228.0,
+                    1008.0
+                ],
+                [
+                    938.0,
+                    1009.0
+                ],
+                [
+                    938.0,
+                    1050.0
+                ],
+                [
+                    228.0,
+                    1049.0
+                ]
+            ]
+        }
+    ]
+}

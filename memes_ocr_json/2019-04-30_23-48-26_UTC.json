@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-04-30_23-48-26_UTC.jpg",
+    "combined_text": "OUCORRECT MY ENGLIGH?\nRUKIATU\nICORRECT YOURFACE",
+    "detailed": [
+        {
+            "text": "OUCORRECT MY ENGLIGH?",
+            "confidence": 0.919,
+            "box": [
+                [
+                    6.0,
+                    175.0
+                ],
+                [
+                    460.0,
+                    175.0
+                ],
+                [
+                    460.0,
+                    216.0
+                ],
+                [
+                    6.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "RUKIATU",
+            "confidence": 0.848,
+            "box": [
+                [
+                    212.0,
+                    398.0
+                ],
+                [
+                    294.0,
+                    398.0
+                ],
+                [
+                    294.0,
+                    417.0
+                ],
+                [
+                    212.0,
+                    417.0
+                ]
+            ]
+        },
+        {
+            "text": "ICORRECT YOURFACE",
+            "confidence": 0.928,
+            "box": [
+                [
+                    26.0,
+                    423.0
+                ],
+                [
+                    446.0,
+                    423.0
+                ],
+                [
+                    446.0,
+                    460.0
+                ],
+                [
+                    26.0,
+                    460.0
+                ]
+            ]
+        }
+    ]
+}

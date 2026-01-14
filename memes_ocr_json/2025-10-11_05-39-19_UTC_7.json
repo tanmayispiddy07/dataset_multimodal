@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-10-11_05-39-19_UTC_7.jpg",
+    "combined_text": "sarcasm\nCafeteria in Anime\nCafeteria in real life",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    488.0,
+                    551.0
+                ],
+                [
+                    591.0,
+                    551.0
+                ],
+                [
+                    591.0,
+                    573.0
+                ],
+                [
+                    488.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "Cafeteria in Anime",
+            "confidence": 0.985,
+            "box": [
+                [
+                    194.0,
+                    609.0
+                ],
+                [
+                    880.0,
+                    609.0
+                ],
+                [
+                    880.0,
+                    670.0
+                ],
+                [
+                    194.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "text": "Cafeteria in real life",
+            "confidence": 0.972,
+            "box": [
+                [
+                    173.0,
+                    1276.0
+                ],
+                [
+                    904.0,
+                    1279.0
+                ],
+                [
+                    904.0,
+                    1345.0
+                ],
+                [
+                    173.0,
+                    1342.0
+                ]
+            ]
+        }
+    ]
+}

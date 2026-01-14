@@ -1,0 +1,72 @@
+{
+    "image_name": "2023-04-13_12-49-55_UTC_2.jpg",
+    "combined_text": "Chala Mandi IT side velali anukuntarubutNon IT\nbranch ani percentage ledu ani aag!pothuntaru\nMeeku telusa....??",
+    "detailed": [
+        {
+            "text": "Chala Mandi IT side velali anukuntarubutNon IT",
+            "confidence": 0.965,
+            "box": [
+                [
+                    32.0,
+                    454.0
+                ],
+                [
+                    1052.0,
+                    456.0
+                ],
+                [
+                    1052.0,
+                    496.0
+                ],
+                [
+                    31.0,
+                    495.0
+                ]
+            ]
+        },
+        {
+            "text": "branch ani percentage ledu ani aag!pothuntaru",
+            "confidence": 0.998,
+            "box": [
+                [
+                    29.0,
+                    493.0
+                ],
+                [
+                    1054.0,
+                    496.0
+                ],
+                [
+                    1054.0,
+                    537.0
+                ],
+                [
+                    29.0,
+                    533.0
+                ]
+            ]
+        },
+        {
+            "text": "Meeku telusa....??",
+            "confidence": 0.957,
+            "box": [
+                [
+                    343.0,
+                    1017.0
+                ],
+                [
+                    777.0,
+                    1011.0
+                ],
+                [
+                    778.0,
+                    1063.0
+                ],
+                [
+                    344.0,
+                    1069.0
+                ]
+            ]
+        }
+    ]
+}

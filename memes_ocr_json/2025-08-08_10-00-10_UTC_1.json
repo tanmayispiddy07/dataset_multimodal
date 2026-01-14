@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-08_10-00-10_UTC_1.jpg",
+    "combined_text": "America pushes, but\nIndia won't budge",
+    "detailed": [
+        {
+            "text": "America pushes, but",
+            "confidence": 1.0,
+            "box": [
+                [
+                    219.0,
+                    56.0
+                ],
+                [
+                    861.0,
+                    56.0
+                ],
+                [
+                    861.0,
+                    118.0
+                ],
+                [
+                    219.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "India won't budge",
+            "confidence": 0.995,
+            "box": [
+                [
+                    175.0,
+                    142.0
+                ],
+                [
+                    821.0,
+                    145.0
+                ],
+                [
+                    821.0,
+                    215.0
+                ],
+                [
+                    174.0,
+                    212.0
+                ]
+            ]
+        }
+    ]
+}

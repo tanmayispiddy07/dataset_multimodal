@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-10-16_12-01-13_UTC_3.jpg",
+    "combined_text": "Matching crocs buddy OC",
+    "detailed": [
+        {
+            "text": "Matching crocs buddy OC",
+            "confidence": 0.971,
+            "box": [
+                [
+                    191.0,
+                    101.0
+                ],
+                [
+                    876.0,
+                    97.0
+                ],
+                [
+                    876.0,
+                    159.0
+                ],
+                [
+                    192.0,
+                    163.0
+                ]
+            ]
+        }
+    ]
+}

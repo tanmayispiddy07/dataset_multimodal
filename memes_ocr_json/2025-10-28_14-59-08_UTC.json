@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-10-28_14-59-08_UTC.jpg",
+    "combined_text": "Men's logic be like",
+    "detailed": [
+        {
+            "text": "Men's logic be like",
+            "confidence": 0.965,
+            "box": [
+                [
+                    138.0,
+                    139.0
+                ],
+                [
+                    362.0,
+                    139.0
+                ],
+                [
+                    362.0,
+                    167.0
+                ],
+                [
+                    138.0,
+                    167.0
+                ]
+            ]
+        }
+    ]
+}

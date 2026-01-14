@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-06-11_11-32-55_UTC.jpg",
+    "combined_text": "DIY cute gift idea",
+    "detailed": [
+        {
+            "text": "DIY cute gift idea",
+            "confidence": 1.0,
+            "box": [
+                [
+                    94.0,
+                    154.0
+                ],
+                [
+                    396.0,
+                    156.0
+                ],
+                [
+                    396.0,
+                    191.0
+                ],
+                [
+                    94.0,
+                    189.0
+                ]
+            ]
+        }
+    ]
+}

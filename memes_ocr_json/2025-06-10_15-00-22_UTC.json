@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-06-10_15-00-22_UTC.jpg",
+    "combined_text": "CHAYA CHITRALU PRODUCTION NO1\nTITLED AS\"PAYANAM\"\nSHOOT BEGINS FROM JULY 4TH\nADDICTEDTOMEMES\nTelugu\nYOUNG TEAM NUNCHI\nMANCHI CONTENT RAVALI\nALL THE BEST",
+    "detailed": [
+        {
+            "text": "CHAYA CHITRALU PRODUCTION NO1",
+            "confidence": 0.936,
+            "box": [
+                [
+                    117.0,
+                    18.0
+                ],
+                [
+                    982.0,
+                    18.0
+                ],
+                [
+                    982.0,
+                    64.0
+                ],
+                [
+                    117.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "TITLED AS\"PAYANAM\"",
+            "confidence": 0.938,
+            "box": [
+                [
+                    285.0,
+                    79.0
+                ],
+                [
+                    810.0,
+                    79.0
+                ],
+                [
+                    810.0,
+                    121.0
+                ],
+                [
+                    285.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "SHOOT BEGINS FROM JULY 4TH",
+            "confidence": 0.967,
+            "box": [
+                [
+                    166.0,
+                    137.0
+                ],
+                [
+                    921.0,
+                    138.0
+                ],
+                [
+                    921.0,
+                    184.0
+                ],
+                [
+                    166.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    903.0,
+                    1112.0
+                ],
+                [
+                    1066.0,
+                    1112.0
+                ],
+                [
+                    1066.0,
+                    1137.0
+                ],
+                [
+                    903.0,
+                    1137.0
+                ]
+            ]
+        },
+        {
+            "text": "Telugu",
+            "confidence": 0.997,
+            "box": [
+                [
+                    956.0,
+                    1149.0
+                ],
+                [
+                    1063.0,
+                    1156.0
+                ],
+                [
+                    1060.0,
+                    1191.0
+                ],
+                [
+                    954.0,
+                    1184.0
+                ]
+            ]
+        },
+        {
+            "text": "YOUNG TEAM NUNCHI",
+            "confidence": 0.97,
+            "box": [
+                [
+                    640.0,
+                    1201.0
+                ],
+                [
+                    1025.0,
+                    1203.0
+                ],
+                [
+                    1025.0,
+                    1240.0
+                ],
+                [
+                    640.0,
+                    1239.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHI CONTENT RAVALI",
+            "confidence": 0.953,
+            "box": [
+                [
+                    602.0,
+                    1245.0
+                ],
+                [
+                    1056.0,
+                    1246.0
+                ],
+                [
+                    1056.0,
+                    1284.0
+                ],
+                [
+                    602.0,
+                    1282.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL THE BEST",
+            "confidence": 0.926,
+            "box": [
+                [
+                    710.0,
+                    1292.0
+                ],
+                [
+                    945.0,
+                    1292.0
+                ],
+                [
+                    945.0,
+                    1327.0
+                ],
+                [
+                    710.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

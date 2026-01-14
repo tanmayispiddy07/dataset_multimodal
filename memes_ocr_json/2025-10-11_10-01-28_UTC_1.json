@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-11_10-01-28_UTC_1.jpg",
+    "combined_text": "A Gen Z intern was caught trying to\ndate two girls at the same time in\nthe office O0\nSwipe >",
+    "detailed": [
+        {
+            "text": "A Gen Z intern was caught trying to",
+            "confidence": 0.986,
+            "box": [
+                [
+                    42.0,
+                    45.0
+                ],
+                [
+                    1034.0,
+                    52.0
+                ],
+                [
+                    1033.0,
+                    110.0
+                ],
+                [
+                    42.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "date two girls at the same time in",
+            "confidence": 0.981,
+            "box": [
+                [
+                    68.0,
+                    131.0
+                ],
+                [
+                    1012.0,
+                    131.0
+                ],
+                [
+                    1012.0,
+                    188.0
+                ],
+                [
+                    68.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "the office O0",
+            "confidence": 0.935,
+            "box": [
+                [
+                    313.0,
+                    212.0
+                ],
+                [
+                    668.0,
+                    209.0
+                ],
+                [
+                    668.0,
+                    264.0
+                ],
+                [
+                    314.0,
+                    267.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe >",
+            "confidence": 0.932,
+            "box": [
+                [
+                    886.0,
+                    353.0
+                ],
+                [
+                    1025.0,
+                    353.0
+                ],
+                [
+                    1025.0,
+                    395.0
+                ],
+                [
+                    886.0,
+                    395.0
+                ]
+            ]
+        }
+    ]
+}

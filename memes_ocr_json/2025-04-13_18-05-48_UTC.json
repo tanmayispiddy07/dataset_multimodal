@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-04-13_18-05-48_UTC.jpg",
+    "combined_text": "REYEMUMBAIVALLU\nCOMEBACK ICHARU RAA\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "REYEMUMBAIVALLU",
+            "confidence": 0.989,
+            "box": [
+                [
+                    198.0,
+                    371.0
+                ],
+                [
+                    862.0,
+                    371.0
+                ],
+                [
+                    862.0,
+                    426.0
+                ],
+                [
+                    198.0,
+                    426.0
+                ]
+            ]
+        },
+        {
+            "text": "COMEBACK ICHARU RAA",
+            "confidence": 0.962,
+            "box": [
+                [
+                    142.0,
+                    446.0
+                ],
+                [
+                    916.0,
+                    449.0
+                ],
+                [
+                    915.0,
+                    504.0
+                ],
+                [
+                    142.0,
+                    501.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    468.0,
+                    925.0
+                ],
+                [
+                    624.0,
+                    925.0
+                ],
+                [
+                    624.0,
+                    946.0
+                ],
+                [
+                    468.0,
+                    946.0
+                ]
+            ]
+        }
+    ]
+}

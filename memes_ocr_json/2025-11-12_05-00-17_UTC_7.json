@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-11-12_05-00-17_UTC_7.jpg",
+    "combined_text": "HANGING OUT WITH HOMIES ?",
+    "detailed": [
+        {
+            "text": "HANGING OUT WITH HOMIES ?",
+            "confidence": 0.805,
+            "box": [
+                [
+                    115.0,
+                    1176.0
+                ],
+                [
+                    995.0,
+                    1171.0
+                ],
+                [
+                    996.0,
+                    1225.0
+                ],
+                [
+                    115.0,
+                    1229.0
+                ]
+            ]
+        }
+    ]
+}

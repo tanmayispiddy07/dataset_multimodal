@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-06-30_16-54-20_UTC.jpg",
+    "combined_text": "EVERYONE WATCHING AND\nTALKING ABOUT F1MOVIE WHICH\nIS ABOUTCAR RACING\nADDICTEDTOMEMES\nME WHOONLY KNOWS ABOUT\nHILL CLIMB RACING GAME",
+    "detailed": [
+        {
+            "text": "EVERYONE WATCHING AND",
+            "confidence": 0.954,
+            "box": [
+                [
+                    286.0,
+                    234.0
+                ],
+                [
+                    765.0,
+                    234.0
+                ],
+                [
+                    765.0,
+                    264.0
+                ],
+                [
+                    286.0,
+                    264.0
+                ]
+            ]
+        },
+        {
+            "text": "TALKING ABOUT F1MOVIE WHICH",
+            "confidence": 0.937,
+            "box": [
+                [
+                    226.0,
+                    277.0
+                ],
+                [
+                    827.0,
+                    277.0
+                ],
+                [
+                    827.0,
+                    310.0
+                ],
+                [
+                    226.0,
+                    310.0
+                ]
+            ]
+        },
+        {
+            "text": "IS ABOUTCAR RACING",
+            "confidence": 0.96,
+            "box": [
+                [
+                    314.0,
+                    321.0
+                ],
+                [
+                    724.0,
+                    321.0
+                ],
+                [
+                    724.0,
+                    354.0
+                ],
+                [
+                    314.0,
+                    354.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    471.0,
+                    474.0
+                ],
+                [
+                    615.0,
+                    474.0
+                ],
+                [
+                    615.0,
+                    494.0
+                ],
+                [
+                    471.0,
+                    494.0
+                ]
+            ]
+        },
+        {
+            "text": "ME WHOONLY KNOWS ABOUT",
+            "confidence": 0.944,
+            "box": [
+                [
+                    278.0,
+                    645.0
+                ],
+                [
+                    886.0,
+                    645.0
+                ],
+                [
+                    886.0,
+                    682.0
+                ],
+                [
+                    278.0,
+                    682.0
+                ]
+            ]
+        },
+        {
+            "text": "HILL CLIMB RACING GAME",
+            "confidence": 0.971,
+            "box": [
+                [
+                    318.0,
+                    696.0
+                ],
+                [
+                    846.0,
+                    696.0
+                ],
+                [
+                    846.0,
+                    734.0
+                ],
+                [
+                    318.0,
+                    734.0
+                ]
+            ]
+        }
+    ]
+}

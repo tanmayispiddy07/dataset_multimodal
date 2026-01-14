@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-23_07-54-38_UTC_6.jpg",
+    "combined_text": "ALWAYS TRUST OUR ADDICTED TO\nMEMES PAGE REVIEWS AND WEEKEND\nMOVIE SUGGESTIONS.REVIEWS\nAND WEEKEND SUGGESTIONS LO NO\nCOMPRAMISE WE GIVE OUR BEST AND\nGENUINE SUGGESTIONS",
+    "detailed": [
+        {
+            "text": "ALWAYS TRUST OUR ADDICTED TO",
+            "confidence": 0.932,
+            "box": [
+                [
+                    89.0,
+                    457.0
+                ],
+                [
+                    982.0,
+                    457.0
+                ],
+                [
+                    982.0,
+                    495.0
+                ],
+                [
+                    89.0,
+                    495.0
+                ]
+            ]
+        },
+        {
+            "text": "MEMES PAGE REVIEWS AND WEEKEND",
+            "confidence": 0.953,
+            "box": [
+                [
+                    39.0,
+                    521.0
+                ],
+                [
+                    1034.0,
+                    521.0
+                ],
+                [
+                    1034.0,
+                    563.0
+                ],
+                [
+                    39.0,
+                    563.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE SUGGESTIONS.REVIEWS",
+            "confidence": 0.975,
+            "box": [
+                [
+                    105.0,
+                    587.0
+                ],
+                [
+                    965.0,
+                    587.0
+                ],
+                [
+                    965.0,
+                    629.0
+                ],
+                [
+                    105.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "AND WEEKEND SUGGESTIONS LO NO",
+            "confidence": 0.946,
+            "box": [
+                [
+                    45.0,
+                    652.0
+                ],
+                [
+                    1027.0,
+                    652.0
+                ],
+                [
+                    1027.0,
+                    694.0
+                ],
+                [
+                    45.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "COMPRAMISE WE GIVE OUR BEST AND",
+            "confidence": 0.964,
+            "box": [
+                [
+                    24.0,
+                    712.0
+                ],
+                [
+                    1046.0,
+                    714.0
+                ],
+                [
+                    1046.0,
+                    765.0
+                ],
+                [
+                    24.0,
+                    764.0
+                ]
+            ]
+        },
+        {
+            "text": "GENUINE SUGGESTIONS",
+            "confidence": 0.983,
+            "box": [
+                [
+                    208.0,
+                    782.0
+                ],
+                [
+                    847.0,
+                    782.0
+                ],
+                [
+                    847.0,
+                    828.0
+                ],
+                [
+                    208.0,
+                    828.0
+                ]
+            ]
+        }
+    ]
+}

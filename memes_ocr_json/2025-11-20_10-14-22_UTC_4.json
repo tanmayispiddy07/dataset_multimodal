@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-20_10-14-22_UTC_4.jpg",
+    "combined_text": "AMENT AND TRIGGER HAPPY STUDIOS PRESENT\nAITLEO\nHA\nN THE BATTLE",
+    "detailed": [
+        {
+            "text": "AMENT AND TRIGGER HAPPY STUDIOS PRESENT",
+            "confidence": 0.93,
+            "box": [
+                [
+                    3.0,
+                    74.0
+                ],
+                [
+                    480.0,
+                    105.0
+                ],
+                [
+                    478.0,
+                    140.0
+                ],
+                [
+                    1.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "AITLEO",
+            "confidence": 0.909,
+            "box": [
+                [
+                    1035.0,
+                    628.0
+                ],
+                [
+                    1079.0,
+                    628.0
+                ],
+                [
+                    1079.0,
+                    652.0
+                ],
+                [
+                    1035.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "HA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    35.0,
+                    828.0
+                ],
+                [
+                    259.0,
+                    828.0
+                ],
+                [
+                    259.0,
+                    1041.0
+                ],
+                [
+                    35.0,
+                    1041.0
+                ]
+            ]
+        },
+        {
+            "text": "N THE BATTLE",
+            "confidence": 0.961,
+            "box": [
+                [
+                    0.0,
+                    1070.0
+                ],
+                [
+                    265.0,
+                    1028.0
+                ],
+                [
+                    271.0,
+                    1067.0
+                ],
+                [
+                    3.0,
+                    1109.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-05-08_08-50-39_UTC.jpg",
+    "combined_text": "KING NAGARJUNAAS\nuoun\nKALANITHI MARAN\nTA RAJINIKANTH\nLOKESH KANAGARA)\nNANIRUDH\nONANBARIV\nOKKA BACKSHOT THO SOCIAL MEDIA *\nADDICTEDTOMEMES\nHYPE EKKINCHUKONDRAA\nVINTAGE KING NAGARJUNA IS COMING",
+    "detailed": [
+        {
+            "text": "KING NAGARJUNAAS",
+            "confidence": 0.934,
+            "box": [
+                [
+                    122.0,
+                    136.0
+                ],
+                [
+                    239.0,
+                    136.0
+                ],
+                [
+                    239.0,
+                    157.0
+                ],
+                [
+                    122.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "uoun",
+            "confidence": 0.859,
+            "box": [
+                [
+                    91.0,
+                    158.0
+                ],
+                [
+                    239.0,
+                    162.0
+                ],
+                [
+                    238.0,
+                    211.0
+                ],
+                [
+                    90.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "KALANITHI MARAN",
+            "confidence": 0.954,
+            "box": [
+                [
+                    397.0,
+                    383.0
+                ],
+                [
+                    501.0,
+                    387.0
+                ],
+                [
+                    500.0,
+                    408.0
+                ],
+                [
+                    396.0,
+                    404.0
+                ]
+            ]
+        },
+        {
+            "text": "TA RAJINIKANTH",
+            "confidence": 0.86,
+            "box": [
+                [
+                    413.0,
+                    409.0
+                ],
+                [
+                    501.0,
+                    409.0
+                ],
+                [
+                    501.0,
+                    430.0
+                ],
+                [
+                    413.0,
+                    430.0
+                ]
+            ]
+        },
+        {
+            "text": "LOKESH KANAGARA)",
+            "confidence": 0.871,
+            "box": [
+                [
+                    392.0,
+                    540.0
+                ],
+                [
+                    499.0,
+                    538.0
+                ],
+                [
+                    499.0,
+                    561.0
+                ],
+                [
+                    393.0,
+                    562.0
+                ]
+            ]
+        },
+        {
+            "text": "NANIRUDH",
+            "confidence": 0.958,
+            "box": [
+                [
+                    413.0,
+                    562.0
+                ],
+                [
+                    465.0,
+                    562.0
+                ],
+                [
+                    465.0,
+                    579.0
+                ],
+                [
+                    413.0,
+                    579.0
+                ]
+            ]
+        },
+        {
+            "text": "ONANBARIV",
+            "confidence": 0.962,
+            "box": [
+                [
+                    446.0,
+                    571.0
+                ],
+                [
+                    496.0,
+                    571.0
+                ],
+                [
+                    496.0,
+                    589.0
+                ],
+                [
+                    446.0,
+                    589.0
+                ]
+            ]
+        },
+        {
+            "text": "OKKA BACKSHOT THO SOCIAL MEDIA *",
+            "confidence": 0.927,
+            "box": [
+                [
+                    105.0,
+                    762.0
+                ],
+                [
+                    918.0,
+                    762.0
+                ],
+                [
+                    918.0,
+                    800.0
+                ],
+                [
+                    105.0,
+                    800.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    901.0,
+                    965.0
+                ],
+                [
+                    1056.0,
+                    965.0
+                ],
+                [
+                    1056.0,
+                    986.0
+                ],
+                [
+                    901.0,
+                    986.0
+                ]
+            ]
+        },
+        {
+            "text": "HYPE EKKINCHUKONDRAA",
+            "confidence": 0.983,
+            "box": [
+                [
+                    248.0,
+                    1246.0
+                ],
+                [
+                    827.0,
+                    1248.0
+                ],
+                [
+                    827.0,
+                    1290.0
+                ],
+                [
+                    247.0,
+                    1289.0
+                ]
+            ]
+        },
+        {
+            "text": "VINTAGE KING NAGARJUNA IS COMING",
+            "confidence": 0.947,
+            "box": [
+                [
+                    83.0,
+                    1287.0
+                ],
+                [
+                    996.0,
+                    1287.0
+                ],
+                [
+                    996.0,
+                    1334.0
+                ],
+                [
+                    83.0,
+                    1334.0
+                ]
+            ]
+        }
+    ]
+}

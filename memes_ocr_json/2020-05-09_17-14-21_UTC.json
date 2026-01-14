@@ -1,0 +1,50 @@
+{
+    "image_name": "2020-05-09_17-14-21_UTC.jpg",
+    "combined_text": "'aa choopu enti\n'naa choopu inthe i can't change my face",
+    "detailed": [
+        {
+            "text": "'aa choopu enti",
+            "confidence": 0.962,
+            "box": [
+                [
+                    23.0,
+                    37.0
+                ],
+                [
+                    359.0,
+                    37.0
+                ],
+                [
+                    359.0,
+                    82.0
+                ],
+                [
+                    23.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "'naa choopu inthe i can't change my face",
+            "confidence": 0.966,
+            "box": [
+                [
+                    6.0,
+                    444.0
+                ],
+                [
+                    674.0,
+                    444.0
+                ],
+                [
+                    674.0,
+                    480.0
+                ],
+                [
+                    6.0,
+                    480.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2023-05-05_12-11-03_UTC_7.jpg",
+    "combined_text": "BEFORE\nAFTER\nBHARATH RAJ\nPerfect for my beard, with proper skin grooming\nand daily application it sure does increase\nthe beard density.",
+    "detailed": [
+        {
+            "text": "BEFORE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    245.0,
+                    91.0
+                ],
+                [
+                    382.0,
+                    94.0
+                ],
+                [
+                    381.0,
+                    133.0
+                ],
+                [
+                    244.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER",
+            "confidence": 0.997,
+            "box": [
+                [
+                    715.0,
+                    90.0
+                ],
+                [
+                    833.0,
+                    93.0
+                ],
+                [
+                    832.0,
+                    135.0
+                ],
+                [
+                    714.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "BHARATH RAJ",
+            "confidence": 0.973,
+            "box": [
+                [
+                    431.0,
+                    773.0
+                ],
+                [
+                    682.0,
+                    776.0
+                ],
+                [
+                    681.0,
+                    815.0
+                ],
+                [
+                    431.0,
+                    811.0
+                ]
+            ]
+        },
+        {
+            "text": "Perfect for my beard, with proper skin grooming",
+            "confidence": 0.97,
+            "box": [
+                [
+                    145.0,
+                    828.0
+                ],
+                [
+                    957.0,
+                    831.0
+                ],
+                [
+                    957.0,
+                    870.0
+                ],
+                [
+                    145.0,
+                    866.0
+                ]
+            ]
+        },
+        {
+            "text": "and daily application it sure does increase",
+            "confidence": 0.97,
+            "box": [
+                [
+                    199.0,
+                    878.0
+                ],
+                [
+                    906.0,
+                    878.0
+                ],
+                [
+                    906.0,
+                    911.0
+                ],
+                [
+                    199.0,
+                    911.0
+                ]
+            ]
+        },
+        {
+            "text": "the beard density.",
+            "confidence": 0.952,
+            "box": [
+                [
+                    405.0,
+                    919.0
+                ],
+                [
+                    704.0,
+                    923.0
+                ],
+                [
+                    704.0,
+                    958.0
+                ],
+                [
+                    405.0,
+                    954.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-11-15_14-44-18_UTC.jpg",
+    "combined_text": "MAHESH BABU VISHWAROOPAM\nCHUSTHARU.3O MINS LENGTH VUNNA\nACTION SCENE...DUBBING LEDU..CG\nLEDU..RE-RECORDING LEDU..\nMANTRAMUGDHULNI CHESESTHADI\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "MAHESH BABU VISHWAROOPAM",
+            "confidence": 0.959,
+            "box": [
+                [
+                    195.0,
+                    76.0
+                ],
+                [
+                    931.0,
+                    76.0
+                ],
+                [
+                    931.0,
+                    112.0
+                ],
+                [
+                    195.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "CHUSTHARU.3O MINS LENGTH VUNNA",
+            "confidence": 0.946,
+            "box": [
+                [
+                    127.0,
+                    132.0
+                ],
+                [
+                    999.0,
+                    132.0
+                ],
+                [
+                    999.0,
+                    168.0
+                ],
+                [
+                    127.0,
+                    168.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTION SCENE...DUBBING LEDU..CG",
+            "confidence": 0.949,
+            "box": [
+                [
+                    151.0,
+                    188.0
+                ],
+                [
+                    976.0,
+                    188.0
+                ],
+                [
+                    976.0,
+                    224.0
+                ],
+                [
+                    151.0,
+                    224.0
+                ]
+            ]
+        },
+        {
+            "text": "LEDU..RE-RECORDING LEDU..",
+            "confidence": 0.977,
+            "box": [
+                [
+                    223.0,
+                    243.0
+                ],
+                [
+                    892.0,
+                    243.0
+                ],
+                [
+                    892.0,
+                    279.0
+                ],
+                [
+                    223.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "MANTRAMUGDHULNI CHESESTHADI",
+            "confidence": 0.979,
+            "box": [
+                [
+                    158.0,
+                    298.0
+                ],
+                [
+                    970.0,
+                    298.0
+                ],
+                [
+                    970.0,
+                    334.0
+                ],
+                [
+                    158.0,
+                    334.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    14.0,
+                    464.0
+                ],
+                [
+                    171.0,
+                    464.0
+                ],
+                [
+                    171.0,
+                    486.0
+                ],
+                [
+                    14.0,
+                    486.0
+                ]
+            ]
+        }
+    ]
+}

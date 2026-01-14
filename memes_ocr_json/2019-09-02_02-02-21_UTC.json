@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-09-02_02-02-21_UTC.jpg",
+    "combined_text": "When you come home with an injury\nOTHERMOMS\nINDIAN MOM",
+    "detailed": [
+        {
+            "text": "When you come home with an injury",
+            "confidence": 0.997,
+            "box": [
+                [
+                    78.0,
+                    6.0
+                ],
+                [
+                    742.0,
+                    10.0
+                ],
+                [
+                    741.0,
+                    56.0
+                ],
+                [
+                    78.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "OTHERMOMS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    62.0,
+                    102.0
+                ],
+                [
+                    297.0,
+                    102.0
+                ],
+                [
+                    297.0,
+                    145.0
+                ],
+                [
+                    62.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "INDIAN MOM",
+            "confidence": 0.963,
+            "box": [
+                [
+                    469.0,
+                    102.0
+                ],
+                [
+                    688.0,
+                    102.0
+                ],
+                [
+                    688.0,
+                    142.0
+                ],
+                [
+                    469.0,
+                    142.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-07_06-45-23_UTC_7.jpg",
+    "combined_text": "sarcasm\nIn honor of SHOWGIRL.\nblessed to have you by my side\nalmost 20 years later gator!\n-Selena Gomez",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    483.0,
+                    1002.0
+                ],
+                [
+                    598.0,
+                    1002.0
+                ],
+                [
+                    598.0,
+                    1026.0
+                ],
+                [
+                    483.0,
+                    1026.0
+                ]
+            ]
+        },
+        {
+            "text": "In honor of SHOWGIRL.",
+            "confidence": 0.955,
+            "box": [
+                [
+                    150.0,
+                    1112.0
+                ],
+                [
+                    917.0,
+                    1112.0
+                ],
+                [
+                    917.0,
+                    1168.0
+                ],
+                [
+                    150.0,
+                    1168.0
+                ]
+            ]
+        },
+        {
+            "text": "blessed to have you by my side",
+            "confidence": 0.999,
+            "box": [
+                [
+                    38.0,
+                    1194.0
+                ],
+                [
+                    1040.0,
+                    1197.0
+                ],
+                [
+                    1040.0,
+                    1263.0
+                ],
+                [
+                    38.0,
+                    1260.0
+                ]
+            ]
+        },
+        {
+            "text": "almost 20 years later gator!",
+            "confidence": 0.987,
+            "box": [
+                [
+                    83.0,
+                    1280.0
+                ],
+                [
+                    1000.0,
+                    1278.0
+                ],
+                [
+                    1000.0,
+                    1350.0
+                ],
+                [
+                    83.0,
+                    1352.0
+                ]
+            ]
+        },
+        {
+            "text": "-Selena Gomez",
+            "confidence": 0.985,
+            "box": [
+                [
+                    416.0,
+                    1363.0
+                ],
+                [
+                    706.0,
+                    1367.0
+                ],
+                [
+                    705.0,
+                    1404.0
+                ],
+                [
+                    416.0,
+                    1401.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-12-07_14-45-29_UTC.jpg",
+    "combined_text": "NAA TELUGODU TRAILER\nMOVIE RELEASING ON DEC 12TH\nADDICTEDTOMEMES\nBREAK IVVADANIKI\nREADY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "NAA TELUGODU TRAILER",
+            "confidence": 0.968,
+            "box": [
+                [
+                    167.0,
+                    56.0
+                ],
+                [
+                    893.0,
+                    56.0
+                ],
+                [
+                    893.0,
+                    106.0
+                ],
+                [
+                    167.0,
+                    106.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON DEC 12TH",
+            "confidence": 0.953,
+            "box": [
+                [
+                    65.0,
+                    127.0
+                ],
+                [
+                    991.0,
+                    127.0
+                ],
+                [
+                    991.0,
+                    177.0
+                ],
+                [
+                    65.0,
+                    177.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    44.0,
+                    1041.0
+                ],
+                [
+                    173.0,
+                    1043.0
+                ],
+                [
+                    173.0,
+                    1061.0
+                ],
+                [
+                    44.0,
+                    1059.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAK IVVADANIKI",
+            "confidence": 0.983,
+            "box": [
+                [
+                    506.0,
+                    1206.0
+                ],
+                [
+                    1000.0,
+                    1207.0
+                ],
+                [
+                    1000.0,
+                    1250.0
+                ],
+                [
+                    506.0,
+                    1249.0
+                ]
+            ]
+        },
+        {
+            "text": "READY GA UNNAMU",
+            "confidence": 0.92,
+            "box": [
+                [
+                    489.0,
+                    1271.0
+                ],
+                [
+                    1001.0,
+                    1271.0
+                ],
+                [
+                    1001.0,
+                    1313.0
+                ],
+                [
+                    489.0,
+                    1313.0
+                ]
+            ]
+        }
+    ]
+}

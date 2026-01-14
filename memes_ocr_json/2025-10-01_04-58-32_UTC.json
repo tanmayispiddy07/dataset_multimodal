@@ -1,0 +1,424 @@
+{
+    "image_name": "2025-10-01_04-58-32_UTC.jpg",
+    "combined_text": "KANTARA CHAPTER 1\nBOOKINGS OPENED\nTELANGANA\nHompaie\nANDHRA PRADESH\nBOOKINGS\nBOOKIOPFM NOW\nOPEN NOW\nRISHAB SHETTY\nWORLDWIDE RELEASE 2ND OCTOBER 2025\nWORLDWIDE RELEASE 2ND OCTOBER 2025\n\"RISHABSHETTY\nVLJAY KIRAGANDUR\n\"RISHAB SHETTY\nVIJAY KIRAGANDUR\nADDICTEDTOMEMES\nREPU MOVIE KIVELLI\nBREAK IVVADANIKI\nREADY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "KANTARA CHAPTER 1",
+            "confidence": 0.953,
+            "box": [
+                [
+                    166.0,
+                    33.0
+                ],
+                [
+                    918.0,
+                    33.0
+                ],
+                [
+                    918.0,
+                    88.0
+                ],
+                [
+                    166.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOKINGS OPENED",
+            "confidence": 0.977,
+            "box": [
+                [
+                    177.0,
+                    118.0
+                ],
+                [
+                    880.0,
+                    121.0
+                ],
+                [
+                    880.0,
+                    181.0
+                ],
+                [
+                    177.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "text": "TELANGANA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    2.0,
+                    218.0
+                ],
+                [
+                    606.0,
+                    210.0
+                ],
+                [
+                    608.0,
+                    362.0
+                ],
+                [
+                    4.0,
+                    370.0
+                ]
+            ]
+        },
+        {
+            "text": "Hompaie",
+            "confidence": 0.507,
+            "box": [
+                [
+                    616.0,
+                    240.0
+                ],
+                [
+                    682.0,
+                    248.0
+                ],
+                [
+                    678.0,
+                    280.0
+                ],
+                [
+                    612.0,
+                    272.0
+                ]
+            ]
+        },
+        {
+            "text": "ANDHRA PRADESH",
+            "confidence": 0.97,
+            "box": [
+                [
+                    672.0,
+                    290.0
+                ],
+                [
+                    897.0,
+                    290.0
+                ],
+                [
+                    897.0,
+                    315.0
+                ],
+                [
+                    672.0,
+                    315.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOKINGS",
+            "confidence": 0.997,
+            "box": [
+                [
+                    671.0,
+                    321.0
+                ],
+                [
+                    899.0,
+                    321.0
+                ],
+                [
+                    899.0,
+                    355.0
+                ],
+                [
+                    671.0,
+                    355.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOKIOPFM NOW",
+            "confidence": 0.894,
+            "box": [
+                [
+                    0.0,
+                    346.0
+                ],
+                [
+                    596.0,
+                    346.0
+                ],
+                [
+                    596.0,
+                    435.0
+                ],
+                [
+                    0.0,
+                    435.0
+                ]
+            ]
+        },
+        {
+            "text": "OPEN NOW",
+            "confidence": 0.944,
+            "box": [
+                [
+                    669.0,
+                    360.0
+                ],
+                [
+                    897.0,
+                    360.0
+                ],
+                [
+                    897.0,
+                    399.0
+                ],
+                [
+                    669.0,
+                    399.0
+                ]
+            ]
+        },
+        {
+            "text": "RISHAB SHETTY",
+            "confidence": 0.954,
+            "box": [
+                [
+                    879.0,
+                    801.0
+                ],
+                [
+                    972.0,
+                    801.0
+                ],
+                [
+                    972.0,
+                    818.0
+                ],
+                [
+                    879.0,
+                    818.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLDWIDE RELEASE 2ND OCTOBER 2025",
+            "confidence": 0.942,
+            "box": [
+                [
+                    167.0,
+                    917.0
+                ],
+                [
+                    458.0,
+                    917.0
+                ],
+                [
+                    458.0,
+                    938.0
+                ],
+                [
+                    167.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLDWIDE RELEASE 2ND OCTOBER 2025",
+            "confidence": 0.931,
+            "box": [
+                [
+                    762.0,
+                    914.0
+                ],
+                [
+                    1050.0,
+                    914.0
+                ],
+                [
+                    1050.0,
+                    931.0
+                ],
+                [
+                    762.0,
+                    931.0
+                ]
+            ]
+        },
+        {
+            "text": "\"RISHABSHETTY",
+            "confidence": 0.926,
+            "box": [
+                [
+                    363.0,
+                    936.0
+                ],
+                [
+                    444.0,
+                    938.0
+                ],
+                [
+                    444.0,
+                    952.0
+                ],
+                [
+                    363.0,
+                    950.0
+                ]
+            ]
+        },
+        {
+            "text": "VLJAY KIRAGANDUR",
+            "confidence": 0.868,
+            "box": [
+                [
+                    788.0,
+                    930.0
+                ],
+                [
+                    893.0,
+                    931.0
+                ],
+                [
+                    893.0,
+                    948.0
+                ],
+                [
+                    787.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "\"RISHAB SHETTY",
+            "confidence": 0.865,
+            "box": [
+                [
+                    957.0,
+                    928.0
+                ],
+                [
+                    1042.0,
+                    933.0
+                ],
+                [
+                    1041.0,
+                    951.0
+                ],
+                [
+                    956.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "VIJAY KIRAGANDUR",
+            "confidence": 0.875,
+            "box": [
+                [
+                    202.0,
+                    938.0
+                ],
+                [
+                    312.0,
+                    938.0
+                ],
+                [
+                    312.0,
+                    951.0
+                ],
+                [
+                    202.0,
+                    951.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    32.0,
+                    1077.0
+                ],
+                [
+                    174.0,
+                    1077.0
+                ],
+                [
+                    174.0,
+                    1098.0
+                ],
+                [
+                    32.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "REPU MOVIE KIVELLI",
+            "confidence": 0.953,
+            "box": [
+                [
+                    558.0,
+                    1189.0
+                ],
+                [
+                    970.0,
+                    1189.0
+                ],
+                [
+                    970.0,
+                    1222.0
+                ],
+                [
+                    558.0,
+                    1222.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAK IVVADANIKI",
+            "confidence": 0.981,
+            "box": [
+                [
+                    577.0,
+                    1238.0
+                ],
+                [
+                    951.0,
+                    1238.0
+                ],
+                [
+                    951.0,
+                    1271.0
+                ],
+                [
+                    577.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "READY GA UNNAMU",
+            "confidence": 0.95,
+            "box": [
+                [
+                    557.0,
+                    1282.0
+                ],
+                [
+                    953.0,
+                    1282.0
+                ],
+                [
+                    953.0,
+                    1320.0
+                ],
+                [
+                    557.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

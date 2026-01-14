@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-06-17_08-43-38_UTC.jpg",
+    "combined_text": "MIDDLE CLASS MELODIES WON THE 3RD BEST FILM OF\n2020 AT TELANGANA GADDAR FILM AWARDS.EVERYONE\nIMPRESSED FOR THE NATURAL PERFORMANCES OF ANAND,\nGOPARAJURAMANA GARU, VARSHA,CHAITANYA\nTCE9\nTELA\nAK\nDAP\nADDICTEDTOMEMES\nMALLI ME COMBINATION LO INKO\nCINEMA VASTHUNDHA.",
+    "detailed": [
+        {
+            "text": "MIDDLE CLASS MELODIES WON THE 3RD BEST FILM OF",
+            "confidence": 0.917,
+            "box": [
+                [
+                    73.0,
+                    37.0
+                ],
+                [
+                    963.0,
+                    37.0
+                ],
+                [
+                    963.0,
+                    66.0
+                ],
+                [
+                    73.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "2020 AT TELANGANA GADDAR FILM AWARDS.EVERYONE",
+            "confidence": 0.947,
+            "box": [
+                [
+                    41.0,
+                    75.0
+                ],
+                [
+                    997.0,
+                    76.0
+                ],
+                [
+                    997.0,
+                    107.0
+                ],
+                [
+                    41.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "IMPRESSED FOR THE NATURAL PERFORMANCES OF ANAND,",
+            "confidence": 0.951,
+            "box": [
+                [
+                    21.0,
+                    113.0
+                ],
+                [
+                    1014.0,
+                    116.0
+                ],
+                [
+                    1014.0,
+                    149.0
+                ],
+                [
+                    21.0,
+                    147.0
+                ]
+            ]
+        },
+        {
+            "text": "GOPARAJURAMANA GARU, VARSHA,CHAITANYA",
+            "confidence": 0.971,
+            "box": [
+                [
+                    100.0,
+                    155.0
+                ],
+                [
+                    937.0,
+                    155.0
+                ],
+                [
+                    937.0,
+                    188.0
+                ],
+                [
+                    100.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "TCE9",
+            "confidence": 0.771,
+            "box": [
+                [
+                    274.0,
+                    234.0
+                ],
+                [
+                    460.0,
+                    230.0
+                ],
+                [
+                    462.0,
+                    331.0
+                ],
+                [
+                    276.0,
+                    335.0
+                ]
+            ]
+        },
+        {
+            "text": "TELA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    258.0,
+                    338.0
+                ],
+                [
+                    302.0,
+                    331.0
+                ],
+                [
+                    305.0,
+                    351.0
+                ],
+                [
+                    261.0,
+                    358.0
+                ]
+            ]
+        },
+        {
+            "text": "AK",
+            "confidence": 0.771,
+            "box": [
+                [
+                    330.0,
+                    331.0
+                ],
+                [
+                    362.0,
+                    327.0
+                ],
+                [
+                    365.0,
+                    347.0
+                ],
+                [
+                    332.0,
+                    351.0
+                ]
+            ]
+        },
+        {
+            "text": "DAP",
+            "confidence": 0.902,
+            "box": [
+                [
+                    433.0,
+                    331.0
+                ],
+                [
+                    472.0,
+                    331.0
+                ],
+                [
+                    472.0,
+                    349.0
+                ],
+                [
+                    433.0,
+                    349.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    899.0,
+                    1042.0
+                ],
+                [
+                    1052.0,
+                    1042.0
+                ],
+                [
+                    1052.0,
+                    1062.0
+                ],
+                [
+                    899.0,
+                    1062.0
+                ]
+            ]
+        },
+        {
+            "text": "MALLI ME COMBINATION LO INKO",
+            "confidence": 0.947,
+            "box": [
+                [
+                    190.0,
+                    1223.0
+                ],
+                [
+                    907.0,
+                    1223.0
+                ],
+                [
+                    907.0,
+                    1260.0
+                ],
+                [
+                    190.0,
+                    1260.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA VASTHUNDHA.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    267.0,
+                    1275.0
+                ],
+                [
+                    771.0,
+                    1275.0
+                ],
+                [
+                    771.0,
+                    1313.0
+                ],
+                [
+                    267.0,
+                    1313.0
+                ]
+            ]
+        }
+    ]
+}

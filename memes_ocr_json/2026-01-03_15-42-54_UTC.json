@@ -1,0 +1,116 @@
+{
+    "image_name": "2026-01-03_15-42-54_UTC.jpg",
+    "combined_text": "SMITA'S BHIMAVARAM BEAT VIDEO\nSONG FT.SMITA X NOEL SEAN\nEXCELLENT MUSIC VIDEO\nADDICTEDTOMEMES\nME WHILE LISTENING THAT SONG",
+    "detailed": [
+        {
+            "text": "SMITA'S BHIMAVARAM BEAT VIDEO",
+            "confidence": 0.948,
+            "box": [
+                [
+                    169.0,
+                    27.0
+                ],
+                [
+                    975.0,
+                    27.0
+                ],
+                [
+                    975.0,
+                    66.0
+                ],
+                [
+                    169.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG FT.SMITA X NOEL SEAN",
+            "confidence": 0.937,
+            "box": [
+                [
+                    217.0,
+                    84.0
+                ],
+                [
+                    915.0,
+                    84.0
+                ],
+                [
+                    915.0,
+                    123.0
+                ],
+                [
+                    217.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCELLENT MUSIC VIDEO",
+            "confidence": 0.959,
+            "box": [
+                [
+                    284.0,
+                    142.0
+                ],
+                [
+                    866.0,
+                    142.0
+                ],
+                [
+                    866.0,
+                    181.0
+                ],
+                [
+                    284.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    483.0,
+                    1012.0
+                ],
+                [
+                    622.0,
+                    1012.0
+                ],
+                [
+                    622.0,
+                    1031.0
+                ],
+                [
+                    483.0,
+                    1031.0
+                ]
+            ]
+        },
+        {
+            "text": "ME WHILE LISTENING THAT SONG",
+            "confidence": 0.942,
+            "box": [
+                [
+                    178.0,
+                    1183.0
+                ],
+                [
+                    967.0,
+                    1183.0
+                ],
+                [
+                    967.0,
+                    1226.0
+                ],
+                [
+                    178.0,
+                    1226.0
+                ]
+            ]
+        }
+    ]
+}

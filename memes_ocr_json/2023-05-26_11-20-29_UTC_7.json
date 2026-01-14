@@ -1,0 +1,468 @@
+{
+    "image_name": "2023-05-26_11-20-29_UTC_7.jpg",
+    "combined_text": "Dia\nAYIRVEDA\nFace Brightening\nKUMKUMADI THAILAM\nDia\nHealthy Glowing Skin  Treats Blemishes\nImproves Complexion\nAYURVEDA\nFace Brightening\nKUMKUMADI THAILAM\nLINK IN BIO\nSaffronAmondArgnSmeWa\nAloe vera Jojoba and More\nHEALTHY GLOWING SKIN\nTREATS BLEMISHES\nIMPROVES COMPLEXION\n30 ML/1.01fl.oz.\nNaturalEtrods\noodewits\nOnly on\namazon",
+    "detailed": [
+        {
+            "text": "Dia",
+            "confidence": 0.997,
+            "box": [
+                [
+                    938.0,
+                    24.0
+                ],
+                [
+                    1059.0,
+                    34.0
+                ],
+                [
+                    1052.0,
+                    108.0
+                ],
+                [
+                    932.0,
+                    97.0
+                ]
+            ]
+        },
+        {
+            "text": "AYIRVEDA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    943.0,
+                    94.0
+                ],
+                [
+                    1045.0,
+                    94.0
+                ],
+                [
+                    1045.0,
+                    111.0
+                ],
+                [
+                    943.0,
+                    111.0
+                ]
+            ]
+        },
+        {
+            "text": "Face Brightening",
+            "confidence": 0.992,
+            "box": [
+                [
+                    688.0,
+                    452.0
+                ],
+                [
+                    897.0,
+                    457.0
+                ],
+                [
+                    896.0,
+                    492.0
+                ],
+                [
+                    687.0,
+                    487.0
+                ]
+            ]
+        },
+        {
+            "text": "KUMKUMADI THAILAM",
+            "confidence": 0.967,
+            "box": [
+                [
+                    551.0,
+                    498.0
+                ],
+                [
+                    1034.0,
+                    498.0
+                ],
+                [
+                    1034.0,
+                    536.0
+                ],
+                [
+                    551.0,
+                    536.0
+                ]
+            ]
+        },
+        {
+            "text": "Dia",
+            "confidence": 0.99,
+            "box": [
+                [
+                    244.0,
+                    571.0
+                ],
+                [
+                    343.0,
+                    578.0
+                ],
+                [
+                    338.0,
+                    639.0
+                ],
+                [
+                    240.0,
+                    632.0
+                ]
+            ]
+        },
+        {
+            "text": "Healthy Glowing Skin  Treats Blemishes",
+            "confidence": 0.948,
+            "box": [
+                [
+                    543.0,
+                    576.0
+                ],
+                [
+                    1042.0,
+                    576.0
+                ],
+                [
+                    1042.0,
+                    600.0
+                ],
+                [
+                    543.0,
+                    600.0
+                ]
+            ]
+        },
+        {
+            "text": "Improves Complexion",
+            "confidence": 0.982,
+            "box": [
+                [
+                    659.0,
+                    614.0
+                ],
+                [
+                    924.0,
+                    613.0
+                ],
+                [
+                    924.0,
+                    643.0
+                ],
+                [
+                    659.0,
+                    645.0
+                ]
+            ]
+        },
+        {
+            "text": "AYURVEDA",
+            "confidence": 0.979,
+            "box": [
+                [
+                    250.0,
+                    627.0
+                ],
+                [
+                    331.0,
+                    627.0
+                ],
+                [
+                    331.0,
+                    644.0
+                ],
+                [
+                    250.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "Face Brightening",
+            "confidence": 0.951,
+            "box": [
+                [
+                    242.0,
+                    652.0
+                ],
+                [
+                    346.0,
+                    656.0
+                ],
+                [
+                    345.0,
+                    678.0
+                ],
+                [
+                    242.0,
+                    674.0
+                ]
+            ]
+        },
+        {
+            "text": "KUMKUMADI THAILAM",
+            "confidence": 0.97,
+            "box": [
+                [
+                    166.0,
+                    674.0
+                ],
+                [
+                    421.0,
+                    674.0
+                ],
+                [
+                    421.0,
+                    694.0
+                ],
+                [
+                    166.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "LINK IN BIO",
+            "confidence": 0.914,
+            "box": [
+                [
+                    719.0,
+                    676.0
+                ],
+                [
+                    876.0,
+                    676.0
+                ],
+                [
+                    876.0,
+                    703.0
+                ],
+                [
+                    719.0,
+                    703.0
+                ]
+            ]
+        },
+        {
+            "text": "SaffronAmondArgnSmeWa",
+            "confidence": 0.789,
+            "box": [
+                [
+                    197.0,
+                    825.0
+                ],
+                [
+                    396.0,
+                    823.0
+                ],
+                [
+                    396.0,
+                    841.0
+                ],
+                [
+                    197.0,
+                    843.0
+                ]
+            ]
+        },
+        {
+            "text": "Aloe vera Jojoba and More",
+            "confidence": 0.927,
+            "box": [
+                [
+                    226.0,
+                    843.0
+                ],
+                [
+                    366.0,
+                    843.0
+                ],
+                [
+                    366.0,
+                    860.0
+                ],
+                [
+                    226.0,
+                    860.0
+                ]
+            ]
+        },
+        {
+            "text": "HEALTHY GLOWING SKIN",
+            "confidence": 0.957,
+            "box": [
+                [
+                    228.0,
+                    883.0
+                ],
+                [
+                    359.0,
+                    883.0
+                ],
+                [
+                    359.0,
+                    900.0
+                ],
+                [
+                    228.0,
+                    900.0
+                ]
+            ]
+        },
+        {
+            "text": "TREATS BLEMISHES",
+            "confidence": 0.947,
+            "box": [
+                [
+                    243.0,
+                    897.0
+                ],
+                [
+                    346.0,
+                    897.0
+                ],
+                [
+                    346.0,
+                    914.0
+                ],
+                [
+                    243.0,
+                    914.0
+                ]
+            ]
+        },
+        {
+            "text": "IMPROVES COMPLEXION",
+            "confidence": 0.964,
+            "box": [
+                [
+                    232.0,
+                    909.0
+                ],
+                [
+                    357.0,
+                    909.0
+                ],
+                [
+                    357.0,
+                    926.0
+                ],
+                [
+                    232.0,
+                    926.0
+                ]
+            ]
+        },
+        {
+            "text": "30 ML/1.01fl.oz.",
+            "confidence": 0.885,
+            "box": [
+                [
+                    246.0,
+                    924.0
+                ],
+                [
+                    341.0,
+                    924.0
+                ],
+                [
+                    341.0,
+                    940.0
+                ],
+                [
+                    246.0,
+                    940.0
+                ]
+            ]
+        },
+        {
+            "text": "NaturalEtrods",
+            "confidence": 0.743,
+            "box": [
+                [
+                    252.0,
+                    950.0
+                ],
+                [
+                    333.0,
+                    953.0
+                ],
+                [
+                    333.0,
+                    970.0
+                ],
+                [
+                    252.0,
+                    967.0
+                ]
+            ]
+        },
+        {
+            "text": "oodewits",
+            "confidence": 0.789,
+            "box": [
+                [
+                    278.0,
+                    946.0
+                ],
+                [
+                    313.0,
+                    946.0
+                ],
+                [
+                    313.0,
+                    956.0
+                ],
+                [
+                    278.0,
+                    956.0
+                ]
+            ]
+        },
+        {
+            "text": "Only on",
+            "confidence": 0.97,
+            "box": [
+                [
+                    950.0,
+                    982.0
+                ],
+                [
+                    1003.0,
+                    985.0
+                ],
+                [
+                    1002.0,
+                    1003.0
+                ],
+                [
+                    949.0,
+                    1000.0
+                ]
+            ]
+        },
+        {
+            "text": "amazon",
+            "confidence": 0.998,
+            "box": [
+                [
+                    893.0,
+                    1002.0
+                ],
+                [
+                    1061.0,
+                    1002.0
+                ],
+                [
+                    1061.0,
+                    1037.0
+                ],
+                [
+                    893.0,
+                    1037.0
+                ]
+            ]
+        }
+    ]
+}

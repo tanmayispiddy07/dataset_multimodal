@@ -1,0 +1,424 @@
+{
+    "image_name": "2025-03-08_08-29-39_UTC.jpg",
+    "combined_text": "EXCELLENT COLLECTIONS\nFOR CHHAVVA IN TELUGU\nDDOC\nEETHA\nHINDAVI SWARAJ\nBLOCKBUSTER\nDAY1\n3.03 CR+\nGROSS\nDUBSED-IN TELUG\nLAXMAN UTEKAR\nPRODUCEDSY DINESH VIJAN\nMUSICBYA.R.RAHMAN\nBOOK YOUR\nTICKETS NOW\nIN CINEMAS NOW\nMADDOCK FILMS PRODUCTIOH\nEMATRAM CONTENT UNTE CHALU MANA\nVALLU COLLECTIONS THONE RECHIPOTHARU",
+    "detailed": [
+        {
+            "text": "EXCELLENT COLLECTIONS",
+            "confidence": 0.91,
+            "box": [
+                [
+                    245.0,
+                    52.0
+                ],
+                [
+                    854.0,
+                    53.0
+                ],
+                [
+                    854.0,
+                    95.0
+                ],
+                [
+                    245.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR CHHAVVA IN TELUGU",
+            "confidence": 0.95,
+            "box": [
+                [
+                    245.0,
+                    109.0
+                ],
+                [
+                    854.0,
+                    109.0
+                ],
+                [
+                    854.0,
+                    151.0
+                ],
+                [
+                    245.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "DDOC",
+            "confidence": 0.991,
+            "box": [
+                [
+                    527.0,
+                    203.0
+                ],
+                [
+                    589.0,
+                    203.0
+                ],
+                [
+                    589.0,
+                    222.0
+                ],
+                [
+                    527.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "EETHA",
+            "confidence": 0.91,
+            "box": [
+                [
+                    14.0,
+                    220.0
+                ],
+                [
+                    58.0,
+                    220.0
+                ],
+                [
+                    58.0,
+                    233.0
+                ],
+                [
+                    14.0,
+                    233.0
+                ]
+            ]
+        },
+        {
+            "text": "HINDAVI SWARAJ",
+            "confidence": 0.957,
+            "box": [
+                [
+                    111.0,
+                    274.0
+                ],
+                [
+                    515.0,
+                    277.0
+                ],
+                [
+                    514.0,
+                    328.0
+                ],
+                [
+                    111.0,
+                    325.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER",
+            "confidence": 0.996,
+            "box": [
+                [
+                    139.0,
+                    333.0
+                ],
+                [
+                    484.0,
+                    333.0
+                ],
+                [
+                    484.0,
+                    380.0
+                ],
+                [
+                    139.0,
+                    380.0
+                ]
+            ]
+        },
+        {
+            "text": "DAY1",
+            "confidence": 0.985,
+            "box": [
+                [
+                    453.0,
+                    443.0
+                ],
+                [
+                    543.0,
+                    443.0
+                ],
+                [
+                    543.0,
+                    484.0
+                ],
+                [
+                    453.0,
+                    484.0
+                ]
+            ]
+        },
+        {
+            "text": "3.03 CR+",
+            "confidence": 0.965,
+            "box": [
+                [
+                    394.0,
+                    482.0
+                ],
+                [
+                    606.0,
+                    482.0
+                ],
+                [
+                    606.0,
+                    544.0
+                ],
+                [
+                    394.0,
+                    544.0
+                ]
+            ]
+        },
+        {
+            "text": "GROSS",
+            "confidence": 0.992,
+            "box": [
+                [
+                    424.0,
+                    542.0
+                ],
+                [
+                    566.0,
+                    541.0
+                ],
+                [
+                    567.0,
+                    591.0
+                ],
+                [
+                    425.0,
+                    593.0
+                ]
+            ]
+        },
+        {
+            "text": "DUBSED-IN TELUG",
+            "confidence": 0.805,
+            "box": [
+                [
+                    260.0,
+                    815.0
+                ],
+                [
+                    342.0,
+                    815.0
+                ],
+                [
+                    342.0,
+                    832.0
+                ],
+                [
+                    260.0,
+                    832.0
+                ]
+            ]
+        },
+        {
+            "text": "LAXMAN UTEKAR",
+            "confidence": 0.975,
+            "box": [
+                [
+                    231.0,
+                    853.0
+                ],
+                [
+                    380.0,
+                    853.0
+                ],
+                [
+                    380.0,
+                    870.0
+                ],
+                [
+                    231.0,
+                    870.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCEDSY DINESH VIJAN",
+            "confidence": 0.916,
+            "box": [
+                [
+                    201.0,
+                    873.0
+                ],
+                [
+                    408.0,
+                    870.0
+                ],
+                [
+                    408.0,
+                    888.0
+                ],
+                [
+                    201.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSICBYA.R.RAHMAN",
+            "confidence": 0.974,
+            "box": [
+                [
+                    217.0,
+                    888.0
+                ],
+                [
+                    389.0,
+                    886.0
+                ],
+                [
+                    390.0,
+                    905.0
+                ],
+                [
+                    217.0,
+                    906.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOK YOUR",
+            "confidence": 0.949,
+            "box": [
+                [
+                    22.0,
+                    907.0
+                ],
+                [
+                    101.0,
+                    907.0
+                ],
+                [
+                    101.0,
+                    928.0
+                ],
+                [
+                    22.0,
+                    928.0
+                ]
+            ]
+        },
+        {
+            "text": "TICKETS NOW",
+            "confidence": 0.944,
+            "box": [
+                [
+                    14.0,
+                    927.0
+                ],
+                [
+                    106.0,
+                    924.0
+                ],
+                [
+                    107.0,
+                    946.0
+                ],
+                [
+                    15.0,
+                    949.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS NOW",
+            "confidence": 0.945,
+            "box": [
+                [
+                    484.0,
+                    918.0
+                ],
+                [
+                    589.0,
+                    918.0
+                ],
+                [
+                    589.0,
+                    935.0
+                ],
+                [
+                    484.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "MADDOCK FILMS PRODUCTIOH",
+            "confidence": 0.933,
+            "box": [
+                [
+                    167.0,
+                    951.0
+                ],
+                [
+                    454.0,
+                    951.0
+                ],
+                [
+                    454.0,
+                    967.0
+                ],
+                [
+                    167.0,
+                    967.0
+                ]
+            ]
+        },
+        {
+            "text": "EMATRAM CONTENT UNTE CHALU MANA",
+            "confidence": 0.938,
+            "box": [
+                [
+                    138.0,
+                    1246.0
+                ],
+                [
+                    861.0,
+                    1245.0
+                ],
+                [
+                    861.0,
+                    1278.0
+                ],
+                [
+                    138.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLU COLLECTIONS THONE RECHIPOTHARU",
+            "confidence": 0.967,
+            "box": [
+                [
+                    107.0,
+                    1289.0
+                ],
+                [
+                    897.0,
+                    1289.0
+                ],
+                [
+                    897.0,
+                    1323.0
+                ],
+                [
+                    107.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

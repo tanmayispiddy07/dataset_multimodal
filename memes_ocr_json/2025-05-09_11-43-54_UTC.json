@@ -1,0 +1,358 @@
+{
+    "image_name": "2025-05-09_11-43-54_UTC.jpg",
+    "combined_text": "AN EVENING GETAWAY TURNS INTO A NIGHT OF\nHORROR.FAHADH FAASIL,SOUBIN SHAHIR, AND\nDARSHANA RAJENDRAN'S MYSTERY THRILLER-\nAPARADHI STREAMING NOW ON AHA\nSTREAM\nah\nNOW\nFAHADH FAASIL IN\nbenpta\nFAHADH FAASIL IN\ntenpt\nWORLD DIGITAL PREMIERE\nWORLD DIGITAL PREMIERE\nADDICTEDTOMEMES\nNAKU FAHADH FAASIL THRILLERS ANTE BAGA\nISTAM RA BAGUNTAI INTERESTING GA",
+    "detailed": [
+        {
+            "text": "AN EVENING GETAWAY TURNS INTO A NIGHT OF",
+            "confidence": 0.931,
+            "box": [
+                [
+                    68.0,
+                    39.0
+                ],
+                [
+                    1048.0,
+                    39.0
+                ],
+                [
+                    1048.0,
+                    72.0
+                ],
+                [
+                    68.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "HORROR.FAHADH FAASIL,SOUBIN SHAHIR, AND",
+            "confidence": 0.949,
+            "box": [
+                [
+                    53.0,
+                    89.0
+                ],
+                [
+                    1058.0,
+                    89.0
+                ],
+                [
+                    1058.0,
+                    122.0
+                ],
+                [
+                    53.0,
+                    122.0
+                ]
+            ]
+        },
+        {
+            "text": "DARSHANA RAJENDRAN'S MYSTERY THRILLER-",
+            "confidence": 0.965,
+            "box": [
+                [
+                    70.0,
+                    136.0
+                ],
+                [
+                    1038.0,
+                    137.0
+                ],
+                [
+                    1038.0,
+                    174.0
+                ],
+                [
+                    70.0,
+                    173.0
+                ]
+            ]
+        },
+        {
+            "text": "APARADHI STREAMING NOW ON AHA",
+            "confidence": 0.941,
+            "box": [
+                [
+                    172.0,
+                    188.0
+                ],
+                [
+                    942.0,
+                    188.0
+                ],
+                [
+                    942.0,
+                    225.0
+                ],
+                [
+                    172.0,
+                    225.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAM",
+            "confidence": 0.998,
+            "box": [
+                [
+                    717.0,
+                    277.0
+                ],
+                [
+                    946.0,
+                    277.0
+                ],
+                [
+                    946.0,
+                    332.0
+                ],
+                [
+                    717.0,
+                    332.0
+                ]
+            ]
+        },
+        {
+            "text": "ah",
+            "confidence": 0.752,
+            "box": [
+                [
+                    1005.0,
+                    279.0
+                ],
+                [
+                    1079.0,
+                    279.0
+                ],
+                [
+                    1079.0,
+                    350.0
+                ],
+                [
+                    1005.0,
+                    350.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW",
+            "confidence": 0.995,
+            "box": [
+                [
+                    734.0,
+                    331.0
+                ],
+                [
+                    921.0,
+                    331.0
+                ],
+                [
+                    921.0,
+                    405.0
+                ],
+                [
+                    734.0,
+                    405.0
+                ]
+            ]
+        },
+        {
+            "text": "FAHADH FAASIL IN",
+            "confidence": 0.949,
+            "box": [
+                [
+                    231.0,
+                    733.0
+                ],
+                [
+                    435.0,
+                    735.0
+                ],
+                [
+                    434.0,
+                    761.0
+                ],
+                [
+                    231.0,
+                    759.0
+                ]
+            ]
+        },
+        {
+            "text": "benpta",
+            "confidence": 0.577,
+            "box": [
+                [
+                    163.0,
+                    757.0
+                ],
+                [
+                    485.0,
+                    766.0
+                ],
+                [
+                    481.0,
+                    902.0
+                ],
+                [
+                    159.0,
+                    892.0
+                ]
+            ]
+        },
+        {
+            "text": "FAHADH FAASIL IN",
+            "confidence": 0.948,
+            "box": [
+                [
+                    780.0,
+                    772.0
+                ],
+                [
+                    953.0,
+                    772.0
+                ],
+                [
+                    953.0,
+                    793.0
+                ],
+                [
+                    780.0,
+                    793.0
+                ]
+            ]
+        },
+        {
+            "text": "tenpt",
+            "confidence": 0.673,
+            "box": [
+                [
+                    721.0,
+                    797.0
+                ],
+                [
+                    1004.0,
+                    797.0
+                ],
+                [
+                    1004.0,
+                    912.0
+                ],
+                [
+                    721.0,
+                    912.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLD DIGITAL PREMIERE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    170.0,
+                    905.0
+                ],
+                [
+                    458.0,
+                    905.0
+                ],
+                [
+                    458.0,
+                    930.0
+                ],
+                [
+                    170.0,
+                    930.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLD DIGITAL PREMIERE",
+            "confidence": 0.96,
+            "box": [
+                [
+                    730.0,
+                    921.0
+                ],
+                [
+                    979.0,
+                    921.0
+                ],
+                [
+                    979.0,
+                    942.0
+                ],
+                [
+                    730.0,
+                    942.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.976,
+            "box": [
+                [
+                    886.0,
+                    1057.0
+                ],
+                [
+                    1028.0,
+                    1055.0
+                ],
+                [
+                    1028.0,
+                    1078.0
+                ],
+                [
+                    886.0,
+                    1079.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU FAHADH FAASIL THRILLERS ANTE BAGA",
+            "confidence": 0.947,
+            "box": [
+                [
+                    114.0,
+                    1226.0
+                ],
+                [
+                    1010.0,
+                    1227.0
+                ],
+                [
+                    1010.0,
+                    1266.0
+                ],
+                [
+                    114.0,
+                    1264.0
+                ]
+            ]
+        },
+        {
+            "text": "ISTAM RA BAGUNTAI INTERESTING GA",
+            "confidence": 0.943,
+            "box": [
+                [
+                    191.0,
+                    1278.0
+                ],
+                [
+                    938.0,
+                    1278.0
+                ],
+                [
+                    938.0,
+                    1316.0
+                ],
+                [
+                    191.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

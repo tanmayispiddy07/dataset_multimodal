@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-11-15_05-02-09_UTC_5.jpg",
+    "combined_text": "Akon's in the house. India, it's time to\ngo full crazy",
+    "detailed": [
+        {
+            "text": "Akon's in the house. India, it's time to",
+            "confidence": 0.974,
+            "box": [
+                [
+                    85.0,
+                    1145.0
+                ],
+                [
+                    996.0,
+                    1149.0
+                ],
+                [
+                    995.0,
+                    1197.0
+                ],
+                [
+                    84.0,
+                    1192.0
+                ]
+            ]
+        },
+        {
+            "text": "go full crazy",
+            "confidence": 0.997,
+            "box": [
+                [
+                    326.0,
+                    1221.0
+                ],
+                [
+                    634.0,
+                    1216.0
+                ],
+                [
+                    635.0,
+                    1275.0
+                ],
+                [
+                    327.0,
+                    1280.0
+                ]
+            ]
+        }
+    ]
+}

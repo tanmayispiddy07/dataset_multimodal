@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-05-06_18-28-18_UTC.jpg",
+    "combined_text": "**GT TEAM SITUATION\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "**GT TEAM SITUATION",
+            "confidence": 0.955,
+            "box": [
+                [
+                    429.0,
+                    513.0
+                ],
+                [
+                    1025.0,
+                    519.0
+                ],
+                [
+                    1024.0,
+                    577.0
+                ],
+                [
+                    428.0,
+                    571.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    63.0,
+                    591.0
+                ],
+                [
+                    221.0,
+                    587.0
+                ],
+                [
+                    222.0,
+                    608.0
+                ],
+                [
+                    63.0,
+                    612.0
+                ]
+            ]
+        }
+    ]
+}

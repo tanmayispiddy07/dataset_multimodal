@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-28_19-15-53_UTC_5.jpg",
+    "combined_text": "Say it Operation.\nSindoor or Tilak Verma,\nboth did the same job\nINDY\nsarcasm",
+    "detailed": [
+        {
+            "text": "Say it Operation.",
+            "confidence": 0.981,
+            "box": [
+                [
+                    276.0,
+                    57.0
+                ],
+                [
+                    807.0,
+                    57.0
+                ],
+                [
+                    807.0,
+                    125.0
+                ],
+                [
+                    276.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "Sindoor or Tilak Verma,",
+            "confidence": 0.995,
+            "box": [
+                [
+                    151.0,
+                    144.0
+                ],
+                [
+                    935.0,
+                    155.0
+                ],
+                [
+                    935.0,
+                    226.0
+                ],
+                [
+                    150.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "both did the same job",
+            "confidence": 1.0,
+            "box": [
+                [
+                    120.0,
+                    244.0
+                ],
+                [
+                    851.0,
+                    250.0
+                ],
+                [
+                    850.0,
+                    321.0
+                ],
+                [
+                    119.0,
+                    315.0
+                ]
+            ]
+        },
+        {
+            "text": "INDY",
+            "confidence": 0.822,
+            "box": [
+                [
+                    437.0,
+                    717.0
+                ],
+                [
+                    507.0,
+                    729.0
+                ],
+                [
+                    499.0,
+                    781.0
+                ],
+                [
+                    428.0,
+                    769.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    699.0,
+                    840.0
+                ],
+                [
+                    811.0,
+                    840.0
+                ],
+                [
+                    811.0,
+                    866.0
+                ],
+                [
+                    699.0,
+                    866.0
+                ]
+            ]
+        }
+    ]
+}

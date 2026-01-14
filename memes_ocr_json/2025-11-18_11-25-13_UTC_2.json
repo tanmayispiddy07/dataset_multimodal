@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-18_11-25-13_UTC_2.jpg",
+    "combined_text": "sarcasm\nUkraine has turned down an offer of\nUS fighter jets and instead signed a.\nmajor deal with France to acquire.\n100 Rafale aircraft",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    483.0,
+                    974.0
+                ],
+                [
+                    596.0,
+                    977.0
+                ],
+                [
+                    596.0,
+                    1000.0
+                ],
+                [
+                    482.0,
+                    997.0
+                ]
+            ]
+        },
+        {
+            "text": "Ukraine has turned down an offer of",
+            "confidence": 0.976,
+            "box": [
+                [
+                    14.0,
+                    1035.0
+                ],
+                [
+                    1069.0,
+                    1035.0
+                ],
+                [
+                    1069.0,
+                    1082.0
+                ],
+                [
+                    14.0,
+                    1082.0
+                ]
+            ]
+        },
+        {
+            "text": "US fighter jets and instead signed a.",
+            "confidence": 0.993,
+            "box": [
+                [
+                    13.0,
+                    1108.0
+                ],
+                [
+                    1065.0,
+                    1109.0
+                ],
+                [
+                    1064.0,
+                    1167.0
+                ],
+                [
+                    13.0,
+                    1165.0
+                ]
+            ]
+        },
+        {
+            "text": "major deal with France to acquire.",
+            "confidence": 0.988,
+            "box": [
+                [
+                    38.0,
+                    1183.0
+                ],
+                [
+                    1039.0,
+                    1182.0
+                ],
+                [
+                    1039.0,
+                    1244.0
+                ],
+                [
+                    38.0,
+                    1245.0
+                ]
+            ]
+        },
+        {
+            "text": "100 Rafale aircraft",
+            "confidence": 0.974,
+            "box": [
+                [
+                    266.0,
+                    1260.0
+                ],
+                [
+                    814.0,
+                    1260.0
+                ],
+                [
+                    814.0,
+                    1314.0
+                ],
+                [
+                    266.0,
+                    1314.0
+                ]
+            ]
+        }
+    ]
+}

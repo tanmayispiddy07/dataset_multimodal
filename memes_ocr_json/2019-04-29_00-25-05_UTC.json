@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-04-29_00-25-05_UTC.jpg",
+    "combined_text": "*amma in the kitchen cooking*: aa Kandi pappu illa\nivvu\nme:",
+    "detailed": [
+        {
+            "text": "*amma in the kitchen cooking*: aa Kandi pappu illa",
+            "confidence": 0.988,
+            "box": [
+                [
+                    20.0,
+                    4.0
+                ],
+                [
+                    677.0,
+                    5.0
+                ],
+                [
+                    677.0,
+                    37.0
+                ],
+                [
+                    20.0,
+                    36.0
+                ]
+            ]
+        },
+        {
+            "text": "ivvu",
+            "confidence": 0.926,
+            "box": [
+                [
+                    19.0,
+                    42.0
+                ],
+                [
+                    80.0,
+                    42.0
+                ],
+                [
+                    80.0,
+                    72.0
+                ],
+                [
+                    19.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "me:",
+            "confidence": 0.955,
+            "box": [
+                [
+                    20.0,
+                    81.0
+                ],
+                [
+                    75.0,
+                    81.0
+                ],
+                [
+                    75.0,
+                    108.0
+                ],
+                [
+                    20.0,
+                    108.0
+                ]
+            ]
+        }
+    ]
+}

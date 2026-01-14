@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-11-03_09-14-55_UTC.jpg",
+    "combined_text": "Queen Elizabeth watching footage\nof her younger self with her father\nsarcasm",
+    "detailed": [
+        {
+            "text": "Queen Elizabeth watching footage",
+            "confidence": 0.999,
+            "box": [
+                [
+                    51.0,
+                    279.0
+                ],
+                [
+                    580.0,
+                    282.0
+                ],
+                [
+                    580.0,
+                    316.0
+                ],
+                [
+                    51.0,
+                    314.0
+                ]
+            ]
+        },
+        {
+            "text": "of her younger self with her father",
+            "confidence": 0.97,
+            "box": [
+                [
+                    54.0,
+                    327.0
+                ],
+                [
+                    587.0,
+                    327.0
+                ],
+                [
+                    587.0,
+                    360.0
+                ],
+                [
+                    54.0,
+                    360.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    274.0,
+                    975.0
+                ],
+                [
+                    361.0,
+                    975.0
+                ],
+                [
+                    361.0,
+                    994.0
+                ],
+                [
+                    274.0,
+                    994.0
+                ]
+            ]
+        }
+    ]
+}

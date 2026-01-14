@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-30_07-45-36_UTC.jpg",
+    "combined_text": "BEAUTIFUL AND EMOTIONAL TRAILER OF\n\"PREMISTUNNAA\"\nMOVIE RELEASING ON NOVEMBER 7TH\nADDICTEDTOMEMES\nTRAILER LO MOTHER SENTIMENT CHUSTHUNTE\nNENU EMOTIONAL AVUTHUNNA ENTRA",
+    "detailed": [
+        {
+            "text": "BEAUTIFUL AND EMOTIONAL TRAILER OF",
+            "confidence": 0.953,
+            "box": [
+                [
+                    121.0,
+                    44.0
+                ],
+                [
+                    998.0,
+                    44.0
+                ],
+                [
+                    998.0,
+                    82.0
+                ],
+                [
+                    121.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "\"PREMISTUNNAA\"",
+            "confidence": 0.989,
+            "box": [
+                [
+                    370.0,
+                    97.0
+                ],
+                [
+                    755.0,
+                    97.0
+                ],
+                [
+                    755.0,
+                    134.0
+                ],
+                [
+                    370.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON NOVEMBER 7TH",
+            "confidence": 0.956,
+            "box": [
+                [
+                    148.0,
+                    151.0
+                ],
+                [
+                    982.0,
+                    151.0
+                ],
+                [
+                    982.0,
+                    192.0
+                ],
+                [
+                    148.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    924.0,
+                    1053.0
+                ],
+                [
+                    1060.0,
+                    1053.0
+                ],
+                [
+                    1060.0,
+                    1073.0
+                ],
+                [
+                    924.0,
+                    1073.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILER LO MOTHER SENTIMENT CHUSTHUNTE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    48.0,
+                    1224.0
+                ],
+                [
+                    1034.0,
+                    1224.0
+                ],
+                [
+                    1034.0,
+                    1266.0
+                ],
+                [
+                    48.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "NENU EMOTIONAL AVUTHUNNA ENTRA",
+            "confidence": 0.963,
+            "box": [
+                [
+                    120.0,
+                    1278.0
+                ],
+                [
+                    948.0,
+                    1278.0
+                ],
+                [
+                    948.0,
+                    1316.0
+                ],
+                [
+                    120.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

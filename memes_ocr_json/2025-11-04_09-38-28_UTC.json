@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-04_09-38-28_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF \"PHOENIX\"VIJAY\nSETHUPATHISON DEBUT MOVIE\nMOVIE RELEASING ON NOV 7TH\nDEBUTMOVIE LONE INTHA ENERGY AH\nDIALOGUE DELIVERY ASALU EXPECT CHEYALE",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF \"PHOENIX\"VIJAY",
+            "confidence": 0.954,
+            "box": [
+                [
+                    115.0,
+                    39.0
+                ],
+                [
+                    984.0,
+                    39.0
+                ],
+                [
+                    984.0,
+                    77.0
+                ],
+                [
+                    115.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "SETHUPATHISON DEBUT MOVIE",
+            "confidence": 0.97,
+            "box": [
+                [
+                    233.0,
+                    89.0
+                ],
+                [
+                    858.0,
+                    89.0
+                ],
+                [
+                    858.0,
+                    123.0
+                ],
+                [
+                    233.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON NOV 7TH",
+            "confidence": 0.942,
+            "box": [
+                [
+                    232.0,
+                    137.0
+                ],
+                [
+                    870.0,
+                    137.0
+                ],
+                [
+                    870.0,
+                    174.0
+                ],
+                [
+                    232.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "DEBUTMOVIE LONE INTHA ENERGY AH",
+            "confidence": 0.955,
+            "box": [
+                [
+                    132.0,
+                    1228.0
+                ],
+                [
+                    958.0,
+                    1229.0
+                ],
+                [
+                    958.0,
+                    1271.0
+                ],
+                [
+                    132.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "DIALOGUE DELIVERY ASALU EXPECT CHEYALE",
+            "confidence": 0.949,
+            "box": [
+                [
+                    63.0,
+                    1284.0
+                ],
+                [
+                    1028.0,
+                    1284.0
+                ],
+                [
+                    1028.0,
+                    1321.0
+                ],
+                [
+                    63.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

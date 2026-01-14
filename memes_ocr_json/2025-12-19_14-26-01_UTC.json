@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-12-19_14-26-01_UTC.jpg",
+    "combined_text": "Superman(telugu) streaming\nnow on JioHotstar.\nKJioHotstar\nACUS\nKISSCHEUSKONI GALLO\nDHADA DHADA.",
+    "detailed": [
+        {
+            "text": "Superman(telugu) streaming",
+            "confidence": 0.999,
+            "box": [
+                [
+                    13.0,
+                    221.0
+                ],
+                [
+                    518.0,
+                    223.0
+                ],
+                [
+                    518.0,
+                    263.0
+                ],
+                [
+                    13.0,
+                    261.0
+                ]
+            ]
+        },
+        {
+            "text": "now on JioHotstar.",
+            "confidence": 0.963,
+            "box": [
+                [
+                    113.0,
+                    274.0
+                ],
+                [
+                    426.0,
+                    272.0
+                ],
+                [
+                    426.0,
+                    306.0
+                ],
+                [
+                    113.0,
+                    308.0
+                ]
+            ]
+        },
+        {
+            "text": "KJioHotstar",
+            "confidence": 0.952,
+            "box": [
+                [
+                    434.0,
+                    333.0
+                ],
+                [
+                    539.0,
+                    338.0
+                ],
+                [
+                    539.0,
+                    360.0
+                ],
+                [
+                    432.0,
+                    355.0
+                ]
+            ]
+        },
+        {
+            "text": "ACUS",
+            "confidence": 0.743,
+            "box": [
+                [
+                    418.0,
+                    711.0
+                ],
+                [
+                    456.0,
+                    714.0
+                ],
+                [
+                    455.0,
+                    727.0
+                ],
+                [
+                    416.0,
+                    724.0
+                ]
+            ]
+        },
+        {
+            "text": "KISSCHEUSKONI GALLO",
+            "confidence": 0.965,
+            "box": [
+                [
+                    123.0,
+                    774.0
+                ],
+                [
+                    456.0,
+                    772.0
+                ],
+                [
+                    456.0,
+                    799.0
+                ],
+                [
+                    123.0,
+                    801.0
+                ]
+            ]
+        },
+        {
+            "text": "DHADA DHADA.",
+            "confidence": 0.965,
+            "box": [
+                [
+                    167.0,
+                    808.0
+                ],
+                [
+                    387.0,
+                    809.0
+                ],
+                [
+                    387.0,
+                    834.0
+                ],
+                [
+                    167.0,
+                    833.0
+                ]
+            ]
+        }
+    ]
+}

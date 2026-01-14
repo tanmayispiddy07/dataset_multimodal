@@ -1,0 +1,336 @@
+{
+    "image_name": "2026-01-03_09-32-51_UTC.jpg",
+    "combined_text": "INTERESTING POSTER OF\"DIL DIYA'\nA FILM BY KRANTHI MADHAV\nAPBBRSA NAIBEES\nSREEYAS CHITE\n26\nFILMBYK.KRANTHI MADHAV\nDIL\nYlid Tte\nDIYA\nPHANKALYANRASHA\nPOORNA NAIDU\nSRANTHVSKNAIU-PHAN\nADDICTEDTOMEMES\nASALU EXPECT CHEYALE E RANGE POSTER PAIGA E\nCINEMA KOSAM CHAITANYA RAO 15-20 THAGGARU ANTA",
+    "detailed": [
+        {
+            "text": "INTERESTING POSTER OF\"DIL DIYA'",
+            "confidence": 0.937,
+            "box": [
+                [
+                    69.0,
+                    46.0
+                ],
+                [
+                    1028.0,
+                    46.0
+                ],
+                [
+                    1028.0,
+                    92.0
+                ],
+                [
+                    69.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "A FILM BY KRANTHI MADHAV",
+            "confidence": 0.984,
+            "box": [
+                [
+                    159.0,
+                    112.0
+                ],
+                [
+                    946.0,
+                    112.0
+                ],
+                [
+                    946.0,
+                    170.0
+                ],
+                [
+                    159.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "APBBRSA NAIBEES",
+            "confidence": 0.747,
+            "box": [
+                [
+                    181.0,
+                    223.0
+                ],
+                [
+                    371.0,
+                    223.0
+                ],
+                [
+                    371.0,
+                    240.0
+                ],
+                [
+                    181.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "SREEYAS CHITE",
+            "confidence": 0.759,
+            "box": [
+                [
+                    12.0,
+                    252.0
+                ],
+                [
+                    74.0,
+                    255.0
+                ],
+                [
+                    72.0,
+                    274.0
+                ],
+                [
+                    11.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "26",
+            "confidence": 0.981,
+            "box": [
+                [
+                    496.0,
+                    300.0
+                ],
+                [
+                    534.0,
+                    300.0
+                ],
+                [
+                    534.0,
+                    314.0
+                ],
+                [
+                    496.0,
+                    314.0
+                ]
+            ]
+        },
+        {
+            "text": "FILMBYK.KRANTHI MADHAV",
+            "confidence": 0.925,
+            "box": [
+                [
+                    170.0,
+                    768.0
+                ],
+                [
+                    352.0,
+                    768.0
+                ],
+                [
+                    352.0,
+                    785.0
+                ],
+                [
+                    170.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "DIL",
+            "confidence": 0.983,
+            "box": [
+                [
+                    166.0,
+                    780.0
+                ],
+                [
+                    387.0,
+                    780.0
+                ],
+                [
+                    387.0,
+                    900.0
+                ],
+                [
+                    166.0,
+                    900.0
+                ]
+            ]
+        },
+        {
+            "text": "Ylid Tte",
+            "confidence": 0.634,
+            "box": [
+                [
+                    405.0,
+                    868.0
+                ],
+                [
+                    526.0,
+                    868.0
+                ],
+                [
+                    526.0,
+                    885.0
+                ],
+                [
+                    405.0,
+                    885.0
+                ]
+            ]
+        },
+        {
+            "text": "DIYA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    164.0,
+                    887.0
+                ],
+                [
+                    386.0,
+                    882.0
+                ],
+                [
+                    387.0,
+                    943.0
+                ],
+                [
+                    165.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "PHANKALYANRASHA",
+            "confidence": 0.818,
+            "box": [
+                [
+                    166.0,
+                    946.0
+                ],
+                [
+                    308.0,
+                    946.0
+                ],
+                [
+                    308.0,
+                    963.0
+                ],
+                [
+                    166.0,
+                    963.0
+                ]
+            ]
+        },
+        {
+            "text": "POORNA NAIDU",
+            "confidence": 0.919,
+            "box": [
+                [
+                    242.0,
+                    955.0
+                ],
+                [
+                    343.0,
+                    955.0
+                ],
+                [
+                    343.0,
+                    976.0
+                ],
+                [
+                    242.0,
+                    976.0
+                ]
+            ]
+        },
+        {
+            "text": "SRANTHVSKNAIU-PHAN",
+            "confidence": 0.732,
+            "box": [
+                [
+                    338.0,
+                    946.0
+                ],
+                [
+                    489.0,
+                    946.0
+                ],
+                [
+                    489.0,
+                    963.0
+                ],
+                [
+                    338.0,
+                    963.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    8.0,
+                    1098.0
+                ],
+                [
+                    152.0,
+                    1098.0
+                ],
+                [
+                    152.0,
+                    1119.0
+                ],
+                [
+                    8.0,
+                    1119.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALU EXPECT CHEYALE E RANGE POSTER PAIGA E",
+            "confidence": 0.933,
+            "box": [
+                [
+                    121.0,
+                    1252.0
+                ],
+                [
+                    1021.0,
+                    1252.0
+                ],
+                [
+                    1021.0,
+                    1281.0
+                ],
+                [
+                    121.0,
+                    1281.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA KOSAM CHAITANYA RAO 15-20 THAGGARU ANTA",
+            "confidence": 0.947,
+            "box": [
+                [
+                    52.0,
+                    1293.0
+                ],
+                [
+                    1073.0,
+                    1293.0
+                ],
+                [
+                    1073.0,
+                    1327.0
+                ],
+                [
+                    52.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,468 @@
+{
+    "image_name": "2025-12-19_14-09-02_UTC.jpg",
+    "combined_text": "SANTHANA PRAPTHIRASTHU STREAMING\nON JIO HOTSTAR & AMAZON PRIME\nMADHURA\nIKRASTE\nERASDINICHOWSAES\nSTREAMING NOW\namazon\n*\nprime video\nJioHotstar\nPEEESTE\nADDICTEDTOMEMES\nSanthana\nSanthana\nPrapthirasthu\nTELUGUTAMILHINDI\nPrapthirasthu\nSTREAMING NOW*JioHotstar\nATAFORO\nEROJU WEEKEND INKA NIGHT BREAK\nIVVADANIKI READY GA UNNANU",
+    "detailed": [
+        {
+            "text": "SANTHANA PRAPTHIRASTHU STREAMING",
+            "confidence": 0.962,
+            "box": [
+                [
+                    76.0,
+                    50.0
+                ],
+                [
+                    1036.0,
+                    50.0
+                ],
+                [
+                    1036.0,
+                    88.0
+                ],
+                [
+                    76.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "ON JIO HOTSTAR & AMAZON PRIME",
+            "confidence": 0.955,
+            "box": [
+                [
+                    139.0,
+                    105.0
+                ],
+                [
+                    976.0,
+                    105.0
+                ],
+                [
+                    976.0,
+                    146.0
+                ],
+                [
+                    139.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "MADHURA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    68.0,
+                    215.0
+                ],
+                [
+                    118.0,
+                    215.0
+                ],
+                [
+                    118.0,
+                    233.0
+                ],
+                [
+                    68.0,
+                    233.0
+                ]
+            ]
+        },
+        {
+            "text": "IKRASTE",
+            "confidence": 0.661,
+            "box": [
+                [
+                    221.0,
+                    215.0
+                ],
+                [
+                    284.0,
+                    215.0
+                ],
+                [
+                    284.0,
+                    227.0
+                ],
+                [
+                    221.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "ERASDINICHOWSAES",
+            "confidence": 0.514,
+            "box": [
+                [
+                    285.0,
+                    213.0
+                ],
+                [
+                    412.0,
+                    213.0
+                ],
+                [
+                    412.0,
+                    230.0
+                ],
+                [
+                    285.0,
+                    230.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMING NOW",
+            "confidence": 0.966,
+            "box": [
+                [
+                    207.0,
+                    230.0
+                ],
+                [
+                    410.0,
+                    234.0
+                ],
+                [
+                    409.0,
+                    273.0
+                ],
+                [
+                    206.0,
+                    269.0
+                ]
+            ]
+        },
+        {
+            "text": "amazon",
+            "confidence": 0.997,
+            "box": [
+                [
+                    214.0,
+                    283.0
+                ],
+                [
+                    274.0,
+                    283.0
+                ],
+                [
+                    274.0,
+                    301.0
+                ],
+                [
+                    214.0,
+                    301.0
+                ]
+            ]
+        },
+        {
+            "text": "*",
+            "confidence": 0.936,
+            "box": [
+                [
+                    350.0,
+                    276.0
+                ],
+                [
+                    381.0,
+                    276.0
+                ],
+                [
+                    381.0,
+                    302.0
+                ],
+                [
+                    350.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "prime video",
+            "confidence": 0.968,
+            "box": [
+                [
+                    178.0,
+                    298.0
+                ],
+                [
+                    310.0,
+                    295.0
+                ],
+                [
+                    311.0,
+                    322.0
+                ],
+                [
+                    179.0,
+                    325.0
+                ]
+            ]
+        },
+        {
+            "text": "JioHotstar",
+            "confidence": 0.992,
+            "box": [
+                [
+                    304.0,
+                    306.0
+                ],
+                [
+                    419.0,
+                    310.0
+                ],
+                [
+                    419.0,
+                    336.0
+                ],
+                [
+                    303.0,
+                    333.0
+                ]
+            ]
+        },
+        {
+            "text": "PEEESTE",
+            "confidence": 0.591,
+            "box": [
+                [
+                    806.0,
+                    408.0
+                ],
+                [
+                    840.0,
+                    408.0
+                ],
+                [
+                    840.0,
+                    421.0
+                ],
+                [
+                    806.0,
+                    421.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.968,
+            "box": [
+                [
+                    468.0,
+                    810.0
+                ],
+                [
+                    599.0,
+                    810.0
+                ],
+                [
+                    599.0,
+                    831.0
+                ],
+                [
+                    468.0,
+                    831.0
+                ]
+            ]
+        },
+        {
+            "text": "Santhana",
+            "confidence": 0.998,
+            "box": [
+                [
+                    732.0,
+                    825.0
+                ],
+                [
+                    916.0,
+                    828.0
+                ],
+                [
+                    915.0,
+                    869.0
+                ],
+                [
+                    731.0,
+                    865.0
+                ]
+            ]
+        },
+        {
+            "text": "Santhana",
+            "confidence": 0.997,
+            "box": [
+                [
+                    169.0,
+                    865.0
+                ],
+                [
+                    435.0,
+                    870.0
+                ],
+                [
+                    434.0,
+                    922.0
+                ],
+                [
+                    168.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "Prapthirasthu",
+            "confidence": 0.998,
+            "box": [
+                [
+                    684.0,
+                    860.0
+                ],
+                [
+                    964.0,
+                    864.0
+                ],
+                [
+                    963.0,
+                    908.0
+                ],
+                [
+                    683.0,
+                    903.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGUTAMILHINDI",
+            "confidence": 0.927,
+            "box": [
+                [
+                    750.0,
+                    909.0
+                ],
+                [
+                    900.0,
+                    909.0
+                ],
+                [
+                    900.0,
+                    934.0
+                ],
+                [
+                    750.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "Prapthirasthu",
+            "confidence": 0.996,
+            "box": [
+                [
+                    108.0,
+                    921.0
+                ],
+                [
+                    496.0,
+                    921.0
+                ],
+                [
+                    496.0,
+                    969.0
+                ],
+                [
+                    108.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMING NOW*JioHotstar",
+            "confidence": 0.937,
+            "box": [
+                [
+                    662.0,
+                    939.0
+                ],
+                [
+                    989.0,
+                    939.0
+                ],
+                [
+                    989.0,
+                    969.0
+                ],
+                [
+                    662.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "ATAFORO",
+            "confidence": 0.79,
+            "box": [
+                [
+                    468.0,
+                    1148.0
+                ],
+                [
+                    513.0,
+                    1148.0
+                ],
+                [
+                    513.0,
+                    1162.0
+                ],
+                [
+                    468.0,
+                    1162.0
+                ]
+            ]
+        },
+        {
+            "text": "EROJU WEEKEND INKA NIGHT BREAK",
+            "confidence": 0.949,
+            "box": [
+                [
+                    461.0,
+                    1257.0
+                ],
+                [
+                    1053.0,
+                    1257.0
+                ],
+                [
+                    1053.0,
+                    1286.0
+                ],
+                [
+                    461.0,
+                    1286.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVADANIKI READY GA UNNANU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    492.0,
+                    1296.0
+                ],
+                [
+                    1018.0,
+                    1296.0
+                ],
+                [
+                    1018.0,
+                    1325.0
+                ],
+                [
+                    492.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

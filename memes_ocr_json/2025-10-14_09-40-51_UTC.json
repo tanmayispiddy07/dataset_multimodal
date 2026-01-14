@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-10-14_09-40-51_UTC.jpg",
+    "combined_text": "Baxnal0\n@baxnal\nI was traveling from Bangalore to Chennai,\nsaw a girl sitting near the train door, crying.\nbecause a few guys had hanassed her. Just\nas I was about to help, out of nowhere, Allu\nArjun appeared and thrashed those guys\nwho had Hartassed her...!\nMovie-ARYA2\nThanks,\nDELTA FORCE\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "Baxnal0",
+            "confidence": 0.889,
+            "box": [
+                [
+                    373.0,
+                    0.0
+                ],
+                [
+                    467.0,
+                    0.0
+                ],
+                [
+                    467.0,
+                    22.0
+                ],
+                [
+                    373.0,
+                    22.0
+                ]
+            ]
+        },
+        {
+            "text": "@baxnal",
+            "confidence": 0.99,
+            "box": [
+                [
+                    370.0,
+                    22.0
+                ],
+                [
+                    464.0,
+                    22.0
+                ],
+                [
+                    464.0,
+                    49.0
+                ],
+                [
+                    370.0,
+                    49.0
+                ]
+            ]
+        },
+        {
+            "text": "I was traveling from Bangalore to Chennai,",
+            "confidence": 0.958,
+            "box": [
+                [
+                    295.0,
+                    67.0
+                ],
+                [
+                    810.0,
+                    67.0
+                ],
+                [
+                    810.0,
+                    96.0
+                ],
+                [
+                    295.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "saw a girl sitting near the train door, crying.",
+            "confidence": 0.949,
+            "box": [
+                [
+                    294.0,
+                    99.0
+                ],
+                [
+                    804.0,
+                    100.0
+                ],
+                [
+                    804.0,
+                    134.0
+                ],
+                [
+                    294.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "because a few guys had hanassed her. Just",
+            "confidence": 0.972,
+            "box": [
+                [
+                    295.0,
+                    135.0
+                ],
+                [
+                    806.0,
+                    135.0
+                ],
+                [
+                    806.0,
+                    164.0
+                ],
+                [
+                    295.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "as I was about to help, out of nowhere, Allu",
+            "confidence": 0.954,
+            "box": [
+                [
+                    297.0,
+                    169.0
+                ],
+                [
+                    809.0,
+                    169.0
+                ],
+                [
+                    809.0,
+                    198.0
+                ],
+                [
+                    297.0,
+                    198.0
+                ]
+            ]
+        },
+        {
+            "text": "Arjun appeared and thrashed those guys",
+            "confidence": 0.99,
+            "box": [
+                [
+                    295.0,
+                    199.0
+                ],
+                [
+                    782.0,
+                    201.0
+                ],
+                [
+                    782.0,
+                    234.0
+                ],
+                [
+                    295.0,
+                    233.0
+                ]
+            ]
+        },
+        {
+            "text": "who had Hartassed her...!",
+            "confidence": 0.896,
+            "box": [
+                [
+                    295.0,
+                    236.0
+                ],
+                [
+                    598.0,
+                    236.0
+                ],
+                [
+                    598.0,
+                    265.0
+                ],
+                [
+                    295.0,
+                    265.0
+                ]
+            ]
+        },
+        {
+            "text": "Movie-ARYA2",
+            "confidence": 0.99,
+            "box": [
+                [
+                    295.0,
+                    269.0
+                ],
+                [
+                    481.0,
+                    269.0
+                ],
+                [
+                    481.0,
+                    298.0
+                ],
+                [
+                    295.0,
+                    298.0
+                ]
+            ]
+        },
+        {
+            "text": "Thanks,",
+            "confidence": 0.969,
+            "box": [
+                [
+                    293.0,
+                    296.0
+                ],
+                [
+                    398.0,
+                    300.0
+                ],
+                [
+                    397.0,
+                    336.0
+                ],
+                [
+                    292.0,
+                    333.0
+                ]
+            ]
+        },
+        {
+            "text": "DELTA FORCE",
+            "confidence": 0.917,
+            "box": [
+                [
+                    573.0,
+                    784.0
+                ],
+                [
+                    796.0,
+                    794.0
+                ],
+                [
+                    792.0,
+                    864.0
+                ],
+                [
+                    570.0,
+                    853.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    835.0,
+                    797.0
+                ],
+                [
+                    990.0,
+                    796.0
+                ],
+                [
+                    990.0,
+                    818.0
+                ],
+                [
+                    835.0,
+                    820.0
+                ]
+            ]
+        }
+    ]
+}

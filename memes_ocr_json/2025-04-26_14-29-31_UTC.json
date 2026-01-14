@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-04-26_14-29-31_UTC.jpg",
+    "combined_text": "Rich people ante evaru amma??\nADDICTEDTOMEMES\nRESTURANT LO STARTERS TINE\nE VALLU",
+    "detailed": [
+        {
+            "text": "Rich people ante evaru amma??",
+            "confidence": 0.842,
+            "box": [
+                [
+                    60.0,
+                    456.0
+                ],
+                [
+                    1052.0,
+                    457.0
+                ],
+                [
+                    1052.0,
+                    511.0
+                ],
+                [
+                    60.0,
+                    510.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    30.0,
+                    709.0
+                ],
+                [
+                    196.0,
+                    709.0
+                ],
+                [
+                    196.0,
+                    729.0
+                ],
+                [
+                    30.0,
+                    729.0
+                ]
+            ]
+        },
+        {
+            "text": "RESTURANT LO STARTERS TINE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    97.0,
+                    1018.0
+                ],
+                [
+                    853.0,
+                    1018.0
+                ],
+                [
+                    853.0,
+                    1059.0
+                ],
+                [
+                    97.0,
+                    1059.0
+                ]
+            ]
+        },
+        {
+            "text": "E VALLU",
+            "confidence": 0.978,
+            "box": [
+                [
+                    828.0,
+                    1018.0
+                ],
+                [
+                    1015.0,
+                    1018.0
+                ],
+                [
+                    1015.0,
+                    1060.0
+                ],
+                [
+                    828.0,
+                    1060.0
+                ]
+            ]
+        }
+    ]
+}

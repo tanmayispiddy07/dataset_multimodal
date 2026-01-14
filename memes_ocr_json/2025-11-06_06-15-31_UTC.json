@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-06_06-15-31_UTC.jpg",
+    "combined_text": "RECENT MALAYALAM BLOCKBUSTER\nDIES IRAE NOW RELEASING IN\nTELUGU FROM NOV 7TH\nTELUGU RELEASE BY SRI SRAVANTHI MOVIES\nBASED ON SOME\nTRUE EVENTS\nADDICTEDTOMEMES\nALREADY MALAYALAM LO MANCHI\nBLOCKBUSTER TALK VACHINDI TELUGU LO\nBREAK IVVADANIKI READY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "RECENT MALAYALAM BLOCKBUSTER",
+            "confidence": 0.967,
+            "box": [
+                [
+                    84.0,
+                    33.0
+                ],
+                [
+                    1020.0,
+                    35.0
+                ],
+                [
+                    1019.0,
+                    78.0
+                ],
+                [
+                    84.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "DIES IRAE NOW RELEASING IN",
+            "confidence": 0.959,
+            "box": [
+                [
+                    167.0,
+                    99.0
+                ],
+                [
+                    939.0,
+                    99.0
+                ],
+                [
+                    939.0,
+                    145.0
+                ],
+                [
+                    167.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU FROM NOV 7TH",
+            "confidence": 0.936,
+            "box": [
+                [
+                    243.0,
+                    167.0
+                ],
+                [
+                    863.0,
+                    167.0
+                ],
+                [
+                    863.0,
+                    209.0
+                ],
+                [
+                    243.0,
+                    209.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU RELEASE BY SRI SRAVANTHI MOVIES",
+            "confidence": 0.934,
+            "box": [
+                [
+                    41.0,
+                    577.0
+                ],
+                [
+                    1067.0,
+                    577.0
+                ],
+                [
+                    1067.0,
+                    619.0
+                ],
+                [
+                    41.0,
+                    619.0
+                ]
+            ]
+        },
+        {
+            "text": "BASED ON SOME",
+            "confidence": 0.951,
+            "box": [
+                [
+                    709.0,
+                    736.0
+                ],
+                [
+                    948.0,
+                    736.0
+                ],
+                [
+                    948.0,
+                    761.0
+                ],
+                [
+                    709.0,
+                    761.0
+                ]
+            ]
+        },
+        {
+            "text": "TRUE EVENTS",
+            "confidence": 0.964,
+            "box": [
+                [
+                    679.0,
+                    767.0
+                ],
+                [
+                    977.0,
+                    767.0
+                ],
+                [
+                    977.0,
+                    804.0
+                ],
+                [
+                    679.0,
+                    804.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.99,
+            "box": [
+                [
+                    0.0,
+                    1034.0
+                ],
+                [
+                    137.0,
+                    1036.0
+                ],
+                [
+                    136.0,
+                    1057.0
+                ],
+                [
+                    0.0,
+                    1055.0
+                ]
+            ]
+        },
+        {
+            "text": "ALREADY MALAYALAM LO MANCHI",
+            "confidence": 0.96,
+            "box": [
+                [
+                    492.0,
+                    1226.0
+                ],
+                [
+                    1031.0,
+                    1226.0
+                ],
+                [
+                    1031.0,
+                    1256.0
+                ],
+                [
+                    492.0,
+                    1256.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER TALK VACHINDI TELUGU LO",
+            "confidence": 0.937,
+            "box": [
+                [
+                    439.0,
+                    1263.0
+                ],
+                [
+                    1077.0,
+                    1263.0
+                ],
+                [
+                    1077.0,
+                    1292.0
+                ],
+                [
+                    439.0,
+                    1292.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAK IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.947,
+            "box": [
+                [
+                    450.0,
+                    1300.0
+                ],
+                [
+                    1067.0,
+                    1300.0
+                ],
+                [
+                    1067.0,
+                    1330.0
+                ],
+                [
+                    450.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

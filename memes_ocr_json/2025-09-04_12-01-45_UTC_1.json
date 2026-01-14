@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-09-04_12-01-45_UTC_1.jpg",
+    "combined_text": "dani\nitern\nh\n0i0.1.0\nFIENL\n100\nProud Moment\nAdani International School student Aahan\nPrajapati turns a personal challenge into a.\nglobal solution, winning Crest Gold Award (uK).",
+    "detailed": [
+        {
+            "text": "dani",
+            "confidence": 0.999,
+            "box": [
+                [
+                    0.0,
+                    165.0
+                ],
+                [
+                    189.0,
+                    169.0
+                ],
+                [
+                    187.0,
+                    268.0
+                ],
+                [
+                    0.0,
+                    264.0
+                ]
+            ]
+        },
+        {
+            "text": "itern",
+            "confidence": 0.857,
+            "box": [
+                [
+                    0.0,
+                    287.0
+                ],
+                [
+                    166.0,
+                    287.0
+                ],
+                [
+                    166.0,
+                    353.0
+                ],
+                [
+                    0.0,
+                    353.0
+                ]
+            ]
+        },
+        {
+            "text": "h",
+            "confidence": 0.982,
+            "box": [
+                [
+                    0.0,
+                    359.0
+                ],
+                [
+                    84.0,
+                    364.0
+                ],
+                [
+                    79.0,
+                    446.0
+                ],
+                [
+                    0.0,
+                    440.0
+                ]
+            ]
+        },
+        {
+            "text": "0i0.1.0",
+            "confidence": 0.584,
+            "box": [
+                [
+                    447.0,
+                    510.0
+                ],
+                [
+                    480.0,
+                    510.0
+                ],
+                [
+                    480.0,
+                    520.0
+                ],
+                [
+                    447.0,
+                    520.0
+                ]
+            ]
+        },
+        {
+            "text": "FIENL",
+            "confidence": 0.502,
+            "box": [
+                [
+                    450.0,
+                    525.0
+                ],
+                [
+                    478.0,
+                    525.0
+                ],
+                [
+                    478.0,
+                    534.0
+                ],
+                [
+                    450.0,
+                    534.0
+                ]
+            ]
+        },
+        {
+            "text": "100",
+            "confidence": 0.997,
+            "box": [
+                [
+                    821.0,
+                    951.0
+                ],
+                [
+                    908.0,
+                    951.0
+                ],
+                [
+                    908.0,
+                    1031.0
+                ],
+                [
+                    821.0,
+                    1031.0
+                ]
+            ]
+        },
+        {
+            "text": "Proud Moment",
+            "confidence": 0.985,
+            "box": [
+                [
+                    169.0,
+                    962.0
+                ],
+                [
+                    710.0,
+                    966.0
+                ],
+                [
+                    710.0,
+                    1028.0
+                ],
+                [
+                    169.0,
+                    1024.0
+                ]
+            ]
+        },
+        {
+            "text": "Adani International School student Aahan",
+            "confidence": 0.996,
+            "box": [
+                [
+                    99.0,
+                    1125.0
+                ],
+                [
+                    980.0,
+                    1128.0
+                ],
+                [
+                    980.0,
+                    1167.0
+                ],
+                [
+                    98.0,
+                    1164.0
+                ]
+            ]
+        },
+        {
+            "text": "Prajapati turns a personal challenge into a.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    93.0,
+                    1177.0
+                ],
+                [
+                    984.0,
+                    1178.0
+                ],
+                [
+                    984.0,
+                    1223.0
+                ],
+                [
+                    93.0,
+                    1222.0
+                ]
+            ]
+        },
+        {
+            "text": "global solution, winning Crest Gold Award (uK).",
+            "confidence": 0.99,
+            "box": [
+                [
+                    37.0,
+                    1230.0
+                ],
+                [
+                    1038.0,
+                    1229.0
+                ],
+                [
+                    1038.0,
+                    1274.0
+                ],
+                [
+                    37.0,
+                    1275.0
+                ]
+            ]
+        }
+    ]
+}

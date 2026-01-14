@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-04-07_15-19-36_UTC_1.jpg",
+    "combined_text": "Inti aavida tho \"Serial Vs Cricket\" battle\nEla gelavalo tips please?.\n#savethetigers\nStreaming from April 27th",
+    "detailed": [
+        {
+            "text": "Inti aavida tho \"Serial Vs Cricket\" battle",
+            "confidence": 0.946,
+            "box": [
+                [
+                    112.0,
+                    493.0
+                ],
+                [
+                    965.0,
+                    493.0
+                ],
+                [
+                    965.0,
+                    530.0
+                ],
+                [
+                    112.0,
+                    530.0
+                ]
+            ]
+        },
+        {
+            "text": "Ela gelavalo tips please?.",
+            "confidence": 0.959,
+            "box": [
+                [
+                    270.0,
+                    540.0
+                ],
+                [
+                    804.0,
+                    542.0
+                ],
+                [
+                    804.0,
+                    587.0
+                ],
+                [
+                    270.0,
+                    585.0
+                ]
+            ]
+        },
+        {
+            "text": "#savethetigers",
+            "confidence": 0.999,
+            "box": [
+                [
+                    374.0,
+                    929.0
+                ],
+                [
+                    703.0,
+                    932.0
+                ],
+                [
+                    703.0,
+                    977.0
+                ],
+                [
+                    373.0,
+                    974.0
+                ]
+            ]
+        },
+        {
+            "text": "Streaming from April 27th",
+            "confidence": 0.961,
+            "box": [
+                [
+                    305.0,
+                    987.0
+                ],
+                [
+                    775.0,
+                    985.0
+                ],
+                [
+                    775.0,
+                    1020.0
+                ],
+                [
+                    305.0,
+                    1022.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2020-08-21_00-05-16_UTC.jpg",
+    "combined_text": "me picking up amma's call when i'm\nsomewhere i'm not supposed to be",
+    "detailed": [
+        {
+            "text": "me picking up amma's call when i'm",
+            "confidence": 0.984,
+            "box": [
+                [
+                    28.0,
+                    55.0
+                ],
+                [
+                    1030.0,
+                    49.0
+                ],
+                [
+                    1030.0,
+                    112.0
+                ],
+                [
+                    29.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "somewhere i'm not supposed to be",
+            "confidence": 0.999,
+            "box": [
+                [
+                    39.0,
+                    126.0
+                ],
+                [
+                    1015.0,
+                    124.0
+                ],
+                [
+                    1015.0,
+                    183.0
+                ],
+                [
+                    39.0,
+                    184.0
+                ]
+            ]
+        }
+    ]
+}

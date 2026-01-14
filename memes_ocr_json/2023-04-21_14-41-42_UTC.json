@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-04-21_14-41-42_UTC.jpg",
+    "combined_text": "HERE'S THE OORA MASS TRAILER FROM THE MOVIE\nUGRAM...MOVIE GRAND RELEASEON 5TH MAY\nTELUGU MEMES GURU\nBAGA PAKADBHANDIGA PLAN\nCHESAVNARESH ANNAAA",
+    "detailed": [
+        {
+            "text": "HERE'S THE OORA MASS TRAILER FROM THE MOVIE",
+            "confidence": 0.937,
+            "box": [
+                [
+                    37.0,
+                    402.0
+                ],
+                [
+                    1067.0,
+                    402.0
+                ],
+                [
+                    1067.0,
+                    435.0
+                ],
+                [
+                    37.0,
+                    435.0
+                ]
+            ]
+        },
+        {
+            "text": "UGRAM...MOVIE GRAND RELEASEON 5TH MAY",
+            "confidence": 0.927,
+            "box": [
+                [
+                    60.0,
+                    445.0
+                ],
+                [
+                    1041.0,
+                    445.0
+                ],
+                [
+                    1041.0,
+                    483.0
+                ],
+                [
+                    60.0,
+                    483.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.828,
+            "box": [
+                [
+                    917.0,
+                    981.0
+                ],
+                [
+                    1038.0,
+                    983.0
+                ],
+                [
+                    1038.0,
+                    1001.0
+                ],
+                [
+                    917.0,
+                    1000.0
+                ]
+            ]
+        },
+        {
+            "text": "BAGA PAKADBHANDIGA PLAN",
+            "confidence": 0.989,
+            "box": [
+                [
+                    142.0,
+                    1245.0
+                ],
+                [
+                    911.0,
+                    1245.0
+                ],
+                [
+                    911.0,
+                    1288.0
+                ],
+                [
+                    142.0,
+                    1288.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESAVNARESH ANNAAA",
+            "confidence": 0.984,
+            "box": [
+                [
+                    201.0,
+                    1300.0
+                ],
+                [
+                    852.0,
+                    1300.0
+                ],
+                [
+                    852.0,
+                    1342.0
+                ],
+                [
+                    201.0,
+                    1342.0
+                ]
+            ]
+        }
+    ]
+}

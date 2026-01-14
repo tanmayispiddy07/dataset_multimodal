@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-10-09_10-59-25_UTC.jpg",
+    "combined_text": "THE TELUGU AUDIENCE'S LOVE AND ENCOURAGEMENT\nHAVE BEEN THE FOUNDATION OF MY CAREER.I AM\nDEEPLY THANKFUL TO EACH ONE OF YOU\nRAASHI KHANNA IN TELUSU KADHA PROMOTIONS\nADDICTEDTOMEMES\nMANCHIVALLU ANTE MANA\nTELUGU AUDIENCE",
+    "detailed": [
+        {
+            "text": "THE TELUGU AUDIENCE'S LOVE AND ENCOURAGEMENT",
+            "confidence": 0.937,
+            "box": [
+                [
+                    30.0,
+                    40.0
+                ],
+                [
+                    1036.0,
+                    40.0
+                ],
+                [
+                    1036.0,
+                    74.0
+                ],
+                [
+                    30.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "HAVE BEEN THE FOUNDATION OF MY CAREER.I AM",
+            "confidence": 0.925,
+            "box": [
+                [
+                    65.0,
+                    85.0
+                ],
+                [
+                    1000.0,
+                    85.0
+                ],
+                [
+                    1000.0,
+                    118.0
+                ],
+                [
+                    65.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "DEEPLY THANKFUL TO EACH ONE OF YOU",
+            "confidence": 0.938,
+            "box": [
+                [
+                    149.0,
+                    130.0
+                ],
+                [
+                    911.0,
+                    130.0
+                ],
+                [
+                    911.0,
+                    163.0
+                ],
+                [
+                    149.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "RAASHI KHANNA IN TELUSU KADHA PROMOTIONS",
+            "confidence": 0.958,
+            "box": [
+                [
+                    66.0,
+                    176.0
+                ],
+                [
+                    989.0,
+                    176.0
+                ],
+                [
+                    989.0,
+                    209.0
+                ],
+                [
+                    66.0,
+                    209.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    899.0,
+                    1077.0
+                ],
+                [
+                    1048.0,
+                    1077.0
+                ],
+                [
+                    1048.0,
+                    1098.0
+                ],
+                [
+                    899.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "MANCHIVALLU ANTE MANA",
+            "confidence": 0.962,
+            "box": [
+                [
+                    250.0,
+                    1231.0
+                ],
+                [
+                    862.0,
+                    1231.0
+                ],
+                [
+                    862.0,
+                    1268.0
+                ],
+                [
+                    250.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU AUDIENCE",
+            "confidence": 0.969,
+            "box": [
+                [
+                    350.0,
+                    1282.0
+                ],
+                [
+                    752.0,
+                    1284.0
+                ],
+                [
+                    752.0,
+                    1323.0
+                ],
+                [
+                    350.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

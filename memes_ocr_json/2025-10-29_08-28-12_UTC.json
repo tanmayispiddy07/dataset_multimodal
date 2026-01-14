@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-29_08-28-12_UTC.jpg",
+    "combined_text": "CRAZE TRAILER OF \"PRE WEDDING SHOW\"\nMOVIE RELEASING ON NOV 7TH\nADDICTEDTOMEMES\n**MYPHOTOGRAPHER FRIEND\nIDHIYEDO MANA\nBIOPIC LAGA UNDHE",
+    "detailed": [
+        {
+            "text": "CRAZE TRAILER OF \"PRE WEDDING SHOW\"",
+            "confidence": 0.931,
+            "box": [
+                [
+                    36.0,
+                    68.0
+                ],
+                [
+                    1068.0,
+                    68.0
+                ],
+                [
+                    1068.0,
+                    113.0
+                ],
+                [
+                    36.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON NOV 7TH",
+            "confidence": 0.969,
+            "box": [
+                [
+                    163.0,
+                    130.0
+                ],
+                [
+                    937.0,
+                    130.0
+                ],
+                [
+                    937.0,
+                    171.0
+                ],
+                [
+                    163.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    485.0,
+                    655.0
+                ],
+                [
+                    637.0,
+                    655.0
+                ],
+                [
+                    637.0,
+                    675.0
+                ],
+                [
+                    485.0,
+                    675.0
+                ]
+            ]
+        },
+        {
+            "text": "**MYPHOTOGRAPHER FRIEND",
+            "confidence": 0.976,
+            "box": [
+                [
+                    220.0,
+                    936.0
+                ],
+                [
+                    929.0,
+                    942.0
+                ],
+                [
+                    929.0,
+                    995.0
+                ],
+                [
+                    220.0,
+                    989.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHIYEDO MANA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    346.0,
+                    1194.0
+                ],
+                [
+                    761.0,
+                    1194.0
+                ],
+                [
+                    761.0,
+                    1235.0
+                ],
+                [
+                    346.0,
+                    1235.0
+                ]
+            ]
+        },
+        {
+            "text": "BIOPIC LAGA UNDHE",
+            "confidence": 0.962,
+            "box": [
+                [
+                    308.0,
+                    1249.0
+                ],
+                [
+                    806.0,
+                    1251.0
+                ],
+                [
+                    806.0,
+                    1298.0
+                ],
+                [
+                    308.0,
+                    1295.0
+                ]
+            ]
+        }
+    ]
+}

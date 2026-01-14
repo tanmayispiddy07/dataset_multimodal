@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-16_12-45-38_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF\n\"PAANCH MINAR'\nMOVIE RELEASING ON NOV 21ST\n100.000\nADDICTEDTOMEMES\nTRAILER BAGUNDI THEATERS LO BREAK\nIVVADANIKI READY GA UNNAMU\nO\nTATA\nindicom",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF",
+            "confidence": 0.96,
+            "box": [
+                [
+                    229.0,
+                    26.0
+                ],
+                [
+                    878.0,
+                    26.0
+                ],
+                [
+                    878.0,
+                    68.0
+                ],
+                [
+                    229.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "\"PAANCH MINAR'",
+            "confidence": 0.952,
+            "box": [
+                [
+                    329.0,
+                    85.0
+                ],
+                [
+                    772.0,
+                    88.0
+                ],
+                [
+                    772.0,
+                    134.0
+                ],
+                [
+                    329.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON NOV 21ST",
+            "confidence": 0.979,
+            "box": [
+                [
+                    132.0,
+                    149.0
+                ],
+                [
+                    963.0,
+                    149.0
+                ],
+                [
+                    963.0,
+                    195.0
+                ],
+                [
+                    132.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "100.000",
+            "confidence": 0.535,
+            "box": [
+                [
+                    48.0,
+                    248.0
+                ],
+                [
+                    105.0,
+                    248.0
+                ],
+                [
+                    105.0,
+                    266.0
+                ],
+                [
+                    48.0,
+                    266.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    18.0,
+                    1055.0
+                ],
+                [
+                    174.0,
+                    1055.0
+                ],
+                [
+                    174.0,
+                    1076.0
+                ],
+                [
+                    18.0,
+                    1076.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILER BAGUNDI THEATERS LO BREAK",
+            "confidence": 0.951,
+            "box": [
+                [
+                    183.0,
+                    1239.0
+                ],
+                [
+                    906.0,
+                    1239.0
+                ],
+                [
+                    906.0,
+                    1272.0
+                ],
+                [
+                    183.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.942,
+            "box": [
+                [
+                    236.0,
+                    1284.0
+                ],
+                [
+                    837.0,
+                    1284.0
+                ],
+                [
+                    837.0,
+                    1317.0
+                ],
+                [
+                    236.0,
+                    1317.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.67,
+            "box": [
+                [
+                    942.0,
+                    1285.0
+                ],
+                [
+                    960.0,
+                    1285.0
+                ],
+                [
+                    960.0,
+                    1300.0
+                ],
+                [
+                    942.0,
+                    1300.0
+                ]
+            ]
+        },
+        {
+            "text": "TATA",
+            "confidence": 0.992,
+            "box": [
+                [
+                    963.0,
+                    1291.0
+                ],
+                [
+                    998.0,
+                    1291.0
+                ],
+                [
+                    998.0,
+                    1309.0
+                ],
+                [
+                    963.0,
+                    1309.0
+                ]
+            ]
+        },
+        {
+            "text": "indicom",
+            "confidence": 0.937,
+            "box": [
+                [
+                    937.0,
+                    1305.0
+                ],
+                [
+                    998.0,
+                    1305.0
+                ],
+                [
+                    998.0,
+                    1323.0
+                ],
+                [
+                    937.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

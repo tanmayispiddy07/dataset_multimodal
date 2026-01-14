@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-04-30_23-49-31_UTC.jpg",
+    "combined_text": "Reaction after writing exam\nye poye exam poye\nthe poyinde.",
+    "detailed": [
+        {
+            "text": "Reaction after writing exam",
+            "confidence": 0.962,
+            "box": [
+                [
+                    3.0,
+                    0.0
+                ],
+                [
+                    368.0,
+                    1.0
+                ],
+                [
+                    368.0,
+                    23.0
+                ],
+                [
+                    3.0,
+                    20.0
+                ]
+            ]
+        },
+        {
+            "text": "ye poye exam poye",
+            "confidence": 0.944,
+            "box": [
+                [
+                    3.0,
+                    264.0
+                ],
+                [
+                    343.0,
+                    264.0
+                ],
+                [
+                    343.0,
+                    294.0
+                ],
+                [
+                    3.0,
+                    294.0
+                ]
+            ]
+        },
+        {
+            "text": "the poyinde.",
+            "confidence": 0.939,
+            "box": [
+                [
+                    0.0,
+                    292.0
+                ],
+                [
+                    209.0,
+                    290.0
+                ],
+                [
+                    210.0,
+                    325.0
+                ],
+                [
+                    0.0,
+                    326.0
+                ]
+            ]
+        }
+    ]
+}

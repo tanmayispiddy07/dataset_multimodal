@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-10_07-30-25_UTC.jpg",
+    "combined_text": "ONE OF THE BEST TRAILER CUTS IN RECENT\nTIMES \"JIGRIS\"\nMOVIE RELEASING ON NOV 14TH\nADDICTEDTOMEMES\n**ME WHILEWATCHINGTRAILER",
+    "detailed": [
+        {
+            "text": "ONE OF THE BEST TRAILER CUTS IN RECENT",
+            "confidence": 0.932,
+            "box": [
+                [
+                    114.0,
+                    29.0
+                ],
+                [
+                    979.0,
+                    29.0
+                ],
+                [
+                    979.0,
+                    67.0
+                ],
+                [
+                    114.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "TIMES \"JIGRIS\"",
+            "confidence": 0.958,
+            "box": [
+                [
+                    398.0,
+                    78.0
+                ],
+                [
+                    694.0,
+                    75.0
+                ],
+                [
+                    695.0,
+                    114.0
+                ],
+                [
+                    398.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON NOV 14TH",
+            "confidence": 0.955,
+            "box": [
+                [
+                    212.0,
+                    127.0
+                ],
+                [
+                    869.0,
+                    127.0
+                ],
+                [
+                    869.0,
+                    164.0
+                ],
+                [
+                    212.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.99,
+            "box": [
+                [
+                    494.0,
+                    316.0
+                ],
+                [
+                    634.0,
+                    316.0
+                ],
+                [
+                    634.0,
+                    337.0
+                ],
+                [
+                    494.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHILEWATCHINGTRAILER",
+            "confidence": 0.98,
+            "box": [
+                [
+                    137.0,
+                    941.0
+                ],
+                [
+                    980.0,
+                    945.0
+                ],
+                [
+                    980.0,
+                    999.0
+                ],
+                [
+                    136.0,
+                    995.0
+                ]
+            ]
+        }
+    ]
+}

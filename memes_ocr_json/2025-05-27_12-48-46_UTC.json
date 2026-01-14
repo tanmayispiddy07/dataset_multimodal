@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-27_12-48-46_UTC.jpg",
+    "combined_text": "SHASHTIPOORTHI MOVIE RELEASING\nON MAY 3OTH\nADDICTEDTOMEMES\nMEERUCHALAEARLYAGE LO\nACTING KIVACHIANTTU UNNARU\nACTUALLYGA NENU ARTIST\nAVVDHAM ANUKOLEDHUCLASSICAL\nDANCER AVVALI ANUKUNNANU",
+    "detailed": [
+        {
+            "text": "SHASHTIPOORTHI MOVIE RELEASING",
+            "confidence": 0.974,
+            "box": [
+                [
+                    74.0,
+                    75.0
+                ],
+                [
+                    1017.0,
+                    72.0
+                ],
+                [
+                    1017.0,
+                    124.0
+                ],
+                [
+                    75.0,
+                    127.0
+                ]
+            ]
+        },
+        {
+            "text": "ON MAY 3OTH",
+            "confidence": 0.961,
+            "box": [
+                [
+                    380.0,
+                    141.0
+                ],
+                [
+                    728.0,
+                    141.0
+                ],
+                [
+                    728.0,
+                    184.0
+                ],
+                [
+                    380.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.957,
+            "box": [
+                [
+                    904.0,
+                    396.0
+                ],
+                [
+                    1046.0,
+                    396.0
+                ],
+                [
+                    1046.0,
+                    417.0
+                ],
+                [
+                    904.0,
+                    417.0
+                ]
+            ]
+        },
+        {
+            "text": "MEERUCHALAEARLYAGE LO",
+            "confidence": 0.975,
+            "box": [
+                [
+                    205.0,
+                    711.0
+                ],
+                [
+                    945.0,
+                    712.0
+                ],
+                [
+                    945.0,
+                    760.0
+                ],
+                [
+                    205.0,
+                    758.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTING KIVACHIANTTU UNNARU",
+            "confidence": 0.971,
+            "box": [
+                [
+                    160.0,
+                    775.0
+                ],
+                [
+                    991.0,
+                    775.0
+                ],
+                [
+                    991.0,
+                    821.0
+                ],
+                [
+                    160.0,
+                    821.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTUALLYGA NENU ARTIST",
+            "confidence": 0.958,
+            "box": [
+                [
+                    270.0,
+                    1181.0
+                ],
+                [
+                    880.0,
+                    1181.0
+                ],
+                [
+                    880.0,
+                    1218.0
+                ],
+                [
+                    270.0,
+                    1218.0
+                ]
+            ]
+        },
+        {
+            "text": "AVVDHAM ANUKOLEDHUCLASSICAL",
+            "confidence": 0.979,
+            "box": [
+                [
+                    163.0,
+                    1235.0
+                ],
+                [
+                    984.0,
+                    1235.0
+                ],
+                [
+                    984.0,
+                    1272.0
+                ],
+                [
+                    163.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "DANCER AVVALI ANUKUNNANU",
+            "confidence": 0.957,
+            "box": [
+                [
+                    215.0,
+                    1288.0
+                ],
+                [
+                    918.0,
+                    1288.0
+                ],
+                [
+                    918.0,
+                    1330.0
+                ],
+                [
+                    215.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

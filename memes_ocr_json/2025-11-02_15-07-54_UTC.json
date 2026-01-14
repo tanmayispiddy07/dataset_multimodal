@@ -1,0 +1,666 @@
+{
+    "image_name": "2025-11-02_15-07-54_UTC.jpg",
+    "combined_text": "FAV MUSIC DIRECTOR FOR MANY\nLEGENDARY AR RAHMAN COMING\nFOR HYDERABAD AFTER 7 YEARS\nEVENT PARTNER\nAN INITIATIVE BY\nINASSOCIATION WITH\nTO\nXORA\nHyderabad\neva\nRAM\nCONCERT\nADDICTEDTOMEMES\nARRAHMAN\nLIVE IN HYDERABAD\nPowered by\nGET TICKETSON\nCo Powered bye\ndistrict\n-HAPPY\nSR RAMA NAVAMI\nTEACHER'S\n8th NOV|Ramoji Film City.Hlyderabad\nMedicdl Fartnere\nnyla\nAHG-SUNHIHE\nSTRONG BUZZ IS RAM CHARAN & PEDDI\nTEAM MIGHT ATTEND FOR THIS CONCERT\nWHICH IS HAPPENING ON NOV 8TH IN RFC\nBOOK YOUR TICKETS IN DISTRICT APP",
+    "detailed": [
+        {
+            "text": "FAV MUSIC DIRECTOR FOR MANY",
+            "confidence": 0.945,
+            "box": [
+                [
+                    143.0,
+                    28.0
+                ],
+                [
+                    979.0,
+                    28.0
+                ],
+                [
+                    979.0,
+                    66.0
+                ],
+                [
+                    143.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "LEGENDARY AR RAHMAN COMING",
+            "confidence": 0.962,
+            "box": [
+                [
+                    120.0,
+                    88.0
+                ],
+                [
+                    1000.0,
+                    88.0
+                ],
+                [
+                    1000.0,
+                    130.0
+                ],
+                [
+                    120.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR HYDERABAD AFTER 7 YEARS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    134.0,
+                    151.0
+                ],
+                [
+                    975.0,
+                    151.0
+                ],
+                [
+                    975.0,
+                    192.0
+                ],
+                [
+                    134.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "EVENT PARTNER",
+            "confidence": 0.962,
+            "box": [
+                [
+                    35.0,
+                    255.0
+                ],
+                [
+                    101.0,
+                    255.0
+                ],
+                [
+                    101.0,
+                    273.0
+                ],
+                [
+                    35.0,
+                    273.0
+                ]
+            ]
+        },
+        {
+            "text": "AN INITIATIVE BY",
+            "confidence": 0.869,
+            "box": [
+                [
+                    281.0,
+                    255.0
+                ],
+                [
+                    352.0,
+                    255.0
+                ],
+                [
+                    352.0,
+                    272.0
+                ],
+                [
+                    281.0,
+                    272.0
+                ]
+            ]
+        },
+        {
+            "text": "INASSOCIATION WITH",
+            "confidence": 0.929,
+            "box": [
+                [
+                    502.0,
+                    254.0
+                ],
+                [
+                    599.0,
+                    254.0
+                ],
+                [
+                    599.0,
+                    275.0
+                ],
+                [
+                    502.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "text": "TO",
+            "confidence": 0.825,
+            "box": [
+                [
+                    823.0,
+                    247.0
+                ],
+                [
+                    860.0,
+                    232.0
+                ],
+                [
+                    868.0,
+                    253.0
+                ],
+                [
+                    831.0,
+                    268.0
+                ]
+            ]
+        },
+        {
+            "text": "XORA",
+            "confidence": 0.991,
+            "box": [
+                [
+                    38.0,
+                    276.0
+                ],
+                [
+                    97.0,
+                    276.0
+                ],
+                [
+                    97.0,
+                    302.0
+                ],
+                [
+                    38.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "Hyderabad",
+            "confidence": 0.935,
+            "box": [
+                [
+                    261.0,
+                    278.0
+                ],
+                [
+                    372.0,
+                    274.0
+                ],
+                [
+                    373.0,
+                    301.0
+                ],
+                [
+                    262.0,
+                    304.0
+                ]
+            ]
+        },
+        {
+            "text": "eva",
+            "confidence": 0.972,
+            "box": [
+                [
+                    516.0,
+                    276.0
+                ],
+                [
+                    581.0,
+                    276.0
+                ],
+                [
+                    581.0,
+                    302.0
+                ],
+                [
+                    516.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "RAM",
+            "confidence": 0.859,
+            "box": [
+                [
+                    884.0,
+                    325.0
+                ],
+                [
+                    944.0,
+                    299.0
+                ],
+                [
+                    961.0,
+                    338.0
+                ],
+                [
+                    901.0,
+                    365.0
+                ]
+            ]
+        },
+        {
+            "text": "CONCERT",
+            "confidence": 0.986,
+            "box": [
+                [
+                    396.0,
+                    533.0
+                ],
+                [
+                    528.0,
+                    540.0
+                ],
+                [
+                    525.0,
+                    595.0
+                ],
+                [
+                    393.0,
+                    587.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    554.0,
+                    771.0
+                ],
+                [
+                    700.0,
+                    771.0
+                ],
+                [
+                    700.0,
+                    787.0
+                ],
+                [
+                    554.0,
+                    787.0
+                ]
+            ]
+        },
+        {
+            "text": "ARRAHMAN",
+            "confidence": 0.997,
+            "box": [
+                [
+                    165.0,
+                    825.0
+                ],
+                [
+                    468.0,
+                    825.0
+                ],
+                [
+                    468.0,
+                    863.0
+                ],
+                [
+                    165.0,
+                    863.0
+                ]
+            ]
+        },
+        {
+            "text": "LIVE IN HYDERABAD",
+            "confidence": 0.959,
+            "box": [
+                [
+                    225.0,
+                    861.0
+                ],
+                [
+                    404.0,
+                    861.0
+                ],
+                [
+                    404.0,
+                    891.0
+                ],
+                [
+                    225.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "Powered by",
+            "confidence": 0.972,
+            "box": [
+                [
+                    250.0,
+                    895.0
+                ],
+                [
+                    323.0,
+                    895.0
+                ],
+                [
+                    323.0,
+                    913.0
+                ],
+                [
+                    250.0,
+                    913.0
+                ]
+            ]
+        },
+        {
+            "text": "GET TICKETSON",
+            "confidence": 0.913,
+            "box": [
+                [
+                    529.0,
+                    905.0
+                ],
+                [
+                    589.0,
+                    905.0
+                ],
+                [
+                    589.0,
+                    921.0
+                ],
+                [
+                    529.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "text": "Co Powered bye",
+            "confidence": 0.911,
+            "box": [
+                [
+                    263.0,
+                    921.0
+                ],
+                [
+                    361.0,
+                    921.0
+                ],
+                [
+                    361.0,
+                    942.0
+                ],
+                [
+                    263.0,
+                    942.0
+                ]
+            ]
+        },
+        {
+            "text": "district",
+            "confidence": 0.995,
+            "box": [
+                [
+                    527.0,
+                    925.0
+                ],
+                [
+                    591.0,
+                    925.0
+                ],
+                [
+                    591.0,
+                    948.0
+                ],
+                [
+                    527.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "-HAPPY",
+            "confidence": 0.987,
+            "box": [
+                [
+                    716.0,
+                    918.0
+                ],
+                [
+                    768.0,
+                    918.0
+                ],
+                [
+                    768.0,
+                    937.0
+                ],
+                [
+                    716.0,
+                    937.0
+                ]
+            ]
+        },
+        {
+            "text": "SR RAMA NAVAMI",
+            "confidence": 0.906,
+            "box": [
+                [
+                    681.0,
+                    931.0
+                ],
+                [
+                    810.0,
+                    931.0
+                ],
+                [
+                    810.0,
+                    956.0
+                ],
+                [
+                    681.0,
+                    956.0
+                ]
+            ]
+        },
+        {
+            "text": "TEACHER'S",
+            "confidence": 0.976,
+            "box": [
+                [
+                    280.0,
+                    942.0
+                ],
+                [
+                    346.0,
+                    942.0
+                ],
+                [
+                    346.0,
+                    964.0
+                ],
+                [
+                    280.0,
+                    964.0
+                ]
+            ]
+        },
+        {
+            "text": "8th NOV|Ramoji Film City.Hlyderabad",
+            "confidence": 0.914,
+            "box": [
+                [
+                    177.0,
+                    971.0
+                ],
+                [
+                    453.0,
+                    971.0
+                ],
+                [
+                    453.0,
+                    997.0
+                ],
+                [
+                    177.0,
+                    997.0
+                ]
+            ]
+        },
+        {
+            "text": "Medicdl Fartnere",
+            "confidence": 0.877,
+            "box": [
+                [
+                    290.0,
+                    1005.0
+                ],
+                [
+                    345.0,
+                    1005.0
+                ],
+                [
+                    345.0,
+                    1017.0
+                ],
+                [
+                    290.0,
+                    1017.0
+                ]
+            ]
+        },
+        {
+            "text": "nyla",
+            "confidence": 0.888,
+            "box": [
+                [
+                    132.0,
+                    1019.0
+                ],
+                [
+                    166.0,
+                    1019.0
+                ],
+                [
+                    166.0,
+                    1038.0
+                ],
+                [
+                    132.0,
+                    1038.0
+                ]
+            ]
+        },
+        {
+            "text": "AHG-SUNHIHE",
+            "confidence": 0.539,
+            "box": [
+                [
+                    287.0,
+                    1023.0
+                ],
+                [
+                    354.0,
+                    1023.0
+                ],
+                [
+                    354.0,
+                    1040.0
+                ],
+                [
+                    287.0,
+                    1040.0
+                ]
+            ]
+        },
+        {
+            "text": "STRONG BUZZ IS RAM CHARAN & PEDDI",
+            "confidence": 0.925,
+            "box": [
+                [
+                    97.0,
+                    1082.0
+                ],
+                [
+                    1028.0,
+                    1082.0
+                ],
+                [
+                    1028.0,
+                    1119.0
+                ],
+                [
+                    97.0,
+                    1119.0
+                ]
+            ]
+        },
+        {
+            "text": "TEAM MIGHT ATTEND FOR THIS CONCERT",
+            "confidence": 0.94,
+            "box": [
+                [
+                    80.0,
+                    1137.0
+                ],
+                [
+                    1035.0,
+                    1137.0
+                ],
+                [
+                    1035.0,
+                    1175.0
+                ],
+                [
+                    80.0,
+                    1175.0
+                ]
+            ]
+        },
+        {
+            "text": "WHICH IS HAPPENING ON NOV 8TH IN RFC",
+            "confidence": 0.916,
+            "box": [
+                [
+                    55.0,
+                    1192.0
+                ],
+                [
+                    1049.0,
+                    1193.0
+                ],
+                [
+                    1049.0,
+                    1232.0
+                ],
+                [
+                    55.0,
+                    1231.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOK YOUR TICKETS IN DISTRICT APP",
+            "confidence": 0.954,
+            "box": [
+                [
+                    124.0,
+                    1249.0
+                ],
+                [
+                    1004.0,
+                    1249.0
+                ],
+                [
+                    1004.0,
+                    1291.0
+                ],
+                [
+                    124.0,
+                    1291.0
+                ]
+            ]
+        }
+    ]
+}

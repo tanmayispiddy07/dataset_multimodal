@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-05-23_22-07-52_UTC.jpg",
+    "combined_text": "Some Weapons don't need\nIntroduction of their Owners",
+    "detailed": [
+        {
+            "text": "Some Weapons don't need",
+            "confidence": 0.972,
+            "box": [
+                [
+                    74.0,
+                    2.0
+                ],
+                [
+                    1008.0,
+                    2.0
+                ],
+                [
+                    1008.0,
+                    70.0
+                ],
+                [
+                    74.0,
+                    70.0
+                ]
+            ]
+        },
+        {
+            "text": "Introduction of their Owners",
+            "confidence": 0.964,
+            "box": [
+                [
+                    37.0,
+                    69.0
+                ],
+                [
+                    1044.0,
+                    72.0
+                ],
+                [
+                    1044.0,
+                    136.0
+                ],
+                [
+                    37.0,
+                    134.0
+                ]
+            ]
+        }
+    ]
+}

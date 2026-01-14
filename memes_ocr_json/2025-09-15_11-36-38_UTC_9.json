@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-15_11-36-38_UTC_9.jpg",
+    "combined_text": "sarcasm\nBritt Lower, Severance\nBest Drama Actress",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.993,
+            "box": [
+                [
+                    485.0,
+                    1111.0
+                ],
+                [
+                    596.0,
+                    1111.0
+                ],
+                [
+                    596.0,
+                    1129.0
+                ],
+                [
+                    485.0,
+                    1129.0
+                ]
+            ]
+        },
+        {
+            "text": "Britt Lower, Severance",
+            "confidence": 0.998,
+            "box": [
+                [
+                    220.0,
+                    1161.0
+                ],
+                [
+                    861.0,
+                    1164.0
+                ],
+                [
+                    860.0,
+                    1216.0
+                ],
+                [
+                    219.0,
+                    1214.0
+                ]
+            ]
+        },
+        {
+            "text": "Best Drama Actress",
+            "confidence": 0.999,
+            "box": [
+                [
+                    109.0,
+                    1240.0
+                ],
+                [
+                    970.0,
+                    1245.0
+                ],
+                [
+                    970.0,
+                    1321.0
+                ],
+                [
+                    108.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

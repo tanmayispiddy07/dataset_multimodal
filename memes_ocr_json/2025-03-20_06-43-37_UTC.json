@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-03-20_06-43-37_UTC.jpg",
+    "combined_text": "A 2O-YEAR-OLDGIRL MARRIES HER\n52-YEAR-OLD TEACHER. \"IFELL IN LOVE\nWITH HIS WAY OF TEACHING STYLE\"\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "A 2O-YEAR-OLDGIRL MARRIES HER",
+            "confidence": 0.944,
+            "box": [
+                [
+                    136.0,
+                    22.0
+                ],
+                [
+                    930.0,
+                    22.0
+                ],
+                [
+                    930.0,
+                    60.0
+                ],
+                [
+                    136.0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "text": "52-YEAR-OLD TEACHER. \"IFELL IN LOVE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    86.0,
+                    77.0
+                ],
+                [
+                    979.0,
+                    77.0
+                ],
+                [
+                    979.0,
+                    114.0
+                ],
+                [
+                    86.0,
+                    114.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH HIS WAY OF TEACHING STYLE\"",
+            "confidence": 0.997,
+            "box": [
+                [
+                    135.0,
+                    131.0
+                ],
+                [
+                    927.0,
+                    131.0
+                ],
+                [
+                    927.0,
+                    173.0
+                ],
+                [
+                    135.0,
+                    173.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    18.0,
+                    362.0
+                ],
+                [
+                    190.0,
+                    362.0
+                ],
+                [
+                    190.0,
+                    387.0
+                ],
+                [
+                    18.0,
+                    387.0
+                ]
+            ]
+        }
+    ]
+}

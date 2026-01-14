@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-05-09_13-16-43_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEWOF THE FILM \"SINGLE'\nEXCELLENT 1ST HALF WITH FULL COMEDY\nTRACK BETWEEN SREE VISHNU AND VENNELA\nKISHOR THAT WORKEDOUT REALLY WELL\nMAY\nMAY\nDICTEDTOMEMES\n#Sinyle\n#Sinyle\nSUPRISING 2ND HALF WITH\nCAMEOS.THOSESREE VISHNU ONE\nLINERS ARE\nE HIGHLIGHT OF THE\nFILM.PERFECT ENTERTAINMENT\nTHAT CAN BE WATCHED WITH FAMILY",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEWOF THE FILM \"SINGLE'",
+            "confidence": 0.934,
+            "box": [
+                [
+                    49.0,
+                    29.0
+                ],
+                [
+                    1032.0,
+                    29.0
+                ],
+                [
+                    1032.0,
+                    67.0
+                ],
+                [
+                    49.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCELLENT 1ST HALF WITH FULL COMEDY",
+            "confidence": 0.936,
+            "box": [
+                [
+                    118.0,
+                    109.0
+                ],
+                [
+                    975.0,
+                    109.0
+                ],
+                [
+                    975.0,
+                    142.0
+                ],
+                [
+                    118.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "TRACK BETWEEN SREE VISHNU AND VENNELA",
+            "confidence": 0.931,
+            "box": [
+                [
+                    66.0,
+                    157.0
+                ],
+                [
+                    1025.0,
+                    157.0
+                ],
+                [
+                    1025.0,
+                    195.0
+                ],
+                [
+                    66.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "KISHOR THAT WORKEDOUT REALLY WELL",
+            "confidence": 0.952,
+            "box": [
+                [
+                    111.0,
+                    210.0
+                ],
+                [
+                    982.0,
+                    210.0
+                ],
+                [
+                    982.0,
+                    244.0
+                ],
+                [
+                    111.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "text": "MAY",
+            "confidence": 0.955,
+            "box": [
+                [
+                    160.0,
+                    382.0
+                ],
+                [
+                    242.0,
+                    362.0
+                ],
+                [
+                    252.0,
+                    402.0
+                ],
+                [
+                    170.0,
+                    423.0
+                ]
+            ]
+        },
+        {
+            "text": "MAY",
+            "confidence": 0.993,
+            "box": [
+                [
+                    726.0,
+                    382.0
+                ],
+                [
+                    799.0,
+                    364.0
+                ],
+                [
+                    809.0,
+                    401.0
+                ],
+                [
+                    735.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "DICTEDTOMEMES",
+            "confidence": 0.967,
+            "box": [
+                [
+                    512.0,
+                    397.0
+                ],
+                [
+                    640.0,
+                    397.0
+                ],
+                [
+                    640.0,
+                    414.0
+                ],
+                [
+                    512.0,
+                    414.0
+                ]
+            ]
+        },
+        {
+            "text": "#Sinyle",
+            "confidence": 0.943,
+            "box": [
+                [
+                    84.0,
+                    851.0
+                ],
+                [
+                    498.0,
+                    823.0
+                ],
+                [
+                    508.0,
+                    974.0
+                ],
+                [
+                    94.0,
+                    1001.0
+                ]
+            ]
+        },
+        {
+            "text": "#Sinyle",
+            "confidence": 0.938,
+            "box": [
+                [
+                    676.0,
+                    842.0
+                ],
+                [
+                    994.0,
+                    824.0
+                ],
+                [
+                    1001.0,
+                    940.0
+                ],
+                [
+                    683.0,
+                    958.0
+                ]
+            ]
+        },
+        {
+            "text": "SUPRISING 2ND HALF WITH",
+            "confidence": 0.953,
+            "box": [
+                [
+                    194.0,
+                    1015.0
+                ],
+                [
+                    897.0,
+                    1015.0
+                ],
+                [
+                    897.0,
+                    1061.0
+                ],
+                [
+                    194.0,
+                    1061.0
+                ]
+            ]
+        },
+        {
+            "text": "CAMEOS.THOSESREE VISHNU ONE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    84.0,
+                    1080.0
+                ],
+                [
+                    1011.0,
+                    1080.0
+                ],
+                [
+                    1011.0,
+                    1122.0
+                ],
+                [
+                    84.0,
+                    1122.0
+                ]
+            ]
+        },
+        {
+            "text": "LINERS ARE",
+            "confidence": 0.962,
+            "box": [
+                [
+                    135.0,
+                    1143.0
+                ],
+                [
+                    444.0,
+                    1143.0
+                ],
+                [
+                    444.0,
+                    1185.0
+                ],
+                [
+                    135.0,
+                    1185.0
+                ]
+            ]
+        },
+        {
+            "text": "E HIGHLIGHT OF THE",
+            "confidence": 0.94,
+            "box": [
+                [
+                    419.0,
+                    1143.0
+                ],
+                [
+                    956.0,
+                    1143.0
+                ],
+                [
+                    956.0,
+                    1185.0
+                ],
+                [
+                    419.0,
+                    1185.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM.PERFECT ENTERTAINMENT",
+            "confidence": 0.983,
+            "box": [
+                [
+                    128.0,
+                    1204.0
+                ],
+                [
+                    963.0,
+                    1206.0
+                ],
+                [
+                    963.0,
+                    1249.0
+                ],
+                [
+                    128.0,
+                    1247.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT CAN BE WATCHED WITH FAMILY",
+            "confidence": 0.96,
+            "box": [
+                [
+                    63.0,
+                    1270.0
+                ],
+                [
+                    1011.0,
+                    1270.0
+                ],
+                [
+                    1011.0,
+                    1312.0
+                ],
+                [
+                    63.0,
+                    1312.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-09-15_13-14-22_UTC.jpg",
+    "combined_text": "PAKISTANI DOCTOR LEFT SURGERY IN\nMIDDLE TO HAVE SMEX WITH NURSE\nDOCTOR& NURSE WERE FOUND BY\nANOTHER NURSE DURING SEMX\nADDICTEDTOMEMES\n**MEANWHILE THAT PATIENT\nKANIEVVANDIRA KANIEVVANDI",
+    "detailed": [
+        {
+            "text": "PAKISTANI DOCTOR LEFT SURGERY IN",
+            "confidence": 0.945,
+            "box": [
+                [
+                    52.0,
+                    67.0
+                ],
+                [
+                    1027.0,
+                    67.0
+                ],
+                [
+                    1027.0,
+                    109.0
+                ],
+                [
+                    52.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "MIDDLE TO HAVE SMEX WITH NURSE",
+            "confidence": 0.937,
+            "box": [
+                [
+                    75.0,
+                    130.0
+                ],
+                [
+                    1004.0,
+                    130.0
+                ],
+                [
+                    1004.0,
+                    176.0
+                ],
+                [
+                    75.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "DOCTOR& NURSE WERE FOUND BY",
+            "confidence": 0.93,
+            "box": [
+                [
+                    136.0,
+                    227.0
+                ],
+                [
+                    951.0,
+                    229.0
+                ],
+                [
+                    951.0,
+                    270.0
+                ],
+                [
+                    136.0,
+                    269.0
+                ]
+            ]
+        },
+        {
+            "text": "ANOTHER NURSE DURING SEMX",
+            "confidence": 0.95,
+            "box": [
+                [
+                    170.0,
+                    287.0
+                ],
+                [
+                    922.0,
+                    287.0
+                ],
+                [
+                    922.0,
+                    329.0
+                ],
+                [
+                    170.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    915.0,
+                    385.0
+                ],
+                [
+                    1079.0,
+                    385.0
+                ],
+                [
+                    1079.0,
+                    406.0
+                ],
+                [
+                    915.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "**MEANWHILE THAT PATIENT",
+            "confidence": 0.962,
+            "box": [
+                [
+                    93.0,
+                    952.0
+                ],
+                [
+                    599.0,
+                    958.0
+                ],
+                [
+                    599.0,
+                    997.0
+                ],
+                [
+                    93.0,
+                    991.0
+                ]
+            ]
+        },
+        {
+            "text": "KANIEVVANDIRA KANIEVVANDI",
+            "confidence": 0.967,
+            "box": [
+                [
+                    115.0,
+                    1277.0
+                ],
+                [
+                    996.0,
+                    1277.0
+                ],
+                [
+                    996.0,
+                    1323.0
+                ],
+                [
+                    115.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

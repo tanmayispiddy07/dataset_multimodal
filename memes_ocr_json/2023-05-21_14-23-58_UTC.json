@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-05-21_14-23-58_UTC.jpg",
+    "combined_text": "HAPPY INTERNATIONAL\nTEA DAY.\nTELUGU MEMES GURU\nTEA ANTEY MAAKU VYASANAM KADHU\nPUTTUKATHO ALAVATU PADINA SAMPRADAYAM",
+    "detailed": [
+        {
+            "text": "HAPPY INTERNATIONAL",
+            "confidence": 0.981,
+            "box": [
+                [
+                    153.0,
+                    677.0
+                ],
+                [
+                    880.0,
+                    675.0
+                ],
+                [
+                    880.0,
+                    727.0
+                ],
+                [
+                    153.0,
+                    728.0
+                ]
+            ]
+        },
+        {
+            "text": "TEA DAY.",
+            "confidence": 0.945,
+            "box": [
+                [
+                    316.0,
+                    745.0
+                ],
+                [
+                    595.0,
+                    745.0
+                ],
+                [
+                    595.0,
+                    800.0
+                ],
+                [
+                    316.0,
+                    800.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.906,
+            "box": [
+                [
+                    908.0,
+                    948.0
+                ],
+                [
+                    1065.0,
+                    948.0
+                ],
+                [
+                    1065.0,
+                    973.0
+                ],
+                [
+                    908.0,
+                    973.0
+                ]
+            ]
+        },
+        {
+            "text": "TEA ANTEY MAAKU VYASANAM KADHU",
+            "confidence": 0.942,
+            "box": [
+                [
+                    90.0,
+                    1235.0
+                ],
+                [
+                    931.0,
+                    1235.0
+                ],
+                [
+                    931.0,
+                    1269.0
+                ],
+                [
+                    90.0,
+                    1269.0
+                ]
+            ]
+        },
+        {
+            "text": "PUTTUKATHO ALAVATU PADINA SAMPRADAYAM",
+            "confidence": 0.97,
+            "box": [
+                [
+                    6.0,
+                    1277.0
+                ],
+                [
+                    1055.0,
+                    1278.0
+                ],
+                [
+                    1055.0,
+                    1320.0
+                ],
+                [
+                    6.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

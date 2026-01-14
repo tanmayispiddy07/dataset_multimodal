@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-11-03_15-02-33_UTC.jpg",
+    "combined_text": "Bro got a free\ntrial of married life\nsarcasm",
+    "detailed": [
+        {
+            "text": "Bro got a free",
+            "confidence": 0.96,
+            "box": [
+                [
+                    178.0,
+                    132.0
+                ],
+                [
+                    360.0,
+                    130.0
+                ],
+                [
+                    360.0,
+                    162.0
+                ],
+                [
+                    178.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "trial of married life",
+            "confidence": 0.959,
+            "box": [
+                [
+                    128.0,
+                    169.0
+                ],
+                [
+                    376.0,
+                    169.0
+                ],
+                [
+                    376.0,
+                    197.0
+                ],
+                [
+                    128.0,
+                    197.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    272.0,
+                    650.0
+                ],
+                [
+                    332.0,
+                    650.0
+                ],
+                [
+                    332.0,
+                    663.0
+                ],
+                [
+                    272.0,
+                    663.0
+                ]
+            ]
+        }
+    ]
+}

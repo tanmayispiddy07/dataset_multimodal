@@ -1,0 +1,292 @@
+{
+    "image_name": "2023-04-13_13-56-37_UTC.jpg",
+    "combined_text": "HERE'S SUMA GARU AND ALLARI NARESH'S CRAZY\nINTERVIEW...\n.. UGRAM INCINEMAS 5TH MAY\nANTHAKAMUNDHEMO NAANDHI LO OKA RAKAMAINA\nCHEPINCHARUALA ELA WRITING LO MARPU\nhere to\nTELUGU MEMES GURU\nNARESH GARU MANCHI PERFORMER ANDARIKI\nTELISINDHEY.\nEE SCRIPTRASETAPPUDUAYANA\nCHESTHEY CHALA KOTHAGA UNTUNDHI ANUKUNNAM\nCHALA GATTIGANEY PLAN CHESINATTU\nUNNARU MIKE",
+    "detailed": [
+        {
+            "text": "HERE'S SUMA GARU AND ALLARI NARESH'S CRAZY",
+            "confidence": 0.939,
+            "box": [
+                [
+                    27.0,
+                    14.0
+                ],
+                [
+                    1066.0,
+                    14.0
+                ],
+                [
+                    1066.0,
+                    47.0
+                ],
+                [
+                    27.0,
+                    47.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERVIEW...",
+            "confidence": 0.969,
+            "box": [
+                [
+                    66.0,
+                    58.0
+                ],
+                [
+                    331.0,
+                    61.0
+                ],
+                [
+                    330.0,
+                    95.0
+                ],
+                [
+                    66.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": ".. UGRAM INCINEMAS 5TH MAY",
+            "confidence": 0.911,
+            "box": [
+                [
+                    318.0,
+                    61.0
+                ],
+                [
+                    1000.0,
+                    61.0
+                ],
+                [
+                    1000.0,
+                    90.0
+                ],
+                [
+                    318.0,
+                    90.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTHAKAMUNDHEMO NAANDHI LO OKA RAKAMAINA",
+            "confidence": 0.958,
+            "box": [
+                [
+                    34.0,
+                    431.0
+                ],
+                [
+                    1062.0,
+                    431.0
+                ],
+                [
+                    1062.0,
+                    460.0
+                ],
+                [
+                    34.0,
+                    460.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEPINCHARUALA ELA WRITING LO MARPU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    120.0,
+                    510.0
+                ],
+                [
+                    960.0,
+                    510.0
+                ],
+                [
+                    960.0,
+                    543.0
+                ],
+                [
+                    120.0,
+                    543.0
+                ]
+            ]
+        },
+        {
+            "text": "here to",
+            "confidence": 0.773,
+            "box": [
+                [
+                    1029.0,
+                    511.0
+                ],
+                [
+                    1072.0,
+                    511.0
+                ],
+                [
+                    1072.0,
+                    529.0
+                ],
+                [
+                    1029.0,
+                    529.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.906,
+            "box": [
+                [
+                    835.0,
+                    795.0
+                ],
+                [
+                    1005.0,
+                    795.0
+                ],
+                [
+                    1005.0,
+                    820.0
+                ],
+                [
+                    835.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "NARESH GARU MANCHI PERFORMER ANDARIKI",
+            "confidence": 0.954,
+            "box": [
+                [
+                    77.0,
+                    866.0
+                ],
+                [
+                    989.0,
+                    866.0
+                ],
+                [
+                    989.0,
+                    899.0
+                ],
+                [
+                    77.0,
+                    899.0
+                ]
+            ]
+        },
+        {
+            "text": "TELISINDHEY.",
+            "confidence": 0.992,
+            "box": [
+                [
+                    60.0,
+                    912.0
+                ],
+                [
+                    318.0,
+                    912.0
+                ],
+                [
+                    318.0,
+                    941.0
+                ],
+                [
+                    60.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "EE SCRIPTRASETAPPUDUAYANA",
+            "confidence": 0.968,
+            "box": [
+                [
+                    371.0,
+                    912.0
+                ],
+                [
+                    1004.0,
+                    912.0
+                ],
+                [
+                    1004.0,
+                    941.0
+                ],
+                [
+                    371.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESTHEY CHALA KOTHAGA UNTUNDHI ANUKUNNAM",
+            "confidence": 0.959,
+            "box": [
+                [
+                    17.0,
+                    952.0
+                ],
+                [
+                    1079.0,
+                    952.0
+                ],
+                [
+                    1079.0,
+                    985.0
+                ],
+                [
+                    17.0,
+                    985.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALA GATTIGANEY PLAN CHESINATTU",
+            "confidence": 0.962,
+            "box": [
+                [
+                    115.0,
+                    1231.0
+                ],
+                [
+                    953.0,
+                    1231.0
+                ],
+                [
+                    953.0,
+                    1269.0
+                ],
+                [
+                    115.0,
+                    1269.0
+                ]
+            ]
+        },
+        {
+            "text": "UNNARU MIKE",
+            "confidence": 0.969,
+            "box": [
+                [
+                    366.0,
+                    1278.0
+                ],
+                [
+                    688.0,
+                    1281.0
+                ],
+                [
+                    687.0,
+                    1320.0
+                ],
+                [
+                    365.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

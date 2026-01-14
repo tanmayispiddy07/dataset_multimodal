@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-05-28_04-45-00_UTC.jpg",
+    "combined_text": "sarcasm\nThe masculine urge for this>>>",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    481.0,
+                    579.0
+                ],
+                [
+                    598.0,
+                    579.0
+                ],
+                [
+                    598.0,
+                    606.0
+                ],
+                [
+                    481.0,
+                    606.0
+                ]
+            ]
+        },
+        {
+            "text": "The masculine urge for this>>>",
+            "confidence": 0.991,
+            "box": [
+                [
+                    56.0,
+                    648.0
+                ],
+                [
+                    1021.0,
+                    648.0
+                ],
+                [
+                    1021.0,
+                    710.0
+                ],
+                [
+                    56.0,
+                    710.0
+                ]
+            ]
+        }
+    ]
+}

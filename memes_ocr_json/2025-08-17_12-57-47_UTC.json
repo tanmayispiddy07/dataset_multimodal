@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-08-17_12-57-47_UTC.jpg",
+    "combined_text": "AFTER HARI HARA VEERA MALLU & RAJA SAAB,\nNIDHHI AGERWAL IS ONCE AGAIN PUTTING\nHER BELIEF IN A FILM THAT PROMISES SOLID\nCONTENT AND GRIPPING STORYTELLING.\nJC\nJYOTHI\nCREATIONS\nPRODUCTION NO.1\nPODCEBPEPPALA APPALAAB(AR\nT  IKI KATEE\nHAPPYBIRTHDAY\nNIDHHIAGERWAI\nANNOUNCEMENT\nONDASARA\nADDICTEDTOMEMES\nINKA CHUSTHARU RA THRILLER\nTHONE NIDHHI AADINCHE AATA",
+    "detailed": [
+        {
+            "text": "AFTER HARI HARA VEERA MALLU & RAJA SAAB,",
+            "confidence": 0.924,
+            "box": [
+                [
+                    111.0,
+                    17.0
+                ],
+                [
+                    987.0,
+                    20.0
+                ],
+                [
+                    987.0,
+                    57.0
+                ],
+                [
+                    111.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "NIDHHI AGERWAL IS ONCE AGAIN PUTTING",
+            "confidence": 0.944,
+            "box": [
+                [
+                    158.0,
+                    66.0
+                ],
+                [
+                    944.0,
+                    66.0
+                ],
+                [
+                    944.0,
+                    99.0
+                ],
+                [
+                    158.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "HER BELIEF IN A FILM THAT PROMISES SOLID",
+            "confidence": 0.928,
+            "box": [
+                [
+                    146.0,
+                    112.0
+                ],
+                [
+                    956.0,
+                    112.0
+                ],
+                [
+                    956.0,
+                    145.0
+                ],
+                [
+                    146.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "CONTENT AND GRIPPING STORYTELLING.",
+            "confidence": 0.976,
+            "box": [
+                [
+                    172.0,
+                    155.0
+                ],
+                [
+                    928.0,
+                    156.0
+                ],
+                [
+                    928.0,
+                    194.0
+                ],
+                [
+                    172.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "JC",
+            "confidence": 0.957,
+            "box": [
+                [
+                    25.0,
+                    243.0
+                ],
+                [
+                    70.0,
+                    243.0
+                ],
+                [
+                    70.0,
+                    279.0
+                ],
+                [
+                    25.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "JYOTHI",
+            "confidence": 0.997,
+            "box": [
+                [
+                    18.0,
+                    276.0
+                ],
+                [
+                    79.0,
+                    276.0
+                ],
+                [
+                    79.0,
+                    294.0
+                ],
+                [
+                    18.0,
+                    294.0
+                ]
+            ]
+        },
+        {
+            "text": "CREATIONS",
+            "confidence": 0.985,
+            "box": [
+                [
+                    17.0,
+                    291.0
+                ],
+                [
+                    77.0,
+                    291.0
+                ],
+                [
+                    77.0,
+                    308.0
+                ],
+                [
+                    17.0,
+                    308.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCTION NO.1",
+            "confidence": 0.939,
+            "box": [
+                [
+                    90.0,
+                    340.0
+                ],
+                [
+                    508.0,
+                    342.0
+                ],
+                [
+                    508.0,
+                    379.0
+                ],
+                [
+                    90.0,
+                    378.0
+                ]
+            ]
+        },
+        {
+            "text": "PODCEBPEPPALA APPALAAB(AR",
+            "confidence": 0.663,
+            "box": [
+                [
+                    104.0,
+                    390.0
+                ],
+                [
+                    297.0,
+                    390.0
+                ],
+                [
+                    297.0,
+                    407.0
+                ],
+                [
+                    104.0,
+                    407.0
+                ]
+            ]
+        },
+        {
+            "text": "T  IKI KATEE",
+            "confidence": 0.646,
+            "box": [
+                [
+                    300.0,
+                    390.0
+                ],
+                [
+                    492.0,
+                    390.0
+                ],
+                [
+                    492.0,
+                    407.0
+                ],
+                [
+                    300.0,
+                    407.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPYBIRTHDAY",
+            "confidence": 0.994,
+            "box": [
+                [
+                    163.0,
+                    850.0
+                ],
+                [
+                    432.0,
+                    850.0
+                ],
+                [
+                    432.0,
+                    871.0
+                ],
+                [
+                    163.0,
+                    871.0
+                ]
+            ]
+        },
+        {
+            "text": "NIDHHIAGERWAI",
+            "confidence": 0.975,
+            "box": [
+                [
+                    105.0,
+                    882.0
+                ],
+                [
+                    489.0,
+                    882.0
+                ],
+                [
+                    489.0,
+                    907.0
+                ],
+                [
+                    105.0,
+                    907.0
+                ]
+            ]
+        },
+        {
+            "text": "ANNOUNCEMENT",
+            "confidence": 0.977,
+            "box": [
+                [
+                    165.0,
+                    938.0
+                ],
+                [
+                    367.0,
+                    938.0
+                ],
+                [
+                    367.0,
+                    955.0
+                ],
+                [
+                    165.0,
+                    955.0
+                ]
+            ]
+        },
+        {
+            "text": "ONDASARA",
+            "confidence": 0.989,
+            "box": [
+                [
+                    373.0,
+                    937.0
+                ],
+                [
+                    522.0,
+                    937.0
+                ],
+                [
+                    522.0,
+                    953.0
+                ],
+                [
+                    373.0,
+                    953.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    13.0,
+                    1104.0
+                ],
+                [
+                    163.0,
+                    1104.0
+                ],
+                [
+                    163.0,
+                    1125.0
+                ],
+                [
+                    13.0,
+                    1125.0
+                ]
+            ]
+        },
+        {
+            "text": "INKA CHUSTHARU RA THRILLER",
+            "confidence": 0.954,
+            "box": [
+                [
+                    115.0,
+                    1240.0
+                ],
+                [
+                    693.0,
+                    1242.0
+                ],
+                [
+                    693.0,
+                    1275.0
+                ],
+                [
+                    115.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "THONE NIDHHI AADINCHE AATA",
+            "confidence": 0.953,
+            "box": [
+                [
+                    114.0,
+                    1289.0
+                ],
+                [
+                    695.0,
+                    1289.0
+                ],
+                [
+                    695.0,
+                    1318.0
+                ],
+                [
+                    114.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

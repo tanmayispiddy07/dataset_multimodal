@@ -1,0 +1,886 @@
+{
+    "image_name": "2025-11-09_16-56-07_UTC.jpg",
+    "combined_text": "EVERYONE LOVING THE GREAT\nPRE WEDDING SHOW MOVIE\npreyadarshe  9h\nBellamkonda Sreenivas @BSaiSr...50s\n Mangli Suresh Bobbili Sanar\ne Wedd\nJust watched #TheGreatPreWeddingShow and\nabsolutely loved how simple, funny & real it felt\nip5osawo\nUrge everyone to watch it immediately!\nSg'rca\nPacked with so much heart, laughs & honesty.\nodg\n07\nCongrats brother @iamThiruveeR\nWSo!\nYou deserve this long ago\nCENSORED\nU/A\nXICTEDTOMEMES\nBig hugs to debut Director #RahulSrinivas&\nwhole team for pulling off this fun gem\nKiran Abbavaram \n@Kiran_Abbavaram\nHES\nCongratulations to the entire team on\nthe success!\nThis success feels personal\n@iamThiruveeR,#RahulSrinivas,\n#RohanRai,@sureshbobbili9 and\nDreams do come true @thiruveer\neveryone involved for creating such a\nCongratulations to the entire team of\ndelightful entertainer that's winning\nThe Great Pre Wedding Show\nhearts.\nDEFINITELY NENU RECENT TIMES LO\nCHUSINA MANCHI CINEMA LO IDHI TOP\nPRIORITY LO UNTADI\nSUCH A BEAUTIFUL FILM ASALA",
+    "detailed": [
+        {
+            "text": "EVERYONE LOVING THE GREAT",
+            "confidence": 0.949,
+            "box": [
+                [
+                    163.0,
+                    48.0
+                ],
+                [
+                    927.0,
+                    48.0
+                ],
+                [
+                    927.0,
+                    87.0
+                ],
+                [
+                    163.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "text": "PRE WEDDING SHOW MOVIE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    181.0,
+                    108.0
+                ],
+                [
+                    886.0,
+                    108.0
+                ],
+                [
+                    886.0,
+                    151.0
+                ],
+                [
+                    181.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "preyadarshe  9h",
+            "confidence": 0.954,
+            "box": [
+                [
+                    53.0,
+                    217.0
+                ],
+                [
+                    190.0,
+                    217.0
+                ],
+                [
+                    190.0,
+                    238.0
+                ],
+                [
+                    53.0,
+                    238.0
+                ]
+            ]
+        },
+        {
+            "text": "Bellamkonda Sreenivas @BSaiSr...50s",
+            "confidence": 0.949,
+            "box": [
+                [
+                    532.0,
+                    214.0
+                ],
+                [
+                    1052.0,
+                    214.0
+                ],
+                [
+                    1052.0,
+                    244.0
+                ],
+                [
+                    532.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "text": " Mangli Suresh Bobbili Sanar",
+            "confidence": 0.864,
+            "box": [
+                [
+                    56.0,
+                    238.0
+                ],
+                [
+                    263.0,
+                    238.0
+                ],
+                [
+                    263.0,
+                    255.0
+                ],
+                [
+                    56.0,
+                    255.0
+                ]
+            ]
+        },
+        {
+            "text": "e Wedd",
+            "confidence": 0.87,
+            "box": [
+                [
+                    294.0,
+                    240.0
+                ],
+                [
+                    343.0,
+                    240.0
+                ],
+                [
+                    343.0,
+                    255.0
+                ],
+                [
+                    294.0,
+                    255.0
+                ]
+            ]
+        },
+        {
+            "text": "Just watched #TheGreatPreWeddingShow and",
+            "confidence": 0.984,
+            "box": [
+                [
+                    532.0,
+                    250.0
+                ],
+                [
+                    1077.0,
+                    250.0
+                ],
+                [
+                    1077.0,
+                    280.0
+                ],
+                [
+                    532.0,
+                    280.0
+                ]
+            ]
+        },
+        {
+            "text": "absolutely loved how simple, funny & real it felt",
+            "confidence": 0.942,
+            "box": [
+                [
+                    530.0,
+                    284.0
+                ],
+                [
+                    1079.0,
+                    284.0
+                ],
+                [
+                    1079.0,
+                    314.0
+                ],
+                [
+                    530.0,
+                    314.0
+                ]
+            ]
+        },
+        {
+            "text": "ip5osawo",
+            "confidence": 0.507,
+            "box": [
+                [
+                    90.0,
+                    394.0
+                ],
+                [
+                    235.0,
+                    394.0
+                ],
+                [
+                    235.0,
+                    411.0
+                ],
+                [
+                    90.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "Urge everyone to watch it immediately!",
+            "confidence": 0.976,
+            "box": [
+                [
+                    533.0,
+                    386.0
+                ],
+                [
+                    986.0,
+                    386.0
+                ],
+                [
+                    986.0,
+                    412.0
+                ],
+                [
+                    533.0,
+                    412.0
+                ]
+            ]
+        },
+        {
+            "text": "Sg'rca",
+            "confidence": 0.576,
+            "box": [
+                [
+                    89.0,
+                    425.0
+                ],
+                [
+                    142.0,
+                    425.0
+                ],
+                [
+                    142.0,
+                    442.0
+                ],
+                [
+                    89.0,
+                    442.0
+                ]
+            ]
+        },
+        {
+            "text": "Packed with so much heart, laughs & honesty.",
+            "confidence": 0.94,
+            "box": [
+                [
+                    530.0,
+                    416.0
+                ],
+                [
+                    1067.0,
+                    419.0
+                ],
+                [
+                    1067.0,
+                    449.0
+                ],
+                [
+                    530.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "odg",
+            "confidence": 0.594,
+            "box": [
+                [
+                    87.0,
+                    468.0
+                ],
+                [
+                    195.0,
+                    468.0
+                ],
+                [
+                    195.0,
+                    489.0
+                ],
+                [
+                    87.0,
+                    489.0
+                ]
+            ]
+        },
+        {
+            "text": "07",
+            "confidence": 0.977,
+            "box": [
+                [
+                    208.0,
+                    463.0
+                ],
+                [
+                    252.0,
+                    463.0
+                ],
+                [
+                    252.0,
+                    501.0
+                ],
+                [
+                    208.0,
+                    501.0
+                ]
+            ]
+        },
+        {
+            "text": "Congrats brother @iamThiruveeR",
+            "confidence": 0.984,
+            "box": [
+                [
+                    532.0,
+                    485.0
+                ],
+                [
+                    924.0,
+                    485.0
+                ],
+                [
+                    924.0,
+                    515.0
+                ],
+                [
+                    532.0,
+                    515.0
+                ]
+            ]
+        },
+        {
+            "text": "WSo!",
+            "confidence": 0.567,
+            "box": [
+                [
+                    87.0,
+                    521.0
+                ],
+                [
+                    149.0,
+                    521.0
+                ],
+                [
+                    149.0,
+                    543.0
+                ],
+                [
+                    87.0,
+                    543.0
+                ]
+            ]
+        },
+        {
+            "text": "You deserve this long ago",
+            "confidence": 0.983,
+            "box": [
+                [
+                    530.0,
+                    515.0
+                ],
+                [
+                    834.0,
+                    519.0
+                ],
+                [
+                    834.0,
+                    551.0
+                ],
+                [
+                    530.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "text": "CENSORED",
+            "confidence": 0.998,
+            "box": [
+                [
+                    90.0,
+                    540.0
+                ],
+                [
+                    190.0,
+                    540.0
+                ],
+                [
+                    190.0,
+                    563.0
+                ],
+                [
+                    90.0,
+                    563.0
+                ]
+            ]
+        },
+        {
+            "text": "U/A",
+            "confidence": 0.928,
+            "box": [
+                [
+                    87.0,
+                    556.0
+                ],
+                [
+                    193.0,
+                    556.0
+                ],
+                [
+                    193.0,
+                    596.0
+                ],
+                [
+                    87.0,
+                    596.0
+                ]
+            ]
+        },
+        {
+            "text": "XICTEDTOMEMES",
+            "confidence": 0.94,
+            "box": [
+                [
+                    432.0,
+                    548.0
+                ],
+                [
+                    534.0,
+                    548.0
+                ],
+                [
+                    534.0,
+                    569.0
+                ],
+                [
+                    432.0,
+                    569.0
+                ]
+            ]
+        },
+        {
+            "text": "Big hugs to debut Director #RahulSrinivas&",
+            "confidence": 0.953,
+            "box": [
+                [
+                    533.0,
+                    586.0
+                ],
+                [
+                    1045.0,
+                    586.0
+                ],
+                [
+                    1045.0,
+                    616.0
+                ],
+                [
+                    533.0,
+                    616.0
+                ]
+            ]
+        },
+        {
+            "text": "whole team for pulling off this fun gem",
+            "confidence": 0.967,
+            "box": [
+                [
+                    533.0,
+                    620.0
+                ],
+                [
+                    994.0,
+                    620.0
+                ],
+                [
+                    994.0,
+                    650.0
+                ],
+                [
+                    533.0,
+                    650.0
+                ]
+            ]
+        },
+        {
+            "text": "Kiran Abbavaram ",
+            "confidence": 0.957,
+            "box": [
+                [
+                    571.0,
+                    670.0
+                ],
+                [
+                    828.0,
+                    670.0
+                ],
+                [
+                    828.0,
+                    696.0
+                ],
+                [
+                    571.0,
+                    696.0
+                ]
+            ]
+        },
+        {
+            "text": "@Kiran_Abbavaram",
+            "confidence": 0.991,
+            "box": [
+                [
+                    568.0,
+                    696.0
+                ],
+                [
+                    814.0,
+                    697.0
+                ],
+                [
+                    814.0,
+                    724.0
+                ],
+                [
+                    568.0,
+                    723.0
+                ]
+            ]
+        },
+        {
+            "text": "HES",
+            "confidence": 0.56,
+            "box": [
+                [
+                    391.0,
+                    743.0
+                ],
+                [
+                    416.0,
+                    743.0
+                ],
+                [
+                    416.0,
+                    753.0
+                ],
+                [
+                    391.0,
+                    753.0
+                ]
+            ]
+        },
+        {
+            "text": "Congratulations to the entire team on",
+            "confidence": 0.984,
+            "box": [
+                [
+                    474.0,
+                    744.0
+                ],
+                [
+                    1036.0,
+                    746.0
+                ],
+                [
+                    1036.0,
+                    777.0
+                ],
+                [
+                    474.0,
+                    776.0
+                ]
+            ]
+        },
+        {
+            "text": "the success!",
+            "confidence": 0.964,
+            "box": [
+                [
+                    477.0,
+                    783.0
+                ],
+                [
+                    669.0,
+                    783.0
+                ],
+                [
+                    669.0,
+                    809.0
+                ],
+                [
+                    477.0,
+                    809.0
+                ]
+            ]
+        },
+        {
+            "text": "This success feels personal",
+            "confidence": 0.948,
+            "box": [
+                [
+                    100.0,
+                    821.0
+                ],
+                [
+                    329.0,
+                    821.0
+                ],
+                [
+                    329.0,
+                    851.0
+                ],
+                [
+                    100.0,
+                    851.0
+                ]
+            ]
+        },
+        {
+            "text": "@iamThiruveeR,#RahulSrinivas,",
+            "confidence": 0.992,
+            "box": [
+                [
+                    475.0,
+                    816.0
+                ],
+                [
+                    959.0,
+                    817.0
+                ],
+                [
+                    959.0,
+                    847.0
+                ],
+                [
+                    475.0,
+                    846.0
+                ]
+            ]
+        },
+        {
+            "text": "#RohanRai,@sureshbobbili9 and",
+            "confidence": 0.983,
+            "box": [
+                [
+                    474.0,
+                    850.0
+                ],
+                [
+                    972.0,
+                    850.0
+                ],
+                [
+                    972.0,
+                    880.0
+                ],
+                [
+                    474.0,
+                    880.0
+                ]
+            ]
+        },
+        {
+            "text": "Dreams do come true @thiruveer",
+            "confidence": 0.937,
+            "box": [
+                [
+                    62.0,
+                    874.0
+                ],
+                [
+                    359.0,
+                    874.0
+                ],
+                [
+                    359.0,
+                    900.0
+                ],
+                [
+                    62.0,
+                    900.0
+                ]
+            ]
+        },
+        {
+            "text": "everyone involved for creating such a",
+            "confidence": 0.972,
+            "box": [
+                [
+                    472.0,
+                    888.0
+                ],
+                [
+                    1031.0,
+                    887.0
+                ],
+                [
+                    1031.0,
+                    917.0
+                ],
+                [
+                    473.0,
+                    918.0
+                ]
+            ]
+        },
+        {
+            "text": "Congratulations to the entire team of",
+            "confidence": 0.941,
+            "box": [
+                [
+                    101.0,
+                    923.0
+                ],
+                [
+                    346.0,
+                    923.0
+                ],
+                [
+                    346.0,
+                    948.0
+                ],
+                [
+                    101.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "delightful entertainer that's winning",
+            "confidence": 0.973,
+            "box": [
+                [
+                    474.0,
+                    921.0
+                ],
+                [
+                    1011.0,
+                    924.0
+                ],
+                [
+                    1011.0,
+                    954.0
+                ],
+                [
+                    474.0,
+                    951.0
+                ]
+            ]
+        },
+        {
+            "text": "The Great Pre Wedding Show",
+            "confidence": 0.967,
+            "box": [
+                [
+                    124.0,
+                    944.0
+                ],
+                [
+                    321.0,
+                    946.0
+                ],
+                [
+                    321.0,
+                    971.0
+                ],
+                [
+                    124.0,
+                    970.0
+                ]
+            ]
+        },
+        {
+            "text": "hearts.",
+            "confidence": 0.91,
+            "box": [
+                [
+                    475.0,
+                    955.0
+                ],
+                [
+                    578.0,
+                    959.0
+                ],
+                [
+                    577.0,
+                    990.0
+                ],
+                [
+                    474.0,
+                    986.0
+                ]
+            ]
+        },
+        {
+            "text": "DEFINITELY NENU RECENT TIMES LO",
+            "confidence": 0.945,
+            "box": [
+                [
+                    105.0,
+                    1082.0
+                ],
+                [
+                    960.0,
+                    1082.0
+                ],
+                [
+                    960.0,
+                    1117.0
+                ],
+                [
+                    105.0,
+                    1117.0
+                ]
+            ]
+        },
+        {
+            "text": "CHUSINA MANCHI CINEMA LO IDHI TOP",
+            "confidence": 0.941,
+            "box": [
+                [
+                    55.0,
+                    1141.0
+                ],
+                [
+                    1011.0,
+                    1139.0
+                ],
+                [
+                    1011.0,
+                    1179.0
+                ],
+                [
+                    55.0,
+                    1181.0
+                ]
+            ]
+        },
+        {
+            "text": "PRIORITY LO UNTADI",
+            "confidence": 0.946,
+            "box": [
+                [
+                    265.0,
+                    1199.0
+                ],
+                [
+                    792.0,
+                    1202.0
+                ],
+                [
+                    792.0,
+                    1241.0
+                ],
+                [
+                    264.0,
+                    1238.0
+                ]
+            ]
+        },
+        {
+            "text": "SUCH A BEAUTIFUL FILM ASALA",
+            "confidence": 0.966,
+            "box": [
+                [
+                    152.0,
+                    1256.0
+                ],
+                [
+                    917.0,
+                    1258.0
+                ],
+                [
+                    917.0,
+                    1305.0
+                ],
+                [
+                    152.0,
+                    1303.0
+                ]
+            ]
+        }
+    ]
+}

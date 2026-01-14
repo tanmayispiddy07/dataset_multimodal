@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-06-18_05-18-20_UTC.jpg",
+    "combined_text": "NarendraModi\n@narendramodi\nFully agree with you,PM Giorgia Meloni.\nIndia's friendship with Italy will continue to\nget stronger, greatly benefitting our people\n@GiorgiaMeloni\nGiorgia Meloni @GiorgiaMeloni7h\nItaly and India,linked by a great friendship\nADDICTEDTOMEMES\nEEEWWWWW\nEEWWWWWW",
+    "detailed": [
+        {
+            "text": "NarendraModi",
+            "confidence": 0.995,
+            "box": [
+                [
+                    307.0,
+                    22.0
+                ],
+                [
+                    536.0,
+                    22.0
+                ],
+                [
+                    536.0,
+                    52.0
+                ],
+                [
+                    307.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "@narendramodi",
+            "confidence": 0.96,
+            "box": [
+                [
+                    308.0,
+                    56.0
+                ],
+                [
+                    513.0,
+                    56.0
+                ],
+                [
+                    513.0,
+                    85.0
+                ],
+                [
+                    308.0,
+                    85.0
+                ]
+            ]
+        },
+        {
+            "text": "Fully agree with you,PM Giorgia Meloni.",
+            "confidence": 0.95,
+            "box": [
+                [
+                    212.0,
+                    112.0
+                ],
+                [
+                    817.0,
+                    112.0
+                ],
+                [
+                    817.0,
+                    149.0
+                ],
+                [
+                    212.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "India's friendship with Italy will continue to",
+            "confidence": 0.963,
+            "box": [
+                [
+                    211.0,
+                    153.0
+                ],
+                [
+                    865.0,
+                    155.0
+                ],
+                [
+                    865.0,
+                    192.0
+                ],
+                [
+                    211.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "get stronger, greatly benefitting our people",
+            "confidence": 0.967,
+            "box": [
+                [
+                    209.0,
+                    201.0
+                ],
+                [
+                    869.0,
+                    198.0
+                ],
+                [
+                    869.0,
+                    235.0
+                ],
+                [
+                    210.0,
+                    238.0
+                ]
+            ]
+        },
+        {
+            "text": "@GiorgiaMeloni",
+            "confidence": 0.992,
+            "box": [
+                [
+                    212.0,
+                    286.0
+                ],
+                [
+                    460.0,
+                    286.0
+                ],
+                [
+                    460.0,
+                    323.0
+                ],
+                [
+                    212.0,
+                    323.0
+                ]
+            ]
+        },
+        {
+            "text": "Giorgia Meloni @GiorgiaMeloni7h",
+            "confidence": 0.965,
+            "box": [
+                [
+                    280.0,
+                    360.0
+                ],
+                [
+                    765.0,
+                    360.0
+                ],
+                [
+                    765.0,
+                    393.0
+                ],
+                [
+                    280.0,
+                    393.0
+                ]
+            ]
+        },
+        {
+            "text": "Italy and India,linked by a great friendship",
+            "confidence": 0.941,
+            "box": [
+                [
+                    229.0,
+                    413.0
+                ],
+                [
+                    838.0,
+                    413.0
+                ],
+                [
+                    838.0,
+                    446.0
+                ],
+                [
+                    229.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    127.0,
+                    998.0
+                ],
+                [
+                    302.0,
+                    998.0
+                ],
+                [
+                    302.0,
+                    1019.0
+                ],
+                [
+                    127.0,
+                    1019.0
+                ]
+            ]
+        },
+        {
+            "text": "EEEWWWWW",
+            "confidence": 0.99,
+            "box": [
+                [
+                    200.0,
+                    1218.0
+                ],
+                [
+                    518.0,
+                    1218.0
+                ],
+                [
+                    518.0,
+                    1256.0
+                ],
+                [
+                    200.0,
+                    1256.0
+                ]
+            ]
+        },
+        {
+            "text": "EEWWWWWW",
+            "confidence": 0.84,
+            "box": [
+                [
+                    189.0,
+                    1275.0
+                ],
+                [
+                    525.0,
+                    1278.0
+                ],
+                [
+                    524.0,
+                    1324.0
+                ],
+                [
+                    188.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-08-16_22-17-58_UTC.jpg",
+    "combined_text": "Me:*Skips school because its cold*\nBrown uncle who had to cross 18\nrivers while being chased by 2\nleopards to get to school:",
+    "detailed": [
+        {
+            "text": "Me:*Skips school because its cold*",
+            "confidence": 0.95,
+            "box": [
+                [
+                    3.0,
+                    42.0
+                ],
+                [
+                    913.0,
+                    40.0
+                ],
+                [
+                    913.0,
+                    99.0
+                ],
+                [
+                    3.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "Brown uncle who had to cross 18",
+            "confidence": 0.954,
+            "box": [
+                [
+                    3.0,
+                    154.0
+                ],
+                [
+                    851.0,
+                    154.0
+                ],
+                [
+                    851.0,
+                    211.0
+                ],
+                [
+                    3.0,
+                    211.0
+                ]
+            ]
+        },
+        {
+            "text": "rivers while being chased by 2",
+            "confidence": 0.936,
+            "box": [
+                [
+                    1.0,
+                    245.0
+                ],
+                [
+                    778.0,
+                    245.0
+                ],
+                [
+                    778.0,
+                    308.0
+                ],
+                [
+                    1.0,
+                    308.0
+                ]
+            ]
+        },
+        {
+            "text": "leopards to get to school:",
+            "confidence": 0.966,
+            "box": [
+                [
+                    5.0,
+                    336.0
+                ],
+                [
+                    653.0,
+                    336.0
+                ],
+                [
+                    653.0,
+                    397.0
+                ],
+                [
+                    5.0,
+                    397.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,688 @@
+{
+    "image_name": "2025-07-20_07-07-10_UTC.jpg",
+    "combined_text": "BABU SUGGESTED\nBOOKED TICKETS\nAND GAVE REVIEW\nIN BABU THEATER\nMahesh Babu \n@urstrulyMahesh\nSHARE YOUR TICKET\nTake a bow #Saiyaara team...\nWhat a beautifully made film with honest\nstorytelling,standout performances\nSaiyaara\nand top notch execution.... Big love to\nHindi,2D\n#AhaanPanday &#AneetPadda for living\nSun,20Jul|04:35PM\ntheir roles so effortlessly....\nSAJYAARA\nThis one deserves all the love coming its\nAMB Cinemas:Gachibowli\nWatch Trailler\nway...\nTap for support details &more actions\n@mohit11481#AkshayeWidhani @Yrf\n5 Ticket(s)\n12:19 pm20Jul2524.4KViews\nLA\nSCREEN1\n673 Reposts 68 Quotes 2,431 Likes\nADDICTEDTOMEMES\n-\nBABU SIRMAA BABUKOSAM",
+    "detailed": [
+        {
+            "text": "BABU SUGGESTED",
+            "confidence": 0.959,
+            "box": [
+                [
+                    51.0,
+                    64.0
+                ],
+                [
+                    501.0,
+                    64.0
+                ],
+                [
+                    501.0,
+                    103.0
+                ],
+                [
+                    51.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOKED TICKETS",
+            "confidence": 0.972,
+            "box": [
+                [
+                    659.0,
+                    80.0
+                ],
+                [
+                    1041.0,
+                    80.0
+                ],
+                [
+                    1041.0,
+                    118.0
+                ],
+                [
+                    659.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "AND GAVE REVIEW",
+            "confidence": 0.939,
+            "box": [
+                [
+                    35.0,
+                    123.0
+                ],
+                [
+                    501.0,
+                    123.0
+                ],
+                [
+                    501.0,
+                    166.0
+                ],
+                [
+                    35.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "IN BABU THEATER",
+            "confidence": 0.886,
+            "box": [
+                [
+                    649.0,
+                    135.0
+                ],
+                [
+                    1042.0,
+                    135.0
+                ],
+                [
+                    1042.0,
+                    177.0
+                ],
+                [
+                    649.0,
+                    177.0
+                ]
+            ]
+        },
+        {
+            "text": "Mahesh Babu ",
+            "confidence": 0.941,
+            "box": [
+                [
+                    99.0,
+                    231.0
+                ],
+                [
+                    283.0,
+                    231.0
+                ],
+                [
+                    283.0,
+                    258.0
+                ],
+                [
+                    99.0,
+                    258.0
+                ]
+            ]
+        },
+        {
+            "text": "@urstrulyMahesh",
+            "confidence": 0.984,
+            "box": [
+                [
+                    97.0,
+                    259.0
+                ],
+                [
+                    293.0,
+                    259.0
+                ],
+                [
+                    293.0,
+                    286.0
+                ],
+                [
+                    97.0,
+                    286.0
+                ]
+            ]
+        },
+        {
+            "text": "SHARE YOUR TICKET",
+            "confidence": 0.95,
+            "box": [
+                [
+                    736.0,
+                    285.0
+                ],
+                [
+                    1014.0,
+                    284.0
+                ],
+                [
+                    1014.0,
+                    315.0
+                ],
+                [
+                    736.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "Take a bow #Saiyaara team...",
+            "confidence": 0.935,
+            "box": [
+                [
+                    17.0,
+                    307.0
+                ],
+                [
+                    501.0,
+                    307.0
+                ],
+                [
+                    501.0,
+                    342.0
+                ],
+                [
+                    17.0,
+                    342.0
+                ]
+            ]
+        },
+        {
+            "text": "What a beautifully made film with honest",
+            "confidence": 0.958,
+            "box": [
+                [
+                    17.0,
+                    347.0
+                ],
+                [
+                    561.0,
+                    347.0
+                ],
+                [
+                    561.0,
+                    378.0
+                ],
+                [
+                    17.0,
+                    378.0
+                ]
+            ]
+        },
+        {
+            "text": "storytelling,standout performances",
+            "confidence": 0.986,
+            "box": [
+                [
+                    18.0,
+                    388.0
+                ],
+                [
+                    491.0,
+                    388.0
+                ],
+                [
+                    491.0,
+                    415.0
+                ],
+                [
+                    18.0,
+                    415.0
+                ]
+            ]
+        },
+        {
+            "text": "Saiyaara",
+            "confidence": 0.987,
+            "box": [
+                [
+                    765.0,
+                    380.0
+                ],
+                [
+                    885.0,
+                    380.0
+                ],
+                [
+                    885.0,
+                    416.0
+                ],
+                [
+                    765.0,
+                    416.0
+                ]
+            ]
+        },
+        {
+            "text": "and top notch execution.... Big love to",
+            "confidence": 0.952,
+            "box": [
+                [
+                    18.0,
+                    423.0
+                ],
+                [
+                    515.0,
+                    423.0
+                ],
+                [
+                    515.0,
+                    453.0
+                ],
+                [
+                    18.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "Hindi,2D",
+            "confidence": 0.941,
+            "box": [
+                [
+                    765.0,
+                    432.0
+                ],
+                [
+                    857.0,
+                    432.0
+                ],
+                [
+                    857.0,
+                    460.0
+                ],
+                [
+                    765.0,
+                    460.0
+                ]
+            ]
+        },
+        {
+            "text": "#AhaanPanday &#AneetPadda for living",
+            "confidence": 0.98,
+            "box": [
+                [
+                    16.0,
+                    456.0
+                ],
+                [
+                    557.0,
+                    459.0
+                ],
+                [
+                    557.0,
+                    493.0
+                ],
+                [
+                    16.0,
+                    491.0
+                ]
+            ]
+        },
+        {
+            "text": "Sun,20Jul|04:35PM",
+            "confidence": 0.911,
+            "box": [
+                [
+                    765.0,
+                    477.0
+                ],
+                [
+                    984.0,
+                    477.0
+                ],
+                [
+                    984.0,
+                    503.0
+                ],
+                [
+                    765.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "their roles so effortlessly....",
+            "confidence": 0.985,
+            "box": [
+                [
+                    17.0,
+                    494.0
+                ],
+                [
+                    360.0,
+                    497.0
+                ],
+                [
+                    359.0,
+                    529.0
+                ],
+                [
+                    17.0,
+                    527.0
+                ]
+            ]
+        },
+        {
+            "text": "SAJYAARA",
+            "confidence": 0.981,
+            "box": [
+                [
+                    608.0,
+                    502.0
+                ],
+                [
+                    728.0,
+                    478.0
+                ],
+                [
+                    734.0,
+                    512.0
+                ],
+                [
+                    614.0,
+                    535.0
+                ]
+            ]
+        },
+        {
+            "text": "This one deserves all the love coming its",
+            "confidence": 0.966,
+            "box": [
+                [
+                    17.0,
+                    532.0
+                ],
+                [
+                    545.0,
+                    534.0
+                ],
+                [
+                    545.0,
+                    566.0
+                ],
+                [
+                    17.0,
+                    564.0
+                ]
+            ]
+        },
+        {
+            "text": "AMB Cinemas:Gachibowli",
+            "confidence": 0.963,
+            "box": [
+                [
+                    767.0,
+                    523.0
+                ],
+                [
+                    1022.0,
+                    523.0
+                ],
+                [
+                    1022.0,
+                    546.0
+                ],
+                [
+                    767.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "text": "Watch Trailler",
+            "confidence": 0.912,
+            "box": [
+                [
+                    623.0,
+                    545.0
+                ],
+                [
+                    727.0,
+                    545.0
+                ],
+                [
+                    727.0,
+                    564.0
+                ],
+                [
+                    623.0,
+                    564.0
+                ]
+            ]
+        },
+        {
+            "text": "way...",
+            "confidence": 0.936,
+            "box": [
+                [
+                    14.0,
+                    573.0
+                ],
+                [
+                    92.0,
+                    573.0
+                ],
+                [
+                    92.0,
+                    606.0
+                ],
+                [
+                    14.0,
+                    606.0
+                ]
+            ]
+        },
+        {
+            "text": "Tap for support details &more actions",
+            "confidence": 0.933,
+            "box": [
+                [
+                    705.0,
+                    614.0
+                ],
+                [
+                    1044.0,
+                    617.0
+                ],
+                [
+                    1044.0,
+                    644.0
+                ],
+                [
+                    705.0,
+                    641.0
+                ]
+            ]
+        },
+        {
+            "text": "@mohit11481#AkshayeWidhani @Yrf",
+            "confidence": 0.974,
+            "box": [
+                [
+                    17.0,
+                    647.0
+                ],
+                [
+                    507.0,
+                    646.0
+                ],
+                [
+                    508.0,
+                    677.0
+                ],
+                [
+                    17.0,
+                    678.0
+                ]
+            ]
+        },
+        {
+            "text": "5 Ticket(s)",
+            "confidence": 0.928,
+            "box": [
+                [
+                    891.0,
+                    669.0
+                ],
+                [
+                    1001.0,
+                    672.0
+                ],
+                [
+                    1000.0,
+                    704.0
+                ],
+                [
+                    890.0,
+                    701.0
+                ]
+            ]
+        },
+        {
+            "text": "12:19 pm20Jul2524.4KViews",
+            "confidence": 0.954,
+            "box": [
+                [
+                    18.0,
+                    694.0
+                ],
+                [
+                    378.0,
+                    694.0
+                ],
+                [
+                    378.0,
+                    721.0
+                ],
+                [
+                    18.0,
+                    721.0
+                ]
+            ]
+        },
+        {
+            "text": "LA",
+            "confidence": 0.689,
+            "box": [
+                [
+                    636.0,
+                    729.0
+                ],
+                [
+                    772.0,
+                    735.0
+                ],
+                [
+                    770.0,
+                    775.0
+                ],
+                [
+                    634.0,
+                    769.0
+                ]
+            ]
+        },
+        {
+            "text": "SCREEN1",
+            "confidence": 0.996,
+            "box": [
+                [
+                    871.0,
+                    723.0
+                ],
+                [
+                    1020.0,
+                    723.0
+                ],
+                [
+                    1020.0,
+                    755.0
+                ],
+                [
+                    871.0,
+                    755.0
+                ]
+            ]
+        },
+        {
+            "text": "673 Reposts 68 Quotes 2,431 Likes",
+            "confidence": 0.938,
+            "box": [
+                [
+                    17.0,
+                    763.0
+                ],
+                [
+                    440.0,
+                    763.0
+                ],
+                [
+                    440.0,
+                    790.0
+                ],
+                [
+                    17.0,
+                    790.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    518.0,
+                    790.0
+                ],
+                [
+                    662.0,
+                    790.0
+                ],
+                [
+                    662.0,
+                    809.0
+                ],
+                [
+                    518.0,
+                    809.0
+                ]
+            ]
+        },
+        {
+            "text": "-",
+            "confidence": 0.519,
+            "box": [
+                [
+                    920.0,
+                    868.0
+                ],
+                [
+                    931.0,
+                    868.0
+                ],
+                [
+                    931.0,
+                    880.0
+                ],
+                [
+                    920.0,
+                    880.0
+                ]
+            ]
+        },
+        {
+            "text": "BABU SIRMAA BABUKOSAM",
+            "confidence": 0.962,
+            "box": [
+                [
+                    153.0,
+                    1156.0
+                ],
+                [
+                    1006.0,
+                    1153.0
+                ],
+                [
+                    1006.0,
+                    1211.0
+                ],
+                [
+                    153.0,
+                    1214.0
+                ]
+            ]
+        }
+    ]
+}

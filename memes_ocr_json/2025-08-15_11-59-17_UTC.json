@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-08-15_11-59-17_UTC.jpg",
+    "combined_text": "HANSIN CO LIVING SPACE AND PG IN KONDAPUR\nROOMS AVAILABLE-2BHK FLATS, SINGLE OCCUPANCY,\nDOUBLE OCCUPANCY, TRIPLE OCCUPANCY\nCONTACT:- 9030022448\nADDICTEDTOMEMES\nMEKU AFFORDABLE PRICES KI ROOMS KAVALI ANNA\n3 TIMES FOOD,8AM LUNCH BOX, 24/7 SECURITY,COMMON\nHALL, HOT WATERMEKU ANNI FACILITIES UNTAI",
+    "detailed": [
+        {
+            "text": "HANSIN CO LIVING SPACE AND PG IN KONDAPUR",
+            "confidence": 0.939,
+            "box": [
+                [
+                    75.0,
+                    24.0
+                ],
+                [
+                    1003.0,
+                    24.0
+                ],
+                [
+                    1003.0,
+                    57.0
+                ],
+                [
+                    75.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "ROOMS AVAILABLE-2BHK FLATS, SINGLE OCCUPANCY,",
+            "confidence": 0.958,
+            "box": [
+                [
+                    23.0,
+                    67.0
+                ],
+                [
+                    1065.0,
+                    70.0
+                ],
+                [
+                    1064.0,
+                    107.0
+                ],
+                [
+                    22.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "DOUBLE OCCUPANCY, TRIPLE OCCUPANCY",
+            "confidence": 0.962,
+            "box": [
+                [
+                    125.0,
+                    113.0
+                ],
+                [
+                    939.0,
+                    114.0
+                ],
+                [
+                    939.0,
+                    152.0
+                ],
+                [
+                    125.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "CONTACT:- 9030022448",
+            "confidence": 0.967,
+            "box": [
+                [
+                    262.0,
+                    170.0
+                ],
+                [
+                    896.0,
+                    171.0
+                ],
+                [
+                    896.0,
+                    217.0
+                ],
+                [
+                    262.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    872.0,
+                    1104.0
+                ],
+                [
+                    1039.0,
+                    1104.0
+                ],
+                [
+                    1039.0,
+                    1125.0
+                ],
+                [
+                    872.0,
+                    1125.0
+                ]
+            ]
+        },
+        {
+            "text": "MEKU AFFORDABLE PRICES KI ROOMS KAVALI ANNA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    211.0,
+                    1228.0
+                ],
+                [
+                    973.0,
+                    1229.0
+                ],
+                [
+                    973.0,
+                    1259.0
+                ],
+                [
+                    211.0,
+                    1257.0
+                ]
+            ]
+        },
+        {
+            "text": "3 TIMES FOOD,8AM LUNCH BOX, 24/7 SECURITY,COMMON",
+            "confidence": 0.938,
+            "box": [
+                [
+                    159.0,
+                    1260.0
+                ],
+                [
+                    1041.0,
+                    1261.0
+                ],
+                [
+                    1041.0,
+                    1295.0
+                ],
+                [
+                    159.0,
+                    1293.0
+                ]
+            ]
+        },
+        {
+            "text": "HALL, HOT WATERMEKU ANNI FACILITIES UNTAI",
+            "confidence": 0.943,
+            "box": [
+                [
+                    257.0,
+                    1299.0
+                ],
+                [
+                    945.0,
+                    1299.0
+                ],
+                [
+                    945.0,
+                    1328.0
+                ],
+                [
+                    257.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

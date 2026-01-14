@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-25_14-09-24_UTC_3.jpg",
+    "combined_text": "The greatest trio\nfor the cinephiles",
+    "detailed": [
+        {
+            "text": "The greatest trio",
+            "confidence": 1.0,
+            "box": [
+                [
+                    270.0,
+                    108.0
+                ],
+                [
+                    807.0,
+                    108.0
+                ],
+                [
+                    807.0,
+                    178.0
+                ],
+                [
+                    270.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "text": "for the cinephiles",
+            "confidence": 1.0,
+            "box": [
+                [
+                    255.0,
+                    184.0
+                ],
+                [
+                    818.0,
+                    187.0
+                ],
+                [
+                    817.0,
+                    255.0
+                ],
+                [
+                    255.0,
+                    252.0
+                ]
+            ]
+        }
+    ]
+}

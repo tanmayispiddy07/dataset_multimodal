@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-06-06_03-53-02_UTC.jpg",
+    "combined_text": "09\nsarcasm\nBreaking: RCB Marketing\nHead Nikhil Sosale arrested at\nBengaluru airport for interrogation\nin Chinnaswamy stampede case.",
+    "detailed": [
+        {
+            "text": "09",
+            "confidence": 0.52,
+            "box": [
+                [
+                    3.0,
+                    277.0
+                ],
+                [
+                    70.0,
+                    283.0
+                ],
+                [
+                    62.0,
+                    388.0
+                ],
+                [
+                    0.0,
+                    382.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    488.0,
+                    940.0
+                ],
+                [
+                    592.0,
+                    940.0
+                ],
+                [
+                    592.0,
+                    958.0
+                ],
+                [
+                    488.0,
+                    958.0
+                ]
+            ]
+        },
+        {
+            "text": "Breaking: RCB Marketing",
+            "confidence": 0.969,
+            "box": [
+                [
+                    213.0,
+                    990.0
+                ],
+                [
+                    944.0,
+                    995.0
+                ],
+                [
+                    943.0,
+                    1056.0
+                ],
+                [
+                    212.0,
+                    1052.0
+                ]
+            ]
+        },
+        {
+            "text": "Head Nikhil Sosale arrested at",
+            "confidence": 0.98,
+            "box": [
+                [
+                    107.0,
+                    1074.0
+                ],
+                [
+                    987.0,
+                    1075.0
+                ],
+                [
+                    987.0,
+                    1124.0
+                ],
+                [
+                    107.0,
+                    1123.0
+                ]
+            ]
+        },
+        {
+            "text": "Bengaluru airport for interrogation",
+            "confidence": 0.99,
+            "box": [
+                [
+                    35.0,
+                    1156.0
+                ],
+                [
+                    1045.0,
+                    1156.0
+                ],
+                [
+                    1045.0,
+                    1209.0
+                ],
+                [
+                    35.0,
+                    1209.0
+                ]
+            ]
+        },
+        {
+            "text": "in Chinnaswamy stampede case.",
+            "confidence": 0.982,
+            "box": [
+                [
+                    59.0,
+                    1234.0
+                ],
+                [
+                    1018.0,
+                    1237.0
+                ],
+                [
+                    1018.0,
+                    1290.0
+                ],
+                [
+                    59.0,
+                    1287.0
+                ]
+            ]
+        }
+    ]
+}

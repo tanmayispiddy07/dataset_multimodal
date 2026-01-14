@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-12-26_06-56-15_UTC.jpg",
+    "combined_text": "NENU READY TEAM WRAPPED A MAJOR\nHYDERABAD SCHEDULE, FOLLOWED BY A\nSONG SHOOT IN PONDICHERRY..\nMERRY\nCHRISTMAS\nRAENIED INDIA LLP\nTHRINASRA RAR NACEINA\nADDICTEDTOMEMES\nWAITING",
+    "detailed": [
+        {
+            "text": "NENU READY TEAM WRAPPED A MAJOR",
+            "confidence": 0.934,
+            "box": [
+                [
+                    110.0,
+                    24.0
+                ],
+                [
+                    991.0,
+                    24.0
+                ],
+                [
+                    991.0,
+                    61.0
+                ],
+                [
+                    110.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "HYDERABAD SCHEDULE, FOLLOWED BY A",
+            "confidence": 0.956,
+            "box": [
+                [
+                    96.0,
+                    77.0
+                ],
+                [
+                    1008.0,
+                    78.0
+                ],
+                [
+                    1008.0,
+                    120.0
+                ],
+                [
+                    96.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG SHOOT IN PONDICHERRY..",
+            "confidence": 0.958,
+            "box": [
+                [
+                    187.0,
+                    131.0
+                ],
+                [
+                    914.0,
+                    132.0
+                ],
+                [
+                    914.0,
+                    176.0
+                ],
+                [
+                    187.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "MERRY",
+            "confidence": 0.995,
+            "box": [
+                [
+                    256.0,
+                    224.0
+                ],
+                [
+                    308.0,
+                    224.0
+                ],
+                [
+                    308.0,
+                    243.0
+                ],
+                [
+                    256.0,
+                    243.0
+                ]
+            ]
+        },
+        {
+            "text": "CHRISTMAS",
+            "confidence": 0.995,
+            "box": [
+                [
+                    239.0,
+                    237.0
+                ],
+                [
+                    326.0,
+                    237.0
+                ],
+                [
+                    326.0,
+                    259.0
+                ],
+                [
+                    239.0,
+                    259.0
+                ]
+            ]
+        },
+        {
+            "text": "RAENIED INDIA LLP",
+            "confidence": 0.552,
+            "box": [
+                [
+                    415.0,
+                    240.0
+                ],
+                [
+                    510.0,
+                    240.0
+                ],
+                [
+                    510.0,
+                    256.0
+                ],
+                [
+                    415.0,
+                    256.0
+                ]
+            ]
+        },
+        {
+            "text": "THRINASRA RAR NACEINA",
+            "confidence": 0.748,
+            "box": [
+                [
+                    322.0,
+                    932.0
+                ],
+                [
+                    430.0,
+                    932.0
+                ],
+                [
+                    430.0,
+                    945.0
+                ],
+                [
+                    322.0,
+                    945.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.984,
+            "box": [
+                [
+                    938.0,
+                    1054.0
+                ],
+                [
+                    1055.0,
+                    1054.0
+                ],
+                [
+                    1055.0,
+                    1070.0
+                ],
+                [
+                    938.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "text": "WAITING",
+            "confidence": 0.997,
+            "box": [
+                [
+                    160.0,
+                    1272.0
+                ],
+                [
+                    437.0,
+                    1272.0
+                ],
+                [
+                    437.0,
+                    1332.0
+                ],
+                [
+                    160.0,
+                    1332.0
+                ]
+            ]
+        }
+    ]
+}

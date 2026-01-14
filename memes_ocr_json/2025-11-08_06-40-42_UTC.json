@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-08_06-40-42_UTC.jpg",
+    "combined_text": "A young mom from Kenya, recreated a.\nphoto her mother took with her in 1997\nsarcasm\nBut this time with her own daughter..\nIt looked like she gave birth to herself!",
+    "detailed": [
+        {
+            "text": "A young mom from Kenya, recreated a.",
+            "confidence": 0.988,
+            "box": [
+                [
+                    48.0,
+                    46.0
+                ],
+                [
+                    1031.0,
+                    45.0
+                ],
+                [
+                    1031.0,
+                    98.0
+                ],
+                [
+                    48.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "photo her mother took with her in 1997",
+            "confidence": 0.996,
+            "box": [
+                [
+                    29.0,
+                    122.0
+                ],
+                [
+                    1046.0,
+                    118.0
+                ],
+                [
+                    1046.0,
+                    167.0
+                ],
+                [
+                    30.0,
+                    172.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    385.0,
+                    856.0
+                ],
+                [
+                    505.0,
+                    856.0
+                ],
+                [
+                    505.0,
+                    883.0
+                ],
+                [
+                    385.0,
+                    883.0
+                ]
+            ]
+        },
+        {
+            "text": "But this time with her own daughter..",
+            "confidence": 0.98,
+            "box": [
+                [
+                    45.0,
+                    1163.0
+                ],
+                [
+                    1024.0,
+                    1170.0
+                ],
+                [
+                    1023.0,
+                    1226.0
+                ],
+                [
+                    45.0,
+                    1219.0
+                ]
+            ]
+        },
+        {
+            "text": "It looked like she gave birth to herself!",
+            "confidence": 0.99,
+            "box": [
+                [
+                    25.0,
+                    1249.0
+                ],
+                [
+                    1043.0,
+                    1249.0
+                ],
+                [
+                    1043.0,
+                    1298.0
+                ],
+                [
+                    25.0,
+                    1298.0
+                ]
+            ]
+        }
+    ]
+}

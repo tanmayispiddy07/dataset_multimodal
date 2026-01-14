@@ -1,0 +1,248 @@
+{
+    "image_name": "2023-07-22_17-01-21_UTC.jpg",
+    "combined_text": "ME IN CHILDHOOD WHENEVER\nI HEARD BAD WORDS\nE\nTOLDGU KEMES GORO\nHATHAVIDHI... EEMATALU\nAMANGALAM....MITRAMAA\n*ME NOW WITHOUT\nREASON\nMANGOCOMEDY\nMANGO COME\nREYYY MAWA VACHI NA MO$%@#$DU RA",
+    "detailed": [
+        {
+            "text": "ME IN CHILDHOOD WHENEVER",
+            "confidence": 0.942,
+            "box": [
+                [
+                    28.0,
+                    30.0
+                ],
+                [
+                    493.0,
+                    30.0
+                ],
+                [
+                    493.0,
+                    57.0
+                ],
+                [
+                    28.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "I HEARD BAD WORDS",
+            "confidence": 0.927,
+            "box": [
+                [
+                    27.0,
+                    64.0
+                ],
+                [
+                    362.0,
+                    64.0
+                ],
+                [
+                    362.0,
+                    91.0
+                ],
+                [
+                    27.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "E",
+            "confidence": 0.604,
+            "box": [
+                [
+                    359.0,
+                    71.0
+                ],
+                [
+                    374.0,
+                    67.0
+                ],
+                [
+                    376.0,
+                    79.0
+                ],
+                [
+                    361.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "TOLDGU KEMES GORO",
+            "confidence": 0.758,
+            "box": [
+                [
+                    75.0,
+                    297.0
+                ],
+                [
+                    186.0,
+                    297.0
+                ],
+                [
+                    186.0,
+                    312.0
+                ],
+                [
+                    75.0,
+                    312.0
+                ]
+            ]
+        },
+        {
+            "text": "HATHAVIDHI... EEMATALU",
+            "confidence": 0.958,
+            "box": [
+                [
+                    166.0,
+                    343.0
+                ],
+                [
+                    723.0,
+                    342.0
+                ],
+                [
+                    723.0,
+                    381.0
+                ],
+                [
+                    166.0,
+                    382.0
+                ]
+            ]
+        },
+        {
+            "text": "AMANGALAM....MITRAMAA",
+            "confidence": 0.971,
+            "box": [
+                [
+                    137.0,
+                    389.0
+                ],
+                [
+                    739.0,
+                    389.0
+                ],
+                [
+                    739.0,
+                    428.0
+                ],
+                [
+                    137.0,
+                    428.0
+                ]
+            ]
+        },
+        {
+            "text": "*ME NOW WITHOUT",
+            "confidence": 0.916,
+            "box": [
+                [
+                    316.0,
+                    461.0
+                ],
+                [
+                    602.0,
+                    461.0
+                ],
+                [
+                    602.0,
+                    488.0
+                ],
+                [
+                    316.0,
+                    488.0
+                ]
+            ]
+        },
+        {
+            "text": "REASON",
+            "confidence": 0.999,
+            "box": [
+                [
+                    315.0,
+                    493.0
+                ],
+                [
+                    435.0,
+                    493.0
+                ],
+                [
+                    435.0,
+                    521.0
+                ],
+                [
+                    315.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "text": "MANGOCOMEDY",
+            "confidence": 0.995,
+            "box": [
+                [
+                    240.0,
+                    624.0
+                ],
+                [
+                    407.0,
+                    624.0
+                ],
+                [
+                    407.0,
+                    646.0
+                ],
+                [
+                    240.0,
+                    646.0
+                ]
+            ]
+        },
+        {
+            "text": "MANGO COME",
+            "confidence": 0.957,
+            "box": [
+                [
+                    684.0,
+                    623.0
+                ],
+                [
+                    830.0,
+                    623.0
+                ],
+                [
+                    830.0,
+                    645.0
+                ],
+                [
+                    684.0,
+                    645.0
+                ]
+            ]
+        },
+        {
+            "text": "REYYY MAWA VACHI NA MO$%@#$DU RA",
+            "confidence": 0.962,
+            "box": [
+                [
+                    6.0,
+                    787.0
+                ],
+                [
+                    795.0,
+                    788.0
+                ],
+                [
+                    795.0,
+                    824.0
+                ],
+                [
+                    6.0,
+                    823.0
+                ]
+            ]
+        }
+    ]
+}

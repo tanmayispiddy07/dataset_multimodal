@@ -1,0 +1,424 @@
+{
+    "image_name": "2025-12-16_16-01-45_UTC.jpg",
+    "combined_text": "GEETHA FILM DISTRIBUTION RELEASING\nMOHANLAL'S EPIC SAGA \"VRUSSHABHA\"IN TELUGU\nROARS INTO CINEMAS ON DECEMBER 25TH\nCONNIIT\nCONNEKKT\nAVS\nAVS\nTHE ROAR BEGINSIN THEATRES\nTHE ROAR BEGINS IN THEATRES\n25.12.2025\n25.12.2025\nINATMOS\nINATMOS\nMAKKUMAR\nADDICTEDTOMEMES\nATAFORO\nMOHANLAL CINEMA PAIGA\nGEETHA ARTS RELEASING BREAK\nIVVADANIKI READY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "GEETHA FILM DISTRIBUTION RELEASING",
+            "confidence": 0.966,
+            "box": [
+                [
+                    173.0,
+                    25.0
+                ],
+                [
+                    901.0,
+                    25.0
+                ],
+                [
+                    901.0,
+                    59.0
+                ],
+                [
+                    173.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "MOHANLAL'S EPIC SAGA \"VRUSSHABHA\"IN TELUGU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    62.0,
+                    70.0
+                ],
+                [
+                    1012.0,
+                    70.0
+                ],
+                [
+                    1012.0,
+                    103.0
+                ],
+                [
+                    62.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "ROARS INTO CINEMAS ON DECEMBER 25TH",
+            "confidence": 0.941,
+            "box": [
+                [
+                    145.0,
+                    117.0
+                ],
+                [
+                    932.0,
+                    117.0
+                ],
+                [
+                    932.0,
+                    146.0
+                ],
+                [
+                    145.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "CONNIIT",
+            "confidence": 0.536,
+            "box": [
+                [
+                    20.0,
+                    198.0
+                ],
+                [
+                    96.0,
+                    198.0
+                ],
+                [
+                    96.0,
+                    217.0
+                ],
+                [
+                    20.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "CONNEKKT",
+            "confidence": 0.898,
+            "box": [
+                [
+                    555.0,
+                    199.0
+                ],
+                [
+                    634.0,
+                    199.0
+                ],
+                [
+                    634.0,
+                    216.0
+                ],
+                [
+                    555.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "AVS",
+            "confidence": 0.745,
+            "box": [
+                [
+                    509.0,
+                    234.0
+                ],
+                [
+                    532.0,
+                    234.0
+                ],
+                [
+                    532.0,
+                    244.0
+                ],
+                [
+                    509.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "text": "AVS",
+            "confidence": 0.93,
+            "box": [
+                [
+                    1035.0,
+                    233.0
+                ],
+                [
+                    1065.0,
+                    233.0
+                ],
+                [
+                    1065.0,
+                    251.0
+                ],
+                [
+                    1035.0,
+                    251.0
+                ]
+            ]
+        },
+        {
+            "text": "THE ROAR BEGINSIN THEATRES",
+            "confidence": 0.966,
+            "box": [
+                [
+                    162.0,
+                    468.0
+                ],
+                [
+                    392.0,
+                    468.0
+                ],
+                [
+                    392.0,
+                    485.0
+                ],
+                [
+                    162.0,
+                    485.0
+                ]
+            ]
+        },
+        {
+            "text": "THE ROAR BEGINS IN THEATRES",
+            "confidence": 0.933,
+            "box": [
+                [
+                    699.0,
+                    461.0
+                ],
+                [
+                    928.0,
+                    461.0
+                ],
+                [
+                    928.0,
+                    482.0
+                ],
+                [
+                    699.0,
+                    482.0
+                ]
+            ]
+        },
+        {
+            "text": "25.12.2025",
+            "confidence": 0.997,
+            "box": [
+                [
+                    193.0,
+                    488.0
+                ],
+                [
+                    361.0,
+                    488.0
+                ],
+                [
+                    361.0,
+                    523.0
+                ],
+                [
+                    193.0,
+                    523.0
+                ]
+            ]
+        },
+        {
+            "text": "25.12.2025",
+            "confidence": 0.995,
+            "box": [
+                [
+                    733.0,
+                    485.0
+                ],
+                [
+                    894.0,
+                    485.0
+                ],
+                [
+                    894.0,
+                    516.0
+                ],
+                [
+                    733.0,
+                    516.0
+                ]
+            ]
+        },
+        {
+            "text": "INATMOS",
+            "confidence": 0.984,
+            "box": [
+                [
+                    246.0,
+                    523.0
+                ],
+                [
+                    308.0,
+                    523.0
+                ],
+                [
+                    308.0,
+                    539.0
+                ],
+                [
+                    246.0,
+                    539.0
+                ]
+            ]
+        },
+        {
+            "text": "INATMOS",
+            "confidence": 0.993,
+            "box": [
+                [
+                    786.0,
+                    517.0
+                ],
+                [
+                    842.0,
+                    517.0
+                ],
+                [
+                    842.0,
+                    534.0
+                ],
+                [
+                    786.0,
+                    534.0
+                ]
+            ]
+        },
+        {
+            "text": "MAKKUMAR",
+            "confidence": 0.749,
+            "box": [
+                [
+                    437.0,
+                    910.0
+                ],
+                [
+                    494.0,
+                    910.0
+                ],
+                [
+                    494.0,
+                    923.0
+                ],
+                [
+                    437.0,
+                    923.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    21.0,
+                    1073.0
+                ],
+                [
+                    166.0,
+                    1073.0
+                ],
+                [
+                    166.0,
+                    1094.0
+                ],
+                [
+                    21.0,
+                    1094.0
+                ]
+            ]
+        },
+        {
+            "text": "ATAFORO",
+            "confidence": 0.806,
+            "box": [
+                [
+                    447.0,
+                    1102.0
+                ],
+                [
+                    488.0,
+                    1102.0
+                ],
+                [
+                    488.0,
+                    1115.0
+                ],
+                [
+                    447.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "MOHANLAL CINEMA PAIGA",
+            "confidence": 0.958,
+            "box": [
+                [
+                    496.0,
+                    1201.0
+                ],
+                [
+                    980.0,
+                    1201.0
+                ],
+                [
+                    980.0,
+                    1235.0
+                ],
+                [
+                    496.0,
+                    1235.0
+                ]
+            ]
+        },
+        {
+            "text": "GEETHA ARTS RELEASING BREAK",
+            "confidence": 0.962,
+            "box": [
+                [
+                    446.0,
+                    1245.0
+                ],
+                [
+                    1032.0,
+                    1245.0
+                ],
+                [
+                    1032.0,
+                    1278.0
+                ],
+                [
+                    446.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    440.0,
+                    1289.0
+                ],
+                [
+                    1024.0,
+                    1289.0
+                ],
+                [
+                    1024.0,
+                    1323.0
+                ],
+                [
+                    440.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

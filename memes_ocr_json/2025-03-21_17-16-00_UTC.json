@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-03-21_17-16-00_UTC.jpg",
+    "combined_text": "WEEKEND MOVIE SUGGESTION\nNANNU EVARU AAPALERU\nWELCOME HOME BOTH MOVIES\nAVAILABLE IN YOUTUBE IN TELUGU\nFAMILY WATCH ?! YES\nWELCOME\nHOME\nADDICTEDTOMEMES\nELA MISS AYYAVU RA INTHA MANCHI\nMOVIES INNI YEARS NUNCHI",
+    "detailed": [
+        {
+            "text": "WEEKEND MOVIE SUGGESTION",
+            "confidence": 0.954,
+            "box": [
+                [
+                    219.0,
+                    17.0
+                ],
+                [
+                    884.0,
+                    17.0
+                ],
+                [
+                    884.0,
+                    57.0
+                ],
+                [
+                    219.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "NANNU EVARU AAPALERU",
+            "confidence": 0.977,
+            "box": [
+                [
+                    262.0,
+                    70.0
+                ],
+                [
+                    837.0,
+                    72.0
+                ],
+                [
+                    837.0,
+                    111.0
+                ],
+                [
+                    262.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "WELCOME HOME BOTH MOVIES",
+            "confidence": 0.963,
+            "box": [
+                [
+                    217.0,
+                    125.0
+                ],
+                [
+                    898.0,
+                    125.0
+                ],
+                [
+                    898.0,
+                    164.0
+                ],
+                [
+                    217.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "AVAILABLE IN YOUTUBE IN TELUGU",
+            "confidence": 0.985,
+            "box": [
+                [
+                    180.0,
+                    180.0
+                ],
+                [
+                    925.0,
+                    179.0
+                ],
+                [
+                    925.0,
+                    216.0
+                ],
+                [
+                    180.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH ?! YES",
+            "confidence": 0.949,
+            "box": [
+                [
+                    328.0,
+                    235.0
+                ],
+                [
+                    786.0,
+                    235.0
+                ],
+                [
+                    786.0,
+                    271.0
+                ],
+                [
+                    328.0,
+                    271.0
+                ]
+            ]
+        },
+        {
+            "text": "WELCOME",
+            "confidence": 0.997,
+            "box": [
+                [
+                    694.0,
+                    512.0
+                ],
+                [
+                    967.0,
+                    512.0
+                ],
+                [
+                    967.0,
+                    557.0
+                ],
+                [
+                    694.0,
+                    557.0
+                ]
+            ]
+        },
+        {
+            "text": "HOME",
+            "confidence": 0.996,
+            "box": [
+                [
+                    593.0,
+                    572.0
+                ],
+                [
+                    1071.0,
+                    572.0
+                ],
+                [
+                    1071.0,
+                    691.0
+                ],
+                [
+                    593.0,
+                    691.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    450.0,
+                    891.0
+                ],
+                [
+                    605.0,
+                    891.0
+                ],
+                [
+                    605.0,
+                    911.0
+                ],
+                [
+                    450.0,
+                    911.0
+                ]
+            ]
+        },
+        {
+            "text": "ELA MISS AYYAVU RA INTHA MANCHI",
+            "confidence": 0.931,
+            "box": [
+                [
+                    31.0,
+                    1170.0
+                ],
+                [
+                    764.0,
+                    1170.0
+                ],
+                [
+                    764.0,
+                    1205.0
+                ],
+                [
+                    31.0,
+                    1205.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIES INNI YEARS NUNCHI",
+            "confidence": 0.956,
+            "box": [
+                [
+                    112.0,
+                    1220.0
+                ],
+                [
+                    683.0,
+                    1220.0
+                ],
+                [
+                    683.0,
+                    1256.0
+                ],
+                [
+                    112.0,
+                    1256.0
+                ]
+            ]
+        }
+    ]
+}

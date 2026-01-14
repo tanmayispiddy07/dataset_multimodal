@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-12-12_14-24-51_UTC.jpg",
+    "combined_text": "Beautiful Motion Poster of \"Sahad\nIRA\nNISHANTH DOTI\nNEEEZTLE\nSe\nTEJAVELPUCHARLA\nKARUN4KARKDINESH PEDSJKARTHIKTECHGADEVAD4SU\nKSHARREONSPH\nNAKU ILANTIMANCHIMUSIC\nUNNA FILMS ANTE BAGA ISTAM RA\nOKA SOUL UNTADHI FILMS LO",
+    "detailed": [
+        {
+            "text": "Beautiful Motion Poster of \"Sahad",
+            "confidence": 0.942,
+            "box": [
+                [
+                    27.0,
+                    243.0
+                ],
+                [
+                    505.0,
+                    243.0
+                ],
+                [
+                    505.0,
+                    267.0
+                ],
+                [
+                    27.0,
+                    267.0
+                ]
+            ]
+        },
+        {
+            "text": "IRA",
+            "confidence": 0.959,
+            "box": [
+                [
+                    0.0,
+                    311.0
+                ],
+                [
+                    17.0,
+                    311.0
+                ],
+                [
+                    17.0,
+                    332.0
+                ],
+                [
+                    0.0,
+                    332.0
+                ]
+            ]
+        },
+        {
+            "text": "NISHANTH DOTI",
+            "confidence": 0.913,
+            "box": [
+                [
+                    238.0,
+                    352.0
+                ],
+                [
+                    302.0,
+                    352.0
+                ],
+                [
+                    302.0,
+                    367.0
+                ],
+                [
+                    238.0,
+                    367.0
+                ]
+            ]
+        },
+        {
+            "text": "NEEEZTLE",
+            "confidence": 0.589,
+            "box": [
+                [
+                    257.0,
+                    365.0
+                ],
+                [
+                    285.0,
+                    365.0
+                ],
+                [
+                    285.0,
+                    374.0
+                ],
+                [
+                    257.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "Se",
+            "confidence": 0.534,
+            "box": [
+                [
+                    245.0,
+                    410.0
+                ],
+                [
+                    374.0,
+                    382.0
+                ],
+                [
+                    389.0,
+                    452.0
+                ],
+                [
+                    259.0,
+                    480.0
+                ]
+            ]
+        },
+        {
+            "text": "TEJAVELPUCHARLA",
+            "confidence": 0.934,
+            "box": [
+                [
+                    212.0,
+                    506.0
+                ],
+                [
+                    313.0,
+                    504.0
+                ],
+                [
+                    314.0,
+                    520.0
+                ],
+                [
+                    213.0,
+                    522.0
+                ]
+            ]
+        },
+        {
+            "text": "KARUN4KARKDINESH PEDSJKARTHIKTECHGADEVAD4SU",
+            "confidence": 0.816,
+            "box": [
+                [
+                    146.0,
+                    516.0
+                ],
+                [
+                    418.0,
+                    516.0
+                ],
+                [
+                    418.0,
+                    531.0
+                ],
+                [
+                    146.0,
+                    531.0
+                ]
+            ]
+        },
+        {
+            "text": "KSHARREONSPH",
+            "confidence": 0.578,
+            "box": [
+                [
+                    101.0,
+                    526.0
+                ],
+                [
+                    450.0,
+                    526.0
+                ],
+                [
+                    450.0,
+                    544.0
+                ],
+                [
+                    101.0,
+                    544.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU ILANTIMANCHIMUSIC",
+            "confidence": 0.971,
+            "box": [
+                [
+                    114.0,
+                    666.0
+                ],
+                [
+                    461.0,
+                    666.0
+                ],
+                [
+                    461.0,
+                    690.0
+                ],
+                [
+                    114.0,
+                    690.0
+                ]
+            ]
+        },
+        {
+            "text": "UNNA FILMS ANTE BAGA ISTAM RA",
+            "confidence": 0.926,
+            "box": [
+                [
+                    78.0,
+                    694.0
+                ],
+                [
+                    493.0,
+                    694.0
+                ],
+                [
+                    493.0,
+                    718.0
+                ],
+                [
+                    78.0,
+                    718.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA SOUL UNTADHI FILMS LO",
+            "confidence": 0.929,
+            "box": [
+                [
+                    109.0,
+                    725.0
+                ],
+                [
+                    466.0,
+                    725.0
+                ],
+                [
+                    466.0,
+                    746.0
+                ],
+                [
+                    109.0,
+                    746.0
+                ]
+            ]
+        }
+    ]
+}

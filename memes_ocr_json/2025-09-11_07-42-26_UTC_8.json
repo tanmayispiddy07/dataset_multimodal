@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-09-11_07-42-26_UTC_8.jpg",
+    "combined_text": "414\nDonaldJ.Trump\n@realDonaldTrump\nThe Great, and even Legendary,Charlie Kirk, is\ndead.No one understood or had the Heart of the\nYouth in the United States of America better than\nCharlie.He was loved and admired by ALL,\nespecially me,and now, he is no longer with us.\nMelania and my Sympathies go out to his\nbeautiful wife Erika, and family.Charlie, we love\nyou!\nHis d*ath shocked America..\nTrump called him \"Great &\nLegendary,\" and leaders from\nboth sides condemned the att*ck",
+    "detailed": [
+        {
+            "text": "414",
+            "confidence": 0.738,
+            "box": [
+                [
+                    58.0,
+                    82.0
+                ],
+                [
+                    162.0,
+                    82.0
+                ],
+                [
+                    162.0,
+                    142.0
+                ],
+                [
+                    58.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "DonaldJ.Trump",
+            "confidence": 0.994,
+            "box": [
+                [
+                    163.0,
+                    623.0
+                ],
+                [
+                    328.0,
+                    623.0
+                ],
+                [
+                    328.0,
+                    645.0
+                ],
+                [
+                    163.0,
+                    645.0
+                ]
+            ]
+        },
+        {
+            "text": "@realDonaldTrump",
+            "confidence": 0.989,
+            "box": [
+                [
+                    163.0,
+                    652.0
+                ],
+                [
+                    329.0,
+                    652.0
+                ],
+                [
+                    329.0,
+                    675.0
+                ],
+                [
+                    163.0,
+                    675.0
+                ]
+            ]
+        },
+        {
+            "text": "The Great, and even Legendary,Charlie Kirk, is",
+            "confidence": 0.922,
+            "box": [
+                [
+                    83.0,
+                    704.0
+                ],
+                [
+                    637.0,
+                    707.0
+                ],
+                [
+                    637.0,
+                    734.0
+                ],
+                [
+                    83.0,
+                    731.0
+                ]
+            ]
+        },
+        {
+            "text": "dead.No one understood or had the Heart of the",
+            "confidence": 0.961,
+            "box": [
+                [
+                    83.0,
+                    740.0
+                ],
+                [
+                    658.0,
+                    741.0
+                ],
+                [
+                    658.0,
+                    765.0
+                ],
+                [
+                    83.0,
+                    764.0
+                ]
+            ]
+        },
+        {
+            "text": "Youth in the United States of America better than",
+            "confidence": 0.942,
+            "box": [
+                [
+                    84.0,
+                    773.0
+                ],
+                [
+                    662.0,
+                    775.0
+                ],
+                [
+                    662.0,
+                    799.0
+                ],
+                [
+                    84.0,
+                    797.0
+                ]
+            ]
+        },
+        {
+            "text": "Charlie.He was loved and admired by ALL,",
+            "confidence": 0.957,
+            "box": [
+                [
+                    83.0,
+                    807.0
+                ],
+                [
+                    581.0,
+                    809.0
+                ],
+                [
+                    581.0,
+                    833.0
+                ],
+                [
+                    83.0,
+                    831.0
+                ]
+            ]
+        },
+        {
+            "text": "especially me,and now, he is no longer with us.",
+            "confidence": 0.926,
+            "box": [
+                [
+                    83.0,
+                    844.0
+                ],
+                [
+                    637.0,
+                    844.0
+                ],
+                [
+                    637.0,
+                    866.0
+                ],
+                [
+                    83.0,
+                    866.0
+                ]
+            ]
+        },
+        {
+            "text": "Melania and my Sympathies go out to his",
+            "confidence": 0.957,
+            "box": [
+                [
+                    80.0,
+                    873.0
+                ],
+                [
+                    567.0,
+                    875.0
+                ],
+                [
+                    567.0,
+                    901.0
+                ],
+                [
+                    80.0,
+                    900.0
+                ]
+            ]
+        },
+        {
+            "text": "beautiful wife Erika, and family.Charlie, we love",
+            "confidence": 0.938,
+            "box": [
+                [
+                    80.0,
+                    907.0
+                ],
+                [
+                    641.0,
+                    908.0
+                ],
+                [
+                    641.0,
+                    935.0
+                ],
+                [
+                    80.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "you!",
+            "confidence": 0.984,
+            "box": [
+                [
+                    79.0,
+                    941.0
+                ],
+                [
+                    135.0,
+                    937.0
+                ],
+                [
+                    137.0,
+                    967.0
+                ],
+                [
+                    82.0,
+                    971.0
+                ]
+            ]
+        },
+        {
+            "text": "His d*ath shocked America..",
+            "confidence": 0.955,
+            "box": [
+                [
+                    179.0,
+                    1045.0
+                ],
+                [
+                    893.0,
+                    1048.0
+                ],
+                [
+                    893.0,
+                    1093.0
+                ],
+                [
+                    179.0,
+                    1090.0
+                ]
+            ]
+        },
+        {
+            "text": "Trump called him \"Great &",
+            "confidence": 0.988,
+            "box": [
+                [
+                    202.0,
+                    1108.0
+                ],
+                [
+                    878.0,
+                    1108.0
+                ],
+                [
+                    878.0,
+                    1157.0
+                ],
+                [
+                    202.0,
+                    1157.0
+                ]
+            ]
+        },
+        {
+            "text": "Legendary,\" and leaders from",
+            "confidence": 0.983,
+            "box": [
+                [
+                    152.0,
+                    1170.0
+                ],
+                [
+                    922.0,
+                    1169.0
+                ],
+                [
+                    923.0,
+                    1222.0
+                ],
+                [
+                    152.0,
+                    1223.0
+                ]
+            ]
+        },
+        {
+            "text": "both sides condemned the att*ck",
+            "confidence": 0.986,
+            "box": [
+                [
+                    110.0,
+                    1236.0
+                ],
+                [
+                    970.0,
+                    1236.0
+                ],
+                [
+                    970.0,
+                    1280.0
+                ],
+                [
+                    110.0,
+                    1280.0
+                ]
+            ]
+        }
+    ]
+}

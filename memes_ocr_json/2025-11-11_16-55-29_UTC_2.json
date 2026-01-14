@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-11-11_16-55-29_UTC_2.jpg",
+    "combined_text": "sarcasm\nThe first call was received at 9.15 pm from\nBijwasan, reporting an unclaimed bag.\nWe rushed a fire vehicle immediately.\ndispatched to the spot, but nothing\nsuspicious was found\n-DFS Official",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    483.0,
+                    826.0
+                ],
+                [
+                    599.0,
+                    829.0
+                ],
+                [
+                    599.0,
+                    851.0
+                ],
+                [
+                    482.0,
+                    848.0
+                ]
+            ]
+        },
+        {
+            "text": "The first call was received at 9.15 pm from",
+            "confidence": 0.992,
+            "box": [
+                [
+                    17.0,
+                    925.0
+                ],
+                [
+                    1058.0,
+                    930.0
+                ],
+                [
+                    1057.0,
+                    977.0
+                ],
+                [
+                    17.0,
+                    973.0
+                ]
+            ]
+        },
+        {
+            "text": "Bijwasan, reporting an unclaimed bag.",
+            "confidence": 1.0,
+            "box": [
+                [
+                    45.0,
+                    990.0
+                ],
+                [
+                    1027.0,
+                    994.0
+                ],
+                [
+                    1026.0,
+                    1052.0
+                ],
+                [
+                    45.0,
+                    1047.0
+                ]
+            ]
+        },
+        {
+            "text": "We rushed a fire vehicle immediately.",
+            "confidence": 0.981,
+            "box": [
+                [
+                    75.0,
+                    1057.0
+                ],
+                [
+                    1001.0,
+                    1064.0
+                ],
+                [
+                    1001.0,
+                    1113.0
+                ],
+                [
+                    74.0,
+                    1106.0
+                ]
+            ]
+        },
+        {
+            "text": "dispatched to the spot, but nothing",
+            "confidence": 1.0,
+            "box": [
+                [
+                    92.0,
+                    1126.0
+                ],
+                [
+                    986.0,
+                    1129.0
+                ],
+                [
+                    986.0,
+                    1182.0
+                ],
+                [
+                    91.0,
+                    1179.0
+                ]
+            ]
+        },
+        {
+            "text": "suspicious was found",
+            "confidence": 0.993,
+            "box": [
+                [
+                    271.0,
+                    1196.0
+                ],
+                [
+                    810.0,
+                    1196.0
+                ],
+                [
+                    810.0,
+                    1245.0
+                ],
+                [
+                    271.0,
+                    1245.0
+                ]
+            ]
+        },
+        {
+            "text": "-DFS Official",
+            "confidence": 0.957,
+            "box": [
+                [
+                    415.0,
+                    1277.0
+                ],
+                [
+                    665.0,
+                    1277.0
+                ],
+                [
+                    665.0,
+                    1312.0
+                ],
+                [
+                    415.0,
+                    1312.0
+                ]
+            ]
+        }
+    ]
+}

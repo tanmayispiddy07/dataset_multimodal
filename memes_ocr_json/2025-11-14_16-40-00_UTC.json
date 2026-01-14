@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-11-14_16-40-00_UTC.jpg",
+    "combined_text": "World record paper airplane distance\nsarcasm",
+    "detailed": [
+        {
+            "text": "World record paper airplane distance",
+            "confidence": 0.99,
+            "box": [
+                [
+                    42.0,
+                    380.0
+                ],
+                [
+                    589.0,
+                    382.0
+                ],
+                [
+                    589.0,
+                    415.0
+                ],
+                [
+                    42.0,
+                    413.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    279.0,
+                    890.0
+                ],
+                [
+                    358.0,
+                    890.0
+                ],
+                [
+                    358.0,
+                    909.0
+                ],
+                [
+                    279.0,
+                    909.0
+                ]
+            ]
+        }
+    ]
+}

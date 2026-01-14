@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-05-09_15-59-04_UTC.jpg",
+    "combined_text": "WEEKEND SUGGESTION (WEBSERIES)\nBLACK WHITE & GRAY (TELUGU & HINDI)\nAVAILABLE IN SONY LIV\nFAMILY WATCH?!NO\nTOTAL 6 EPISODES 3 HOURS RUN TIME\nSony LIV Originols\nBLACK\nWHITE\nGRAY\nLOVE KILLS\nADDICTEDTOMEMES\nBAGUNDI AYYA CHALA ROJULU TARVATA OTT LO\nOKA INTERESTING THRILLER SERIES CHUSANU",
+    "detailed": [
+        {
+            "text": "WEEKEND SUGGESTION (WEBSERIES)",
+            "confidence": 0.966,
+            "box": [
+                [
+                    205.0,
+                    18.0
+                ],
+                [
+                    935.0,
+                    20.0
+                ],
+                [
+                    935.0,
+                    57.0
+                ],
+                [
+                    205.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "BLACK WHITE & GRAY (TELUGU & HINDI)",
+            "confidence": 0.947,
+            "box": [
+                [
+                    170.0,
+                    70.0
+                ],
+                [
+                    969.0,
+                    68.0
+                ],
+                [
+                    969.0,
+                    107.0
+                ],
+                [
+                    170.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "AVAILABLE IN SONY LIV",
+            "confidence": 0.987,
+            "box": [
+                [
+                    333.0,
+                    120.0
+                ],
+                [
+                    806.0,
+                    120.0
+                ],
+                [
+                    806.0,
+                    157.0
+                ],
+                [
+                    333.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILY WATCH?!NO",
+            "confidence": 0.967,
+            "box": [
+                [
+                    361.0,
+                    170.0
+                ],
+                [
+                    778.0,
+                    170.0
+                ],
+                [
+                    778.0,
+                    208.0
+                ],
+                [
+                    361.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "TOTAL 6 EPISODES 3 HOURS RUN TIME",
+            "confidence": 0.919,
+            "box": [
+                [
+                    190.0,
+                    220.0
+                ],
+                [
+                    952.0,
+                    220.0
+                ],
+                [
+                    952.0,
+                    258.0
+                ],
+                [
+                    190.0,
+                    258.0
+                ]
+            ]
+        },
+        {
+            "text": "Sony LIV Originols",
+            "confidence": 0.885,
+            "box": [
+                [
+                    127.0,
+                    329.0
+                ],
+                [
+                    242.0,
+                    329.0
+                ],
+                [
+                    242.0,
+                    350.0
+                ],
+                [
+                    127.0,
+                    350.0
+                ]
+            ]
+        },
+        {
+            "text": "BLACK",
+            "confidence": 0.998,
+            "box": [
+                [
+                    89.0,
+                    340.0
+                ],
+                [
+                    276.0,
+                    343.0
+                ],
+                [
+                    275.0,
+                    396.0
+                ],
+                [
+                    88.0,
+                    393.0
+                ]
+            ]
+        },
+        {
+            "text": "WHITE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    89.0,
+                    386.0
+                ],
+                [
+                    285.0,
+                    386.0
+                ],
+                [
+                    285.0,
+                    443.0
+                ],
+                [
+                    89.0,
+                    443.0
+                ]
+            ]
+        },
+        {
+            "text": "GRAY",
+            "confidence": 0.996,
+            "box": [
+                [
+                    55.0,
+                    453.0
+                ],
+                [
+                    305.0,
+                    453.0
+                ],
+                [
+                    305.0,
+                    577.0
+                ],
+                [
+                    55.0,
+                    577.0
+                ]
+            ]
+        },
+        {
+            "text": "LOVE KILLS",
+            "confidence": 0.944,
+            "box": [
+                [
+                    72.0,
+                    583.0
+                ],
+                [
+                    291.0,
+                    583.0
+                ],
+                [
+                    291.0,
+                    648.0
+                ],
+                [
+                    72.0,
+                    648.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    53.0,
+                    813.0
+                ],
+                [
+                    200.0,
+                    813.0
+                ],
+                [
+                    200.0,
+                    833.0
+                ],
+                [
+                    53.0,
+                    833.0
+                ]
+            ]
+        },
+        {
+            "text": "BAGUNDI AYYA CHALA ROJULU TARVATA OTT LO",
+            "confidence": 0.938,
+            "box": [
+                [
+                    58.0,
+                    1235.0
+                ],
+                [
+                    976.0,
+                    1235.0
+                ],
+                [
+                    976.0,
+                    1272.0
+                ],
+                [
+                    58.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA INTERESTING THRILLER SERIES CHUSANU",
+            "confidence": 0.957,
+            "box": [
+                [
+                    84.0,
+                    1281.0
+                ],
+                [
+                    951.0,
+                    1281.0
+                ],
+                [
+                    951.0,
+                    1318.0
+                ],
+                [
+                    84.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-07-29_12-37-10_UTC.jpg",
+    "combined_text": "ANIRUDH AT KINGDOM PRE RELEASE EVENT\nMOVIE RELEASING ON JULY 31ST\nINGDOM\nI'MASSURING YOU I'VE\nWATCHEDTHE FILM\nSDOM\nADDICTEDTOMEMES\nTHIS IS GOING TO BE MILESTONE\nFILM IN VD'S CAREER\nDOM-\nWAITING FOR MOVIE",
+    "detailed": [
+        {
+            "text": "ANIRUDH AT KINGDOM PRE RELEASE EVENT",
+            "confidence": 0.949,
+            "box": [
+                [
+                    39.0,
+                    42.0
+                ],
+                [
+                    1035.0,
+                    40.0
+                ],
+                [
+                    1035.0,
+                    79.0
+                ],
+                [
+                    39.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON JULY 31ST",
+            "confidence": 0.958,
+            "box": [
+                [
+                    165.0,
+                    98.0
+                ],
+                [
+                    899.0,
+                    98.0
+                ],
+                [
+                    899.0,
+                    135.0
+                ],
+                [
+                    165.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "INGDOM",
+            "confidence": 0.995,
+            "box": [
+                [
+                    3.0,
+                    239.0
+                ],
+                [
+                    286.0,
+                    234.0
+                ],
+                [
+                    287.0,
+                    285.0
+                ],
+                [
+                    3.0,
+                    290.0
+                ]
+            ]
+        },
+        {
+            "text": "I'MASSURING YOU I'VE",
+            "confidence": 0.943,
+            "box": [
+                [
+                    263.0,
+                    500.0
+                ],
+                [
+                    823.0,
+                    500.0
+                ],
+                [
+                    823.0,
+                    546.0
+                ],
+                [
+                    263.0,
+                    546.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHEDTHE FILM",
+            "confidence": 0.968,
+            "box": [
+                [
+                    318.0,
+                    562.0
+                ],
+                [
+                    778.0,
+                    562.0
+                ],
+                [
+                    778.0,
+                    603.0
+                ],
+                [
+                    318.0,
+                    603.0
+                ]
+            ]
+        },
+        {
+            "text": "SDOM",
+            "confidence": 0.815,
+            "box": [
+                [
+                    563.0,
+                    652.0
+                ],
+                [
+                    704.0,
+                    655.0
+                ],
+                [
+                    702.0,
+                    704.0
+                ],
+                [
+                    562.0,
+                    701.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.976,
+            "box": [
+                [
+                    472.0,
+                    735.0
+                ],
+                [
+                    610.0,
+                    735.0
+                ],
+                [
+                    610.0,
+                    751.0
+                ],
+                [
+                    472.0,
+                    751.0
+                ]
+            ]
+        },
+        {
+            "text": "THIS IS GOING TO BE MILESTONE",
+            "confidence": 0.981,
+            "box": [
+                [
+                    211.0,
+                    836.0
+                ],
+                [
+                    938.0,
+                    836.0
+                ],
+                [
+                    938.0,
+                    878.0
+                ],
+                [
+                    211.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM IN VD'S CAREER",
+            "confidence": 0.935,
+            "box": [
+                [
+                    336.0,
+                    892.0
+                ],
+                [
+                    809.0,
+                    892.0
+                ],
+                [
+                    809.0,
+                    934.0
+                ],
+                [
+                    336.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "DOM-",
+            "confidence": 0.955,
+            "box": [
+                [
+                    0.0,
+                    918.0
+                ],
+                [
+                    71.0,
+                    922.0
+                ],
+                [
+                    69.0,
+                    952.0
+                ],
+                [
+                    0.0,
+                    949.0
+                ]
+            ]
+        },
+        {
+            "text": "WAITING FOR MOVIE",
+            "confidence": 0.952,
+            "box": [
+                [
+                    49.0,
+                    1271.0
+                ],
+                [
+                    695.0,
+                    1271.0
+                ],
+                [
+                    695.0,
+                    1325.0
+                ],
+                [
+                    49.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

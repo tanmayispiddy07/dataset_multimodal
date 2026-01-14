@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-12-06_10-48-56_UTC.jpg",
+    "combined_text": "AFTER RAJU WEDS RAMBAI ETV\nWIN COMING WITH ANOTHER\nINTERESTING PROJECT \"MOUGLI\"\nMOVIE RELEASING ON DEC 12TH\nADDICTEDTOMEMES\nTRAILER BAGUNDI PAIGA ETV WINVALLA CONTENT\nVELLALI MOVIE KI",
+    "detailed": [
+        {
+            "text": "AFTER RAJU WEDS RAMBAI ETV",
+            "confidence": 0.933,
+            "box": [
+                [
+                    181.0,
+                    21.0
+                ],
+                [
+                    901.0,
+                    21.0
+                ],
+                [
+                    901.0,
+                    59.0
+                ],
+                [
+                    181.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "WIN COMING WITH ANOTHER",
+            "confidence": 0.953,
+            "box": [
+                [
+                    205.0,
+                    74.0
+                ],
+                [
+                    876.0,
+                    74.0
+                ],
+                [
+                    876.0,
+                    116.0
+                ],
+                [
+                    205.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERESTING PROJECT \"MOUGLI\"",
+            "confidence": 0.953,
+            "box": [
+                [
+                    152.0,
+                    132.0
+                ],
+                [
+                    914.0,
+                    132.0
+                ],
+                [
+                    914.0,
+                    170.0
+                ],
+                [
+                    152.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON DEC 12TH",
+            "confidence": 0.938,
+            "box": [
+                [
+                    169.0,
+                    190.0
+                ],
+                [
+                    899.0,
+                    190.0
+                ],
+                [
+                    899.0,
+                    227.0
+                ],
+                [
+                    169.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    925.0,
+                    1059.0
+                ],
+                [
+                    1050.0,
+                    1059.0
+                ],
+                [
+                    1050.0,
+                    1076.0
+                ],
+                [
+                    925.0,
+                    1076.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILER BAGUNDI PAIGA ETV WINVALLA CONTENT",
+            "confidence": 0.943,
+            "box": [
+                [
+                    148.0,
+                    1245.0
+                ],
+                [
+                    1059.0,
+                    1245.0
+                ],
+                [
+                    1059.0,
+                    1278.0
+                ],
+                [
+                    148.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "VELLALI MOVIE KI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    449.0,
+                    1288.0
+                ],
+                [
+                    771.0,
+                    1288.0
+                ],
+                [
+                    771.0,
+                    1325.0
+                ],
+                [
+                    449.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

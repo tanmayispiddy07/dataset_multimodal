@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-07_03-52-38_UTC.jpg",
+    "combined_text": "SITUATION AFTER DANCING\nIN VINAYAKA NIMMAJANAM\nADDICTEDTOMEMES\nE BODY PAINS KIOKA 2 DAYS\nRESTKUDA SARIPODHU",
+    "detailed": [
+        {
+            "text": "SITUATION AFTER DANCING",
+            "confidence": 0.973,
+            "box": [
+                [
+                    177.0,
+                    48.0
+                ],
+                [
+                    964.0,
+                    50.0
+                ],
+                [
+                    964.0,
+                    95.0
+                ],
+                [
+                    177.0,
+                    94.0
+                ]
+            ]
+        },
+        {
+            "text": "IN VINAYAKA NIMMAJANAM",
+            "confidence": 0.963,
+            "box": [
+                [
+                    162.0,
+                    118.0
+                ],
+                [
+                    965.0,
+                    121.0
+                ],
+                [
+                    965.0,
+                    170.0
+                ],
+                [
+                    162.0,
+                    168.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    468.0,
+                    381.0
+                ],
+                [
+                    630.0,
+                    381.0
+                ],
+                [
+                    630.0,
+                    401.0
+                ],
+                [
+                    468.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "E BODY PAINS KIOKA 2 DAYS",
+            "confidence": 0.94,
+            "box": [
+                [
+                    215.0,
+                    688.0
+                ],
+                [
+                    914.0,
+                    686.0
+                ],
+                [
+                    914.0,
+                    731.0
+                ],
+                [
+                    215.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "RESTKUDA SARIPODHU",
+            "confidence": 0.971,
+            "box": [
+                [
+                    278.0,
+                    748.0
+                ],
+                [
+                    836.0,
+                    748.0
+                ],
+                [
+                    836.0,
+                    788.0
+                ],
+                [
+                    278.0,
+                    788.0
+                ]
+            ]
+        }
+    ]
+}

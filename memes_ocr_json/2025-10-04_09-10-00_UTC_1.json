@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-04_09-10-00_UTC_1.jpg",
+    "combined_text": "Taj Mahal\nStands Strong Without\nCement, A Timeless Wonder\nOf Indian Architecture",
+    "detailed": [
+        {
+            "text": "Taj Mahal",
+            "confidence": 0.997,
+            "box": [
+                [
+                    364.0,
+                    1036.0
+                ],
+                [
+                    719.0,
+                    1036.0
+                ],
+                [
+                    719.0,
+                    1113.0
+                ],
+                [
+                    364.0,
+                    1113.0
+                ]
+            ]
+        },
+        {
+            "text": "Stands Strong Without",
+            "confidence": 1.0,
+            "box": [
+                [
+                    123.0,
+                    1132.0
+                ],
+                [
+                    960.0,
+                    1136.0
+                ],
+                [
+                    960.0,
+                    1208.0
+                ],
+                [
+                    123.0,
+                    1204.0
+                ]
+            ]
+        },
+        {
+            "text": "Cement, A Timeless Wonder",
+            "confidence": 0.981,
+            "box": [
+                [
+                    37.0,
+                    1233.0
+                ],
+                [
+                    1049.0,
+                    1233.0
+                ],
+                [
+                    1049.0,
+                    1294.0
+                ],
+                [
+                    37.0,
+                    1294.0
+                ]
+            ]
+        },
+        {
+            "text": "Of Indian Architecture",
+            "confidence": 0.997,
+            "box": [
+                [
+                    34.0,
+                    1324.0
+                ],
+                [
+                    841.0,
+                    1331.0
+                ],
+                [
+                    840.0,
+                    1403.0
+                ],
+                [
+                    34.0,
+                    1396.0
+                ]
+            ]
+        }
+    ]
+}

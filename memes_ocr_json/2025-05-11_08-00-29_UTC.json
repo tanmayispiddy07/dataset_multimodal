@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-11_08-00-29_UTC.jpg",
+    "combined_text": "sarcasm\nOne new history chapter.\n-One new geography chapter.\n-One new country\nIf this bad boy moves a bit\ntowards Pakistan",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.974,
+            "box": [
+                [
+                    899.0,
+                    550.0
+                ],
+                [
+                    1007.0,
+                    550.0
+                ],
+                [
+                    1007.0,
+                    572.0
+                ],
+                [
+                    899.0,
+                    572.0
+                ]
+            ]
+        },
+        {
+            "text": "One new history chapter.",
+            "confidence": 0.957,
+            "box": [
+                [
+                    123.0,
+                    805.0
+                ],
+                [
+                    855.0,
+                    814.0
+                ],
+                [
+                    855.0,
+                    869.0
+                ],
+                [
+                    122.0,
+                    860.0
+                ]
+            ]
+        },
+        {
+            "text": "-One new geography chapter.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    110.0,
+                    881.0
+                ],
+                [
+                    973.0,
+                    890.0
+                ],
+                [
+                    973.0,
+                    956.0
+                ],
+                [
+                    109.0,
+                    947.0
+                ]
+            ]
+        },
+        {
+            "text": "-One new country",
+            "confidence": 0.958,
+            "box": [
+                [
+                    113.0,
+                    964.0
+                ],
+                [
+                    633.0,
+                    974.0
+                ],
+                [
+                    632.0,
+                    1027.0
+                ],
+                [
+                    112.0,
+                    1017.0
+                ]
+            ]
+        },
+        {
+            "text": "If this bad boy moves a bit",
+            "confidence": 1.0,
+            "box": [
+                [
+                    104.0,
+                    1118.0
+                ],
+                [
+                    844.0,
+                    1121.0
+                ],
+                [
+                    844.0,
+                    1183.0
+                ],
+                [
+                    104.0,
+                    1180.0
+                ]
+            ]
+        },
+        {
+            "text": "towards Pakistan",
+            "confidence": 1.0,
+            "box": [
+                [
+                    107.0,
+                    1200.0
+                ],
+                [
+                    616.0,
+                    1204.0
+                ],
+                [
+                    616.0,
+                    1257.0
+                ],
+                [
+                    107.0,
+                    1253.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-05-31_05-46-11_UTC.jpg",
+    "combined_text": "M\n3\nSHILPA RAMAM\nPOCHAMPALLY\nTAT\nDINNERMEND\n3FMAY.2025\nCHOWHAMALLA PALACE\nDDICTEDTOMEMES\nCHALA BAGUNDI AYYA ILA MISS WORLD\nCONTESTANTS MANA TELANGANA LO\nBEAUTIFUL PLACES NI VISIT CHESTHUNTE",
+    "detailed": [
+        {
+            "text": "M",
+            "confidence": 0.705,
+            "box": [
+                [
+                    285.0,
+                    236.0
+                ],
+                [
+                    333.0,
+                    236.0
+                ],
+                [
+                    333.0,
+                    279.0
+                ],
+                [
+                    285.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "3",
+            "confidence": 0.685,
+            "box": [
+                [
+                    285.0,
+                    266.0
+                ],
+                [
+                    353.0,
+                    266.0
+                ],
+                [
+                    353.0,
+                    344.0
+                ],
+                [
+                    285.0,
+                    344.0
+                ]
+            ]
+        },
+        {
+            "text": "SHILPA RAMAM",
+            "confidence": 0.977,
+            "box": [
+                [
+                    351.0,
+                    332.0
+                ],
+                [
+                    780.0,
+                    329.0
+                ],
+                [
+                    781.0,
+                    380.0
+                ],
+                [
+                    352.0,
+                    383.0
+                ]
+            ]
+        },
+        {
+            "text": "POCHAMPALLY",
+            "confidence": 0.997,
+            "box": [
+                [
+                    386.0,
+                    679.0
+                ],
+                [
+                    764.0,
+                    682.0
+                ],
+                [
+                    763.0,
+                    728.0
+                ],
+                [
+                    385.0,
+                    725.0
+                ]
+            ]
+        },
+        {
+            "text": "TAT",
+            "confidence": 0.862,
+            "box": [
+                [
+                    333.0,
+                    780.0
+                ],
+                [
+                    367.0,
+                    780.0
+                ],
+                [
+                    367.0,
+                    806.0
+                ],
+                [
+                    333.0,
+                    806.0
+                ]
+            ]
+        },
+        {
+            "text": "DINNERMEND",
+            "confidence": 0.867,
+            "box": [
+                [
+                    309.0,
+                    859.0
+                ],
+                [
+                    403.0,
+                    854.0
+                ],
+                [
+                    404.0,
+                    876.0
+                ],
+                [
+                    310.0,
+                    881.0
+                ]
+            ]
+        },
+        {
+            "text": "3FMAY.2025",
+            "confidence": 0.834,
+            "box": [
+                [
+                    303.0,
+                    876.0
+                ],
+                [
+                    411.0,
+                    869.0
+                ],
+                [
+                    413.0,
+                    890.0
+                ],
+                [
+                    305.0,
+                    897.0
+                ]
+            ]
+        },
+        {
+            "text": "CHOWHAMALLA PALACE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    291.0,
+                    994.0
+                ],
+                [
+                    872.0,
+                    994.0
+                ],
+                [
+                    872.0,
+                    1040.0
+                ],
+                [
+                    291.0,
+                    1040.0
+                ]
+            ]
+        },
+        {
+            "text": "DDICTEDTOMEMES",
+            "confidence": 0.971,
+            "box": [
+                [
+                    934.0,
+                    1183.0
+                ],
+                [
+                    1067.0,
+                    1183.0
+                ],
+                [
+                    1067.0,
+                    1200.0
+                ],
+                [
+                    934.0,
+                    1200.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALA BAGUNDI AYYA ILA MISS WORLD",
+            "confidence": 0.94,
+            "box": [
+                [
+                    432.0,
+                    1229.0
+                ],
+                [
+                    994.0,
+                    1229.0
+                ],
+                [
+                    994.0,
+                    1259.0
+                ],
+                [
+                    432.0,
+                    1259.0
+                ]
+            ]
+        },
+        {
+            "text": "CONTESTANTS MANA TELANGANA LO",
+            "confidence": 0.97,
+            "box": [
+                [
+                    451.0,
+                    1266.0
+                ],
+                [
+                    977.0,
+                    1266.0
+                ],
+                [
+                    977.0,
+                    1291.0
+                ],
+                [
+                    451.0,
+                    1291.0
+                ]
+            ]
+        },
+        {
+            "text": "BEAUTIFUL PLACES NI VISIT CHESTHUNTE",
+            "confidence": 0.944,
+            "box": [
+                [
+                    421.0,
+                    1296.0
+                ],
+                [
+                    996.0,
+                    1299.0
+                ],
+                [
+                    996.0,
+                    1328.0
+                ],
+                [
+                    420.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

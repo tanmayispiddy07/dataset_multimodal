@@ -1,0 +1,226 @@
+{
+    "image_name": "2023-04-21_16-03-37_UTC.jpg",
+    "combined_text": "Entertainment-Trending\n#Virupaksha\n38.6K Tweets\nTrendingin India\n#SamyukthaMenon\nTrendingwith #SaiDharamTej\nTrending in India\n#DeepikaPadukone\n1,246 Tweets\nDEVATHALLAKI TWITTER LO EM PANI ANDI ??",
+    "detailed": [
+        {
+            "text": "Entertainment-Trending",
+            "confidence": 0.973,
+            "box": [
+                [
+                    215.0,
+                    483.0
+                ],
+                [
+                    499.0,
+                    486.0
+                ],
+                [
+                    499.0,
+                    515.0
+                ],
+                [
+                    215.0,
+                    512.0
+                ]
+            ]
+        },
+        {
+            "text": "#Virupaksha",
+            "confidence": 0.998,
+            "box": [
+                [
+                    216.0,
+                    519.0
+                ],
+                [
+                    383.0,
+                    522.0
+                ],
+                [
+                    382.0,
+                    553.0
+                ],
+                [
+                    215.0,
+                    550.0
+                ]
+            ]
+        },
+        {
+            "text": "38.6K Tweets",
+            "confidence": 0.963,
+            "box": [
+                [
+                    216.0,
+                    555.0
+                ],
+                [
+                    366.0,
+                    559.0
+                ],
+                [
+                    365.0,
+                    585.0
+                ],
+                [
+                    215.0,
+                    582.0
+                ]
+            ]
+        },
+        {
+            "text": "Trendingin India",
+            "confidence": 0.991,
+            "box": [
+                [
+                    218.0,
+                    626.0
+                ],
+                [
+                    405.0,
+                    626.0
+                ],
+                [
+                    405.0,
+                    655.0
+                ],
+                [
+                    218.0,
+                    655.0
+                ]
+            ]
+        },
+        {
+            "text": "#SamyukthaMenon",
+            "confidence": 0.998,
+            "box": [
+                [
+                    217.0,
+                    661.0
+                ],
+                [
+                    468.0,
+                    664.0
+                ],
+                [
+                    468.0,
+                    695.0
+                ],
+                [
+                    216.0,
+                    692.0
+                ]
+            ]
+        },
+        {
+            "text": "Trendingwith #SaiDharamTej",
+            "confidence": 0.987,
+            "box": [
+                [
+                    218.0,
+                    700.0
+                ],
+                [
+                    530.0,
+                    700.0
+                ],
+                [
+                    530.0,
+                    725.0
+                ],
+                [
+                    218.0,
+                    725.0
+                ]
+            ]
+        },
+        {
+            "text": "Trending in India",
+            "confidence": 0.964,
+            "box": [
+                [
+                    218.0,
+                    770.0
+                ],
+                [
+                    405.0,
+                    770.0
+                ],
+                [
+                    405.0,
+                    800.0
+                ],
+                [
+                    218.0,
+                    800.0
+                ]
+            ]
+        },
+        {
+            "text": "#DeepikaPadukone",
+            "confidence": 0.999,
+            "box": [
+                [
+                    218.0,
+                    808.0
+                ],
+                [
+                    468.0,
+                    808.0
+                ],
+                [
+                    468.0,
+                    838.0
+                ],
+                [
+                    218.0,
+                    838.0
+                ]
+            ]
+        },
+        {
+            "text": "1,246 Tweets",
+            "confidence": 0.933,
+            "box": [
+                [
+                    217.0,
+                    842.0
+                ],
+                [
+                    362.0,
+                    846.0
+                ],
+                [
+                    361.0,
+                    873.0
+                ],
+                [
+                    216.0,
+                    868.0
+                ]
+            ]
+        },
+        {
+            "text": "DEVATHALLAKI TWITTER LO EM PANI ANDI ??",
+            "confidence": 0.941,
+            "box": [
+                [
+                    82.0,
+                    1287.0
+                ],
+                [
+                    997.0,
+                    1287.0
+                ],
+                [
+                    997.0,
+                    1320.0
+                ],
+                [
+                    82.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

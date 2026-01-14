@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-07-30_11-33-16_UTC.jpg",
+    "combined_text": "Micheal Jackson did all this\nwithout social media.\nsarcasm\nBiggest superstar in history.",
+    "detailed": [
+        {
+            "text": "Micheal Jackson did all this",
+            "confidence": 0.993,
+            "box": [
+                [
+                    89.0,
+                    46.0
+                ],
+                [
+                    983.0,
+                    46.0
+                ],
+                [
+                    983.0,
+                    100.0
+                ],
+                [
+                    89.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "without social media.",
+            "confidence": 0.982,
+            "box": [
+                [
+                    191.0,
+                    128.0
+                ],
+                [
+                    885.0,
+                    131.0
+                ],
+                [
+                    884.0,
+                    192.0
+                ],
+                [
+                    191.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    415.0,
+                    703.0
+                ],
+                [
+                    515.0,
+                    703.0
+                ],
+                [
+                    515.0,
+                    725.0
+                ],
+                [
+                    415.0,
+                    725.0
+                ]
+            ]
+        },
+        {
+            "text": "Biggest superstar in history.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    48.0,
+                    1203.0
+                ],
+                [
+                    910.0,
+                    1201.0
+                ],
+                [
+                    910.0,
+                    1273.0
+                ],
+                [
+                    48.0,
+                    1274.0
+                ]
+            ]
+        }
+    ]
+}

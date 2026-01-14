@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-07-31_15-17-18_UTC.jpg",
+    "combined_text": "WHETHER IT'S A STARRING ROLE OR A\nSPECIAL PART,SATYADEV CHOOSES HIS ROLES\nWITH CARE, AS SEEN IN GODFATHER, RAM\nSETU, AND HIS LATEST, KINGDOM.\nADDICTEDTOMEMES\nDEV\nGodFather\nSYN\n5.10.22\nC*TO HIS SCRIPT SELECTION",
+    "detailed": [
+        {
+            "text": "WHETHER IT'S A STARRING ROLE OR A",
+            "confidence": 0.918,
+            "box": [
+                [
+                    179.0,
+                    25.0
+                ],
+                [
+                    924.0,
+                    25.0
+                ],
+                [
+                    924.0,
+                    60.0
+                ],
+                [
+                    179.0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "text": "SPECIAL PART,SATYADEV CHOOSES HIS ROLES",
+            "confidence": 0.949,
+            "box": [
+                [
+                    98.0,
+                    74.0
+                ],
+                [
+                    1006.0,
+                    74.0
+                ],
+                [
+                    1006.0,
+                    109.0
+                ],
+                [
+                    98.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH CARE, AS SEEN IN GODFATHER, RAM",
+            "confidence": 0.968,
+            "box": [
+                [
+                    140.0,
+                    119.0
+                ],
+                [
+                    968.0,
+                    123.0
+                ],
+                [
+                    968.0,
+                    164.0
+                ],
+                [
+                    140.0,
+                    160.0
+                ]
+            ]
+        },
+        {
+            "text": "SETU, AND HIS LATEST, KINGDOM.",
+            "confidence": 0.963,
+            "box": [
+                [
+                    220.0,
+                    175.0
+                ],
+                [
+                    883.0,
+                    175.0
+                ],
+                [
+                    883.0,
+                    210.0
+                ],
+                [
+                    220.0,
+                    210.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    242.0,
+                    364.0
+                ],
+                [
+                    385.0,
+                    362.0
+                ],
+                [
+                    385.0,
+                    380.0
+                ],
+                [
+                    242.0,
+                    383.0
+                ]
+            ]
+        },
+        {
+            "text": "DEV",
+            "confidence": 0.769,
+            "box": [
+                [
+                    105.0,
+                    561.0
+                ],
+                [
+                    149.0,
+                    561.0
+                ],
+                [
+                    149.0,
+                    572.0
+                ],
+                [
+                    105.0,
+                    572.0
+                ]
+            ]
+        },
+        {
+            "text": "GodFather",
+            "confidence": 0.993,
+            "box": [
+                [
+                    34.0,
+                    607.0
+                ],
+                [
+                    211.0,
+                    607.0
+                ],
+                [
+                    211.0,
+                    643.0
+                ],
+                [
+                    34.0,
+                    643.0
+                ]
+            ]
+        },
+        {
+            "text": "SYN",
+            "confidence": 0.562,
+            "box": [
+                [
+                    23.0,
+                    745.0
+                ],
+                [
+                    78.0,
+                    745.0
+                ],
+                [
+                    78.0,
+                    759.0
+                ],
+                [
+                    23.0,
+                    759.0
+                ]
+            ]
+        },
+        {
+            "text": "5.10.22",
+            "confidence": 0.997,
+            "box": [
+                [
+                    87.0,
+                    742.0
+                ],
+                [
+                    172.0,
+                    742.0
+                ],
+                [
+                    172.0,
+                    760.0
+                ],
+                [
+                    87.0,
+                    760.0
+                ]
+            ]
+        },
+        {
+            "text": "C*TO HIS SCRIPT SELECTION",
+            "confidence": 0.965,
+            "box": [
+                [
+                    253.0,
+                    1016.0
+                ],
+                [
+                    943.0,
+                    1025.0
+                ],
+                [
+                    942.0,
+                    1088.0
+                ],
+                [
+                    252.0,
+                    1079.0
+                ]
+            ]
+        }
+    ]
+}

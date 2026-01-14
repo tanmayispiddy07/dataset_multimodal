@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-07-31_11-20-00_UTC.jpg",
+    "combined_text": "EXCELLENT BOOKINGS AND\nHOUSEFULL SHOWS FOR KINGDOM\nVIJAY DEVERAKONDA\nADDICTEDTOMEMES\nBOXOFFICE\nBLOCKBUSTER\nKINGDOM\nTELUGETAMIL NINDE\nC\nPERFECTTELUGUCINEMA",
+    "detailed": [
+        {
+            "text": "EXCELLENT BOOKINGS AND",
+            "confidence": 0.958,
+            "box": [
+                [
+                    165.0,
+                    75.0
+                ],
+                [
+                    929.0,
+                    75.0
+                ],
+                [
+                    929.0,
+                    118.0
+                ],
+                [
+                    165.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "HOUSEFULL SHOWS FOR KINGDOM",
+            "confidence": 0.976,
+            "box": [
+                [
+                    53.0,
+                    139.0
+                ],
+                [
+                    1026.0,
+                    143.0
+                ],
+                [
+                    1025.0,
+                    193.0
+                ],
+                [
+                    53.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "VIJAY DEVERAKONDA",
+            "confidence": 0.973,
+            "box": [
+                [
+                    130.0,
+                    394.0
+                ],
+                [
+                    583.0,
+                    394.0
+                ],
+                [
+                    583.0,
+                    433.0
+                ],
+                [
+                    130.0,
+                    433.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    889.0,
+                    412.0
+                ],
+                [
+                    1054.0,
+                    412.0
+                ],
+                [
+                    1054.0,
+                    435.0
+                ],
+                [
+                    889.0,
+                    435.0
+                ]
+            ]
+        },
+        {
+            "text": "BOXOFFICE",
+            "confidence": 0.994,
+            "box": [
+                [
+                    131.0,
+                    446.0
+                ],
+                [
+                    583.0,
+                    446.0
+                ],
+                [
+                    583.0,
+                    517.0
+                ],
+                [
+                    131.0,
+                    517.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER",
+            "confidence": 0.996,
+            "box": [
+                [
+                    131.0,
+                    533.0
+                ],
+                [
+                    582.0,
+                    533.0
+                ],
+                [
+                    582.0,
+                    584.0
+                ],
+                [
+                    131.0,
+                    584.0
+                ]
+            ]
+        },
+        {
+            "text": "KINGDOM",
+            "confidence": 0.996,
+            "box": [
+                [
+                    122.0,
+                    669.0
+                ],
+                [
+                    595.0,
+                    669.0
+                ],
+                [
+                    595.0,
+                    744.0
+                ],
+                [
+                    122.0,
+                    744.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGETAMIL NINDE",
+            "confidence": 0.745,
+            "box": [
+                [
+                    262.0,
+                    750.0
+                ],
+                [
+                    432.0,
+                    750.0
+                ],
+                [
+                    432.0,
+                    770.0
+                ],
+                [
+                    262.0,
+                    770.0
+                ]
+            ]
+        },
+        {
+            "text": "C",
+            "confidence": 0.608,
+            "box": [
+                [
+                    261.0,
+                    779.0
+                ],
+                [
+                    337.0,
+                    776.0
+                ],
+                [
+                    338.0,
+                    800.0
+                ],
+                [
+                    262.0,
+                    804.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFECTTELUGUCINEMA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    182.0,
+                    1171.0
+                ],
+                [
+                    979.0,
+                    1171.0
+                ],
+                [
+                    979.0,
+                    1222.0
+                ],
+                [
+                    182.0,
+                    1222.0
+                ]
+            ]
+        }
+    ]
+}

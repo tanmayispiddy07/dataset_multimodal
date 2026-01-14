@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-11-11_17-58-29_UTC.jpg",
+    "combined_text": "Video of Guangzhou's skyscrapers\nat night is going viral I.\nsarcasm",
+    "detailed": [
+        {
+            "text": "Video of Guangzhou's skyscrapers",
+            "confidence": 0.997,
+            "box": [
+                [
+                    40.0,
+                    290.0
+                ],
+                [
+                    599.0,
+                    291.0
+                ],
+                [
+                    599.0,
+                    325.0
+                ],
+                [
+                    40.0,
+                    324.0
+                ]
+            ]
+        },
+        {
+            "text": "at night is going viral I.",
+            "confidence": 0.975,
+            "box": [
+                [
+                    127.0,
+                    342.0
+                ],
+                [
+                    479.0,
+                    341.0
+                ],
+                [
+                    479.0,
+                    375.0
+                ],
+                [
+                    127.0,
+                    376.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.995,
+            "box": [
+                [
+                    273.0,
+                    935.0
+                ],
+                [
+                    364.0,
+                    935.0
+                ],
+                [
+                    364.0,
+                    957.0
+                ],
+                [
+                    273.0,
+                    957.0
+                ]
+            ]
+        }
+    ]
+}

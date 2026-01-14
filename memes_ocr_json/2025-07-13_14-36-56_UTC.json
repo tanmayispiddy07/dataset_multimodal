@@ -1,0 +1,556 @@
+{
+    "image_name": "2025-07-13_14-36-56_UTC.jpg",
+    "combined_text": "UPEL PRIVATE LIMITED, A\nHYDERABAD-BASED STARTUP\nRECENTLY TOOK PART IN MTA\nVIETNAM 2025.\nCHINA\nCHINA\nPAVILION\nPAVILIONE\nEQUIPMENT CO,LTD\nBA1-1\nN XIEYUA\nNAUTOMATIO\nBA1-1\nBETTER PRODUCTS BEETER\nVDLS850\nOWERING\nNEERING\nURING\nONFERENCEE\nTUANTHO\nTHEY SECURED MULTIPLE PARTNERSHIPS\nBECOMING THE OFFICIAL TRADE AND\nAFTER-SALES SUPPORT PARTNER IN\nINDIA.UPEL SPECIALIZES IN SALES AND\nSERVICE NATIONWIDE.",
+    "detailed": [
+        {
+            "text": "UPEL PRIVATE LIMITED, A",
+            "confidence": 0.984,
+            "box": [
+                [
+                    167.0,
+                    38.0
+                ],
+                [
+                    959.0,
+                    38.0
+                ],
+                [
+                    959.0,
+                    89.0
+                ],
+                [
+                    167.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "HYDERABAD-BASED STARTUP",
+            "confidence": 0.991,
+            "box": [
+                [
+                    90.0,
+                    100.0
+                ],
+                [
+                    1027.0,
+                    100.0
+                ],
+                [
+                    1027.0,
+                    151.0
+                ],
+                [
+                    90.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "RECENTLY TOOK PART IN MTA",
+            "confidence": 0.972,
+            "box": [
+                [
+                    90.0,
+                    159.0
+                ],
+                [
+                    1034.0,
+                    160.0
+                ],
+                [
+                    1034.0,
+                    213.0
+                ],
+                [
+                    90.0,
+                    211.0
+                ]
+            ]
+        },
+        {
+            "text": "VIETNAM 2025.",
+            "confidence": 0.973,
+            "box": [
+                [
+                    318.0,
+                    218.0
+                ],
+                [
+                    802.0,
+                    221.0
+                ],
+                [
+                    801.0,
+                    273.0
+                ],
+                [
+                    318.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "CHINA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    91.0,
+                    326.0
+                ],
+                [
+                    194.0,
+                    326.0
+                ],
+                [
+                    194.0,
+                    362.0
+                ],
+                [
+                    91.0,
+                    362.0
+                ]
+            ]
+        },
+        {
+            "text": "CHINA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    334.0,
+                    325.0
+                ],
+                [
+                    442.0,
+                    322.0
+                ],
+                [
+                    443.0,
+                    357.0
+                ],
+                [
+                    335.0,
+                    361.0
+                ]
+            ]
+        },
+        {
+            "text": "PAVILION",
+            "confidence": 0.953,
+            "box": [
+                [
+                    141.0,
+                    355.0
+                ],
+                [
+                    194.0,
+                    355.0
+                ],
+                [
+                    194.0,
+                    372.0
+                ],
+                [
+                    141.0,
+                    372.0
+                ]
+            ]
+        },
+        {
+            "text": "PAVILIONE",
+            "confidence": 0.917,
+            "box": [
+                [
+                    388.0,
+                    354.0
+                ],
+                [
+                    442.0,
+                    350.0
+                ],
+                [
+                    443.0,
+                    367.0
+                ],
+                [
+                    389.0,
+                    371.0
+                ]
+            ]
+        },
+        {
+            "text": "EQUIPMENT CO,LTD",
+            "confidence": 0.886,
+            "box": [
+                [
+                    49.0,
+                    395.0
+                ],
+                [
+                    139.0,
+                    397.0
+                ],
+                [
+                    139.0,
+                    415.0
+                ],
+                [
+                    49.0,
+                    414.0
+                ]
+            ]
+        },
+        {
+            "text": "BA1-1",
+            "confidence": 0.942,
+            "box": [
+                [
+                    204.0,
+                    394.0
+                ],
+                [
+                    235.0,
+                    394.0
+                ],
+                [
+                    235.0,
+                    408.0
+                ],
+                [
+                    204.0,
+                    408.0
+                ]
+            ]
+        },
+        {
+            "text": "N XIEYUA",
+            "confidence": 0.92,
+            "box": [
+                [
+                    323.0,
+                    392.0
+                ],
+                [
+                    369.0,
+                    386.0
+                ],
+                [
+                    370.0,
+                    401.0
+                ],
+                [
+                    324.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "NAUTOMATIO",
+            "confidence": 0.987,
+            "box": [
+                [
+                    365.0,
+                    387.0
+                ],
+                [
+                    430.0,
+                    385.0
+                ],
+                [
+                    430.0,
+                    400.0
+                ],
+                [
+                    366.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "BA1-1",
+            "confidence": 0.967,
+            "box": [
+                [
+                    461.0,
+                    391.0
+                ],
+                [
+                    489.0,
+                    391.0
+                ],
+                [
+                    489.0,
+                    405.0
+                ],
+                [
+                    461.0,
+                    405.0
+                ]
+            ]
+        },
+        {
+            "text": "BETTER PRODUCTS BEETER",
+            "confidence": 0.943,
+            "box": [
+                [
+                    700.0,
+                    401.0
+                ],
+                [
+                    866.0,
+                    394.0
+                ],
+                [
+                    867.0,
+                    412.0
+                ],
+                [
+                    701.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "VDLS850",
+            "confidence": 0.85,
+            "box": [
+                [
+                    598.0,
+                    681.0
+                ],
+                [
+                    678.0,
+                    681.0
+                ],
+                [
+                    678.0,
+                    704.0
+                ],
+                [
+                    598.0,
+                    704.0
+                ]
+            ]
+        },
+        {
+            "text": "OWERING",
+            "confidence": 0.983,
+            "box": [
+                [
+                    220.0,
+                    737.0
+                ],
+                [
+                    313.0,
+                    730.0
+                ],
+                [
+                    316.0,
+                    761.0
+                ],
+                [
+                    222.0,
+                    768.0
+                ]
+            ]
+        },
+        {
+            "text": "NEERING",
+            "confidence": 0.996,
+            "box": [
+                [
+                    1.0,
+                    840.0
+                ],
+                [
+                    55.0,
+                    840.0
+                ],
+                [
+                    55.0,
+                    858.0
+                ],
+                [
+                    1.0,
+                    858.0
+                ]
+            ]
+        },
+        {
+            "text": "URING",
+            "confidence": 0.996,
+            "box": [
+                [
+                    0.0,
+                    853.0
+                ],
+                [
+                    38.0,
+                    853.0
+                ],
+                [
+                    38.0,
+                    871.0
+                ],
+                [
+                    0.0,
+                    871.0
+                ]
+            ]
+        },
+        {
+            "text": "ONFERENCEE",
+            "confidence": 0.904,
+            "box": [
+                [
+                    0.0,
+                    864.0
+                ],
+                [
+                    66.0,
+                    864.0
+                ],
+                [
+                    66.0,
+                    882.0
+                ],
+                [
+                    0.0,
+                    882.0
+                ]
+            ]
+        },
+        {
+            "text": "TUANTHO",
+            "confidence": 0.612,
+            "box": [
+                [
+                    1.0,
+                    882.0
+                ],
+                [
+                    35.0,
+                    882.0
+                ],
+                [
+                    35.0,
+                    901.0
+                ],
+                [
+                    1.0,
+                    901.0
+                ]
+            ]
+        },
+        {
+            "text": "THEY SECURED MULTIPLE PARTNERSHIPS",
+            "confidence": 0.967,
+            "box": [
+                [
+                    44.0,
+                    1077.0
+                ],
+                [
+                    1042.0,
+                    1077.0
+                ],
+                [
+                    1042.0,
+                    1115.0
+                ],
+                [
+                    44.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "BECOMING THE OFFICIAL TRADE AND",
+            "confidence": 0.966,
+            "box": [
+                [
+                    89.0,
+                    1123.0
+                ],
+                [
+                    1003.0,
+                    1123.0
+                ],
+                [
+                    1003.0,
+                    1161.0
+                ],
+                [
+                    89.0,
+                    1161.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER-SALES SUPPORT PARTNER IN",
+            "confidence": 0.957,
+            "box": [
+                [
+                    114.0,
+                    1171.0
+                ],
+                [
+                    977.0,
+                    1171.0
+                ],
+                [
+                    977.0,
+                    1209.0
+                ],
+                [
+                    114.0,
+                    1209.0
+                ]
+            ]
+        },
+        {
+            "text": "INDIA.UPEL SPECIALIZES IN SALES AND",
+            "confidence": 0.957,
+            "box": [
+                [
+                    66.0,
+                    1214.0
+                ],
+                [
+                    1021.0,
+                    1214.0
+                ],
+                [
+                    1021.0,
+                    1257.0
+                ],
+                [
+                    66.0,
+                    1257.0
+                ]
+            ]
+        },
+        {
+            "text": "SERVICE NATIONWIDE.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    266.0,
+                    1261.0
+                ],
+                [
+                    820.0,
+                    1264.0
+                ],
+                [
+                    820.0,
+                    1306.0
+                ],
+                [
+                    266.0,
+                    1303.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-06-02_10-30-31_UTC.jpg",
+    "combined_text": "QUESTION :-ONE THING THAT SUPRISED\nYOU THE MOST ABOUT TELANGANA ?\nfelan\nADDICTEDTOMEMES\nYOU ARE BEAUTIFUL\nPEOPLE, YOUARE\nECUADOR\nSO KIND & SOFT\n**TELANGANA ME\nMAA TELANGANA LO UNDE\nPLACES LO MA TELANGANA\nVALLALO UNDE MANCHITHANAM\nLO AH MAGIC EH VERU SIR",
+    "detailed": [
+        {
+            "text": "QUESTION :-ONE THING THAT SUPRISED",
+            "confidence": 0.949,
+            "box": [
+                [
+                    101.0,
+                    40.0
+                ],
+                [
+                    996.0,
+                    40.0
+                ],
+                [
+                    996.0,
+                    82.0
+                ],
+                [
+                    101.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU THE MOST ABOUT TELANGANA ?",
+            "confidence": 0.944,
+            "box": [
+                [
+                    135.0,
+                    93.0
+                ],
+                [
+                    963.0,
+                    96.0
+                ],
+                [
+                    963.0,
+                    134.0
+                ],
+                [
+                    135.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "felan",
+            "confidence": 0.848,
+            "box": [
+                [
+                    1032.0,
+                    231.0
+                ],
+                [
+                    1076.0,
+                    235.0
+                ],
+                [
+                    1075.0,
+                    251.0
+                ],
+                [
+                    1030.0,
+                    248.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    473.0,
+                    276.0
+                ],
+                [
+                    612.0,
+                    279.0
+                ],
+                [
+                    611.0,
+                    301.0
+                ],
+                [
+                    472.0,
+                    298.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU ARE BEAUTIFUL",
+            "confidence": 0.964,
+            "box": [
+                [
+                    620.0,
+                    744.0
+                ],
+                [
+                    1000.0,
+                    744.0
+                ],
+                [
+                    1000.0,
+                    782.0
+                ],
+                [
+                    620.0,
+                    782.0
+                ]
+            ]
+        },
+        {
+            "text": "PEOPLE, YOUARE",
+            "confidence": 0.977,
+            "box": [
+                [
+                    638.0,
+                    794.0
+                ],
+                [
+                    980.0,
+                    794.0
+                ],
+                [
+                    980.0,
+                    832.0
+                ],
+                [
+                    638.0,
+                    832.0
+                ]
+            ]
+        },
+        {
+            "text": "ECUADOR",
+            "confidence": 0.995,
+            "box": [
+                [
+                    296.0,
+                    819.0
+                ],
+                [
+                    385.0,
+                    785.0
+                ],
+                [
+                    397.0,
+                    816.0
+                ],
+                [
+                    308.0,
+                    850.0
+                ]
+            ]
+        },
+        {
+            "text": "SO KIND & SOFT",
+            "confidence": 0.988,
+            "box": [
+                [
+                    647.0,
+                    840.0
+                ],
+                [
+                    959.0,
+                    840.0
+                ],
+                [
+                    959.0,
+                    882.0
+                ],
+                [
+                    647.0,
+                    882.0
+                ]
+            ]
+        },
+        {
+            "text": "**TELANGANA ME",
+            "confidence": 0.971,
+            "box": [
+                [
+                    456.0,
+                    943.0
+                ],
+                [
+                    875.0,
+                    946.0
+                ],
+                [
+                    874.0,
+                    994.0
+                ],
+                [
+                    456.0,
+                    991.0
+                ]
+            ]
+        },
+        {
+            "text": "MAA TELANGANA LO UNDE",
+            "confidence": 0.941,
+            "box": [
+                [
+                    558.0,
+                    1183.0
+                ],
+                [
+                    998.0,
+                    1183.0
+                ],
+                [
+                    998.0,
+                    1217.0
+                ],
+                [
+                    558.0,
+                    1217.0
+                ]
+            ]
+        },
+        {
+            "text": "PLACES LO MA TELANGANA",
+            "confidence": 0.933,
+            "box": [
+                [
+                    557.0,
+                    1224.0
+                ],
+                [
+                    997.0,
+                    1224.0
+                ],
+                [
+                    997.0,
+                    1253.0
+                ],
+                [
+                    557.0,
+                    1253.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLALO UNDE MANCHITHANAM",
+            "confidence": 0.961,
+            "box": [
+                [
+                    515.0,
+                    1261.0
+                ],
+                [
+                    1045.0,
+                    1261.0
+                ],
+                [
+                    1045.0,
+                    1291.0
+                ],
+                [
+                    515.0,
+                    1291.0
+                ]
+            ]
+        },
+        {
+            "text": "LO AH MAGIC EH VERU SIR",
+            "confidence": 0.903,
+            "box": [
+                [
+                    564.0,
+                    1299.0
+                ],
+                [
+                    994.0,
+                    1299.0
+                ],
+                [
+                    994.0,
+                    1332.0
+                ],
+                [
+                    564.0,
+                    1332.0
+                ]
+            ]
+        }
+    ]
+}

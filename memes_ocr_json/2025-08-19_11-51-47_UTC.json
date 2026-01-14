@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-19_11-51-47_UTC.jpg",
+    "combined_text": "POV:- TIME IS 11:11\nMEANWHILE EVERY SNAPCHAT USERS\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "POV:- TIME IS 11:11",
+            "confidence": 0.982,
+            "box": [
+                [
+                    307.0,
+                    63.0
+                ],
+                [
+                    782.0,
+                    63.0
+                ],
+                [
+                    782.0,
+                    109.0
+                ],
+                [
+                    307.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "MEANWHILE EVERY SNAPCHAT USERS",
+            "confidence": 0.973,
+            "box": [
+                [
+                    41.0,
+                    130.0
+                ],
+                [
+                    1046.0,
+                    127.0
+                ],
+                [
+                    1046.0,
+                    177.0
+                ],
+                [
+                    41.0,
+                    180.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    451.0,
+                    663.0
+                ],
+                [
+                    619.0,
+                    663.0
+                ],
+                [
+                    619.0,
+                    684.0
+                ],
+                [
+                    451.0,
+                    684.0
+                ]
+            ]
+        }
+    ]
+}

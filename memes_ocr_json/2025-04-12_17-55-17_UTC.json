@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-04-12_17-55-17_UTC.jpg",
+    "combined_text": "M\nVIPL\nWONDER\nCEMENT\nABHISHEK SHARMA GOTOUT BUT IT'S A NO\nBALL.THEN STARTED THE THRILLER CINEMA\nADDICTEDTOMEMES\nHE ALREADY PREPARED ANDGOT THE NOTE\nPAPER\"THIS ONE FOR ORANGE ARMY\"\n141OFF55 BALLS",
+    "detailed": [
+        {
+            "text": "M",
+            "confidence": 0.838,
+            "box": [
+                [
+                    698.0,
+                    280.0
+                ],
+                [
+                    750.0,
+                    280.0
+                ],
+                [
+                    750.0,
+                    308.0
+                ],
+                [
+                    698.0,
+                    308.0
+                ]
+            ]
+        },
+        {
+            "text": "VIPL",
+            "confidence": 0.717,
+            "box": [
+                [
+                    868.0,
+                    294.0
+                ],
+                [
+                    952.0,
+                    294.0
+                ],
+                [
+                    952.0,
+                    358.0
+                ],
+                [
+                    868.0,
+                    358.0
+                ]
+            ]
+        },
+        {
+            "text": "WONDER",
+            "confidence": 0.908,
+            "box": [
+                [
+                    678.0,
+                    307.0
+                ],
+                [
+                    772.0,
+                    307.0
+                ],
+                [
+                    772.0,
+                    329.0
+                ],
+                [
+                    678.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "CEMENT",
+            "confidence": 0.965,
+            "box": [
+                [
+                    676.0,
+                    317.0
+                ],
+                [
+                    771.0,
+                    310.0
+                ],
+                [
+                    773.0,
+                    337.0
+                ],
+                [
+                    678.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "ABHISHEK SHARMA GOTOUT BUT IT'S A NO",
+            "confidence": 0.923,
+            "box": [
+                [
+                    90.0,
+                    387.0
+                ],
+                [
+                    1005.0,
+                    387.0
+                ],
+                [
+                    1005.0,
+                    425.0
+                ],
+                [
+                    90.0,
+                    425.0
+                ]
+            ]
+        },
+        {
+            "text": "BALL.THEN STARTED THE THRILLER CINEMA",
+            "confidence": 0.913,
+            "box": [
+                [
+                    80.0,
+                    436.0
+                ],
+                [
+                    1015.0,
+                    438.0
+                ],
+                [
+                    1015.0,
+                    477.0
+                ],
+                [
+                    80.0,
+                    475.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    15.0,
+                    695.0
+                ],
+                [
+                    201.0,
+                    695.0
+                ],
+                [
+                    201.0,
+                    721.0
+                ],
+                [
+                    15.0,
+                    721.0
+                ]
+            ]
+        },
+        {
+            "text": "HE ALREADY PREPARED ANDGOT THE NOTE",
+            "confidence": 0.946,
+            "box": [
+                [
+                    127.0,
+                    806.0
+                ],
+                [
+                    1004.0,
+                    808.0
+                ],
+                [
+                    1004.0,
+                    846.0
+                ],
+                [
+                    127.0,
+                    843.0
+                ]
+            ]
+        },
+        {
+            "text": "PAPER\"THIS ONE FOR ORANGE ARMY\"",
+            "confidence": 0.952,
+            "box": [
+                [
+                    176.0,
+                    859.0
+                ],
+                [
+                    948.0,
+                    859.0
+                ],
+                [
+                    948.0,
+                    896.0
+                ],
+                [
+                    176.0,
+                    896.0
+                ]
+            ]
+        },
+        {
+            "text": "141OFF55 BALLS",
+            "confidence": 0.994,
+            "box": [
+                [
+                    488.0,
+                    1256.0
+                ],
+                [
+                    1020.0,
+                    1259.0
+                ],
+                [
+                    1019.0,
+                    1314.0
+                ],
+                [
+                    488.0,
+                    1311.0
+                ]
+            ]
+        }
+    ]
+}

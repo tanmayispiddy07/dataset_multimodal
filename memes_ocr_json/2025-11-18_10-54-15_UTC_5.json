@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-11-18_10-54-15_UTC_5.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nOKA MAGADI NI KONNI\nVISHYALO ASALU GELAKAVADHU\nENDUKU ANTEVALLU EGO KIVELTHE\nADHI RESPECT KOSAM AVVACHUPERU\nKOSAM AVVACHU MONEYKOSAM\nAVVACHU EM AYINA CHESTHARU",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.989,
+            "box": [
+                [
+                    852.0,
+                    171.0
+                ],
+                [
+                    1010.0,
+                    171.0
+                ],
+                [
+                    1010.0,
+                    192.0
+                ],
+                [
+                    852.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "OKA MAGADI NI KONNI",
+            "confidence": 0.935,
+            "box": [
+                [
+                    204.0,
+                    530.0
+                ],
+                [
+                    876.0,
+                    531.0
+                ],
+                [
+                    876.0,
+                    578.0
+                ],
+                [
+                    204.0,
+                    577.0
+                ]
+            ]
+        },
+        {
+            "text": "VISHYALO ASALU GELAKAVADHU",
+            "confidence": 0.962,
+            "box": [
+                [
+                    68.0,
+                    602.0
+                ],
+                [
+                    1017.0,
+                    602.0
+                ],
+                [
+                    1017.0,
+                    648.0
+                ],
+                [
+                    68.0,
+                    648.0
+                ]
+            ]
+        },
+        {
+            "text": "ENDUKU ANTEVALLU EGO KIVELTHE",
+            "confidence": 0.948,
+            "box": [
+                [
+                    124.0,
+                    1104.0
+                ],
+                [
+                    998.0,
+                    1104.0
+                ],
+                [
+                    998.0,
+                    1146.0
+                ],
+                [
+                    124.0,
+                    1146.0
+                ]
+            ]
+        },
+        {
+            "text": "ADHI RESPECT KOSAM AVVACHUPERU",
+            "confidence": 0.955,
+            "box": [
+                [
+                    101.0,
+                    1162.0
+                ],
+                [
+                    1015.0,
+                    1160.0
+                ],
+                [
+                    1015.0,
+                    1201.0
+                ],
+                [
+                    101.0,
+                    1204.0
+                ]
+            ]
+        },
+        {
+            "text": "KOSAM AVVACHU MONEYKOSAM",
+            "confidence": 0.962,
+            "box": [
+                [
+                    156.0,
+                    1221.0
+                ],
+                [
+                    965.0,
+                    1221.0
+                ],
+                [
+                    965.0,
+                    1263.0
+                ],
+                [
+                    156.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "AVVACHU EM AYINA CHESTHARU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    163.0,
+                    1279.0
+                ],
+                [
+                    946.0,
+                    1279.0
+                ],
+                [
+                    946.0,
+                    1321.0
+                ],
+                [
+                    163.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

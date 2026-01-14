@@ -1,0 +1,248 @@
+{
+    "image_name": "2026-01-04_09-37-47_UTC.jpg",
+    "combined_text": "EVERYONE IMPRESSED BY I\nHERO\nPERFORMANCE IN VANA VEERA\nJANUARY\n1\nST\nIN THEATERS\nADDICTEDTOMEMES\nASALU DEBUT MOVIE LONE CHALA\nBEST ICHADU EKKADA KUDA\nKOTHA HERO LAGANE LEDU",
+    "detailed": [
+        {
+            "text": "EVERYONE IMPRESSED BY I",
+            "confidence": 0.92,
+            "box": [
+                [
+                    89.0,
+                    74.0
+                ],
+                [
+                    849.0,
+                    74.0
+                ],
+                [
+                    849.0,
+                    120.0
+                ],
+                [
+                    89.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "HERO",
+            "confidence": 0.996,
+            "box": [
+                [
+                    824.0,
+                    74.0
+                ],
+                [
+                    997.0,
+                    74.0
+                ],
+                [
+                    997.0,
+                    121.0
+                ],
+                [
+                    824.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFORMANCE IN VANA VEERA",
+            "confidence": 0.965,
+            "box": [
+                [
+                    72.0,
+                    142.0
+                ],
+                [
+                    994.0,
+                    144.0
+                ],
+                [
+                    994.0,
+                    194.0
+                ],
+                [
+                    72.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "JANUARY",
+            "confidence": 0.983,
+            "box": [
+                [
+                    650.0,
+                    648.0
+                ],
+                [
+                    729.0,
+                    637.0
+                ],
+                [
+                    733.0,
+                    665.0
+                ],
+                [
+                    654.0,
+                    676.0
+                ]
+            ]
+        },
+        {
+            "text": "1",
+            "confidence": 0.977,
+            "box": [
+                [
+                    665.0,
+                    673.0
+                ],
+                [
+                    718.0,
+                    659.0
+                ],
+                [
+                    740.0,
+                    736.0
+                ],
+                [
+                    686.0,
+                    750.0
+                ]
+            ]
+        },
+        {
+            "text": "ST",
+            "confidence": 0.955,
+            "box": [
+                [
+                    702.0,
+                    668.0
+                ],
+                [
+                    724.0,
+                    668.0
+                ],
+                [
+                    724.0,
+                    683.0
+                ],
+                [
+                    702.0,
+                    683.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATERS",
+            "confidence": 0.927,
+            "box": [
+                [
+                    668.0,
+                    753.0
+                ],
+                [
+                    748.0,
+                    740.0
+                ],
+                [
+                    752.0,
+                    767.0
+                ],
+                [
+                    672.0,
+                    779.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    886.0,
+                    1054.0
+                ],
+                [
+                    1053.0,
+                    1054.0
+                ],
+                [
+                    1053.0,
+                    1075.0
+                ],
+                [
+                    886.0,
+                    1075.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALU DEBUT MOVIE LONE CHALA",
+            "confidence": 0.938,
+            "box": [
+                [
+                    391.0,
+                    1194.0
+                ],
+                [
+                    1041.0,
+                    1194.0
+                ],
+                [
+                    1041.0,
+                    1228.0
+                ],
+                [
+                    391.0,
+                    1228.0
+                ]
+            ]
+        },
+        {
+            "text": "BEST ICHADU EKKADA KUDA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    449.0,
+                    1240.0
+                ],
+                [
+                    980.0,
+                    1240.0
+                ],
+                [
+                    980.0,
+                    1274.0
+                ],
+                [
+                    449.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "KOTHA HERO LAGANE LEDU",
+            "confidence": 0.942,
+            "box": [
+                [
+                    451.0,
+                    1285.0
+                ],
+                [
+                    977.0,
+                    1285.0
+                ],
+                [
+                    977.0,
+                    1323.0
+                ],
+                [
+                    451.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

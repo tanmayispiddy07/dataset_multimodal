@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-12-03_12-43-16_UTC.jpg",
+    "combined_text": "SAKKSHI MHADOLKAR MAKING\nHER DEBUT WITH MOWGLI\nADDICTEDTOMEMES\nHER CHARACTER\nLOOKS PROMISING\nOKATE MATRAM NIJAM CINEMA LO MEE\nCHARACTER BAGUNTE MA TELUGU AUDIENCE",
+    "detailed": [
+        {
+            "text": "SAKKSHI MHADOLKAR MAKING",
+            "confidence": 0.97,
+            "box": [
+                [
+                    80.0,
+                    59.0
+                ],
+                [
+                    1027.0,
+                    59.0
+                ],
+                [
+                    1027.0,
+                    109.0
+                ],
+                [
+                    80.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "HER DEBUT WITH MOWGLI",
+            "confidence": 0.974,
+            "box": [
+                [
+                    160.0,
+                    134.0
+                ],
+                [
+                    931.0,
+                    134.0
+                ],
+                [
+                    931.0,
+                    184.0
+                ],
+                [
+                    160.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    474.0,
+                    420.0
+                ],
+                [
+                    636.0,
+                    420.0
+                ],
+                [
+                    636.0,
+                    440.0
+                ],
+                [
+                    474.0,
+                    440.0
+                ]
+            ]
+        },
+        {
+            "text": "HER CHARACTER",
+            "confidence": 0.97,
+            "box": [
+                [
+                    370.0,
+                    535.0
+                ],
+                [
+                    733.0,
+                    535.0
+                ],
+                [
+                    733.0,
+                    573.0
+                ],
+                [
+                    370.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "LOOKS PROMISING",
+            "confidence": 0.97,
+            "box": [
+                [
+                    336.0,
+                    590.0
+                ],
+                [
+                    752.0,
+                    590.0
+                ],
+                [
+                    752.0,
+                    627.0
+                ],
+                [
+                    336.0,
+                    627.0
+                ]
+            ]
+        },
+        {
+            "text": "OKATE MATRAM NIJAM CINEMA LO MEE",
+            "confidence": 0.934,
+            "box": [
+                [
+                    153.0,
+                    1197.0
+                ],
+                [
+                    887.0,
+                    1197.0
+                ],
+                [
+                    887.0,
+                    1231.0
+                ],
+                [
+                    153.0,
+                    1231.0
+                ]
+            ]
+        },
+        {
+            "text": "CHARACTER BAGUNTE MA TELUGU AUDIENCE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    100.0,
+                    1245.0
+                ],
+                [
+                    938.0,
+                    1245.0
+                ],
+                [
+                    938.0,
+                    1274.0
+                ],
+                [
+                    100.0,
+                    1274.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-08-25_09-19-16_UTC.jpg",
+    "combined_text": "TITLE TEASER OF VISHAL NEXT FILM\n\"MAKUTAM'\nGV PRAKASH MUSICAL\nGV\nPRAKASR\nMUS.CAL\nHARUTAM\nPURATCHI THALAPATHY\nVISHAL\nADDICTEDTOMEMES\nINKA CHUSTHARU RA DIFFERENT GENRE\nTHONE ESARI VISHAL AADINCHE AATA",
+    "detailed": [
+        {
+            "text": "TITLE TEASER OF VISHAL NEXT FILM",
+            "confidence": 0.999,
+            "box": [
+                [
+                    100.0,
+                    46.0
+                ],
+                [
+                    997.0,
+                    53.0
+                ],
+                [
+                    997.0,
+                    113.0
+                ],
+                [
+                    100.0,
+                    106.0
+                ]
+            ]
+        },
+        {
+            "text": "\"MAKUTAM'",
+            "confidence": 0.905,
+            "box": [
+                [
+                    406.0,
+                    118.0
+                ],
+                [
+                    700.0,
+                    118.0
+                ],
+                [
+                    700.0,
+                    159.0
+                ],
+                [
+                    406.0,
+                    159.0
+                ]
+            ]
+        },
+        {
+            "text": "GV PRAKASH MUSICAL",
+            "confidence": 0.986,
+            "box": [
+                [
+                    269.0,
+                    176.0
+                ],
+                [
+                    844.0,
+                    178.0
+                ],
+                [
+                    844.0,
+                    224.0
+                ],
+                [
+                    269.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "GV",
+            "confidence": 0.97,
+            "box": [
+                [
+                    33.0,
+                    366.0
+                ],
+                [
+                    164.0,
+                    385.0
+                ],
+                [
+                    153.0,
+                    459.0
+                ],
+                [
+                    22.0,
+                    440.0
+                ]
+            ]
+        },
+        {
+            "text": "PRAKASR",
+            "confidence": 0.845,
+            "box": [
+                [
+                    178.0,
+                    409.0
+                ],
+                [
+                    313.0,
+                    456.0
+                ],
+                [
+                    293.0,
+                    511.0
+                ],
+                [
+                    158.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "text": "MUS.CAL",
+            "confidence": 0.93,
+            "box": [
+                [
+                    148.0,
+                    486.0
+                ],
+                [
+                    266.0,
+                    486.0
+                ],
+                [
+                    266.0,
+                    531.0
+                ],
+                [
+                    148.0,
+                    531.0
+                ]
+            ]
+        },
+        {
+            "text": "HARUTAM",
+            "confidence": 0.838,
+            "box": [
+                [
+                    24.0,
+                    714.0
+                ],
+                [
+                    494.0,
+                    714.0
+                ],
+                [
+                    494.0,
+                    867.0
+                ],
+                [
+                    24.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "PURATCHI THALAPATHY",
+            "confidence": 0.977,
+            "box": [
+                [
+                    702.0,
+                    726.0
+                ],
+                [
+                    1049.0,
+                    726.0
+                ],
+                [
+                    1049.0,
+                    755.0
+                ],
+                [
+                    702.0,
+                    755.0
+                ]
+            ]
+        },
+        {
+            "text": "VISHAL",
+            "confidence": 0.997,
+            "box": [
+                [
+                    709.0,
+                    769.0
+                ],
+                [
+                    1024.0,
+                    772.0
+                ],
+                [
+                    1023.0,
+                    850.0
+                ],
+                [
+                    708.0,
+                    847.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    15.0,
+                    1077.0
+                ],
+                [
+                    174.0,
+                    1077.0
+                ],
+                [
+                    174.0,
+                    1098.0
+                ],
+                [
+                    15.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "INKA CHUSTHARU RA DIFFERENT GENRE",
+            "confidence": 0.952,
+            "box": [
+                [
+                    86.0,
+                    1238.0
+                ],
+                [
+                    869.0,
+                    1238.0
+                ],
+                [
+                    869.0,
+                    1271.0
+                ],
+                [
+                    86.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "THONE ESARI VISHAL AADINCHE AATA",
+            "confidence": 0.962,
+            "box": [
+                [
+                    93.0,
+                    1284.0
+                ],
+                [
+                    854.0,
+                    1284.0
+                ],
+                [
+                    854.0,
+                    1321.0
+                ],
+                [
+                    93.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

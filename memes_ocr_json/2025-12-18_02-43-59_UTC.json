@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-12-18_02-43-59_UTC.jpg",
+    "combined_text": "DURANADHAR\nMOVIE REVIEW\nEXPLORE_WITH_KISHORE",
+    "detailed": [
+        {
+            "text": "DURANADHAR",
+            "confidence": 0.996,
+            "box": [
+                [
+                    95.0,
+                    146.0
+                ],
+                [
+                    446.0,
+                    148.0
+                ],
+                [
+                    446.0,
+                    185.0
+                ],
+                [
+                    95.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE REVIEW",
+            "confidence": 0.965,
+            "box": [
+                [
+                    90.0,
+                    192.0
+                ],
+                [
+                    466.0,
+                    192.0
+                ],
+                [
+                    466.0,
+                    231.0
+                ],
+                [
+                    90.0,
+                    231.0
+                ]
+            ]
+        },
+        {
+            "text": "EXPLORE_WITH_KISHORE",
+            "confidence": 0.963,
+            "box": [
+                [
+                    159.0,
+                    747.0
+                ],
+                [
+                    373.0,
+                    747.0
+                ],
+                [
+                    373.0,
+                    768.0
+                ],
+                [
+                    159.0,
+                    768.0
+                ]
+            ]
+        }
+    ]
+}

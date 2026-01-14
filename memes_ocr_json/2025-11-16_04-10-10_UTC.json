@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-16_04-10-10_UTC.jpg",
+    "combined_text": "SITUATION OF BABU FANS AFTER\nCOMING FROM EVENT LAST NIGHT\nADDICTEDTOMEMES\nAMMOMOTHAMBODY PAINS",
+    "detailed": [
+        {
+            "text": "SITUATION OF BABU FANS AFTER",
+            "confidence": 0.935,
+            "box": [
+                [
+                    124.0,
+                    78.0
+                ],
+                [
+                    1031.0,
+                    78.0
+                ],
+                [
+                    1031.0,
+                    124.0
+                ],
+                [
+                    124.0,
+                    124.0
+                ]
+            ]
+        },
+        {
+            "text": "COMING FROM EVENT LAST NIGHT",
+            "confidence": 0.951,
+            "box": [
+                [
+                    96.0,
+                    146.0
+                ],
+                [
+                    1059.0,
+                    146.0
+                ],
+                [
+                    1059.0,
+                    192.0
+                ],
+                [
+                    96.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    482.0,
+                    385.0
+                ],
+                [
+                    638.0,
+                    385.0
+                ],
+                [
+                    638.0,
+                    406.0
+                ],
+                [
+                    482.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "AMMOMOTHAMBODY PAINS",
+            "confidence": 0.895,
+            "box": [
+                [
+                    132.0,
+                    768.0
+                ],
+                [
+                    990.0,
+                    768.0
+                ],
+                [
+                    990.0,
+                    818.0
+                ],
+                [
+                    132.0,
+                    818.0
+                ]
+            ]
+        }
+    ]
+}

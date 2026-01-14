@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-04-11_16-56-18_UTC.jpg",
+    "combined_text": "CHEPAUK STADIUM AT THE\nEND OF IPL 2O25\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "CHEPAUK STADIUM AT THE",
+            "confidence": 0.984,
+            "box": [
+                [
+                    151.0,
+                    106.0
+                ],
+                [
+                    961.0,
+                    106.0
+                ],
+                [
+                    961.0,
+                    156.0
+                ],
+                [
+                    151.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "END OF IPL 2O25",
+            "confidence": 0.958,
+            "box": [
+                [
+                    297.0,
+                    181.0
+                ],
+                [
+                    811.0,
+                    181.0
+                ],
+                [
+                    811.0,
+                    239.0
+                ],
+                [
+                    297.0,
+                    239.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.987,
+            "box": [
+                [
+                    896.0,
+                    431.0
+                ],
+                [
+                    1026.0,
+                    428.0
+                ],
+                [
+                    1026.0,
+                    445.0
+                ],
+                [
+                    897.0,
+                    447.0
+                ]
+            ]
+        }
+    ]
+}

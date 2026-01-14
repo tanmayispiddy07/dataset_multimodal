@@ -1,0 +1,512 @@
+{
+    "image_name": "2025-12-15_14-48-23_UTC.jpg",
+    "combined_text": "Taraq(Tarak Ram)\nFollow\n@tarakviews\n#Exclusive:\nPan India technicians Ravi Basrur,\nUjwal Kulkarni, AcharyaVenu &\nSupreme Sundar teamed up for a PAN\nIndia film with a notable Telugu hero is the\npuzzle from yesterday on Social Media......\nThe story is set in the Pre Independence\nera with an interesting story line &\nIntriguing narration and has some\nconnection with Mahatma Gandhi also..\nThe lead makes his solid comeback\nrecently...One star Hero crucial role & one\nstar cameo in discussions.\nTeam has pretty much confidence in\nit.They have decided not to compromise on\nanything from casting to caning\nMore Official details soon\nADDICTED TOMEMES\nINTHAKIAH HERO EVARU\nAYIUNTARU ANTHA CASTING UNDI",
+    "detailed": [
+        {
+            "text": "Taraq(Tarak Ram)",
+            "confidence": 0.936,
+            "box": [
+                [
+                    347.0,
+                    17.0
+                ],
+                [
+                    596.0,
+                    17.0
+                ],
+                [
+                    596.0,
+                    50.0
+                ],
+                [
+                    347.0,
+                    50.0
+                ]
+            ]
+        },
+        {
+            "text": "Follow",
+            "confidence": 0.998,
+            "box": [
+                [
+                    716.0,
+                    28.0
+                ],
+                [
+                    797.0,
+                    28.0
+                ],
+                [
+                    797.0,
+                    59.0
+                ],
+                [
+                    716.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "@tarakviews",
+            "confidence": 0.965,
+            "box": [
+                [
+                    346.0,
+                    50.0
+                ],
+                [
+                    502.0,
+                    50.0
+                ],
+                [
+                    502.0,
+                    79.0
+                ],
+                [
+                    346.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "#Exclusive:",
+            "confidence": 0.991,
+            "box": [
+                [
+                    260.0,
+                    103.0
+                ],
+                [
+                    430.0,
+                    103.0
+                ],
+                [
+                    430.0,
+                    134.0
+                ],
+                [
+                    260.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "Pan India technicians Ravi Basrur,",
+            "confidence": 0.994,
+            "box": [
+                [
+                    257.0,
+                    142.0
+                ],
+                [
+                    740.0,
+                    144.0
+                ],
+                [
+                    740.0,
+                    177.0
+                ],
+                [
+                    257.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "Ujwal Kulkarni, AcharyaVenu &",
+            "confidence": 0.95,
+            "box": [
+                [
+                    260.0,
+                    183.0
+                ],
+                [
+                    706.0,
+                    183.0
+                ],
+                [
+                    706.0,
+                    216.0
+                ],
+                [
+                    260.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "Supreme Sundar teamed up for a PAN",
+            "confidence": 0.967,
+            "box": [
+                [
+                    257.0,
+                    224.0
+                ],
+                [
+                    800.0,
+                    223.0
+                ],
+                [
+                    800.0,
+                    258.0
+                ],
+                [
+                    257.0,
+                    259.0
+                ]
+            ]
+        },
+        {
+            "text": "India film with a notable Telugu hero is the",
+            "confidence": 0.971,
+            "box": [
+                [
+                    256.0,
+                    263.0
+                ],
+                [
+                    859.0,
+                    265.0
+                ],
+                [
+                    859.0,
+                    298.0
+                ],
+                [
+                    256.0,
+                    297.0
+                ]
+            ]
+        },
+        {
+            "text": "puzzle from yesterday on Social Media......",
+            "confidence": 0.987,
+            "box": [
+                [
+                    256.0,
+                    305.0
+                ],
+                [
+                    835.0,
+                    302.0
+                ],
+                [
+                    835.0,
+                    340.0
+                ],
+                [
+                    256.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "The story is set in the Pre Independence",
+            "confidence": 0.961,
+            "box": [
+                [
+                    257.0,
+                    386.0
+                ],
+                [
+                    827.0,
+                    386.0
+                ],
+                [
+                    827.0,
+                    420.0
+                ],
+                [
+                    257.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "era with an interesting story line &",
+            "confidence": 0.986,
+            "box": [
+                [
+                    255.0,
+                    425.0
+                ],
+                [
+                    742.0,
+                    425.0
+                ],
+                [
+                    742.0,
+                    463.0
+                ],
+                [
+                    255.0,
+                    463.0
+                ]
+            ]
+        },
+        {
+            "text": "Intriguing narration and has some",
+            "confidence": 0.979,
+            "box": [
+                [
+                    259.0,
+                    470.0
+                ],
+                [
+                    740.0,
+                    470.0
+                ],
+                [
+                    740.0,
+                    503.0
+                ],
+                [
+                    259.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "connection with Mahatma Gandhi also..",
+            "confidence": 0.967,
+            "box": [
+                [
+                    256.0,
+                    507.0
+                ],
+                [
+                    830.0,
+                    507.0
+                ],
+                [
+                    830.0,
+                    541.0
+                ],
+                [
+                    256.0,
+                    541.0
+                ]
+            ]
+        },
+        {
+            "text": "The lead makes his solid comeback",
+            "confidence": 0.968,
+            "box": [
+                [
+                    260.0,
+                    591.0
+                ],
+                [
+                    764.0,
+                    591.0
+                ],
+                [
+                    764.0,
+                    620.0
+                ],
+                [
+                    260.0,
+                    620.0
+                ]
+            ]
+        },
+        {
+            "text": "recently...One star Hero crucial role & one",
+            "confidence": 0.953,
+            "box": [
+                [
+                    257.0,
+                    631.0
+                ],
+                [
+                    845.0,
+                    631.0
+                ],
+                [
+                    845.0,
+                    665.0
+                ],
+                [
+                    257.0,
+                    665.0
+                ]
+            ]
+        },
+        {
+            "text": "star cameo in discussions.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    257.0,
+                    672.0
+                ],
+                [
+                    637.0,
+                    672.0
+                ],
+                [
+                    637.0,
+                    705.0
+                ],
+                [
+                    257.0,
+                    705.0
+                ]
+            ]
+        },
+        {
+            "text": "Team has pretty much confidence in",
+            "confidence": 0.977,
+            "box": [
+                [
+                    259.0,
+                    753.0
+                ],
+                [
+                    776.0,
+                    753.0
+                ],
+                [
+                    776.0,
+                    786.0
+                ],
+                [
+                    259.0,
+                    786.0
+                ]
+            ]
+        },
+        {
+            "text": "it.They have decided not to compromise on",
+            "confidence": 0.978,
+            "box": [
+                [
+                    257.0,
+                    793.0
+                ],
+                [
+                    873.0,
+                    793.0
+                ],
+                [
+                    873.0,
+                    826.0
+                ],
+                [
+                    257.0,
+                    826.0
+                ]
+            ]
+        },
+        {
+            "text": "anything from casting to caning",
+            "confidence": 0.972,
+            "box": [
+                [
+                    257.0,
+                    833.0
+                ],
+                [
+                    710.0,
+                    833.0
+                ],
+                [
+                    710.0,
+                    871.0
+                ],
+                [
+                    257.0,
+                    871.0
+                ]
+            ]
+        },
+        {
+            "text": "More Official details soon",
+            "confidence": 0.971,
+            "box": [
+                [
+                    256.0,
+                    913.0
+                ],
+                [
+                    626.0,
+                    914.0
+                ],
+                [
+                    626.0,
+                    949.0
+                ],
+                [
+                    256.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTED TOMEMES",
+            "confidence": 0.926,
+            "box": [
+                [
+                    889.0,
+                    980.0
+                ],
+                [
+                    1022.0,
+                    980.0
+                ],
+                [
+                    1022.0,
+                    1001.0
+                ],
+                [
+                    889.0,
+                    1001.0
+                ]
+            ]
+        },
+        {
+            "text": "INTHAKIAH HERO EVARU",
+            "confidence": 0.942,
+            "box": [
+                [
+                    287.0,
+                    1213.0
+                ],
+                [
+                    911.0,
+                    1213.0
+                ],
+                [
+                    911.0,
+                    1259.0
+                ],
+                [
+                    287.0,
+                    1259.0
+                ]
+            ]
+        },
+        {
+            "text": "AYIUNTARU ANTHA CASTING UNDI",
+            "confidence": 0.948,
+            "box": [
+                [
+                    173.0,
+                    1274.0
+                ],
+                [
+                    1017.0,
+                    1274.0
+                ],
+                [
+                    1017.0,
+                    1320.0
+                ],
+                [
+                    173.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

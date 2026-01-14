@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-06-14_05-10-21_UTC.jpg",
+    "combined_text": "PETITION TOGOD TO WRITE A\nSCENE LIKE THIS IN LIFE\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "PETITION TOGOD TO WRITE A",
+            "confidence": 0.94,
+            "box": [
+                [
+                    197.0,
+                    14.0
+                ],
+                [
+                    914.0,
+                    14.0
+                ],
+                [
+                    914.0,
+                    56.0
+                ],
+                [
+                    197.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "SCENE LIKE THIS IN LIFE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    274.0,
+                    75.0
+                ],
+                [
+                    835.0,
+                    75.0
+                ],
+                [
+                    835.0,
+                    117.0
+                ],
+                [
+                    274.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    932.0,
+                    255.0
+                ],
+                [
+                    1079.0,
+                    255.0
+                ],
+                [
+                    1079.0,
+                    276.0
+                ],
+                [
+                    932.0,
+                    276.0
+                ]
+            ]
+        }
+    ]
+}

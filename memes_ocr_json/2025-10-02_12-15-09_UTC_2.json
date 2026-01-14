@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-02_12-15-09_UTC_2.jpg",
+    "combined_text": "sarcasm\nThe move aims\nto boost business & give\nconsumers more flexibility.",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.992,
+            "box": [
+                [
+                    485.0,
+                    1086.0
+                ],
+                [
+                    595.0,
+                    1086.0
+                ],
+                [
+                    595.0,
+                    1106.0
+                ],
+                [
+                    485.0,
+                    1106.0
+                ]
+            ]
+        },
+        {
+            "text": "The move aims",
+            "confidence": 1.0,
+            "box": [
+                [
+                    252.0,
+                    1128.0
+                ],
+                [
+                    827.0,
+                    1131.0
+                ],
+                [
+                    827.0,
+                    1197.0
+                ],
+                [
+                    251.0,
+                    1194.0
+                ]
+            ]
+        },
+        {
+            "text": "to boost business & give",
+            "confidence": 0.987,
+            "box": [
+                [
+                    72.0,
+                    1221.0
+                ],
+                [
+                    1007.0,
+                    1227.0
+                ],
+                [
+                    1006.0,
+                    1308.0
+                ],
+                [
+                    72.0,
+                    1302.0
+                ]
+            ]
+        },
+        {
+            "text": "consumers more flexibility.",
+            "confidence": 0.986,
+            "box": [
+                [
+                    28.0,
+                    1317.0
+                ],
+                [
+                    1050.0,
+                    1326.0
+                ],
+                [
+                    1049.0,
+                    1410.0
+                ],
+                [
+                    27.0,
+                    1401.0
+                ]
+            ]
+        }
+    ]
+}

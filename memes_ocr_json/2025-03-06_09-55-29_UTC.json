@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-06_09-55-29_UTC.jpg",
+    "combined_text": "ME AND MY BOYS GIVING DUBBING AND\nRECREATING THIS SCENES IN THEATER\nven\n20\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "ME AND MY BOYS GIVING DUBBING AND",
+            "confidence": 0.925,
+            "box": [
+                [
+                    64.0,
+                    68.0
+                ],
+                [
+                    1050.0,
+                    68.0
+                ],
+                [
+                    1050.0,
+                    112.0
+                ],
+                [
+                    64.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "RECREATING THIS SCENES IN THEATER",
+            "confidence": 0.957,
+            "box": [
+                [
+                    96.0,
+                    126.0
+                ],
+                [
+                    1018.0,
+                    126.0
+                ],
+                [
+                    1018.0,
+                    173.0
+                ],
+                [
+                    96.0,
+                    173.0
+                ]
+            ]
+        },
+        {
+            "text": "ven",
+            "confidence": 0.593,
+            "box": [
+                [
+                    937.0,
+                    415.0
+                ],
+                [
+                    993.0,
+                    415.0
+                ],
+                [
+                    993.0,
+                    441.0
+                ],
+                [
+                    937.0,
+                    441.0
+                ]
+            ]
+        },
+        {
+            "text": "20",
+            "confidence": 0.995,
+            "box": [
+                [
+                    981.0,
+                    458.0
+                ],
+                [
+                    1005.0,
+                    458.0
+                ],
+                [
+                    1005.0,
+                    476.0
+                ],
+                [
+                    981.0,
+                    476.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    496.0,
+                    574.0
+                ],
+                [
+                    645.0,
+                    574.0
+                ],
+                [
+                    645.0,
+                    593.0
+                ],
+                [
+                    496.0,
+                    593.0
+                ]
+            ]
+        }
+    ]
+}

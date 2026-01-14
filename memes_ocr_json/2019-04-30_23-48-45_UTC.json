@@ -1,0 +1,28 @@
+{
+    "image_name": "2019-04-30_23-48-45_UTC.jpg",
+    "combined_text": "Some people's job in life",
+    "detailed": [
+        {
+            "text": "Some people's job in life",
+            "confidence": 0.961,
+            "box": [
+                [
+                    3.0,
+                    4.0
+                ],
+                [
+                    468.0,
+                    4.0
+                ],
+                [
+                    468.0,
+                    47.0
+                ],
+                [
+                    3.0,
+                    47.0
+                ]
+            ]
+        }
+    ]
+}

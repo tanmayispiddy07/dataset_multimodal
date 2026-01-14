@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-03-22_17-01-42_UTC.jpg",
+    "combined_text": "SALT AND KOHLI\nADDICTEDTOMEMES\nEahiCAsy",
+    "detailed": [
+        {
+            "text": "SALT AND KOHLI",
+            "confidence": 0.965,
+            "box": [
+                [
+                    88.0,
+                    117.0
+                ],
+                [
+                    828.0,
+                    114.0
+                ],
+                [
+                    828.0,
+                    199.0
+                ],
+                [
+                    89.0,
+                    202.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    495.0,
+                    792.0
+                ],
+                [
+                    699.0,
+                    792.0
+                ],
+                [
+                    699.0,
+                    817.0
+                ],
+                [
+                    495.0,
+                    817.0
+                ]
+            ]
+        },
+        {
+            "text": "EahiCAsy",
+            "confidence": 0.604,
+            "box": [
+                [
+                    829.0,
+                    784.0
+                ],
+                [
+                    882.0,
+                    788.0
+                ],
+                [
+                    881.0,
+                    810.0
+                ],
+                [
+                    828.0,
+                    806.0
+                ]
+            ]
+        }
+    ]
+}

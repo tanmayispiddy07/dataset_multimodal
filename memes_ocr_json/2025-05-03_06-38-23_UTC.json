@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-05-03_06-38-23_UTC.jpg",
+    "combined_text": "Merlin brando\n@SagarVidhy96067\nChala kalam nundi ma daddy ki second\nfamily undhemo ani maku doubt\nma\ndaddy poyake telsindhi meme second\nfamily ani",
+    "detailed": [
+        {
+            "text": "Merlin brando",
+            "confidence": 0.978,
+            "box": [
+                [
+                    217.0,
+                    26.0
+                ],
+                [
+                    497.0,
+                    26.0
+                ],
+                [
+                    497.0,
+                    64.0
+                ],
+                [
+                    217.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "@SagarVidhy96067",
+            "confidence": 0.997,
+            "box": [
+                [
+                    218.0,
+                    76.0
+                ],
+                [
+                    597.0,
+                    76.0
+                ],
+                [
+                    597.0,
+                    118.0
+                ],
+                [
+                    218.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "Chala kalam nundi ma daddy ki second",
+            "confidence": 0.972,
+            "box": [
+                [
+                    73.0,
+                    162.0
+                ],
+                [
+                    969.0,
+                    162.0
+                ],
+                [
+                    969.0,
+                    212.0
+                ],
+                [
+                    73.0,
+                    212.0
+                ]
+            ]
+        },
+        {
+            "text": "family undhemo ani maku doubt",
+            "confidence": 0.998,
+            "box": [
+                [
+                    70.0,
+                    228.0
+                ],
+                [
+                    816.0,
+                    226.0
+                ],
+                [
+                    816.0,
+                    276.0
+                ],
+                [
+                    70.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "ma",
+            "confidence": 0.99,
+            "box": [
+                [
+                    890.0,
+                    232.0
+                ],
+                [
+                    974.0,
+                    235.0
+                ],
+                [
+                    972.0,
+                    280.0
+                ],
+                [
+                    888.0,
+                    277.0
+                ]
+            ]
+        },
+        {
+            "text": "daddy poyake telsindhi meme second",
+            "confidence": 1.0,
+            "box": [
+                [
+                    70.0,
+                    289.0
+                ],
+                [
+                    947.0,
+                    289.0
+                ],
+                [
+                    947.0,
+                    350.0
+                ],
+                [
+                    70.0,
+                    350.0
+                ]
+            ]
+        },
+        {
+            "text": "family ani",
+            "confidence": 0.995,
+            "box": [
+                [
+                    69.0,
+                    356.0
+                ],
+                [
+                    298.0,
+                    356.0
+                ],
+                [
+                    298.0,
+                    409.0
+                ],
+                [
+                    69.0,
+                    409.0
+                ]
+            ]
+        }
+    ]
+}

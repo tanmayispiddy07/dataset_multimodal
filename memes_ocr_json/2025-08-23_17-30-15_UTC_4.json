@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-23_17-30-15_UTC_4.jpg",
+    "combined_text": "You said \"Victim\"\nI heard this",
+    "detailed": [
+        {
+            "text": "You said \"Victim\"",
+            "confidence": 0.978,
+            "box": [
+                [
+                    305.0,
+                    56.0
+                ],
+                [
+                    772.0,
+                    56.0
+                ],
+                [
+                    772.0,
+                    106.0
+                ],
+                [
+                    305.0,
+                    106.0
+                ]
+            ]
+        },
+        {
+            "text": "I heard this",
+            "confidence": 0.946,
+            "box": [
+                [
+                    335.0,
+                    148.0
+                ],
+                [
+                    645.0,
+                    148.0
+                ],
+                [
+                    645.0,
+                    201.0
+                ],
+                [
+                    335.0,
+                    201.0
+                ]
+            ]
+        }
+    ]
+}

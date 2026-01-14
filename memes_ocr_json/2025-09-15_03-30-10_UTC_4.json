@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-15_03-30-10_UTC_4.jpg",
+    "combined_text": "CIVIL\nADDICTEDTOMEMES\nNENUCHEPPALE\nCIVILTESUKONIMOSTLY\nSOFTWARE SIDE EHVASTHARU ANI",
+    "detailed": [
+        {
+            "text": "CIVIL",
+            "confidence": 0.994,
+            "box": [
+                [
+                    404.0,
+                    89.0
+                ],
+                [
+                    725.0,
+                    92.0
+                ],
+                [
+                    723.0,
+                    202.0
+                ],
+                [
+                    403.0,
+                    199.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    900.0,
+                    312.0
+                ],
+                [
+                    1058.0,
+                    312.0
+                ],
+                [
+                    1058.0,
+                    337.0
+                ],
+                [
+                    900.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "text": "NENUCHEPPALE",
+            "confidence": 0.996,
+            "box": [
+                [
+                    238.0,
+                    750.0
+                ],
+                [
+                    893.0,
+                    747.0
+                ],
+                [
+                    893.0,
+                    819.0
+                ],
+                [
+                    238.0,
+                    822.0
+                ]
+            ]
+        },
+        {
+            "text": "CIVILTESUKONIMOSTLY",
+            "confidence": 0.993,
+            "box": [
+                [
+                    246.0,
+                    1208.0
+                ],
+                [
+                    877.0,
+                    1208.0
+                ],
+                [
+                    877.0,
+                    1259.0
+                ],
+                [
+                    246.0,
+                    1259.0
+                ]
+            ]
+        },
+        {
+            "text": "SOFTWARE SIDE EHVASTHARU ANI",
+            "confidence": 0.961,
+            "box": [
+                [
+                    117.0,
+                    1270.0
+                ],
+                [
+                    1010.0,
+                    1270.0
+                ],
+                [
+                    1010.0,
+                    1324.0
+                ],
+                [
+                    117.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

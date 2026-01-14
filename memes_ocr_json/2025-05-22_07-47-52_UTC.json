@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-22_07-47-52_UTC.jpg",
+    "combined_text": "MAN MADEA GIRLFRIENDON INSTAGRAM AND WENT\nTO MEET HER,ONLY TO DISCOVER IT WAS HIS OWN\nWIFE. SHE HAD SET A TRAP USING A FAKE ID BECAUSE\nSHE WAS SUSPICIOUS OF HIS SECRETIVE PHONE HABITS.\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "MAN MADEA GIRLFRIENDON INSTAGRAM AND WENT",
+            "confidence": 0.951,
+            "box": [
+                [
+                    42.0,
+                    33.0
+                ],
+                [
+                    1053.0,
+                    33.0
+                ],
+                [
+                    1053.0,
+                    67.0
+                ],
+                [
+                    42.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "TO MEET HER,ONLY TO DISCOVER IT WAS HIS OWN",
+            "confidence": 0.914,
+            "box": [
+                [
+                    72.0,
+                    79.0
+                ],
+                [
+                    1025.0,
+                    79.0
+                ],
+                [
+                    1025.0,
+                    113.0
+                ],
+                [
+                    72.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "WIFE. SHE HAD SET A TRAP USING A FAKE ID BECAUSE",
+            "confidence": 0.946,
+            "box": [
+                [
+                    42.0,
+                    123.0
+                ],
+                [
+                    1055.0,
+                    124.0
+                ],
+                [
+                    1055.0,
+                    159.0
+                ],
+                [
+                    42.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "SHE WAS SUSPICIOUS OF HIS SECRETIVE PHONE HABITS.",
+            "confidence": 0.946,
+            "box": [
+                [
+                    22.0,
+                    171.0
+                ],
+                [
+                    1072.0,
+                    171.0
+                ],
+                [
+                    1072.0,
+                    205.0
+                ],
+                [
+                    22.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    899.0,
+                    403.0
+                ],
+                [
+                    1058.0,
+                    403.0
+                ],
+                [
+                    1058.0,
+                    424.0
+                ],
+                [
+                    899.0,
+                    424.0
+                ]
+            ]
+        }
+    ]
+}

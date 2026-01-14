@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-05-05_12-00-45_UTC_1.jpg",
+    "combined_text": "Game-Changer for Indian Logistics.\nKerala's Vizhinjam Seaport, built by Adani\nGroup at a cost of 8,867 crore, opens as\nPM Modi inaugurates the facility..",
+    "detailed": [
+        {
+            "text": "Game-Changer for Indian Logistics.",
+            "confidence": 0.973,
+            "box": [
+                [
+                    66.0,
+                    1007.0
+                ],
+                [
+                    977.0,
+                    1007.0
+                ],
+                [
+                    977.0,
+                    1056.0
+                ],
+                [
+                    66.0,
+                    1056.0
+                ]
+            ]
+        },
+        {
+            "text": "Kerala's Vizhinjam Seaport, built by Adani",
+            "confidence": 0.998,
+            "box": [
+                [
+                    83.0,
+                    1104.0
+                ],
+                [
+                    998.0,
+                    1104.0
+                ],
+                [
+                    998.0,
+                    1148.0
+                ],
+                [
+                    83.0,
+                    1148.0
+                ]
+            ]
+        },
+        {
+            "text": "Group at a cost of 8,867 crore, opens as",
+            "confidence": 0.994,
+            "box": [
+                [
+                    93.0,
+                    1162.0
+                ],
+                [
+                    989.0,
+                    1163.0
+                ],
+                [
+                    989.0,
+                    1208.0
+                ],
+                [
+                    93.0,
+                    1207.0
+                ]
+            ]
+        },
+        {
+            "text": "PM Modi inaugurates the facility..",
+            "confidence": 0.977,
+            "box": [
+                [
+                    175.0,
+                    1219.0
+                ],
+                [
+                    899.0,
+                    1222.0
+                ],
+                [
+                    898.0,
+                    1270.0
+                ],
+                [
+                    174.0,
+                    1267.0
+                ]
+            ]
+        }
+    ]
+}

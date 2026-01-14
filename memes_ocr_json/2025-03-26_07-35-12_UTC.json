@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-26_07-35-12_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF 28C\nMOVIE RELEASING ON APRIL 4TH\nADDICTEDTOMEMES\nNAKU ILANTI DIFFERENT SUBJECTS UNNA\nMOVIES ANTE CHALA ISTAM RA\nNAVEEN CHANDRA SCRIPT SELECTION KUDA BAGUNTADI",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF 28C",
+            "confidence": 0.998,
+            "box": [
+                [
+                    154.0,
+                    46.0
+                ],
+                [
+                    941.0,
+                    46.0
+                ],
+                [
+                    941.0,
+                    91.0
+                ],
+                [
+                    154.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON APRIL 4TH",
+            "confidence": 0.954,
+            "box": [
+                [
+                    120.0,
+                    111.0
+                ],
+                [
+                    979.0,
+                    111.0
+                ],
+                [
+                    979.0,
+                    155.0
+                ],
+                [
+                    120.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    16.0,
+                    1013.0
+                ],
+                [
+                    159.0,
+                    1012.0
+                ],
+                [
+                    159.0,
+                    1034.0
+                ],
+                [
+                    16.0,
+                    1035.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU ILANTI DIFFERENT SUBJECTS UNNA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    167.0,
+                    1158.0
+                ],
+                [
+                    882.0,
+                    1158.0
+                ],
+                [
+                    882.0,
+                    1190.0
+                ],
+                [
+                    167.0,
+                    1190.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIES ANTE CHALA ISTAM RA",
+            "confidence": 0.946,
+            "box": [
+                [
+                    252.0,
+                    1202.0
+                ],
+                [
+                    809.0,
+                    1202.0
+                ],
+                [
+                    809.0,
+                    1235.0
+                ],
+                [
+                    252.0,
+                    1235.0
+                ]
+            ]
+        },
+        {
+            "text": "NAVEEN CHANDRA SCRIPT SELECTION KUDA BAGUNTADI",
+            "confidence": 0.958,
+            "box": [
+                [
+                    24.0,
+                    1244.0
+                ],
+                [
+                    1015.0,
+                    1244.0
+                ],
+                [
+                    1015.0,
+                    1277.0
+                ],
+                [
+                    24.0,
+                    1277.0
+                ]
+            ]
+        }
+    ]
+}

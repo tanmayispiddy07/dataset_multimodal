@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-18_15-45-03_UTC.jpg",
+    "combined_text": "KLASSY CENTURY FROM KL\n12 FOURS 4 SIXES\n4\nADDICTEDTOMEMES\nNVU AADUTHE HERO LAA UNTAV",
+    "detailed": [
+        {
+            "text": "KLASSY CENTURY FROM KL",
+            "confidence": 0.936,
+            "box": [
+                [
+                    210.0,
+                    26.0
+                ],
+                [
+                    934.0,
+                    26.0
+                ],
+                [
+                    934.0,
+                    72.0
+                ],
+                [
+                    210.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "12 FOURS 4 SIXES",
+            "confidence": 0.962,
+            "box": [
+                [
+                    343.0,
+                    89.0
+                ],
+                [
+                    814.0,
+                    92.0
+                ],
+                [
+                    814.0,
+                    138.0
+                ],
+                [
+                    343.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "4",
+            "confidence": 0.822,
+            "box": [
+                [
+                    543.0,
+                    727.0
+                ],
+                [
+                    902.0,
+                    718.0
+                ],
+                [
+                    906.0,
+                    876.0
+                ],
+                [
+                    547.0,
+                    885.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    36.0,
+                    1061.0
+                ],
+                [
+                    211.0,
+                    1058.0
+                ],
+                [
+                    211.0,
+                    1083.0
+                ],
+                [
+                    37.0,
+                    1086.0
+                ]
+            ]
+        },
+        {
+            "text": "NVU AADUTHE HERO LAA UNTAV",
+            "confidence": 0.944,
+            "box": [
+                [
+                    124.0,
+                    1275.0
+                ],
+                [
+                    915.0,
+                    1275.0
+                ],
+                [
+                    915.0,
+                    1321.0
+                ],
+                [
+                    124.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

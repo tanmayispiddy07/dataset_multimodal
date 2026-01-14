@@ -1,0 +1,468 @@
+{
+    "image_name": "2026-01-05_07-28-34_UTC.jpg",
+    "combined_text": "NEVER EXPECTED THIS COMBO\nCRAZY KALYANAM\nBOOSAM JAGAN MOHAN REDDY\nA\nDr.NARESH VIJAYAKRISHNA\nANUPAMA PARAMESWARAN\nTHARUN BHASCKER\nAKHIL RAJ UDDEMARI\nCrazy\nWritten &Directed By\nBadrappa Gajula\nBoosam Jagan Mohan Reddy\ny Srinivasa Ravindra MSR Suresh Bobbil ooShyam Dupat\nShravan Katikaneni GoratiVenkanna.Chaitanya PrasadKasara Shyam\nCo Drect H.Srinivasa Dora Chogaphe Eshwar Penti sn Dragon Prakash\nErcive Prodece Akhil Sal Srimurthy\nStipal Macharla An Dsector Sai Kadhira\nCestme Deigne J.Gayathri DeviPcty Desim Anil & Bhanu\nSHOOTING IN PROGRESS\nADDICTEDTOMEMES\nIDHIASALUEXPECTCHEYALEDHU",
+    "detailed": [
+        {
+            "text": "NEVER EXPECTED THIS COMBO",
+            "confidence": 0.963,
+            "box": [
+                [
+                    125.0,
+                    38.0
+                ],
+                [
+                    1020.0,
+                    38.0
+                ],
+                [
+                    1020.0,
+                    88.0
+                ],
+                [
+                    125.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "CRAZY KALYANAM",
+            "confidence": 0.964,
+            "box": [
+                [
+                    304.0,
+                    107.0
+                ],
+                [
+                    841.0,
+                    110.0
+                ],
+                [
+                    841.0,
+                    162.0
+                ],
+                [
+                    304.0,
+                    159.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOSAM JAGAN MOHAN REDDY",
+            "confidence": 0.965,
+            "box": [
+                [
+                    127.0,
+                    248.0
+                ],
+                [
+                    370.0,
+                    248.0
+                ],
+                [
+                    370.0,
+                    269.0
+                ],
+                [
+                    127.0,
+                    269.0
+                ]
+            ]
+        },
+        {
+            "text": "A",
+            "confidence": 0.621,
+            "box": [
+                [
+                    0.0,
+                    259.0
+                ],
+                [
+                    28.0,
+                    259.0
+                ],
+                [
+                    28.0,
+                    294.0
+                ],
+                [
+                    0.0,
+                    294.0
+                ]
+            ]
+        },
+        {
+            "text": "Dr.NARESH VIJAYAKRISHNA",
+            "confidence": 0.98,
+            "box": [
+                [
+                    112.0,
+                    328.0
+                ],
+                [
+                    385.0,
+                    328.0
+                ],
+                [
+                    385.0,
+                    344.0
+                ],
+                [
+                    112.0,
+                    344.0
+                ]
+            ]
+        },
+        {
+            "text": "ANUPAMA PARAMESWARAN",
+            "confidence": 0.978,
+            "box": [
+                [
+                    114.0,
+                    353.0
+                ],
+                [
+                    385.0,
+                    353.0
+                ],
+                [
+                    385.0,
+                    374.0
+                ],
+                [
+                    114.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "THARUN BHASCKER",
+            "confidence": 0.985,
+            "box": [
+                [
+                    150.0,
+                    380.0
+                ],
+                [
+                    347.0,
+                    380.0
+                ],
+                [
+                    347.0,
+                    401.0
+                ],
+                [
+                    150.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "AKHIL RAJ UDDEMARI",
+            "confidence": 0.94,
+            "box": [
+                [
+                    139.0,
+                    408.0
+                ],
+                [
+                    360.0,
+                    408.0
+                ],
+                [
+                    360.0,
+                    429.0
+                ],
+                [
+                    139.0,
+                    429.0
+                ]
+            ]
+        },
+        {
+            "text": "Crazy",
+            "confidence": 0.916,
+            "box": [
+                [
+                    133.0,
+                    533.0
+                ],
+                [
+                    367.0,
+                    518.0
+                ],
+                [
+                    373.0,
+                    613.0
+                ],
+                [
+                    139.0,
+                    628.0
+                ]
+            ]
+        },
+        {
+            "text": "Written &Directed By",
+            "confidence": 0.885,
+            "box": [
+                [
+                    98.0,
+                    857.0
+                ],
+                [
+                    194.0,
+                    857.0
+                ],
+                [
+                    194.0,
+                    874.0
+                ],
+                [
+                    98.0,
+                    874.0
+                ]
+            ]
+        },
+        {
+            "text": "Badrappa Gajula",
+            "confidence": 0.972,
+            "box": [
+                [
+                    93.0,
+                    868.0
+                ],
+                [
+                    202.0,
+                    868.0
+                ],
+                [
+                    202.0,
+                    889.0
+                ],
+                [
+                    93.0,
+                    889.0
+                ]
+            ]
+        },
+        {
+            "text": "Boosam Jagan Mohan Reddy",
+            "confidence": 0.972,
+            "box": [
+                [
+                    228.0,
+                    868.0
+                ],
+                [
+                    413.0,
+                    868.0
+                ],
+                [
+                    413.0,
+                    889.0
+                ],
+                [
+                    228.0,
+                    889.0
+                ]
+            ]
+        },
+        {
+            "text": "y Srinivasa Ravindra MSR Suresh Bobbil ooShyam Dupat",
+            "confidence": 0.859,
+            "box": [
+                [
+                    94.0,
+                    888.0
+                ],
+                [
+                    435.0,
+                    888.0
+                ],
+                [
+                    435.0,
+                    909.0
+                ],
+                [
+                    94.0,
+                    909.0
+                ]
+            ]
+        },
+        {
+            "text": "Shravan Katikaneni GoratiVenkanna.Chaitanya PrasadKasara Shyam",
+            "confidence": 0.854,
+            "box": [
+                [
+                    52.0,
+                    899.0
+                ],
+                [
+                    444.0,
+                    900.0
+                ],
+                [
+                    444.0,
+                    919.0
+                ],
+                [
+                    52.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "Co Drect H.Srinivasa Dora Chogaphe Eshwar Penti sn Dragon Prakash",
+            "confidence": 0.856,
+            "box": [
+                [
+                    65.0,
+                    913.0
+                ],
+                [
+                    437.0,
+                    913.0
+                ],
+                [
+                    437.0,
+                    930.0
+                ],
+                [
+                    65.0,
+                    930.0
+                ]
+            ]
+        },
+        {
+            "text": "Ercive Prodece Akhil Sal Srimurthy",
+            "confidence": 0.789,
+            "box": [
+                [
+                    34.0,
+                    924.0
+                ],
+                [
+                    204.0,
+                    923.0
+                ],
+                [
+                    204.0,
+                    939.0
+                ],
+                [
+                    34.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "Stipal Macharla An Dsector Sai Kadhira",
+            "confidence": 0.841,
+            "box": [
+                [
+                    266.0,
+                    924.0
+                ],
+                [
+                    467.0,
+                    924.0
+                ],
+                [
+                    467.0,
+                    941.0
+                ],
+                [
+                    266.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "Cestme Deigne J.Gayathri DeviPcty Desim Anil & Bhanu",
+            "confidence": 0.776,
+            "box": [
+                [
+                    110.0,
+                    935.0
+                ],
+                [
+                    390.0,
+                    935.0
+                ],
+                [
+                    390.0,
+                    952.0
+                ],
+                [
+                    110.0,
+                    952.0
+                ]
+            ]
+        },
+        {
+            "text": "SHOOTING IN PROGRESS",
+            "confidence": 0.98,
+            "box": [
+                [
+                    112.0,
+                    959.0
+                ],
+                [
+                    385.0,
+                    959.0
+                ],
+                [
+                    385.0,
+                    980.0
+                ],
+                [
+                    112.0,
+                    980.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    35.0,
+                    1107.0
+                ],
+                [
+                    163.0,
+                    1107.0
+                ],
+                [
+                    163.0,
+                    1123.0
+                ],
+                [
+                    35.0,
+                    1123.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHIASALUEXPECTCHEYALEDHU",
+            "confidence": 0.977,
+            "box": [
+                [
+                    79.0,
+                    1275.0
+                ],
+                [
+                    1007.0,
+                    1275.0
+                ],
+                [
+                    1007.0,
+                    1325.0
+                ],
+                [
+                    79.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

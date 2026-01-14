@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-05-08_08-32-19_UTC.jpg",
+    "combined_text": "He came a long long way\nDiljit X Shakira\nsarcasm",
+    "detailed": [
+        {
+            "text": "He came a long long way",
+            "confidence": 0.982,
+            "box": [
+                [
+                    124.0,
+                    592.0
+                ],
+                [
+                    952.0,
+                    592.0
+                ],
+                [
+                    952.0,
+                    658.0
+                ],
+                [
+                    124.0,
+                    658.0
+                ]
+            ]
+        },
+        {
+            "text": "Diljit X Shakira",
+            "confidence": 0.948,
+            "box": [
+                [
+                    284.0,
+                    678.0
+                ],
+                [
+                    733.0,
+                    678.0
+                ],
+                [
+                    733.0,
+                    735.0
+                ],
+                [
+                    284.0,
+                    735.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    488.0,
+                    1257.0
+                ],
+                [
+                    593.0,
+                    1257.0
+                ],
+                [
+                    593.0,
+                    1275.0
+                ],
+                [
+                    488.0,
+                    1275.0
+                ]
+            ]
+        }
+    ]
+}

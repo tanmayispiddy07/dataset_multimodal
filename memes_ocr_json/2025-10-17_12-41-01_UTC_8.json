@@ -1,0 +1,644 @@
+{
+    "image_name": "2025-10-17_12-41-01_UTC_8.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nDecided To Provided food for 100 Needy\nPeople On #MaheshBabu\nBirthday\nand Will Donate Some Amount to MB\nFoundation and Promised Myself To Help\nfor One Poor Girl From our Village with He\nSchool Fees\nIn foot steps of #MaheshBabu\nThanks for Always Inspiring Me\nMAHESH BABU\nOUNDAT\nI0\nN\nIN ASSOCIATION WITH\nAndhra Hospitals\nPure Littie Heerts\nFoundatian\nMahesh Babu....\n4:19pm\ntome\n5000.00\nMB\nMahesh Babu Foundation\nPayment Successful!\nPayment ID:pay_Oin\n5,000.00\nA confirmation email has been sent to you",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.959,
+            "box": [
+                [
+                    226.0,
+                    15.0
+                ],
+                [
+                    634.0,
+                    15.0
+                ],
+                [
+                    634.0,
+                    53.0
+                ],
+                [
+                    226.0,
+                    53.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.987,
+            "box": [
+                [
+                    225.0,
+                    64.0
+                ],
+                [
+                    627.0,
+                    67.0
+                ],
+                [
+                    627.0,
+                    106.0
+                ],
+                [
+                    225.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "Decided To Provided food for 100 Needy",
+            "confidence": 0.984,
+            "box": [
+                [
+                    72.0,
+                    152.0
+                ],
+                [
+                    1046.0,
+                    156.0
+                ],
+                [
+                    1046.0,
+                    208.0
+                ],
+                [
+                    72.0,
+                    204.0
+                ]
+            ]
+        },
+        {
+            "text": "People On #MaheshBabu",
+            "confidence": 0.977,
+            "box": [
+                [
+                    70.0,
+                    244.0
+                ],
+                [
+                    707.0,
+                    243.0
+                ],
+                [
+                    707.0,
+                    294.0
+                ],
+                [
+                    70.0,
+                    296.0
+                ]
+            ]
+        },
+        {
+            "text": "Birthday",
+            "confidence": 0.999,
+            "box": [
+                [
+                    766.0,
+                    240.0
+                ],
+                [
+                    979.0,
+                    245.0
+                ],
+                [
+                    978.0,
+                    301.0
+                ],
+                [
+                    765.0,
+                    295.0
+                ]
+            ]
+        },
+        {
+            "text": "and Will Donate Some Amount to MB",
+            "confidence": 0.965,
+            "box": [
+                [
+                    70.0,
+                    318.0
+                ],
+                [
+                    972.0,
+                    317.0
+                ],
+                [
+                    972.0,
+                    367.0
+                ],
+                [
+                    70.0,
+                    369.0
+                ]
+            ]
+        },
+        {
+            "text": "Foundation and Promised Myself To Help",
+            "confidence": 0.989,
+            "box": [
+                [
+                    71.0,
+                    382.0
+                ],
+                [
+                    1063.0,
+                    388.0
+                ],
+                [
+                    1063.0,
+                    443.0
+                ],
+                [
+                    70.0,
+                    437.0
+                ]
+            ]
+        },
+        {
+            "text": "for One Poor Girl From our Village with He",
+            "confidence": 0.958,
+            "box": [
+                [
+                    71.0,
+                    452.0
+                ],
+                [
+                    1069.0,
+                    459.0
+                ],
+                [
+                    1069.0,
+                    510.0
+                ],
+                [
+                    70.0,
+                    502.0
+                ]
+            ]
+        },
+        {
+            "text": "School Fees",
+            "confidence": 0.98,
+            "box": [
+                [
+                    72.0,
+                    525.0
+                ],
+                [
+                    367.0,
+                    525.0
+                ],
+                [
+                    367.0,
+                    576.0
+                ],
+                [
+                    72.0,
+                    576.0
+                ]
+            ]
+        },
+        {
+            "text": "In foot steps of #MaheshBabu",
+            "confidence": 0.979,
+            "box": [
+                [
+                    70.0,
+                    595.0
+                ],
+                [
+                    809.0,
+                    595.0
+                ],
+                [
+                    809.0,
+                    649.0
+                ],
+                [
+                    70.0,
+                    649.0
+                ]
+            ]
+        },
+        {
+            "text": "Thanks for Always Inspiring Me",
+            "confidence": 0.984,
+            "box": [
+                [
+                    72.0,
+                    662.0
+                ],
+                [
+                    823.0,
+                    663.0
+                ],
+                [
+                    823.0,
+                    719.0
+                ],
+                [
+                    72.0,
+                    717.0
+                ]
+            ]
+        },
+        {
+            "text": "MAHESH BABU",
+            "confidence": 0.948,
+            "box": [
+                [
+                    215.0,
+                    733.0
+                ],
+                [
+                    567.0,
+                    733.0
+                ],
+                [
+                    567.0,
+                    775.0
+                ],
+                [
+                    215.0,
+                    775.0
+                ]
+            ]
+        },
+        {
+            "text": "OUNDAT",
+            "confidence": 0.987,
+            "box": [
+                [
+                    252.0,
+                    784.0
+                ],
+                [
+                    465.0,
+                    784.0
+                ],
+                [
+                    465.0,
+                    805.0
+                ],
+                [
+                    252.0,
+                    805.0
+                ]
+            ]
+        },
+        {
+            "text": "I0",
+            "confidence": 0.541,
+            "box": [
+                [
+                    456.0,
+                    786.0
+                ],
+                [
+                    529.0,
+                    786.0
+                ],
+                [
+                    529.0,
+                    803.0
+                ],
+                [
+                    456.0,
+                    803.0
+                ]
+            ]
+        },
+        {
+            "text": "N",
+            "confidence": 0.765,
+            "box": [
+                [
+                    544.0,
+                    789.0
+                ],
+                [
+                    557.0,
+                    789.0
+                ],
+                [
+                    557.0,
+                    800.0
+                ],
+                [
+                    544.0,
+                    800.0
+                ]
+            ]
+        },
+        {
+            "text": "IN ASSOCIATION WITH",
+            "confidence": 0.956,
+            "box": [
+                [
+                    273.0,
+                    821.0
+                ],
+                [
+                    506.0,
+                    821.0
+                ],
+                [
+                    506.0,
+                    850.0
+                ],
+                [
+                    273.0,
+                    850.0
+                ]
+            ]
+        },
+        {
+            "text": "Andhra Hospitals",
+            "confidence": 0.982,
+            "box": [
+                [
+                    292.0,
+                    904.0
+                ],
+                [
+                    485.0,
+                    904.0
+                ],
+                [
+                    485.0,
+                    938.0
+                ],
+                [
+                    292.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "Pure Littie Heerts",
+            "confidence": 0.744,
+            "box": [
+                [
+                    335.0,
+                    992.0
+                ],
+                [
+                    429.0,
+                    992.0
+                ],
+                [
+                    429.0,
+                    1009.0
+                ],
+                [
+                    335.0,
+                    1009.0
+                ]
+            ]
+        },
+        {
+            "text": "Foundatian",
+            "confidence": 0.913,
+            "box": [
+                [
+                    354.0,
+                    1001.0
+                ],
+                [
+                    409.0,
+                    1001.0
+                ],
+                [
+                    409.0,
+                    1018.0
+                ],
+                [
+                    354.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "Mahesh Babu....",
+            "confidence": 0.923,
+            "box": [
+                [
+                    619.0,
+                    1051.0
+                ],
+                [
+                    762.0,
+                    1051.0
+                ],
+                [
+                    762.0,
+                    1076.0
+                ],
+                [
+                    619.0,
+                    1076.0
+                ]
+            ]
+        },
+        {
+            "text": "4:19pm",
+            "confidence": 0.896,
+            "box": [
+                [
+                    773.0,
+                    1055.0
+                ],
+                [
+                    828.0,
+                    1060.0
+                ],
+                [
+                    826.0,
+                    1077.0
+                ],
+                [
+                    771.0,
+                    1071.0
+                ]
+            ]
+        },
+        {
+            "text": "tome",
+            "confidence": 0.937,
+            "box": [
+                [
+                    617.0,
+                    1084.0
+                ],
+                [
+                    691.0,
+                    1088.0
+                ],
+                [
+                    690.0,
+                    1110.0
+                ],
+                [
+                    616.0,
+                    1107.0
+                ]
+            ]
+        },
+        {
+            "text": "5000.00",
+            "confidence": 0.995,
+            "box": [
+                [
+                    292.0,
+                    1175.0
+                ],
+                [
+                    463.0,
+                    1175.0
+                ],
+                [
+                    463.0,
+                    1210.0
+                ],
+                [
+                    292.0,
+                    1210.0
+                ]
+            ]
+        },
+        {
+            "text": "MB",
+            "confidence": 0.996,
+            "box": [
+                [
+                    609.0,
+                    1190.0
+                ],
+                [
+                    656.0,
+                    1186.0
+                ],
+                [
+                    659.0,
+                    1215.0
+                ],
+                [
+                    612.0,
+                    1219.0
+                ]
+            ]
+        },
+        {
+            "text": "Mahesh Babu Foundation",
+            "confidence": 0.959,
+            "box": [
+                [
+                    672.0,
+                    1193.0
+                ],
+                [
+                    915.0,
+                    1193.0
+                ],
+                [
+                    915.0,
+                    1219.0
+                ],
+                [
+                    672.0,
+                    1219.0
+                ]
+            ]
+        },
+        {
+            "text": "Payment Successful!",
+            "confidence": 0.982,
+            "box": [
+                [
+                    266.0,
+                    1223.0
+                ],
+                [
+                    494.0,
+                    1223.0
+                ],
+                [
+                    494.0,
+                    1252.0
+                ],
+                [
+                    266.0,
+                    1252.0
+                ]
+            ]
+        },
+        {
+            "text": "Payment ID:pay_Oin",
+            "confidence": 0.879,
+            "box": [
+                [
+                    226.0,
+                    1281.0
+                ],
+                [
+                    522.0,
+                    1281.0
+                ],
+                [
+                    522.0,
+                    1306.0
+                ],
+                [
+                    226.0,
+                    1306.0
+                ]
+            ]
+        },
+        {
+            "text": "5,000.00",
+            "confidence": 0.961,
+            "box": [
+                [
+                    691.0,
+                    1273.0
+                ],
+                [
+                    827.0,
+                    1276.0
+                ],
+                [
+                    826.0,
+                    1315.0
+                ],
+                [
+                    690.0,
+                    1312.0
+                ]
+            ]
+        },
+        {
+            "text": "A confirmation email has been sent to you",
+            "confidence": 0.952,
+            "box": [
+                [
+                    204.0,
+                    1311.0
+                ],
+                [
+                    550.0,
+                    1311.0
+                ],
+                [
+                    550.0,
+                    1336.0
+                ],
+                [
+                    204.0,
+                    1336.0
+                ]
+            ]
+        }
+    ]
+}

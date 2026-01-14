@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-10-01_10-45-07_UTC_3.jpg",
+    "combined_text": "Today, on the birth anniversary of my\ngrandfatber, Allu Ramalingaiab garu,.\nI feel blessed to share something very close to\nmy beart - my engagement to Nayanika.\nMy grandmotber, who recently passed away,.\nalways wished to see me married. Though she\nisn't bere with us, I know she's blessing us.\nfrom above as we begin this journey together..\nIt means everything to us that our families.\nhave embraced our love with such joy..\n~Sirish",
+    "detailed": [
+        {
+            "text": "Today, on the birth anniversary of my",
+            "confidence": 0.992,
+            "box": [
+                [
+                    213.0,
+                    263.0
+                ],
+                [
+                    871.0,
+                    269.0
+                ],
+                [
+                    870.0,
+                    326.0
+                ],
+                [
+                    212.0,
+                    320.0
+                ]
+            ]
+        },
+        {
+            "text": "grandfatber, Allu Ramalingaiab garu,.",
+            "confidence": 0.964,
+            "box": [
+                [
+                    198.0,
+                    332.0
+                ],
+                [
+                    860.0,
+                    329.0
+                ],
+                [
+                    861.0,
+                    394.0
+                ],
+                [
+                    198.0,
+                    397.0
+                ]
+            ]
+        },
+        {
+            "text": "I feel blessed to share something very close to",
+            "confidence": 0.996,
+            "box": [
+                [
+                    159.0,
+                    397.0
+                ],
+                [
+                    927.0,
+                    401.0
+                ],
+                [
+                    926.0,
+                    461.0
+                ],
+                [
+                    159.0,
+                    456.0
+                ]
+            ]
+        },
+        {
+            "text": "my beart - my engagement to Nayanika.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    169.0,
+                    468.0
+                ],
+                [
+                    905.0,
+                    465.0
+                ],
+                [
+                    906.0,
+                    529.0
+                ],
+                [
+                    169.0,
+                    532.0
+                ]
+            ]
+        },
+        {
+            "text": "My grandmotber, who recently passed away,.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    160.0,
+                    604.0
+                ],
+                [
+                    920.0,
+                    604.0
+                ],
+                [
+                    920.0,
+                    663.0
+                ],
+                [
+                    160.0,
+                    663.0
+                ]
+            ]
+        },
+        {
+            "text": "always wished to see me married. Though she",
+            "confidence": 0.983,
+            "box": [
+                [
+                    152.0,
+                    673.0
+                ],
+                [
+                    931.0,
+                    673.0
+                ],
+                [
+                    931.0,
+                    724.0
+                ],
+                [
+                    152.0,
+                    724.0
+                ]
+            ]
+        },
+        {
+            "text": "isn't bere with us, I know she's blessing us.",
+            "confidence": 0.962,
+            "box": [
+                [
+                    170.0,
+                    732.0
+                ],
+                [
+                    911.0,
+                    738.0
+                ],
+                [
+                    911.0,
+                    794.0
+                ],
+                [
+                    170.0,
+                    789.0
+                ]
+            ]
+        },
+        {
+            "text": "from above as we begin this journey together..",
+            "confidence": 0.981,
+            "box": [
+                [
+                    146.0,
+                    806.0
+                ],
+                [
+                    924.0,
+                    807.0
+                ],
+                [
+                    924.0,
+                    863.0
+                ],
+                [
+                    146.0,
+                    862.0
+                ]
+            ]
+        },
+        {
+            "text": "It means everything to us that our families.",
+            "confidence": 0.968,
+            "box": [
+                [
+                    169.0,
+                    875.0
+                ],
+                [
+                    913.0,
+                    875.0
+                ],
+                [
+                    913.0,
+                    929.0
+                ],
+                [
+                    169.0,
+                    929.0
+                ]
+            ]
+        },
+        {
+            "text": "have embraced our love with such joy..",
+            "confidence": 0.974,
+            "box": [
+                [
+                    214.0,
+                    932.0
+                ],
+                [
+                    861.0,
+                    941.0
+                ],
+                [
+                    860.0,
+                    1000.0
+                ],
+                [
+                    213.0,
+                    991.0
+                ]
+            ]
+        },
+        {
+            "text": "~Sirish",
+            "confidence": 0.996,
+            "box": [
+                [
+                    444.0,
+                    1045.0
+                ],
+                [
+                    648.0,
+                    1045.0
+                ],
+                [
+                    648.0,
+                    1115.0
+                ],
+                [
+                    444.0,
+                    1115.0
+                ]
+            ]
+        }
+    ]
+}

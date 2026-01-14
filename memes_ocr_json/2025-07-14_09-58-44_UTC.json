@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-07-14_09-58-44_UTC.jpg",
+    "combined_text": "VECCHANNI SUREEDOCCHE\nLYRICAL VIDEO SONG FROM\n\"ANDHELARAVAMIDHI'\n3\nHURAYCTER20.2022\nADDICTEDTOMEMES\nSINGERS\nANJANA SOWMYA\nKARTHIK\nHARINI DARBHA\nMRUDU RAVALI DARBHA\nSUCH ABEAUTIFULSONG RAA",
+    "detailed": [
+        {
+            "text": "VECCHANNI SUREEDOCCHE",
+            "confidence": 0.974,
+            "box": [
+                [
+                    235.0,
+                    39.0
+                ],
+                [
+                    906.0,
+                    39.0
+                ],
+                [
+                    906.0,
+                    81.0
+                ],
+                [
+                    235.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "LYRICAL VIDEO SONG FROM",
+            "confidence": 0.953,
+            "box": [
+                [
+                    222.0,
+                    98.0
+                ],
+                [
+                    921.0,
+                    99.0
+                ],
+                [
+                    921.0,
+                    145.0
+                ],
+                [
+                    222.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "\"ANDHELARAVAMIDHI'",
+            "confidence": 0.972,
+            "box": [
+                [
+                    295.0,
+                    162.0
+                ],
+                [
+                    844.0,
+                    162.0
+                ],
+                [
+                    844.0,
+                    203.0
+                ],
+                [
+                    295.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "3",
+            "confidence": 0.995,
+            "box": [
+                [
+                    658.0,
+                    387.0
+                ],
+                [
+                    696.0,
+                    387.0
+                ],
+                [
+                    696.0,
+                    408.0
+                ],
+                [
+                    658.0,
+                    408.0
+                ]
+            ]
+        },
+        {
+            "text": "HURAYCTER20.2022",
+            "confidence": 0.645,
+            "box": [
+                [
+                    755.0,
+                    623.0
+                ],
+                [
+                    932.0,
+                    622.0
+                ],
+                [
+                    932.0,
+                    642.0
+                ],
+                [
+                    755.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    543.0,
+                    634.0
+                ],
+                [
+                    702.0,
+                    636.0
+                ],
+                [
+                    702.0,
+                    658.0
+                ],
+                [
+                    543.0,
+                    656.0
+                ]
+            ]
+        },
+        {
+            "text": "SINGERS",
+            "confidence": 0.993,
+            "box": [
+                [
+                    277.0,
+                    693.0
+                ],
+                [
+                    364.0,
+                    693.0
+                ],
+                [
+                    364.0,
+                    719.0
+                ],
+                [
+                    277.0,
+                    719.0
+                ]
+            ]
+        },
+        {
+            "text": "ANJANA SOWMYA",
+            "confidence": 0.983,
+            "box": [
+                [
+                    205.0,
+                    748.0
+                ],
+                [
+                    436.0,
+                    748.0
+                ],
+                [
+                    436.0,
+                    783.0
+                ],
+                [
+                    205.0,
+                    783.0
+                ]
+            ]
+        },
+        {
+            "text": "KARTHIK",
+            "confidence": 0.997,
+            "box": [
+                [
+                    260.0,
+                    793.0
+                ],
+                [
+                    382.0,
+                    793.0
+                ],
+                [
+                    382.0,
+                    833.0
+                ],
+                [
+                    260.0,
+                    833.0
+                ]
+            ]
+        },
+        {
+            "text": "HARINI DARBHA",
+            "confidence": 0.968,
+            "box": [
+                [
+                    215.0,
+                    845.0
+                ],
+                [
+                    425.0,
+                    845.0
+                ],
+                [
+                    425.0,
+                    879.0
+                ],
+                [
+                    215.0,
+                    879.0
+                ]
+            ]
+        },
+        {
+            "text": "MRUDU RAVALI DARBHA",
+            "confidence": 0.953,
+            "box": [
+                [
+                    163.0,
+                    893.0
+                ],
+                [
+                    478.0,
+                    893.0
+                ],
+                [
+                    478.0,
+                    927.0
+                ],
+                [
+                    163.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "text": "SUCH ABEAUTIFULSONG RAA",
+            "confidence": 0.963,
+            "box": [
+                [
+                    94.0,
+                    1257.0
+                ],
+                [
+                    1046.0,
+                    1259.0
+                ],
+                [
+                    1046.0,
+                    1314.0
+                ],
+                [
+                    94.0,
+                    1313.0
+                ]
+            ]
+        }
+    ]
+}

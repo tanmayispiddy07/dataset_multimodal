@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-26_11-34-33_UTC.jpg",
+    "combined_text": "NAPOLEON RETURNS TITLE GLIMPSE SHOWCASES ULTRA\nNEW CONCEPT AND CRAZY WORLDOF HORROR.EXCITED\nTO KNOW WHAT ANAND RAVI IS BRINGING THIS TIME\nADDICTEDTOMEMES\nGLIMPSE CHALA BAGUNDI\nRELEASE DATE CHEPTHE BREAK ISTHAMU",
+    "detailed": [
+        {
+            "text": "NAPOLEON RETURNS TITLE GLIMPSE SHOWCASES ULTRA",
+            "confidence": 0.962,
+            "box": [
+                [
+                    44.0,
+                    46.0
+                ],
+                [
+                    1045.0,
+                    47.0
+                ],
+                [
+                    1045.0,
+                    81.0
+                ],
+                [
+                    44.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "NEW CONCEPT AND CRAZY WORLDOF HORROR.EXCITED",
+            "confidence": 0.96,
+            "box": [
+                [
+                    31.0,
+                    89.0
+                ],
+                [
+                    1058.0,
+                    91.0
+                ],
+                [
+                    1057.0,
+                    124.0
+                ],
+                [
+                    31.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "TO KNOW WHAT ANAND RAVI IS BRINGING THIS TIME",
+            "confidence": 0.927,
+            "box": [
+                [
+                    75.0,
+                    137.0
+                ],
+                [
+                    1015.0,
+                    137.0
+                ],
+                [
+                    1015.0,
+                    166.0
+                ],
+                [
+                    75.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    49.0,
+                    1066.0
+                ],
+                [
+                    195.0,
+                    1066.0
+                ],
+                [
+                    195.0,
+                    1087.0
+                ],
+                [
+                    49.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "GLIMPSE CHALA BAGUNDI",
+            "confidence": 0.955,
+            "box": [
+                [
+                    287.0,
+                    1239.0
+                ],
+                [
+                    844.0,
+                    1239.0
+                ],
+                [
+                    844.0,
+                    1277.0
+                ],
+                [
+                    287.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASE DATE CHEPTHE BREAK ISTHAMU",
+            "confidence": 0.952,
+            "box": [
+                [
+                    138.0,
+                    1291.0
+                ],
+                [
+                    1003.0,
+                    1291.0
+                ],
+                [
+                    1003.0,
+                    1328.0
+                ],
+                [
+                    138.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

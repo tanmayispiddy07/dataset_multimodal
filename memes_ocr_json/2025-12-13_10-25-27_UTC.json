@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-12-13_10-25-27_UTC.jpg",
+    "combined_text": "3 Roses S2 Now Streaming on Aha\n-Addicted_to_memes\nFewKamandhalu",
+    "detailed": [
+        {
+            "text": "3 Roses S2 Now Streaming on Aha",
+            "confidence": 0.958,
+            "box": [
+                [
+                    22.0,
+                    200.0
+                ],
+                [
+                    517.0,
+                    200.0
+                ],
+                [
+                    517.0,
+                    230.0
+                ],
+                [
+                    22.0,
+                    230.0
+                ]
+            ]
+        },
+        {
+            "text": "-Addicted_to_memes",
+            "confidence": 0.982,
+            "box": [
+                [
+                    197.0,
+                    547.0
+                ],
+                [
+                    359.0,
+                    551.0
+                ],
+                [
+                    358.0,
+                    570.0
+                ],
+                [
+                    196.0,
+                    566.0
+                ]
+            ]
+        },
+        {
+            "text": "FewKamandhalu",
+            "confidence": 0.998,
+            "box": [
+                [
+                    112.0,
+                    766.0
+                ],
+                [
+                    427.0,
+                    768.0
+                ],
+                [
+                    427.0,
+                    802.0
+                ],
+                [
+                    112.0,
+                    800.0
+                ]
+            ]
+        }
+    ]
+}

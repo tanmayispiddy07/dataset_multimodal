@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-08-04_06-23-09_UTC.jpg",
+    "combined_text": "SITUATION OF PASSED\nOUT STUDENTS\nADDICTEDTOMEMES\nPONE GOVT JOB TRY\nCOACHING TESUKUNA\nCHEDHAM ANTE FULL\nKUDA JOB VACHE CHANCES\nCOMPETITION MANAKI\nCHALA TAKKVUA UNNAI\nANTHA SCENE LEDU\nPONE MASTERS KI ABROAD\nBUSINESS PEDUTHA\nVELDHAM ANTE AKKADA\nANTE INTLOOPPUKORU\nMOTHAM CONFESSIONS EH",
+    "detailed": [
+        {
+            "text": "SITUATION OF PASSED",
+            "confidence": 0.966,
+            "box": [
+                [
+                    215.0,
+                    39.0
+                ],
+                [
+                    897.0,
+                    39.0
+                ],
+                [
+                    897.0,
+                    89.0
+                ],
+                [
+                    215.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "OUT STUDENTS",
+            "confidence": 0.951,
+            "box": [
+                [
+                    316.0,
+                    116.0
+                ],
+                [
+                    778.0,
+                    116.0
+                ],
+                [
+                    778.0,
+                    167.0
+                ],
+                [
+                    316.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    461.0,
+                    347.0
+                ],
+                [
+                    624.0,
+                    347.0
+                ],
+                [
+                    624.0,
+                    368.0
+                ],
+                [
+                    461.0,
+                    368.0
+                ]
+            ]
+        },
+        {
+            "text": "PONE GOVT JOB TRY",
+            "confidence": 0.928,
+            "box": [
+                [
+                    668.0,
+                    622.0
+                ],
+                [
+                    1029.0,
+                    622.0
+                ],
+                [
+                    1029.0,
+                    655.0
+                ],
+                [
+                    668.0,
+                    655.0
+                ]
+            ]
+        },
+        {
+            "text": "COACHING TESUKUNA",
+            "confidence": 0.972,
+            "box": [
+                [
+                    104.0,
+                    666.0
+                ],
+                [
+                    464.0,
+                    666.0
+                ],
+                [
+                    464.0,
+                    695.0
+                ],
+                [
+                    104.0,
+                    695.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEDHAM ANTE FULL",
+            "confidence": 0.968,
+            "box": [
+                [
+                    665.0,
+                    665.0
+                ],
+                [
+                    1032.0,
+                    665.0
+                ],
+                [
+                    1032.0,
+                    698.0
+                ],
+                [
+                    665.0,
+                    698.0
+                ]
+            ]
+        },
+        {
+            "text": "KUDA JOB VACHE CHANCES",
+            "confidence": 0.936,
+            "box": [
+                [
+                    59.0,
+                    705.0
+                ],
+                [
+                    510.0,
+                    705.0
+                ],
+                [
+                    510.0,
+                    735.0
+                ],
+                [
+                    59.0,
+                    735.0
+                ]
+            ]
+        },
+        {
+            "text": "COMPETITION MANAKI",
+            "confidence": 0.98,
+            "box": [
+                [
+                    652.0,
+                    708.0
+                ],
+                [
+                    1050.0,
+                    708.0
+                ],
+                [
+                    1050.0,
+                    741.0
+                ],
+                [
+                    652.0,
+                    741.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALA TAKKVUA UNNAI",
+            "confidence": 0.955,
+            "box": [
+                [
+                    84.0,
+                    744.0
+                ],
+                [
+                    482.0,
+                    744.0
+                ],
+                [
+                    482.0,
+                    774.0
+                ],
+                [
+                    84.0,
+                    774.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTHA SCENE LEDU",
+            "confidence": 0.964,
+            "box": [
+                [
+                    681.0,
+                    751.0
+                ],
+                [
+                    1020.0,
+                    751.0
+                ],
+                [
+                    1020.0,
+                    785.0
+                ],
+                [
+                    681.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "PONE MASTERS KI ABROAD",
+            "confidence": 0.95,
+            "box": [
+                [
+                    605.0,
+                    1222.0
+                ],
+                [
+                    1048.0,
+                    1222.0
+                ],
+                [
+                    1048.0,
+                    1252.0
+                ],
+                [
+                    605.0,
+                    1252.0
+                ]
+            ]
+        },
+        {
+            "text": "BUSINESS PEDUTHA",
+            "confidence": 0.969,
+            "box": [
+                [
+                    104.0,
+                    1242.0
+                ],
+                [
+                    482.0,
+                    1242.0
+                ],
+                [
+                    482.0,
+                    1279.0
+                ],
+                [
+                    104.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "VELDHAM ANTE AKKADA",
+            "confidence": 0.966,
+            "box": [
+                [
+                    622.0,
+                    1260.0
+                ],
+                [
+                    1029.0,
+                    1261.0
+                ],
+                [
+                    1029.0,
+                    1292.0
+                ],
+                [
+                    622.0,
+                    1291.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTE INTLOOPPUKORU",
+            "confidence": 0.972,
+            "box": [
+                [
+                    63.0,
+                    1291.0
+                ],
+                [
+                    529.0,
+                    1291.0
+                ],
+                [
+                    529.0,
+                    1328.0
+                ],
+                [
+                    63.0,
+                    1328.0
+                ]
+            ]
+        },
+        {
+            "text": "MOTHAM CONFESSIONS EH",
+            "confidence": 0.96,
+            "box": [
+                [
+                    603.0,
+                    1299.0
+                ],
+                [
+                    1049.0,
+                    1300.0
+                ],
+                [
+                    1049.0,
+                    1331.0
+                ],
+                [
+                    603.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

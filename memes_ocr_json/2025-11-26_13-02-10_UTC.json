@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-26_13-02-10_UTC.jpg",
+    "combined_text": "REMEMBER THE NAME\"VENU UDUGULA\nBEGINNING THEY ARE SET TO DELEVER\nMORE BLOCKBUSTER..\n2T\nWeds\nTowa\nADDICTEDTOMEME\nMERU SUPER SIR FIRST MOVIE THONE\nINTHA MANCHI HIT KOTTARU\nNEXT PROJECTS KUDA BAGUNDALI",
+    "detailed": [
+        {
+            "text": "REMEMBER THE NAME\"VENU UDUGULA",
+            "confidence": 0.924,
+            "box": [
+                [
+                    121.0,
+                    10.0
+                ],
+                [
+                    976.0,
+                    10.0
+                ],
+                [
+                    976.0,
+                    43.0
+                ],
+                [
+                    121.0,
+                    43.0
+                ]
+            ]
+        },
+        {
+            "text": "BEGINNING THEY ARE SET TO DELEVER",
+            "confidence": 0.946,
+            "box": [
+                [
+                    132.0,
+                    113.0
+                ],
+                [
+                    965.0,
+                    113.0
+                ],
+                [
+                    965.0,
+                    151.0
+                ],
+                [
+                    132.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "MORE BLOCKBUSTER..",
+            "confidence": 0.954,
+            "box": [
+                [
+                    309.0,
+                    166.0
+                ],
+                [
+                    782.0,
+                    166.0
+                ],
+                [
+                    782.0,
+                    203.0
+                ],
+                [
+                    309.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "2T",
+            "confidence": 0.776,
+            "box": [
+                [
+                    522.0,
+                    383.0
+                ],
+                [
+                    640.0,
+                    383.0
+                ],
+                [
+                    640.0,
+                    513.0
+                ],
+                [
+                    522.0,
+                    513.0
+                ]
+            ]
+        },
+        {
+            "text": "Weds",
+            "confidence": 0.98,
+            "box": [
+                [
+                    242.0,
+                    670.0
+                ],
+                [
+                    303.0,
+                    655.0
+                ],
+                [
+                    310.0,
+                    688.0
+                ],
+                [
+                    250.0,
+                    702.0
+                ]
+            ]
+        },
+        {
+            "text": "Towa",
+            "confidence": 0.547,
+            "box": [
+                [
+                    153.0,
+                    712.0
+                ],
+                [
+                    384.0,
+                    660.0
+                ],
+                [
+                    402.0,
+                    740.0
+                ],
+                [
+                    171.0,
+                    792.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEME",
+            "confidence": 0.974,
+            "box": [
+                [
+                    968.0,
+                    1058.0
+                ],
+                [
+                    1074.0,
+                    1058.0
+                ],
+                [
+                    1074.0,
+                    1075.0
+                ],
+                [
+                    968.0,
+                    1075.0
+                ]
+            ]
+        },
+        {
+            "text": "MERU SUPER SIR FIRST MOVIE THONE",
+            "confidence": 0.936,
+            "box": [
+                [
+                    361.0,
+                    1204.0
+                ],
+                [
+                    997.0,
+                    1204.0
+                ],
+                [
+                    997.0,
+                    1233.0
+                ],
+                [
+                    361.0,
+                    1233.0
+                ]
+            ]
+        },
+        {
+            "text": "INTHA MANCHI HIT KOTTARU",
+            "confidence": 0.952,
+            "box": [
+                [
+                    433.0,
+                    1247.0
+                ],
+                [
+                    925.0,
+                    1247.0
+                ],
+                [
+                    925.0,
+                    1277.0
+                ],
+                [
+                    433.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "NEXT PROJECTS KUDA BAGUNDALI",
+            "confidence": 0.963,
+            "box": [
+                [
+                    378.0,
+                    1288.0
+                ],
+                [
+                    973.0,
+                    1288.0
+                ],
+                [
+                    973.0,
+                    1321.0
+                ],
+                [
+                    378.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

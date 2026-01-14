@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-12-28_16-24-05_UTC.jpg",
+    "combined_text": "Running Successfully in Theatres Now\nMawa Tickets Book chei\nAnaconda Movie ki podham",
+    "detailed": [
+        {
+            "text": "Running Successfully in Theatres Now",
+            "confidence": 0.974,
+            "box": [
+                [
+                    138.0,
+                    325.0
+                ],
+                [
+                    504.0,
+                    325.0
+                ],
+                [
+                    504.0,
+                    349.0
+                ],
+                [
+                    138.0,
+                    349.0
+                ]
+            ]
+        },
+        {
+            "text": "Mawa Tickets Book chei",
+            "confidence": 0.956,
+            "box": [
+                [
+                    102.0,
+                    551.0
+                ],
+                [
+                    542.0,
+                    551.0
+                ],
+                [
+                    542.0,
+                    584.0
+                ],
+                [
+                    102.0,
+                    584.0
+                ]
+            ]
+        },
+        {
+            "text": "Anaconda Movie ki podham",
+            "confidence": 0.968,
+            "box": [
+                [
+                    66.0,
+                    598.0
+                ],
+                [
+                    573.0,
+                    600.0
+                ],
+                [
+                    573.0,
+                    636.0
+                ],
+                [
+                    66.0,
+                    634.0
+                ]
+            ]
+        }
+    ]
+}

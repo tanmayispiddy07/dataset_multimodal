@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-10-17_08-53-18_UTC_3.jpg",
+    "combined_text": "Every senior after seeing juniors.\ncopy their style.\n30 Saal pehle kar chuka hoon main",
+    "detailed": [
+        {
+            "text": "Every senior after seeing juniors.",
+            "confidence": 0.982,
+            "box": [
+                [
+                    138.0,
+                    70.0
+                ],
+                [
+                    944.0,
+                    70.0
+                ],
+                [
+                    944.0,
+                    120.0
+                ],
+                [
+                    138.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "copy their style.",
+            "confidence": 0.961,
+            "box": [
+                [
+                    270.0,
+                    152.0
+                ],
+                [
+                    661.0,
+                    149.0
+                ],
+                [
+                    661.0,
+                    202.0
+                ],
+                [
+                    270.0,
+                    205.0
+                ]
+            ]
+        },
+        {
+            "text": "30 Saal pehle kar chuka hoon main",
+            "confidence": 0.941,
+            "box": [
+                [
+                    89.0,
+                    1246.0
+                ],
+                [
+                    990.0,
+                    1245.0
+                ],
+                [
+                    990.0,
+                    1294.0
+                ],
+                [
+                    89.0,
+                    1295.0
+                ]
+            ]
+        }
+    ]
+}

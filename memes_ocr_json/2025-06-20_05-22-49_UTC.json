@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-06-20_05-22-49_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE\nFILM \"KUBERAA\"\nEXCELLENT 1ST HALF WHERE YOUCOMPLETELY\nINVOLVES IN STORY WITH GOOD INTERVAL\nADDICTEDTOMEMES\nKUBERAA\nENGAGING AND INTERESTING 2ND HALF\nNAG MAMA ONE OF THE BEST\nPERFORMANCE.KUDOS TO DHANUSH\nFOR ACCEPTING SUCH ROLES.LITERALLY\nGOOSEBUMPS GUARANTEED SCENES.\nBEST DIRECTOR BEST ACTOR BEST CINEMA\nThat's It.....",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE",
+            "confidence": 0.932,
+            "box": [
+                [
+                    152.0,
+                    15.0
+                ],
+                [
+                    939.0,
+                    12.0
+                ],
+                [
+                    939.0,
+                    64.0
+                ],
+                [
+                    152.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM \"KUBERAA\"",
+            "confidence": 0.975,
+            "box": [
+                [
+                    315.0,
+                    82.0
+                ],
+                [
+                    769.0,
+                    85.0
+                ],
+                [
+                    769.0,
+                    135.0
+                ],
+                [
+                    315.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCELLENT 1ST HALF WHERE YOUCOMPLETELY",
+            "confidence": 0.95,
+            "box": [
+                [
+                    51.0,
+                    188.0
+                ],
+                [
+                    1028.0,
+                    188.0
+                ],
+                [
+                    1028.0,
+                    222.0
+                ],
+                [
+                    51.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "INVOLVES IN STORY WITH GOOD INTERVAL",
+            "confidence": 0.942,
+            "box": [
+                [
+                    82.0,
+                    237.0
+                ],
+                [
+                    982.0,
+                    238.0
+                ],
+                [
+                    982.0,
+                    276.0
+                ],
+                [
+                    82.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    14.0,
+                    443.0
+                ],
+                [
+                    169.0,
+                    443.0
+                ],
+                [
+                    169.0,
+                    460.0
+                ],
+                [
+                    14.0,
+                    460.0
+                ]
+            ]
+        },
+        {
+            "text": "KUBERAA",
+            "confidence": 0.992,
+            "box": [
+                [
+                    38.0,
+                    587.0
+                ],
+                [
+                    307.0,
+                    587.0
+                ],
+                [
+                    307.0,
+                    665.0
+                ],
+                [
+                    38.0,
+                    665.0
+                ]
+            ]
+        },
+        {
+            "text": "ENGAGING AND INTERESTING 2ND HALF",
+            "confidence": 0.957,
+            "box": [
+                [
+                    72.0,
+                    948.0
+                ],
+                [
+                    989.0,
+                    948.0
+                ],
+                [
+                    989.0,
+                    985.0
+                ],
+                [
+                    72.0,
+                    985.0
+                ]
+            ]
+        },
+        {
+            "text": "NAG MAMA ONE OF THE BEST",
+            "confidence": 0.927,
+            "box": [
+                [
+                    194.0,
+                    1002.0
+                ],
+                [
+                    879.0,
+                    1002.0
+                ],
+                [
+                    879.0,
+                    1044.0
+                ],
+                [
+                    194.0,
+                    1044.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFORMANCE.KUDOS TO DHANUSH",
+            "confidence": 0.968,
+            "box": [
+                [
+                    110.0,
+                    1059.0
+                ],
+                [
+                    965.0,
+                    1059.0
+                ],
+                [
+                    965.0,
+                    1097.0
+                ],
+                [
+                    110.0,
+                    1097.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR ACCEPTING SUCH ROLES.LITERALLY",
+            "confidence": 0.953,
+            "box": [
+                [
+                    65.0,
+                    1114.0
+                ],
+                [
+                    1007.0,
+                    1114.0
+                ],
+                [
+                    1007.0,
+                    1151.0
+                ],
+                [
+                    65.0,
+                    1151.0
+                ]
+            ]
+        },
+        {
+            "text": "GOOSEBUMPS GUARANTEED SCENES.",
+            "confidence": 0.961,
+            "box": [
+                [
+                    110.0,
+                    1169.0
+                ],
+                [
+                    959.0,
+                    1169.0
+                ],
+                [
+                    959.0,
+                    1207.0
+                ],
+                [
+                    110.0,
+                    1207.0
+                ]
+            ]
+        },
+        {
+            "text": "BEST DIRECTOR BEST ACTOR BEST CINEMA",
+            "confidence": 0.947,
+            "box": [
+                [
+                    52.0,
+                    1225.0
+                ],
+                [
+                    1017.0,
+                    1225.0
+                ],
+                [
+                    1017.0,
+                    1263.0
+                ],
+                [
+                    52.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "That's It.....",
+            "confidence": 0.946,
+            "box": [
+                [
+                    377.0,
+                    1275.0
+                ],
+                [
+                    651.0,
+                    1280.0
+                ],
+                [
+                    651.0,
+                    1322.0
+                ],
+                [
+                    377.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

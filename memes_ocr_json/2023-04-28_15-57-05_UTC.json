@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-04-28_15-57-05_UTC.jpg",
+    "combined_text": "KLRAHUL NI FIRST LONEY\nOUT CHEYADAM\nTELUGU MEMES GURU\nTHAPPU KADHU...",
+    "detailed": [
+        {
+            "text": "KLRAHUL NI FIRST LONEY",
+            "confidence": 0.93,
+            "box": [
+                [
+                    199.0,
+                    402.0
+                ],
+                [
+                    916.0,
+                    404.0
+                ],
+                [
+                    916.0,
+                    453.0
+                ],
+                [
+                    199.0,
+                    452.0
+                ]
+            ]
+        },
+        {
+            "text": "OUT CHEYADAM",
+            "confidence": 0.959,
+            "box": [
+                [
+                    332.0,
+                    465.0
+                ],
+                [
+                    778.0,
+                    465.0
+                ],
+                [
+                    778.0,
+                    511.0
+                ],
+                [
+                    332.0,
+                    511.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.931,
+            "box": [
+                [
+                    821.0,
+                    718.0
+                ],
+                [
+                    962.0,
+                    718.0
+                ],
+                [
+                    962.0,
+                    739.0
+                ],
+                [
+                    821.0,
+                    739.0
+                ]
+            ]
+        },
+        {
+            "text": "THAPPU KADHU...",
+            "confidence": 0.984,
+            "box": [
+                [
+                    221.0,
+                    960.0
+                ],
+                [
+                    854.0,
+                    969.0
+                ],
+                [
+                    853.0,
+                    1038.0
+                ],
+                [
+                    220.0,
+                    1030.0
+                ]
+            ]
+        }
+    ]
+}

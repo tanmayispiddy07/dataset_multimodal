@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-22_08-43-00_UTC.jpg",
+    "combined_text": "NEWS PAPER LO IPL SCHEDULE CHUSI\nEROJU A MATCH UNDO ANI EXCITE AYI\nADDICTEDTOMEMES\nINTIKI VACHI SWIMMING KIPOYYI\nNIGHTCRICKETCHUSE DAYS EH BAGUNDE RA",
+    "detailed": [
+        {
+            "text": "NEWS PAPER LO IPL SCHEDULE CHUSI",
+            "confidence": 0.933,
+            "box": [
+                [
+                    145.0,
+                    402.0
+                ],
+                [
+                    973.0,
+                    402.0
+                ],
+                [
+                    973.0,
+                    442.0
+                ],
+                [
+                    145.0,
+                    442.0
+                ]
+            ]
+        },
+        {
+            "text": "EROJU A MATCH UNDO ANI EXCITE AYI",
+            "confidence": 0.931,
+            "box": [
+                [
+                    127.0,
+                    458.0
+                ],
+                [
+                    992.0,
+                    458.0
+                ],
+                [
+                    992.0,
+                    499.0
+                ],
+                [
+                    127.0,
+                    499.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.987,
+            "box": [
+                [
+                    33.0,
+                    668.0
+                ],
+                [
+                    192.0,
+                    668.0
+                ],
+                [
+                    192.0,
+                    688.0
+                ],
+                [
+                    33.0,
+                    688.0
+                ]
+            ]
+        },
+        {
+            "text": "INTIKI VACHI SWIMMING KIPOYYI",
+            "confidence": 0.946,
+            "box": [
+                [
+                    177.0,
+                    923.0
+                ],
+                [
+                    907.0,
+                    925.0
+                ],
+                [
+                    907.0,
+                    961.0
+                ],
+                [
+                    177.0,
+                    960.0
+                ]
+            ]
+        },
+        {
+            "text": "NIGHTCRICKETCHUSE DAYS EH BAGUNDE RA",
+            "confidence": 0.947,
+            "box": [
+                [
+                    51.0,
+                    978.0
+                ],
+                [
+                    1033.0,
+                    978.0
+                ],
+                [
+                    1033.0,
+                    1015.0
+                ],
+                [
+                    51.0,
+                    1015.0
+                ]
+            ]
+        }
+    ]
+}

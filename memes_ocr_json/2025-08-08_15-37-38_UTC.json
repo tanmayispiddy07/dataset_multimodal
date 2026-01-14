@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-08_15-37-38_UTC.jpg",
+    "combined_text": "THE BEST TAG IGOT IN MY SCHOOL &\nCOLLEGE DAYS.\nVEEDU MAHESH BABU FAN RA\nTHAT'S IT THAT'S THE TWEET. THAT'S THE\nMAHESHBABU FOR ME FROM THE CHILDHOOD\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "THE BEST TAG IGOT IN MY SCHOOL &",
+            "confidence": 0.901,
+            "box": [
+                [
+                    158.0,
+                    21.0
+                ],
+                [
+                    962.0,
+                    21.0
+                ],
+                [
+                    962.0,
+                    58.0
+                ],
+                [
+                    158.0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "text": "COLLEGE DAYS.",
+            "confidence": 0.969,
+            "box": [
+                [
+                    385.0,
+                    74.0
+                ],
+                [
+                    731.0,
+                    74.0
+                ],
+                [
+                    731.0,
+                    112.0
+                ],
+                [
+                    385.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "VEEDU MAHESH BABU FAN RA",
+            "confidence": 0.961,
+            "box": [
+                [
+                    206.0,
+                    126.0
+                ],
+                [
+                    854.0,
+                    128.0
+                ],
+                [
+                    854.0,
+                    165.0
+                ],
+                [
+                    206.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT'S IT THAT'S THE TWEET. THAT'S THE",
+            "confidence": 0.909,
+            "box": [
+                [
+                    121.0,
+                    182.0
+                ],
+                [
+                    999.0,
+                    182.0
+                ],
+                [
+                    999.0,
+                    216.0
+                ],
+                [
+                    121.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "MAHESHBABU FOR ME FROM THE CHILDHOOD",
+            "confidence": 0.94,
+            "box": [
+                [
+                    61.0,
+                    234.0
+                ],
+                [
+                    1055.0,
+                    232.0
+                ],
+                [
+                    1055.0,
+                    269.0
+                ],
+                [
+                    61.0,
+                    272.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    464.0,
+                    455.0
+                ],
+                [
+                    620.0,
+                    455.0
+                ],
+                [
+                    620.0,
+                    477.0
+                ],
+                [
+                    464.0,
+                    477.0
+                ]
+            ]
+        }
+    ]
+}

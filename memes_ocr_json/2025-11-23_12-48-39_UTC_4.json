@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-11-23_12-48-39_UTC_4.jpg",
+    "combined_text": "Techno Gamerz",
+    "detailed": [
+        {
+            "text": "Techno Gamerz",
+            "confidence": 0.986,
+            "box": [
+                [
+                    343.0,
+                    1247.0
+                ],
+                [
+                    741.0,
+                    1250.0
+                ],
+                [
+                    741.0,
+                    1298.0
+                ],
+                [
+                    343.0,
+                    1295.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-06-13_16-16-18_UTC.jpg",
+    "combined_text": "whenur mom tells an\naunty that u dance/sing\nand they say\n\"choopichu\"",
+    "detailed": [
+        {
+            "text": "whenur mom tells an",
+            "confidence": 0.95,
+            "box": [
+                [
+                    19.0,
+                    235.0
+                ],
+                [
+                    308.0,
+                    235.0
+                ],
+                [
+                    308.0,
+                    265.0
+                ],
+                [
+                    19.0,
+                    265.0
+                ]
+            ]
+        },
+        {
+            "text": "aunty that u dance/sing",
+            "confidence": 0.924,
+            "box": [
+                [
+                    6.0,
+                    265.0
+                ],
+                [
+                    316.0,
+                    267.0
+                ],
+                [
+                    316.0,
+                    298.0
+                ],
+                [
+                    6.0,
+                    296.0
+                ]
+            ]
+        },
+        {
+            "text": "and they say",
+            "confidence": 0.92,
+            "box": [
+                [
+                    75.0,
+                    301.0
+                ],
+                [
+                    253.0,
+                    303.0
+                ],
+                [
+                    253.0,
+                    332.0
+                ],
+                [
+                    75.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "\"choopichu\"",
+            "confidence": 0.928,
+            "box": [
+                [
+                    88.0,
+                    335.0
+                ],
+                [
+                    246.0,
+                    332.0
+                ],
+                [
+                    246.0,
+                    364.0
+                ],
+                [
+                    88.0,
+                    366.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-05-12_07-44-46_UTC.jpg",
+    "combined_text": "VIRAT KOHLI ANNOUCED\nRETIREMENT FROM TEST CRICKET\nTests-123.\nRuns-9,230.\nAverage-46.85.\nHundreds-30.\nFifties-31.\nTests as captain-68.\nWins as captain-40.\nONE OF THE MOST DECORATEDPLAYERS\nIN INDIAN TESTHISTORY-VIRAT KOHLI.\nINDIA\nDICTEDTOMEMES\nTESTCRICKETWON'T BE THE SAME\nWITHOUT THIS MAN ON THE FIELD.",
+    "detailed": [
+        {
+            "text": "VIRAT KOHLI ANNOUCED",
+            "confidence": 0.959,
+            "box": [
+                [
+                    188.0,
+                    67.0
+                ],
+                [
+                    880.0,
+                    67.0
+                ],
+                [
+                    880.0,
+                    113.0
+                ],
+                [
+                    188.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "RETIREMENT FROM TEST CRICKET",
+            "confidence": 0.955,
+            "box": [
+                [
+                    70.0,
+                    134.0
+                ],
+                [
+                    989.0,
+                    134.0
+                ],
+                [
+                    989.0,
+                    184.0
+                ],
+                [
+                    70.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "Tests-123.",
+            "confidence": 0.986,
+            "box": [
+                [
+                    0.0,
+                    245.0
+                ],
+                [
+                    128.0,
+                    245.0
+                ],
+                [
+                    128.0,
+                    276.0
+                ],
+                [
+                    0.0,
+                    276.0
+                ]
+            ]
+        },
+        {
+            "text": "Runs-9,230.",
+            "confidence": 0.955,
+            "box": [
+                [
+                    0.0,
+                    280.0
+                ],
+                [
+                    148.0,
+                    280.0
+                ],
+                [
+                    148.0,
+                    311.0
+                ],
+                [
+                    0.0,
+                    311.0
+                ]
+            ]
+        },
+        {
+            "text": "Average-46.85.",
+            "confidence": 0.991,
+            "box": [
+                [
+                    0.0,
+                    315.0
+                ],
+                [
+                    184.0,
+                    312.0
+                ],
+                [
+                    184.0,
+                    343.0
+                ],
+                [
+                    0.0,
+                    346.0
+                ]
+            ]
+        },
+        {
+            "text": "Hundreds-30.",
+            "confidence": 0.993,
+            "box": [
+                [
+                    0.0,
+                    348.0
+                ],
+                [
+                    169.0,
+                    348.0
+                ],
+                [
+                    169.0,
+                    378.0
+                ],
+                [
+                    0.0,
+                    378.0
+                ]
+            ]
+        },
+        {
+            "text": "Fifties-31.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    0.0,
+                    382.0
+                ],
+                [
+                    122.0,
+                    382.0
+                ],
+                [
+                    122.0,
+                    413.0
+                ],
+                [
+                    0.0,
+                    413.0
+                ]
+            ]
+        },
+        {
+            "text": "Tests as captain-68.",
+            "confidence": 0.965,
+            "box": [
+                [
+                    0.0,
+                    418.0
+                ],
+                [
+                    238.0,
+                    418.0
+                ],
+                [
+                    238.0,
+                    447.0
+                ],
+                [
+                    0.0,
+                    447.0
+                ]
+            ]
+        },
+        {
+            "text": "Wins as captain-40.",
+            "confidence": 0.965,
+            "box": [
+                [
+                    0.0,
+                    452.0
+                ],
+                [
+                    235.0,
+                    452.0
+                ],
+                [
+                    235.0,
+                    481.0
+                ],
+                [
+                    0.0,
+                    481.0
+                ]
+            ]
+        },
+        {
+            "text": "ONE OF THE MOST DECORATEDPLAYERS",
+            "confidence": 0.939,
+            "box": [
+                [
+                    1.0,
+                    523.0
+                ],
+                [
+                    468.0,
+                    523.0
+                ],
+                [
+                    468.0,
+                    548.0
+                ],
+                [
+                    1.0,
+                    548.0
+                ]
+            ]
+        },
+        {
+            "text": "IN INDIAN TESTHISTORY-VIRAT KOHLI.",
+            "confidence": 0.943,
+            "box": [
+                [
+                    0.0,
+                    556.0
+                ],
+                [
+                    453.0,
+                    556.0
+                ],
+                [
+                    453.0,
+                    581.0
+                ],
+                [
+                    0.0,
+                    581.0
+                ]
+            ]
+        },
+        {
+            "text": "INDIA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    537.0,
+                    927.0
+                ],
+                [
+                    646.0,
+                    924.0
+                ],
+                [
+                    647.0,
+                    968.0
+                ],
+                [
+                    538.0,
+                    972.0
+                ]
+            ]
+        },
+        {
+            "text": "DICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    934.0,
+                    1089.0
+                ],
+                [
+                    1050.0,
+                    1089.0
+                ],
+                [
+                    1050.0,
+                    1105.0
+                ],
+                [
+                    934.0,
+                    1105.0
+                ]
+            ]
+        },
+        {
+            "text": "TESTCRICKETWON'T BE THE SAME",
+            "confidence": 0.937,
+            "box": [
+                [
+                    219.0,
+                    1238.0
+                ],
+                [
+                    928.0,
+                    1238.0
+                ],
+                [
+                    928.0,
+                    1275.0
+                ],
+                [
+                    219.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "WITHOUT THIS MAN ON THE FIELD.",
+            "confidence": 0.945,
+            "box": [
+                [
+                    212.0,
+                    1286.0
+                ],
+                [
+                    924.0,
+                    1289.0
+                ],
+                [
+                    924.0,
+                    1327.0
+                ],
+                [
+                    212.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

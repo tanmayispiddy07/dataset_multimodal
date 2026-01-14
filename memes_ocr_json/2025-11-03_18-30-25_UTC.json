@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-03_18-30-25_UTC.jpg",
+    "combined_text": "November: People fall in love\nMe in November:.\nDayQus\nsarcasm",
+    "detailed": [
+        {
+            "text": "November: People fall in love",
+            "confidence": 0.982,
+            "box": [
+                [
+                    27.0,
+                    193.0
+                ],
+                [
+                    547.0,
+                    193.0
+                ],
+                [
+                    547.0,
+                    230.0
+                ],
+                [
+                    27.0,
+                    230.0
+                ]
+            ]
+        },
+        {
+            "text": "Me in November:.",
+            "confidence": 0.978,
+            "box": [
+                [
+                    28.0,
+                    286.0
+                ],
+                [
+                    338.0,
+                    286.0
+                ],
+                [
+                    338.0,
+                    321.0
+                ],
+                [
+                    28.0,
+                    321.0
+                ]
+            ]
+        },
+        {
+            "text": "DayQus",
+            "confidence": 0.682,
+            "box": [
+                [
+                    491.0,
+                    968.0
+                ],
+                [
+                    545.0,
+                    968.0
+                ],
+                [
+                    545.0,
+                    983.0
+                ],
+                [
+                    491.0,
+                    983.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    272.0,
+                    1003.0
+                ],
+                [
+                    365.0,
+                    1003.0
+                ],
+                [
+                    365.0,
+                    1026.0
+                ],
+                [
+                    272.0,
+                    1026.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-12_17-29-02_UTC_5.jpg",
+    "combined_text": "Watching Sid makes us feel that love\nis real again in today's world.",
+    "detailed": [
+        {
+            "text": "Watching Sid makes us feel that love",
+            "confidence": 0.977,
+            "box": [
+                [
+                    96.0,
+                    51.0
+                ],
+                [
+                    984.0,
+                    51.0
+                ],
+                [
+                    984.0,
+                    100.0
+                ],
+                [
+                    96.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "is real again in today's world.",
+            "confidence": 0.996,
+            "box": [
+                [
+                    117.0,
+                    132.0
+                ],
+                [
+                    813.0,
+                    129.0
+                ],
+                [
+                    813.0,
+                    183.0
+                ],
+                [
+                    117.0,
+                    186.0
+                ]
+            ]
+        }
+    ]
+}

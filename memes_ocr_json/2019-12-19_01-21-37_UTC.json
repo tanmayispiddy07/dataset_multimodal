@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-12-19_01-21-37_UTC.jpg",
+    "combined_text": "no one:\nindian parents\n following something\nthat they are reading on paper:",
+    "detailed": [
+        {
+            "text": "no one:",
+            "confidence": 0.996,
+            "box": [
+                [
+                    69.0,
+                    33.0
+                ],
+                [
+                    287.0,
+                    36.0
+                ],
+                [
+                    286.0,
+                    84.0
+                ],
+                [
+                    69.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "indian parents",
+            "confidence": 0.996,
+            "box": [
+                [
+                    18.0,
+                    140.0
+                ],
+                [
+                    425.0,
+                    147.0
+                ],
+                [
+                    424.0,
+                    207.0
+                ],
+                [
+                    17.0,
+                    200.0
+                ]
+            ]
+        },
+        {
+            "text": " following something",
+            "confidence": 0.991,
+            "box": [
+                [
+                    413.0,
+                    137.0
+                ],
+                [
+                    984.0,
+                    144.0
+                ],
+                [
+                    983.0,
+                    209.0
+                ],
+                [
+                    413.0,
+                    202.0
+                ]
+            ]
+        },
+        {
+            "text": "that they are reading on paper:",
+            "confidence": 1.0,
+            "box": [
+                [
+                    70.0,
+                    213.0
+                ],
+                [
+                    935.0,
+                    219.0
+                ],
+                [
+                    934.0,
+                    279.0
+                ],
+                [
+                    70.0,
+                    274.0
+                ]
+            ]
+        }
+    ]
+}

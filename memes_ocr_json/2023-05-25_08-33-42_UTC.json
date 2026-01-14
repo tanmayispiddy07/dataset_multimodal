@@ -1,0 +1,138 @@
+{
+    "image_name": "2023-05-25_08-33-42_UTC.jpg",
+    "combined_text": "TELUGU MEMES GURU\nVIRAT KOHLI BECOMES THE FIRST ASIAN TO COMPLETE\n25O MILLION FOLLOWERS ON INSTAGRAM\nDILR\nANNAA ACCOUNT LO ENNO RECORDS BREAK\nAVTHUNNAY OKKAA IPL TROPHY TAPPAA",
+    "detailed": [
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.947,
+            "box": [
+                [
+                    847.0,
+                    530.0
+                ],
+                [
+                    1015.0,
+                    531.0
+                ],
+                [
+                    1015.0,
+                    553.0
+                ],
+                [
+                    846.0,
+                    552.0
+                ]
+            ]
+        },
+        {
+            "text": "VIRAT KOHLI BECOMES THE FIRST ASIAN TO COMPLETE",
+            "confidence": 0.934,
+            "box": [
+                [
+                    10.0,
+                    640.0
+                ],
+                [
+                    1077.0,
+                    640.0
+                ],
+                [
+                    1077.0,
+                    673.0
+                ],
+                [
+                    10.0,
+                    673.0
+                ]
+            ]
+        },
+        {
+            "text": "25O MILLION FOLLOWERS ON INSTAGRAM",
+            "confidence": 0.953,
+            "box": [
+                [
+                    121.0,
+                    690.0
+                ],
+                [
+                    967.0,
+                    690.0
+                ],
+                [
+                    967.0,
+                    723.0
+                ],
+                [
+                    121.0,
+                    723.0
+                ]
+            ]
+        },
+        {
+            "text": "DILR",
+            "confidence": 0.991,
+            "box": [
+                [
+                    22.0,
+                    1065.0
+                ],
+                [
+                    79.0,
+                    1065.0
+                ],
+                [
+                    79.0,
+                    1092.0
+                ],
+                [
+                    22.0,
+                    1092.0
+                ]
+            ]
+        },
+        {
+            "text": "ANNAA ACCOUNT LO ENNO RECORDS BREAK",
+            "confidence": 0.954,
+            "box": [
+                [
+                    55.0,
+                    1222.0
+                ],
+                [
+                    1008.0,
+                    1223.0
+                ],
+                [
+                    1008.0,
+                    1265.0
+                ],
+                [
+                    55.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "AVTHUNNAY OKKAA IPL TROPHY TAPPAA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    80.0,
+                    1272.0
+                ],
+                [
+                    980.0,
+                    1272.0
+                ],
+                [
+                    980.0,
+                    1313.0
+                ],
+                [
+                    80.0,
+                    1313.0
+                ]
+            ]
+        }
+    ]
+}

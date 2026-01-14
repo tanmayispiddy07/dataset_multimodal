@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-07-28_13-53-06_UTC.jpg",
+    "combined_text": "THAT 195O'S MADRAS VIBE IN KAANTHA TEASER>\nCINEMATOGRAPHY, SETS, DULQUER'S SWAG...EVERYTHING\nISJUST NEXT LEVEL\nHAPPY BIRTHDAY\nDULQUER SALMAAN\nADDICTEDTOMEMES\nDQSCRIPT\nSELECTION LO UNDE\nMAGIC EHVERU SIR",
+    "detailed": [
+        {
+            "text": "THAT 195O'S MADRAS VIBE IN KAANTHA TEASER>",
+            "confidence": 0.93,
+            "box": [
+                [
+                    138.0,
+                    270.0
+                ],
+                [
+                    952.0,
+                    270.0
+                ],
+                [
+                    952.0,
+                    300.0
+                ],
+                [
+                    138.0,
+                    300.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMATOGRAPHY, SETS, DULQUER'S SWAG...EVERYTHING",
+            "confidence": 0.959,
+            "box": [
+                [
+                    68.0,
+                    309.0
+                ],
+                [
+                    1028.0,
+                    309.0
+                ],
+                [
+                    1028.0,
+                    343.0
+                ],
+                [
+                    68.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "ISJUST NEXT LEVEL",
+            "confidence": 0.948,
+            "box": [
+                [
+                    390.0,
+                    351.0
+                ],
+                [
+                    706.0,
+                    351.0
+                ],
+                [
+                    706.0,
+                    380.0
+                ],
+                [
+                    390.0,
+                    380.0
+                ]
+            ]
+        },
+        {
+            "text": "HAPPY BIRTHDAY",
+            "confidence": 0.962,
+            "box": [
+                [
+                    401.0,
+                    585.0
+                ],
+                [
+                    735.0,
+                    585.0
+                ],
+                [
+                    735.0,
+                    619.0
+                ],
+                [
+                    401.0,
+                    619.0
+                ]
+            ]
+        },
+        {
+            "text": "DULQUER SALMAAN",
+            "confidence": 0.966,
+            "box": [
+                [
+                    361.0,
+                    633.0
+                ],
+                [
+                    762.0,
+                    633.0
+                ],
+                [
+                    762.0,
+                    670.0
+                ],
+                [
+                    361.0,
+                    670.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    922.0,
+                    1089.0
+                ],
+                [
+                    1072.0,
+                    1089.0
+                ],
+                [
+                    1072.0,
+                    1109.0
+                ],
+                [
+                    922.0,
+                    1109.0
+                ]
+            ]
+        },
+        {
+            "text": "DQSCRIPT",
+            "confidence": 0.994,
+            "box": [
+                [
+                    695.0,
+                    1176.0
+                ],
+                [
+                    931.0,
+                    1176.0
+                ],
+                [
+                    931.0,
+                    1224.0
+                ],
+                [
+                    695.0,
+                    1224.0
+                ]
+            ]
+        },
+        {
+            "text": "SELECTION LO UNDE",
+            "confidence": 0.95,
+            "box": [
+                [
+                    591.0,
+                    1231.0
+                ],
+                [
+                    1029.0,
+                    1231.0
+                ],
+                [
+                    1029.0,
+                    1272.0
+                ],
+                [
+                    591.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "MAGIC EHVERU SIR",
+            "confidence": 0.951,
+            "box": [
+                [
+                    591.0,
+                    1282.0
+                ],
+                [
+                    1020.0,
+                    1284.0
+                ],
+                [
+                    1019.0,
+                    1326.0
+                ],
+                [
+                    591.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

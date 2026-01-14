@@ -1,0 +1,182 @@
+{
+    "image_name": "2019-09-15_16-35-57_UTC.jpg",
+    "combined_text": "Meera Ayyagari > Subtle Telugu Traits And\nDating\nAugust 25 at 10:18PM\nMe: * Hypes and introduces Parents to Taco bell*\nMom: \"Quaesediallas are just Maida chapathi with cheese\"\nDad: \"Tacos are just papads with stuffing\"\nMom: \"Burrito is chapathi roll with rice\"\nMe: Secretly dying inside cuz I know they're right",
+    "detailed": [
+        {
+            "text": "Meera Ayyagari > Subtle Telugu Traits And",
+            "confidence": 0.946,
+            "box": [
+                [
+                    151.0,
+                    342.0
+                ],
+                [
+                    894.0,
+                    342.0
+                ],
+                [
+                    894.0,
+                    379.0
+                ],
+                [
+                    151.0,
+                    379.0
+                ]
+            ]
+        },
+        {
+            "text": "Dating",
+            "confidence": 0.998,
+            "box": [
+                [
+                    147.0,
+                    381.0
+                ],
+                [
+                    272.0,
+                    385.0
+                ],
+                [
+                    270.0,
+                    428.0
+                ],
+                [
+                    146.0,
+                    424.0
+                ]
+            ]
+        },
+        {
+            "text": "August 25 at 10:18PM",
+            "confidence": 0.905,
+            "box": [
+                [
+                    148.0,
+                    431.0
+                ],
+                [
+                    544.0,
+                    429.0
+                ],
+                [
+                    545.0,
+                    463.0
+                ],
+                [
+                    149.0,
+                    466.0
+                ]
+            ]
+        },
+        {
+            "text": "Me: * Hypes and introduces Parents to Taco bell*",
+            "confidence": 0.982,
+            "box": [
+                [
+                    24.0,
+                    496.0
+                ],
+                [
+                    850.0,
+                    493.0
+                ],
+                [
+                    851.0,
+                    530.0
+                ],
+                [
+                    24.0,
+                    533.0
+                ]
+            ]
+        },
+        {
+            "text": "Mom: \"Quaesediallas are just Maida chapathi with cheese\"",
+            "confidence": 0.992,
+            "box": [
+                [
+                    25.0,
+                    558.0
+                ],
+                [
+                    1009.0,
+                    558.0
+                ],
+                [
+                    1009.0,
+                    595.0
+                ],
+                [
+                    25.0,
+                    595.0
+                ]
+            ]
+        },
+        {
+            "text": "Dad: \"Tacos are just papads with stuffing\"",
+            "confidence": 0.981,
+            "box": [
+                [
+                    24.0,
+                    604.0
+                ],
+                [
+                    731.0,
+                    604.0
+                ],
+                [
+                    731.0,
+                    645.0
+                ],
+                [
+                    24.0,
+                    645.0
+                ]
+            ]
+        },
+        {
+            "text": "Mom: \"Burrito is chapathi roll with rice\"",
+            "confidence": 0.987,
+            "box": [
+                [
+                    22.0,
+                    651.0
+                ],
+                [
+                    685.0,
+                    650.0
+                ],
+                [
+                    685.0,
+                    688.0
+                ],
+                [
+                    23.0,
+                    690.0
+                ]
+            ]
+        },
+        {
+            "text": "Me: Secretly dying inside cuz I know they're right",
+            "confidence": 0.96,
+            "box": [
+                [
+                    25.0,
+                    716.0
+                ],
+                [
+                    852.0,
+                    716.0
+                ],
+                [
+                    852.0,
+                    753.0
+                ],
+                [
+                    25.0,
+                    753.0
+                ]
+            ]
+        }
+    ]
+}

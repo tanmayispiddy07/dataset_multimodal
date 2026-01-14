@@ -1,0 +1,226 @@
+{
+    "image_name": "2026-01-05_09-29-17_UTC.jpg",
+    "combined_text": "PURUSHAHA POSTER\n10\n1\nHE PRESSED THE WRONG BUTTON.\nHE PRESSED THE WRONG BUTTON,\nTHE RESULT IS...\nTHE RESULT IS..\nADDICTEDTOMEMES\nMAGAVALLU ANTE AATA BOMMALU\nLAGA KANIPISTHUNNARA",
+    "detailed": [
+        {
+            "text": "PURUSHAHA POSTER",
+            "confidence": 0.97,
+            "box": [
+                [
+                    97.0,
+                    78.0
+                ],
+                [
+                    1018.0,
+                    82.0
+                ],
+                [
+                    1018.0,
+                    167.0
+                ],
+                [
+                    97.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "10",
+            "confidence": 0.575,
+            "box": [
+                [
+                    314.0,
+                    216.0
+                ],
+                [
+                    342.0,
+                    216.0
+                ],
+                [
+                    342.0,
+                    244.0
+                ],
+                [
+                    314.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "text": "1",
+            "confidence": 0.583,
+            "box": [
+                [
+                    869.0,
+                    212.0
+                ],
+                [
+                    892.0,
+                    222.0
+                ],
+                [
+                    881.0,
+                    247.0
+                ],
+                [
+                    858.0,
+                    236.0
+                ]
+            ]
+        },
+        {
+            "text": "HE PRESSED THE WRONG BUTTON.",
+            "confidence": 0.938,
+            "box": [
+                [
+                    20.0,
+                    282.0
+                ],
+                [
+                    255.0,
+                    282.0
+                ],
+                [
+                    255.0,
+                    302.0
+                ],
+                [
+                    20.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "HE PRESSED THE WRONG BUTTON,",
+            "confidence": 0.941,
+            "box": [
+                [
+                    562.0,
+                    282.0
+                ],
+                [
+                    800.0,
+                    282.0
+                ],
+                [
+                    800.0,
+                    302.0
+                ],
+                [
+                    562.0,
+                    302.0
+                ]
+            ]
+        },
+        {
+            "text": "THE RESULT IS...",
+            "confidence": 0.92,
+            "box": [
+                [
+                    76.0,
+                    298.0
+                ],
+                [
+                    196.0,
+                    301.0
+                ],
+                [
+                    195.0,
+                    324.0
+                ],
+                [
+                    76.0,
+                    320.0
+                ]
+            ]
+        },
+        {
+            "text": "THE RESULT IS..",
+            "confidence": 0.933,
+            "box": [
+                [
+                    623.0,
+                    301.0
+                ],
+                [
+                    733.0,
+                    301.0
+                ],
+                [
+                    733.0,
+                    322.0
+                ],
+                [
+                    623.0,
+                    322.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    906.0,
+                    1008.0
+                ],
+                [
+                    1056.0,
+                    1008.0
+                ],
+                [
+                    1056.0,
+                    1033.0
+                ],
+                [
+                    906.0,
+                    1033.0
+                ]
+            ]
+        },
+        {
+            "text": "MAGAVALLU ANTE AATA BOMMALU",
+            "confidence": 0.942,
+            "box": [
+                [
+                    104.0,
+                    1215.0
+                ],
+                [
+                    970.0,
+                    1215.0
+                ],
+                [
+                    970.0,
+                    1261.0
+                ],
+                [
+                    104.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "LAGA KANIPISTHUNNARA",
+            "confidence": 0.983,
+            "box": [
+                [
+                    218.0,
+                    1277.0
+                ],
+                [
+                    854.0,
+                    1277.0
+                ],
+                [
+                    854.0,
+                    1323.0
+                ],
+                [
+                    218.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

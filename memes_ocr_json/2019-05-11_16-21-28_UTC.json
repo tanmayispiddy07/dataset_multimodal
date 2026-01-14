@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-05-11_16-21-28_UTC.jpg",
+    "combined_text": "TheShelteredMuslimGuy\nMe: how are we related to them?\nMy parents:\nSll",
+    "detailed": [
+        {
+            "text": "TheShelteredMuslimGuy",
+            "confidence": 0.994,
+            "box": [
+                [
+                    574.0,
+                    20.0
+                ],
+                [
+                    814.0,
+                    22.0
+                ],
+                [
+                    814.0,
+                    47.0
+                ],
+                [
+                    574.0,
+                    45.0
+                ]
+            ]
+        },
+        {
+            "text": "Me: how are we related to them?",
+            "confidence": 0.918,
+            "box": [
+                [
+                    13.0,
+                    64.0
+                ],
+                [
+                    611.0,
+                    64.0
+                ],
+                [
+                    611.0,
+                    100.0
+                ],
+                [
+                    13.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "My parents:",
+            "confidence": 0.959,
+            "box": [
+                [
+                    8.0,
+                    160.0
+                ],
+                [
+                    231.0,
+                    162.0
+                ],
+                [
+                    231.0,
+                    209.0
+                ],
+                [
+                    8.0,
+                    207.0
+                ]
+            ]
+        },
+        {
+            "text": "Sll",
+            "confidence": 0.527,
+            "box": [
+                [
+                    310.0,
+                    630.0
+                ],
+                [
+                    331.0,
+                    630.0
+                ],
+                [
+                    331.0,
+                    686.0
+                ],
+                [
+                    310.0,
+                    686.0
+                ]
+            ]
+        }
+    ]
+}

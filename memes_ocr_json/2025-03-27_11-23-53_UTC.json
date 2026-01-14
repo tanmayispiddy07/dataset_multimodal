@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-27_11-23-53_UTC.jpg",
+    "combined_text": "HUSBAND PERSONALLY ARRANGED\nWIFE'S MARRIAGE TO LOVER AFTER\nHE DISCOVERS HER AFFAIR\nADDICTEDTOMEMES\nNEVER\nEXPECTEDTHIS",
+    "detailed": [
+        {
+            "text": "HUSBAND PERSONALLY ARRANGED",
+            "confidence": 0.969,
+            "box": [
+                [
+                    133.0,
+                    60.0
+                ],
+                [
+                    968.0,
+                    60.0
+                ],
+                [
+                    968.0,
+                    100.0
+                ],
+                [
+                    133.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "WIFE'S MARRIAGE TO LOVER AFTER",
+            "confidence": 0.96,
+            "box": [
+                [
+                    127.0,
+                    117.0
+                ],
+                [
+                    972.0,
+                    119.0
+                ],
+                [
+                    971.0,
+                    162.0
+                ],
+                [
+                    127.0,
+                    160.0
+                ]
+            ]
+        },
+        {
+            "text": "HE DISCOVERS HER AFFAIR",
+            "confidence": 0.981,
+            "box": [
+                [
+                    230.0,
+                    179.0
+                ],
+                [
+                    865.0,
+                    179.0
+                ],
+                [
+                    865.0,
+                    219.0
+                ],
+                [
+                    230.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    20.0,
+                    807.0
+                ],
+                [
+                    159.0,
+                    807.0
+                ],
+                [
+                    159.0,
+                    825.0
+                ],
+                [
+                    20.0,
+                    825.0
+                ]
+            ]
+        },
+        {
+            "text": "NEVER",
+            "confidence": 0.998,
+            "box": [
+                [
+                    257.0,
+                    1082.0
+                ],
+                [
+                    470.0,
+                    1082.0
+                ],
+                [
+                    470.0,
+                    1134.0
+                ],
+                [
+                    257.0,
+                    1134.0
+                ]
+            ]
+        },
+        {
+            "text": "EXPECTEDTHIS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    479.0,
+                    1081.0
+                ],
+                [
+                    947.0,
+                    1081.0
+                ],
+                [
+                    947.0,
+                    1132.0
+                ],
+                [
+                    479.0,
+                    1132.0
+                ]
+            ]
+        }
+    ]
+}

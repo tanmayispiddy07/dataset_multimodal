@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-04-22_08-08-13_UTC.jpg",
+    "combined_text": "TS INTER\nRESULTS\n Out nOw\nVADINICHUDUMARKS TAKKVUA\nVACHAYIANI BADHA PADUTHUNNADU\nVADIKI THELIYANIDHI ENTIANTE AHMARKS\nCERTIFICATE LO CHUPINCHADANIKI\nTHAPPA DENIKI PANIKI RAVU ANI",
+    "detailed": [
+        {
+            "text": "TS INTER",
+            "confidence": 0.965,
+            "box": [
+                [
+                    42.0,
+                    72.0
+                ],
+                [
+                    359.0,
+                    72.0
+                ],
+                [
+                    359.0,
+                    128.0
+                ],
+                [
+                    42.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "RESULTS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    361.0,
+                    77.0
+                ],
+                [
+                    669.0,
+                    77.0
+                ],
+                [
+                    669.0,
+                    128.0
+                ],
+                [
+                    361.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": " Out nOw",
+            "confidence": 0.739,
+            "box": [
+                [
+                    645.0,
+                    74.0
+                ],
+                [
+                    1034.0,
+                    74.0
+                ],
+                [
+                    1034.0,
+                    130.0
+                ],
+                [
+                    645.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "VADINICHUDUMARKS TAKKVUA",
+            "confidence": 0.981,
+            "box": [
+                [
+                    256.0,
+                    615.0
+                ],
+                [
+                    944.0,
+                    615.0
+                ],
+                [
+                    944.0,
+                    652.0
+                ],
+                [
+                    256.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "VACHAYIANI BADHA PADUTHUNNADU",
+            "confidence": 0.965,
+            "box": [
+                [
+                    197.0,
+                    666.0
+                ],
+                [
+                    1003.0,
+                    666.0
+                ],
+                [
+                    1003.0,
+                    704.0
+                ],
+                [
+                    197.0,
+                    704.0
+                ]
+            ]
+        },
+        {
+            "text": "VADIKI THELIYANIDHI ENTIANTE AHMARKS",
+            "confidence": 0.961,
+            "box": [
+                [
+                    129.0,
+                    1186.0
+                ],
+                [
+                    1021.0,
+                    1186.0
+                ],
+                [
+                    1021.0,
+                    1224.0
+                ],
+                [
+                    129.0,
+                    1224.0
+                ]
+            ]
+        },
+        {
+            "text": "CERTIFICATE LO CHUPINCHADANIKI",
+            "confidence": 0.961,
+            "box": [
+                [
+                    207.0,
+                    1235.0
+                ],
+                [
+                    942.0,
+                    1236.0
+                ],
+                [
+                    942.0,
+                    1274.0
+                ],
+                [
+                    207.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "THAPPA DENIKI PANIKI RAVU ANI",
+            "confidence": 0.927,
+            "box": [
+                [
+                    235.0,
+                    1286.0
+                ],
+                [
+                    913.0,
+                    1286.0
+                ],
+                [
+                    913.0,
+                    1324.0
+                ],
+                [
+                    235.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

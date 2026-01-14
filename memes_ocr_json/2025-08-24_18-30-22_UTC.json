@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-24_18-30-22_UTC.jpg",
+    "combined_text": "In case you think you're the\none working under pressure",
+    "detailed": [
+        {
+            "text": "In case you think you're the",
+            "confidence": 0.999,
+            "box": [
+                [
+                    83.0,
+                    51.0
+                ],
+                [
+                    983.0,
+                    46.0
+                ],
+                [
+                    983.0,
+                    112.0
+                ],
+                [
+                    83.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "one working under pressure",
+            "confidence": 1.0,
+            "box": [
+                [
+                    77.0,
+                    135.0
+                ],
+                [
+                    997.0,
+                    135.0
+                ],
+                [
+                    997.0,
+                    196.0
+                ],
+                [
+                    77.0,
+                    196.0
+                ]
+            ]
+        }
+    ]
+}

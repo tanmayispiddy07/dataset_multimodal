@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-04-25_08-47-12_UTC.jpg",
+    "combined_text": "BLOCKBUSTER PAIR RETURNS TO THRILLS US AGAIN\nFROM CHASING PYSCHO KILLERIN2O19..TO\nUNRAVELING A HAUNTING HORROR MYSTERY IN 2025\nBSS11 FIRST LOOK ON APRIL 27TH *K\n2019\n2025\nCTEDTOME",
+    "detailed": [
+        {
+            "text": "BLOCKBUSTER PAIR RETURNS TO THRILLS US AGAIN",
+            "confidence": 0.954,
+            "box": [
+                [
+                    35.0,
+                    39.0
+                ],
+                [
+                    1042.0,
+                    40.0
+                ],
+                [
+                    1042.0,
+                    78.0
+                ],
+                [
+                    35.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM CHASING PYSCHO KILLERIN2O19..TO",
+            "confidence": 0.925,
+            "box": [
+                [
+                    90.0,
+                    91.0
+                ],
+                [
+                    997.0,
+                    91.0
+                ],
+                [
+                    997.0,
+                    124.0
+                ],
+                [
+                    90.0,
+                    124.0
+                ]
+            ]
+        },
+        {
+            "text": "UNRAVELING A HAUNTING HORROR MYSTERY IN 2025",
+            "confidence": 0.944,
+            "box": [
+                [
+                    8.0,
+                    137.0
+                ],
+                [
+                    1069.0,
+                    137.0
+                ],
+                [
+                    1069.0,
+                    174.0
+                ],
+                [
+                    8.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "BSS11 FIRST LOOK ON APRIL 27TH *K",
+            "confidence": 0.966,
+            "box": [
+                [
+                    190.0,
+                    181.0
+                ],
+                [
+                    892.0,
+                    184.0
+                ],
+                [
+                    891.0,
+                    226.0
+                ],
+                [
+                    190.0,
+                    223.0
+                ]
+            ]
+        },
+        {
+            "text": "2019",
+            "confidence": 0.997,
+            "box": [
+                [
+                    142.0,
+                    309.0
+                ],
+                [
+                    330.0,
+                    309.0
+                ],
+                [
+                    330.0,
+                    411.0
+                ],
+                [
+                    142.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "2025",
+            "confidence": 0.995,
+            "box": [
+                [
+                    710.0,
+                    309.0
+                ],
+                [
+                    901.0,
+                    309.0
+                ],
+                [
+                    901.0,
+                    411.0
+                ],
+                [
+                    710.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "CTEDTOME",
+            "confidence": 0.886,
+            "box": [
+                [
+                    500.0,
+                    538.0
+                ],
+                [
+                    581.0,
+                    543.0
+                ],
+                [
+                    580.0,
+                    561.0
+                ],
+                [
+                    499.0,
+                    556.0
+                ]
+            ]
+        }
+    ]
+}

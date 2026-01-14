@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-04_05-04-32_UTC.jpg",
+    "combined_text": "CRAZE AND INTERESTING TRAILER OF\n\"BAKASURA RESTAURANT'\nMOVIE RELEASING ON AUG 8TH\nADDICTEDTOMEMES\nAMUSK\nTRAILER LAST LOEVARU RA",
+    "detailed": [
+        {
+            "text": "CRAZE AND INTERESTING TRAILER OF",
+            "confidence": 0.951,
+            "box": [
+                [
+                    91.0,
+                    35.0
+                ],
+                [
+                    1012.0,
+                    35.0
+                ],
+                [
+                    1012.0,
+                    77.0
+                ],
+                [
+                    91.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "\"BAKASURA RESTAURANT'",
+            "confidence": 0.968,
+            "box": [
+                [
+                    235.0,
+                    95.0
+                ],
+                [
+                    877.0,
+                    95.0
+                ],
+                [
+                    877.0,
+                    137.0
+                ],
+                [
+                    235.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON AUG 8TH",
+            "confidence": 0.959,
+            "box": [
+                [
+                    170.0,
+                    155.0
+                ],
+                [
+                    945.0,
+                    155.0
+                ],
+                [
+                    945.0,
+                    197.0
+                ],
+                [
+                    170.0,
+                    197.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    433.0,
+                    566.0
+                ],
+                [
+                    591.0,
+                    567.0
+                ],
+                [
+                    590.0,
+                    590.0
+                ],
+                [
+                    433.0,
+                    588.0
+                ]
+            ]
+        },
+        {
+            "text": "AMUSK",
+            "confidence": 0.876,
+            "box": [
+                [
+                    1008.0,
+                    789.0
+                ],
+                [
+                    1069.0,
+                    789.0
+                ],
+                [
+                    1069.0,
+                    807.0
+                ],
+                [
+                    1008.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILER LAST LOEVARU RA",
+            "confidence": 0.946,
+            "box": [
+                [
+                    9.0,
+                    1270.0
+                ],
+                [
+                    709.0,
+                    1273.0
+                ],
+                [
+                    709.0,
+                    1320.0
+                ],
+                [
+                    8.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

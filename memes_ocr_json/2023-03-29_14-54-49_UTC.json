@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-03-29_14-54-49_UTC.jpg",
+    "combined_text": "PEOPLE IN FB\nTIMELINE\nTEA TAAGUTHAVENTRA\nTELUGU MEMES GURU\nPONI SUSSU TAAGUTHAVA",
+    "detailed": [
+        {
+            "text": "PEOPLE IN FB",
+            "confidence": 0.94,
+            "box": [
+                [
+                    361.0,
+                    62.0
+                ],
+                [
+                    648.0,
+                    62.0
+                ],
+                [
+                    648.0,
+                    99.0
+                ],
+                [
+                    361.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "TIMELINE",
+            "confidence": 0.994,
+            "box": [
+                [
+                    396.0,
+                    109.0
+                ],
+                [
+                    588.0,
+                    109.0
+                ],
+                [
+                    588.0,
+                    144.0
+                ],
+                [
+                    396.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "TEA TAAGUTHAVENTRA",
+            "confidence": 0.986,
+            "box": [
+                [
+                    226.0,
+                    489.0
+                ],
+                [
+                    819.0,
+                    489.0
+                ],
+                [
+                    819.0,
+                    534.0
+                ],
+                [
+                    226.0,
+                    534.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.913,
+            "box": [
+                [
+                    24.0,
+                    560.0
+                ],
+                [
+                    172.0,
+                    560.0
+                ],
+                [
+                    172.0,
+                    580.0
+                ],
+                [
+                    24.0,
+                    580.0
+                ]
+            ]
+        },
+        {
+            "text": "PONI SUSSU TAAGUTHAVA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    205.0,
+                    1043.0
+                ],
+                [
+                    850.0,
+                    1043.0
+                ],
+                [
+                    850.0,
+                    1088.0
+                ],
+                [
+                    205.0,
+                    1088.0
+                ]
+            ]
+        }
+    ]
+}

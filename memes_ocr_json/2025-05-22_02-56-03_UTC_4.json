@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-05-22_02-56-03_UTC_4.jpg",
+    "combined_text": "THARUVATHA TEMPLE LO\nOKADAGGARA KURCHON\nHANUMAN CHALISA\n700\nCHADHAVALIKASEPU\nKNOWMEDGE\nILA CHEYYADAM VALLA\nHANUMANTHUDU MI\nPRARDHANA VINTADU700",
+    "detailed": [
+        {
+            "text": "THARUVATHA TEMPLE LO",
+            "confidence": 0.812,
+            "box": [
+                [
+                    70.0,
+                    406.0
+                ],
+                [
+                    998.0,
+                    406.0
+                ],
+                [
+                    998.0,
+                    461.0
+                ],
+                [
+                    70.0,
+                    461.0
+                ]
+            ]
+        },
+        {
+            "text": "OKADAGGARA KURCHON",
+            "confidence": 0.967,
+            "box": [
+                [
+                    56.0,
+                    467.0
+                ],
+                [
+                    1015.0,
+                    467.0
+                ],
+                [
+                    1015.0,
+                    522.0
+                ],
+                [
+                    56.0,
+                    522.0
+                ]
+            ]
+        },
+        {
+            "text": "HANUMAN CHALISA",
+            "confidence": 0.965,
+            "box": [
+                [
+                    167.0,
+                    524.0
+                ],
+                [
+                    901.0,
+                    527.0
+                ],
+                [
+                    901.0,
+                    584.0
+                ],
+                [
+                    167.0,
+                    581.0
+                ]
+            ]
+        },
+        {
+            "text": "700",
+            "confidence": 0.941,
+            "box": [
+                [
+                    881.0,
+                    578.0
+                ],
+                [
+                    973.0,
+                    569.0
+                ],
+                [
+                    979.0,
+                    632.0
+                ],
+                [
+                    888.0,
+                    642.0
+                ]
+            ]
+        },
+        {
+            "text": "CHADHAVALIKASEPU",
+            "confidence": 0.994,
+            "box": [
+                [
+                    100.0,
+                    588.0
+                ],
+                [
+                    897.0,
+                    582.0
+                ],
+                [
+                    897.0,
+                    641.0
+                ],
+                [
+                    100.0,
+                    647.0
+                ]
+            ]
+        },
+        {
+            "text": "KNOWMEDGE",
+            "confidence": 0.8,
+            "box": [
+                [
+                    13.0,
+                    745.0
+                ],
+                [
+                    113.0,
+                    685.0
+                ],
+                [
+                    141.0,
+                    731.0
+                ],
+                [
+                    41.0,
+                    792.0
+                ]
+            ]
+        },
+        {
+            "text": "ILA CHEYYADAM VALLA",
+            "confidence": 0.868,
+            "box": [
+                [
+                    103.0,
+                    1138.0
+                ],
+                [
+                    979.0,
+                    1138.0
+                ],
+                [
+                    979.0,
+                    1192.0
+                ],
+                [
+                    103.0,
+                    1192.0
+                ]
+            ]
+        },
+        {
+            "text": "HANUMANTHUDU MI",
+            "confidence": 0.961,
+            "box": [
+                [
+                    152.0,
+                    1195.0
+                ],
+                [
+                    937.0,
+                    1197.0
+                ],
+                [
+                    936.0,
+                    1252.0
+                ],
+                [
+                    152.0,
+                    1250.0
+                ]
+            ]
+        },
+        {
+            "text": "PRARDHANA VINTADU700",
+            "confidence": 0.878,
+            "box": [
+                [
+                    15.0,
+                    1249.0
+                ],
+                [
+                    972.0,
+                    1236.0
+                ],
+                [
+                    974.0,
+                    1317.0
+                ],
+                [
+                    16.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

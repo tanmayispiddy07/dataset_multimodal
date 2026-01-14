@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-08-29_14-04-16_UTC.jpg",
+    "combined_text": "POv: Tata Motors when it comes\n700\nto flexing its features\n360HD Surround View System\nRRIE\nErgo Lux Driver Seat\nR17 Titan Forged Alloys\nADAS with Adaptive Cruise Control (AT)",
+    "detailed": [
+        {
+            "text": "POv: Tata Motors when it comes",
+            "confidence": 0.975,
+            "box": [
+                [
+                    96.0,
+                    59.0
+                ],
+                [
+                    969.0,
+                    62.0
+                ],
+                [
+                    969.0,
+                    107.0
+                ],
+                [
+                    96.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "700",
+            "confidence": 0.955,
+            "box": [
+                [
+                    790.0,
+                    135.0
+                ],
+                [
+                    868.0,
+                    128.0
+                ],
+                [
+                    873.0,
+                    188.0
+                ],
+                [
+                    796.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "to flexing its features",
+            "confidence": 0.963,
+            "box": [
+                [
+                    211.0,
+                    148.0
+                ],
+                [
+                    778.0,
+                    148.0
+                ],
+                [
+                    778.0,
+                    201.0
+                ],
+                [
+                    211.0,
+                    201.0
+                ]
+            ]
+        },
+        {
+            "text": "360HD Surround View System",
+            "confidence": 0.963,
+            "box": [
+                [
+                    263.0,
+                    565.0
+                ],
+                [
+                    814.0,
+                    568.0
+                ],
+                [
+                    814.0,
+                    603.0
+                ],
+                [
+                    263.0,
+                    600.0
+                ]
+            ]
+        },
+        {
+            "text": "RRIE",
+            "confidence": 0.995,
+            "box": [
+                [
+                    927.0,
+                    804.0
+                ],
+                [
+                    958.0,
+                    804.0
+                ],
+                [
+                    958.0,
+                    814.0
+                ],
+                [
+                    927.0,
+                    814.0
+                ]
+            ]
+        },
+        {
+            "text": "Ergo Lux Driver Seat",
+            "confidence": 0.984,
+            "box": [
+                [
+                    69.0,
+                    911.0
+                ],
+                [
+                    423.0,
+                    911.0
+                ],
+                [
+                    423.0,
+                    950.0
+                ],
+                [
+                    69.0,
+                    950.0
+                ]
+            ]
+        },
+        {
+            "text": "R17 Titan Forged Alloys",
+            "confidence": 0.993,
+            "box": [
+                [
+                    608.0,
+                    905.0
+                ],
+                [
+                    1025.0,
+                    909.0
+                ],
+                [
+                    1025.0,
+                    950.0
+                ],
+                [
+                    607.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "ADAS with Adaptive Cruise Control (AT)",
+            "confidence": 0.973,
+            "box": [
+                [
+                    190.0,
+                    1287.0
+                ],
+                [
+                    889.0,
+                    1290.0
+                ],
+                [
+                    889.0,
+                    1334.0
+                ],
+                [
+                    190.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

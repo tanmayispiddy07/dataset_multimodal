@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-09-21_13-26-48_UTC.jpg",
+    "combined_text": "6 e Cobra aaSw\nADDICTEDTOMEMES\nCHINNAPUDUNUNCHIUNNA\nBAYAMNIJAMAYINDI",
+    "detailed": [
+        {
+            "text": "6 e Cobra aaSw",
+            "confidence": 0.924,
+            "box": [
+                [
+                    114.0,
+                    105.0
+                ],
+                [
+                    802.0,
+                    105.0
+                ],
+                [
+                    802.0,
+                    181.0
+                ],
+                [
+                    114.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    858.0,
+                    896.0
+                ],
+                [
+                    1021.0,
+                    896.0
+                ],
+                [
+                    1021.0,
+                    921.0
+                ],
+                [
+                    858.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "text": "CHINNAPUDUNUNCHIUNNA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    222.0,
+                    1207.0
+                ],
+                [
+                    958.0,
+                    1210.0
+                ],
+                [
+                    958.0,
+                    1256.0
+                ],
+                [
+                    222.0,
+                    1253.0
+                ]
+            ]
+        },
+        {
+            "text": "BAYAMNIJAMAYINDI",
+            "confidence": 0.993,
+            "box": [
+                [
+                    309.0,
+                    1272.0
+                ],
+                [
+                    858.0,
+                    1272.0
+                ],
+                [
+                    858.0,
+                    1318.0
+                ],
+                [
+                    309.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

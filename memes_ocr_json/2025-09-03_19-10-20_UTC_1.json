@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-09-03_19-10-20_UTC_1.jpg",
+    "combined_text": "What a sad picture\nsarcasm",
+    "detailed": [
+        {
+            "text": "What a sad picture",
+            "confidence": 1.0,
+            "box": [
+                [
+                    56.0,
+                    105.0
+                ],
+                [
+                    751.0,
+                    111.0
+                ],
+                [
+                    750.0,
+                    185.0
+                ],
+                [
+                    56.0,
+                    179.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    794.0,
+                    458.0
+                ],
+                [
+                    906.0,
+                    461.0
+                ],
+                [
+                    905.0,
+                    488.0
+                ],
+                [
+                    793.0,
+                    485.0
+                ]
+            ]
+        }
+    ]
+}

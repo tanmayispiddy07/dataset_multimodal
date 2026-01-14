@@ -1,0 +1,160 @@
+{
+    "image_name": "2019-04-30_22-47-19_UTC.jpg",
+    "combined_text": "IFYOUCANTFNDANYAWEAPONS\nTO HIT THE BAD GUYS,PULL OUT THE\nNEAREST COCONVT TREETOUSEASAWEAPON\nCHennai\nmemes\nWWW.FB.COM/MEMESCHENNA!\nimgflip.com",
+    "detailed": [
+        {
+            "text": "IFYOUCANTFNDANYAWEAPONS",
+            "confidence": 0.942,
+            "box": [
+                [
+                    90.0,
+                    18.0
+                ],
+                [
+                    410.0,
+                    18.0
+                ],
+                [
+                    410.0,
+                    38.0
+                ],
+                [
+                    90.0,
+                    38.0
+                ]
+            ]
+        },
+        {
+            "text": "TO HIT THE BAD GUYS,PULL OUT THE",
+            "confidence": 0.898,
+            "box": [
+                [
+                    76.0,
+                    43.0
+                ],
+                [
+                    432.0,
+                    44.0
+                ],
+                [
+                    432.0,
+                    68.0
+                ],
+                [
+                    76.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "NEAREST COCONVT TREETOUSEASAWEAPON",
+            "confidence": 0.921,
+            "box": [
+                [
+                    29.0,
+                    75.0
+                ],
+                [
+                    476.0,
+                    75.0
+                ],
+                [
+                    476.0,
+                    95.0
+                ],
+                [
+                    29.0,
+                    95.0
+                ]
+            ]
+        },
+        {
+            "text": "CHennai",
+            "confidence": 0.791,
+            "box": [
+                [
+                    35.0,
+                    176.0
+                ],
+                [
+                    124.0,
+                    176.0
+                ],
+                [
+                    124.0,
+                    194.0
+                ],
+                [
+                    35.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "memes",
+            "confidence": 0.996,
+            "box": [
+                [
+                    33.0,
+                    191.0
+                ],
+                [
+                    124.0,
+                    191.0
+                ],
+                [
+                    124.0,
+                    213.0
+                ],
+                [
+                    33.0,
+                    213.0
+                ]
+            ]
+        },
+        {
+            "text": "WWW.FB.COM/MEMESCHENNA!",
+            "confidence": 0.963,
+            "box": [
+                [
+                    174.0,
+                    334.0
+                ],
+                [
+                    479.0,
+                    333.0
+                ],
+                [
+                    480.0,
+                    356.0
+                ],
+                [
+                    174.0,
+                    357.0
+                ]
+            ]
+        },
+        {
+            "text": "imgflip.com",
+            "confidence": 0.905,
+            "box": [
+                [
+                    9.0,
+                    426.0
+                ],
+                [
+                    64.0,
+                    426.0
+                ],
+                [
+                    64.0,
+                    435.0
+                ],
+                [
+                    9.0,
+                    435.0
+                ]
+            ]
+        }
+    ]
+}

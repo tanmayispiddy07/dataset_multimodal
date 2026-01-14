@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-06-16_13-38-06_UTC.jpg",
+    "combined_text": "AIR SERIES STREAMING ON\nETVWIN FROM JULY 3RD !!\nWiNOrginhSria\nAIR\nPREMIERESjULY3\nALL INDEA RANKERS\nPREMIERESjULY3\n**OTHERS OTT PLATFORMS TO ETV WIN\nADDICTEDTOMEMES\nOREYI MERU ENTRA ILA DIMPTHUNNARU\nINTHA MANCHICONTENT",
+    "detailed": [
+        {
+            "text": "AIR SERIES STREAMING ON",
+            "confidence": 0.991,
+            "box": [
+                [
+                    144.0,
+                    73.0
+                ],
+                [
+                    982.0,
+                    76.0
+                ],
+                [
+                    981.0,
+                    136.0
+                ],
+                [
+                    143.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "ETVWIN FROM JULY 3RD !!",
+            "confidence": 0.971,
+            "box": [
+                [
+                    165.0,
+                    155.0
+                ],
+                [
+                    968.0,
+                    155.0
+                ],
+                [
+                    968.0,
+                    209.0
+                ],
+                [
+                    165.0,
+                    209.0
+                ]
+            ]
+        },
+        {
+            "text": "WiNOrginhSria",
+            "confidence": 0.675,
+            "box": [
+                [
+                    759.0,
+                    319.0
+                ],
+                [
+                    876.0,
+                    319.0
+                ],
+                [
+                    876.0,
+                    340.0
+                ],
+                [
+                    759.0,
+                    340.0
+                ]
+            ]
+        },
+        {
+            "text": "AIR",
+            "confidence": 0.991,
+            "box": [
+                [
+                    681.0,
+                    331.0
+                ],
+                [
+                    964.0,
+                    337.0
+                ],
+                [
+                    961.0,
+                    474.0
+                ],
+                [
+                    678.0,
+                    468.0
+                ]
+            ]
+        },
+        {
+            "text": "PREMIERESjULY3",
+            "confidence": 0.944,
+            "box": [
+                [
+                    180.0,
+                    452.0
+                ],
+                [
+                    370.0,
+                    460.0
+                ],
+                [
+                    369.0,
+                    501.0
+                ],
+                [
+                    178.0,
+                    493.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL INDEA RANKERS",
+            "confidence": 0.869,
+            "box": [
+                [
+                    685.0,
+                    462.0
+                ],
+                [
+                    949.0,
+                    462.0
+                ],
+                [
+                    949.0,
+                    483.0
+                ],
+                [
+                    685.0,
+                    483.0
+                ]
+            ]
+        },
+        {
+            "text": "PREMIERESjULY3",
+            "confidence": 0.937,
+            "box": [
+                [
+                    686.0,
+                    518.0
+                ],
+                [
+                    940.0,
+                    525.0
+                ],
+                [
+                    938.0,
+                    577.0
+                ],
+                [
+                    684.0,
+                    570.0
+                ]
+            ]
+        },
+        {
+            "text": "**OTHERS OTT PLATFORMS TO ETV WIN",
+            "confidence": 0.936,
+            "box": [
+                [
+                    325.0,
+                    974.0
+                ],
+                [
+                    976.0,
+                    978.0
+                ],
+                [
+                    976.0,
+                    1017.0
+                ],
+                [
+                    325.0,
+                    1013.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    11.0,
+                    1124.0
+                ],
+                [
+                    170.0,
+                    1124.0
+                ],
+                [
+                    170.0,
+                    1145.0
+                ],
+                [
+                    11.0,
+                    1145.0
+                ]
+            ]
+        },
+        {
+            "text": "OREYI MERU ENTRA ILA DIMPTHUNNARU",
+            "confidence": 0.942,
+            "box": [
+                [
+                    125.0,
+                    1206.0
+                ],
+                [
+                    921.0,
+                    1209.0
+                ],
+                [
+                    921.0,
+                    1246.0
+                ],
+                [
+                    125.0,
+                    1244.0
+                ]
+            ]
+        },
+        {
+            "text": "INTHA MANCHICONTENT",
+            "confidence": 0.969,
+            "box": [
+                [
+                    269.0,
+                    1301.0
+                ],
+                [
+                    766.0,
+                    1303.0
+                ],
+                [
+                    766.0,
+                    1342.0
+                ],
+                [
+                    269.0,
+                    1341.0
+                ]
+            ]
+        }
+    ]
+}

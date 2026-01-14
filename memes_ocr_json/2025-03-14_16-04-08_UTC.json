@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-03-14_16-04-08_UTC.jpg",
+    "combined_text": "SEVEN FAME TOLLYWOOD'S YOUNG\nACTOR CUM PRODUCER HAVISH,\nWISHES EVERYONE A JOYOUS HOLI\nHoli\nADDICTEDTOMEMES\nMEE UPCOMING PROJECT DETAILS\nGURUINCHI KUDA CHEPTHA BREAK\nIVVADANIKI READY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "SEVEN FAME TOLLYWOOD'S YOUNG",
+            "confidence": 0.959,
+            "box": [
+                [
+                    121.0,
+                    42.0
+                ],
+                [
+                    1004.0,
+                    42.0
+                ],
+                [
+                    1004.0,
+                    84.0
+                ],
+                [
+                    121.0,
+                    84.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTOR CUM PRODUCER HAVISH,",
+            "confidence": 0.953,
+            "box": [
+                [
+                    155.0,
+                    99.0
+                ],
+                [
+                    969.0,
+                    102.0
+                ],
+                [
+                    969.0,
+                    149.0
+                ],
+                [
+                    155.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "WISHES EVERYONE A JOYOUS HOLI",
+            "confidence": 0.972,
+            "box": [
+                [
+                    128.0,
+                    164.0
+                ],
+                [
+                    1000.0,
+                    164.0
+                ],
+                [
+                    1000.0,
+                    206.0
+                ],
+                [
+                    128.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "Holi",
+            "confidence": 0.902,
+            "box": [
+                [
+                    836.0,
+                    748.0
+                ],
+                [
+                    992.0,
+                    740.0
+                ],
+                [
+                    995.0,
+                    803.0
+                ],
+                [
+                    839.0,
+                    811.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    429.0,
+                    974.0
+                ],
+                [
+                    596.0,
+                    974.0
+                ],
+                [
+                    596.0,
+                    995.0
+                ],
+                [
+                    429.0,
+                    995.0
+                ]
+            ]
+        },
+        {
+            "text": "MEE UPCOMING PROJECT DETAILS",
+            "confidence": 0.943,
+            "box": [
+                [
+                    558.0,
+                    1231.0
+                ],
+                [
+                    1053.0,
+                    1231.0
+                ],
+                [
+                    1053.0,
+                    1260.0
+                ],
+                [
+                    558.0,
+                    1260.0
+                ]
+            ]
+        },
+        {
+            "text": "GURUINCHI KUDA CHEPTHA BREAK",
+            "confidence": 0.97,
+            "box": [
+                [
+                    557.0,
+                    1263.0
+                ],
+                [
+                    1055.0,
+                    1264.0
+                ],
+                [
+                    1055.0,
+                    1295.0
+                ],
+                [
+                    557.0,
+                    1293.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    568.0,
+                    1300.0
+                ],
+                [
+                    1034.0,
+                    1300.0
+                ],
+                [
+                    1034.0,
+                    1330.0
+                ],
+                [
+                    568.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

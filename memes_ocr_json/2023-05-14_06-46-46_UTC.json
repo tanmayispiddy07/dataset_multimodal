@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-05-14_06-46-46_UTC.jpg",
+    "combined_text": "KATHAVENUKA KATHARUNNING\nSUCCESSFULLY IN THEATRE'S\nMOVIETEAM\nTELUGU MEMES GURU",
+    "detailed": [
+        {
+            "text": "KATHAVENUKA KATHARUNNING",
+            "confidence": 0.972,
+            "box": [
+                [
+                    51.0,
+                    404.0
+                ],
+                [
+                    1022.0,
+                    404.0
+                ],
+                [
+                    1022.0,
+                    446.0
+                ],
+                [
+                    51.0,
+                    446.0
+                ]
+            ]
+        },
+        {
+            "text": "SUCCESSFULLY IN THEATRE'S",
+            "confidence": 0.963,
+            "box": [
+                [
+                    128.0,
+                    464.0
+                ],
+                [
+                    946.0,
+                    465.0
+                ],
+                [
+                    946.0,
+                    513.0
+                ],
+                [
+                    128.0,
+                    512.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIETEAM",
+            "confidence": 0.993,
+            "box": [
+                [
+                    55.0,
+                    937.0
+                ],
+                [
+                    425.0,
+                    937.0
+                ],
+                [
+                    425.0,
+                    984.0
+                ],
+                [
+                    55.0,
+                    984.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.941,
+            "box": [
+                [
+                    865.0,
+                    1010.0
+                ],
+                [
+                    1011.0,
+                    1010.0
+                ],
+                [
+                    1011.0,
+                    1031.0
+                ],
+                [
+                    865.0,
+                    1031.0
+                ]
+            ]
+        }
+    ]
+}

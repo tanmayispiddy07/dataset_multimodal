@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-04-27_08-32-55_UTC.jpg",
+    "combined_text": "Stake\nsarcasm\nOnce, Vladimir Putin said:\n'To forgive the terrorists is up\nto God, but to send them to\nhim is up to me",
+    "detailed": [
+        {
+            "text": "Stake",
+            "confidence": 0.967,
+            "box": [
+                [
+                    893.0,
+                    27.0
+                ],
+                [
+                    1056.0,
+                    27.0
+                ],
+                [
+                    1056.0,
+                    115.0
+                ],
+                [
+                    893.0,
+                    115.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    475.0,
+                    901.0
+                ],
+                [
+                    605.0,
+                    901.0
+                ],
+                [
+                    605.0,
+                    927.0
+                ],
+                [
+                    475.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "text": "Once, Vladimir Putin said:",
+            "confidence": 0.99,
+            "box": [
+                [
+                    124.0,
+                    958.0
+                ],
+                [
+                    960.0,
+                    958.0
+                ],
+                [
+                    960.0,
+                    1016.0
+                ],
+                [
+                    124.0,
+                    1016.0
+                ]
+            ]
+        },
+        {
+            "text": "'To forgive the terrorists is up",
+            "confidence": 0.991,
+            "box": [
+                [
+                    182.0,
+                    1054.0
+                ],
+                [
+                    913.0,
+                    1059.0
+                ],
+                [
+                    912.0,
+                    1114.0
+                ],
+                [
+                    181.0,
+                    1108.0
+                ]
+            ]
+        },
+        {
+            "text": "to God, but to send them to",
+            "confidence": 0.981,
+            "box": [
+                [
+                    190.0,
+                    1134.0
+                ],
+                [
+                    892.0,
+                    1135.0
+                ],
+                [
+                    892.0,
+                    1180.0
+                ],
+                [
+                    190.0,
+                    1179.0
+                ]
+            ]
+        },
+        {
+            "text": "him is up to me",
+            "confidence": 0.999,
+            "box": [
+                [
+                    335.0,
+                    1205.0
+                ],
+                [
+                    723.0,
+                    1210.0
+                ],
+                [
+                    722.0,
+                    1264.0
+                ],
+                [
+                    334.0,
+                    1260.0
+                ]
+            ]
+        }
+    ]
+}

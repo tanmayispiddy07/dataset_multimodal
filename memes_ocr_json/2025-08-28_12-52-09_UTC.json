@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-08-28_12-52-09_UTC.jpg",
+    "combined_text": "GRAND RELEASING IN TELUGU TOMMOROW\nDULQUER SALMAAN\nBLOCKBUSTER REVIEWS\nFROM MALAYALAM\nCHAPTER-CHANORA\nSg5d ga\n9TAUGUST\nDOMINICARUNH\nWAYFARERFILMS\nNIMISH RAVI\nDNIE\ne m so\nUA16+\nADDICTEDTOMEMES\nASALU AH REVIEWS AH RATINGS\nCHUSAKA EMATRAMCHALU\nANIPISTHUNDHI REPU VELLIPOVADAME",
+    "detailed": [
+        {
+            "text": "GRAND RELEASING IN TELUGU TOMMOROW",
+            "confidence": 0.968,
+            "box": [
+                [
+                    53.0,
+                    124.0
+                ],
+                [
+                    1028.0,
+                    124.0
+                ],
+                [
+                    1028.0,
+                    162.0
+                ],
+                [
+                    53.0,
+                    162.0
+                ]
+            ]
+        },
+        {
+            "text": "DULQUER SALMAAN",
+            "confidence": 0.865,
+            "box": [
+                [
+                    218.0,
+                    231.0
+                ],
+                [
+                    355.0,
+                    239.0
+                ],
+                [
+                    353.0,
+                    270.0
+                ],
+                [
+                    216.0,
+                    261.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER REVIEWS",
+            "confidence": 0.974,
+            "box": [
+                [
+                    104.0,
+                    270.0
+                ],
+                [
+                    481.0,
+                    270.0
+                ],
+                [
+                    481.0,
+                    316.0
+                ],
+                [
+                    104.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM MALAYALAM",
+            "confidence": 0.959,
+            "box": [
+                [
+                    210.0,
+                    316.0
+                ],
+                [
+                    363.0,
+                    316.0
+                ],
+                [
+                    363.0,
+                    346.0
+                ],
+                [
+                    210.0,
+                    346.0
+                ]
+            ]
+        },
+        {
+            "text": "CHAPTER-CHANORA",
+            "confidence": 0.742,
+            "box": [
+                [
+                    831.0,
+                    489.0
+                ],
+                [
+                    928.0,
+                    489.0
+                ],
+                [
+                    928.0,
+                    510.0
+                ],
+                [
+                    831.0,
+                    510.0
+                ]
+            ]
+        },
+        {
+            "text": "Sg5d ga",
+            "confidence": 0.622,
+            "box": [
+                [
+                    172.0,
+                    859.0
+                ],
+                [
+                    402.0,
+                    859.0
+                ],
+                [
+                    402.0,
+                    942.0
+                ],
+                [
+                    172.0,
+                    942.0
+                ]
+            ]
+        },
+        {
+            "text": "9TAUGUST",
+            "confidence": 0.977,
+            "box": [
+                [
+                    0.0,
+                    945.0
+                ],
+                [
+                    90.0,
+                    945.0
+                ],
+                [
+                    90.0,
+                    976.0
+                ],
+                [
+                    0.0,
+                    976.0
+                ]
+            ]
+        },
+        {
+            "text": "DOMINICARUNH",
+            "confidence": 0.931,
+            "box": [
+                [
+                    166.0,
+                    953.0
+                ],
+                [
+                    257.0,
+                    952.0
+                ],
+                [
+                    257.0,
+                    970.0
+                ],
+                [
+                    166.0,
+                    972.0
+                ]
+            ]
+        },
+        {
+            "text": "WAYFARERFILMS",
+            "confidence": 0.924,
+            "box": [
+                [
+                    263.0,
+                    952.0
+                ],
+                [
+                    359.0,
+                    953.0
+                ],
+                [
+                    358.0,
+                    972.0
+                ],
+                [
+                    263.0,
+                    970.0
+                ]
+            ]
+        },
+        {
+            "text": "NIMISH RAVI",
+            "confidence": 0.932,
+            "box": [
+                [
+                    419.0,
+                    955.0
+                ],
+                [
+                    480.0,
+                    955.0
+                ],
+                [
+                    480.0,
+                    971.0
+                ],
+                [
+                    419.0,
+                    971.0
+                ]
+            ]
+        },
+        {
+            "text": "DNIE",
+            "confidence": 0.635,
+            "box": [
+                [
+                    7.0,
+                    974.0
+                ],
+                [
+                    86.0,
+                    974.0
+                ],
+                [
+                    86.0,
+                    991.0
+                ],
+                [
+                    7.0,
+                    991.0
+                ]
+            ]
+        },
+        {
+            "text": "e m so",
+            "confidence": 0.617,
+            "box": [
+                [
+                    173.0,
+                    969.0
+                ],
+                [
+                    395.0,
+                    969.0
+                ],
+                [
+                    395.0,
+                    994.0
+                ],
+                [
+                    173.0,
+                    994.0
+                ]
+            ]
+        },
+        {
+            "text": "UA16+",
+            "confidence": 0.958,
+            "box": [
+                [
+                    478.0,
+                    973.0
+                ],
+                [
+                    527.0,
+                    973.0
+                ],
+                [
+                    527.0,
+                    991.0
+                ],
+                [
+                    478.0,
+                    991.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    918.0,
+                    1114.0
+                ],
+                [
+                    1058.0,
+                    1114.0
+                ],
+                [
+                    1058.0,
+                    1130.0
+                ],
+                [
+                    918.0,
+                    1130.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALU AH REVIEWS AH RATINGS",
+            "confidence": 0.937,
+            "box": [
+                [
+                    80.0,
+                    1207.0
+                ],
+                [
+                    629.0,
+                    1207.0
+                ],
+                [
+                    629.0,
+                    1240.0
+                ],
+                [
+                    80.0,
+                    1240.0
+                ]
+            ]
+        },
+        {
+            "text": "CHUSAKA EMATRAMCHALU",
+            "confidence": 0.973,
+            "box": [
+                [
+                    115.0,
+                    1252.0
+                ],
+                [
+                    591.0,
+                    1252.0
+                ],
+                [
+                    591.0,
+                    1277.0
+                ],
+                [
+                    115.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIPISTHUNDHI REPU VELLIPOVADAME",
+            "confidence": 0.964,
+            "box": [
+                [
+                    22.0,
+                    1286.0
+                ],
+                [
+                    678.0,
+                    1286.0
+                ],
+                [
+                    678.0,
+                    1320.0
+                ],
+                [
+                    22.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-14_03-33-06_UTC.jpg",
+    "combined_text": "ME AFTER USING PHONE AT\nMIDNIGHT WITH NO BRIGHTNESS\nSITUATION AT MORNING\nWHILE\nTRYING TO OPEN PHONE\nNAKEM KANIPINCHATLEDHU\nNAKEM KANIPINCHATLEDHU\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "ME AFTER USING PHONE AT",
+            "confidence": 0.995,
+            "box": [
+                [
+                    165.0,
+                    14.0
+                ],
+                [
+                    963.0,
+                    14.0
+                ],
+                [
+                    963.0,
+                    64.0
+                ],
+                [
+                    165.0,
+                    64.0
+                ]
+            ]
+        },
+        {
+            "text": "MIDNIGHT WITH NO BRIGHTNESS",
+            "confidence": 0.969,
+            "box": [
+                [
+                    83.0,
+                    89.0
+                ],
+                [
+                    1027.0,
+                    89.0
+                ],
+                [
+                    1027.0,
+                    135.0
+                ],
+                [
+                    83.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "SITUATION AT MORNING",
+            "confidence": 0.965,
+            "box": [
+                [
+                    117.0,
+                    190.0
+                ],
+                [
+                    783.0,
+                    190.0
+                ],
+                [
+                    783.0,
+                    236.0
+                ],
+                [
+                    117.0,
+                    236.0
+                ]
+            ]
+        },
+        {
+            "text": "WHILE",
+            "confidence": 0.991,
+            "box": [
+                [
+                    754.0,
+                    185.0
+                ],
+                [
+                    954.0,
+                    188.0
+                ],
+                [
+                    953.0,
+                    236.0
+                ],
+                [
+                    753.0,
+                    232.0
+                ]
+            ]
+        },
+        {
+            "text": "TRYING TO OPEN PHONE",
+            "confidence": 0.943,
+            "box": [
+                [
+                    208.0,
+                    255.0
+                ],
+                [
+                    865.0,
+                    255.0
+                ],
+                [
+                    865.0,
+                    301.0
+                ],
+                [
+                    208.0,
+                    301.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKEM KANIPINCHATLEDHU",
+            "confidence": 0.972,
+            "box": [
+                [
+                    238.0,
+                    778.0
+                ],
+                [
+                    854.0,
+                    779.0
+                ],
+                [
+                    854.0,
+                    818.0
+                ],
+                [
+                    238.0,
+                    817.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKEM KANIPINCHATLEDHU",
+            "confidence": 0.979,
+            "box": [
+                [
+                    239.0,
+                    835.0
+                ],
+                [
+                    852.0,
+                    835.0
+                ],
+                [
+                    852.0,
+                    872.0
+                ],
+                [
+                    239.0,
+                    872.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.99,
+            "box": [
+                [
+                    904.0,
+                    875.0
+                ],
+                [
+                    1049.0,
+                    875.0
+                ],
+                [
+                    1049.0,
+                    896.0
+                ],
+                [
+                    904.0,
+                    896.0
+                ]
+            ]
+        }
+    ]
+}

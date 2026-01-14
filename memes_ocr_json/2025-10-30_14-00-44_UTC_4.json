@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-10-30_14-00-44_UTC_4.jpg",
+    "combined_text": "What the hell do you want?\nW\nOne more time Undertaker vs Brock",
+    "detailed": [
+        {
+            "text": "What the hell do you want?",
+            "confidence": 0.996,
+            "box": [
+                [
+                    198.0,
+                    605.0
+                ],
+                [
+                    824.0,
+                    606.0
+                ],
+                [
+                    824.0,
+                    651.0
+                ],
+                [
+                    198.0,
+                    650.0
+                ]
+            ]
+        },
+        {
+            "text": "W",
+            "confidence": 0.933,
+            "box": [
+                [
+                    997.0,
+                    1093.0
+                ],
+                [
+                    1035.0,
+                    1093.0
+                ],
+                [
+                    1035.0,
+                    1119.0
+                ],
+                [
+                    997.0,
+                    1119.0
+                ]
+            ]
+        },
+        {
+            "text": "One more time Undertaker vs Brock",
+            "confidence": 0.992,
+            "box": [
+                [
+                    104.0,
+                    1277.0
+                ],
+                [
+                    913.0,
+                    1278.0
+                ],
+                [
+                    913.0,
+                    1319.0
+                ],
+                [
+                    104.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "image_name": "2023-05-25_13-49-15_UTC.jpg",
+    "combined_text": "MORNING MAHESH SIR CALL CHESINAPPUDU 20 MIN\nMOVIE & ARTISTS PERFORMANCE GURINCHI MATLADARU\nTELUGU MEMES GURU\nESPECIALLY SUMANTH PERFORMANCE\nGURINCHI AITHEY CHALA SEPU MATLADARU\nAND SUMANTH NEXT FILM MAHESH BABU GARU\nMANATHO PATU PRODUCE CHETHUNNARU IDHEY\nOFFICIAL ANNOUNCEMENT ANUKONDI",
+    "detailed": [
+        {
+            "text": "MORNING MAHESH SIR CALL CHESINAPPUDU 20 MIN",
+            "confidence": 0.936,
+            "box": [
+                [
+                    59.0,
+                    352.0
+                ],
+                [
+                    1028.0,
+                    352.0
+                ],
+                [
+                    1028.0,
+                    385.0
+                ],
+                [
+                    59.0,
+                    385.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE & ARTISTS PERFORMANCE GURINCHI MATLADARU",
+            "confidence": 0.95,
+            "box": [
+                [
+                    15.0,
+                    395.0
+                ],
+                [
+                    1067.0,
+                    395.0
+                ],
+                [
+                    1067.0,
+                    428.0
+                ],
+                [
+                    15.0,
+                    428.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    862.0,
+                    702.0
+                ],
+                [
+                    1025.0,
+                    702.0
+                ],
+                [
+                    1025.0,
+                    723.0
+                ],
+                [
+                    862.0,
+                    723.0
+                ]
+            ]
+        },
+        {
+            "text": "ESPECIALLY SUMANTH PERFORMANCE",
+            "confidence": 0.966,
+            "box": [
+                [
+                    122.0,
+                    787.0
+                ],
+                [
+                    960.0,
+                    787.0
+                ],
+                [
+                    960.0,
+                    820.0
+                ],
+                [
+                    122.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "GURINCHI AITHEY CHALA SEPU MATLADARU",
+            "confidence": 0.969,
+            "box": [
+                [
+                    53.0,
+                    832.0
+                ],
+                [
+                    1025.0,
+                    834.0
+                ],
+                [
+                    1025.0,
+                    871.0
+                ],
+                [
+                    53.0,
+                    870.0
+                ]
+            ]
+        },
+        {
+            "text": "AND SUMANTH NEXT FILM MAHESH BABU GARU",
+            "confidence": 0.931,
+            "box": [
+                [
+                    42.0,
+                    1183.0
+                ],
+                [
+                    1035.0,
+                    1183.0
+                ],
+                [
+                    1035.0,
+                    1216.0
+                ],
+                [
+                    42.0,
+                    1216.0
+                ]
+            ]
+        },
+        {
+            "text": "MANATHO PATU PRODUCE CHETHUNNARU IDHEY",
+            "confidence": 0.951,
+            "box": [
+                [
+                    32.0,
+                    1230.0
+                ],
+                [
+                    1043.0,
+                    1230.0
+                ],
+                [
+                    1043.0,
+                    1263.0
+                ],
+                [
+                    32.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "OFFICIAL ANNOUNCEMENT ANUKONDI",
+            "confidence": 0.977,
+            "box": [
+                [
+                    136.0,
+                    1277.0
+                ],
+                [
+                    930.0,
+                    1277.0
+                ],
+                [
+                    930.0,
+                    1310.0
+                ],
+                [
+                    136.0,
+                    1310.0
+                ]
+            ]
+        }
+    ]
+}

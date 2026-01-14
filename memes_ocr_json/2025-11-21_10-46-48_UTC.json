@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-21_10-46-48_UTC.jpg",
+    "combined_text": "PREMANTE\nWINNING\n HEARTS\nWITH LEAD PAIR CHEMISTRY\nPETADAZSH\nTNALINLA\nThrill-u Praptirasthul\nRELATED CHARACTERS ARE MEANT FOR\nPRIYADARSHI HE INVOLVES IN CHARACTER\nAND GIVES HIS BEST",
+    "detailed": [
+        {
+            "text": "PREMANTE",
+            "confidence": 0.991,
+            "box": [
+                [
+                    54.0,
+                    74.0
+                ],
+                [
+                    417.0,
+                    74.0
+                ],
+                [
+                    417.0,
+                    123.0
+                ],
+                [
+                    54.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "WINNING",
+            "confidence": 0.9,
+            "box": [
+                [
+                    400.0,
+                    75.0
+                ],
+                [
+                    740.0,
+                    75.0
+                ],
+                [
+                    740.0,
+                    120.0
+                ],
+                [
+                    400.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": " HEARTS",
+            "confidence": 0.901,
+            "box": [
+                [
+                    717.0,
+                    74.0
+                ],
+                [
+                    1005.0,
+                    74.0
+                ],
+                [
+                    1005.0,
+                    123.0
+                ],
+                [
+                    717.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH LEAD PAIR CHEMISTRY",
+            "confidence": 0.997,
+            "box": [
+                [
+                    74.0,
+                    152.0
+                ],
+                [
+                    984.0,
+                    152.0
+                ],
+                [
+                    984.0,
+                    207.0
+                ],
+                [
+                    74.0,
+                    207.0
+                ]
+            ]
+        },
+        {
+            "text": "PETADAZSH",
+            "confidence": 0.699,
+            "box": [
+                [
+                    65.0,
+                    331.0
+                ],
+                [
+                    104.0,
+                    331.0
+                ],
+                [
+                    104.0,
+                    347.0
+                ],
+                [
+                    65.0,
+                    347.0
+                ]
+            ]
+        },
+        {
+            "text": "TNALINLA",
+            "confidence": 0.532,
+            "box": [
+                [
+                    65.0,
+                    350.0
+                ],
+                [
+                    99.0,
+                    350.0
+                ],
+                [
+                    99.0,
+                    363.0
+                ],
+                [
+                    65.0,
+                    363.0
+                ]
+            ]
+        },
+        {
+            "text": "Thrill-u Praptirasthul",
+            "confidence": 0.905,
+            "box": [
+                [
+                    160.0,
+                    464.0
+                ],
+                [
+                    345.0,
+                    427.0
+                ],
+                [
+                    349.0,
+                    447.0
+                ],
+                [
+                    163.0,
+                    484.0
+                ]
+            ]
+        },
+        {
+            "text": "RELATED CHARACTERS ARE MEANT FOR",
+            "confidence": 0.946,
+            "box": [
+                [
+                    84.0,
+                    960.0
+                ],
+                [
+                    1011.0,
+                    960.0
+                ],
+                [
+                    1011.0,
+                    1000.0
+                ],
+                [
+                    84.0,
+                    1000.0
+                ]
+            ]
+        },
+        {
+            "text": "PRIYADARSHI HE INVOLVES IN CHARACTER",
+            "confidence": 0.964,
+            "box": [
+                [
+                    51.0,
+                    1013.0
+                ],
+                [
+                    1044.0,
+                    1016.0
+                ],
+                [
+                    1044.0,
+                    1061.0
+                ],
+                [
+                    51.0,
+                    1058.0
+                ]
+            ]
+        },
+        {
+            "text": "AND GIVES HIS BEST",
+            "confidence": 0.951,
+            "box": [
+                [
+                    298.0,
+                    1072.0
+                ],
+                [
+                    790.0,
+                    1072.0
+                ],
+                [
+                    790.0,
+                    1116.0
+                ],
+                [
+                    298.0,
+                    1116.0
+                ]
+            ]
+        }
+    ]
+}

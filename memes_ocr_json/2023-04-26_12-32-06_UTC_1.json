@@ -1,0 +1,138 @@
+{
+    "image_name": "2023-04-26_12-32-06_UTC_1.jpg",
+    "combined_text": "MANAStars\nSoftware Jobs kosam inni rojulu\nkastapadindi chalu.Easy ga oka path\nfollow ela techukovalo cheptha\nMANAStars\nSwipe cheyandi >>>",
+    "detailed": [
+        {
+            "text": "MANAStars",
+            "confidence": 0.91,
+            "box": [
+                [
+                    173.0,
+                    233.0
+                ],
+                [
+                    277.0,
+                    237.0
+                ],
+                [
+                    276.0,
+                    265.0
+                ],
+                [
+                    172.0,
+                    261.0
+                ]
+            ]
+        },
+        {
+            "text": "Software Jobs kosam inni rojulu",
+            "confidence": 0.993,
+            "box": [
+                [
+                    185.0,
+                    363.0
+                ],
+                [
+                    956.0,
+                    366.0
+                ],
+                [
+                    956.0,
+                    414.0
+                ],
+                [
+                    184.0,
+                    412.0
+                ]
+            ]
+        },
+        {
+            "text": "kastapadindi chalu.Easy ga oka path",
+            "confidence": 1.0,
+            "box": [
+                [
+                    119.0,
+                    424.0
+                ],
+                [
+                    1025.0,
+                    421.0
+                ],
+                [
+                    1025.0,
+                    483.0
+                ],
+                [
+                    119.0,
+                    486.0
+                ]
+            ]
+        },
+        {
+            "text": "follow ela techukovalo cheptha",
+            "confidence": 0.994,
+            "box": [
+                [
+                    191.0,
+                    486.0
+                ],
+                [
+                    950.0,
+                    489.0
+                ],
+                [
+                    949.0,
+                    541.0
+                ],
+                [
+                    191.0,
+                    538.0
+                ]
+            ]
+        },
+        {
+            "text": "MANAStars",
+            "confidence": 0.876,
+            "box": [
+                [
+                    175.0,
+                    817.0
+                ],
+                [
+                    284.0,
+                    823.0
+                ],
+                [
+                    283.0,
+                    851.0
+                ],
+                [
+                    174.0,
+                    846.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe cheyandi >>>",
+            "confidence": 0.986,
+            "box": [
+                [
+                    285.0,
+                    1009.0
+                ],
+                [
+                    757.0,
+                    1011.0
+                ],
+                [
+                    757.0,
+                    1063.0
+                ],
+                [
+                    285.0,
+                    1061.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "2019-07-29_17-24-15_UTC.jpg",
+    "combined_text": "me walking into school",
+    "detailed": [
+        {
+            "text": "me walking into school",
+            "confidence": 0.968,
+            "box": [
+                [
+                    120.0,
+                    123.0
+                ],
+                [
+                    928.0,
+                    119.0
+                ],
+                [
+                    928.0,
+                    205.0
+                ],
+                [
+                    121.0,
+                    208.0
+                ]
+            ]
+        }
+    ]
+}

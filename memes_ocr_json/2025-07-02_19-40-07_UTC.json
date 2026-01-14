@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-07-02_19-40-07_UTC.jpg",
+    "combined_text": "Boys and their intrusive thoughts",
+    "detailed": [
+        {
+            "text": "Boys and their intrusive thoughts",
+            "confidence": 0.97,
+            "box": [
+                [
+                    60.0,
+                    158.0
+                ],
+                [
+                    474.0,
+                    155.0
+                ],
+                [
+                    475.0,
+                    183.0
+                ],
+                [
+                    61.0,
+                    186.0
+                ]
+            ]
+        }
+    ]
+}

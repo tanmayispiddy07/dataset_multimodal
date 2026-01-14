@@ -1,0 +1,358 @@
+{
+    "image_name": "2025-06-19_05-23-28_UTC.jpg",
+    "combined_text": "HONOURABLE CINEMATOGRAPHY MINISTER\nKOMATIREDDY VENKAT REDDY LAUNCHED THE POSTER\nOF #MISSTERIOUS.BUT WHY HAS THE TEAM CHOSEN\nTHIS TITLE? DOES IT HINT THAT SOMEONE IS MISSING?\nUSHASSHIVANI\nISNOIA\nNOT CRO\nNOFCR\n[COMING SOON\nVAHI\nMISSTERIOUS\nwsesoaws\nADDICTEDTOMEMES\nAH MISS AYINA PERSON GURINCHI TELUSUKONI\nBREAK IVVADANIKI READY GA UNNAMU\nTATA",
+    "detailed": [
+        {
+            "text": "HONOURABLE CINEMATOGRAPHY MINISTER",
+            "confidence": 0.976,
+            "box": [
+                [
+                    134.0,
+                    35.0
+                ],
+                [
+                    918.0,
+                    38.0
+                ],
+                [
+                    918.0,
+                    71.0
+                ],
+                [
+                    134.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "KOMATIREDDY VENKAT REDDY LAUNCHED THE POSTER",
+            "confidence": 0.95,
+            "box": [
+                [
+                    44.0,
+                    84.0
+                ],
+                [
+                    1008.0,
+                    84.0
+                ],
+                [
+                    1008.0,
+                    113.0
+                ],
+                [
+                    44.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "OF #MISSTERIOUS.BUT WHY HAS THE TEAM CHOSEN",
+            "confidence": 0.955,
+            "box": [
+                [
+                    56.0,
+                    124.0
+                ],
+                [
+                    994.0,
+                    125.0
+                ],
+                [
+                    994.0,
+                    159.0
+                ],
+                [
+                    56.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "THIS TITLE? DOES IT HINT THAT SOMEONE IS MISSING?",
+            "confidence": 0.946,
+            "box": [
+                [
+                    51.0,
+                    170.0
+                ],
+                [
+                    1003.0,
+                    170.0
+                ],
+                [
+                    1003.0,
+                    203.0
+                ],
+                [
+                    51.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "USHASSHIVANI",
+            "confidence": 0.913,
+            "box": [
+                [
+                    378.0,
+                    265.0
+                ],
+                [
+                    472.0,
+                    265.0
+                ],
+                [
+                    472.0,
+                    286.0
+                ],
+                [
+                    378.0,
+                    286.0
+                ]
+            ]
+        },
+        {
+            "text": "ISNOIA",
+            "confidence": 0.808,
+            "box": [
+                [
+                    222.0,
+                    275.0
+                ],
+                [
+                    316.0,
+                    275.0
+                ],
+                [
+                    316.0,
+                    291.0
+                ],
+                [
+                    222.0,
+                    291.0
+                ]
+            ]
+        },
+        {
+            "text": "NOT CRO",
+            "confidence": 0.695,
+            "box": [
+                [
+                    304.0,
+                    627.0
+                ],
+                [
+                    351.0,
+                    619.0
+                ],
+                [
+                    354.0,
+                    638.0
+                ],
+                [
+                    307.0,
+                    645.0
+                ]
+            ]
+        },
+        {
+            "text": "NOFCR",
+            "confidence": 0.679,
+            "box": [
+                [
+                    225.0,
+                    652.0
+                ],
+                [
+                    255.0,
+                    646.0
+                ],
+                [
+                    257.0,
+                    659.0
+                ],
+                [
+                    228.0,
+                    664.0
+                ]
+            ]
+        },
+        {
+            "text": "[COMING SOON",
+            "confidence": 0.892,
+            "box": [
+                [
+                    350.0,
+                    650.0
+                ],
+                [
+                    460.0,
+                    623.0
+                ],
+                [
+                    468.0,
+                    654.0
+                ],
+                [
+                    358.0,
+                    681.0
+                ]
+            ]
+        },
+        {
+            "text": "VAHI",
+            "confidence": 0.734,
+            "box": [
+                [
+                    103.0,
+                    728.0
+                ],
+                [
+                    149.0,
+                    728.0
+                ],
+                [
+                    149.0,
+                    740.0
+                ],
+                [
+                    103.0,
+                    740.0
+                ]
+            ]
+        },
+        {
+            "text": "MISSTERIOUS",
+            "confidence": 0.997,
+            "box": [
+                [
+                    1.0,
+                    747.0
+                ],
+                [
+                    409.0,
+                    746.0
+                ],
+                [
+                    409.0,
+                    789.0
+                ],
+                [
+                    2.0,
+                    790.0
+                ]
+            ]
+        },
+        {
+            "text": "wsesoaws",
+            "confidence": 0.569,
+            "box": [
+                [
+                    96.0,
+                    790.0
+                ],
+                [
+                    247.0,
+                    790.0
+                ],
+                [
+                    247.0,
+                    820.0
+                ],
+                [
+                    96.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    18.0,
+                    1048.0
+                ],
+                [
+                    163.0,
+                    1048.0
+                ],
+                [
+                    163.0,
+                    1065.0
+                ],
+                [
+                    18.0,
+                    1065.0
+                ]
+            ]
+        },
+        {
+            "text": "AH MISS AYINA PERSON GURINCHI TELUSUKONI",
+            "confidence": 0.944,
+            "box": [
+                [
+                    94.0,
+                    1253.0
+                ],
+                [
+                    939.0,
+                    1253.0
+                ],
+                [
+                    939.0,
+                    1286.0
+                ],
+                [
+                    94.0,
+                    1286.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAK IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.947,
+            "box": [
+                [
+                    156.0,
+                    1298.0
+                ],
+                [
+                    863.0,
+                    1298.0
+                ],
+                [
+                    863.0,
+                    1331.0
+                ],
+                [
+                    156.0,
+                    1331.0
+                ]
+            ]
+        },
+        {
+            "text": "TATA",
+            "confidence": 0.571,
+            "box": [
+                [
+                    969.0,
+                    1310.0
+                ],
+                [
+                    998.0,
+                    1310.0
+                ],
+                [
+                    998.0,
+                    1324.0
+                ],
+                [
+                    969.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

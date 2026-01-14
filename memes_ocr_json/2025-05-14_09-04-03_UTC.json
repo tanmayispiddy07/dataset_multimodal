@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-05-14_09-04-03_UTC.jpg",
+    "combined_text": "CTGIRL\n1R\nsarcasm\nI hopethere'sno music and no girls.\ndancing when the IPLresumes.Some\nfamilies have lost their near and dear\nones, let the games be played, let the\ncrowd come in, but just cricket..\nNo dance, no DJ\n-Sunil Gavaskar",
+    "detailed": [
+        {
+            "text": "CTGIRL",
+            "confidence": 0.908,
+            "box": [
+                [
+                    443.0,
+                    694.0
+                ],
+                [
+                    508.0,
+                    678.0
+                ],
+                [
+                    514.0,
+                    704.0
+                ],
+                [
+                    449.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "1R",
+            "confidence": 0.643,
+            "box": [
+                [
+                    560.0,
+                    720.0
+                ],
+                [
+                    577.0,
+                    724.0
+                ],
+                [
+                    574.0,
+                    736.0
+                ],
+                [
+                    557.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.978,
+            "box": [
+                [
+                    481.0,
+                    764.0
+                ],
+                [
+                    596.0,
+                    764.0
+                ],
+                [
+                    596.0,
+                    792.0
+                ],
+                [
+                    481.0,
+                    792.0
+                ]
+            ]
+        },
+        {
+            "text": "I hopethere'sno music and no girls.",
+            "confidence": 0.928,
+            "box": [
+                [
+                    70.0,
+                    868.0
+                ],
+                [
+                    1003.0,
+                    866.0
+                ],
+                [
+                    1003.0,
+                    920.0
+                ],
+                [
+                    70.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "text": "dancing when the IPLresumes.Some",
+            "confidence": 0.957,
+            "box": [
+                [
+                    48.0,
+                    938.0
+                ],
+                [
+                    1034.0,
+                    938.0
+                ],
+                [
+                    1034.0,
+                    991.0
+                ],
+                [
+                    48.0,
+                    991.0
+                ]
+            ]
+        },
+        {
+            "text": "families have lost their near and dear",
+            "confidence": 0.959,
+            "box": [
+                [
+                    46.0,
+                    1008.0
+                ],
+                [
+                    1031.0,
+                    1011.0
+                ],
+                [
+                    1031.0,
+                    1056.0
+                ],
+                [
+                    46.0,
+                    1053.0
+                ]
+            ]
+        },
+        {
+            "text": "ones, let the games be played, let the",
+            "confidence": 0.978,
+            "box": [
+                [
+                    46.0,
+                    1081.0
+                ],
+                [
+                    1036.0,
+                    1081.0
+                ],
+                [
+                    1036.0,
+                    1129.0
+                ],
+                [
+                    46.0,
+                    1129.0
+                ]
+            ]
+        },
+        {
+            "text": "crowd come in, but just cricket..",
+            "confidence": 0.988,
+            "box": [
+                [
+                    124.0,
+                    1144.0
+                ],
+                [
+                    948.0,
+                    1148.0
+                ],
+                [
+                    948.0,
+                    1202.0
+                ],
+                [
+                    124.0,
+                    1197.0
+                ]
+            ]
+        },
+        {
+            "text": "No dance, no DJ",
+            "confidence": 0.948,
+            "box": [
+                [
+                    328.0,
+                    1217.0
+                ],
+                [
+                    757.0,
+                    1217.0
+                ],
+                [
+                    757.0,
+                    1266.0
+                ],
+                [
+                    328.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "-Sunil Gavaskar",
+            "confidence": 0.946,
+            "box": [
+                [
+                    398.0,
+                    1288.0
+                ],
+                [
+                    684.0,
+                    1291.0
+                ],
+                [
+                    683.0,
+                    1322.0
+                ],
+                [
+                    398.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-03-13_10-02-12_UTC.jpg",
+    "combined_text": "WHEN YOU ARE TRAVELLING IN CAR WITH\nFRIENDS AND YOUCONNECTED BLUETOOTH\nAND STARTED PLAYING SONGS IN YOU\nPLAYLIST AND EVERYONE STARTED VIBING\nFOR YOUR PLAYLIST SONGS\n**MUSIC LOVER YOU\nADDICTEDTOMEMES\nATLA UNTADIMARE MANA\nMUSICTASTETHONE",
+    "detailed": [
+        {
+            "text": "WHEN YOU ARE TRAVELLING IN CAR WITH",
+            "confidence": 0.931,
+            "box": [
+                [
+                    98.0,
+                    22.0
+                ],
+                [
+                    995.0,
+                    22.0
+                ],
+                [
+                    995.0,
+                    55.0
+                ],
+                [
+                    98.0,
+                    55.0
+                ]
+            ]
+        },
+        {
+            "text": "FRIENDS AND YOUCONNECTED BLUETOOTH",
+            "confidence": 0.961,
+            "box": [
+                [
+                    74.0,
+                    75.0
+                ],
+                [
+                    1018.0,
+                    75.0
+                ],
+                [
+                    1018.0,
+                    112.0
+                ],
+                [
+                    74.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "AND STARTED PLAYING SONGS IN YOU",
+            "confidence": 0.972,
+            "box": [
+                [
+                    130.0,
+                    128.0
+                ],
+                [
+                    961.0,
+                    128.0
+                ],
+                [
+                    961.0,
+                    165.0
+                ],
+                [
+                    130.0,
+                    165.0
+                ]
+            ]
+        },
+        {
+            "text": "PLAYLIST AND EVERYONE STARTED VIBING",
+            "confidence": 0.976,
+            "box": [
+                [
+                    87.0,
+                    180.0
+                ],
+                [
+                    1001.0,
+                    180.0
+                ],
+                [
+                    1001.0,
+                    220.0
+                ],
+                [
+                    87.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR YOUR PLAYLIST SONGS",
+            "confidence": 0.988,
+            "box": [
+                [
+                    240.0,
+                    233.0
+                ],
+                [
+                    840.0,
+                    233.0
+                ],
+                [
+                    840.0,
+                    273.0
+                ],
+                [
+                    240.0,
+                    273.0
+                ]
+            ]
+        },
+        {
+            "text": "**MUSIC LOVER YOU",
+            "confidence": 0.969,
+            "box": [
+                [
+                    468.0,
+                    320.0
+                ],
+                [
+                    939.0,
+                    326.0
+                ],
+                [
+                    938.0,
+                    375.0
+                ],
+                [
+                    467.0,
+                    369.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.984,
+            "box": [
+                [
+                    868.0,
+                    803.0
+                ],
+                [
+                    1052.0,
+                    803.0
+                ],
+                [
+                    1052.0,
+                    825.0
+                ],
+                [
+                    868.0,
+                    825.0
+                ]
+            ]
+        },
+        {
+            "text": "ATLA UNTADIMARE MANA",
+            "confidence": 0.947,
+            "box": [
+                [
+                    461.0,
+                    1072.0
+                ],
+                [
+                    1035.0,
+                    1072.0
+                ],
+                [
+                    1035.0,
+                    1108.0
+                ],
+                [
+                    461.0,
+                    1108.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSICTASTETHONE",
+            "confidence": 0.994,
+            "box": [
+                [
+                    521.0,
+                    1126.0
+                ],
+                [
+                    962.0,
+                    1126.0
+                ],
+                [
+                    962.0,
+                    1163.0
+                ],
+                [
+                    521.0,
+                    1163.0
+                ]
+            ]
+        }
+    ]
+}

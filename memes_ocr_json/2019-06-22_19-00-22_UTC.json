@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-06-22_19-00-22_UTC.jpg",
+    "combined_text": "Checking out if the guests are gone so\nthat i could eat the leftover",
+    "detailed": [
+        {
+            "text": "Checking out if the guests are gone so",
+            "confidence": 0.963,
+            "box": [
+                [
+                    9.0,
+                    40.0
+                ],
+                [
+                    815.0,
+                    44.0
+                ],
+                [
+                    815.0,
+                    91.0
+                ],
+                [
+                    9.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "that i could eat the leftover",
+            "confidence": 0.962,
+            "box": [
+                [
+                    8.0,
+                    103.0
+                ],
+                [
+                    570.0,
+                    105.0
+                ],
+                [
+                    570.0,
+                    150.0
+                ],
+                [
+                    8.0,
+                    148.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-03-26_14-54-27_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nOnline Payment chesthunte UPI Down\nani vasthundi emo anukunna Insufficient\nBalance ani vachindi\nNLYTELUGUN\nONLYTELUGUMO",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.985,
+            "box": [
+                [
+                    167.0,
+                    26.0
+                ],
+                [
+                    596.0,
+                    26.0
+                ],
+                [
+                    596.0,
+                    68.0
+                ],
+                [
+                    167.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.994,
+            "box": [
+                [
+                    168.0,
+                    78.0
+                ],
+                [
+                    584.0,
+                    81.0
+                ],
+                [
+                    583.0,
+                    124.0
+                ],
+                [
+                    167.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "Online Payment chesthunte UPI Down",
+            "confidence": 0.997,
+            "box": [
+                [
+                    10.0,
+                    174.0
+                ],
+                [
+                    963.0,
+                    174.0
+                ],
+                [
+                    963.0,
+                    229.0
+                ],
+                [
+                    10.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "ani vasthundi emo anukunna Insufficient",
+            "confidence": 0.999,
+            "box": [
+                [
+                    10.0,
+                    244.0
+                ],
+                [
+                    1032.0,
+                    242.0
+                ],
+                [
+                    1032.0,
+                    294.0
+                ],
+                [
+                    10.0,
+                    296.0
+                ]
+            ]
+        },
+        {
+            "text": "Balance ani vachindi",
+            "confidence": 0.994,
+            "box": [
+                [
+                    10.0,
+                    312.0
+                ],
+                [
+                    529.0,
+                    312.0
+                ],
+                [
+                    529.0,
+                    367.0
+                ],
+                [
+                    10.0,
+                    367.0
+                ]
+            ]
+        },
+        {
+            "text": "NLYTELUGUN",
+            "confidence": 0.953,
+            "box": [
+                [
+                    865.0,
+                    531.0
+                ],
+                [
+                    1074.0,
+                    527.0
+                ],
+                [
+                    1075.0,
+                    560.0
+                ],
+                [
+                    865.0,
+                    565.0
+                ]
+            ]
+        },
+        {
+            "text": "ONLYTELUGUMO",
+            "confidence": 0.97,
+            "box": [
+                [
+                    824.0,
+                    1144.0
+                ],
+                [
+                    1074.0,
+                    1144.0
+                ],
+                [
+                    1074.0,
+                    1178.0
+                ],
+                [
+                    824.0,
+                    1178.0
+                ]
+            ]
+        }
+    ]
+}

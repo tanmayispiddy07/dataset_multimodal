@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-06_03-39-46_UTC.jpg",
+    "combined_text": "ME EVERYTIME WHILE\nTRAVELLING IN CAR\nADDICTEDTOMEMES\nNAKU OKADOUBT\nCAR LO VELTHUNNAPUDU ENDUKU ANI PHONE\nEKKVUA USE CHEYYALI ANIPICHADHU",
+    "detailed": [
+        {
+            "text": "ME EVERYTIME WHILE",
+            "confidence": 0.996,
+            "box": [
+                [
+                    219.0,
+                    68.0
+                ],
+                [
+                    882.0,
+                    68.0
+                ],
+                [
+                    882.0,
+                    118.0
+                ],
+                [
+                    219.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAVELLING IN CAR",
+            "confidence": 0.992,
+            "box": [
+                [
+                    238.0,
+                    143.0
+                ],
+                [
+                    862.0,
+                    146.0
+                ],
+                [
+                    862.0,
+                    197.0
+                ],
+                [
+                    237.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    893.0,
+                    399.0
+                ],
+                [
+                    1029.0,
+                    398.0
+                ],
+                [
+                    1029.0,
+                    416.0
+                ],
+                [
+                    893.0,
+                    417.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU OKADOUBT",
+            "confidence": 0.958,
+            "box": [
+                [
+                    207.0,
+                    616.0
+                ],
+                [
+                    849.0,
+                    616.0
+                ],
+                [
+                    849.0,
+                    674.0
+                ],
+                [
+                    207.0,
+                    674.0
+                ]
+            ]
+        },
+        {
+            "text": "CAR LO VELTHUNNAPUDU ENDUKU ANI PHONE",
+            "confidence": 0.941,
+            "box": [
+                [
+                    71.0,
+                    1045.0
+                ],
+                [
+                    1005.0,
+                    1045.0
+                ],
+                [
+                    1005.0,
+                    1081.0
+                ],
+                [
+                    71.0,
+                    1081.0
+                ]
+            ]
+        },
+        {
+            "text": "EKKVUA USE CHEYYALI ANIPICHADHU",
+            "confidence": 0.958,
+            "box": [
+                [
+                    160.0,
+                    1097.0
+                ],
+                [
+                    914.0,
+                    1097.0
+                ],
+                [
+                    914.0,
+                    1132.0
+                ],
+                [
+                    160.0,
+                    1132.0
+                ]
+            ]
+        }
+    ]
+}

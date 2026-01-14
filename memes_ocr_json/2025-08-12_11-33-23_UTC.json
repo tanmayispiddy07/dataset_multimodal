@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-08-12_11-33-23_UTC.jpg",
+    "combined_text": "BEAUTIFUL TRAILER OF \"SUNDARAKANDA'\nMOVIE RELEASING ON AUG 27TH\n.\nADDICTEDTOMEMES\nTRAILER BAGUNDI\nMOVIE KI BREAK IVVADANIKI\nREADY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "BEAUTIFUL TRAILER OF \"SUNDARAKANDA'",
+            "confidence": 0.943,
+            "box": [
+                [
+                    45.0,
+                    53.0
+                ],
+                [
+                    1028.0,
+                    54.0
+                ],
+                [
+                    1028.0,
+                    93.0
+                ],
+                [
+                    45.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON AUG 27TH",
+            "confidence": 0.977,
+            "box": [
+                [
+                    149.0,
+                    110.0
+                ],
+                [
+                    917.0,
+                    110.0
+                ],
+                [
+                    917.0,
+                    152.0
+                ],
+                [
+                    149.0,
+                    152.0
+                ]
+            ]
+        },
+        {
+            "text": ".",
+            "confidence": 0.667,
+            "box": [
+                [
+                    212.0,
+                    691.0
+                ],
+                [
+                    266.0,
+                    691.0
+                ],
+                [
+                    266.0,
+                    723.0
+                ],
+                [
+                    212.0,
+                    723.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    11.0,
+                    1029.0
+                ],
+                [
+                    173.0,
+                    1029.0
+                ],
+                [
+                    173.0,
+                    1054.0
+                ],
+                [
+                    11.0,
+                    1054.0
+                ]
+            ]
+        },
+        {
+            "text": "TRAILER BAGUNDI",
+            "confidence": 0.962,
+            "box": [
+                [
+                    581.0,
+                    1186.0
+                ],
+                [
+                    946.0,
+                    1188.0
+                ],
+                [
+                    946.0,
+                    1222.0
+                ],
+                [
+                    581.0,
+                    1221.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE KI BREAK IVVADANIKI",
+            "confidence": 0.952,
+            "box": [
+                [
+                    477.0,
+                    1238.0
+                ],
+                [
+                    1060.0,
+                    1238.0
+                ],
+                [
+                    1060.0,
+                    1271.0
+                ],
+                [
+                    477.0,
+                    1271.0
+                ]
+            ]
+        },
+        {
+            "text": "READY GA UNNAMU",
+            "confidence": 0.948,
+            "box": [
+                [
+                    561.0,
+                    1285.0
+                ],
+                [
+                    965.0,
+                    1285.0
+                ],
+                [
+                    965.0,
+                    1323.0
+                ],
+                [
+                    561.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

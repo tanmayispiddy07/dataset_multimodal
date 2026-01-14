@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-04-25_10-24-06_UTC.jpg",
+    "combined_text": "TELUGU MEMES GURU\nADITYA\nMUSIC\nMEEKUDA ALAGEY KANIPISTHUNDHA",
+    "detailed": [
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    502.0,
+                    760.0
+                ],
+                [
+                    683.0,
+                    760.0
+                ],
+                [
+                    683.0,
+                    785.0
+                ],
+                [
+                    502.0,
+                    785.0
+                ]
+            ]
+        },
+        {
+            "text": "ADITYA",
+            "confidence": 0.982,
+            "box": [
+                [
+                    859.0,
+                    1187.0
+                ],
+                [
+                    987.0,
+                    1187.0
+                ],
+                [
+                    987.0,
+                    1226.0
+                ],
+                [
+                    859.0,
+                    1226.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSIC",
+            "confidence": 0.988,
+            "box": [
+                [
+                    868.0,
+                    1220.0
+                ],
+                [
+                    975.0,
+                    1220.0
+                ],
+                [
+                    975.0,
+                    1241.0
+                ],
+                [
+                    868.0,
+                    1241.0
+                ]
+            ]
+        },
+        {
+            "text": "MEEKUDA ALAGEY KANIPISTHUNDHA",
+            "confidence": 0.971,
+            "box": [
+                [
+                    62.0,
+                    1263.0
+                ],
+                [
+                    993.0,
+                    1265.0
+                ],
+                [
+                    993.0,
+                    1308.0
+                ],
+                [
+                    62.0,
+                    1306.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,248 @@
+{
+    "image_name": "2025-09-11_11-36-56_UTC.jpg",
+    "combined_text": "SAHU GARAPATI\nKOUSHIK PEGALLAPATI\nRELEASING WORLDWIDE\nung\nONSEP12TH\n2025\nSAHU GARAPATI\nKOUSHIK\nADDICTEDTOMEMES\nME WHILE LISTENING MUSIC AND SOUND\nDESIGNING IN KISHKINDHAPURI",
+    "detailed": [
+        {
+            "text": "SAHU GARAPATI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    190.0,
+                    472.0
+                ],
+                [
+                    287.0,
+                    475.0
+                ],
+                [
+                    287.0,
+                    493.0
+                ],
+                [
+                    189.0,
+                    490.0
+                ]
+            ]
+        },
+        {
+            "text": "KOUSHIK PEGALLAPATI",
+            "confidence": 0.963,
+            "box": [
+                [
+                    299.0,
+                    474.0
+                ],
+                [
+                    440.0,
+                    474.0
+                ],
+                [
+                    440.0,
+                    491.0
+                ],
+                [
+                    299.0,
+                    491.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING WORLDWIDE",
+            "confidence": 0.952,
+            "box": [
+                [
+                    217.0,
+                    645.0
+                ],
+                [
+                    440.0,
+                    645.0
+                ],
+                [
+                    440.0,
+                    663.0
+                ],
+                [
+                    217.0,
+                    663.0
+                ]
+            ]
+        },
+        {
+            "text": "ung",
+            "confidence": 0.745,
+            "box": [
+                [
+                    61.0,
+                    673.0
+                ],
+                [
+                    83.0,
+                    673.0
+                ],
+                [
+                    83.0,
+                    681.0
+                ],
+                [
+                    61.0,
+                    681.0
+                ]
+            ]
+        },
+        {
+            "text": "ONSEP12TH",
+            "confidence": 0.979,
+            "box": [
+                [
+                    187.0,
+                    670.0
+                ],
+                [
+                    401.0,
+                    666.0
+                ],
+                [
+                    402.0,
+                    704.0
+                ],
+                [
+                    187.0,
+                    708.0
+                ]
+            ]
+        },
+        {
+            "text": "2025",
+            "confidence": 0.999,
+            "box": [
+                [
+                    399.0,
+                    681.0
+                ],
+                [
+                    463.0,
+                    681.0
+                ],
+                [
+                    463.0,
+                    704.0
+                ],
+                [
+                    399.0,
+                    704.0
+                ]
+            ]
+        },
+        {
+            "text": "SAHU GARAPATI",
+            "confidence": 0.966,
+            "box": [
+                [
+                    697.0,
+                    694.0
+                ],
+                [
+                    798.0,
+                    694.0
+                ],
+                [
+                    798.0,
+                    708.0
+                ],
+                [
+                    697.0,
+                    708.0
+                ]
+            ]
+        },
+        {
+            "text": "KOUSHIK",
+            "confidence": 0.992,
+            "box": [
+                [
+                    823.0,
+                    697.0
+                ],
+                [
+                    880.0,
+                    697.0
+                ],
+                [
+                    880.0,
+                    707.0
+                ],
+                [
+                    823.0,
+                    707.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    2.0,
+                    817.0
+                ],
+                [
+                    143.0,
+                    817.0
+                ],
+                [
+                    143.0,
+                    835.0
+                ],
+                [
+                    2.0,
+                    835.0
+                ]
+            ]
+        },
+        {
+            "text": "ME WHILE LISTENING MUSIC AND SOUND",
+            "confidence": 0.936,
+            "box": [
+                [
+                    153.0,
+                    1045.0
+                ],
+                [
+                    951.0,
+                    1045.0
+                ],
+                [
+                    951.0,
+                    1081.0
+                ],
+                [
+                    153.0,
+                    1081.0
+                ]
+            ]
+        },
+        {
+            "text": "DESIGNING IN KISHKINDHAPURI",
+            "confidence": 0.97,
+            "box": [
+                [
+                    234.0,
+                    1095.0
+                ],
+                [
+                    857.0,
+                    1095.0
+                ],
+                [
+                    857.0,
+                    1127.0
+                ],
+                [
+                    234.0,
+                    1127.0
+                ]
+            ]
+        }
+    ]
+}

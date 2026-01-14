@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-06-24_12-13-17_UTC.jpg",
+    "combined_text": "HUSHARU MOVIE\nRE RELEASING ON JULY 5TH\nADDICTEDTOMEMES\nME& MYBOYS IN THEATERS FOR\nUNDIPORAADHEYSONG",
+    "detailed": [
+        {
+            "text": "HUSHARU MOVIE",
+            "confidence": 0.985,
+            "box": [
+                [
+                    290.0,
+                    36.0
+                ],
+                [
+                    831.0,
+                    36.0
+                ],
+                [
+                    831.0,
+                    86.0
+                ],
+                [
+                    290.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "RE RELEASING ON JULY 5TH",
+            "confidence": 0.968,
+            "box": [
+                [
+                    129.0,
+                    110.0
+                ],
+                [
+                    1012.0,
+                    110.0
+                ],
+                [
+                    1012.0,
+                    169.0
+                ],
+                [
+                    129.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    30.0,
+                    663.0
+                ],
+                [
+                    187.0,
+                    663.0
+                ],
+                [
+                    187.0,
+                    684.0
+                ],
+                [
+                    30.0,
+                    684.0
+                ]
+            ]
+        },
+        {
+            "text": "ME& MYBOYS IN THEATERS FOR",
+            "confidence": 0.946,
+            "box": [
+                [
+                    151.0,
+                    1213.0
+                ],
+                [
+                    956.0,
+                    1214.0
+                ],
+                [
+                    956.0,
+                    1260.0
+                ],
+                [
+                    150.0,
+                    1259.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDIPORAADHEYSONG",
+            "confidence": 0.996,
+            "box": [
+                [
+                    239.0,
+                    1275.0
+                ],
+                [
+                    855.0,
+                    1275.0
+                ],
+                [
+                    855.0,
+                    1325.0
+                ],
+                [
+                    239.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

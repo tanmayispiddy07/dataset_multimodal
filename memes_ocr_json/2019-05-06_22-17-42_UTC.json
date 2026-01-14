@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-05-06_22-17-42_UTC.jpg",
+    "combined_text": "During break/holidays:\nETHA AR\nThree days before exams:",
+    "detailed": [
+        {
+            "text": "During break/holidays:",
+            "confidence": 0.989,
+            "box": [
+                [
+                    238.0,
+                    2.0
+                ],
+                [
+                    842.0,
+                    2.0
+                ],
+                [
+                    842.0,
+                    56.0
+                ],
+                [
+                    238.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "ETHA AR",
+            "confidence": 0.91,
+            "box": [
+                [
+                    817.0,
+                    240.0
+                ],
+                [
+                    899.0,
+                    240.0
+                ],
+                [
+                    899.0,
+                    258.0
+                ],
+                [
+                    817.0,
+                    258.0
+                ]
+            ]
+        },
+        {
+            "text": "Three days before exams:",
+            "confidence": 0.967,
+            "box": [
+                [
+                    213.0,
+                    422.0
+                ],
+                [
+                    872.0,
+                    426.0
+                ],
+                [
+                    872.0,
+                    484.0
+                ],
+                [
+                    213.0,
+                    481.0
+                ]
+            ]
+        }
+    ]
+}

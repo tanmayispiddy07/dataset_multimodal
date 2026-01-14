@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-01_14-44-00_UTC.jpg",
+    "combined_text": "ME WHENEVER I SEE USERNAMES LIKE\nSHE CALLS ME BUJJI,KANNA, BABE\nALA VALLANI EVARU PILUSTHARU\nADDICTEDTOMEMES\nEVARU PILAVARU VALLE ALA\nANUKONI PETTUKUNNARU",
+    "detailed": [
+        {
+            "text": "ME WHENEVER I SEE USERNAMES LIKE",
+            "confidence": 0.949,
+            "box": [
+                [
+                    118.0,
+                    57.0
+                ],
+                [
+                    993.0,
+                    57.0
+                ],
+                [
+                    993.0,
+                    96.0
+                ],
+                [
+                    118.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "SHE CALLS ME BUJJI,KANNA, BABE",
+            "confidence": 0.982,
+            "box": [
+                [
+                    148.0,
+                    114.0
+                ],
+                [
+                    962.0,
+                    114.0
+                ],
+                [
+                    962.0,
+                    157.0
+                ],
+                [
+                    148.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "ALA VALLANI EVARU PILUSTHARU",
+            "confidence": 0.95,
+            "box": [
+                [
+                    106.0,
+                    657.0
+                ],
+                [
+                    1018.0,
+                    657.0
+                ],
+                [
+                    1018.0,
+                    708.0
+                ],
+                [
+                    106.0,
+                    708.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    39.0,
+                    889.0
+                ],
+                [
+                    218.0,
+                    889.0
+                ],
+                [
+                    218.0,
+                    912.0
+                ],
+                [
+                    39.0,
+                    912.0
+                ]
+            ]
+        },
+        {
+            "text": "EVARU PILAVARU VALLE ALA",
+            "confidence": 0.951,
+            "box": [
+                [
+                    43.0,
+                    1149.0
+                ],
+                [
+                    644.0,
+                    1149.0
+                ],
+                [
+                    644.0,
+                    1184.0
+                ],
+                [
+                    43.0,
+                    1184.0
+                ]
+            ]
+        },
+        {
+            "text": "ANUKONI PETTUKUNNARU",
+            "confidence": 0.973,
+            "box": [
+                [
+                    64.0,
+                    1201.0
+                ],
+                [
+                    623.0,
+                    1201.0
+                ],
+                [
+                    623.0,
+                    1236.0
+                ],
+                [
+                    64.0,
+                    1236.0
+                ]
+            ]
+        }
+    ]
+}

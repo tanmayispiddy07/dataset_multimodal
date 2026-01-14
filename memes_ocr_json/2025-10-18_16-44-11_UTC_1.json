@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-10-18_16-44-11_UTC_1.jpg",
+    "combined_text": "Find someone who looks at you\nlike Ajay Devgn looks at her OO.",
+    "detailed": [
+        {
+            "text": "Find someone who looks at you",
+            "confidence": 0.977,
+            "box": [
+                [
+                    52.0,
+                    62.0
+                ],
+                [
+                    1015.0,
+                    68.0
+                ],
+                [
+                    1015.0,
+                    128.0
+                ],
+                [
+                    52.0,
+                    122.0
+                ]
+            ]
+        },
+        {
+            "text": "like Ajay Devgn looks at her OO.",
+            "confidence": 0.948,
+            "box": [
+                [
+                    59.0,
+                    153.0
+                ],
+                [
+                    997.0,
+                    150.0
+                ],
+                [
+                    997.0,
+                    218.0
+                ],
+                [
+                    59.0,
+                    221.0
+                ]
+            ]
+        }
+    ]
+}

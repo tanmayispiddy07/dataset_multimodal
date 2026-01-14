@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-05-02_10-36-41_UTC.jpg",
+    "combined_text": "THUNDERBOLTS\nDELIVERS A POWERFUL NEW ERA IN THE MCU\nIN CINEMAS NOW\nADDICTEDTOMEMES\nWHAT A POSTCREDIT SCENES\nWHAT A ACTION\nAUDIENCE PICHOLLAM AYYAMU",
+    "detailed": [
+        {
+            "text": "THUNDERBOLTS",
+            "confidence": 0.997,
+            "box": [
+                [
+                    378.0,
+                    38.0
+                ],
+                [
+                    726.0,
+                    38.0
+                ],
+                [
+                    726.0,
+                    76.0
+                ],
+                [
+                    378.0,
+                    76.0
+                ]
+            ]
+        },
+        {
+            "text": "DELIVERS A POWERFUL NEW ERA IN THE MCU",
+            "confidence": 0.936,
+            "box": [
+                [
+                    54.0,
+                    96.0
+                ],
+                [
+                    1054.0,
+                    96.0
+                ],
+                [
+                    1054.0,
+                    133.0
+                ],
+                [
+                    54.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS NOW",
+            "confidence": 0.935,
+            "box": [
+                [
+                    359.0,
+                    148.0
+                ],
+                [
+                    745.0,
+                    148.0
+                ],
+                [
+                    745.0,
+                    190.0
+                ],
+                [
+                    359.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    41.0,
+                    916.0
+                ],
+                [
+                    207.0,
+                    916.0
+                ],
+                [
+                    207.0,
+                    935.0
+                ],
+                [
+                    41.0,
+                    935.0
+                ]
+            ]
+        },
+        {
+            "text": "WHAT A POSTCREDIT SCENES",
+            "confidence": 0.941,
+            "box": [
+                [
+                    45.0,
+                    1052.0
+                ],
+                [
+                    648.0,
+                    1052.0
+                ],
+                [
+                    648.0,
+                    1090.0
+                ],
+                [
+                    45.0,
+                    1090.0
+                ]
+            ]
+        },
+        {
+            "text": "WHAT A ACTION",
+            "confidence": 0.941,
+            "box": [
+                [
+                    180.0,
+                    1101.0
+                ],
+                [
+                    514.0,
+                    1101.0
+                ],
+                [
+                    514.0,
+                    1139.0
+                ],
+                [
+                    180.0,
+                    1139.0
+                ]
+            ]
+        },
+        {
+            "text": "AUDIENCE PICHOLLAM AYYAMU",
+            "confidence": 0.973,
+            "box": [
+                [
+                    32.0,
+                    1153.0
+                ],
+                [
+                    669.0,
+                    1153.0
+                ],
+                [
+                    669.0,
+                    1187.0
+                ],
+                [
+                    32.0,
+                    1187.0
+                ]
+            ]
+        }
+    ]
+}

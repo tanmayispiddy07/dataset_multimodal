@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-05-17_11-05-54_UTC.jpg",
+    "combined_text": "FILMFARE\nKingdom is a thick layered\naction drama. It is an\naction drama like the\nold days, where you get\ninto the emotions behind\neverything.. not just\nH\nchasing the spectacle\nVijayDeverakonda\nFILMFARE,MAY2025 ISSUE\n**VIJAYDEVARAKONDA\nADDICTEDTOMEMES\nESARIGATTIGA VASTHUNNAMU\nBLOCKBUSTER KODTHUNNAMU",
+    "detailed": [
+        {
+            "text": "FILMFARE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    383.0,
+                    7.0
+                ],
+                [
+                    504.0,
+                    7.0
+                ],
+                [
+                    504.0,
+                    44.0
+                ],
+                [
+                    383.0,
+                    44.0
+                ]
+            ]
+        },
+        {
+            "text": "Kingdom is a thick layered",
+            "confidence": 0.991,
+            "box": [
+                [
+                    551.0,
+                    149.0
+                ],
+                [
+                    1037.0,
+                    149.0
+                ],
+                [
+                    1037.0,
+                    196.0
+                ],
+                [
+                    551.0,
+                    196.0
+                ]
+            ]
+        },
+        {
+            "text": "action drama. It is an",
+            "confidence": 0.928,
+            "box": [
+                [
+                    594.0,
+                    199.0
+                ],
+                [
+                    991.0,
+                    201.0
+                ],
+                [
+                    991.0,
+                    249.0
+                ],
+                [
+                    594.0,
+                    246.0
+                ]
+            ]
+        },
+        {
+            "text": "action drama like the",
+            "confidence": 0.973,
+            "box": [
+                [
+                    600.0,
+                    255.0
+                ],
+                [
+                    986.0,
+                    255.0
+                ],
+                [
+                    986.0,
+                    299.0
+                ],
+                [
+                    600.0,
+                    299.0
+                ]
+            ]
+        },
+        {
+            "text": "old days, where you get",
+            "confidence": 0.995,
+            "box": [
+                [
+                    572.0,
+                    303.0
+                ],
+                [
+                    1016.0,
+                    309.0
+                ],
+                [
+                    1016.0,
+                    363.0
+                ],
+                [
+                    571.0,
+                    358.0
+                ]
+            ]
+        },
+        {
+            "text": "into the emotions behind",
+            "confidence": 0.963,
+            "box": [
+                [
+                    562.0,
+                    363.0
+                ],
+                [
+                    1023.0,
+                    363.0
+                ],
+                [
+                    1023.0,
+                    406.0
+                ],
+                [
+                    562.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "everything.. not just",
+            "confidence": 0.996,
+            "box": [
+                [
+                    606.0,
+                    409.0
+                ],
+                [
+                    983.0,
+                    415.0
+                ],
+                [
+                    982.0,
+                    469.0
+                ],
+                [
+                    605.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "text": "H",
+            "confidence": 0.625,
+            "box": [
+                [
+                    241.0,
+                    421.0
+                ],
+                [
+                    310.0,
+                    421.0
+                ],
+                [
+                    310.0,
+                    468.0
+                ],
+                [
+                    241.0,
+                    468.0
+                ]
+            ]
+        },
+        {
+            "text": "chasing the spectacle",
+            "confidence": 0.97,
+            "box": [
+                [
+                    592.0,
+                    469.0
+                ],
+                [
+                    993.0,
+                    469.0
+                ],
+                [
+                    993.0,
+                    517.0
+                ],
+                [
+                    592.0,
+                    517.0
+                ]
+            ]
+        },
+        {
+            "text": "VijayDeverakonda",
+            "confidence": 0.997,
+            "box": [
+                [
+                    667.0,
+                    599.0
+                ],
+                [
+                    914.0,
+                    599.0
+                ],
+                [
+                    914.0,
+                    632.0
+                ],
+                [
+                    667.0,
+                    632.0
+                ]
+            ]
+        },
+        {
+            "text": "FILMFARE,MAY2025 ISSUE",
+            "confidence": 0.927,
+            "box": [
+                [
+                    674.0,
+                    637.0
+                ],
+                [
+                    911.0,
+                    636.0
+                ],
+                [
+                    911.0,
+                    658.0
+                ],
+                [
+                    674.0,
+                    660.0
+                ]
+            ]
+        },
+        {
+            "text": "**VIJAYDEVARAKONDA",
+            "confidence": 0.988,
+            "box": [
+                [
+                    435.0,
+                    696.0
+                ],
+                [
+                    910.0,
+                    701.0
+                ],
+                [
+                    910.0,
+                    742.0
+                ],
+                [
+                    435.0,
+                    737.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.976,
+            "box": [
+                [
+                    910.0,
+                    829.0
+                ],
+                [
+                    1055.0,
+                    829.0
+                ],
+                [
+                    1055.0,
+                    847.0
+                ],
+                [
+                    910.0,
+                    847.0
+                ]
+            ]
+        },
+        {
+            "text": "ESARIGATTIGA VASTHUNNAMU",
+            "confidence": 0.974,
+            "box": [
+                [
+                    198.0,
+                    1030.0
+                ],
+                [
+                    902.0,
+                    1030.0
+                ],
+                [
+                    902.0,
+                    1069.0
+                ],
+                [
+                    198.0,
+                    1069.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER KODTHUNNAMU",
+            "confidence": 0.977,
+            "box": [
+                [
+                    202.0,
+                    1086.0
+                ],
+                [
+                    896.0,
+                    1086.0
+                ],
+                [
+                    896.0,
+                    1125.0
+                ],
+                [
+                    202.0,
+                    1125.0
+                ]
+            ]
+        }
+    ]
+}

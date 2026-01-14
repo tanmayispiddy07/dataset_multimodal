@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-06-12_15-22-26_UTC.jpg",
+    "combined_text": "TATA GROUP WILL PROVIDE 1CRORE TO THE\nFAMILIES OF EACHPERSON WHO LOST THEIR LIFE IN\nTHIS TRAGEDY. THEY WILL ALSO COVER THE MEDICAL\nEXPENSES OF THE INJURED AND OFFER SUPPORT IN\nBUILDING THE MEDICAL COLLEGE HOSTEL.\nADDICTEDTOMEMES\nAIR INDIA BELONGS TO TATA GROUP",
+    "detailed": [
+        {
+            "text": "TATA GROUP WILL PROVIDE 1CRORE TO THE",
+            "confidence": 0.919,
+            "box": [
+                [
+                    84.0,
+                    43.0
+                ],
+                [
+                    997.0,
+                    43.0
+                ],
+                [
+                    997.0,
+                    81.0
+                ],
+                [
+                    84.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMILIES OF EACHPERSON WHO LOST THEIR LIFE IN",
+            "confidence": 0.936,
+            "box": [
+                [
+                    20.0,
+                    95.0
+                ],
+                [
+                    1066.0,
+                    95.0
+                ],
+                [
+                    1066.0,
+                    128.0
+                ],
+                [
+                    20.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "THIS TRAGEDY. THEY WILL ALSO COVER THE MEDICAL",
+            "confidence": 0.938,
+            "box": [
+                [
+                    6.0,
+                    142.0
+                ],
+                [
+                    1076.0,
+                    145.0
+                ],
+                [
+                    1076.0,
+                    178.0
+                ],
+                [
+                    6.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "EXPENSES OF THE INJURED AND OFFER SUPPORT IN",
+            "confidence": 0.945,
+            "box": [
+                [
+                    24.0,
+                    191.0
+                ],
+                [
+                    1060.0,
+                    191.0
+                ],
+                [
+                    1060.0,
+                    229.0
+                ],
+                [
+                    24.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "BUILDING THE MEDICAL COLLEGE HOSTEL.",
+            "confidence": 0.947,
+            "box": [
+                [
+                    115.0,
+                    240.0
+                ],
+                [
+                    966.0,
+                    240.0
+                ],
+                [
+                    966.0,
+                    277.0
+                ],
+                [
+                    115.0,
+                    277.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    22.0,
+                    453.0
+                ],
+                [
+                    176.0,
+                    453.0
+                ],
+                [
+                    176.0,
+                    474.0
+                ],
+                [
+                    22.0,
+                    474.0
+                ]
+            ]
+        },
+        {
+            "text": "AIR INDIA BELONGS TO TATA GROUP",
+            "confidence": 0.936,
+            "box": [
+                [
+                    46.0,
+                    1215.0
+                ],
+                [
+                    1034.0,
+                    1214.0
+                ],
+                [
+                    1034.0,
+                    1261.0
+                ],
+                [
+                    46.0,
+                    1263.0
+                ]
+            ]
+        }
+    ]
+}

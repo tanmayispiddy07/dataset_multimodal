@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-06-21_20-08-09_UTC.jpg",
+    "combined_text": "Indian Tweets\n@TheWokelndian\nwhen you show up to a party\nwearing a regular outfit but\neveryone else is in Indian clothes",
+    "detailed": [
+        {
+            "text": "Indian Tweets",
+            "confidence": 0.97,
+            "box": [
+                [
+                    180.0,
+                    26.0
+                ],
+                [
+                    396.0,
+                    26.0
+                ],
+                [
+                    396.0,
+                    56.0
+                ],
+                [
+                    180.0,
+                    56.0
+                ]
+            ]
+        },
+        {
+            "text": "@TheWokelndian",
+            "confidence": 0.996,
+            "box": [
+                [
+                    182.0,
+                    64.0
+                ],
+                [
+                    406.0,
+                    64.0
+                ],
+                [
+                    406.0,
+                    91.0
+                ],
+                [
+                    182.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "when you show up to a party",
+            "confidence": 0.962,
+            "box": [
+                [
+                    50.0,
+                    165.0
+                ],
+                [
+                    607.0,
+                    169.0
+                ],
+                [
+                    607.0,
+                    217.0
+                ],
+                [
+                    50.0,
+                    213.0
+                ]
+            ]
+        },
+        {
+            "text": "wearing a regular outfit but",
+            "confidence": 0.984,
+            "box": [
+                [
+                    51.0,
+                    232.0
+                ],
+                [
+                    569.0,
+                    230.0
+                ],
+                [
+                    569.0,
+                    273.0
+                ],
+                [
+                    51.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "text": "everyone else is in Indian clothes",
+            "confidence": 0.973,
+            "box": [
+                [
+                    50.0,
+                    293.0
+                ],
+                [
+                    680.0,
+                    289.0
+                ],
+                [
+                    680.0,
+                    331.0
+                ],
+                [
+                    50.0,
+                    335.0
+                ]
+            ]
+        }
+    ]
+}

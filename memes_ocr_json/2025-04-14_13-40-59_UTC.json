@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-04-14_13-40-59_UTC.jpg",
+    "combined_text": "MISSION IMPOSSIBLE\nTHE FINAL RECKONING TRAILER\nOG TOM CRUISE.IN THE WORLD OF DEEPFAKE AND AI,\nHE DOESN'TUSE GREEN SCREEN, NO VFX, NO CGI\nIN CINEMAS FROM 23RD MAY\nADDICTEDTOMEMES\nMANA TOM CRUISE VASTHUNNADU RA INKA\nTHEATERS LO ACTION SCENES KI GOOSEBUMPS EH",
+    "detailed": [
+        {
+            "text": "MISSION IMPOSSIBLE",
+            "confidence": 0.968,
+            "box": [
+                [
+                    339.0,
+                    241.0
+                ],
+                [
+                    802.0,
+                    241.0
+                ],
+                [
+                    802.0,
+                    279.0
+                ],
+                [
+                    339.0,
+                    279.0
+                ]
+            ]
+        },
+        {
+            "text": "THE FINAL RECKONING TRAILER",
+            "confidence": 0.947,
+            "box": [
+                [
+                    226.0,
+                    295.0
+                ],
+                [
+                    913.0,
+                    295.0
+                ],
+                [
+                    913.0,
+                    329.0
+                ],
+                [
+                    226.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "OG TOM CRUISE.IN THE WORLD OF DEEPFAKE AND AI,",
+            "confidence": 0.926,
+            "box": [
+                [
+                    87.0,
+                    592.0
+                ],
+                [
+                    1041.0,
+                    595.0
+                ],
+                [
+                    1041.0,
+                    630.0
+                ],
+                [
+                    87.0,
+                    627.0
+                ]
+            ]
+        },
+        {
+            "text": "HE DOESN'TUSE GREEN SCREEN, NO VFX, NO CGI",
+            "confidence": 0.919,
+            "box": [
+                [
+                    129.0,
+                    638.0
+                ],
+                [
+                    1001.0,
+                    638.0
+                ],
+                [
+                    1001.0,
+                    676.0
+                ],
+                [
+                    129.0,
+                    676.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS FROM 23RD MAY",
+            "confidence": 0.925,
+            "box": [
+                [
+                    259.0,
+                    917.0
+                ],
+                [
+                    906.0,
+                    917.0
+                ],
+                [
+                    906.0,
+                    955.0
+                ],
+                [
+                    259.0,
+                    955.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.984,
+            "box": [
+                [
+                    59.0,
+                    1084.0
+                ],
+                [
+                    208.0,
+                    1084.0
+                ],
+                [
+                    208.0,
+                    1105.0
+                ],
+                [
+                    59.0,
+                    1105.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA TOM CRUISE VASTHUNNADU RA INKA",
+            "confidence": 0.943,
+            "box": [
+                [
+                    163.0,
+                    1247.0
+                ],
+                [
+                    982.0,
+                    1247.0
+                ],
+                [
+                    982.0,
+                    1281.0
+                ],
+                [
+                    163.0,
+                    1281.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATERS LO ACTION SCENES KI GOOSEBUMPS EH",
+            "confidence": 0.93,
+            "box": [
+                [
+                    104.0,
+                    1292.0
+                ],
+                [
+                    1045.0,
+                    1292.0
+                ],
+                [
+                    1045.0,
+                    1325.0
+                ],
+                [
+                    104.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

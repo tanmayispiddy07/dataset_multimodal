@@ -1,0 +1,138 @@
+{
+    "image_name": "2023-04-28_16-19-18_UTC.jpg",
+    "combined_text": "UGRAM TITLE SONG ISOUT NOW\nTELUGU MEMES GURU\nMAY 5TH THEATER LO JATHREYY\niDream HDMovies\nSONG ADIRINDHI THEATRE LO GOOSEBUMPS\nRAVALANTEY EE MATRAM UNDALI",
+    "detailed": [
+        {
+            "text": "UGRAM TITLE SONG ISOUT NOW",
+            "confidence": 0.948,
+            "box": [
+                [
+                    69.0,
+                    393.0
+                ],
+                [
+                    990.0,
+                    395.0
+                ],
+                [
+                    990.0,
+                    444.0
+                ],
+                [
+                    69.0,
+                    443.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.943,
+            "box": [
+                [
+                    478.0,
+                    731.0
+                ],
+                [
+                    647.0,
+                    731.0
+                ],
+                [
+                    647.0,
+                    752.0
+                ],
+                [
+                    478.0,
+                    752.0
+                ]
+            ]
+        },
+        {
+            "text": "MAY 5TH THEATER LO JATHREYY",
+            "confidence": 0.939,
+            "box": [
+                [
+                    138.0,
+                    849.0
+                ],
+                [
+                    924.0,
+                    847.0
+                ],
+                [
+                    924.0,
+                    890.0
+                ],
+                [
+                    138.0,
+                    892.0
+                ]
+            ]
+        },
+        {
+            "text": "iDream HDMovies",
+            "confidence": 0.958,
+            "box": [
+                [
+                    838.0,
+                    1125.0
+                ],
+                [
+                    1021.0,
+                    1125.0
+                ],
+                [
+                    1021.0,
+                    1150.0
+                ],
+                [
+                    838.0,
+                    1150.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG ADIRINDHI THEATRE LO GOOSEBUMPS",
+            "confidence": 0.96,
+            "box": [
+                [
+                    62.0,
+                    1231.0
+                ],
+                [
+                    1020.0,
+                    1231.0
+                ],
+                [
+                    1020.0,
+                    1268.0
+                ],
+                [
+                    62.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "RAVALANTEY EE MATRAM UNDALI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    179.0,
+                    1283.0
+                ],
+                [
+                    908.0,
+                    1283.0
+                ],
+                [
+                    908.0,
+                    1321.0
+                ],
+                [
+                    179.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

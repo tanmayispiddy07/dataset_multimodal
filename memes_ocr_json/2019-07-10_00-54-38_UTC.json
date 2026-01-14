@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-07-10_00-54-38_UTC.jpg",
+    "combined_text": "My dad when I am eating\nnuvu tineyy tindiki\nSVCN\nchadiveyy chaduvuki\nEm ayina balance undharaaa",
+    "detailed": [
+        {
+            "text": "My dad when I am eating",
+            "confidence": 0.949,
+            "box": [
+                [
+                    134.0,
+                    10.0
+                ],
+                [
+                    417.0,
+                    11.0
+                ],
+                [
+                    417.0,
+                    38.0
+                ],
+                [
+                    134.0,
+                    37.0
+                ]
+            ]
+        },
+        {
+            "text": "nuvu tineyy tindiki",
+            "confidence": 0.959,
+            "box": [
+                [
+                    120.0,
+                    139.0
+                ],
+                [
+                    360.0,
+                    136.0
+                ],
+                [
+                    360.0,
+                    162.0
+                ],
+                [
+                    120.0,
+                    165.0
+                ]
+            ]
+        },
+        {
+            "text": "SVCN",
+            "confidence": 0.971,
+            "box": [
+                [
+                    389.0,
+                    279.0
+                ],
+                [
+                    416.0,
+                    271.0
+                ],
+                [
+                    420.0,
+                    287.0
+                ],
+                [
+                    393.0,
+                    295.0
+                ]
+            ]
+        },
+        {
+            "text": "chadiveyy chaduvuki",
+            "confidence": 0.971,
+            "box": [
+                [
+                    107.0,
+                    325.0
+                ],
+                [
+                    354.0,
+                    325.0
+                ],
+                [
+                    354.0,
+                    351.0
+                ],
+                [
+                    107.0,
+                    351.0
+                ]
+            ]
+        },
+        {
+            "text": "Em ayina balance undharaaa",
+            "confidence": 0.958,
+            "box": [
+                [
+                    61.0,
+                    465.0
+                ],
+                [
+                    403.0,
+                    466.0
+                ],
+                [
+                    403.0,
+                    495.0
+                ],
+                [
+                    61.0,
+                    494.0
+                ]
+            ]
+        }
+    ]
+}

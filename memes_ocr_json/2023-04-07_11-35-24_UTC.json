@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-04-07_11-35-24_UTC.jpg",
+    "combined_text": "VESHAI ANTE PULI OCHINDI ANI ARDHAM\nVESINDI ANTE PUSHPA OCHADU ANI ARDHAM\nTELUGU MEMES GURU\nIDHI EKKADA HYPE RA MOWAA...",
+    "detailed": [
+        {
+            "text": "VESHAI ANTE PULI OCHINDI ANI ARDHAM",
+            "confidence": 0.945,
+            "box": [
+                [
+                    183.0,
+                    371.0
+                ],
+                [
+                    935.0,
+                    371.0
+                ],
+                [
+                    935.0,
+                    405.0
+                ],
+                [
+                    183.0,
+                    405.0
+                ]
+            ]
+        },
+        {
+            "text": "VESINDI ANTE PUSHPA OCHADU ANI ARDHAM",
+            "confidence": 0.947,
+            "box": [
+                [
+                    75.0,
+                    882.0
+                ],
+                [
+                    1005.0,
+                    882.0
+                ],
+                [
+                    1005.0,
+                    915.0
+                ],
+                [
+                    75.0,
+                    915.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.896,
+            "box": [
+                [
+                    886.0,
+                    1086.0
+                ],
+                [
+                    1012.0,
+                    1086.0
+                ],
+                [
+                    1012.0,
+                    1107.0
+                ],
+                [
+                    886.0,
+                    1107.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHI EKKADA HYPE RA MOWAA...",
+            "confidence": 0.971,
+            "box": [
+                [
+                    96.0,
+                    1273.0
+                ],
+                [
+                    969.0,
+                    1276.0
+                ],
+                [
+                    969.0,
+                    1326.0
+                ],
+                [
+                    96.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

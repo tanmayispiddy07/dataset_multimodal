@@ -1,0 +1,534 @@
+{
+    "image_name": "2025-10-27_08-00-03_UTC.jpg",
+    "combined_text": "Vizag weatherman\n@KiranWeatherman\nDue to the impact of #CycloneMontha,\nall schools and colleges in the following\ndistricts will remain closed on the\nmentioned dates,As per sources\nVizianagaram:Oct 27,28 &29\nAnakapalli:Oct 2728 &29\nVisakhapatnam:Oct 27 & 28\nKakinada:Oct27,28,29,30 &31\nEast GodavariOct 27&28\nKrishna:Oct 27, 28 & 29\nGuntur:Oct27,28 &29\nBapatla:Oct 27, 28 &29\nPrakasam: Oct 27, 28 & 29\nADDICTEDTOMEMES\nKadapa:Oct 27&28\nEluruOct 27&28\nAnnamayya:Oct 27&28\nChittoor:Oct 27\nPalnadu:Oct 27\nStudents are advised to stay alert \n**APSTUDENTS\nANUBHAVINCHURAJA",
+    "detailed": [
+        {
+            "text": "Vizag weatherman",
+            "confidence": 0.967,
+            "box": [
+                [
+                    363.0,
+                    32.0
+                ],
+                [
+                    636.0,
+                    32.0
+                ],
+                [
+                    636.0,
+                    61.0
+                ],
+                [
+                    363.0,
+                    61.0
+                ]
+            ]
+        },
+        {
+            "text": "@KiranWeatherman",
+            "confidence": 0.998,
+            "box": [
+                [
+                    362.0,
+                    58.0
+                ],
+                [
+                    589.0,
+                    61.0
+                ],
+                [
+                    589.0,
+                    91.0
+                ],
+                [
+                    361.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "Due to the impact of #CycloneMontha,",
+            "confidence": 0.964,
+            "box": [
+                [
+                    277.0,
+                    110.0
+                ],
+                [
+                    804.0,
+                    110.0
+                ],
+                [
+                    804.0,
+                    144.0
+                ],
+                [
+                    277.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "all schools and colleges in the following",
+            "confidence": 0.986,
+            "box": [
+                [
+                    276.0,
+                    145.0
+                ],
+                [
+                    816.0,
+                    148.0
+                ],
+                [
+                    815.0,
+                    185.0
+                ],
+                [
+                    276.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "districts will remain closed on the",
+            "confidence": 0.978,
+            "box": [
+                [
+                    277.0,
+                    187.0
+                ],
+                [
+                    733.0,
+                    188.0
+                ],
+                [
+                    733.0,
+                    219.0
+                ],
+                [
+                    277.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "mentioned dates,As per sources",
+            "confidence": 0.975,
+            "box": [
+                [
+                    276.0,
+                    226.0
+                ],
+                [
+                    733.0,
+                    226.0
+                ],
+                [
+                    733.0,
+                    259.0
+                ],
+                [
+                    276.0,
+                    259.0
+                ]
+            ]
+        },
+        {
+            "text": "Vizianagaram:Oct 27,28 &29",
+            "confidence": 0.93,
+            "box": [
+                [
+                    278.0,
+                    304.0
+                ],
+                [
+                    693.0,
+                    304.0
+                ],
+                [
+                    693.0,
+                    337.0
+                ],
+                [
+                    278.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "text": "Anakapalli:Oct 2728 &29",
+            "confidence": 0.93,
+            "box": [
+                [
+                    280.0,
+                    344.0
+                ],
+                [
+                    652.0,
+                    344.0
+                ],
+                [
+                    652.0,
+                    374.0
+                ],
+                [
+                    280.0,
+                    374.0
+                ]
+            ]
+        },
+        {
+            "text": "Visakhapatnam:Oct 27 & 28",
+            "confidence": 0.957,
+            "box": [
+                [
+                    277.0,
+                    379.0
+                ],
+                [
+                    678.0,
+                    381.0
+                ],
+                [
+                    678.0,
+                    414.0
+                ],
+                [
+                    277.0,
+                    413.0
+                ]
+            ]
+        },
+        {
+            "text": "Kakinada:Oct27,28,29,30 &31",
+            "confidence": 0.912,
+            "box": [
+                [
+                    278.0,
+                    420.0
+                ],
+                [
+                    734.0,
+                    420.0
+                ],
+                [
+                    734.0,
+                    453.0
+                ],
+                [
+                    278.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "East GodavariOct 27&28",
+            "confidence": 0.953,
+            "box": [
+                [
+                    280.0,
+                    459.0
+                ],
+                [
+                    650.0,
+                    459.0
+                ],
+                [
+                    650.0,
+                    488.0
+                ],
+                [
+                    280.0,
+                    488.0
+                ]
+            ]
+        },
+        {
+            "text": "Krishna:Oct 27, 28 & 29",
+            "confidence": 0.917,
+            "box": [
+                [
+                    279.0,
+                    495.0
+                ],
+                [
+                    610.0,
+                    496.0
+                ],
+                [
+                    610.0,
+                    530.0
+                ],
+                [
+                    278.0,
+                    528.0
+                ]
+            ]
+        },
+        {
+            "text": "Guntur:Oct27,28 &29",
+            "confidence": 0.922,
+            "box": [
+                [
+                    279.0,
+                    535.0
+                ],
+                [
+                    605.0,
+                    537.0
+                ],
+                [
+                    605.0,
+                    567.0
+                ],
+                [
+                    278.0,
+                    566.0
+                ]
+            ]
+        },
+        {
+            "text": "Bapatla:Oct 27, 28 &29",
+            "confidence": 0.903,
+            "box": [
+                [
+                    278.0,
+                    574.0
+                ],
+                [
+                    623.0,
+                    573.0
+                ],
+                [
+                    623.0,
+                    606.0
+                ],
+                [
+                    279.0,
+                    608.0
+                ]
+            ]
+        },
+        {
+            "text": "Prakasam: Oct 27, 28 & 29",
+            "confidence": 0.958,
+            "box": [
+                [
+                    277.0,
+                    610.0
+                ],
+                [
+                    644.0,
+                    612.0
+                ],
+                [
+                    644.0,
+                    645.0
+                ],
+                [
+                    277.0,
+                    644.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    741.0,
+                    620.0
+                ],
+                [
+                    878.0,
+                    620.0
+                ],
+                [
+                    878.0,
+                    641.0
+                ],
+                [
+                    741.0,
+                    641.0
+                ]
+            ]
+        },
+        {
+            "text": "Kadapa:Oct 27&28",
+            "confidence": 0.935,
+            "box": [
+                [
+                    278.0,
+                    651.0
+                ],
+                [
+                    570.0,
+                    651.0
+                ],
+                [
+                    570.0,
+                    684.0
+                ],
+                [
+                    278.0,
+                    684.0
+                ]
+            ]
+        },
+        {
+            "text": "EluruOct 27&28",
+            "confidence": 0.949,
+            "box": [
+                [
+                    277.0,
+                    687.0
+                ],
+                [
+                    534.0,
+                    689.0
+                ],
+                [
+                    534.0,
+                    722.0
+                ],
+                [
+                    277.0,
+                    721.0
+                ]
+            ]
+        },
+        {
+            "text": "Annamayya:Oct 27&28",
+            "confidence": 0.971,
+            "box": [
+                [
+                    276.0,
+                    728.0
+                ],
+                [
+                    624.0,
+                    728.0
+                ],
+                [
+                    624.0,
+                    765.0
+                ],
+                [
+                    276.0,
+                    765.0
+                ]
+            ]
+        },
+        {
+            "text": "Chittoor:Oct 27",
+            "confidence": 0.956,
+            "box": [
+                [
+                    278.0,
+                    767.0
+                ],
+                [
+                    508.0,
+                    767.0
+                ],
+                [
+                    508.0,
+                    800.0
+                ],
+                [
+                    278.0,
+                    800.0
+                ]
+            ]
+        },
+        {
+            "text": "Palnadu:Oct 27",
+            "confidence": 0.974,
+            "box": [
+                [
+                    277.0,
+                    804.0
+                ],
+                [
+                    506.0,
+                    804.0
+                ],
+                [
+                    506.0,
+                    838.0
+                ],
+                [
+                    277.0,
+                    838.0
+                ]
+            ]
+        },
+        {
+            "text": "Students are advised to stay alert ",
+            "confidence": 0.967,
+            "box": [
+                [
+                    318.0,
+                    885.0
+                ],
+                [
+                    814.0,
+                    885.0
+                ],
+                [
+                    814.0,
+                    914.0
+                ],
+                [
+                    318.0,
+                    914.0
+                ]
+            ]
+        },
+        {
+            "text": "**APSTUDENTS",
+            "confidence": 0.975,
+            "box": [
+                [
+                    145.0,
+                    943.0
+                ],
+                [
+                    642.0,
+                    955.0
+                ],
+                [
+                    640.0,
+                    1025.0
+                ],
+                [
+                    143.0,
+                    1013.0
+                ]
+            ]
+        },
+        {
+            "text": "ANUBHAVINCHURAJA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    202.0,
+                    1257.0
+                ],
+                [
+                    906.0,
+                    1257.0
+                ],
+                [
+                    906.0,
+                    1316.0
+                ],
+                [
+                    202.0,
+                    1316.0
+                ]
+            ]
+        }
+    ]
+}

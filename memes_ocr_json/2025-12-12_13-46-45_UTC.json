@@ -1,0 +1,446 @@
+{
+    "image_name": "2025-12-12_13-46-45_UTC.jpg",
+    "combined_text": "GISMAT RELAUNCHED TO JISMAT\nAFTER AMEERPET, DILSUKHNAGAR GOWLIDODDI NOW\nRELAUNCHED AT GUNTUR.EXCLUSIVE OFFER FOR GUNTUR\nFREE MINI CHICKEN MANDI IF YOUR NAME STARTS WITH J\nOFFERUPTO DEC2OTH.\nHEARING\nMagnasy\nAIDS\nENT HOSPITAL\nTELOR\nMOMAR\nWIL\nIsma\nDENTOZEN\nismal\nJsm\n**PEOPLE WHO'S NAME\nSTARTSWITH\"J\"AFTER\nEATING FREE CHICKEN MANDI\nFULLHAPPYRAA",
+    "detailed": [
+        {
+            "text": "GISMAT RELAUNCHED TO JISMAT",
+            "confidence": 0.955,
+            "box": [
+                [
+                    266.0,
+                    31.0
+                ],
+                [
+                    827.0,
+                    31.0
+                ],
+                [
+                    827.0,
+                    60.0
+                ],
+                [
+                    266.0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER AMEERPET, DILSUKHNAGAR GOWLIDODDI NOW",
+            "confidence": 0.957,
+            "box": [
+                [
+                    82.0,
+                    71.0
+                ],
+                [
+                    1014.0,
+                    71.0
+                ],
+                [
+                    1014.0,
+                    105.0
+                ],
+                [
+                    82.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "RELAUNCHED AT GUNTUR.EXCLUSIVE OFFER FOR GUNTUR",
+            "confidence": 0.951,
+            "box": [
+                [
+                    37.0,
+                    114.0
+                ],
+                [
+                    1048.0,
+                    116.0
+                ],
+                [
+                    1048.0,
+                    146.0
+                ],
+                [
+                    37.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "FREE MINI CHICKEN MANDI IF YOUR NAME STARTS WITH J",
+            "confidence": 0.951,
+            "box": [
+                [
+                    55.0,
+                    156.0
+                ],
+                [
+                    1036.0,
+                    158.0
+                ],
+                [
+                    1036.0,
+                    191.0
+                ],
+                [
+                    55.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "OFFERUPTO DEC2OTH.",
+            "confidence": 0.937,
+            "box": [
+                [
+                    346.0,
+                    202.0
+                ],
+                [
+                    747.0,
+                    202.0
+                ],
+                [
+                    747.0,
+                    231.0
+                ],
+                [
+                    346.0,
+                    231.0
+                ]
+            ]
+        },
+        {
+            "text": "HEARING",
+            "confidence": 0.995,
+            "box": [
+                [
+                    917.0,
+                    294.0
+                ],
+                [
+                    994.0,
+                    284.0
+                ],
+                [
+                    996.0,
+                    302.0
+                ],
+                [
+                    920.0,
+                    312.0
+                ]
+            ]
+        },
+        {
+            "text": "Magnasy",
+            "confidence": 0.946,
+            "box": [
+                [
+                    772.0,
+                    310.0
+                ],
+                [
+                    880.0,
+                    296.0
+                ],
+                [
+                    883.0,
+                    318.0
+                ],
+                [
+                    775.0,
+                    333.0
+                ]
+            ]
+        },
+        {
+            "text": "AIDS",
+            "confidence": 0.801,
+            "box": [
+                [
+                    941.0,
+                    305.0
+                ],
+                [
+                    979.0,
+                    305.0
+                ],
+                [
+                    979.0,
+                    319.0
+                ],
+                [
+                    941.0,
+                    319.0
+                ]
+            ]
+        },
+        {
+            "text": "ENT HOSPITAL",
+            "confidence": 0.957,
+            "box": [
+                [
+                    741.0,
+                    330.0
+                ],
+                [
+                    912.0,
+                    308.0
+                ],
+                [
+                    915.0,
+                    333.0
+                ],
+                [
+                    745.0,
+                    355.0
+                ]
+            ]
+        },
+        {
+            "text": "TELOR",
+            "confidence": 0.828,
+            "box": [
+                [
+                    1013.0,
+                    350.0
+                ],
+                [
+                    1075.0,
+                    343.0
+                ],
+                [
+                    1079.0,
+                    379.0
+                ],
+                [
+                    1016.0,
+                    386.0
+                ]
+            ]
+        },
+        {
+            "text": "MOMAR",
+            "confidence": 0.763,
+            "box": [
+                [
+                    771.0,
+                    418.0
+                ],
+                [
+                    842.0,
+                    418.0
+                ],
+                [
+                    842.0,
+                    435.0
+                ],
+                [
+                    771.0,
+                    435.0
+                ]
+            ]
+        },
+        {
+            "text": "WIL",
+            "confidence": 0.647,
+            "box": [
+                [
+                    1046.0,
+                    410.0
+                ],
+                [
+                    1079.0,
+                    410.0
+                ],
+                [
+                    1079.0,
+                    428.0
+                ],
+                [
+                    1046.0,
+                    428.0
+                ]
+            ]
+        },
+        {
+            "text": "Isma",
+            "confidence": 0.842,
+            "box": [
+                [
+                    802.0,
+                    548.0
+                ],
+                [
+                    921.0,
+                    560.0
+                ],
+                [
+                    918.0,
+                    591.0
+                ],
+                [
+                    799.0,
+                    579.0
+                ]
+            ]
+        },
+        {
+            "text": "DENTOZEN",
+            "confidence": 0.995,
+            "box": [
+                [
+                    118.0,
+                    601.0
+                ],
+                [
+                    190.0,
+                    601.0
+                ],
+                [
+                    190.0,
+                    617.0
+                ],
+                [
+                    118.0,
+                    617.0
+                ]
+            ]
+        },
+        {
+            "text": "ismal",
+            "confidence": 0.829,
+            "box": [
+                [
+                    652.0,
+                    711.0
+                ],
+                [
+                    796.0,
+                    726.0
+                ],
+                [
+                    792.0,
+                    765.0
+                ],
+                [
+                    648.0,
+                    750.0
+                ]
+            ]
+        },
+        {
+            "text": "Jsm",
+            "confidence": 0.706,
+            "box": [
+                [
+                    927.0,
+                    742.0
+                ],
+                [
+                    1079.0,
+                    762.0
+                ],
+                [
+                    1075.0,
+                    816.0
+                ],
+                [
+                    920.0,
+                    797.0
+                ]
+            ]
+        },
+        {
+            "text": "**PEOPLE WHO'S NAME",
+            "confidence": 0.928,
+            "box": [
+                [
+                    626.0,
+                    1013.0
+                ],
+                [
+                    1018.0,
+                    1013.0
+                ],
+                [
+                    1018.0,
+                    1043.0
+                ],
+                [
+                    626.0,
+                    1043.0
+                ]
+            ]
+        },
+        {
+            "text": "STARTSWITH\"J\"AFTER",
+            "confidence": 0.96,
+            "box": [
+                [
+                    623.0,
+                    1058.0
+                ],
+                [
+                    1020.0,
+                    1058.0
+                ],
+                [
+                    1020.0,
+                    1087.0
+                ],
+                [
+                    623.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "EATING FREE CHICKEN MANDI",
+            "confidence": 0.949,
+            "box": [
+                [
+                    564.0,
+                    1097.0
+                ],
+                [
+                    1077.0,
+                    1097.0
+                ],
+                [
+                    1077.0,
+                    1130.0
+                ],
+                [
+                    564.0,
+                    1130.0
+                ]
+            ]
+        },
+        {
+            "text": "FULLHAPPYRAA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    269.0,
+                    1275.0
+                ],
+                [
+                    837.0,
+                    1275.0
+                ],
+                [
+                    837.0,
+                    1335.0
+                ],
+                [
+                    269.0,
+                    1335.0
+                ]
+            ]
+        }
+    ]
+}

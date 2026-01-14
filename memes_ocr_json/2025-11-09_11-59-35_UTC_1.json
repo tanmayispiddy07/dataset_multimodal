@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-09_11-59-35_UTC_1.jpg",
+    "combined_text": "Bihar's political game just took a wild turn\nand big parties are already shaking.\nBihar Assembly\nElections 2025",
+    "detailed": [
+        {
+            "text": "Bihar's political game just took a wild turn",
+            "confidence": 1.0,
+            "box": [
+                [
+                    65.0,
+                    59.0
+                ],
+                [
+                    1004.0,
+                    60.0
+                ],
+                [
+                    1004.0,
+                    110.0
+                ],
+                [
+                    65.0,
+                    108.0
+                ]
+            ]
+        },
+        {
+            "text": "and big parties are already shaking.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    80.0,
+                    136.0
+                ],
+                [
+                    855.0,
+                    139.0
+                ],
+                [
+                    855.0,
+                    184.0
+                ],
+                [
+                    80.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "Bihar Assembly",
+            "confidence": 0.989,
+            "box": [
+                [
+                    625.0,
+                    786.0
+                ],
+                [
+                    834.0,
+                    789.0
+                ],
+                [
+                    834.0,
+                    820.0
+                ],
+                [
+                    624.0,
+                    817.0
+                ]
+            ]
+        },
+        {
+            "text": "Elections 2025",
+            "confidence": 0.963,
+            "box": [
+                [
+                    619.0,
+                    818.0
+                ],
+                [
+                    841.0,
+                    823.0
+                ],
+                [
+                    840.0,
+                    859.0
+                ],
+                [
+                    618.0,
+                    855.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-12-02_07-38-27_UTC.jpg",
+    "combined_text": "FOR THE FIRST TIME CHIRU AND VENKY COMING\nTOGETHER FOR MEGA VICTORY MASS SONG IN\nMANA SHANKARA VARA PRASAD GARU MOVIE\nFOR THE\nMEGA VICTORY\nMASS SONG\nANEVER SEEN\nBEFORE COLLABORATION\nADDICTEDTOMEMES\nTHEATERSLORACHE",
+    "detailed": [
+        {
+            "text": "FOR THE FIRST TIME CHIRU AND VENKY COMING",
+            "confidence": 0.933,
+            "box": [
+                [
+                    44.0,
+                    49.0
+                ],
+                [
+                    1065.0,
+                    50.0
+                ],
+                [
+                    1065.0,
+                    88.0
+                ],
+                [
+                    44.0,
+                    87.0
+                ]
+            ]
+        },
+        {
+            "text": "TOGETHER FOR MEGA VICTORY MASS SONG IN",
+            "confidence": 0.943,
+            "box": [
+                [
+                    58.0,
+                    101.0
+                ],
+                [
+                    1054.0,
+                    101.0
+                ],
+                [
+                    1054.0,
+                    139.0
+                ],
+                [
+                    58.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA SHANKARA VARA PRASAD GARU MOVIE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    52.0,
+                    152.0
+                ],
+                [
+                    1046.0,
+                    152.0
+                ],
+                [
+                    1046.0,
+                    190.0
+                ],
+                [
+                    52.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR THE",
+            "confidence": 0.943,
+            "box": [
+                [
+                    764.0,
+                    305.0
+                ],
+                [
+                    906.0,
+                    305.0
+                ],
+                [
+                    906.0,
+                    353.0
+                ],
+                [
+                    764.0,
+                    353.0
+                ]
+            ]
+        },
+        {
+            "text": "MEGA VICTORY",
+            "confidence": 0.969,
+            "box": [
+                [
+                    614.0,
+                    359.0
+                ],
+                [
+                    1052.0,
+                    359.0
+                ],
+                [
+                    1052.0,
+                    428.0
+                ],
+                [
+                    614.0,
+                    428.0
+                ]
+            ]
+        },
+        {
+            "text": "MASS SONG",
+            "confidence": 0.951,
+            "box": [
+                [
+                    720.0,
+                    434.0
+                ],
+                [
+                    965.0,
+                    434.0
+                ],
+                [
+                    965.0,
+                    489.0
+                ],
+                [
+                    720.0,
+                    489.0
+                ]
+            ]
+        },
+        {
+            "text": "ANEVER SEEN",
+            "confidence": 0.959,
+            "box": [
+                [
+                    681.0,
+                    616.0
+                ],
+                [
+                    950.0,
+                    616.0
+                ],
+                [
+                    950.0,
+                    662.0
+                ],
+                [
+                    681.0,
+                    662.0
+                ]
+            ]
+        },
+        {
+            "text": "BEFORE COLLABORATION",
+            "confidence": 0.979,
+            "box": [
+                [
+                    578.0,
+                    671.0
+                ],
+                [
+                    1053.0,
+                    674.0
+                ],
+                [
+                    1052.0,
+                    719.0
+                ],
+                [
+                    577.0,
+                    716.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    34.0,
+                    929.0
+                ],
+                [
+                    163.0,
+                    929.0
+                ],
+                [
+                    163.0,
+                    948.0
+                ],
+                [
+                    34.0,
+                    948.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATERSLORACHE",
+            "confidence": 0.996,
+            "box": [
+                [
+                    254.0,
+                    1140.0
+                ],
+                [
+                    901.0,
+                    1140.0
+                ],
+                [
+                    901.0,
+                    1193.0
+                ],
+                [
+                    254.0,
+                    1193.0
+                ]
+            ]
+        }
+    ]
+}

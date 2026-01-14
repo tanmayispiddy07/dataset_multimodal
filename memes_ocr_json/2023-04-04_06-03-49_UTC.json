@@ -1,0 +1,182 @@
+{
+    "image_name": "2023-04-04_06-03-49_UTC.jpg",
+    "combined_text": "MEDI\niDream HDMovies\nAA EDDI GADINI LOVE CHESAV....ANNI ICHAV\nTELUGU MEMES GURU\nes\nEE SNOWGADINI LOVE CHESAV ANNI ICHAV\nDream HDMovies\nMARI NANNENDHUKU LOVE CHEYYAVEY",
+    "detailed": [
+        {
+            "text": "MEDI",
+            "confidence": 0.948,
+            "box": [
+                [
+                    75.0,
+                    0.0
+                ],
+                [
+                    104.0,
+                    0.0
+                ],
+                [
+                    104.0,
+                    14.0
+                ],
+                [
+                    75.0,
+                    14.0
+                ]
+            ]
+        },
+        {
+            "text": "iDream HDMovies",
+            "confidence": 0.964,
+            "box": [
+                [
+                    855.0,
+                    202.0
+                ],
+                [
+                    1014.0,
+                    202.0
+                ],
+                [
+                    1014.0,
+                    223.0
+                ],
+                [
+                    855.0,
+                    223.0
+                ]
+            ]
+        },
+        {
+            "text": "AA EDDI GADINI LOVE CHESAV....ANNI ICHAV",
+            "confidence": 0.935,
+            "box": [
+                [
+                    16.0,
+                    377.0
+                ],
+                [
+                    1053.0,
+                    378.0
+                ],
+                [
+                    1053.0,
+                    417.0
+                ],
+                [
+                    15.0,
+                    415.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.94,
+            "box": [
+                [
+                    828.0,
+                    655.0
+                ],
+                [
+                    993.0,
+                    653.0
+                ],
+                [
+                    993.0,
+                    678.0
+                ],
+                [
+                    828.0,
+                    680.0
+                ]
+            ]
+        },
+        {
+            "text": "es",
+            "confidence": 0.985,
+            "box": [
+                [
+                    983.0,
+                    657.0
+                ],
+                [
+                    1006.0,
+                    653.0
+                ],
+                [
+                    1009.0,
+                    668.0
+                ],
+                [
+                    987.0,
+                    672.0
+                ]
+            ]
+        },
+        {
+            "text": "EE SNOWGADINI LOVE CHESAV ANNI ICHAV",
+            "confidence": 0.946,
+            "box": [
+                [
+                    14.0,
+                    829.0
+                ],
+                [
+                    1045.0,
+                    829.0
+                ],
+                [
+                    1045.0,
+                    867.0
+                ],
+                [
+                    14.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "Dream HDMovies",
+            "confidence": 0.959,
+            "box": [
+                [
+                    865.0,
+                    1106.0
+                ],
+                [
+                    1012.0,
+                    1106.0
+                ],
+                [
+                    1012.0,
+                    1127.0
+                ],
+                [
+                    865.0,
+                    1127.0
+                ]
+            ]
+        },
+        {
+            "text": "MARI NANNENDHUKU LOVE CHEYYAVEY",
+            "confidence": 0.963,
+            "box": [
+                [
+                    28.0,
+                    1260.0
+                ],
+                [
+                    1062.0,
+                    1260.0
+                ],
+                [
+                    1062.0,
+                    1301.0
+                ],
+                [
+                    28.0,
+                    1301.0
+                ]
+            ]
+        }
+    ]
+}

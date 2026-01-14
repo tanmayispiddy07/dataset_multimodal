@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-26_18-24-05_UTC_1.jpg",
+    "combined_text": "Hero\nsarcasm\nAbhishek Sharma\nThe first batter in T20 Asia Cup history.\nto complete 300 runs in a single edition",
+    "detailed": [
+        {
+            "text": "Hero",
+            "confidence": 0.912,
+            "box": [
+                [
+                    899.0,
+                    215.0
+                ],
+                [
+                    935.0,
+                    206.0
+                ],
+                [
+                    961.0,
+                    309.0
+                ],
+                [
+                    924.0,
+                    318.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.994,
+            "box": [
+                [
+                    484.0,
+                    1041.0
+                ],
+                [
+                    595.0,
+                    1041.0
+                ],
+                [
+                    595.0,
+                    1064.0
+                ],
+                [
+                    484.0,
+                    1064.0
+                ]
+            ]
+        },
+        {
+            "text": "Abhishek Sharma",
+            "confidence": 0.985,
+            "box": [
+                [
+                    104.0,
+                    1086.0
+                ],
+                [
+                    762.0,
+                    1092.0
+                ],
+                [
+                    762.0,
+                    1154.0
+                ],
+                [
+                    104.0,
+                    1148.0
+                ]
+            ]
+        },
+        {
+            "text": "The first batter in T20 Asia Cup history.",
+            "confidence": 0.979,
+            "box": [
+                [
+                    41.0,
+                    1169.0
+                ],
+                [
+                    1032.0,
+                    1179.0
+                ],
+                [
+                    1032.0,
+                    1237.0
+                ],
+                [
+                    41.0,
+                    1227.0
+                ]
+            ]
+        },
+        {
+            "text": "to complete 300 runs in a single edition",
+            "confidence": 0.975,
+            "box": [
+                [
+                    30.0,
+                    1252.0
+                ],
+                [
+                    1049.0,
+                    1252.0
+                ],
+                [
+                    1049.0,
+                    1301.0
+                ],
+                [
+                    30.0,
+                    1301.0
+                ]
+            ]
+        }
+    ]
+}

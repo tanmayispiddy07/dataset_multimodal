@@ -1,0 +1,182 @@
+{
+    "image_name": "2019-07-13_02-58-17_UTC.jpg",
+    "combined_text": "*The Most Common Childhood Threat*\nNo one:\nAbsolutely no one:\nAmma:Pichi pichi veshalu vesavu annuko, Indiakeli\nhostelo padestha\n+1.2K\n319Comments\nWrite a comment...",
+    "detailed": [
+        {
+            "text": "*The Most Common Childhood Threat*",
+            "confidence": 0.977,
+            "box": [
+                [
+                    34.0,
+                    17.0
+                ],
+                [
+                    757.0,
+                    19.0
+                ],
+                [
+                    757.0,
+                    60.0
+                ],
+                [
+                    34.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "No one:",
+            "confidence": 0.986,
+            "box": [
+                [
+                    30.0,
+                    121.0
+                ],
+                [
+                    184.0,
+                    124.0
+                ],
+                [
+                    183.0,
+                    168.0
+                ],
+                [
+                    29.0,
+                    165.0
+                ]
+            ]
+        },
+        {
+            "text": "Absolutely no one:",
+            "confidence": 0.952,
+            "box": [
+                [
+                    35.0,
+                    177.0
+                ],
+                [
+                    381.0,
+                    177.0
+                ],
+                [
+                    381.0,
+                    219.0
+                ],
+                [
+                    35.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "Amma:Pichi pichi veshalu vesavu annuko, Indiakeli",
+            "confidence": 0.96,
+            "box": [
+                [
+                    34.0,
+                    228.0
+                ],
+                [
+                    980.0,
+                    228.0
+                ],
+                [
+                    980.0,
+                    269.0
+                ],
+                [
+                    34.0,
+                    269.0
+                ]
+            ]
+        },
+        {
+            "text": "hostelo padestha",
+            "confidence": 0.978,
+            "box": [
+                [
+                    34.0,
+                    281.0
+                ],
+                [
+                    354.0,
+                    281.0
+                ],
+                [
+                    354.0,
+                    320.0
+                ],
+                [
+                    34.0,
+                    320.0
+                ]
+            ]
+        },
+        {
+            "text": "+1.2K",
+            "confidence": 0.989,
+            "box": [
+                [
+                    343.0,
+                    384.0
+                ],
+                [
+                    454.0,
+                    384.0
+                ],
+                [
+                    454.0,
+                    424.0
+                ],
+                [
+                    343.0,
+                    424.0
+                ]
+            ]
+        },
+        {
+            "text": "319Comments",
+            "confidence": 0.996,
+            "box": [
+                [
+                    762.0,
+                    385.0
+                ],
+                [
+                    1043.0,
+                    387.0
+                ],
+                [
+                    1043.0,
+                    426.0
+                ],
+                [
+                    762.0,
+                    423.0
+                ]
+            ]
+        },
+        {
+            "text": "Write a comment...",
+            "confidence": 0.972,
+            "box": [
+                [
+                    202.0,
+                    524.0
+                ],
+                [
+                    548.0,
+                    526.0
+                ],
+                [
+                    548.0,
+                    562.0
+                ],
+                [
+                    201.0,
+                    560.0
+                ]
+            ]
+        }
+    ]
+}

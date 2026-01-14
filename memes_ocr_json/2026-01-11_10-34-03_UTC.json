@@ -1,0 +1,160 @@
+{
+    "image_name": "2026-01-11_10-34-03_UTC.jpg",
+    "combined_text": "KRISHNA BURUGULA'S COMIC TIMING\nAND DIALOGUE DELIVERY BECAME A\nMAJOR HIGHLIGHT OF JIGRIS.NAVEEN\nPOLISHETTY WAS THE FIRST CHOICE .\nADDICTEDTOMEMES\n**MEWHILEWATCHING HIS\nCOMEDYSCENES",
+    "detailed": [
+        {
+            "text": "KRISHNA BURUGULA'S COMIC TIMING",
+            "confidence": 0.959,
+            "box": [
+                [
+                    179.0,
+                    32.0
+                ],
+                [
+                    931.0,
+                    32.0
+                ],
+                [
+                    931.0,
+                    66.0
+                ],
+                [
+                    179.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "AND DIALOGUE DELIVERY BECAME A",
+            "confidence": 0.943,
+            "box": [
+                [
+                    184.0,
+                    79.0
+                ],
+                [
+                    925.0,
+                    79.0
+                ],
+                [
+                    925.0,
+                    117.0
+                ],
+                [
+                    184.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "MAJOR HIGHLIGHT OF JIGRIS.NAVEEN",
+            "confidence": 0.955,
+            "box": [
+                [
+                    165.0,
+                    132.0
+                ],
+                [
+                    949.0,
+                    132.0
+                ],
+                [
+                    949.0,
+                    166.0
+                ],
+                [
+                    165.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "POLISHETTY WAS THE FIRST CHOICE .",
+            "confidence": 0.961,
+            "box": [
+                [
+                    183.0,
+                    181.0
+                ],
+                [
+                    928.0,
+                    181.0
+                ],
+                [
+                    928.0,
+                    219.0
+                ],
+                [
+                    183.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    536.0,
+                    399.0
+                ],
+                [
+                    692.0,
+                    396.0
+                ],
+                [
+                    692.0,
+                    417.0
+                ],
+                [
+                    536.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "**MEWHILEWATCHING HIS",
+            "confidence": 0.977,
+            "box": [
+                [
+                    291.0,
+                    1212.0
+                ],
+                [
+                    947.0,
+                    1218.0
+                ],
+                [
+                    946.0,
+                    1273.0
+                ],
+                [
+                    291.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "COMEDYSCENES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    404.0,
+                    1284.0
+                ],
+                [
+                    818.0,
+                    1284.0
+                ],
+                [
+                    818.0,
+                    1325.0
+                ],
+                [
+                    404.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

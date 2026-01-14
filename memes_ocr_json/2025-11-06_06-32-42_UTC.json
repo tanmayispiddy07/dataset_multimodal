@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-06_06-32-42_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF KAANTHA\nMOVIE RELEASING ON NOV 14TH\nOHIR\nAGV\nRI BOR\nDELTAFORCE\nADDICTEDTOMEMES\nDULQUER SALMAAN SCRIPT SELECTION\nGURUINCHI TELISINDHE KADHA EPUDU\nDIFFERENTGA TRY CHESTHADU",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF KAANTHA",
+            "confidence": 0.958,
+            "box": [
+                [
+                    83.0,
+                    46.0
+                ],
+                [
+                    1015.0,
+                    46.0
+                ],
+                [
+                    1015.0,
+                    88.0
+                ],
+                [
+                    83.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON NOV 14TH",
+            "confidence": 0.98,
+            "box": [
+                [
+                    118.0,
+                    110.0
+                ],
+                [
+                    969.0,
+                    110.0
+                ],
+                [
+                    969.0,
+                    156.0
+                ],
+                [
+                    118.0,
+                    156.0
+                ]
+            ]
+        },
+        {
+            "text": "OHIR",
+            "confidence": 0.655,
+            "box": [
+                [
+                    883.0,
+                    314.0
+                ],
+                [
+                    1079.0,
+                    324.0
+                ],
+                [
+                    1079.0,
+                    487.0
+                ],
+                [
+                    875.0,
+                    477.0
+                ]
+            ]
+        },
+        {
+            "text": "AGV",
+            "confidence": 0.859,
+            "box": [
+                [
+                    8.0,
+                    657.0
+                ],
+                [
+                    159.0,
+                    671.0
+                ],
+                [
+                    139.0,
+                    871.0
+                ],
+                [
+                    0.0,
+                    857.0
+                ]
+            ]
+        },
+        {
+            "text": "RI BOR",
+            "confidence": 0.743,
+            "box": [
+                [
+                    259.0,
+                    658.0
+                ],
+                [
+                    557.0,
+                    658.0
+                ],
+                [
+                    557.0,
+                    868.0
+                ],
+                [
+                    259.0,
+                    868.0
+                ]
+            ]
+        },
+        {
+            "text": "DELTAFORCE",
+            "confidence": 0.951,
+            "box": [
+                [
+                    547.0,
+                    946.0
+                ],
+                [
+                    726.0,
+                    903.0
+                ],
+                [
+                    739.0,
+                    956.0
+                ],
+                [
+                    560.0,
+                    999.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    27.0,
+                    1065.0
+                ],
+                [
+                    195.0,
+                    1063.0
+                ],
+                [
+                    196.0,
+                    1086.0
+                ],
+                [
+                    27.0,
+                    1087.0
+                ]
+            ]
+        },
+        {
+            "text": "DULQUER SALMAAN SCRIPT SELECTION",
+            "confidence": 0.963,
+            "box": [
+                [
+                    93.0,
+                    1196.0
+                ],
+                [
+                    820.0,
+                    1196.0
+                ],
+                [
+                    820.0,
+                    1229.0
+                ],
+                [
+                    93.0,
+                    1229.0
+                ]
+            ]
+        },
+        {
+            "text": "GURUINCHI TELISINDHE KADHA EPUDU",
+            "confidence": 0.967,
+            "box": [
+                [
+                    98.0,
+                    1240.0
+                ],
+                [
+                    810.0,
+                    1242.0
+                ],
+                [
+                    810.0,
+                    1277.0
+                ],
+                [
+                    98.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "DIFFERENTGA TRY CHESTHADU",
+            "confidence": 0.964,
+            "box": [
+                [
+                    163.0,
+                    1285.0
+                ],
+                [
+                    745.0,
+                    1288.0
+                ],
+                [
+                    745.0,
+                    1326.0
+                ],
+                [
+                    163.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-04-30_22-48-17_UTC.jpg",
+    "combined_text": "GIVETHAT MAN\nA BOX OF MANGOES",
+    "detailed": [
+        {
+            "text": "GIVETHAT MAN",
+            "confidence": 0.962,
+            "box": [
+                [
+                    34.0,
+                    3.0
+                ],
+                [
+                    297.0,
+                    2.0
+                ],
+                [
+                    297.0,
+                    33.0
+                ],
+                [
+                    34.0,
+                    34.0
+                ]
+            ]
+        },
+        {
+            "text": "A BOX OF MANGOES",
+            "confidence": 0.914,
+            "box": [
+                [
+                    14.0,
+                    276.0
+                ],
+                [
+                    314.0,
+                    276.0
+                ],
+                [
+                    314.0,
+                    316.0
+                ],
+                [
+                    14.0,
+                    316.0
+                ]
+            ]
+        }
+    ]
+}

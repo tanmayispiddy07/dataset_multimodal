@@ -1,0 +1,182 @@
+{
+    "image_name": "2019-06-06_22-01-43_UTC.jpg",
+    "combined_text": "BabaGuzman\n@siscrys\nI can never understand how girls just tell...\ntheir parents.... they have a\nboyfriend....????? Like my ass would have\nbeen shipped back to Afghanistan before i\ncould even get the word boy out of my\nmouth",
+    "detailed": [
+        {
+            "text": "BabaGuzman",
+            "confidence": 0.999,
+            "box": [
+                [
+                    193.0,
+                    99.0
+                ],
+                [
+                    457.0,
+                    102.0
+                ],
+                [
+                    457.0,
+                    139.0
+                ],
+                [
+                    192.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "@siscrys",
+            "confidence": 0.998,
+            "box": [
+                [
+                    192.0,
+                    147.0
+                ],
+                [
+                    359.0,
+                    150.0
+                ],
+                [
+                    358.0,
+                    194.0
+                ],
+                [
+                    191.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "I can never understand how girls just tell...",
+            "confidence": 0.967,
+            "box": [
+                [
+                    29.0,
+                    289.0
+                ],
+                [
+                    1029.0,
+                    292.0
+                ],
+                [
+                    1029.0,
+                    345.0
+                ],
+                [
+                    29.0,
+                    342.0
+                ]
+            ]
+        },
+        {
+            "text": "their parents.... they have a",
+            "confidence": 0.968,
+            "box": [
+                [
+                    34.0,
+                    378.0
+                ],
+                [
+                    697.0,
+                    378.0
+                ],
+                [
+                    697.0,
+                    432.0
+                ],
+                [
+                    34.0,
+                    432.0
+                ]
+            ]
+        },
+        {
+            "text": "boyfriend....????? Like my ass would have",
+            "confidence": 0.935,
+            "box": [
+                [
+                    29.0,
+                    455.0
+                ],
+                [
+                    1052.0,
+                    451.0
+                ],
+                [
+                    1052.0,
+                    519.0
+                ],
+                [
+                    29.0,
+                    522.0
+                ]
+            ]
+        },
+        {
+            "text": "been shipped back to Afghanistan before i",
+            "confidence": 0.984,
+            "box": [
+                [
+                    35.0,
+                    547.0
+                ],
+                [
+                    1051.0,
+                    547.0
+                ],
+                [
+                    1051.0,
+                    600.0
+                ],
+                [
+                    35.0,
+                    600.0
+                ]
+            ]
+        },
+        {
+            "text": "could even get the word boy out of my",
+            "confidence": 0.989,
+            "box": [
+                [
+                    32.0,
+                    629.0
+                ],
+                [
+                    956.0,
+                    634.0
+                ],
+                [
+                    956.0,
+                    690.0
+                ],
+                [
+                    31.0,
+                    685.0
+                ]
+            ]
+        },
+        {
+            "text": "mouth",
+            "confidence": 0.97,
+            "box": [
+                [
+                    29.0,
+                    719.0
+                ],
+                [
+                    195.0,
+                    716.0
+                ],
+                [
+                    196.0,
+                    768.0
+                ],
+                [
+                    30.0,
+                    771.0
+                ]
+            ]
+        }
+    ]
+}

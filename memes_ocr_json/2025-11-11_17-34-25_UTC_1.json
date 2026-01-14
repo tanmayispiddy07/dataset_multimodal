@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-11_17-34-25_UTC_1.jpg",
+    "combined_text": "sarcasm\nThis is for those who even\nforget the little things.\nSWIPE<",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    458.0,
+                    1020.0
+                ],
+                [
+                    623.0,
+                    1020.0
+                ],
+                [
+                    623.0,
+                    1050.0
+                ],
+                [
+                    458.0,
+                    1050.0
+                ]
+            ]
+        },
+        {
+            "text": "This is for those who even",
+            "confidence": 1.0,
+            "box": [
+                [
+                    135.0,
+                    1076.0
+                ],
+                [
+                    946.0,
+                    1079.0
+                ],
+                [
+                    946.0,
+                    1132.0
+                ],
+                [
+                    135.0,
+                    1129.0
+                ]
+            ]
+        },
+        {
+            "text": "forget the little things.",
+            "confidence": 0.994,
+            "box": [
+                [
+                    110.0,
+                    1166.0
+                ],
+                [
+                    820.0,
+                    1170.0
+                ],
+                [
+                    820.0,
+                    1236.0
+                ],
+                [
+                    110.0,
+                    1232.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE<",
+            "confidence": 0.972,
+            "box": [
+                [
+                    918.0,
+                    1294.0
+                ],
+                [
+                    1032.0,
+                    1294.0
+                ],
+                [
+                    1032.0,
+                    1320.0
+                ],
+                [
+                    918.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-04-30_00-08-29_UTC.jpg",
+    "combined_text": "if your boyfriend isn't treating you right\nlet that\nt mamidipandu",
+    "detailed": [
+        {
+            "text": "if your boyfriend isn't treating you right",
+            "confidence": 0.958,
+            "box": [
+                [
+                    16.0,
+                    94.0
+                ],
+                [
+                    821.0,
+                    94.0
+                ],
+                [
+                    821.0,
+                    142.0
+                ],
+                [
+                    16.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "let that",
+            "confidence": 0.967,
+            "box": [
+                [
+                    16.0,
+                    166.0
+                ],
+                [
+                    175.0,
+                    168.0
+                ],
+                [
+                    175.0,
+                    212.0
+                ],
+                [
+                    16.0,
+                    210.0
+                ]
+            ]
+        },
+        {
+            "text": "t mamidipandu",
+            "confidence": 0.993,
+            "box": [
+                [
+                    141.0,
+                    160.0
+                ],
+                [
+                    680.0,
+                    156.0
+                ],
+                [
+                    681.0,
+                    220.0
+                ],
+                [
+                    142.0,
+                    224.0
+                ]
+            ]
+        }
+    ]
+}

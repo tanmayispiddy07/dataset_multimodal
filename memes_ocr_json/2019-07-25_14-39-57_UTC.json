@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-07-25_14-39-57_UTC.jpg",
+    "combined_text": "WEDDING PHOTOGRAPHERS IN OTHER\nCOUNTRIES\n@theindianmemes\nINDIAN WEDDING PHOTOGRAPHERS",
+    "detailed": [
+        {
+            "text": "WEDDING PHOTOGRAPHERS IN OTHER",
+            "confidence": 0.953,
+            "box": [
+                [
+                    53.0,
+                    21.0
+                ],
+                [
+                    1049.0,
+                    21.0
+                ],
+                [
+                    1049.0,
+                    80.0
+                ],
+                [
+                    53.0,
+                    80.0
+                ]
+            ]
+        },
+        {
+            "text": "COUNTRIES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    397.0,
+                    86.0
+                ],
+                [
+                    712.0,
+                    86.0
+                ],
+                [
+                    712.0,
+                    155.0
+                ],
+                [
+                    397.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "@theindianmemes",
+            "confidence": 0.994,
+            "box": [
+                [
+                    656.0,
+                    464.0
+                ],
+                [
+                    958.0,
+                    470.0
+                ],
+                [
+                    957.0,
+                    504.0
+                ],
+                [
+                    655.0,
+                    498.0
+                ]
+            ]
+        },
+        {
+            "text": "INDIAN WEDDING PHOTOGRAPHERS",
+            "confidence": 0.966,
+            "box": [
+                [
+                    66.0,
+                    689.0
+                ],
+                [
+                    1036.0,
+                    689.0
+                ],
+                [
+                    1036.0,
+                    752.0
+                ],
+                [
+                    66.0,
+                    752.0
+                ]
+            ]
+        }
+    ]
+}

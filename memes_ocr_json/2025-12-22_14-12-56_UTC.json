@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-12-22_14-12-56_UTC.jpg",
+    "combined_text": "SAMYUKTHANIJAM\nGANE KATHI LA UNDI",
+    "detailed": [
+        {
+            "text": "SAMYUKTHANIJAM",
+            "confidence": 0.992,
+            "box": [
+                [
+                    33.0,
+                    693.0
+                ],
+                [
+                    274.0,
+                    693.0
+                ],
+                [
+                    274.0,
+                    720.0
+                ],
+                [
+                    33.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "GANE KATHI LA UNDI",
+            "confidence": 0.94,
+            "box": [
+                [
+                    28.0,
+                    723.0
+                ],
+                [
+                    278.0,
+                    723.0
+                ],
+                [
+                    278.0,
+                    747.0
+                ],
+                [
+                    28.0,
+                    747.0
+                ]
+            ]
+        }
+    ]
+}

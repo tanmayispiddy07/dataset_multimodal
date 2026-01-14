@@ -1,0 +1,776 @@
+{
+    "image_name": "2025-09-17_13-15-53_UTC.jpg",
+    "combined_text": "Mahesh Babu \nFollow\n@urstrulyMahesh\n#Littlehearts...fun,fresh and big in\nMaheshBabu0\nFollow\nthe cast is extraordinary.... Especially\n@urstrulyMahesh\nthe young ones.. phew !! sensatiional\n#Anaganaga is a simple and emotional\nactingWhat a joy ride!!\nstory told beautifully....\na film tha\n@SinjithYerramil Nuvvu daya chesi phone\ntruly deserves your time!\naapesi yekkadiki vellodhu brother.... It's\nGreat work by @ISumanth and the entire\ngoing to be really busy for a while\nteam... Sending all my love.\nDkeep rockingcongrats to the\nentireteam\n@Asunnysanjay @rakeshreddy1224\n@pavan_pappula #ChanduRavi @EtvWin\n@mouli_talks@shivani_nagaram\n@arvindmule_pd @ashwinrajasheka @Sr\nAvasarala @chvenkatesh78 @krishient\n@marthandsai @etvwin #AdityaHasan\n@ThisisNitin1111@i_taNmai\n@connect2vamsi @VNE_OffL@krishna_kri\n@ThisisNitin1111#KittuVissapragada\n@suriyabalaji_97\nADDICTEDTOMEMES\nBABU SPEEDCHUSTHUNTE BREAK\nTIME LO ETVWIN CONTENT\nANTHA CHUSELAGA UNNADU",
+    "detailed": [
+        {
+            "text": "Mahesh Babu ",
+            "confidence": 0.937,
+            "box": [
+                [
+                    99.0,
+                    52.0
+                ],
+                [
+                    283.0,
+                    52.0
+                ],
+                [
+                    283.0,
+                    77.0
+                ],
+                [
+                    99.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "Follow",
+            "confidence": 0.916,
+            "box": [
+                [
+                    415.0,
+                    60.0
+                ],
+                [
+                    487.0,
+                    60.0
+                ],
+                [
+                    487.0,
+                    89.0
+                ],
+                [
+                    415.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "@urstrulyMahesh",
+            "confidence": 0.991,
+            "box": [
+                [
+                    99.0,
+                    80.0
+                ],
+                [
+                    293.0,
+                    80.0
+                ],
+                [
+                    293.0,
+                    106.0
+                ],
+                [
+                    99.0,
+                    106.0
+                ]
+            ]
+        },
+        {
+            "text": "#Littlehearts...fun,fresh and big in",
+            "confidence": 0.952,
+            "box": [
+                [
+                    20.0,
+                    131.0
+                ],
+                [
+                    474.0,
+                    131.0
+                ],
+                [
+                    474.0,
+                    160.0
+                ],
+                [
+                    20.0,
+                    160.0
+                ]
+            ]
+        },
+        {
+            "text": "MaheshBabu0",
+            "confidence": 0.932,
+            "box": [
+                [
+                    668.0,
+                    144.0
+                ],
+                [
+                    838.0,
+                    144.0
+                ],
+                [
+                    838.0,
+                    169.0
+                ],
+                [
+                    668.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "Follow",
+            "confidence": 0.996,
+            "box": [
+                [
+                    958.0,
+                    152.0
+                ],
+                [
+                    1025.0,
+                    152.0
+                ],
+                [
+                    1025.0,
+                    180.0
+                ],
+                [
+                    958.0,
+                    180.0
+                ]
+            ]
+        },
+        {
+            "text": "the cast is extraordinary.... Especially",
+            "confidence": 0.955,
+            "box": [
+                [
+                    52.0,
+                    168.0
+                ],
+                [
+                    532.0,
+                    168.0
+                ],
+                [
+                    532.0,
+                    197.0
+                ],
+                [
+                    52.0,
+                    197.0
+                ]
+            ]
+        },
+        {
+            "text": "@urstrulyMahesh",
+            "confidence": 0.993,
+            "box": [
+                [
+                    669.0,
+                    173.0
+                ],
+                [
+                    846.0,
+                    173.0
+                ],
+                [
+                    846.0,
+                    194.0
+                ],
+                [
+                    669.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "the young ones.. phew !! sensatiional",
+            "confidence": 0.935,
+            "box": [
+                [
+                    17.0,
+                    203.0
+                ],
+                [
+                    507.0,
+                    203.0
+                ],
+                [
+                    507.0,
+                    235.0
+                ],
+                [
+                    17.0,
+                    235.0
+                ]
+            ]
+        },
+        {
+            "text": "#Anaganaga is a simple and emotional",
+            "confidence": 0.976,
+            "box": [
+                [
+                    591.0,
+                    216.0
+                ],
+                [
+                    1056.0,
+                    215.0
+                ],
+                [
+                    1056.0,
+                    245.0
+                ],
+                [
+                    591.0,
+                    246.0
+                ]
+            ]
+        },
+        {
+            "text": "actingWhat a joy ride!!",
+            "confidence": 0.932,
+            "box": [
+                [
+                    16.0,
+                    239.0
+                ],
+                [
+                    423.0,
+                    239.0
+                ],
+                [
+                    423.0,
+                    271.0
+                ],
+                [
+                    16.0,
+                    271.0
+                ]
+            ]
+        },
+        {
+            "text": "story told beautifully....",
+            "confidence": 0.982,
+            "box": [
+                [
+                    591.0,
+                    251.0
+                ],
+                [
+                    868.0,
+                    250.0
+                ],
+                [
+                    868.0,
+                    278.0
+                ],
+                [
+                    591.0,
+                    280.0
+                ]
+            ]
+        },
+        {
+            "text": "a film tha",
+            "confidence": 0.94,
+            "box": [
+                [
+                    959.0,
+                    251.0
+                ],
+                [
+                    1079.0,
+                    251.0
+                ],
+                [
+                    1079.0,
+                    277.0
+                ],
+                [
+                    959.0,
+                    277.0
+                ]
+            ]
+        },
+        {
+            "text": "@SinjithYerramil Nuvvu daya chesi phone",
+            "confidence": 0.967,
+            "box": [
+                [
+                    19.0,
+                    277.0
+                ],
+                [
+                    556.0,
+                    277.0
+                ],
+                [
+                    556.0,
+                    306.0
+                ],
+                [
+                    19.0,
+                    306.0
+                ]
+            ]
+        },
+        {
+            "text": "truly deserves your time!",
+            "confidence": 0.971,
+            "box": [
+                [
+                    591.0,
+                    283.0
+                ],
+                [
+                    893.0,
+                    284.0
+                ],
+                [
+                    893.0,
+                    313.0
+                ],
+                [
+                    591.0,
+                    312.0
+                ]
+            ]
+        },
+        {
+            "text": "aapesi yekkadiki vellodhu brother.... It's",
+            "confidence": 0.958,
+            "box": [
+                [
+                    17.0,
+                    314.0
+                ],
+                [
+                    527.0,
+                    313.0
+                ],
+                [
+                    527.0,
+                    342.0
+                ],
+                [
+                    17.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "Great work by @ISumanth and the entire",
+            "confidence": 0.941,
+            "box": [
+                [
+                    591.0,
+                    318.0
+                ],
+                [
+                    1079.0,
+                    317.0
+                ],
+                [
+                    1079.0,
+                    346.0
+                ],
+                [
+                    591.0,
+                    347.0
+                ]
+            ]
+        },
+        {
+            "text": "going to be really busy for a while",
+            "confidence": 0.954,
+            "box": [
+                [
+                    17.0,
+                    350.0
+                ],
+                [
+                    516.0,
+                    347.0
+                ],
+                [
+                    516.0,
+                    379.0
+                ],
+                [
+                    17.0,
+                    383.0
+                ]
+            ]
+        },
+        {
+            "text": "team... Sending all my love.",
+            "confidence": 0.942,
+            "box": [
+                [
+                    592.0,
+                    353.0
+                ],
+                [
+                    916.0,
+                    353.0
+                ],
+                [
+                    916.0,
+                    382.0
+                ],
+                [
+                    592.0,
+                    382.0
+                ]
+            ]
+        },
+        {
+            "text": "Dkeep rockingcongrats to the",
+            "confidence": 0.939,
+            "box": [
+                [
+                    33.0,
+                    386.0
+                ],
+                [
+                    523.0,
+                    386.0
+                ],
+                [
+                    523.0,
+                    419.0
+                ],
+                [
+                    33.0,
+                    419.0
+                ]
+            ]
+        },
+        {
+            "text": "entireteam",
+            "confidence": 0.995,
+            "box": [
+                [
+                    19.0,
+                    425.0
+                ],
+                [
+                    168.0,
+                    425.0
+                ],
+                [
+                    168.0,
+                    451.0
+                ],
+                [
+                    19.0,
+                    451.0
+                ]
+            ]
+        },
+        {
+            "text": "@Asunnysanjay @rakeshreddy1224",
+            "confidence": 0.991,
+            "box": [
+                [
+                    593.0,
+                    420.0
+                ],
+                [
+                    1019.0,
+                    420.0
+                ],
+                [
+                    1019.0,
+                    449.0
+                ],
+                [
+                    593.0,
+                    449.0
+                ]
+            ]
+        },
+        {
+            "text": "@pavan_pappula #ChanduRavi @EtvWin",
+            "confidence": 0.971,
+            "box": [
+                [
+                    592.0,
+                    455.0
+                ],
+                [
+                    1079.0,
+                    451.0
+                ],
+                [
+                    1079.0,
+                    480.0
+                ],
+                [
+                    592.0,
+                    484.0
+                ]
+            ]
+        },
+        {
+            "text": "@mouli_talks@shivani_nagaram",
+            "confidence": 0.988,
+            "box": [
+                [
+                    19.0,
+                    497.0
+                ],
+                [
+                    436.0,
+                    498.0
+                ],
+                [
+                    436.0,
+                    528.0
+                ],
+                [
+                    19.0,
+                    527.0
+                ]
+            ]
+        },
+        {
+            "text": "@arvindmule_pd @ashwinrajasheka @Sr",
+            "confidence": 0.963,
+            "box": [
+                [
+                    594.0,
+                    490.0
+                ],
+                [
+                    1075.0,
+                    490.0
+                ],
+                [
+                    1075.0,
+                    515.0
+                ],
+                [
+                    594.0,
+                    515.0
+                ]
+            ]
+        },
+        {
+            "text": "Avasarala @chvenkatesh78 @krishient",
+            "confidence": 0.974,
+            "box": [
+                [
+                    600.0,
+                    523.0
+                ],
+                [
+                    1067.0,
+                    523.0
+                ],
+                [
+                    1067.0,
+                    548.0
+                ],
+                [
+                    600.0,
+                    548.0
+                ]
+            ]
+        },
+        {
+            "text": "@marthandsai @etvwin #AdityaHasan",
+            "confidence": 0.985,
+            "box": [
+                [
+                    19.0,
+                    534.0
+                ],
+                [
+                    521.0,
+                    535.0
+                ],
+                [
+                    521.0,
+                    564.0
+                ],
+                [
+                    19.0,
+                    563.0
+                ]
+            ]
+        },
+        {
+            "text": "@ThisisNitin1111@i_taNmai",
+            "confidence": 0.978,
+            "box": [
+                [
+                    592.0,
+                    554.0
+                ],
+                [
+                    916.0,
+                    556.0
+                ],
+                [
+                    916.0,
+                    582.0
+                ],
+                [
+                    592.0,
+                    581.0
+                ]
+            ]
+        },
+        {
+            "text": "@connect2vamsi @VNE_OffL@krishna_kri",
+            "confidence": 0.975,
+            "box": [
+                [
+                    19.0,
+                    571.0
+                ],
+                [
+                    557.0,
+                    571.0
+                ],
+                [
+                    557.0,
+                    600.0
+                ],
+                [
+                    19.0,
+                    600.0
+                ]
+            ]
+        },
+        {
+            "text": "@ThisisNitin1111#KittuVissapragada",
+            "confidence": 0.998,
+            "box": [
+                [
+                    19.0,
+                    608.0
+                ],
+                [
+                    495.0,
+                    608.0
+                ],
+                [
+                    495.0,
+                    637.0
+                ],
+                [
+                    19.0,
+                    637.0
+                ]
+            ]
+        },
+        {
+            "text": "@suriyabalaji_97",
+            "confidence": 0.985,
+            "box": [
+                [
+                    19.0,
+                    644.0
+                ],
+                [
+                    234.0,
+                    644.0
+                ],
+                [
+                    234.0,
+                    673.0
+                ],
+                [
+                    19.0,
+                    673.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    23.0,
+                    804.0
+                ],
+                [
+                    170.0,
+                    804.0
+                ],
+                [
+                    170.0,
+                    822.0
+                ],
+                [
+                    23.0,
+                    822.0
+                ]
+            ]
+        },
+        {
+            "text": "BABU SPEEDCHUSTHUNTE BREAK",
+            "confidence": 0.96,
+            "box": [
+                [
+                    58.0,
+                    1016.0
+                ],
+                [
+                    675.0,
+                    1016.0
+                ],
+                [
+                    675.0,
+                    1049.0
+                ],
+                [
+                    58.0,
+                    1049.0
+                ]
+            ]
+        },
+        {
+            "text": "TIME LO ETVWIN CONTENT",
+            "confidence": 0.938,
+            "box": [
+                [
+                    116.0,
+                    1062.0
+                ],
+                [
+                    617.0,
+                    1062.0
+                ],
+                [
+                    617.0,
+                    1091.0
+                ],
+                [
+                    116.0,
+                    1091.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTHA CHUSELAGA UNNADU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    94.0,
+                    1105.0
+                ],
+                [
+                    638.0,
+                    1105.0
+                ],
+                [
+                    638.0,
+                    1138.0
+                ],
+                [
+                    94.0,
+                    1138.0
+                ]
+            ]
+        }
+    ]
+}

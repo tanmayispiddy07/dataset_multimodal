@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-12-21_07-37-58_UTC.jpg",
+    "combined_text": "GIPPA GIPPA SONG FROM TRIMUKHA\nNEW YEAR DHAMAKA\nMOVIE RELEASING ON JAN 2ND\nVAIPU\nADDICTEDTOMEMES\nCONNECT-AYITHES\nCRAZEE\n**SUNNY PAPA FAN ME\nWHILE WATCHING SONG",
+    "detailed": [
+        {
+            "text": "GIPPA GIPPA SONG FROM TRIMUKHA",
+            "confidence": 0.954,
+            "box": [
+                [
+                    82.0,
+                    53.0
+                ],
+                [
+                    989.0,
+                    53.0
+                ],
+                [
+                    989.0,
+                    103.0
+                ],
+                [
+                    82.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "NEW YEAR DHAMAKA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    276.0,
+                    117.0
+                ],
+                [
+                    807.0,
+                    117.0
+                ],
+                [
+                    807.0,
+                    159.0
+                ],
+                [
+                    276.0,
+                    159.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON JAN 2ND",
+            "confidence": 0.944,
+            "box": [
+                [
+                    155.0,
+                    177.0
+                ],
+                [
+                    925.0,
+                    177.0
+                ],
+                [
+                    925.0,
+                    219.0
+                ],
+                [
+                    155.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "VAIPU",
+            "confidence": 0.99,
+            "box": [
+                [
+                    637.0,
+                    472.0
+                ],
+                [
+                    814.0,
+                    472.0
+                ],
+                [
+                    814.0,
+                    560.0
+                ],
+                [
+                    637.0,
+                    560.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    516.0,
+                    672.0
+                ],
+                [
+                    656.0,
+                    669.0
+                ],
+                [
+                    657.0,
+                    691.0
+                ],
+                [
+                    516.0,
+                    694.0
+                ]
+            ]
+        },
+        {
+            "text": "CONNECT-AYITHES",
+            "confidence": 0.9,
+            "box": [
+                [
+                    8.0,
+                    857.0
+                ],
+                [
+                    560.0,
+                    857.0
+                ],
+                [
+                    560.0,
+                    969.0
+                ],
+                [
+                    8.0,
+                    969.0
+                ]
+            ]
+        },
+        {
+            "text": "CRAZEE",
+            "confidence": 0.863,
+            "box": [
+                [
+                    589.0,
+                    859.0
+                ],
+                [
+                    809.0,
+                    859.0
+                ],
+                [
+                    809.0,
+                    978.0
+                ],
+                [
+                    589.0,
+                    978.0
+                ]
+            ]
+        },
+        {
+            "text": "**SUNNY PAPA FAN ME",
+            "confidence": 0.947,
+            "box": [
+                [
+                    553.0,
+                    1031.0
+                ],
+                [
+                    921.0,
+                    1033.0
+                ],
+                [
+                    921.0,
+                    1068.0
+                ],
+                [
+                    553.0,
+                    1066.0
+                ]
+            ]
+        },
+        {
+            "text": "WHILE WATCHING SONG",
+            "confidence": 0.958,
+            "box": [
+                [
+                    541.0,
+                    1075.0
+                ],
+                [
+                    935.0,
+                    1075.0
+                ],
+                [
+                    935.0,
+                    1108.0
+                ],
+                [
+                    541.0,
+                    1108.0
+                ]
+            ]
+        }
+    ]
+}

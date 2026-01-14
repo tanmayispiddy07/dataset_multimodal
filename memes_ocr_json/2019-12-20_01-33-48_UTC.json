@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-12-20_01-33-48_UTC.jpg",
+    "combined_text": "when you refuse the\ndabbulu.from the\naunty to be polite\nand u end up not\ngetting it",
+    "detailed": [
+        {
+            "text": "when you refuse the",
+            "confidence": 0.961,
+            "box": [
+                [
+                    2.0,
+                    205.0
+                ],
+                [
+                    346.0,
+                    205.0
+                ],
+                [
+                    346.0,
+                    240.0
+                ],
+                [
+                    2.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "dabbulu.from the",
+            "confidence": 0.945,
+            "box": [
+                [
+                    32.0,
+                    249.0
+                ],
+                [
+                    319.0,
+                    249.0
+                ],
+                [
+                    319.0,
+                    283.0
+                ],
+                [
+                    32.0,
+                    283.0
+                ]
+            ]
+        },
+        {
+            "text": "aunty to be polite",
+            "confidence": 0.966,
+            "box": [
+                [
+                    29.0,
+                    292.0
+                ],
+                [
+                    323.0,
+                    292.0
+                ],
+                [
+                    323.0,
+                    331.0
+                ],
+                [
+                    29.0,
+                    331.0
+                ]
+            ]
+        },
+        {
+            "text": "and u end up not",
+            "confidence": 0.956,
+            "box": [
+                [
+                    338.0,
+                    398.0
+                ],
+                [
+                    636.0,
+                    396.0
+                ],
+                [
+                    636.0,
+                    436.0
+                ],
+                [
+                    339.0,
+                    438.0
+                ]
+            ]
+        },
+        {
+            "text": "getting it",
+            "confidence": 0.988,
+            "box": [
+                [
+                    407.0,
+                    442.0
+                ],
+                [
+                    566.0,
+                    438.0
+                ],
+                [
+                    567.0,
+                    485.0
+                ],
+                [
+                    408.0,
+                    488.0
+                ]
+            ]
+        }
+    ]
+}

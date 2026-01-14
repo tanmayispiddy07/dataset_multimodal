@@ -1,0 +1,28 @@
+{
+    "image_name": "2020-06-26_02-53-43_UTC.jpg",
+    "combined_text": "nanna tryna explain math to me:",
+    "detailed": [
+        {
+            "text": "nanna tryna explain math to me:",
+            "confidence": 0.996,
+            "box": [
+                [
+                    80.0,
+                    99.0
+                ],
+                [
+                    988.0,
+                    95.0
+                ],
+                [
+                    988.0,
+                    155.0
+                ],
+                [
+                    80.0,
+                    158.0
+                ]
+            ]
+        }
+    ]
+}

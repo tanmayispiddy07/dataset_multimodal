@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-12-16_13-25-15_UTC.jpg",
+    "combined_text": "SIZZLING ROMANTIC TRACK\nLELOO FROM BAD GIRLZ MOVIE\nRELEASING ON DEC 25TH\nADDICTEDTOMEMES\nSONG BAGUNDI",
+    "detailed": [
+        {
+            "text": "SIZZLING ROMANTIC TRACK",
+            "confidence": 0.956,
+            "box": [
+                [
+                    229.0,
+                    31.0
+                ],
+                [
+                    901.0,
+                    31.0
+                ],
+                [
+                    901.0,
+                    68.0
+                ],
+                [
+                    229.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "LELOO FROM BAD GIRLZ MOVIE",
+            "confidence": 0.932,
+            "box": [
+                [
+                    183.0,
+                    88.0
+                ],
+                [
+                    948.0,
+                    88.0
+                ],
+                [
+                    948.0,
+                    130.0
+                ],
+                [
+                    183.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING ON DEC 25TH",
+            "confidence": 0.953,
+            "box": [
+                [
+                    256.0,
+                    148.0
+                ],
+                [
+                    862.0,
+                    148.0
+                ],
+                [
+                    862.0,
+                    190.0
+                ],
+                [
+                    256.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    15.0,
+                    1023.0
+                ],
+                [
+                    170.0,
+                    1023.0
+                ],
+                [
+                    170.0,
+                    1044.0
+                ],
+                [
+                    15.0,
+                    1044.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG BAGUNDI",
+            "confidence": 0.966,
+            "box": [
+                [
+                    58.0,
+                    1266.0
+                ],
+                [
+                    558.0,
+                    1266.0
+                ],
+                [
+                    558.0,
+                    1320.0
+                ],
+                [
+                    58.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

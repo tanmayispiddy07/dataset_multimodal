@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-24_12-50-04_UTC.jpg",
+    "combined_text": "MALVIKA\nSHARMA\nADDICTEDTOMEMES\nPAPA SIR CAUSAL GA ALA\nSTILLS ICHINDI SIR\nSUMMER KANTE HOTGA UNDI",
+    "detailed": [
+        {
+            "text": "MALVIKA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    129.0,
+                    71.0
+                ],
+                [
+                    541.0,
+                    68.0
+                ],
+                [
+                    542.0,
+                    150.0
+                ],
+                [
+                    130.0,
+                    154.0
+                ]
+            ]
+        },
+        {
+            "text": "SHARMA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    553.0,
+                    71.0
+                ],
+                [
+                    949.0,
+                    71.0
+                ],
+                [
+                    949.0,
+                    149.0
+                ],
+                [
+                    553.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.98,
+            "box": [
+                [
+                    4.0,
+                    1095.0
+                ],
+                [
+                    155.0,
+                    1095.0
+                ],
+                [
+                    155.0,
+                    1112.0
+                ],
+                [
+                    4.0,
+                    1112.0
+                ]
+            ]
+        },
+        {
+            "text": "PAPA SIR CAUSAL GA ALA",
+            "confidence": 0.925,
+            "box": [
+                [
+                    84.0,
+                    1183.0
+                ],
+                [
+                    645.0,
+                    1183.0
+                ],
+                [
+                    645.0,
+                    1225.0
+                ],
+                [
+                    84.0,
+                    1225.0
+                ]
+            ]
+        },
+        {
+            "text": "STILLS ICHINDI SIR",
+            "confidence": 0.937,
+            "box": [
+                [
+                    160.0,
+                    1239.0
+                ],
+                [
+                    557.0,
+                    1239.0
+                ],
+                [
+                    557.0,
+                    1277.0
+                ],
+                [
+                    160.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "SUMMER KANTE HOTGA UNDI",
+            "confidence": 0.954,
+            "box": [
+                [
+                    39.0,
+                    1289.0
+                ],
+                [
+                    695.0,
+                    1289.0
+                ],
+                [
+                    695.0,
+                    1331.0
+                ],
+                [
+                    39.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

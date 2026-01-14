@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-05-02_10-14-23_UTC.jpg",
+    "combined_text": "E SEASON RCB INKA LSG\nFINALSADITHEYYYY.\nTELUGU MEMES GURU\nUNNTADI RA CHARIII..",
+    "detailed": [
+        {
+            "text": "E SEASON RCB INKA LSG",
+            "confidence": 0.925,
+            "box": [
+                [
+                    112.0,
+                    371.0
+                ],
+                [
+                    927.0,
+                    371.0
+                ],
+                [
+                    927.0,
+                    425.0
+                ],
+                [
+                    112.0,
+                    425.0
+                ]
+            ]
+        },
+        {
+            "text": "FINALSADITHEYYYY.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    68.0,
+                    816.0
+                ],
+                [
+                    938.0,
+                    819.0
+                ],
+                [
+                    938.0,
+                    887.0
+                ],
+                [
+                    67.0,
+                    884.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.933,
+            "box": [
+                [
+                    899.0,
+                    1024.0
+                ],
+                [
+                    1038.0,
+                    1024.0
+                ],
+                [
+                    1038.0,
+                    1045.0
+                ],
+                [
+                    899.0,
+                    1045.0
+                ]
+            ]
+        },
+        {
+            "text": "UNNTADI RA CHARIII..",
+            "confidence": 0.939,
+            "box": [
+                [
+                    89.0,
+                    1243.0
+                ],
+                [
+                    958.0,
+                    1243.0
+                ],
+                [
+                    958.0,
+                    1306.0
+                ],
+                [
+                    89.0,
+                    1306.0
+                ]
+            ]
+        }
+    ]
+}

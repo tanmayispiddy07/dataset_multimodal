@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-18_05-43-35_UTC.jpg",
+    "combined_text": "BIRTHDAY WISHES TO THE\nYOUNG ACTOR DHARMA\nADDICTEDTOMEMES\nTeluguFil\nDRINKER SAI MOVIE LO NE PERFORMANCE CHUSANU BAGUNDI\nALL THE BEST FOR FUTURE PROJECTS",
+    "detailed": [
+        {
+            "text": "BIRTHDAY WISHES TO THE",
+            "confidence": 0.975,
+            "box": [
+                [
+                    148.0,
+                    53.0
+                ],
+                [
+                    935.0,
+                    53.0
+                ],
+                [
+                    935.0,
+                    107.0
+                ],
+                [
+                    148.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "YOUNG ACTOR DHARMA",
+            "confidence": 0.991,
+            "box": [
+                [
+                    155.0,
+                    122.0
+                ],
+                [
+                    923.0,
+                    130.0
+                ],
+                [
+                    922.0,
+                    193.0
+                ],
+                [
+                    154.0,
+                    185.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    17.0,
+                    1055.0
+                ],
+                [
+                    177.0,
+                    1054.0
+                ],
+                [
+                    177.0,
+                    1076.0
+                ],
+                [
+                    17.0,
+                    1077.0
+                ]
+            ]
+        },
+        {
+            "text": "TeluguFil",
+            "confidence": 0.891,
+            "box": [
+                [
+                    936.0,
+                    1134.0
+                ],
+                [
+                    1079.0,
+                    1138.0
+                ],
+                [
+                    1079.0,
+                    1182.0
+                ],
+                [
+                    935.0,
+                    1179.0
+                ]
+            ]
+        },
+        {
+            "text": "DRINKER SAI MOVIE LO NE PERFORMANCE CHUSANU BAGUNDI",
+            "confidence": 0.94,
+            "box": [
+                [
+                    55.0,
+                    1256.0
+                ],
+                [
+                    1045.0,
+                    1256.0
+                ],
+                [
+                    1045.0,
+                    1285.0
+                ],
+                [
+                    55.0,
+                    1285.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL THE BEST FOR FUTURE PROJECTS",
+            "confidence": 0.926,
+            "box": [
+                [
+                    255.0,
+                    1295.0
+                ],
+                [
+                    840.0,
+                    1295.0
+                ],
+                [
+                    840.0,
+                    1324.0
+                ],
+                [
+                    255.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

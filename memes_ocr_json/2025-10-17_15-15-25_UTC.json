@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-10-17_15-15-25_UTC.jpg",
+    "combined_text": "IT'S SIMPLY NOT A TRIANGLE LOVE STORY.\nTELUSU KADA HAS SET THE BAR HIGH BY\nDELIVERING A CLASSIC IN THIS GENRE\nFen\nDOICTEDTOMEMES\nOCTOBER\nIN CINEMAS WORLDWIDEE\nPADHANDI MAWA MANA\nSIDDHU MOVIE KIVELDHAM",
+    "detailed": [
+        {
+            "text": "IT'S SIMPLY NOT A TRIANGLE LOVE STORY.",
+            "confidence": 0.927,
+            "box": [
+                [
+                    54.0,
+                    48.0
+                ],
+                [
+                    1037.0,
+                    49.0
+                ],
+                [
+                    1037.0,
+                    91.0
+                ],
+                [
+                    54.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUSU KADA HAS SET THE BAR HIGH BY",
+            "confidence": 0.917,
+            "box": [
+                [
+                    72.0,
+                    107.0
+                ],
+                [
+                    1010.0,
+                    107.0
+                ],
+                [
+                    1010.0,
+                    148.0
+                ],
+                [
+                    72.0,
+                    148.0
+                ]
+            ]
+        },
+        {
+            "text": "DELIVERING A CLASSIC IN THIS GENRE",
+            "confidence": 0.971,
+            "box": [
+                [
+                    92.0,
+                    165.0
+                ],
+                [
+                    992.0,
+                    165.0
+                ],
+                [
+                    992.0,
+                    206.0
+                ],
+                [
+                    92.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "Fen",
+            "confidence": 0.617,
+            "box": [
+                [
+                    188.0,
+                    636.0
+                ],
+                [
+                    325.0,
+                    636.0
+                ],
+                [
+                    325.0,
+                    678.0
+                ],
+                [
+                    188.0,
+                    678.0
+                ]
+            ]
+        },
+        {
+            "text": "DOICTEDTOMEMES",
+            "confidence": 0.973,
+            "box": [
+                [
+                    481.0,
+                    714.0
+                ],
+                [
+                    608.0,
+                    714.0
+                ],
+                [
+                    608.0,
+                    730.0
+                ],
+                [
+                    481.0,
+                    730.0
+                ]
+            ]
+        },
+        {
+            "text": "OCTOBER",
+            "confidence": 0.983,
+            "box": [
+                [
+                    19.0,
+                    803.0
+                ],
+                [
+                    428.0,
+                    803.0
+                ],
+                [
+                    428.0,
+                    853.0
+                ],
+                [
+                    19.0,
+                    853.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS WORLDWIDEE",
+            "confidence": 0.925,
+            "box": [
+                [
+                    131.0,
+                    862.0
+                ],
+                [
+                    425.0,
+                    862.0
+                ],
+                [
+                    425.0,
+                    887.0
+                ],
+                [
+                    131.0,
+                    887.0
+                ]
+            ]
+        },
+        {
+            "text": "PADHANDI MAWA MANA",
+            "confidence": 0.957,
+            "box": [
+                [
+                    70.0,
+                    1220.0
+                ],
+                [
+                    532.0,
+                    1222.0
+                ],
+                [
+                    532.0,
+                    1256.0
+                ],
+                [
+                    70.0,
+                    1255.0
+                ]
+            ]
+        },
+        {
+            "text": "SIDDHU MOVIE KIVELDHAM",
+            "confidence": 0.951,
+            "box": [
+                [
+                    35.0,
+                    1270.0
+                ],
+                [
+                    571.0,
+                    1270.0
+                ],
+                [
+                    571.0,
+                    1303.0
+                ],
+                [
+                    35.0,
+                    1303.0
+                ]
+            ]
+        }
+    ]
+}

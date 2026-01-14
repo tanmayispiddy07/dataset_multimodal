@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-13_03-33-54_UTC.jpg",
+    "combined_text": "18 CRORE FOR VIRGIN*TY\n22 YEAR-OLD UK STUDENT SEL*S HER\nVIRGIN*TY TO A HOLLYWOOD STAR\nADDICTEDTOMEMES\n18CRORESAHH",
+    "detailed": [
+        {
+            "text": "18 CRORE FOR VIRGIN*TY",
+            "confidence": 0.995,
+            "box": [
+                [
+                    235.0,
+                    46.0
+                ],
+                [
+                    870.0,
+                    46.0
+                ],
+                [
+                    870.0,
+                    92.0
+                ],
+                [
+                    235.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "22 YEAR-OLD UK STUDENT SEL*S HER",
+            "confidence": 0.972,
+            "box": [
+                [
+                    87.0,
+                    107.0
+                ],
+                [
+                    1020.0,
+                    107.0
+                ],
+                [
+                    1020.0,
+                    153.0
+                ],
+                [
+                    87.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "VIRGIN*TY TO A HOLLYWOOD STAR",
+            "confidence": 0.969,
+            "box": [
+                [
+                    112.0,
+                    170.0
+                ],
+                [
+                    997.0,
+                    170.0
+                ],
+                [
+                    997.0,
+                    216.0
+                ],
+                [
+                    112.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    554.0,
+                    900.0
+                ],
+                [
+                    721.0,
+                    899.0
+                ],
+                [
+                    721.0,
+                    921.0
+                ],
+                [
+                    554.0,
+                    923.0
+                ]
+            ]
+        },
+        {
+            "text": "18CRORESAHH",
+            "confidence": 0.995,
+            "box": [
+                [
+                    458.0,
+                    1263.0
+                ],
+                [
+                    951.0,
+                    1263.0
+                ],
+                [
+                    951.0,
+                    1323.0
+                ],
+                [
+                    458.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

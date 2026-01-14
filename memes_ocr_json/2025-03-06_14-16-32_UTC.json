@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-03-06_14-16-32_UTC.jpg",
+    "combined_text": "EXCELLENT TRAILER OF \"DILRUBA'\nMOVIE RELEASING ON MARCH 14TH\nCHOODTANIKI\nICECREAM LA UNNAV\nTHINIPARDOBTHA\nTHINEY...\nTHAPPU LENAPUDU\nATLEAST OKA SORRY\nNEN ENDUKU\nAINA CHEPPALI KADHA\nCHEPPALI SORRY\nADDICTEDTOMEMES\nSARIPOYYARU IDDHARU",
+    "detailed": [
+        {
+            "text": "EXCELLENT TRAILER OF \"DILRUBA'",
+            "confidence": 0.947,
+            "box": [
+                [
+                    128.0,
+                    26.0
+                ],
+                [
+                    977.0,
+                    26.0
+                ],
+                [
+                    977.0,
+                    68.0
+                ],
+                [
+                    128.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON MARCH 14TH",
+            "confidence": 0.967,
+            "box": [
+                [
+                    108.0,
+                    89.0
+                ],
+                [
+                    1001.0,
+                    89.0
+                ],
+                [
+                    1001.0,
+                    131.0
+                ],
+                [
+                    108.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "CHOODTANIKI",
+            "confidence": 0.997,
+            "box": [
+                [
+                    94.0,
+                    412.0
+                ],
+                [
+                    436.0,
+                    415.0
+                ],
+                [
+                    436.0,
+                    454.0
+                ],
+                [
+                    94.0,
+                    451.0
+                ]
+            ]
+        },
+        {
+            "text": "ICECREAM LA UNNAV",
+            "confidence": 0.943,
+            "box": [
+                [
+                    27.0,
+                    452.0
+                ],
+                [
+                    519.0,
+                    452.0
+                ],
+                [
+                    519.0,
+                    489.0
+                ],
+                [
+                    27.0,
+                    489.0
+                ]
+            ]
+        },
+        {
+            "text": "THINIPARDOBTHA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    59.0,
+                    488.0
+                ],
+                [
+                    487.0,
+                    488.0
+                ],
+                [
+                    487.0,
+                    525.0
+                ],
+                [
+                    59.0,
+                    525.0
+                ]
+            ]
+        },
+        {
+            "text": "THINEY...",
+            "confidence": 0.973,
+            "box": [
+                [
+                    726.0,
+                    495.0
+                ],
+                [
+                    928.0,
+                    495.0
+                ],
+                [
+                    928.0,
+                    534.0
+                ],
+                [
+                    726.0,
+                    534.0
+                ]
+            ]
+        },
+        {
+            "text": "THAPPU LENAPUDU",
+            "confidence": 0.965,
+            "box": [
+                [
+                    608.0,
+                    889.0
+                ],
+                [
+                    1066.0,
+                    889.0
+                ],
+                [
+                    1066.0,
+                    927.0
+                ],
+                [
+                    608.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "text": "ATLEAST OKA SORRY",
+            "confidence": 0.952,
+            "box": [
+                [
+                    30.0,
+                    907.0
+                ],
+                [
+                    519.0,
+                    907.0
+                ],
+                [
+                    519.0,
+                    945.0
+                ],
+                [
+                    30.0,
+                    945.0
+                ]
+            ]
+        },
+        {
+            "text": "NEN ENDUKU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    674.0,
+                    925.0
+                ],
+                [
+                    1000.0,
+                    925.0
+                ],
+                [
+                    1000.0,
+                    963.0
+                ],
+                [
+                    674.0,
+                    963.0
+                ]
+            ]
+        },
+        {
+            "text": "AINA CHEPPALI KADHA",
+            "confidence": 0.952,
+            "box": [
+                [
+                    11.0,
+                    945.0
+                ],
+                [
+                    548.0,
+                    945.0
+                ],
+                [
+                    548.0,
+                    983.0
+                ],
+                [
+                    11.0,
+                    983.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEPPALI SORRY",
+            "confidence": 0.967,
+            "box": [
+                [
+                    644.0,
+                    960.0
+                ],
+                [
+                    1031.0,
+                    960.0
+                ],
+                [
+                    1031.0,
+                    998.0
+                ],
+                [
+                    644.0,
+                    998.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    886.0,
+                    1122.0
+                ],
+                [
+                    1022.0,
+                    1122.0
+                ],
+                [
+                    1022.0,
+                    1143.0
+                ],
+                [
+                    886.0,
+                    1143.0
+                ]
+            ]
+        },
+        {
+            "text": "SARIPOYYARU IDDHARU",
+            "confidence": 0.974,
+            "box": [
+                [
+                    484.0,
+                    1281.0
+                ],
+                [
+                    1015.0,
+                    1281.0
+                ],
+                [
+                    1015.0,
+                    1318.0
+                ],
+                [
+                    484.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

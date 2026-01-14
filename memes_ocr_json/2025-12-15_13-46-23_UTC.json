@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-12-15_13-46-23_UTC.jpg",
+    "combined_text": "'MISSTERIOUS\"\nRELEASING\nEEEEEEEEEEPERR\n'MISSTERIOUS\"\nINTERVAL LOPU KILLER EVARO\nGUESS CHESTHE...1LAKH WIN AVOCHU\nWHIO IS THE\nKILLER?\nMISSTERIOUS\nNUVVU TRY CHEDHAM\nMANAM KUDA TRY\nANTE AH 1LAKH\nCHEDHAM RAA KILLERNI\nKANUKODANIKI\nMANAVE INKA",
+    "detailed": [
+        {
+            "text": "'MISSTERIOUS\"",
+            "confidence": 0.957,
+            "box": [
+                [
+                    280.0,
+                    243.0
+                ],
+                [
+                    606.0,
+                    243.0
+                ],
+                [
+                    606.0,
+                    277.0
+                ],
+                [
+                    280.0,
+                    277.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASING",
+            "confidence": 0.996,
+            "box": [
+                [
+                    600.0,
+                    242.0
+                ],
+                [
+                    847.0,
+                    242.0
+                ],
+                [
+                    847.0,
+                    280.0
+                ],
+                [
+                    600.0,
+                    280.0
+                ]
+            ]
+        },
+        {
+            "text": "EEEEEEEEEEPERR",
+            "confidence": 0.606,
+            "box": [
+                [
+                    346.0,
+                    291.0
+                ],
+                [
+                    779.0,
+                    291.0
+                ],
+                [
+                    779.0,
+                    325.0
+                ],
+                [
+                    346.0,
+                    325.0
+                ]
+            ]
+        },
+        {
+            "text": "'MISSTERIOUS\"",
+            "confidence": 0.956,
+            "box": [
+                [
+                    68.0,
+                    582.0
+                ],
+                [
+                    399.0,
+                    582.0
+                ],
+                [
+                    399.0,
+                    616.0
+                ],
+                [
+                    68.0,
+                    616.0
+                ]
+            ]
+        },
+        {
+            "text": "INTERVAL LOPU KILLER EVARO",
+            "confidence": 0.946,
+            "box": [
+                [
+                    388.0,
+                    582.0
+                ],
+                [
+                    1042.0,
+                    582.0
+                ],
+                [
+                    1042.0,
+                    616.0
+                ],
+                [
+                    388.0,
+                    616.0
+                ]
+            ]
+        },
+        {
+            "text": "GUESS CHESTHE...1LAKH WIN AVOCHU",
+            "confidence": 0.936,
+            "box": [
+                [
+                    135.0,
+                    627.0
+                ],
+                [
+                    973.0,
+                    627.0
+                ],
+                [
+                    973.0,
+                    665.0
+                ],
+                [
+                    135.0,
+                    665.0
+                ]
+            ]
+        },
+        {
+            "text": "WHIO IS THE",
+            "confidence": 0.969,
+            "box": [
+                [
+                    837.0,
+                    713.0
+                ],
+                [
+                    1074.0,
+                    713.0
+                ],
+                [
+                    1074.0,
+                    783.0
+                ],
+                [
+                    837.0,
+                    783.0
+                ]
+            ]
+        },
+        {
+            "text": "KILLER?",
+            "confidence": 0.947,
+            "box": [
+                [
+                    828.0,
+                    770.0
+                ],
+                [
+                    1057.0,
+                    774.0
+                ],
+                [
+                    1055.0,
+                    879.0
+                ],
+                [
+                    826.0,
+                    876.0
+                ]
+            ]
+        },
+        {
+            "text": "MISSTERIOUS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    38.0,
+                    812.0
+                ],
+                [
+                    496.0,
+                    808.0
+                ],
+                [
+                    497.0,
+                    859.0
+                ],
+                [
+                    38.0,
+                    862.0
+                ]
+            ]
+        },
+        {
+            "text": "NUVVU TRY CHEDHAM",
+            "confidence": 0.952,
+            "box": [
+                [
+                    557.0,
+                    1207.0
+                ],
+                [
+                    1036.0,
+                    1207.0
+                ],
+                [
+                    1036.0,
+                    1245.0
+                ],
+                [
+                    557.0,
+                    1245.0
+                ]
+            ]
+        },
+        {
+            "text": "MANAM KUDA TRY",
+            "confidence": 0.957,
+            "box": [
+                [
+                    97.0,
+                    1229.0
+                ],
+                [
+                    428.0,
+                    1231.0
+                ],
+                [
+                    427.0,
+                    1264.0
+                ],
+                [
+                    97.0,
+                    1263.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTE AH 1LAKH",
+            "confidence": 0.932,
+            "box": [
+                [
+                    624.0,
+                    1254.0
+                ],
+                [
+                    970.0,
+                    1254.0
+                ],
+                [
+                    970.0,
+                    1292.0
+                ],
+                [
+                    624.0,
+                    1292.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEDHAM RAA KILLERNI",
+            "confidence": 0.968,
+            "box": [
+                [
+                    48.0,
+                    1268.0
+                ],
+                [
+                    480.0,
+                    1268.0
+                ],
+                [
+                    480.0,
+                    1302.0
+                ],
+                [
+                    48.0,
+                    1302.0
+                ]
+            ]
+        },
+        {
+            "text": "KANUKODANIKI",
+            "confidence": 0.996,
+            "box": [
+                [
+                    118.0,
+                    1305.0
+                ],
+                [
+                    402.0,
+                    1308.0
+                ],
+                [
+                    402.0,
+                    1343.0
+                ],
+                [
+                    118.0,
+                    1340.0
+                ]
+            ]
+        },
+        {
+            "text": "MANAVE INKA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    632.0,
+                    1299.0
+                ],
+                [
+                    949.0,
+                    1302.0
+                ],
+                [
+                    949.0,
+                    1342.0
+                ],
+                [
+                    631.0,
+                    1339.0
+                ]
+            ]
+        }
+    ]
+}

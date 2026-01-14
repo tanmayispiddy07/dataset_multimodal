@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-08-10_15-11-50_UTC.jpg",
+    "combined_text": "COOLIE WILL SURPRISE YOU.ALL MY FILMS HAVE\nBECOME BLOCKBUSTERS IN TELUGU AND I HOPE\nTHAT SUPPORT CONTINUES FOR COOLIE TOO.\nYOU WILL SEE WHAT NAG SIR HAS DONE TO\nDO THIS FILM, IN THEATERS ON AUGUST 14TH.\nDIRECTOR LOKESH KANAGARAJ\nION\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "COOLIE WILL SURPRISE YOU.ALL MY FILMS HAVE",
+            "confidence": 0.942,
+            "box": [
+                [
+                    109.0,
+                    22.0
+                ],
+                [
+                    976.0,
+                    22.0
+                ],
+                [
+                    976.0,
+                    54.0
+                ],
+                [
+                    109.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "BECOME BLOCKBUSTERS IN TELUGU AND I HOPE",
+            "confidence": 0.951,
+            "box": [
+                [
+                    113.0,
+                    68.0
+                ],
+                [
+                    969.0,
+                    68.0
+                ],
+                [
+                    969.0,
+                    100.0
+                ],
+                [
+                    113.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT SUPPORT CONTINUES FOR COOLIE TOO.",
+            "confidence": 0.945,
+            "box": [
+                [
+                    133.0,
+                    112.0
+                ],
+                [
+                    946.0,
+                    112.0
+                ],
+                [
+                    946.0,
+                    144.0
+                ],
+                [
+                    133.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU WILL SEE WHAT NAG SIR HAS DONE TO",
+            "confidence": 0.907,
+            "box": [
+                [
+                    158.0,
+                    158.0
+                ],
+                [
+                    926.0,
+                    158.0
+                ],
+                [
+                    926.0,
+                    190.0
+                ],
+                [
+                    158.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "DO THIS FILM, IN THEATERS ON AUGUST 14TH.",
+            "confidence": 0.928,
+            "box": [
+                [
+                    134.0,
+                    200.0
+                ],
+                [
+                    945.0,
+                    201.0
+                ],
+                [
+                    945.0,
+                    237.0
+                ],
+                [
+                    134.0,
+                    235.0
+                ]
+            ]
+        },
+        {
+            "text": "DIRECTOR LOKESH KANAGARAJ",
+            "confidence": 0.967,
+            "box": [
+                [
+                    256.0,
+                    248.0
+                ],
+                [
+                    830.0,
+                    248.0
+                ],
+                [
+                    830.0,
+                    280.0
+                ],
+                [
+                    256.0,
+                    280.0
+                ]
+            ]
+        },
+        {
+            "text": "ION",
+            "confidence": 0.779,
+            "box": [
+                [
+                    482.0,
+                    416.0
+                ],
+                [
+                    691.0,
+                    413.0
+                ],
+                [
+                    693.0,
+                    550.0
+                ],
+                [
+                    485.0,
+                    553.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    888.0,
+                    829.0
+                ],
+                [
+                    1033.0,
+                    829.0
+                ],
+                [
+                    1033.0,
+                    850.0
+                ],
+                [
+                    888.0,
+                    850.0
+                ]
+            ]
+        }
+    ]
+}

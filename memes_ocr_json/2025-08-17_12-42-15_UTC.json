@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-17_12-42-15_UTC.jpg",
+    "combined_text": "SHRUTI HAASAN HITS THE BULLSEYE\nSHE IS GRABBING EVERYONE'S ATTENTION\nWITH THE AUDIENCE WHISTLING, CLAPPING\nAND SHOWERING PRAISES FOR HER ROLE\n**AUDIENCE WHILE WATCHING\nSHRUTHI HASSAN PERFORMANCE",
+    "detailed": [
+        {
+            "text": "SHRUTI HAASAN HITS THE BULLSEYE",
+            "confidence": 0.961,
+            "box": [
+                [
+                    179.0,
+                    8.0
+                ],
+                [
+                    878.0,
+                    8.0
+                ],
+                [
+                    878.0,
+                    42.0
+                ],
+                [
+                    179.0,
+                    42.0
+                ]
+            ]
+        },
+        {
+            "text": "SHE IS GRABBING EVERYONE'S ATTENTION",
+            "confidence": 0.956,
+            "box": [
+                [
+                    115.0,
+                    57.0
+                ],
+                [
+                    942.0,
+                    57.0
+                ],
+                [
+                    942.0,
+                    91.0
+                ],
+                [
+                    115.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH THE AUDIENCE WHISTLING, CLAPPING",
+            "confidence": 0.953,
+            "box": [
+                [
+                    104.0,
+                    103.0
+                ],
+                [
+                    953.0,
+                    103.0
+                ],
+                [
+                    953.0,
+                    141.0
+                ],
+                [
+                    104.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "AND SHOWERING PRAISES FOR HER ROLE",
+            "confidence": 0.947,
+            "box": [
+                [
+                    122.0,
+                    151.0
+                ],
+                [
+                    937.0,
+                    151.0
+                ],
+                [
+                    937.0,
+                    188.0
+                ],
+                [
+                    122.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "**AUDIENCE WHILE WATCHING",
+            "confidence": 0.967,
+            "box": [
+                [
+                    529.0,
+                    1211.0
+                ],
+                [
+                    979.0,
+                    1214.0
+                ],
+                [
+                    979.0,
+                    1247.0
+                ],
+                [
+                    529.0,
+                    1245.0
+                ]
+            ]
+        },
+        {
+            "text": "SHRUTHI HASSAN PERFORMANCE",
+            "confidence": 0.968,
+            "box": [
+                [
+                    502.0,
+                    1254.0
+                ],
+                [
+                    1001.0,
+                    1254.0
+                ],
+                [
+                    1001.0,
+                    1284.0
+                ],
+                [
+                    502.0,
+                    1284.0
+                ]
+            ]
+        }
+    ]
+}

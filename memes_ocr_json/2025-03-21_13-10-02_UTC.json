@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-21_13-10-02_UTC.jpg",
+    "combined_text": "WITH HER CHARM AND VERSATILITY, RUHANI SHARMA\nISWINNING HEARTS.HER NEXT FILM WITH DULQUER\nSALMAAN IS ONE TO WATCH OUT FOR. SHOOT GOING ON.\nADDICTEDTOMEMES\nENTHA MUDDHUGA\nUNDI SIR RUHANIPAPA",
+    "detailed": [
+        {
+            "text": "WITH HER CHARM AND VERSATILITY, RUHANI SHARMA",
+            "confidence": 0.935,
+            "box": [
+                [
+                    56.0,
+                    21.0
+                ],
+                [
+                    1008.0,
+                    21.0
+                ],
+                [
+                    1008.0,
+                    54.0
+                ],
+                [
+                    56.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "ISWINNING HEARTS.HER NEXT FILM WITH DULQUER",
+            "confidence": 0.946,
+            "box": [
+                [
+                    75.0,
+                    64.0
+                ],
+                [
+                    987.0,
+                    64.0
+                ],
+                [
+                    987.0,
+                    98.0
+                ],
+                [
+                    75.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "SALMAAN IS ONE TO WATCH OUT FOR. SHOOT GOING ON.",
+            "confidence": 0.914,
+            "box": [
+                [
+                    20.0,
+                    107.0
+                ],
+                [
+                    1043.0,
+                    107.0
+                ],
+                [
+                    1043.0,
+                    141.0
+                ],
+                [
+                    20.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    34.0,
+                    1036.0
+                ],
+                [
+                    197.0,
+                    1036.0
+                ],
+                [
+                    197.0,
+                    1056.0
+                ],
+                [
+                    34.0,
+                    1056.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTHA MUDDHUGA",
+            "confidence": 0.974,
+            "box": [
+                [
+                    80.0,
+                    1213.0
+                ],
+                [
+                    612.0,
+                    1213.0
+                ],
+                [
+                    612.0,
+                    1259.0
+                ],
+                [
+                    80.0,
+                    1259.0
+                ]
+            ]
+        },
+        {
+            "text": "UNDI SIR RUHANIPAPA",
+            "confidence": 0.97,
+            "box": [
+                [
+                    37.0,
+                    1274.0
+                ],
+                [
+                    653.0,
+                    1277.0
+                ],
+                [
+                    652.0,
+                    1327.0
+                ],
+                [
+                    36.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "image_name": "2025-04-17_10-58-11_UTC.jpg",
+    "combined_text": "DEAR UMA IS AN UPCOMING HEARTWARMING ROMANTIC\nDRAMA THAT BRINGS A WAVE OF EMOTION AND CHARM\nTO THE BIG SCREEN.TELUGU GIRL SUMAYA REDDY IS THE\nACTRESS &PRODUCER OFTHIS FILM\nIN THEATRES FROM APRIL 18TH\nUMA\nSUMAYA REDDY\nSAL RAJESH MAHADEY\nWORLDWIDERELEASE\n18\nAPRIL\nADOICTEDTOMEMES\nTelugu\nALLTHEBEST",
+    "detailed": [
+        {
+            "text": "DEAR UMA IS AN UPCOMING HEARTWARMING ROMANTIC",
+            "confidence": 0.945,
+            "box": [
+                [
+                    63.0,
+                    15.0
+                ],
+                [
+                    1050.0,
+                    17.0
+                ],
+                [
+                    1050.0,
+                    47.0
+                ],
+                [
+                    63.0,
+                    46.0
+                ]
+            ]
+        },
+        {
+            "text": "DRAMA THAT BRINGS A WAVE OF EMOTION AND CHARM",
+            "confidence": 0.934,
+            "box": [
+                [
+                    75.0,
+                    59.0
+                ],
+                [
+                    1042.0,
+                    59.0
+                ],
+                [
+                    1042.0,
+                    92.0
+                ],
+                [
+                    75.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "TO THE BIG SCREEN.TELUGU GIRL SUMAYA REDDY IS THE",
+            "confidence": 0.934,
+            "box": [
+                [
+                    73.0,
+                    102.0
+                ],
+                [
+                    1041.0,
+                    102.0
+                ],
+                [
+                    1041.0,
+                    135.0
+                ],
+                [
+                    73.0,
+                    135.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTRESS &PRODUCER OFTHIS FILM",
+            "confidence": 0.955,
+            "box": [
+                [
+                    249.0,
+                    146.0
+                ],
+                [
+                    869.0,
+                    146.0
+                ],
+                [
+                    869.0,
+                    176.0
+                ],
+                [
+                    249.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATRES FROM APRIL 18TH",
+            "confidence": 0.942,
+            "box": [
+                [
+                    288.0,
+                    190.0
+                ],
+                [
+                    817.0,
+                    190.0
+                ],
+                [
+                    817.0,
+                    219.0
+                ],
+                [
+                    288.0,
+                    219.0
+                ]
+            ]
+        },
+        {
+            "text": "UMA",
+            "confidence": 0.995,
+            "box": [
+                [
+                    212.0,
+                    316.0
+                ],
+                [
+                    500.0,
+                    321.0
+                ],
+                [
+                    498.0,
+                    393.0
+                ],
+                [
+                    210.0,
+                    388.0
+                ]
+            ]
+        },
+        {
+            "text": "SUMAYA REDDY",
+            "confidence": 0.971,
+            "box": [
+                [
+                    174.0,
+                    400.0
+                ],
+                [
+                    264.0,
+                    400.0
+                ],
+                [
+                    264.0,
+                    417.0
+                ],
+                [
+                    174.0,
+                    417.0
+                ]
+            ]
+        },
+        {
+            "text": "SAL RAJESH MAHADEY",
+            "confidence": 0.832,
+            "box": [
+                [
+                    378.0,
+                    397.0
+                ],
+                [
+                    503.0,
+                    397.0
+                ],
+                [
+                    503.0,
+                    418.0
+                ],
+                [
+                    378.0,
+                    418.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLDWIDERELEASE",
+            "confidence": 0.99,
+            "box": [
+                [
+                    470.0,
+                    733.0
+                ],
+                [
+                    583.0,
+                    732.0
+                ],
+                [
+                    584.0,
+                    754.0
+                ],
+                [
+                    470.0,
+                    756.0
+                ]
+            ]
+        },
+        {
+            "text": "18",
+            "confidence": 0.998,
+            "box": [
+                [
+                    458.0,
+                    744.0
+                ],
+                [
+                    598.0,
+                    744.0
+                ],
+                [
+                    598.0,
+                    872.0
+                ],
+                [
+                    458.0,
+                    872.0
+                ]
+            ]
+        },
+        {
+            "text": "APRIL",
+            "confidence": 0.997,
+            "box": [
+                [
+                    470.0,
+                    854.0
+                ],
+                [
+                    586.0,
+                    854.0
+                ],
+                [
+                    586.0,
+                    895.0
+                ],
+                [
+                    470.0,
+                    895.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOICTEDTOMEMES",
+            "confidence": 0.955,
+            "box": [
+                [
+                    900.0,
+                    1054.0
+                ],
+                [
+                    1036.0,
+                    1054.0
+                ],
+                [
+                    1036.0,
+                    1075.0
+                ],
+                [
+                    900.0,
+                    1075.0
+                ]
+            ]
+        },
+        {
+            "text": "Telugu",
+            "confidence": 0.995,
+            "box": [
+                [
+                    950.0,
+                    1106.0
+                ],
+                [
+                    1066.0,
+                    1115.0
+                ],
+                [
+                    1062.0,
+                    1155.0
+                ],
+                [
+                    947.0,
+                    1146.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLTHEBEST",
+            "confidence": 0.993,
+            "box": [
+                [
+                    337.0,
+                    1257.0
+                ],
+                [
+                    789.0,
+                    1262.0
+                ],
+                [
+                    788.0,
+                    1326.0
+                ],
+                [
+                    336.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

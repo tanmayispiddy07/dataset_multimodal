@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-10-02_02-30-49_UTC.jpg",
+    "combined_text": "Telangana People\non Oct 2nd\nAddicted_to_memes\nWinesClosechesi\nDeng*ruBaapu",
+    "detailed": [
+        {
+            "text": "Telangana People",
+            "confidence": 0.976,
+            "box": [
+                [
+                    70.0,
+                    56.0
+                ],
+                [
+                    556.0,
+                    58.0
+                ],
+                [
+                    556.0,
+                    116.0
+                ],
+                [
+                    70.0,
+                    114.0
+                ]
+            ]
+        },
+        {
+            "text": "on Oct 2nd",
+            "confidence": 0.975,
+            "box": [
+                [
+                    173.0,
+                    138.0
+                ],
+                [
+                    456.0,
+                    136.0
+                ],
+                [
+                    456.0,
+                    182.0
+                ],
+                [
+                    173.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "Addicted_to_memes",
+            "confidence": 0.988,
+            "box": [
+                [
+                    59.0,
+                    222.0
+                ],
+                [
+                    244.0,
+                    225.0
+                ],
+                [
+                    244.0,
+                    247.0
+                ],
+                [
+                    59.0,
+                    244.0
+                ]
+            ]
+        },
+        {
+            "text": "WinesClosechesi",
+            "confidence": 0.972,
+            "box": [
+                [
+                    186.0,
+                    689.0
+                ],
+                [
+                    549.0,
+                    689.0
+                ],
+                [
+                    549.0,
+                    725.0
+                ],
+                [
+                    186.0,
+                    725.0
+                ]
+            ]
+        },
+        {
+            "text": "Deng*ruBaapu",
+            "confidence": 0.994,
+            "box": [
+                [
+                    206.0,
+                    743.0
+                ],
+                [
+                    525.0,
+                    745.0
+                ],
+                [
+                    525.0,
+                    791.0
+                ],
+                [
+                    206.0,
+                    789.0
+                ]
+            ]
+        }
+    ]
+}

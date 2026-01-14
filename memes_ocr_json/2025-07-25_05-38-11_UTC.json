@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-25_05-38-11_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nESARI THEATERS LO\nMASS JATHARE",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.971,
+            "box": [
+                [
+                    13.0,
+                    629.0
+                ],
+                [
+                    155.0,
+                    629.0
+                ],
+                [
+                    155.0,
+                    649.0
+                ],
+                [
+                    13.0,
+                    649.0
+                ]
+            ]
+        },
+        {
+            "text": "ESARI THEATERS LO",
+            "confidence": 0.962,
+            "box": [
+                [
+                    98.0,
+                    1215.0
+                ],
+                [
+                    581.0,
+                    1215.0
+                ],
+                [
+                    581.0,
+                    1261.0
+                ],
+                [
+                    98.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "MASS JATHARE",
+            "confidence": 0.973,
+            "box": [
+                [
+                    152.0,
+                    1277.0
+                ],
+                [
+                    529.0,
+                    1277.0
+                ],
+                [
+                    529.0,
+                    1323.0
+                ],
+                [
+                    152.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

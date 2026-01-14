@@ -1,0 +1,160 @@
+{
+    "image_name": "2023-04-24_17-22-28_UTC.jpg",
+    "combined_text": "SRHFANS TO\nSRHTEAM\nMEEKUADALIANI\nANIPINCHAKAPOTHEYY\nTELUGU MEMES GURU\nWINDECLAREICHI\nVELIPONDIANNA",
+    "detailed": [
+        {
+            "text": "SRHFANS TO",
+            "confidence": 0.943,
+            "box": [
+                [
+                    402.0,
+                    61.0
+                ],
+                [
+                    675.0,
+                    65.0
+                ],
+                [
+                    675.0,
+                    103.0
+                ],
+                [
+                    401.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "SRHTEAM",
+            "confidence": 0.994,
+            "box": [
+                [
+                    434.0,
+                    111.0
+                ],
+                [
+                    647.0,
+                    111.0
+                ],
+                [
+                    647.0,
+                    146.0
+                ],
+                [
+                    434.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "MEEKUADALIANI",
+            "confidence": 0.989,
+            "box": [
+                [
+                    304.0,
+                    395.0
+                ],
+                [
+                    873.0,
+                    394.0
+                ],
+                [
+                    873.0,
+                    449.0
+                ],
+                [
+                    304.0,
+                    451.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIPINCHAKAPOTHEYY",
+            "confidence": 0.996,
+            "box": [
+                [
+                    209.0,
+                    464.0
+                ],
+                [
+                    964.0,
+                    466.0
+                ],
+                [
+                    964.0,
+                    519.0
+                ],
+                [
+                    209.0,
+                    516.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.941,
+            "box": [
+                [
+                    86.0,
+                    727.0
+                ],
+                [
+                    233.0,
+                    727.0
+                ],
+                [
+                    233.0,
+                    748.0
+                ],
+                [
+                    86.0,
+                    748.0
+                ]
+            ]
+        },
+        {
+            "text": "WINDECLAREICHI",
+            "confidence": 0.994,
+            "box": [
+                [
+                    240.0,
+                    909.0
+                ],
+                [
+                    839.0,
+                    909.0
+                ],
+                [
+                    839.0,
+                    964.0
+                ],
+                [
+                    240.0,
+                    964.0
+                ]
+            ]
+        },
+        {
+            "text": "VELIPONDIANNA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    249.0,
+                    982.0
+                ],
+                [
+                    834.0,
+                    982.0
+                ],
+                [
+                    834.0,
+                    1041.0
+                ],
+                [
+                    249.0,
+                    1041.0
+                ]
+            ]
+        }
+    ]
+}

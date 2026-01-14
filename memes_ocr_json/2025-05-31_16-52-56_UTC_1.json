@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-31_16-52-56_UTC_1.jpg",
+    "combined_text": "OPAL SUCHATA FROM\nTHAILAND CROWNED MISS\nWORLD 2025 IN HYDERABAD\nMIS\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "OPAL SUCHATA FROM",
+            "confidence": 0.949,
+            "box": [
+                [
+                    253.0,
+                    20.0
+                ],
+                [
+                    859.0,
+                    20.0
+                ],
+                [
+                    859.0,
+                    66.0
+                ],
+                [
+                    253.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "THAILAND CROWNED MISS",
+            "confidence": 0.961,
+            "box": [
+                [
+                    186.0,
+                    88.0
+                ],
+                [
+                    927.0,
+                    88.0
+                ],
+                [
+                    927.0,
+                    134.0
+                ],
+                [
+                    186.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "WORLD 2025 IN HYDERABAD",
+            "confidence": 0.96,
+            "box": [
+                [
+                    153.0,
+                    155.0
+                ],
+                [
+                    955.0,
+                    156.0
+                ],
+                [
+                    955.0,
+                    204.0
+                ],
+                [
+                    153.0,
+                    202.0
+                ]
+            ]
+        },
+        {
+            "text": "MIS",
+            "confidence": 0.992,
+            "box": [
+                [
+                    340.0,
+                    587.0
+                ],
+                [
+                    382.0,
+                    585.0
+                ],
+                [
+                    386.0,
+                    660.0
+                ],
+                [
+                    344.0,
+                    663.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.989,
+            "box": [
+                [
+                    478.0,
+                    748.0
+                ],
+                [
+                    612.0,
+                    748.0
+                ],
+                [
+                    612.0,
+                    765.0
+                ],
+                [
+                    478.0,
+                    765.0
+                ]
+            ]
+        }
+    ]
+}

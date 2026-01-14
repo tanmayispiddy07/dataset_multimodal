@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-10-04_08-32-34_UTC_2.jpg",
+    "combined_text": "Vivek Oberoi",
+    "detailed": [
+        {
+            "text": "Vivek Oberoi",
+            "confidence": 1.0,
+            "box": [
+                [
+                    361.0,
+                    121.0
+                ],
+                [
+                    723.0,
+                    121.0
+                ],
+                [
+                    723.0,
+                    170.0
+                ],
+                [
+                    361.0,
+                    170.0
+                ]
+            ]
+        }
+    ]
+}

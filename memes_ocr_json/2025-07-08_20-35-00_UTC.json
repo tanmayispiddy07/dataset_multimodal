@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-08_20-35-00_UTC.jpg",
+    "combined_text": "If your boss's pants looks like this,\nyou won't be replaced by AI\nsarcasm",
+    "detailed": [
+        {
+            "text": "If your boss's pants looks like this,",
+            "confidence": 0.983,
+            "box": [
+                [
+                    27.0,
+                    100.0
+                ],
+                [
+                    1049.0,
+                    100.0
+                ],
+                [
+                    1049.0,
+                    161.0
+                ],
+                [
+                    27.0,
+                    161.0
+                ]
+            ]
+        },
+        {
+            "text": "you won't be replaced by AI",
+            "confidence": 0.966,
+            "box": [
+                [
+                    56.0,
+                    188.0
+                ],
+                [
+                    912.0,
+                    181.0
+                ],
+                [
+                    913.0,
+                    251.0
+                ],
+                [
+                    57.0,
+                    258.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.993,
+            "box": [
+                [
+                    852.0,
+                    606.0
+                ],
+                [
+                    945.0,
+                    606.0
+                ],
+                [
+                    945.0,
+                    628.0
+                ],
+                [
+                    852.0,
+                    628.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-20_07-00-52_UTC.jpg",
+    "combined_text": "Bro won an Oscar and dating\nAna De Armas at 63.\nsarcasm\nsarcasm",
+    "detailed": [
+        {
+            "text": "Bro won an Oscar and dating",
+            "confidence": 0.998,
+            "box": [
+                [
+                    82.0,
+                    52.0
+                ],
+                [
+                    1000.0,
+                    62.0
+                ],
+                [
+                    999.0,
+                    134.0
+                ],
+                [
+                    81.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "Ana De Armas at 63.",
+            "confidence": 1.0,
+            "box": [
+                [
+                    219.0,
+                    160.0
+                ],
+                [
+                    865.0,
+                    160.0
+                ],
+                [
+                    865.0,
+                    213.0
+                ],
+                [
+                    219.0,
+                    213.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    734.0,
+                    850.0
+                ],
+                [
+                    863.0,
+                    850.0
+                ],
+                [
+                    863.0,
+                    877.0
+                ],
+                [
+                    734.0,
+                    877.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 1.0,
+            "box": [
+                [
+                    414.0,
+                    1153.0
+                ],
+                [
+                    542.0,
+                    1156.0
+                ],
+                [
+                    541.0,
+                    1184.0
+                ],
+                [
+                    413.0,
+                    1181.0
+                ]
+            ]
+        }
+    ]
+}

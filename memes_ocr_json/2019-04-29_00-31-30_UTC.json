@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-04-29_00-31-30_UTC.jpg",
+    "combined_text": "YOU SPENT HOWMUCH ON\nBEATS BYDRE?\nPREPAREDTOBE\nBEATS-BYDAD",
+    "detailed": [
+        {
+            "text": "YOU SPENT HOWMUCH ON",
+            "confidence": 0.938,
+            "box": [
+                [
+                    41.0,
+                    7.0
+                ],
+                [
+                    276.0,
+                    7.0
+                ],
+                [
+                    276.0,
+                    28.0
+                ],
+                [
+                    41.0,
+                    28.0
+                ]
+            ]
+        },
+        {
+            "text": "BEATS BYDRE?",
+            "confidence": 0.913,
+            "box": [
+                [
+                    84.0,
+                    30.0
+                ],
+                [
+                    229.0,
+                    28.0
+                ],
+                [
+                    229.0,
+                    55.0
+                ],
+                [
+                    84.0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "text": "PREPAREDTOBE",
+            "confidence": 0.986,
+            "box": [
+                [
+                    72.0,
+                    328.0
+                ],
+                [
+                    231.0,
+                    328.0
+                ],
+                [
+                    231.0,
+                    352.0
+                ],
+                [
+                    72.0,
+                    352.0
+                ]
+            ]
+        },
+        {
+            "text": "BEATS-BYDAD",
+            "confidence": 0.949,
+            "box": [
+                [
+                    80.0,
+                    354.0
+                ],
+                [
+                    222.0,
+                    354.0
+                ],
+                [
+                    222.0,
+                    378.0
+                ],
+                [
+                    80.0,
+                    378.0
+                ]
+            ]
+        }
+    ]
+}

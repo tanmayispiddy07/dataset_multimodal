@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-04-19_13-07-45_UTC.jpg",
+    "combined_text": "I gotta try this",
+    "detailed": [
+        {
+            "text": "I gotta try this",
+            "confidence": 0.916,
+            "box": [
+                [
+                    185.0,
+                    89.0
+                ],
+                [
+                    484.0,
+                    87.0
+                ],
+                [
+                    485.0,
+                    133.0
+                ],
+                [
+                    186.0,
+                    136.0
+                ]
+            ]
+        }
+    ]
+}

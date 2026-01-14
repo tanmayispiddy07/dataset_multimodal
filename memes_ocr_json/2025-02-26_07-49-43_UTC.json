@@ -1,0 +1,864 @@
+{
+    "image_name": "2025-02-26_07-49-43_UTC.jpg",
+    "combined_text": "BLOCKBUSTERRATI\nBLOCKBUSTER\nRESPONSE FROM PREMIERES\nMENT!\nbook\nmy\nshow\n9.5\nFeb\n26\nGetsCinema \nTelugu Cult YT\nFollow\n@GetsCinema\n@Telugu_Cult\n#Mazaka-HILARIOUS FUNTASTIC\nOne Word-VERYGOODFILM\nBLOCKBUSTER-3.25/5\n#SundeepKishanHIT StreakContinues\nPEOPLESTAR @sundeepkishan\nWith #Raayan #BairavaKonaand\nis the biggest asset of the film\n#Mazaka\nand #RaoRameshgaaru entertains\nthroughout the film with his stunning\nBESTPERFORMANCE\nAUDIENCE are Enjoying#RaoRamesh\nand #HyperAdhiSequences at its Best\nCAREERBEST COMMERCIAL ROLE\nFROM@riturv\n#GetsCinema-Review Rating-88%\nMAINLY@KumarBezwada\nDialoguesARETHE BIGGEST HIGH\nDJ\nTHROUGHOUT THEFILM\n#Mazaka #MazakaReview\nADDICTEDTOMEMES\nMAWA BANDEKKU MAZAKA CINEMA KI\nVELDHAM MOTHAM BLOCKBUSTER VIBES",
+    "detailed": [
+        {
+            "text": "BLOCKBUSTERRATI",
+            "confidence": 0.986,
+            "box": [
+                [
+                    580.0,
+                    4.0
+                ],
+                [
+                    1048.0,
+                    8.0
+                ],
+                [
+                    1047.0,
+                    77.0
+                ],
+                [
+                    579.0,
+                    73.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER",
+            "confidence": 0.989,
+            "box": [
+                [
+                    10.0,
+                    34.0
+                ],
+                [
+                    554.0,
+                    36.0
+                ],
+                [
+                    554.0,
+                    81.0
+                ],
+                [
+                    10.0,
+                    80.0
+                ]
+            ]
+        },
+        {
+            "text": "RESPONSE FROM PREMIERES",
+            "confidence": 0.963,
+            "box": [
+                [
+                    10.0,
+                    84.0
+                ],
+                [
+                    553.0,
+                    84.0
+                ],
+                [
+                    553.0,
+                    117.0
+                ],
+                [
+                    10.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "MENT!",
+            "confidence": 0.868,
+            "box": [
+                [
+                    650.0,
+                    96.0
+                ],
+                [
+                    674.0,
+                    96.0
+                ],
+                [
+                    674.0,
+                    106.0
+                ],
+                [
+                    650.0,
+                    106.0
+                ]
+            ]
+        },
+        {
+            "text": "book",
+            "confidence": 0.996,
+            "box": [
+                [
+                    589.0,
+                    110.0
+                ],
+                [
+                    690.0,
+                    110.0
+                ],
+                [
+                    690.0,
+                    165.0
+                ],
+                [
+                    589.0,
+                    165.0
+                ]
+            ]
+        },
+        {
+            "text": "my",
+            "confidence": 0.974,
+            "box": [
+                [
+                    689.0,
+                    101.0
+                ],
+                [
+                    762.0,
+                    118.0
+                ],
+                [
+                    747.0,
+                    180.0
+                ],
+                [
+                    674.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "show",
+            "confidence": 0.997,
+            "box": [
+                [
+                    745.0,
+                    112.0
+                ],
+                [
+                    851.0,
+                    112.0
+                ],
+                [
+                    851.0,
+                    165.0
+                ],
+                [
+                    745.0,
+                    165.0
+                ]
+            ]
+        },
+        {
+            "text": "9.5",
+            "confidence": 0.99,
+            "box": [
+                [
+                    560.0,
+                    152.0
+                ],
+                [
+                    866.0,
+                    152.0
+                ],
+                [
+                    866.0,
+                    427.0
+                ],
+                [
+                    560.0,
+                    427.0
+                ]
+            ]
+        },
+        {
+            "text": "Feb",
+            "confidence": 0.966,
+            "box": [
+                [
+                    495.0,
+                    168.0
+                ],
+                [
+                    537.0,
+                    168.0
+                ],
+                [
+                    537.0,
+                    203.0
+                ],
+                [
+                    495.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "26",
+            "confidence": 0.986,
+            "box": [
+                [
+                    492.0,
+                    198.0
+                ],
+                [
+                    534.0,
+                    198.0
+                ],
+                [
+                    534.0,
+                    227.0
+                ],
+                [
+                    492.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "GetsCinema ",
+            "confidence": 0.961,
+            "box": [
+                [
+                    103.0,
+                    475.0
+                ],
+                [
+                    252.0,
+                    475.0
+                ],
+                [
+                    252.0,
+                    500.0
+                ],
+                [
+                    103.0,
+                    500.0
+                ]
+            ]
+        },
+        {
+            "text": "Telugu Cult YT",
+            "confidence": 0.95,
+            "box": [
+                [
+                    695.0,
+                    478.0
+                ],
+                [
+                    828.0,
+                    478.0
+                ],
+                [
+                    828.0,
+                    499.0
+                ],
+                [
+                    695.0,
+                    499.0
+                ]
+            ]
+        },
+        {
+            "text": "Follow",
+            "confidence": 0.99,
+            "box": [
+                [
+                    883.0,
+                    484.0
+                ],
+                [
+                    945.0,
+                    484.0
+                ],
+                [
+                    945.0,
+                    506.0
+                ],
+                [
+                    883.0,
+                    506.0
+                ]
+            ]
+        },
+        {
+            "text": "@GetsCinema",
+            "confidence": 0.955,
+            "box": [
+                [
+                    101.0,
+                    500.0
+                ],
+                [
+                    245.0,
+                    500.0
+                ],
+                [
+                    245.0,
+                    525.0
+                ],
+                [
+                    101.0,
+                    525.0
+                ]
+            ]
+        },
+        {
+            "text": "@Telugu_Cult",
+            "confidence": 0.973,
+            "box": [
+                [
+                    695.0,
+                    498.0
+                ],
+                [
+                    800.0,
+                    498.0
+                ],
+                [
+                    800.0,
+                    520.0
+                ],
+                [
+                    695.0,
+                    520.0
+                ]
+            ]
+        },
+        {
+            "text": "#Mazaka-HILARIOUS FUNTASTIC",
+            "confidence": 0.966,
+            "box": [
+                [
+                    643.0,
+                    528.0
+                ],
+                [
+                    949.0,
+                    526.0
+                ],
+                [
+                    949.0,
+                    548.0
+                ],
+                [
+                    643.0,
+                    550.0
+                ]
+            ]
+        },
+        {
+            "text": "One Word-VERYGOODFILM",
+            "confidence": 0.973,
+            "box": [
+                [
+                    45.0,
+                    539.0
+                ],
+                [
+                    363.0,
+                    539.0
+                ],
+                [
+                    363.0,
+                    564.0
+                ],
+                [
+                    45.0,
+                    564.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER-3.25/5",
+            "confidence": 0.992,
+            "box": [
+                [
+                    645.0,
+                    553.0
+                ],
+                [
+                    854.0,
+                    553.0
+                ],
+                [
+                    854.0,
+                    573.0
+                ],
+                [
+                    645.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "#SundeepKishanHIT StreakContinues",
+            "confidence": 0.987,
+            "box": [
+                [
+                    42.0,
+                    598.0
+                ],
+                [
+                    470.0,
+                    600.0
+                ],
+                [
+                    470.0,
+                    626.0
+                ],
+                [
+                    42.0,
+                    624.0
+                ]
+            ]
+        },
+        {
+            "text": "PEOPLESTAR @sundeepkishan",
+            "confidence": 0.973,
+            "box": [
+                [
+                    644.0,
+                    599.0
+                ],
+                [
+                    924.0,
+                    601.0
+                ],
+                [
+                    924.0,
+                    623.0
+                ],
+                [
+                    644.0,
+                    621.0
+                ]
+            ]
+        },
+        {
+            "text": "With #Raayan #BairavaKonaand",
+            "confidence": 0.95,
+            "box": [
+                [
+                    41.0,
+                    627.0
+                ],
+                [
+                    404.0,
+                    630.0
+                ],
+                [
+                    403.0,
+                    659.0
+                ],
+                [
+                    41.0,
+                    656.0
+                ]
+            ]
+        },
+        {
+            "text": "is the biggest asset of the film",
+            "confidence": 0.945,
+            "box": [
+                [
+                    643.0,
+                    627.0
+                ],
+                [
+                    935.0,
+                    624.0
+                ],
+                [
+                    935.0,
+                    645.0
+                ],
+                [
+                    643.0,
+                    648.0
+                ]
+            ]
+        },
+        {
+            "text": "#Mazaka",
+            "confidence": 0.998,
+            "box": [
+                [
+                    41.0,
+                    657.0
+                ],
+                [
+                    147.0,
+                    660.0
+                ],
+                [
+                    146.0,
+                    687.0
+                ],
+                [
+                    40.0,
+                    683.0
+                ]
+            ]
+        },
+        {
+            "text": "and #RaoRameshgaaru entertains",
+            "confidence": 0.977,
+            "box": [
+                [
+                    643.0,
+                    649.0
+                ],
+                [
+                    949.0,
+                    651.0
+                ],
+                [
+                    949.0,
+                    673.0
+                ],
+                [
+                    643.0,
+                    671.0
+                ]
+            ]
+        },
+        {
+            "text": "throughout the film with his stunning",
+            "confidence": 0.974,
+            "box": [
+                [
+                    644.0,
+                    675.0
+                ],
+                [
+                    969.0,
+                    675.0
+                ],
+                [
+                    969.0,
+                    696.0
+                ],
+                [
+                    644.0,
+                    696.0
+                ]
+            ]
+        },
+        {
+            "text": "BESTPERFORMANCE",
+            "confidence": 0.991,
+            "box": [
+                [
+                    643.0,
+                    696.0
+                ],
+                [
+                    841.0,
+                    696.0
+                ],
+                [
+                    841.0,
+                    721.0
+                ],
+                [
+                    643.0,
+                    721.0
+                ]
+            ]
+        },
+        {
+            "text": "AUDIENCE are Enjoying#RaoRamesh",
+            "confidence": 0.982,
+            "box": [
+                [
+                    42.0,
+                    719.0
+                ],
+                [
+                    449.0,
+                    721.0
+                ],
+                [
+                    449.0,
+                    747.0
+                ],
+                [
+                    42.0,
+                    746.0
+                ]
+            ]
+        },
+        {
+            "text": "and #HyperAdhiSequences at its Best",
+            "confidence": 0.958,
+            "box": [
+                [
+                    42.0,
+                    752.0
+                ],
+                [
+                    464.0,
+                    752.0
+                ],
+                [
+                    464.0,
+                    777.0
+                ],
+                [
+                    42.0,
+                    777.0
+                ]
+            ]
+        },
+        {
+            "text": "CAREERBEST COMMERCIAL ROLE",
+            "confidence": 0.969,
+            "box": [
+                [
+                    645.0,
+                    772.0
+                ],
+                [
+                    951.0,
+                    772.0
+                ],
+                [
+                    951.0,
+                    792.0
+                ],
+                [
+                    645.0,
+                    792.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM@riturv",
+            "confidence": 0.987,
+            "box": [
+                [
+                    643.0,
+                    794.0
+                ],
+                [
+                    768.0,
+                    795.0
+                ],
+                [
+                    768.0,
+                    817.0
+                ],
+                [
+                    643.0,
+                    816.0
+                ]
+            ]
+        },
+        {
+            "text": "#GetsCinema-Review Rating-88%",
+            "confidence": 0.981,
+            "box": [
+                [
+                    42.0,
+                    841.0
+                ],
+                [
+                    439.0,
+                    842.0
+                ],
+                [
+                    439.0,
+                    868.0
+                ],
+                [
+                    42.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "MAINLY@KumarBezwada",
+            "confidence": 0.987,
+            "box": [
+                [
+                    644.0,
+                    842.0
+                ],
+                [
+                    873.0,
+                    842.0
+                ],
+                [
+                    873.0,
+                    867.0
+                ],
+                [
+                    644.0,
+                    867.0
+                ]
+            ]
+        },
+        {
+            "text": "DialoguesARETHE BIGGEST HIGH",
+            "confidence": 0.957,
+            "box": [
+                [
+                    644.0,
+                    867.0
+                ],
+                [
+                    952.0,
+                    867.0
+                ],
+                [
+                    952.0,
+                    892.0
+                ],
+                [
+                    644.0,
+                    892.0
+                ]
+            ]
+        },
+        {
+            "text": "DJ",
+            "confidence": 0.914,
+            "box": [
+                [
+                    558.0,
+                    892.0
+                ],
+                [
+                    614.0,
+                    859.0
+                ],
+                [
+                    637.0,
+                    897.0
+                ],
+                [
+                    581.0,
+                    930.0
+                ]
+            ]
+        },
+        {
+            "text": "THROUGHOUT THEFILM",
+            "confidence": 0.962,
+            "box": [
+                [
+                    643.0,
+                    889.0
+                ],
+                [
+                    937.0,
+                    892.0
+                ],
+                [
+                    936.0,
+                    917.0
+                ],
+                [
+                    643.0,
+                    914.0
+                ]
+            ]
+        },
+        {
+            "text": "#Mazaka #MazakaReview",
+            "confidence": 0.985,
+            "box": [
+                [
+                    42.0,
+                    901.0
+                ],
+                [
+                    326.0,
+                    903.0
+                ],
+                [
+                    326.0,
+                    929.0
+                ],
+                [
+                    42.0,
+                    927.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    27.0,
+                    1069.0
+                ],
+                [
+                    166.0,
+                    1069.0
+                ],
+                [
+                    166.0,
+                    1090.0
+                ],
+                [
+                    27.0,
+                    1090.0
+                ]
+            ]
+        },
+        {
+            "text": "MAWA BANDEKKU MAZAKA CINEMA KI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    34.0,
+                    1233.0
+                ],
+                [
+                    757.0,
+                    1233.0
+                ],
+                [
+                    757.0,
+                    1266.0
+                ],
+                [
+                    34.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "VELDHAM MOTHAM BLOCKBUSTER VIBES",
+            "confidence": 0.957,
+            "box": [
+                [
+                    8.0,
+                    1276.0
+                ],
+                [
+                    772.0,
+                    1278.0
+                ],
+                [
+                    772.0,
+                    1312.0
+                ],
+                [
+                    8.0,
+                    1311.0
+                ]
+            ]
+        }
+    ]
+}

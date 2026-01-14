@@ -1,0 +1,204 @@
+{
+    "image_name": "2026-01-08_14-18-05_UTC.jpg",
+    "combined_text": "WATCH DRIVE STREAMING\nON PRIME VIDEO\nRUSSIANS CHUSESARU IPUDU\nVALLU NE DAGARAIKI VASTHARU\nNEKU INKO CHANCE LEDHU\nADDICTEDTOMEMES\nSIR PLEASE\nSAVE US SIR\nIVEEMTASKLUURA",
+    "detailed": [
+        {
+            "text": "WATCH DRIVE STREAMING",
+            "confidence": 0.975,
+            "box": [
+                [
+                    204.0,
+                    35.0
+                ],
+                [
+                    901.0,
+                    35.0
+                ],
+                [
+                    901.0,
+                    81.0
+                ],
+                [
+                    204.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "ON PRIME VIDEO",
+            "confidence": 0.977,
+            "box": [
+                [
+                    323.0,
+                    102.0
+                ],
+                [
+                    780.0,
+                    102.0
+                ],
+                [
+                    780.0,
+                    148.0
+                ],
+                [
+                    323.0,
+                    148.0
+                ]
+            ]
+        },
+        {
+            "text": "RUSSIANS CHUSESARU IPUDU",
+            "confidence": 0.959,
+            "box": [
+                [
+                    70.0,
+                    470.0
+                ],
+                [
+                    532.0,
+                    470.0
+                ],
+                [
+                    532.0,
+                    499.0
+                ],
+                [
+                    70.0,
+                    499.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLU NE DAGARAIKI VASTHARU",
+            "confidence": 0.949,
+            "box": [
+                [
+                    48.0,
+                    509.0
+                ],
+                [
+                    561.0,
+                    509.0
+                ],
+                [
+                    561.0,
+                    538.0
+                ],
+                [
+                    48.0,
+                    538.0
+                ]
+            ]
+        },
+        {
+            "text": "NEKU INKO CHANCE LEDHU",
+            "confidence": 0.936,
+            "box": [
+                [
+                    84.0,
+                    551.0
+                ],
+                [
+                    512.0,
+                    551.0
+                ],
+                [
+                    512.0,
+                    576.0
+                ],
+                [
+                    84.0,
+                    576.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    541.0,
+                    608.0
+                ],
+                [
+                    681.0,
+                    608.0
+                ],
+                [
+                    681.0,
+                    629.0
+                ],
+                [
+                    541.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "SIR PLEASE",
+            "confidence": 0.962,
+            "box": [
+                [
+                    45.0,
+                    874.0
+                ],
+                [
+                    305.0,
+                    874.0
+                ],
+                [
+                    305.0,
+                    917.0
+                ],
+                [
+                    45.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "SAVE US SIR",
+            "confidence": 0.957,
+            "box": [
+                [
+                    37.0,
+                    931.0
+                ],
+                [
+                    314.0,
+                    931.0
+                ],
+                [
+                    314.0,
+                    974.0
+                ],
+                [
+                    37.0,
+                    974.0
+                ]
+            ]
+        },
+        {
+            "text": "IVEEMTASKLUURA",
+            "confidence": 0.991,
+            "box": [
+                [
+                    260.0,
+                    1257.0
+                ],
+                [
+                    901.0,
+                    1257.0
+                ],
+                [
+                    901.0,
+                    1317.0
+                ],
+                [
+                    260.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

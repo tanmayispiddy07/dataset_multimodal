@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-12-18_04-06-47_UTC.jpg",
+    "combined_text": "me after finishing the entire exam even though\nevery single answer is wrong.",
+    "detailed": [
+        {
+            "text": "me after finishing the entire exam even though",
+            "confidence": 0.996,
+            "box": [
+                [
+                    17.0,
+                    22.0
+                ],
+                [
+                    1049.0,
+                    26.0
+                ],
+                [
+                    1048.0,
+                    80.0
+                ],
+                [
+                    17.0,
+                    76.0
+                ]
+            ]
+        },
+        {
+            "text": "every single answer is wrong.",
+            "confidence": 0.979,
+            "box": [
+                [
+                    208.0,
+                    80.0
+                ],
+                [
+                    855.0,
+                    83.0
+                ],
+                [
+                    855.0,
+                    138.0
+                ],
+                [
+                    208.0,
+                    135.0
+                ]
+            ]
+        }
+    ]
+}

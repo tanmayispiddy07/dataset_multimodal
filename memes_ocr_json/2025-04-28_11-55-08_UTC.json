@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-04-28_11-55-08_UTC.jpg",
+    "combined_text": "ME AFTER WATCHING MY\nTOPPER FRIEND RESUME\nREYENDI RA VEEDU INNI\nPROJECTSCHESADU\nADDICTEDTOMEMES\nPOLAVARAMU PROJECT THAPPA ANNI\nPROJECTS VEDI RESUME LONE UNNAYI",
+    "detailed": [
+        {
+            "text": "ME AFTER WATCHING MY",
+            "confidence": 0.972,
+            "box": [
+                [
+                    158.0,
+                    78.0
+                ],
+                [
+                    945.0,
+                    78.0
+                ],
+                [
+                    945.0,
+                    128.0
+                ],
+                [
+                    158.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "TOPPER FRIEND RESUME",
+            "confidence": 0.973,
+            "box": [
+                [
+                    159.0,
+                    152.0
+                ],
+                [
+                    927.0,
+                    153.0
+                ],
+                [
+                    927.0,
+                    209.0
+                ],
+                [
+                    159.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "REYENDI RA VEEDU INNI",
+            "confidence": 0.94,
+            "box": [
+                [
+                    252.0,
+                    708.0
+                ],
+                [
+                    885.0,
+                    708.0
+                ],
+                [
+                    885.0,
+                    750.0
+                ],
+                [
+                    252.0,
+                    750.0
+                ]
+            ]
+        },
+        {
+            "text": "PROJECTSCHESADU",
+            "confidence": 0.995,
+            "box": [
+                [
+                    307.0,
+                    766.0
+                ],
+                [
+                    828.0,
+                    769.0
+                ],
+                [
+                    828.0,
+                    817.0
+                ],
+                [
+                    306.0,
+                    814.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    22.0,
+                    1012.0
+                ],
+                [
+                    198.0,
+                    1012.0
+                ],
+                [
+                    198.0,
+                    1037.0
+                ],
+                [
+                    22.0,
+                    1037.0
+                ]
+            ]
+        },
+        {
+            "text": "POLAVARAMU PROJECT THAPPA ANNI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    94.0,
+                    1215.0
+                ],
+                [
+                    1007.0,
+                    1215.0
+                ],
+                [
+                    1007.0,
+                    1261.0
+                ],
+                [
+                    94.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "PROJECTS VEDI RESUME LONE UNNAYI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    86.0,
+                    1277.0
+                ],
+                [
+                    1005.0,
+                    1277.0
+                ],
+                [
+                    1005.0,
+                    1318.0
+                ],
+                [
+                    86.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

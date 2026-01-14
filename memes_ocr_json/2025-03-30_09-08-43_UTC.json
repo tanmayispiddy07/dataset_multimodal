@@ -1,0 +1,402 @@
+{
+    "image_name": "2025-03-30_09-08-43_UTC.jpg",
+    "combined_text": "ARYA 2 RE RELEASING\nON APRIL 5TH\ngoom\nREVISIT THE MAADNESS\nREVISIT THE MAADNESS\nRELIVE THE MAGIC\nRELIVE THE MAGIC\nFROM\nFROM\nAPRIL5TH\nAPRIL5TH\nSukumurs\nSukumar's\nlucig\nlour io gon\nPILIPINCHU MANA GANG ANTHA EKKADA\nUNNARO THEATER KIPILIPINCHU MY LOVE IS\nGONE SONG KIRACHA CHEDHAM",
+    "detailed": [
+        {
+            "text": "ARYA 2 RE RELEASING",
+            "confidence": 0.961,
+            "box": [
+                [
+                    238.0,
+                    25.0
+                ],
+                [
+                    913.0,
+                    25.0
+                ],
+                [
+                    913.0,
+                    79.0
+                ],
+                [
+                    238.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "ON APRIL 5TH",
+            "confidence": 0.941,
+            "box": [
+                [
+                    357.0,
+                    103.0
+                ],
+                [
+                    789.0,
+                    103.0
+                ],
+                [
+                    789.0,
+                    153.0
+                ],
+                [
+                    357.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "goom",
+            "confidence": 0.531,
+            "box": [
+                [
+                    562.0,
+                    187.0
+                ],
+                [
+                    629.0,
+                    187.0
+                ],
+                [
+                    629.0,
+                    203.0
+                ],
+                [
+                    562.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "REVISIT THE MAADNESS",
+            "confidence": 0.967,
+            "box": [
+                [
+                    52.0,
+                    527.0
+                ],
+                [
+                    492.0,
+                    527.0
+                ],
+                [
+                    492.0,
+                    564.0
+                ],
+                [
+                    52.0,
+                    564.0
+                ]
+            ]
+        },
+        {
+            "text": "REVISIT THE MAADNESS",
+            "confidence": 0.967,
+            "box": [
+                [
+                    582.0,
+                    530.0
+                ],
+                [
+                    1036.0,
+                    530.0
+                ],
+                [
+                    1036.0,
+                    567.0
+                ],
+                [
+                    582.0,
+                    567.0
+                ]
+            ]
+        },
+        {
+            "text": "RELIVE THE MAGIC",
+            "confidence": 0.962,
+            "box": [
+                [
+                    107.0,
+                    569.0
+                ],
+                [
+                    436.0,
+                    569.0
+                ],
+                [
+                    436.0,
+                    602.0
+                ],
+                [
+                    107.0,
+                    602.0
+                ]
+            ]
+        },
+        {
+            "text": "RELIVE THE MAGIC",
+            "confidence": 0.952,
+            "box": [
+                [
+                    638.0,
+                    570.0
+                ],
+                [
+                    980.0,
+                    570.0
+                ],
+                [
+                    980.0,
+                    608.0
+                ],
+                [
+                    638.0,
+                    608.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM",
+            "confidence": 0.998,
+            "box": [
+                [
+                    378.0,
+                    704.0
+                ],
+                [
+                    429.0,
+                    704.0
+                ],
+                [
+                    429.0,
+                    732.0
+                ],
+                [
+                    378.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM",
+            "confidence": 0.998,
+            "box": [
+                [
+                    917.0,
+                    705.0
+                ],
+                [
+                    970.0,
+                    705.0
+                ],
+                [
+                    970.0,
+                    737.0
+                ],
+                [
+                    917.0,
+                    737.0
+                ]
+            ]
+        },
+        {
+            "text": "APRIL5TH",
+            "confidence": 0.989,
+            "box": [
+                [
+                    330.0,
+                    725.0
+                ],
+                [
+                    493.0,
+                    718.0
+                ],
+                [
+                    496.0,
+                    776.0
+                ],
+                [
+                    332.0,
+                    783.0
+                ]
+            ]
+        },
+        {
+            "text": "APRIL5TH",
+            "confidence": 0.988,
+            "box": [
+                [
+                    868.0,
+                    730.0
+                ],
+                [
+                    1038.0,
+                    723.0
+                ],
+                [
+                    1040.0,
+                    780.0
+                ],
+                [
+                    871.0,
+                    787.0
+                ]
+            ]
+        },
+        {
+            "text": "Sukumurs",
+            "confidence": 0.813,
+            "box": [
+                [
+                    359.0,
+                    794.0
+                ],
+                [
+                    435.0,
+                    798.0
+                ],
+                [
+                    434.0,
+                    824.0
+                ],
+                [
+                    358.0,
+                    820.0
+                ]
+            ]
+        },
+        {
+            "text": "Sukumar's",
+            "confidence": 0.91,
+            "box": [
+                [
+                    904.0,
+                    806.0
+                ],
+                [
+                    977.0,
+                    806.0
+                ],
+                [
+                    977.0,
+                    824.0
+                ],
+                [
+                    904.0,
+                    824.0
+                ]
+            ]
+        },
+        {
+            "text": "lucig",
+            "confidence": 0.7,
+            "box": [
+                [
+                    438.0,
+                    883.0
+                ],
+                [
+                    507.0,
+                    890.0
+                ],
+                [
+                    505.0,
+                    907.0
+                ],
+                [
+                    437.0,
+                    900.0
+                ]
+            ]
+        },
+        {
+            "text": "lour io gon",
+            "confidence": 0.759,
+            "box": [
+                [
+                    979.0,
+                    887.0
+                ],
+                [
+                    1056.0,
+                    891.0
+                ],
+                [
+                    1056.0,
+                    912.0
+                ],
+                [
+                    978.0,
+                    908.0
+                ]
+            ]
+        },
+        {
+            "text": "PILIPINCHU MANA GANG ANTHA EKKADA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    122.0,
+                    1211.0
+                ],
+                [
+                    847.0,
+                    1211.0
+                ],
+                [
+                    847.0,
+                    1240.0
+                ],
+                [
+                    122.0,
+                    1240.0
+                ]
+            ]
+        },
+        {
+            "text": "UNNARO THEATER KIPILIPINCHU MY LOVE IS",
+            "confidence": 0.938,
+            "box": [
+                [
+                    97.0,
+                    1253.0
+                ],
+                [
+                    880.0,
+                    1253.0
+                ],
+                [
+                    880.0,
+                    1286.0
+                ],
+                [
+                    97.0,
+                    1286.0
+                ]
+            ]
+        },
+        {
+            "text": "GONE SONG KIRACHA CHEDHAM",
+            "confidence": 0.964,
+            "box": [
+                [
+                    191.0,
+                    1296.0
+                ],
+                [
+                    783.0,
+                    1296.0
+                ],
+                [
+                    783.0,
+                    1330.0
+                ],
+                [
+                    191.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-07-02_09-02-01_UTC_4.jpg",
+    "combined_text": "Feb\n44.186\nIndia's Russian Oil Buys At\nAll-Time High Amid Global\nVolatility\nIndia imported over 2 million barrels/day.\nfrom Russia in June, beating Gulf suppliers",
+    "detailed": [
+        {
+            "text": "Feb",
+            "confidence": 0.992,
+            "box": [
+                [
+                    41.0,
+                    149.0
+                ],
+                [
+                    114.0,
+                    160.0
+                ],
+                [
+                    108.0,
+                    204.0
+                ],
+                [
+                    35.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "44.186",
+            "confidence": 0.965,
+            "box": [
+                [
+                    333.0,
+                    459.0
+                ],
+                [
+                    446.0,
+                    456.0
+                ],
+                [
+                    448.0,
+                    492.0
+                ],
+                [
+                    334.0,
+                    496.0
+                ]
+            ]
+        },
+        {
+            "text": "India's Russian Oil Buys At",
+            "confidence": 0.961,
+            "box": [
+                [
+                    82.0,
+                    837.0
+                ],
+                [
+                    837.0,
+                    837.0
+                ],
+                [
+                    837.0,
+                    885.0
+                ],
+                [
+                    82.0,
+                    885.0
+                ]
+            ]
+        },
+        {
+            "text": "All-Time High Amid Global",
+            "confidence": 0.985,
+            "box": [
+                [
+                    83.0,
+                    896.0
+                ],
+                [
+                    834.0,
+                    898.0
+                ],
+                [
+                    834.0,
+                    947.0
+                ],
+                [
+                    83.0,
+                    946.0
+                ]
+            ]
+        },
+        {
+            "text": "Volatility",
+            "confidence": 1.0,
+            "box": [
+                [
+                    85.0,
+                    955.0
+                ],
+                [
+                    341.0,
+                    963.0
+                ],
+                [
+                    339.0,
+                    1012.0
+                ],
+                [
+                    84.0,
+                    1004.0
+                ]
+            ]
+        },
+        {
+            "text": "India imported over 2 million barrels/day.",
+            "confidence": 0.991,
+            "box": [
+                [
+                    82.0,
+                    1061.0
+                ],
+                [
+                    886.0,
+                    1064.0
+                ],
+                [
+                    886.0,
+                    1103.0
+                ],
+                [
+                    82.0,
+                    1100.0
+                ]
+            ]
+        },
+        {
+            "text": "from Russia in June, beating Gulf suppliers",
+            "confidence": 0.978,
+            "box": [
+                [
+                    82.0,
+                    1108.0
+                ],
+                [
+                    925.0,
+                    1109.0
+                ],
+                [
+                    925.0,
+                    1146.0
+                ],
+                [
+                    82.0,
+                    1144.0
+                ]
+            ]
+        }
+    ]
+}

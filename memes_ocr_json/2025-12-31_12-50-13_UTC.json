@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-12-31_12-50-13_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nENJOY AS MUCH AS YOU CAN\nTHAGANDI TINNANDI CHILL AVVANDI MAKE\nITMEMORABLEBUT THAGI VEHICLE DRIVE\nCHEYAKANDI POSSIBLE UNTE INDOOR LONE\nCELEBRATECHESUKOANDI\nAYINA AITHE YEAR ANTHA REGRET FEEL AVVALI\nSO MAKE IT MEMORABLE NOT SAD\nRUN OUT AVVAKANDI",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    822.0,
+                    166.0
+                ],
+                [
+                    1008.0,
+                    166.0
+                ],
+                [
+                    1008.0,
+                    190.0
+                ],
+                [
+                    822.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "ENJOY AS MUCH AS YOU CAN",
+            "confidence": 0.926,
+            "box": [
+                [
+                    238.0,
+                    348.0
+                ],
+                [
+                    834.0,
+                    348.0
+                ],
+                [
+                    834.0,
+                    381.0
+                ],
+                [
+                    238.0,
+                    381.0
+                ]
+            ]
+        },
+        {
+            "text": "THAGANDI TINNANDI CHILL AVVANDI MAKE",
+            "confidence": 0.955,
+            "box": [
+                [
+                    107.0,
+                    396.0
+                ],
+                [
+                    975.0,
+                    397.0
+                ],
+                [
+                    975.0,
+                    431.0
+                ],
+                [
+                    107.0,
+                    430.0
+                ]
+            ]
+        },
+        {
+            "text": "ITMEMORABLEBUT THAGI VEHICLE DRIVE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    118.0,
+                    448.0
+                ],
+                [
+                    964.0,
+                    448.0
+                ],
+                [
+                    964.0,
+                    478.0
+                ],
+                [
+                    118.0,
+                    478.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEYAKANDI POSSIBLE UNTE INDOOR LONE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    102.0,
+                    495.0
+                ],
+                [
+                    979.0,
+                    494.0
+                ],
+                [
+                    979.0,
+                    529.0
+                ],
+                [
+                    102.0,
+                    530.0
+                ]
+            ]
+        },
+        {
+            "text": "CELEBRATECHESUKOANDI",
+            "confidence": 0.974,
+            "box": [
+                [
+                    272.0,
+                    546.0
+                ],
+                [
+                    801.0,
+                    546.0
+                ],
+                [
+                    801.0,
+                    576.0
+                ],
+                [
+                    272.0,
+                    576.0
+                ]
+            ]
+        },
+        {
+            "text": "AYINA AITHE YEAR ANTHA REGRET FEEL AVVALI",
+            "confidence": 0.962,
+            "box": [
+                [
+                    57.0,
+                    642.0
+                ],
+                [
+                    1018.0,
+                    642.0
+                ],
+                [
+                    1018.0,
+                    676.0
+                ],
+                [
+                    57.0,
+                    676.0
+                ]
+            ]
+        },
+        {
+            "text": "SO MAKE IT MEMORABLE NOT SAD",
+            "confidence": 0.892,
+            "box": [
+                [
+                    191.0,
+                    688.0
+                ],
+                [
+                    890.0,
+                    691.0
+                ],
+                [
+                    890.0,
+                    728.0
+                ],
+                [
+                    191.0,
+                    726.0
+                ]
+            ]
+        },
+        {
+            "text": "RUN OUT AVVAKANDI",
+            "confidence": 0.973,
+            "box": [
+                [
+                    318.0,
+                    739.0
+                ],
+                [
+                    752.0,
+                    740.0
+                ],
+                [
+                    751.0,
+                    775.0
+                ],
+                [
+                    318.0,
+                    774.0
+                ]
+            ]
+        }
+    ]
+}

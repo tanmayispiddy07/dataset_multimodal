@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-04-04_08-38-23_UTC.jpg",
+    "combined_text": "TITLE VIDEO SONG OF \"OH BHAMA\nAYYO RAMA\"EXCELLENT MUSIC AND\nSUHAS PERFORMANCE IS TOP NOTCH\nMUSIC BAGUNDI THEATER LO SONG KI\nBREAK IVVADANIKI READY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "TITLE VIDEO SONG OF \"OH BHAMA",
+            "confidence": 0.918,
+            "box": [
+                [
+                    184.0,
+                    14.0
+                ],
+                [
+                    942.0,
+                    14.0
+                ],
+                [
+                    942.0,
+                    52.0
+                ],
+                [
+                    184.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "AYYO RAMA\"EXCELLENT MUSIC AND",
+            "confidence": 0.945,
+            "box": [
+                [
+                    163.0,
+                    67.0
+                ],
+                [
+                    962.0,
+                    67.0
+                ],
+                [
+                    962.0,
+                    109.0
+                ],
+                [
+                    163.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "SUHAS PERFORMANCE IS TOP NOTCH",
+            "confidence": 0.962,
+            "box": [
+                [
+                    153.0,
+                    125.0
+                ],
+                [
+                    963.0,
+                    125.0
+                ],
+                [
+                    963.0,
+                    163.0
+                ],
+                [
+                    153.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "MUSIC BAGUNDI THEATER LO SONG KI",
+            "confidence": 0.939,
+            "box": [
+                [
+                    222.0,
+                    1238.0
+                ],
+                [
+                    962.0,
+                    1238.0
+                ],
+                [
+                    962.0,
+                    1275.0
+                ],
+                [
+                    222.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "BREAK IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.946,
+            "box": [
+                [
+                    198.0,
+                    1288.0
+                ],
+                [
+                    969.0,
+                    1288.0
+                ],
+                [
+                    969.0,
+                    1321.0
+                ],
+                [
+                    198.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

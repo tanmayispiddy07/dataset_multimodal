@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-05-30_13-54-14_UTC.jpg",
+    "combined_text": "COMMITTEE KURROLLUSHINES AT THE GADDAR TELANGANA\nFILM AWARDS2024 WITH 2 PRESTIGIOUS WINS.\nBEST FEATURE FILM ON NATIONAL INTEGRATION, COMMUNAL\nBEST DEBUT DIRECTOR YADHU VAMSEE\nNINARICA KONIGEL\nGADDAR AWARDS 2024\nBEST\nDEBUT FEATURE\nFILMDIRECTOR\nV\nEISIIYAOHOVA\nDCLASSES\nSaLe3\nYOUR TEAM DESERVES BRO\nDREAM DEBUT FOR ANYDIRECTOR",
+    "detailed": [
+        {
+            "text": "COMMITTEE KURROLLUSHINES AT THE GADDAR TELANGANA",
+            "confidence": 0.958,
+            "box": [
+                [
+                    35.0,
+                    31.0
+                ],
+                [
+                    1050.0,
+                    31.0
+                ],
+                [
+                    1050.0,
+                    60.0
+                ],
+                [
+                    35.0,
+                    60.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM AWARDS2024 WITH 2 PRESTIGIOUS WINS.",
+            "confidence": 0.93,
+            "box": [
+                [
+                    145.0,
+                    67.0
+                ],
+                [
+                    937.0,
+                    70.0
+                ],
+                [
+                    936.0,
+                    103.0
+                ],
+                [
+                    145.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "BEST FEATURE FILM ON NATIONAL INTEGRATION, COMMUNAL",
+            "confidence": 0.942,
+            "box": [
+                [
+                    28.0,
+                    109.0
+                ],
+                [
+                    1066.0,
+                    109.0
+                ],
+                [
+                    1066.0,
+                    142.0
+                ],
+                [
+                    28.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "BEST DEBUT DIRECTOR YADHU VAMSEE",
+            "confidence": 0.952,
+            "box": [
+                [
+                    221.0,
+                    188.0
+                ],
+                [
+                    899.0,
+                    191.0
+                ],
+                [
+                    899.0,
+                    224.0
+                ],
+                [
+                    221.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "NINARICA KONIGEL",
+            "confidence": 0.864,
+            "box": [
+                [
+                    180.0,
+                    258.0
+                ],
+                [
+                    343.0,
+                    258.0
+                ],
+                [
+                    343.0,
+                    275.0
+                ],
+                [
+                    180.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "text": "GADDAR AWARDS 2024",
+            "confidence": 0.911,
+            "box": [
+                [
+                    100.0,
+                    321.0
+                ],
+                [
+                    515.0,
+                    321.0
+                ],
+                [
+                    515.0,
+                    389.0
+                ],
+                [
+                    100.0,
+                    389.0
+                ]
+            ]
+        },
+        {
+            "text": "BEST",
+            "confidence": 0.996,
+            "box": [
+                [
+                    179.0,
+                    394.0
+                ],
+                [
+                    226.0,
+                    394.0
+                ],
+                [
+                    226.0,
+                    417.0
+                ],
+                [
+                    179.0,
+                    417.0
+                ]
+            ]
+        },
+        {
+            "text": "DEBUT FEATURE",
+            "confidence": 0.964,
+            "box": [
+                [
+                    137.0,
+                    410.0
+                ],
+                [
+                    264.0,
+                    411.0
+                ],
+                [
+                    264.0,
+                    434.0
+                ],
+                [
+                    136.0,
+                    432.0
+                ]
+            ]
+        },
+        {
+            "text": "FILMDIRECTOR",
+            "confidence": 0.993,
+            "box": [
+                [
+                    137.0,
+                    425.0
+                ],
+                [
+                    265.0,
+                    430.0
+                ],
+                [
+                    264.0,
+                    452.0
+                ],
+                [
+                    136.0,
+                    447.0
+                ]
+            ]
+        },
+        {
+            "text": "V",
+            "confidence": 0.517,
+            "box": [
+                [
+                    118.0,
+                    436.0
+                ],
+                [
+                    132.0,
+                    429.0
+                ],
+                [
+                    138.0,
+                    440.0
+                ],
+                [
+                    124.0,
+                    447.0
+                ]
+            ]
+        },
+        {
+            "text": "EISIIYAOHOVA",
+            "confidence": 0.592,
+            "box": [
+                [
+                    152.0,
+                    447.0
+                ],
+                [
+                    239.0,
+                    449.0
+                ],
+                [
+                    239.0,
+                    463.0
+                ],
+                [
+                    152.0,
+                    461.0
+                ]
+            ]
+        },
+        {
+            "text": "DCLASSES",
+            "confidence": 0.941,
+            "box": [
+                [
+                    423.0,
+                    446.0
+                ],
+                [
+                    481.0,
+                    446.0
+                ],
+                [
+                    481.0,
+                    459.0
+                ],
+                [
+                    423.0,
+                    459.0
+                ]
+            ]
+        },
+        {
+            "text": "SaLe3",
+            "confidence": 0.679,
+            "box": [
+                [
+                    235.0,
+                    842.0
+                ],
+                [
+                    350.0,
+                    842.0
+                ],
+                [
+                    350.0,
+                    891.0
+                ],
+                [
+                    235.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "YOUR TEAM DESERVES BRO",
+            "confidence": 0.933,
+            "box": [
+                [
+                    233.0,
+                    1224.0
+                ],
+                [
+                    870.0,
+                    1224.0
+                ],
+                [
+                    870.0,
+                    1266.0
+                ],
+                [
+                    233.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "DREAM DEBUT FOR ANYDIRECTOR",
+            "confidence": 0.944,
+            "box": [
+                [
+                    138.0,
+                    1278.0
+                ],
+                [
+                    951.0,
+                    1281.0
+                ],
+                [
+                    951.0,
+                    1323.0
+                ],
+                [
+                    138.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

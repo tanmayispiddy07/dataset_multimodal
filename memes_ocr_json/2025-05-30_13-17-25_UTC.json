@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-30_13-17-25_UTC.jpg",
+    "combined_text": "NARA ROHITH PERFORMANCE\nINBHAIRAVAM IS SOUL OF THE\nFILM.HIS ACTION SCENES ARE\nS SATH ARTS\n3030\nADDICTEDTOMEMES\n**AUDIENCE WHILE WATCHING NARA\nROHIT PERFORMANCE IN THEATERS",
+    "detailed": [
+        {
+            "text": "NARA ROHITH PERFORMANCE",
+            "confidence": 0.943,
+            "box": [
+                [
+                    204.0,
+                    32.0
+                ],
+                [
+                    910.0,
+                    32.0
+                ],
+                [
+                    910.0,
+                    70.0
+                ],
+                [
+                    204.0,
+                    70.0
+                ]
+            ]
+        },
+        {
+            "text": "INBHAIRAVAM IS SOUL OF THE",
+            "confidence": 0.936,
+            "box": [
+                [
+                    198.0,
+                    88.0
+                ],
+                [
+                    915.0,
+                    88.0
+                ],
+                [
+                    915.0,
+                    125.0
+                ],
+                [
+                    198.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM.HIS ACTION SCENES ARE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    166.0,
+                    146.0
+                ],
+                [
+                    889.0,
+                    146.0
+                ],
+                [
+                    889.0,
+                    188.0
+                ],
+                [
+                    166.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "S SATH ARTS",
+            "confidence": 0.7,
+            "box": [
+                [
+                    14.0,
+                    258.0
+                ],
+                [
+                    105.0,
+                    258.0
+                ],
+                [
+                    105.0,
+                    275.0
+                ],
+                [
+                    14.0,
+                    275.0
+                ]
+            ]
+        },
+        {
+            "text": "3030",
+            "confidence": 0.564,
+            "box": [
+                [
+                    691.0,
+                    730.0
+                ],
+                [
+                    926.0,
+                    723.0
+                ],
+                [
+                    929.0,
+                    806.0
+                ],
+                [
+                    694.0,
+                    813.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.985,
+            "box": [
+                [
+                    25.0,
+                    1048.0
+                ],
+                [
+                    160.0,
+                    1048.0
+                ],
+                [
+                    160.0,
+                    1069.0
+                ],
+                [
+                    25.0,
+                    1069.0
+                ]
+            ]
+        },
+        {
+            "text": "**AUDIENCE WHILE WATCHING NARA",
+            "confidence": 0.95,
+            "box": [
+                [
+                    388.0,
+                    1232.0
+                ],
+                [
+                    1014.0,
+                    1235.0
+                ],
+                [
+                    1014.0,
+                    1268.0
+                ],
+                [
+                    388.0,
+                    1265.0
+                ]
+            ]
+        },
+        {
+            "text": "ROHIT PERFORMANCE IN THEATERS",
+            "confidence": 0.946,
+            "box": [
+                [
+                    397.0,
+                    1281.0
+                ],
+                [
+                    1003.0,
+                    1281.0
+                ],
+                [
+                    1003.0,
+                    1310.0
+                ],
+                [
+                    397.0,
+                    1310.0
+                ]
+            ]
+        }
+    ]
+}

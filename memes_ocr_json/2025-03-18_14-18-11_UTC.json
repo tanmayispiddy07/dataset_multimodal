@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-03-18_14-18-11_UTC.jpg",
+    "combined_text": "TELANGANA GOVT PASSES BILL TO\nINCREASE BC RESERVATION IN EDUCATION\n& EMPLOYmENt FROm 23% TO 42%\nADDICTEDTOMEMES\nOCK\nTHEY SHOULD THINK ABOUT\nOC RESERVATION TOO",
+    "detailed": [
+        {
+            "text": "TELANGANA GOVT PASSES BILL TO",
+            "confidence": 0.945,
+            "box": [
+                [
+                    125.0,
+                    52.0
+                ],
+                [
+                    970.0,
+                    52.0
+                ],
+                [
+                    970.0,
+                    93.0
+                ],
+                [
+                    125.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "INCREASE BC RESERVATION IN EDUCATION",
+            "confidence": 0.961,
+            "box": [
+                [
+                    35.0,
+                    113.0
+                ],
+                [
+                    1065.0,
+                    113.0
+                ],
+                [
+                    1065.0,
+                    151.0
+                ],
+                [
+                    35.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "& EMPLOYmENt FROm 23% TO 42%",
+            "confidence": 0.822,
+            "box": [
+                [
+                    121.0,
+                    170.0
+                ],
+                [
+                    972.0,
+                    170.0
+                ],
+                [
+                    972.0,
+                    212.0
+                ],
+                [
+                    121.0,
+                    212.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.976,
+            "box": [
+                [
+                    874.0,
+                    425.0
+                ],
+                [
+                    1028.0,
+                    428.0
+                ],
+                [
+                    1028.0,
+                    453.0
+                ],
+                [
+                    873.0,
+                    450.0
+                ]
+            ]
+        },
+        {
+            "text": "OCK",
+            "confidence": 0.82,
+            "box": [
+                [
+                    945.0,
+                    902.0
+                ],
+                [
+                    1079.0,
+                    911.0
+                ],
+                [
+                    1079.0,
+                    950.0
+                ],
+                [
+                    943.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "THEY SHOULD THINK ABOUT",
+            "confidence": 0.996,
+            "box": [
+                [
+                    108.0,
+                    1157.0
+                ],
+                [
+                    1022.0,
+                    1157.0
+                ],
+                [
+                    1022.0,
+                    1211.0
+                ],
+                [
+                    108.0,
+                    1211.0
+                ]
+            ]
+        },
+        {
+            "text": "OC RESERVATION TOO",
+            "confidence": 0.963,
+            "box": [
+                [
+                    200.0,
+                    1235.0
+                ],
+                [
+                    930.0,
+                    1235.0
+                ],
+                [
+                    930.0,
+                    1293.0
+                ],
+                [
+                    200.0,
+                    1293.0
+                ]
+            ]
+        }
+    ]
+}

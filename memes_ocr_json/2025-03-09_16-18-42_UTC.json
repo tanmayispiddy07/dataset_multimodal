@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-03-09_16-18-42_UTC.jpg",
+    "combined_text": "INDIA LIFTS THE CHAMPIONS TROPHY\nFOR THE 3RD TIME AFTER 12 YEARS\n2\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "INDIA LIFTS THE CHAMPIONS TROPHY",
+            "confidence": 0.953,
+            "box": [
+                [
+                    51.0,
+                    67.0
+                ],
+                [
+                    1020.0,
+                    67.0
+                ],
+                [
+                    1020.0,
+                    112.0
+                ],
+                [
+                    51.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR THE 3RD TIME AFTER 12 YEARS",
+            "confidence": 0.971,
+            "box": [
+                [
+                    89.0,
+                    130.0
+                ],
+                [
+                    984.0,
+                    132.0
+                ],
+                [
+                    984.0,
+                    179.0
+                ],
+                [
+                    89.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "text": "2",
+            "confidence": 0.872,
+            "box": [
+                [
+                    413.0,
+                    325.0
+                ],
+                [
+                    425.0,
+                    325.0
+                ],
+                [
+                    425.0,
+                    337.0
+                ],
+                [
+                    413.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    292.0,
+                    651.0
+                ],
+                [
+                    443.0,
+                    651.0
+                ],
+                [
+                    443.0,
+                    672.0
+                ],
+                [
+                    292.0,
+                    672.0
+                ]
+            ]
+        }
+    ]
+}

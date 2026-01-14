@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-03-22_14-10-56_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nIPL OPENING CEREMONY\nDISHA PATANI PERFORMANCE\nENTHA CUTEGADANCEVESINDI",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    427.0,
+                    608.0
+                ],
+                [
+                    606.0,
+                    608.0
+                ],
+                [
+                    606.0,
+                    633.0
+                ],
+                [
+                    427.0,
+                    633.0
+                ]
+            ]
+        },
+        {
+            "text": "IPL OPENING CEREMONY",
+            "confidence": 0.956,
+            "box": [
+                [
+                    287.0,
+                    849.0
+                ],
+                [
+                    768.0,
+                    850.0
+                ],
+                [
+                    768.0,
+                    885.0
+                ],
+                [
+                    287.0,
+                    884.0
+                ]
+            ]
+        },
+        {
+            "text": "DISHA PATANI PERFORMANCE",
+            "confidence": 0.965,
+            "box": [
+                [
+                    239.0,
+                    899.0
+                ],
+                [
+                    818.0,
+                    900.0
+                ],
+                [
+                    818.0,
+                    935.0
+                ],
+                [
+                    239.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTHA CUTEGADANCEVESINDI",
+            "confidence": 0.973,
+            "box": [
+                [
+                    28.0,
+                    1263.0
+                ],
+                [
+                    1031.0,
+                    1263.0
+                ],
+                [
+                    1031.0,
+                    1317.0
+                ],
+                [
+                    28.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

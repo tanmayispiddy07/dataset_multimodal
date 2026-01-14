@@ -1,0 +1,512 @@
+{
+    "image_name": "2025-10-03_11-47-10_UTC.jpg",
+    "combined_text": "TURBO-CHARGED\nFIRST LOOK\nPOSTER OF \"MARIO\"DROPPED\nRIDE\nKB\nANIRUDH HEBAH PATE\nMARiO\nANIRDOH\nMEBAN PATEL\nMARiC\nAKALYANJI GOGANA CONTEST\nSILVER SCREEN PRODUCTION\nKALTANJI GOGANA\nSAI KARTHIE RAKENGU MOULI MS JONES RUPERT\nMN REDDY MANIKANTH SAMUORALA RAVICHANORA\nADEE MANNEPALLE KUSN\nWAIEARTHE\nSHARATH\nSAI SATISH\nBMADHURAB\nADDICTEDTOMEMES\nAHAAA FIRST LOOK POSTER\nMAMULAGA LEDHU",
+    "detailed": [
+        {
+            "text": "TURBO-CHARGED",
+            "confidence": 0.996,
+            "box": [
+                [
+                    112.0,
+                    50.0
+                ],
+                [
+                    634.0,
+                    50.0
+                ],
+                [
+                    634.0,
+                    96.0
+                ],
+                [
+                    112.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "FIRST LOOK",
+            "confidence": 0.949,
+            "box": [
+                [
+                    641.0,
+                    50.0
+                ],
+                [
+                    989.0,
+                    50.0
+                ],
+                [
+                    989.0,
+                    98.0
+                ],
+                [
+                    641.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "POSTER OF \"MARIO\"DROPPED",
+            "confidence": 0.966,
+            "box": [
+                [
+                    100.0,
+                    117.0
+                ],
+                [
+                    997.0,
+                    118.0
+                ],
+                [
+                    997.0,
+                    173.0
+                ],
+                [
+                    100.0,
+                    171.0
+                ]
+            ]
+        },
+        {
+            "text": "RIDE",
+            "confidence": 0.81,
+            "box": [
+                [
+                    345.0,
+                    255.0
+                ],
+                [
+                    384.0,
+                    255.0
+                ],
+                [
+                    384.0,
+                    269.0
+                ],
+                [
+                    345.0,
+                    269.0
+                ]
+            ]
+        },
+        {
+            "text": "KB",
+            "confidence": 0.761,
+            "box": [
+                [
+                    465.0,
+                    252.0
+                ],
+                [
+                    491.0,
+                    252.0
+                ],
+                [
+                    491.0,
+                    273.0
+                ],
+                [
+                    465.0,
+                    273.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIRUDH HEBAH PATE",
+            "confidence": 0.916,
+            "box": [
+                [
+                    703.0,
+                    750.0
+                ],
+                [
+                    859.0,
+                    750.0
+                ],
+                [
+                    859.0,
+                    767.0
+                ],
+                [
+                    703.0,
+                    767.0
+                ]
+            ]
+        },
+        {
+            "text": "MARiO",
+            "confidence": 0.933,
+            "box": [
+                [
+                    621.0,
+                    766.0
+                ],
+                [
+                    965.0,
+                    745.0
+                ],
+                [
+                    973.0,
+                    865.0
+                ],
+                [
+                    628.0,
+                    886.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIRDOH",
+            "confidence": 0.782,
+            "box": [
+                [
+                    176.0,
+                    790.0
+                ],
+                [
+                    240.0,
+                    790.0
+                ],
+                [
+                    240.0,
+                    807.0
+                ],
+                [
+                    176.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "MEBAN PATEL",
+            "confidence": 0.82,
+            "box": [
+                [
+                    232.0,
+                    790.0
+                ],
+                [
+                    325.0,
+                    790.0
+                ],
+                [
+                    325.0,
+                    807.0
+                ],
+                [
+                    232.0,
+                    807.0
+                ]
+            ]
+        },
+        {
+            "text": "MARiC",
+            "confidence": 0.888,
+            "box": [
+                [
+                    101.0,
+                    809.0
+                ],
+                [
+                    421.0,
+                    791.0
+                ],
+                [
+                    427.0,
+                    897.0
+                ],
+                [
+                    107.0,
+                    915.0
+                ]
+            ]
+        },
+        {
+            "text": "AKALYANJI GOGANA CONTEST",
+            "confidence": 0.906,
+            "box": [
+                [
+                    698.0,
+                    871.0
+                ],
+                [
+                    887.0,
+                    871.0
+                ],
+                [
+                    887.0,
+                    888.0
+                ],
+                [
+                    698.0,
+                    888.0
+                ]
+            ]
+        },
+        {
+            "text": "SILVER SCREEN PRODUCTION",
+            "confidence": 0.906,
+            "box": [
+                [
+                    685.0,
+                    885.0
+                ],
+                [
+                    792.0,
+                    885.0
+                ],
+                [
+                    792.0,
+                    902.0
+                ],
+                [
+                    685.0,
+                    902.0
+                ]
+            ]
+        },
+        {
+            "text": "KALTANJI GOGANA",
+            "confidence": 0.866,
+            "box": [
+                [
+                    177.0,
+                    900.0
+                ],
+                [
+                    319.0,
+                    900.0
+                ],
+                [
+                    319.0,
+                    917.0
+                ],
+                [
+                    177.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "SAI KARTHIE RAKENGU MOULI MS JONES RUPERT",
+            "confidence": 0.808,
+            "box": [
+                [
+                    695.0,
+                    898.0
+                ],
+                [
+                    890.0,
+                    898.0
+                ],
+                [
+                    890.0,
+                    910.0
+                ],
+                [
+                    695.0,
+                    910.0
+                ]
+            ]
+        },
+        {
+            "text": "MN REDDY MANIKANTH SAMUORALA RAVICHANORA",
+            "confidence": 0.849,
+            "box": [
+                [
+                    637.0,
+                    910.0
+                ],
+                [
+                    840.0,
+                    910.0
+                ],
+                [
+                    840.0,
+                    923.0
+                ],
+                [
+                    637.0,
+                    923.0
+                ]
+            ]
+        },
+        {
+            "text": "ADEE MANNEPALLE KUSN",
+            "confidence": 0.815,
+            "box": [
+                [
+                    831.0,
+                    906.0
+                ],
+                [
+                    948.0,
+                    906.0
+                ],
+                [
+                    948.0,
+                    923.0
+                ],
+                [
+                    831.0,
+                    923.0
+                ]
+            ]
+        },
+        {
+            "text": "WAIEARTHE",
+            "confidence": 0.566,
+            "box": [
+                [
+                    174.0,
+                    925.0
+                ],
+                [
+                    217.0,
+                    925.0
+                ],
+                [
+                    217.0,
+                    938.0
+                ],
+                [
+                    174.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "SHARATH",
+            "confidence": 0.915,
+            "box": [
+                [
+                    724.0,
+                    921.0
+                ],
+                [
+                    762.0,
+                    921.0
+                ],
+                [
+                    762.0,
+                    934.0
+                ],
+                [
+                    724.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "SAI SATISH",
+            "confidence": 0.87,
+            "box": [
+                [
+                    762.0,
+                    921.0
+                ],
+                [
+                    807.0,
+                    921.0
+                ],
+                [
+                    807.0,
+                    934.0
+                ],
+                [
+                    762.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "BMADHURAB",
+            "confidence": 0.636,
+            "box": [
+                [
+                    814.0,
+                    921.0
+                ],
+                [
+                    870.0,
+                    921.0
+                ],
+                [
+                    870.0,
+                    934.0
+                ],
+                [
+                    814.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    910.0,
+                    1095.0
+                ],
+                [
+                    1067.0,
+                    1095.0
+                ],
+                [
+                    1067.0,
+                    1116.0
+                ],
+                [
+                    910.0,
+                    1116.0
+                ]
+            ]
+        },
+        {
+            "text": "AHAAA FIRST LOOK POSTER",
+            "confidence": 0.95,
+            "box": [
+                [
+                    418.0,
+                    1225.0
+                ],
+                [
+                    1021.0,
+                    1225.0
+                ],
+                [
+                    1021.0,
+                    1267.0
+                ],
+                [
+                    418.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "MAMULAGA LEDHU",
+            "confidence": 0.971,
+            "box": [
+                [
+                    513.0,
+                    1281.0
+                ],
+                [
+                    922.0,
+                    1281.0
+                ],
+                [
+                    922.0,
+                    1318.0
+                ],
+                [
+                    513.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

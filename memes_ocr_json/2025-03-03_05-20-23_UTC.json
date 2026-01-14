@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-03_05-20-23_UTC.jpg",
+    "combined_text": "TELUGU TRAILER OF \"CHHAVVA'\nMOVIE RELEASING ON MARCH 7TH\nADDICTEDTOMEMES\nIVI EKKADA MASS DIALOGUES RA MAWA\nINKA THEATERS LOGOOSEBUMPS",
+    "detailed": [
+        {
+            "text": "TELUGU TRAILER OF \"CHHAVVA'",
+            "confidence": 0.93,
+            "box": [
+                [
+                    131.0,
+                    60.0
+                ],
+                [
+                    983.0,
+                    60.0
+                ],
+                [
+                    983.0,
+                    102.0
+                ],
+                [
+                    131.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON MARCH 7TH",
+            "confidence": 0.986,
+            "box": [
+                [
+                    90.0,
+                    124.0
+                ],
+                [
+                    1018.0,
+                    124.0
+                ],
+                [
+                    1018.0,
+                    170.0
+                ],
+                [
+                    90.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.98,
+            "box": [
+                [
+                    457.0,
+                    590.0
+                ],
+                [
+                    593.0,
+                    590.0
+                ],
+                [
+                    593.0,
+                    610.0
+                ],
+                [
+                    457.0,
+                    610.0
+                ]
+            ]
+        },
+        {
+            "text": "IVI EKKADA MASS DIALOGUES RA MAWA",
+            "confidence": 0.939,
+            "box": [
+                [
+                    120.0,
+                    1231.0
+                ],
+                [
+                    1010.0,
+                    1232.0
+                ],
+                [
+                    1010.0,
+                    1271.0
+                ],
+                [
+                    120.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "INKA THEATERS LOGOOSEBUMPS",
+            "confidence": 0.972,
+            "box": [
+                [
+                    188.0,
+                    1285.0
+                ],
+                [
+                    927.0,
+                    1286.0
+                ],
+                [
+                    927.0,
+                    1328.0
+                ],
+                [
+                    188.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-29_13-30-12_UTC_1.jpg",
+    "combined_text": "SCRAWLED\nSTORIES\nMay this type of love chase me",
+    "detailed": [
+        {
+            "text": "SCRAWLED",
+            "confidence": 0.996,
+            "box": [
+                [
+                    62.0,
+                    68.0
+                ],
+                [
+                    215.0,
+                    68.0
+                ],
+                [
+                    215.0,
+                    98.0
+                ],
+                [
+                    62.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "STORIES",
+            "confidence": 0.998,
+            "box": [
+                [
+                    79.0,
+                    98.0
+                ],
+                [
+                    201.0,
+                    98.0
+                ],
+                [
+                    201.0,
+                    125.0
+                ],
+                [
+                    79.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "May this type of love chase me",
+            "confidence": 0.977,
+            "box": [
+                [
+                    86.0,
+                    1181.0
+                ],
+                [
+                    996.0,
+                    1184.0
+                ],
+                [
+                    995.0,
+                    1252.0
+                ],
+                [
+                    86.0,
+                    1249.0
+                ]
+            ]
+        }
+    ]
+}

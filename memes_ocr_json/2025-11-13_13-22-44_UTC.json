@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-11-13_13-22-44_UTC.jpg",
+    "combined_text": "37 LPA\nFromNxTwAVEAcademytoPayPal!Hugecongratsto\nVenkateswarluforachievinga37LPAplacement.\n**ACADEMY STUDENTS\nC*NXTWAVE\nACADEMY\nMEMU REPU MANCHIPOSITION KIVELLAKA\nMUNDU GURTHUVACHEDHE MERE",
+    "detailed": [
+        {
+            "text": "37 LPA",
+            "confidence": 0.991,
+            "box": [
+                [
+                    152.0,
+                    176.0
+                ],
+                [
+                    314.0,
+                    176.0
+                ],
+                [
+                    314.0,
+                    220.0
+                ],
+                [
+                    152.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "FromNxTwAVEAcademytoPayPal!Hugecongratsto",
+            "confidence": 0.952,
+            "box": [
+                [
+                    10.0,
+                    517.0
+                ],
+                [
+                    530.0,
+                    519.0
+                ],
+                [
+                    530.0,
+                    544.0
+                ],
+                [
+                    10.0,
+                    542.0
+                ]
+            ]
+        },
+        {
+            "text": "Venkateswarluforachievinga37LPAplacement.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    31.0,
+                    544.0
+                ],
+                [
+                    508.0,
+                    547.0
+                ],
+                [
+                    508.0,
+                    571.0
+                ],
+                [
+                    31.0,
+                    568.0
+                ]
+            ]
+        },
+        {
+            "text": "**ACADEMY STUDENTS",
+            "confidence": 0.96,
+            "box": [
+                [
+                    44.0,
+                    582.0
+                ],
+                [
+                    293.0,
+                    585.0
+                ],
+                [
+                    293.0,
+                    612.0
+                ],
+                [
+                    44.0,
+                    609.0
+                ]
+            ]
+        },
+        {
+            "text": "C*NXTWAVE",
+            "confidence": 0.911,
+            "box": [
+                [
+                    395.0,
+                    583.0
+                ],
+                [
+                    532.0,
+                    586.0
+                ],
+                [
+                    532.0,
+                    614.0
+                ],
+                [
+                    394.0,
+                    611.0
+                ]
+            ]
+        },
+        {
+            "text": "ACADEMY",
+            "confidence": 0.998,
+            "box": [
+                [
+                    403.0,
+                    616.0
+                ],
+                [
+                    520.0,
+                    616.0
+                ],
+                [
+                    520.0,
+                    638.0
+                ],
+                [
+                    403.0,
+                    638.0
+                ]
+            ]
+        },
+        {
+            "text": "MEMU REPU MANCHIPOSITION KIVELLAKA",
+            "confidence": 0.955,
+            "box": [
+                [
+                    24.0,
+                    768.0
+                ],
+                [
+                    519.0,
+                    768.0
+                ],
+                [
+                    519.0,
+                    789.0
+                ],
+                [
+                    24.0,
+                    789.0
+                ]
+            ]
+        },
+        {
+            "text": "MUNDU GURTHUVACHEDHE MERE",
+            "confidence": 0.958,
+            "box": [
+                [
+                    79.0,
+                    795.0
+                ],
+                [
+                    466.0,
+                    796.0
+                ],
+                [
+                    466.0,
+                    818.0
+                ],
+                [
+                    79.0,
+                    817.0
+                ]
+            ]
+        }
+    ]
+}

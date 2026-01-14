@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-08-22_10-56-41_UTC.jpg",
+    "combined_text": "FESTIVAL . \"SHAITAN\" IS PURE RAGE ON SCREEN.\nADDICTEDTOMEMES\nNAA OKADIKEY ALA\nANIPISTHUNDHA ANUKUNNA MEKU\nKUDA ALANE ANIPISTHUNDHA..",
+    "detailed": [
+        {
+            "text": "FESTIVAL . \"SHAITAN\" IS PURE RAGE ON SCREEN.",
+            "confidence": 0.973,
+            "box": [
+                [
+                    27.0,
+                    142.0
+                ],
+                [
+                    1056.0,
+                    142.0
+                ],
+                [
+                    1056.0,
+                    188.0
+                ],
+                [
+                    27.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    10.0,
+                    1035.0
+                ],
+                [
+                    174.0,
+                    1037.0
+                ],
+                [
+                    174.0,
+                    1062.0
+                ],
+                [
+                    10.0,
+                    1061.0
+                ]
+            ]
+        },
+        {
+            "text": "NAA OKADIKEY ALA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    353.0,
+                    1176.0
+                ],
+                [
+                    785.0,
+                    1176.0
+                ],
+                [
+                    785.0,
+                    1214.0
+                ],
+                [
+                    353.0,
+                    1214.0
+                ]
+            ]
+        },
+        {
+            "text": "ANIPISTHUNDHA ANUKUNNA MEKU",
+            "confidence": 0.969,
+            "box": [
+                [
+                    194.0,
+                    1228.0
+                ],
+                [
+                    942.0,
+                    1228.0
+                ],
+                [
+                    942.0,
+                    1266.0
+                ],
+                [
+                    194.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "KUDA ALANE ANIPISTHUNDHA..",
+            "confidence": 0.956,
+            "box": [
+                [
+                    218.0,
+                    1279.0
+                ],
+                [
+                    897.0,
+                    1281.0
+                ],
+                [
+                    897.0,
+                    1316.0
+                ],
+                [
+                    218.0,
+                    1314.0
+                ]
+            ]
+        }
+    ]
+}

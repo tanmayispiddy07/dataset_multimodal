@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-06-23_04-59-23_UTC.jpg",
+    "combined_text": "I still wonder how on earth\ndid North Korea manage to.\nsuccessfully build nukes?\nsarcasm",
+    "detailed": [
+        {
+            "text": "I still wonder how on earth",
+            "confidence": 1.0,
+            "box": [
+                [
+                    134.0,
+                    95.0
+                ],
+                [
+                    942.0,
+                    97.0
+                ],
+                [
+                    942.0,
+                    150.0
+                ],
+                [
+                    134.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "did North Korea manage to.",
+            "confidence": 0.968,
+            "box": [
+                [
+                    128.0,
+                    175.0
+                ],
+                [
+                    954.0,
+                    184.0
+                ],
+                [
+                    953.0,
+                    246.0
+                ],
+                [
+                    128.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "successfully build nukes?",
+            "confidence": 0.982,
+            "box": [
+                [
+                    93.0,
+                    269.0
+                ],
+                [
+                    852.0,
+                    267.0
+                ],
+                [
+                    852.0,
+                    320.0
+                ],
+                [
+                    93.0,
+                    323.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.972,
+            "box": [
+                [
+                    480.0,
+                    349.0
+                ],
+                [
+                    600.0,
+                    349.0
+                ],
+                [
+                    600.0,
+                    372.0
+                ],
+                [
+                    480.0,
+                    372.0
+                ]
+            ]
+        }
+    ]
+}

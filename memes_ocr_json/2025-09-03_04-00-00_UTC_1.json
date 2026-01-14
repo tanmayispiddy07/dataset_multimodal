@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-03_04-00-00_UTC_1.jpg",
+    "combined_text": "sarcasm\nWe respect your relations with\nIndia, but we also want to build\na strong relationshipd\nShehbaz Sharif",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.996,
+            "box": [
+                [
+                    484.0,
+                    916.0
+                ],
+                [
+                    596.0,
+                    916.0
+                ],
+                [
+                    596.0,
+                    938.0
+                ],
+                [
+                    484.0,
+                    938.0
+                ]
+            ]
+        },
+        {
+            "text": "We respect your relations with",
+            "confidence": 0.997,
+            "box": [
+                [
+                    48.0,
+                    1021.0
+                ],
+                [
+                    1032.0,
+                    1018.0
+                ],
+                [
+                    1032.0,
+                    1081.0
+                ],
+                [
+                    48.0,
+                    1084.0
+                ]
+            ]
+        },
+        {
+            "text": "India, but we also want to build",
+            "confidence": 0.999,
+            "box": [
+                [
+                    38.0,
+                    1105.0
+                ],
+                [
+                    1044.0,
+                    1096.0
+                ],
+                [
+                    1045.0,
+                    1162.0
+                ],
+                [
+                    38.0,
+                    1171.0
+                ]
+            ]
+        },
+        {
+            "text": "a strong relationshipd",
+            "confidence": 0.968,
+            "box": [
+                [
+                    202.0,
+                    1189.0
+                ],
+                [
+                    873.0,
+                    1189.0
+                ],
+                [
+                    873.0,
+                    1255.0
+                ],
+                [
+                    202.0,
+                    1255.0
+                ]
+            ]
+        },
+        {
+            "text": "Shehbaz Sharif",
+            "confidence": 0.966,
+            "box": [
+                [
+                    404.0,
+                    1274.0
+                ],
+                [
+                    692.0,
+                    1274.0
+                ],
+                [
+                    692.0,
+                    1310.0
+                ],
+                [
+                    404.0,
+                    1310.0
+                ]
+            ]
+        }
+    ]
+}

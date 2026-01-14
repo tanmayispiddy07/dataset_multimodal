@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-10-23_15-47-10_UTC.jpg",
+    "combined_text": "TEAM JIGRIS WISHING\nREBEL STAR\nPRABHAS A VERY HAPPY BIRTHDAY\nMOVIE RELEASING ON NOV 14TH\nSAR\nMOUNT MEPICTURES\nWISHES FROM TEAM\nJIGRIS\nJIGRIS\nNOEEEEEN\n14\nIN THEATRES\nKRISHNA VODAPALL\nARSHREDDY UPPULA\nADDICTEDTOMEME\n**DARLING FANS ON NOVEMBER 14TH IN\nTHEATRE FOR JIGRIS",
+    "detailed": [
+        {
+            "text": "TEAM JIGRIS WISHING",
+            "confidence": 0.969,
+            "box": [
+                [
+                    88.0,
+                    46.0
+                ],
+                [
+                    663.0,
+                    46.0
+                ],
+                [
+                    663.0,
+                    91.0
+                ],
+                [
+                    88.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "REBEL STAR",
+            "confidence": 0.953,
+            "box": [
+                [
+                    665.0,
+                    46.0
+                ],
+                [
+                    974.0,
+                    46.0
+                ],
+                [
+                    974.0,
+                    91.0
+                ],
+                [
+                    665.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "PRABHAS A VERY HAPPY BIRTHDAY",
+            "confidence": 0.961,
+            "box": [
+                [
+                    66.0,
+                    109.0
+                ],
+                [
+                    974.0,
+                    109.0
+                ],
+                [
+                    974.0,
+                    154.0
+                ],
+                [
+                    66.0,
+                    154.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON NOV 14TH",
+            "confidence": 0.954,
+            "box": [
+                [
+                    103.0,
+                    172.0
+                ],
+                [
+                    942.0,
+                    172.0
+                ],
+                [
+                    942.0,
+                    216.0
+                ],
+                [
+                    103.0,
+                    216.0
+                ]
+            ]
+        },
+        {
+            "text": "SAR",
+            "confidence": 0.895,
+            "box": [
+                [
+                    236.0,
+                    299.0
+                ],
+                [
+                    469.0,
+                    264.0
+                ],
+                [
+                    485.0,
+                    371.0
+                ],
+                [
+                    251.0,
+                    406.0
+                ]
+            ]
+        },
+        {
+            "text": "MOUNT MEPICTURES",
+            "confidence": 0.797,
+            "box": [
+                [
+                    571.0,
+                    297.0
+                ],
+                [
+                    665.0,
+                    297.0
+                ],
+                [
+                    665.0,
+                    315.0
+                ],
+                [
+                    571.0,
+                    315.0
+                ]
+            ]
+        },
+        {
+            "text": "WISHES FROM TEAM",
+            "confidence": 0.944,
+            "box": [
+                [
+                    398.0,
+                    672.0
+                ],
+                [
+                    549.0,
+                    672.0
+                ],
+                [
+                    549.0,
+                    699.0
+                ],
+                [
+                    398.0,
+                    699.0
+                ]
+            ]
+        },
+        {
+            "text": "JIGRIS",
+            "confidence": 0.945,
+            "box": [
+                [
+                    393.0,
+                    695.0
+                ],
+                [
+                    561.0,
+                    699.0
+                ],
+                [
+                    559.0,
+                    772.0
+                ],
+                [
+                    391.0,
+                    768.0
+                ]
+            ]
+        },
+        {
+            "text": "JIGRIS",
+            "confidence": 0.902,
+            "box": [
+                [
+                    525.0,
+                    750.0
+                ],
+                [
+                    1056.0,
+                    653.0
+                ],
+                [
+                    1079.0,
+                    884.0
+                ],
+                [
+                    566.0,
+                    982.0
+                ]
+            ]
+        },
+        {
+            "text": "NOEEEEEN",
+            "confidence": 0.51,
+            "box": [
+                [
+                    445.0,
+                    775.0
+                ],
+                [
+                    517.0,
+                    775.0
+                ],
+                [
+                    517.0,
+                    799.0
+                ],
+                [
+                    445.0,
+                    799.0
+                ]
+            ]
+        },
+        {
+            "text": "14",
+            "confidence": 0.995,
+            "box": [
+                [
+                    439.0,
+                    790.0
+                ],
+                [
+                    521.0,
+                    790.0
+                ],
+                [
+                    521.0,
+                    872.0
+                ],
+                [
+                    439.0,
+                    872.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATRES",
+            "confidence": 0.917,
+            "box": [
+                [
+                    446.0,
+                    863.0
+                ],
+                [
+                    512.0,
+                    863.0
+                ],
+                [
+                    512.0,
+                    881.0
+                ],
+                [
+                    446.0,
+                    881.0
+                ]
+            ]
+        },
+        {
+            "text": "KRISHNA VODAPALL",
+            "confidence": 0.807,
+            "box": [
+                [
+                    952.0,
+                    900.0
+                ],
+                [
+                    1057.0,
+                    881.0
+                ],
+                [
+                    1061.0,
+                    903.0
+                ],
+                [
+                    956.0,
+                    922.0
+                ]
+            ]
+        },
+        {
+            "text": "ARSHREDDY UPPULA",
+            "confidence": 0.869,
+            "box": [
+                [
+                    820.0,
+                    923.0
+                ],
+                [
+                    953.0,
+                    902.0
+                ],
+                [
+                    956.0,
+                    922.0
+                ],
+                [
+                    824.0,
+                    943.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEME",
+            "confidence": 0.995,
+            "box": [
+                [
+                    926.0,
+                    1051.0
+                ],
+                [
+                    1078.0,
+                    1049.0
+                ],
+                [
+                    1079.0,
+                    1069.0
+                ],
+                [
+                    926.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "text": "**DARLING FANS ON NOVEMBER 14TH IN",
+            "confidence": 0.955,
+            "box": [
+                [
+                    255.0,
+                    1296.0
+                ],
+                [
+                    999.0,
+                    1300.0
+                ],
+                [
+                    999.0,
+                    1345.0
+                ],
+                [
+                    255.0,
+                    1340.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATRE FOR JIGRIS",
+            "confidence": 0.957,
+            "box": [
+                [
+                    439.0,
+                    1348.0
+                ],
+                [
+                    817.0,
+                    1348.0
+                ],
+                [
+                    817.0,
+                    1384.0
+                ],
+                [
+                    439.0,
+                    1384.0
+                ]
+            ]
+        }
+    ]
+}

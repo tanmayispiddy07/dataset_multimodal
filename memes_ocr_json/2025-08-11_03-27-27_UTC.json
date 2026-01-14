@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-11_03-27-27_UTC.jpg",
+    "combined_text": "ME AND MY FRIEND AFTER CLEARING\nALL BACKLOGS IN FINAL YEAR\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "ME AND MY FRIEND AFTER CLEARING",
+            "confidence": 0.937,
+            "box": [
+                [
+                    46.0,
+                    79.0
+                ],
+                [
+                    1042.0,
+                    79.0
+                ],
+                [
+                    1042.0,
+                    125.0
+                ],
+                [
+                    46.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL BACKLOGS IN FINAL YEAR",
+            "confidence": 0.948,
+            "box": [
+                [
+                    136.0,
+                    142.0
+                ],
+                [
+                    953.0,
+                    144.0
+                ],
+                [
+                    953.0,
+                    194.0
+                ],
+                [
+                    136.0,
+                    192.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    903.0,
+                    406.0
+                ],
+                [
+                    1050.0,
+                    406.0
+                ],
+                [
+                    1050.0,
+                    426.0
+                ],
+                [
+                    903.0,
+                    426.0
+                ]
+            ]
+        }
+    ]
+}

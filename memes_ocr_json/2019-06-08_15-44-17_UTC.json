@@ -1,0 +1,138 @@
+{
+    "image_name": "2019-06-08_15-44-17_UTC.jpg",
+    "combined_text": "nikhil\n@thenikhilkapur\ndesi culture is going to different\ncountries and always trying find desi\nrestaurants there.why can't we ever try\nnew types of food smh",
+    "detailed": [
+        {
+            "text": "nikhil",
+            "confidence": 0.995,
+            "box": [
+                [
+                    139.0,
+                    156.0
+                ],
+                [
+                    229.0,
+                    153.0
+                ],
+                [
+                    230.0,
+                    191.0
+                ],
+                [
+                    140.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "@thenikhilkapur",
+            "confidence": 0.997,
+            "box": [
+                [
+                    146.0,
+                    198.0
+                ],
+                [
+                    375.0,
+                    198.0
+                ],
+                [
+                    375.0,
+                    229.0
+                ],
+                [
+                    146.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "desi culture is going to different",
+            "confidence": 0.964,
+            "box": [
+                [
+                    21.0,
+                    308.0
+                ],
+                [
+                    610.0,
+                    308.0
+                ],
+                [
+                    610.0,
+                    350.0
+                ],
+                [
+                    21.0,
+                    350.0
+                ]
+            ]
+        },
+        {
+            "text": "countries and always trying find desi",
+            "confidence": 0.968,
+            "box": [
+                [
+                    17.0,
+                    373.0
+                ],
+                [
+                    703.0,
+                    373.0
+                ],
+                [
+                    703.0,
+                    418.0
+                ],
+                [
+                    17.0,
+                    418.0
+                ]
+            ]
+        },
+        {
+            "text": "restaurants there.why can't we ever try",
+            "confidence": 0.975,
+            "box": [
+                [
+                    17.0,
+                    435.0
+                ],
+                [
+                    750.0,
+                    439.0
+                ],
+                [
+                    750.0,
+                    484.0
+                ],
+                [
+                    17.0,
+                    480.0
+                ]
+            ]
+        },
+        {
+            "text": "new types of food smh",
+            "confidence": 0.955,
+            "box": [
+                [
+                    21.0,
+                    507.0
+                ],
+                [
+                    448.0,
+                    504.0
+                ],
+                [
+                    448.0,
+                    544.0
+                ],
+                [
+                    21.0,
+                    548.0
+                ]
+            ]
+        }
+    ]
+}

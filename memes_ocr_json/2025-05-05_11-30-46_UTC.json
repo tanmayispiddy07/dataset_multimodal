@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-05_11-30-46_UTC.jpg",
+    "combined_text": "MALAYALAM BIGGEST FILM\nEMPURAAN 2 NOW STREAMING\nON JIO HOTSTAR\nADDICTEDTOMEMES\nSIR JUST IMAGINE EMPURAAN 3 LO\nMOHANLAL CM AITHE ELA UNTADHO",
+    "detailed": [
+        {
+            "text": "MALAYALAM BIGGEST FILM",
+            "confidence": 0.928,
+            "box": [
+                [
+                    210.0,
+                    21.0
+                ],
+                [
+                    917.0,
+                    21.0
+                ],
+                [
+                    917.0,
+                    63.0
+                ],
+                [
+                    210.0,
+                    63.0
+                ]
+            ]
+        },
+        {
+            "text": "EMPURAAN 2 NOW STREAMING",
+            "confidence": 0.949,
+            "box": [
+                [
+                    155.0,
+                    85.0
+                ],
+                [
+                    972.0,
+                    85.0
+                ],
+                [
+                    972.0,
+                    131.0
+                ],
+                [
+                    155.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "ON JIO HOTSTAR",
+            "confidence": 0.947,
+            "box": [
+                [
+                    329.0,
+                    146.0
+                ],
+                [
+                    778.0,
+                    149.0
+                ],
+                [
+                    777.0,
+                    197.0
+                ],
+                [
+                    329.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    14.0,
+                    1083.0
+                ],
+                [
+                    197.0,
+                    1083.0
+                ],
+                [
+                    197.0,
+                    1108.0
+                ],
+                [
+                    14.0,
+                    1108.0
+                ]
+            ]
+        },
+        {
+            "text": "SIR JUST IMAGINE EMPURAAN 3 LO",
+            "confidence": 0.93,
+            "box": [
+                [
+                    41.0,
+                    1240.0
+                ],
+                [
+                    710.0,
+                    1240.0
+                ],
+                [
+                    710.0,
+                    1278.0
+                ],
+                [
+                    41.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "MOHANLAL CM AITHE ELA UNTADHO",
+            "confidence": 0.948,
+            "box": [
+                [
+                    24.0,
+                    1289.0
+                ],
+                [
+                    724.0,
+                    1289.0
+                ],
+                [
+                    724.0,
+                    1323.0
+                ],
+                [
+                    24.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

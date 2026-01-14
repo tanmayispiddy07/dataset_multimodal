@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-08-24_17-18-30_UTC_1.jpg",
+    "combined_text": "sarcasm\nFrom Adelaide to Brisbane:\nPujara's Resilience Defined.\nIndian Test Cricketd",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    482.0,
+                    1002.0
+                ],
+                [
+                    596.0,
+                    1002.0
+                ],
+                [
+                    596.0,
+                    1025.0
+                ],
+                [
+                    482.0,
+                    1025.0
+                ]
+            ]
+        },
+        {
+            "text": "From Adelaide to Brisbane:",
+            "confidence": 0.986,
+            "box": [
+                [
+                    26.0,
+                    1051.0
+                ],
+                [
+                    1058.0,
+                    1057.0
+                ],
+                [
+                    1057.0,
+                    1120.0
+                ],
+                [
+                    25.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "Pujara's Resilience Defined.",
+            "confidence": 0.962,
+            "box": [
+                [
+                    27.0,
+                    1153.0
+                ],
+                [
+                    1056.0,
+                    1153.0
+                ],
+                [
+                    1056.0,
+                    1228.0
+                ],
+                [
+                    27.0,
+                    1228.0
+                ]
+            ]
+        },
+        {
+            "text": "Indian Test Cricketd",
+            "confidence": 0.978,
+            "box": [
+                [
+                    181.0,
+                    1258.0
+                ],
+                [
+                    903.0,
+                    1258.0
+                ],
+                [
+                    903.0,
+                    1319.0
+                ],
+                [
+                    181.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

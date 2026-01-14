@@ -1,0 +1,138 @@
+{
+    "image_name": "2019-07-19_21-42-16_UTC.jpg",
+    "combined_text": "Hardik jain\n@hardikjain\nHollywood : Spiderman, IronMan, Batm\nBollywood:\nCan I Swim With This idea |KURKURA\nMAN",
+    "detailed": [
+        {
+            "text": "Hardik jain",
+            "confidence": 0.987,
+            "box": [
+                [
+                    238.0,
+                    17.0
+                ],
+                [
+                    514.0,
+                    21.0
+                ],
+                [
+                    514.0,
+                    80.0
+                ],
+                [
+                    237.0,
+                    77.0
+                ]
+            ]
+        },
+        {
+            "text": "@hardikjain",
+            "confidence": 0.998,
+            "box": [
+                [
+                    244.0,
+                    93.0
+                ],
+                [
+                    519.0,
+                    93.0
+                ],
+                [
+                    519.0,
+                    151.0
+                ],
+                [
+                    244.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "Hollywood : Spiderman, IronMan, Batm",
+            "confidence": 0.973,
+            "box": [
+                [
+                    63.0,
+                    236.0
+                ],
+                [
+                    1074.0,
+                    238.0
+                ],
+                [
+                    1074.0,
+                    297.0
+                ],
+                [
+                    63.0,
+                    295.0
+                ]
+            ]
+        },
+        {
+            "text": "Bollywood:",
+            "confidence": 0.993,
+            "box": [
+                [
+                    65.0,
+                    307.0
+                ],
+                [
+                    374.0,
+                    307.0
+                ],
+                [
+                    374.0,
+                    366.0
+                ],
+                [
+                    65.0,
+                    366.0
+                ]
+            ]
+        },
+        {
+            "text": "Can I Swim With This idea |KURKURA",
+            "confidence": 0.92,
+            "box": [
+                [
+                    129.0,
+                    937.0
+                ],
+                [
+                    884.0,
+                    937.0
+                ],
+                [
+                    884.0,
+                    975.0
+                ],
+                [
+                    129.0,
+                    975.0
+                ]
+            ]
+        },
+        {
+            "text": "MAN",
+            "confidence": 0.997,
+            "box": [
+                [
+                    123.0,
+                    998.0
+                ],
+                [
+                    233.0,
+                    998.0
+                ],
+                [
+                    233.0,
+                    1042.0
+                ],
+                [
+                    123.0,
+                    1042.0
+                ]
+            ]
+        }
+    ]
+}

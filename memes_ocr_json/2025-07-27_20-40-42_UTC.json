@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-07-27_20-40-42_UTC.jpg",
+    "combined_text": "When the robber is dumb\nsarcasm",
+    "detailed": [
+        {
+            "text": "When the robber is dumb",
+            "confidence": 0.952,
+            "box": [
+                [
+                    60.0,
+                    122.0
+                ],
+                [
+                    481.0,
+                    124.0
+                ],
+                [
+                    481.0,
+                    155.0
+                ],
+                [
+                    60.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.982,
+            "box": [
+                [
+                    253.0,
+                    606.0
+                ],
+                [
+                    289.0,
+                    606.0
+                ],
+                [
+                    289.0,
+                    616.0
+                ],
+                [
+                    253.0,
+                    616.0
+                ]
+            ]
+        }
+    ]
+}

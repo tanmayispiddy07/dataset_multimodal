@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-04-07_17-55-16_UTC.jpg",
+    "combined_text": "RCB\n2.0\nTHEYMAKE YOU FEEL TENSED\nTHEY MAKE YOU FEEL EMOTIONAL\nAND IN THE END THEY WILL WIN EVERYONE'S HEART\nboAt\nD\nKEI\ntres&Canies\nDOICTEDTOMEME\nVALLU AAGARU ESARI RCB KOTTE\nVARAKU VALLU AAGARU",
+    "detailed": [
+        {
+            "text": "RCB",
+            "confidence": 0.989,
+            "box": [
+                [
+                    311.0,
+                    22.0
+                ],
+                [
+                    596.0,
+                    22.0
+                ],
+                [
+                    596.0,
+                    128.0
+                ],
+                [
+                    311.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "2.0",
+            "confidence": 1.0,
+            "box": [
+                [
+                    557.0,
+                    25.0
+                ],
+                [
+                    789.0,
+                    25.0
+                ],
+                [
+                    789.0,
+                    130.0
+                ],
+                [
+                    557.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "THEYMAKE YOU FEEL TENSED",
+            "confidence": 0.963,
+            "box": [
+                [
+                    248.0,
+                    171.0
+                ],
+                [
+                    837.0,
+                    171.0
+                ],
+                [
+                    837.0,
+                    209.0
+                ],
+                [
+                    248.0,
+                    209.0
+                ]
+            ]
+        },
+        {
+            "text": "THEY MAKE YOU FEEL EMOTIONAL",
+            "confidence": 0.931,
+            "box": [
+                [
+                    202.0,
+                    223.0
+                ],
+                [
+                    883.0,
+                    223.0
+                ],
+                [
+                    883.0,
+                    256.0
+                ],
+                [
+                    202.0,
+                    256.0
+                ]
+            ]
+        },
+        {
+            "text": "AND IN THE END THEY WILL WIN EVERYONE'S HEART",
+            "confidence": 0.93,
+            "box": [
+                [
+                    32.0,
+                    270.0
+                ],
+                [
+                    1064.0,
+                    269.0
+                ],
+                [
+                    1065.0,
+                    307.0
+                ],
+                [
+                    32.0,
+                    308.0
+                ]
+            ]
+        },
+        {
+            "text": "boAt",
+            "confidence": 0.924,
+            "box": [
+                [
+                    91.0,
+                    418.0
+                ],
+                [
+                    166.0,
+                    393.0
+                ],
+                [
+                    180.0,
+                    435.0
+                ],
+                [
+                    106.0,
+                    460.0
+                ]
+            ]
+        },
+        {
+            "text": "D",
+            "confidence": 0.816,
+            "box": [
+                [
+                    719.0,
+                    413.0
+                ],
+                [
+                    759.0,
+                    413.0
+                ],
+                [
+                    759.0,
+                    452.0
+                ],
+                [
+                    719.0,
+                    452.0
+                ]
+            ]
+        },
+        {
+            "text": "KEI",
+            "confidence": 0.945,
+            "box": [
+                [
+                    674.0,
+                    515.0
+                ],
+                [
+                    791.0,
+                    506.0
+                ],
+                [
+                    794.0,
+                    550.0
+                ],
+                [
+                    678.0,
+                    560.0
+                ]
+            ]
+        },
+        {
+            "text": "tres&Canies",
+            "confidence": 0.832,
+            "box": [
+                [
+                    0.0,
+                    584.0
+                ],
+                [
+                    100.0,
+                    570.0
+                ],
+                [
+                    104.0,
+                    597.0
+                ],
+                [
+                    0.0,
+                    610.0
+                ]
+            ]
+        },
+        {
+            "text": "DOICTEDTOMEME",
+            "confidence": 0.955,
+            "box": [
+                [
+                    651.0,
+                    702.0
+                ],
+                [
+                    745.0,
+                    702.0
+                ],
+                [
+                    745.0,
+                    715.0
+                ],
+                [
+                    651.0,
+                    715.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLU AAGARU ESARI RCB KOTTE",
+            "confidence": 0.944,
+            "box": [
+                [
+                    110.0,
+                    1204.0
+                ],
+                [
+                    1034.0,
+                    1204.0
+                ],
+                [
+                    1034.0,
+                    1250.0
+                ],
+                [
+                    110.0,
+                    1250.0
+                ]
+            ]
+        },
+        {
+            "text": "VARAKU VALLU AAGARU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    222.0,
+                    1271.0
+                ],
+                [
+                    904.0,
+                    1271.0
+                ],
+                [
+                    904.0,
+                    1321.0
+                ],
+                [
+                    222.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

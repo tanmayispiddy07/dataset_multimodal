@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-05-15_09-10-08_UTC.jpg",
+    "combined_text": "BOYEOE\nJAMIA MILLIA ISLAMIA\nsarcasm\nAfter JNU, now Jamia Milia Islamia\nUniversity suspends all sort of.\ncollaborations with Turkish.\ninstitutions.",
+    "detailed": [
+        {
+            "text": "BOYEOE",
+            "confidence": 0.774,
+            "box": [
+                [
+                    175.0,
+                    105.0
+                ],
+                [
+                    778.0,
+                    89.0
+                ],
+                [
+                    782.0,
+                    223.0
+                ],
+                [
+                    178.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "JAMIA MILLIA ISLAMIA",
+            "confidence": 0.981,
+            "box": [
+                [
+                    586.0,
+                    541.0
+                ],
+                [
+                    1049.0,
+                    551.0
+                ],
+                [
+                    1048.0,
+                    599.0
+                ],
+                [
+                    585.0,
+                    589.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    481.0,
+                    958.0
+                ],
+                [
+                    598.0,
+                    958.0
+                ],
+                [
+                    598.0,
+                    984.0
+                ],
+                [
+                    481.0,
+                    984.0
+                ]
+            ]
+        },
+        {
+            "text": "After JNU, now Jamia Milia Islamia",
+            "confidence": 0.976,
+            "box": [
+                [
+                    15.0,
+                    1026.0
+                ],
+                [
+                    1066.0,
+                    1026.0
+                ],
+                [
+                    1066.0,
+                    1080.0
+                ],
+                [
+                    15.0,
+                    1080.0
+                ]
+            ]
+        },
+        {
+            "text": "University suspends all sort of.",
+            "confidence": 0.976,
+            "box": [
+                [
+                    83.0,
+                    1098.0
+                ],
+                [
+                    1003.0,
+                    1101.0
+                ],
+                [
+                    1003.0,
+                    1168.0
+                ],
+                [
+                    83.0,
+                    1165.0
+                ]
+            ]
+        },
+        {
+            "text": "collaborations with Turkish.",
+            "confidence": 0.979,
+            "box": [
+                [
+                    131.0,
+                    1186.0
+                ],
+                [
+                    950.0,
+                    1183.0
+                ],
+                [
+                    951.0,
+                    1241.0
+                ],
+                [
+                    131.0,
+                    1244.0
+                ]
+            ]
+        },
+        {
+            "text": "institutions.",
+            "confidence": 0.999,
+            "box": [
+                [
+                    358.0,
+                    1260.0
+                ],
+                [
+                    726.0,
+                    1265.0
+                ],
+                [
+                    725.0,
+                    1318.0
+                ],
+                [
+                    357.0,
+                    1314.0
+                ]
+            ]
+        }
+    ]
+}

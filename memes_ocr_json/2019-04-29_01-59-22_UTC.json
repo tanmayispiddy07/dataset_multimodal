@@ -1,0 +1,248 @@
+{
+    "image_name": "2019-04-29_01-59-22_UTC.jpg",
+    "combined_text": "Me talking to Amma on phone be like:\nSare\nSare\nSare\nSare\nSare\nSare\nSare\nsaeeeeeeeeeeeeeeeeeeeeeeee\nAmma:Ureyyyy edhava.....Cheppedhi vinte jeevitham\nlo baagupadathavu",
+    "detailed": [
+        {
+            "text": "Me talking to Amma on phone be like:",
+            "confidence": 0.948,
+            "box": [
+                [
+                    17.0,
+                    9.0
+                ],
+                [
+                    356.0,
+                    9.0
+                ],
+                [
+                    356.0,
+                    29.0
+                ],
+                [
+                    17.0,
+                    29.0
+                ]
+            ]
+        },
+        {
+            "text": "Sare",
+            "confidence": 0.999,
+            "box": [
+                [
+                    14.0,
+                    56.0
+                ],
+                [
+                    63.0,
+                    56.0
+                ],
+                [
+                    63.0,
+                    82.0
+                ],
+                [
+                    14.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "Sare",
+            "confidence": 0.999,
+            "box": [
+                [
+                    15.0,
+                    79.0
+                ],
+                [
+                    64.0,
+                    83.0
+                ],
+                [
+                    62.0,
+                    109.0
+                ],
+                [
+                    13.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "Sare",
+            "confidence": 0.987,
+            "box": [
+                [
+                    14.0,
+                    105.0
+                ],
+                [
+                    64.0,
+                    108.0
+                ],
+                [
+                    62.0,
+                    133.0
+                ],
+                [
+                    12.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "Sare",
+            "confidence": 0.998,
+            "box": [
+                [
+                    15.0,
+                    132.0
+                ],
+                [
+                    63.0,
+                    132.0
+                ],
+                [
+                    63.0,
+                    158.0
+                ],
+                [
+                    15.0,
+                    158.0
+                ]
+            ]
+        },
+        {
+            "text": "Sare",
+            "confidence": 0.999,
+            "box": [
+                [
+                    15.0,
+                    157.0
+                ],
+                [
+                    63.0,
+                    157.0
+                ],
+                [
+                    63.0,
+                    183.0
+                ],
+                [
+                    15.0,
+                    183.0
+                ]
+            ]
+        },
+        {
+            "text": "Sare",
+            "confidence": 0.999,
+            "box": [
+                [
+                    15.0,
+                    181.0
+                ],
+                [
+                    64.0,
+                    185.0
+                ],
+                [
+                    62.0,
+                    210.0
+                ],
+                [
+                    13.0,
+                    206.0
+                ]
+            ]
+        },
+        {
+            "text": "Sare",
+            "confidence": 0.999,
+            "box": [
+                [
+                    15.0,
+                    206.0
+                ],
+                [
+                    63.0,
+                    209.0
+                ],
+                [
+                    61.0,
+                    234.0
+                ],
+                [
+                    13.0,
+                    231.0
+                ]
+            ]
+        },
+        {
+            "text": "saeeeeeeeeeeeeeeeeeeeeeeee",
+            "confidence": 0.927,
+            "box": [
+                [
+                    16.0,
+                    235.0
+                ],
+                [
+                    292.0,
+                    237.0
+                ],
+                [
+                    292.0,
+                    257.0
+                ],
+                [
+                    16.0,
+                    255.0
+                ]
+            ]
+        },
+        {
+            "text": "Amma:Ureyyyy edhava.....Cheppedhi vinte jeevitham",
+            "confidence": 0.936,
+            "box": [
+                [
+                    17.0,
+                    286.0
+                ],
+                [
+                    505.0,
+                    286.0
+                ],
+                [
+                    505.0,
+                    309.0
+                ],
+                [
+                    17.0,
+                    309.0
+                ]
+            ]
+        },
+        {
+            "text": "lo baagupadathavu",
+            "confidence": 0.975,
+            "box": [
+                [
+                    16.0,
+                    311.0
+                ],
+                [
+                    194.0,
+                    311.0
+                ],
+                [
+                    194.0,
+                    334.0
+                ],
+                [
+                    16.0,
+                    334.0
+                ]
+            ]
+        }
+    ]
+}

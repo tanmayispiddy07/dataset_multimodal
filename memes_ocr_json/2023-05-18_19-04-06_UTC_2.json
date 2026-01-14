@@ -1,0 +1,226 @@
+{
+    "image_name": "2023-05-18_19-04-06_UTC_2.jpg",
+    "combined_text": "OERO\nCENTURYWITH 8 STITCHES IN HAND IN\nA 15OVERS MATCH\nSHAL\nITLANTIDHI INKOKA INNINGS ANNA\nSHALIN\nOKATEY OKA INNINGS ANNA\nTELUGU MEMES GURU\nNAA MEMES KI ANTHA VALUE ISTHADU\nMAA KOHLI ANNAAA",
+    "detailed": [
+        {
+            "text": "OERO",
+            "confidence": 0.758,
+            "box": [
+                [
+                    276.0,
+                    304.0
+                ],
+                [
+                    373.0,
+                    315.0
+                ],
+                [
+                    368.0,
+                    356.0
+                ],
+                [
+                    271.0,
+                    344.0
+                ]
+            ]
+        },
+        {
+            "text": "CENTURYWITH 8 STITCHES IN HAND IN",
+            "confidence": 0.921,
+            "box": [
+                [
+                    224.0,
+                    416.0
+                ],
+                [
+                    897.0,
+                    412.0
+                ],
+                [
+                    897.0,
+                    450.0
+                ],
+                [
+                    224.0,
+                    454.0
+                ]
+            ]
+        },
+        {
+            "text": "A 15OVERS MATCH",
+            "confidence": 0.935,
+            "box": [
+                [
+                    385.0,
+                    447.0
+                ],
+                [
+                    733.0,
+                    447.0
+                ],
+                [
+                    733.0,
+                    485.0
+                ],
+                [
+                    385.0,
+                    485.0
+                ]
+            ]
+        },
+        {
+            "text": "SHAL",
+            "confidence": 0.994,
+            "box": [
+                [
+                    160.0,
+                    589.0
+                ],
+                [
+                    210.0,
+                    589.0
+                ],
+                [
+                    210.0,
+                    605.0
+                ],
+                [
+                    160.0,
+                    605.0
+                ]
+            ]
+        },
+        {
+            "text": "ITLANTIDHI INKOKA INNINGS ANNA",
+            "confidence": 0.932,
+            "box": [
+                [
+                    274.0,
+                    698.0
+                ],
+                [
+                    885.0,
+                    698.0
+                ],
+                [
+                    885.0,
+                    727.0
+                ],
+                [
+                    274.0,
+                    727.0
+                ]
+            ]
+        },
+        {
+            "text": "SHALIN",
+            "confidence": 0.966,
+            "box": [
+                [
+                    131.0,
+                    903.0
+                ],
+                [
+                    195.0,
+                    903.0
+                ],
+                [
+                    195.0,
+                    921.0
+                ],
+                [
+                    131.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "text": "OKATEY OKA INNINGS ANNA",
+            "confidence": 0.946,
+            "box": [
+                [
+                    228.0,
+                    924.0
+                ],
+                [
+                    920.0,
+                    925.0
+                ],
+                [
+                    920.0,
+                    968.0
+                ],
+                [
+                    228.0,
+                    966.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.902,
+            "box": [
+                [
+                    754.0,
+                    1152.0
+                ],
+                [
+                    910.0,
+                    1152.0
+                ],
+                [
+                    910.0,
+                    1177.0
+                ],
+                [
+                    754.0,
+                    1177.0
+                ]
+            ]
+        },
+        {
+            "text": "NAA MEMES KI ANTHA VALUE ISTHADU",
+            "confidence": 0.941,
+            "box": [
+                [
+                    30.0,
+                    1243.0
+                ],
+                [
+                    1046.0,
+                    1243.0
+                ],
+                [
+                    1046.0,
+                    1290.0
+                ],
+                [
+                    30.0,
+                    1290.0
+                ]
+            ]
+        },
+        {
+            "text": "MAA KOHLI ANNAAA",
+            "confidence": 0.971,
+            "box": [
+                [
+                    259.0,
+                    1298.0
+                ],
+                [
+                    818.0,
+                    1298.0
+                ],
+                [
+                    818.0,
+                    1349.0
+                ],
+                [
+                    259.0,
+                    1349.0
+                ]
+            ]
+        }
+    ]
+}

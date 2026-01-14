@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-04-25_09-03-05_UTC.jpg",
+    "combined_text": "EVERYONE FIGHTING IN\nWHATSAPP GROUP\nMEANWHILE ME SILENTLY\nSAVING ALL THE STICKERS\nADOICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "EVERYONE FIGHTING IN",
+            "confidence": 0.958,
+            "box": [
+                [
+                    191.0,
+                    26.0
+                ],
+                [
+                    962.0,
+                    26.0
+                ],
+                [
+                    962.0,
+                    82.0
+                ],
+                [
+                    191.0,
+                    82.0
+                ]
+            ]
+        },
+        {
+            "text": "WHATSAPP GROUP",
+            "confidence": 0.981,
+            "box": [
+                [
+                    254.0,
+                    106.0
+                ],
+                [
+                    879.0,
+                    106.0
+                ],
+                [
+                    879.0,
+                    161.0
+                ],
+                [
+                    254.0,
+                    161.0
+                ]
+            ]
+        },
+        {
+            "text": "MEANWHILE ME SILENTLY",
+            "confidence": 0.959,
+            "box": [
+                [
+                    230.0,
+                    665.0
+                ],
+                [
+                    941.0,
+                    665.0
+                ],
+                [
+                    941.0,
+                    709.0
+                ],
+                [
+                    230.0,
+                    709.0
+                ]
+            ]
+        },
+        {
+            "text": "SAVING ALL THE STICKERS",
+            "confidence": 0.99,
+            "box": [
+                [
+                    200.0,
+                    730.0
+                ],
+                [
+                    953.0,
+                    730.0
+                ],
+                [
+                    953.0,
+                    782.0
+                ],
+                [
+                    200.0,
+                    782.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOICTEDTOMEMES",
+            "confidence": 0.952,
+            "box": [
+                [
+                    502.0,
+                    939.0
+                ],
+                [
+                    649.0,
+                    939.0
+                ],
+                [
+                    649.0,
+                    963.0
+                ],
+                [
+                    502.0,
+                    963.0
+                ]
+            ]
+        }
+    ]
+}

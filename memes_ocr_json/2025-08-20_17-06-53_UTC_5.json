@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-20_17-06-53_UTC_5.jpg",
+    "combined_text": "sarcasm\nSurayya Tyabji, a Muslim woman, and her husband\nBadruddin Tyabji were asked to help redesign it\nSurayya Tyabji kept the tricolour and replaced the\ncharkha with the Ashoka Chakra, symbolising\njustice and unity",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    484.0,
+                    513.0
+                ],
+                [
+                    596.0,
+                    513.0
+                ],
+                [
+                    596.0,
+                    536.0
+                ],
+                [
+                    484.0,
+                    536.0
+                ]
+            ]
+        },
+        {
+            "text": "Surayya Tyabji, a Muslim woman, and her husband",
+            "confidence": 0.963,
+            "box": [
+                [
+                    11.0,
+                    554.0
+                ],
+                [
+                    1067.0,
+                    555.0
+                ],
+                [
+                    1067.0,
+                    599.0
+                ],
+                [
+                    11.0,
+                    597.0
+                ]
+            ]
+        },
+        {
+            "text": "Badruddin Tyabji were asked to help redesign it",
+            "confidence": 0.99,
+            "box": [
+                [
+                    42.0,
+                    607.0
+                ],
+                [
+                    1035.0,
+                    609.0
+                ],
+                [
+                    1035.0,
+                    652.0
+                ],
+                [
+                    42.0,
+                    651.0
+                ]
+            ]
+        },
+        {
+            "text": "Surayya Tyabji kept the tricolour and replaced the",
+            "confidence": 0.97,
+            "box": [
+                [
+                    20.0,
+                    1168.0
+                ],
+                [
+                    1073.0,
+                    1168.0
+                ],
+                [
+                    1073.0,
+                    1216.0
+                ],
+                [
+                    20.0,
+                    1216.0
+                ]
+            ]
+        },
+        {
+            "text": "charkha with the Ashoka Chakra, symbolising",
+            "confidence": 0.989,
+            "box": [
+                [
+                    65.0,
+                    1217.0
+                ],
+                [
+                    1020.0,
+                    1223.0
+                ],
+                [
+                    1019.0,
+                    1272.0
+                ],
+                [
+                    65.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "justice and unity",
+            "confidence": 0.996,
+            "box": [
+                [
+                    370.0,
+                    1279.0
+                ],
+                [
+                    713.0,
+                    1279.0
+                ],
+                [
+                    713.0,
+                    1319.0
+                ],
+                [
+                    370.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

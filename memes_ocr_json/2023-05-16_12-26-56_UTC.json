@@ -1,0 +1,160 @@
+{
+    "image_name": "2023-05-16_12-26-56_UTC.jpg",
+    "combined_text": "HERE'S THE BEAUTIFUL DOSTHULAM LYRICAL\nVIDEO SONG FROM THE MOVIE MEM FAMOUS..\naakinall\nTELUGU MEMES GURU\nTOUCH CHESARAYYA....\nLYRICS THO NA\nHEART NI TOUCH CHESARU",
+    "detailed": [
+        {
+            "text": "HERE'S THE BEAUTIFUL DOSTHULAM LYRICAL",
+            "confidence": 0.962,
+            "box": [
+                [
+                    67.0,
+                    30.0
+                ],
+                [
+                    1050.0,
+                    29.0
+                ],
+                [
+                    1050.0,
+                    70.0
+                ],
+                [
+                    68.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "VIDEO SONG FROM THE MOVIE MEM FAMOUS..",
+            "confidence": 0.937,
+            "box": [
+                [
+                    14.0,
+                    97.0
+                ],
+                [
+                    1076.0,
+                    97.0
+                ],
+                [
+                    1076.0,
+                    134.0
+                ],
+                [
+                    14.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "aakinall",
+            "confidence": 0.967,
+            "box": [
+                [
+                    533.0,
+                    765.0
+                ],
+                [
+                    834.0,
+                    845.0
+                ],
+                [
+                    813.0,
+                    923.0
+                ],
+                [
+                    511.0,
+                    843.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.902,
+            "box": [
+                [
+                    44.0,
+                    965.0
+                ],
+                [
+                    207.0,
+                    965.0
+                ],
+                [
+                    207.0,
+                    990.0
+                ],
+                [
+                    44.0,
+                    990.0
+                ]
+            ]
+        },
+        {
+            "text": "TOUCH CHESARAYYA....",
+            "confidence": 0.971,
+            "box": [
+                [
+                    80.0,
+                    1231.0
+                ],
+                [
+                    648.0,
+                    1231.0
+                ],
+                [
+                    648.0,
+                    1272.0
+                ],
+                [
+                    80.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "LYRICS THO NA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    658.0,
+                    1228.0
+                ],
+                [
+                    1032.0,
+                    1228.0
+                ],
+                [
+                    1032.0,
+                    1274.0
+                ],
+                [
+                    658.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "HEART NI TOUCH CHESARU",
+            "confidence": 0.966,
+            "box": [
+                [
+                    226.0,
+                    1280.0
+                ],
+                [
+                    876.0,
+                    1280.0
+                ],
+                [
+                    876.0,
+                    1325.0
+                ],
+                [
+                    226.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-12-31_10-32-23_UTC.jpg",
+    "combined_text": "MANAM SUPPORT CHEYALI",
+    "detailed": [
+        {
+            "text": "MANAM SUPPORT CHEYALI",
+            "confidence": 0.955,
+            "box": [
+                [
+                    64.0,
+                    784.0
+                ],
+                [
+                    532.0,
+                    784.0
+                ],
+                [
+                    532.0,
+                    823.0
+                ],
+                [
+                    64.0,
+                    823.0
+                ]
+            ]
+        }
+    ]
+}

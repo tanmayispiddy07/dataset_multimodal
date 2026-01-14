@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-07-13_09-43-35_UTC_1.jpg",
+    "combined_text": "It's been a year since this.\nwedding beautifully represented\nour culture to the world.\nSwipe >",
+    "detailed": [
+        {
+            "text": "It's been a year since this.",
+            "confidence": 0.991,
+            "box": [
+                [
+                    195.0,
+                    53.0
+                ],
+                [
+                    882.0,
+                    53.0
+                ],
+                [
+                    882.0,
+                    107.0
+                ],
+                [
+                    195.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "wedding beautifully represented",
+            "confidence": 1.0,
+            "box": [
+                [
+                    96.0,
+                    136.0
+                ],
+                [
+                    990.0,
+                    136.0
+                ],
+                [
+                    990.0,
+                    189.0
+                ],
+                [
+                    96.0,
+                    189.0
+                ]
+            ]
+        },
+        {
+            "text": "our culture to the world.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    177.0,
+                    217.0
+                ],
+                [
+                    834.0,
+                    214.0
+                ],
+                [
+                    834.0,
+                    264.0
+                ],
+                [
+                    177.0,
+                    266.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe >",
+            "confidence": 0.959,
+            "box": [
+                [
+                    879.0,
+                    352.0
+                ],
+                [
+                    1014.0,
+                    352.0
+                ],
+                [
+                    1014.0,
+                    394.0
+                ],
+                [
+                    879.0,
+                    394.0
+                ]
+            ]
+        }
+    ]
+}

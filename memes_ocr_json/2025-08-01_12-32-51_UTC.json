@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-08-01_12-32-51_UTC.jpg",
+    "combined_text": "IPPUDU THANU NINNU NANNA NANNA\nANTUNDHA ASALUNAMMODHU\nADDICTEDTOMEMES\nREPU VALLA NANNA PERU\nCHEPIVELLIPOTHUNDI",
+    "detailed": [
+        {
+            "text": "IPPUDU THANU NINNU NANNA NANNA",
+            "confidence": 0.933,
+            "box": [
+                [
+                    134.0,
+                    422.0
+                ],
+                [
+                    996.0,
+                    422.0
+                ],
+                [
+                    996.0,
+                    459.0
+                ],
+                [
+                    134.0,
+                    459.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTUNDHA ASALUNAMMODHU",
+            "confidence": 0.979,
+            "box": [
+                [
+                    202.0,
+                    478.0
+                ],
+                [
+                    917.0,
+                    478.0
+                ],
+                [
+                    917.0,
+                    515.0
+                ],
+                [
+                    202.0,
+                    515.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    837.0,
+                    674.0
+                ],
+                [
+                    1024.0,
+                    674.0
+                ],
+                [
+                    1024.0,
+                    698.0
+                ],
+                [
+                    837.0,
+                    698.0
+                ]
+            ]
+        },
+        {
+            "text": "REPU VALLA NANNA PERU",
+            "confidence": 0.937,
+            "box": [
+                [
+                    231.0,
+                    961.0
+                ],
+                [
+                    868.0,
+                    961.0
+                ],
+                [
+                    868.0,
+                    1001.0
+                ],
+                [
+                    231.0,
+                    1001.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEPIVELLIPOTHUNDI",
+            "confidence": 0.996,
+            "box": [
+                [
+                    272.0,
+                    1022.0
+                ],
+                [
+                    825.0,
+                    1022.0
+                ],
+                [
+                    825.0,
+                    1062.0
+                ],
+                [
+                    272.0,
+                    1062.0
+                ]
+            ]
+        }
+    ]
+}

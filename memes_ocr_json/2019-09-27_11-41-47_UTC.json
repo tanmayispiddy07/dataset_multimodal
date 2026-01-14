@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-09-27_11-41-47_UTC.jpg",
+    "combined_text": "*Nuvvu poolakundi\nenduku tannav ra?",
+    "detailed": [
+        {
+            "text": "*Nuvvu poolakundi",
+            "confidence": 0.992,
+            "box": [
+                [
+                    395.0,
+                    499.0
+                ],
+                [
+                    929.0,
+                    504.0
+                ],
+                [
+                    928.0,
+                    579.0
+                ],
+                [
+                    394.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "enduku tannav ra?",
+            "confidence": 0.984,
+            "box": [
+                [
+                    416.0,
+                    578.0
+                ],
+                [
+                    980.0,
+                    578.0
+                ],
+                [
+                    980.0,
+                    643.0
+                ],
+                [
+                    416.0,
+                    643.0
+                ]
+            ]
+        }
+    ]
+}

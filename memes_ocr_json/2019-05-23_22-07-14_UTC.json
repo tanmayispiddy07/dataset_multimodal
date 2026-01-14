@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-05-23_22-07-14_UTC.jpg",
+    "combined_text": "Me: *peacefully sleeping*\nAmma 1 min before my alarm:\nCTAMIL_HUMOR",
+    "detailed": [
+        {
+            "text": "Me: *peacefully sleeping*",
+            "confidence": 1.0,
+            "box": [
+                [
+                    7.0,
+                    38.0
+                ],
+                [
+                    862.0,
+                    38.0
+                ],
+                [
+                    862.0,
+                    120.0
+                ],
+                [
+                    7.0,
+                    120.0
+                ]
+            ]
+        },
+        {
+            "text": "Amma 1 min before my alarm:",
+            "confidence": 0.998,
+            "box": [
+                [
+                    6.0,
+                    136.0
+                ],
+                [
+                    1019.0,
+                    143.0
+                ],
+                [
+                    1019.0,
+                    215.0
+                ],
+                [
+                    5.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "CTAMIL_HUMOR",
+            "confidence": 0.934,
+            "box": [
+                [
+                    20.0,
+                    401.0
+                ],
+                [
+                    338.0,
+                    272.0
+                ],
+                [
+                    354.0,
+                    313.0
+                ],
+                [
+                    37.0,
+                    442.0
+                ]
+            ]
+        }
+    ]
+}

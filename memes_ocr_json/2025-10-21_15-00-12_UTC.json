@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-10-21_15-00-12_UTC.jpg",
+    "combined_text": "Addicted To Memes\n@Addictedtomemez\nCOC\nHEDTOMEME\nMe Watching my Friend Saying \"Thanu\nAndhari lanti Ammayi kadhu ra \"\nSRGALRIVDEO",
+    "detailed": [
+        {
+            "text": "Addicted To Memes",
+            "confidence": 0.96,
+            "box": [
+                [
+                    181.0,
+                    28.0
+                ],
+                [
+                    581.0,
+                    28.0
+                ],
+                [
+                    581.0,
+                    66.0
+                ],
+                [
+                    181.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "@Addictedtomemez",
+            "confidence": 0.98,
+            "box": [
+                [
+                    180.0,
+                    76.0
+                ],
+                [
+                    574.0,
+                    80.0
+                ],
+                [
+                    573.0,
+                    118.0
+                ],
+                [
+                    180.0,
+                    114.0
+                ]
+            ]
+        },
+        {
+            "text": "COC",
+            "confidence": 0.68,
+            "box": [
+                [
+                    53.0,
+                    86.0
+                ],
+                [
+                    75.0,
+                    91.0
+                ],
+                [
+                    72.0,
+                    106.0
+                ],
+                [
+                    50.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "HEDTOMEME",
+            "confidence": 0.879,
+            "box": [
+                [
+                    68.0,
+                    91.0
+                ],
+                [
+                    129.0,
+                    91.0
+                ],
+                [
+                    129.0,
+                    108.0
+                ],
+                [
+                    68.0,
+                    108.0
+                ]
+            ]
+        },
+        {
+            "text": "Me Watching my Friend Saying \"Thanu",
+            "confidence": 0.99,
+            "box": [
+                [
+                    31.0,
+                    166.0
+                ],
+                [
+                    925.0,
+                    166.0
+                ],
+                [
+                    925.0,
+                    217.0
+                ],
+                [
+                    31.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "Andhari lanti Ammayi kadhu ra \"",
+            "confidence": 0.983,
+            "box": [
+                [
+                    29.0,
+                    229.0
+                ],
+                [
+                    786.0,
+                    226.0
+                ],
+                [
+                    786.0,
+                    281.0
+                ],
+                [
+                    30.0,
+                    284.0
+                ]
+            ]
+        },
+        {
+            "text": "SRGALRIVDEO",
+            "confidence": 0.659,
+            "box": [
+                [
+                    879.0,
+                    967.0
+                ],
+                [
+                    1001.0,
+                    967.0
+                ],
+                [
+                    1001.0,
+                    989.0
+                ],
+                [
+                    879.0,
+                    989.0
+                ]
+            ]
+        }
+    ]
+}

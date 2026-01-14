@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-04-20_13-31-19_UTC.jpg",
+    "combined_text": "VIRAT KOHLI IS THE ONLY PLAYER IN\nIPL HISTORY WITH MOST 5O+ SCORES\nINNINGS PLAYED252\n5O+ SCORE 67 TIMES\nRWAI\nADDICTEDTOMEMES\nMAA NAYAKUDU",
+    "detailed": [
+        {
+            "text": "VIRAT KOHLI IS THE ONLY PLAYER IN",
+            "confidence": 0.932,
+            "box": [
+                [
+                    150.0,
+                    21.0
+                ],
+                [
+                    984.0,
+                    21.0
+                ],
+                [
+                    984.0,
+                    59.0
+                ],
+                [
+                    150.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "IPL HISTORY WITH MOST 5O+ SCORES",
+            "confidence": 0.928,
+            "box": [
+                [
+                    134.0,
+                    77.0
+                ],
+                [
+                    998.0,
+                    77.0
+                ],
+                [
+                    998.0,
+                    118.0
+                ],
+                [
+                    134.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "INNINGS PLAYED252",
+            "confidence": 0.992,
+            "box": [
+                [
+                    314.0,
+                    132.0
+                ],
+                [
+                    807.0,
+                    134.0
+                ],
+                [
+                    807.0,
+                    176.0
+                ],
+                [
+                    314.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "5O+ SCORE 67 TIMES",
+            "confidence": 0.972,
+            "box": [
+                [
+                    328.0,
+                    194.0
+                ],
+                [
+                    803.0,
+                    194.0
+                ],
+                [
+                    803.0,
+                    231.0
+                ],
+                [
+                    328.0,
+                    231.0
+                ]
+            ]
+        },
+        {
+            "text": "RWAI",
+            "confidence": 0.762,
+            "box": [
+                [
+                    819.0,
+                    533.0
+                ],
+                [
+                    858.0,
+                    563.0
+                ],
+                [
+                    800.0,
+                    635.0
+                ],
+                [
+                    761.0,
+                    605.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    51.0,
+                    927.0
+                ],
+                [
+                    231.0,
+                    925.0
+                ],
+                [
+                    231.0,
+                    950.0
+                ],
+                [
+                    51.0,
+                    952.0
+                ]
+            ]
+        },
+        {
+            "text": "MAA NAYAKUDU",
+            "confidence": 0.965,
+            "box": [
+                [
+                    89.0,
+                    1267.0
+                ],
+                [
+                    609.0,
+                    1267.0
+                ],
+                [
+                    609.0,
+                    1317.0
+                ],
+                [
+                    89.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-05-09_12-05-06_UTC.jpg",
+    "combined_text": "TALENTED ACTOR DHARMA, WHO IMPRESSED AUDIENCES WITH HIS\nPROJECTS.HIS IMPACTFUL ACTING NOT ONLY EARNED HIM WIDESPREAD PRAISE\nBUT ALSO SEVERAL AWARDS.NOW, THIS YOUNG STAR IS ALL SET TO TAKE\nON ROLES THAT WILL BRING HIM EVEN CLOSER TO THE AUDIENCE.OFFICIAL\nANNOUNCEMENTS ABOUT THESE UPCOMING FILMS WILL BE MADE SOON\nADDICTEDTOMEMES\nTelugu l\nALLTHE BESTFOR FUTUREPROJECTS",
+    "detailed": [
+        {
+            "text": "TALENTED ACTOR DHARMA, WHO IMPRESSED AUDIENCES WITH HIS",
+            "confidence": 0.943,
+            "box": [
+                [
+                    91.0,
+                    32.0
+                ],
+                [
+                    979.0,
+                    32.0
+                ],
+                [
+                    979.0,
+                    57.0
+                ],
+                [
+                    91.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "PROJECTS.HIS IMPACTFUL ACTING NOT ONLY EARNED HIM WIDESPREAD PRAISE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    1.0,
+                    93.0
+                ],
+                [
+                    1066.0,
+                    96.0
+                ],
+                [
+                    1066.0,
+                    125.0
+                ],
+                [
+                    1.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "BUT ALSO SEVERAL AWARDS.NOW, THIS YOUNG STAR IS ALL SET TO TAKE",
+            "confidence": 0.939,
+            "box": [
+                [
+                    46.0,
+                    128.0
+                ],
+                [
+                    1021.0,
+                    128.0
+                ],
+                [
+                    1021.0,
+                    157.0
+                ],
+                [
+                    46.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "ON ROLES THAT WILL BRING HIM EVEN CLOSER TO THE AUDIENCE.OFFICIAL",
+            "confidence": 0.941,
+            "box": [
+                [
+                    32.0,
+                    163.0
+                ],
+                [
+                    1036.0,
+                    163.0
+                ],
+                [
+                    1036.0,
+                    188.0
+                ],
+                [
+                    32.0,
+                    188.0
+                ]
+            ]
+        },
+        {
+            "text": "ANNOUNCEMENTS ABOUT THESE UPCOMING FILMS WILL BE MADE SOON",
+            "confidence": 0.944,
+            "box": [
+                [
+                    48.0,
+                    197.0
+                ],
+                [
+                    1017.0,
+                    197.0
+                ],
+                [
+                    1017.0,
+                    222.0
+                ],
+                [
+                    48.0,
+                    222.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    901.0,
+                    1041.0
+                ],
+                [
+                    1058.0,
+                    1041.0
+                ],
+                [
+                    1058.0,
+                    1062.0
+                ],
+                [
+                    901.0,
+                    1062.0
+                ]
+            ]
+        },
+        {
+            "text": "Telugu l",
+            "confidence": 0.819,
+            "box": [
+                [
+                    952.0,
+                    1102.0
+                ],
+                [
+                    1072.0,
+                    1109.0
+                ],
+                [
+                    1070.0,
+                    1144.0
+                ],
+                [
+                    950.0,
+                    1137.0
+                ]
+            ]
+        },
+        {
+            "text": "ALLTHE BESTFOR FUTUREPROJECTS",
+            "confidence": 0.964,
+            "box": [
+                [
+                    89.0,
+                    1274.0
+                ],
+                [
+                    1017.0,
+                    1275.0
+                ],
+                [
+                    1017.0,
+                    1323.0
+                ],
+                [
+                    89.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

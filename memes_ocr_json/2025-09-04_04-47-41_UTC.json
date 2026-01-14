@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-09-04_04-47-41_UTC.jpg",
+    "combined_text": "hindarA\nH410Ns\nsarcasm\nThe happiest moment\nin our franchise's history,\nturned into something tragic\n Virat Kohli on Bengaluru Stampede",
+    "detailed": [
+        {
+            "text": "hindarA",
+            "confidence": 0.804,
+            "box": [
+                [
+                    749.0,
+                    391.0
+                ],
+                [
+                    844.0,
+                    373.0
+                ],
+                [
+                    852.0,
+                    415.0
+                ],
+                [
+                    756.0,
+                    433.0
+                ]
+            ]
+        },
+        {
+            "text": "H410Ns",
+            "confidence": 0.512,
+            "box": [
+                [
+                    308.0,
+                    745.0
+                ],
+                [
+                    467.0,
+                    751.0
+                ],
+                [
+                    466.0,
+                    801.0
+                ],
+                [
+                    306.0,
+                    796.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.991,
+            "box": [
+                [
+                    485.0,
+                    897.0
+                ],
+                [
+                    596.0,
+                    897.0
+                ],
+                [
+                    596.0,
+                    916.0
+                ],
+                [
+                    485.0,
+                    916.0
+                ]
+            ]
+        },
+        {
+            "text": "The happiest moment",
+            "confidence": 0.993,
+            "box": [
+                [
+                    177.0,
+                    995.0
+                ],
+                [
+                    907.0,
+                    1000.0
+                ],
+                [
+                    907.0,
+                    1063.0
+                ],
+                [
+                    177.0,
+                    1058.0
+                ]
+            ]
+        },
+        {
+            "text": "in our franchise's history,",
+            "confidence": 0.994,
+            "box": [
+                [
+                    122.0,
+                    1071.0
+                ],
+                [
+                    955.0,
+                    1084.0
+                ],
+                [
+                    954.0,
+                    1156.0
+                ],
+                [
+                    121.0,
+                    1142.0
+                ]
+            ]
+        },
+        {
+            "text": "turned into something tragic",
+            "confidence": 0.999,
+            "box": [
+                [
+                    58.0,
+                    1174.0
+                ],
+                [
+                    1021.0,
+                    1174.0
+                ],
+                [
+                    1021.0,
+                    1239.0
+                ],
+                [
+                    58.0,
+                    1239.0
+                ]
+            ]
+        },
+        {
+            "text": " Virat Kohli on Bengaluru Stampede",
+            "confidence": 0.974,
+            "box": [
+                [
+                    246.0,
+                    1270.0
+                ],
+                [
+                    859.0,
+                    1273.0
+                ],
+                [
+                    859.0,
+                    1314.0
+                ],
+                [
+                    246.0,
+                    1311.0
+                ]
+            ]
+        }
+    ]
+}

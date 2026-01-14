@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-09-19_05-34-19_UTC.jpg",
+    "combined_text": "LONG QUEUES AT MUMBAI APPLE\nSTORE FOR IPHONE 17\nFEW PEOPLE STARTED FIGHTING ALSO\nINQUEUE POLICE CAME TO CONTROL\nADDICTEDTOMEMES\nPEOPLE WHO ARE STILL THINKING\nHAVING IPHONE FOR SHOWOFF\nPURPOSE EVEN IN 2025 THAT TO0\nAFTER BUYING IN EMI",
+    "detailed": [
+        {
+            "text": "LONG QUEUES AT MUMBAI APPLE",
+            "confidence": 0.947,
+            "box": [
+                [
+                    204.0,
+                    10.0
+                ],
+                [
+                    915.0,
+                    10.0
+                ],
+                [
+                    915.0,
+                    52.0
+                ],
+                [
+                    204.0,
+                    52.0
+                ]
+            ]
+        },
+        {
+            "text": "STORE FOR IPHONE 17",
+            "confidence": 0.932,
+            "box": [
+                [
+                    318.0,
+                    66.0
+                ],
+                [
+                    792.0,
+                    66.0
+                ],
+                [
+                    792.0,
+                    99.0
+                ],
+                [
+                    318.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "FEW PEOPLE STARTED FIGHTING ALSO",
+            "confidence": 0.952,
+            "box": [
+                [
+                    153.0,
+                    116.0
+                ],
+                [
+                    963.0,
+                    116.0
+                ],
+                [
+                    963.0,
+                    153.0
+                ],
+                [
+                    153.0,
+                    153.0
+                ]
+            ]
+        },
+        {
+            "text": "INQUEUE POLICE CAME TO CONTROL",
+            "confidence": 0.936,
+            "box": [
+                [
+                    150.0,
+                    170.0
+                ],
+                [
+                    946.0,
+                    170.0
+                ],
+                [
+                    946.0,
+                    208.0
+                ],
+                [
+                    150.0,
+                    208.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.982,
+            "box": [
+                [
+                    474.0,
+                    576.0
+                ],
+                [
+                    610.0,
+                    577.0
+                ],
+                [
+                    610.0,
+                    598.0
+                ],
+                [
+                    474.0,
+                    596.0
+                ]
+            ]
+        },
+        {
+            "text": "PEOPLE WHO ARE STILL THINKING",
+            "confidence": 0.93,
+            "box": [
+                [
+                    186.0,
+                    1187.0
+                ],
+                [
+                    693.0,
+                    1187.0
+                ],
+                [
+                    693.0,
+                    1217.0
+                ],
+                [
+                    186.0,
+                    1217.0
+                ]
+            ]
+        },
+        {
+            "text": "HAVING IPHONE FOR SHOWOFF",
+            "confidence": 0.956,
+            "box": [
+                [
+                    204.0,
+                    1226.0
+                ],
+                [
+                    676.0,
+                    1226.0
+                ],
+                [
+                    676.0,
+                    1252.0
+                ],
+                [
+                    204.0,
+                    1252.0
+                ]
+            ]
+        },
+        {
+            "text": "PURPOSE EVEN IN 2025 THAT TO0",
+            "confidence": 0.891,
+            "box": [
+                [
+                    181.0,
+                    1261.0
+                ],
+                [
+                    700.0,
+                    1261.0
+                ],
+                [
+                    700.0,
+                    1291.0
+                ],
+                [
+                    181.0,
+                    1291.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER BUYING IN EMI",
+            "confidence": 0.952,
+            "box": [
+                [
+                    274.0,
+                    1296.0
+                ],
+                [
+                    602.0,
+                    1298.0
+                ],
+                [
+                    602.0,
+                    1331.0
+                ],
+                [
+                    274.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

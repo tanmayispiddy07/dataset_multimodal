@@ -1,0 +1,248 @@
+{
+    "image_name": "2023-04-07_06-30-27_UTC.jpg",
+    "combined_text": "MYE\nRELEASE\nNOW\nRANDI\nTODAYHEATRE\nSueib\nMETER NOW IN THEATRES\nPERFECT SUMMER ENTERTAINER\nU MEMES GURU\nENTI...KIRAN ANNA KI INKOKA\nBLOCKBUSTER PADIPOYINATEY KADHA.",
+    "detailed": [
+        {
+            "text": "MYE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    516.0,
+                    25.0
+                ],
+                [
+                    540.0,
+                    25.0
+                ],
+                [
+                    540.0,
+                    48.0
+                ],
+                [
+                    516.0,
+                    48.0
+                ]
+            ]
+        },
+        {
+            "text": "RELEASE",
+            "confidence": 0.897,
+            "box": [
+                [
+                    238.0,
+                    67.0
+                ],
+                [
+                    546.0,
+                    70.0
+                ],
+                [
+                    545.0,
+                    110.0
+                ],
+                [
+                    238.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW",
+            "confidence": 0.957,
+            "box": [
+                [
+                    544.0,
+                    59.0
+                ],
+                [
+                    909.0,
+                    56.0
+                ],
+                [
+                    910.0,
+                    133.0
+                ],
+                [
+                    545.0,
+                    137.0
+                ]
+            ]
+        },
+        {
+            "text": "RANDI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    1.0,
+                    70.0
+                ],
+                [
+                    259.0,
+                    70.0
+                ],
+                [
+                    259.0,
+                    108.0
+                ],
+                [
+                    1.0,
+                    108.0
+                ]
+            ]
+        },
+        {
+            "text": "TODAYHEATRE",
+            "confidence": 0.903,
+            "box": [
+                [
+                    10.0,
+                    102.0
+                ],
+                [
+                    1079.0,
+                    129.0
+                ],
+                [
+                    1079.0,
+                    249.0
+                ],
+                [
+                    7.0,
+                    221.0
+                ]
+            ]
+        },
+        {
+            "text": "Sueib",
+            "confidence": 0.504,
+            "box": [
+                [
+                    699.0,
+                    741.0
+                ],
+                [
+                    920.0,
+                    718.0
+                ],
+                [
+                    930.0,
+                    813.0
+                ],
+                [
+                    708.0,
+                    836.0
+                ]
+            ]
+        },
+        {
+            "text": "METER NOW IN THEATRES",
+            "confidence": 0.94,
+            "box": [
+                [
+                    184.0,
+                    831.0
+                ],
+                [
+                    897.0,
+                    831.0
+                ],
+                [
+                    897.0,
+                    873.0
+                ],
+                [
+                    184.0,
+                    873.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFECT SUMMER ENTERTAINER",
+            "confidence": 0.971,
+            "box": [
+                [
+                    87.0,
+                    887.0
+                ],
+                [
+                    993.0,
+                    889.0
+                ],
+                [
+                    993.0,
+                    932.0
+                ],
+                [
+                    87.0,
+                    931.0
+                ]
+            ]
+        },
+        {
+            "text": "U MEMES GURU",
+            "confidence": 0.816,
+            "box": [
+                [
+                    103.0,
+                    1098.0
+                ],
+                [
+                    170.0,
+                    1098.0
+                ],
+                [
+                    170.0,
+                    1111.0
+                ],
+                [
+                    103.0,
+                    1111.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTI...KIRAN ANNA KI INKOKA",
+            "confidence": 0.928,
+            "box": [
+                [
+                    241.0,
+                    1249.0
+                ],
+                [
+                    862.0,
+                    1250.0
+                ],
+                [
+                    862.0,
+                    1288.0
+                ],
+                [
+                    240.0,
+                    1287.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER PADIPOYINATEY KADHA.",
+            "confidence": 0.961,
+            "box": [
+                [
+                    163.0,
+                    1295.0
+                ],
+                [
+                    934.0,
+                    1295.0
+                ],
+                [
+                    934.0,
+                    1329.0
+                ],
+                [
+                    163.0,
+                    1329.0
+                ]
+            ]
+        }
+    ]
+}

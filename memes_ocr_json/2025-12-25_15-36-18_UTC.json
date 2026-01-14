@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-12-25_15-36-18_UTC.jpg",
+    "combined_text": "ANACONDA GETTING POSITIVE\nRESPONSE EVERYWHERE\nAUDIENCE LOVING THE ACTION SCENES\nADDICTEDTOMEMES\nIDHIEKKADAMASS ACTION\nSCENESRAMAWA",
+    "detailed": [
+        {
+            "text": "ANACONDA GETTING POSITIVE",
+            "confidence": 0.963,
+            "box": [
+                [
+                    152.0,
+                    64.0
+                ],
+                [
+                    933.0,
+                    64.0
+                ],
+                [
+                    933.0,
+                    103.0
+                ],
+                [
+                    152.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "RESPONSE EVERYWHERE",
+            "confidence": 0.977,
+            "box": [
+                [
+                    230.0,
+                    124.0
+                ],
+                [
+                    837.0,
+                    124.0
+                ],
+                [
+                    837.0,
+                    164.0
+                ],
+                [
+                    230.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "AUDIENCE LOVING THE ACTION SCENES",
+            "confidence": 0.958,
+            "box": [
+                [
+                    42.0,
+                    187.0
+                ],
+                [
+                    1028.0,
+                    187.0
+                ],
+                [
+                    1028.0,
+                    226.0
+                ],
+                [
+                    42.0,
+                    226.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    38.0,
+                    939.0
+                ],
+                [
+                    191.0,
+                    941.0
+                ],
+                [
+                    191.0,
+                    962.0
+                ],
+                [
+                    38.0,
+                    960.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHIEKKADAMASS ACTION",
+            "confidence": 0.969,
+            "box": [
+                [
+                    149.0,
+                    1139.0
+                ],
+                [
+                    894.0,
+                    1139.0
+                ],
+                [
+                    894.0,
+                    1187.0
+                ],
+                [
+                    149.0,
+                    1187.0
+                ]
+            ]
+        },
+        {
+            "text": "SCENESRAMAWA",
+            "confidence": 0.994,
+            "box": [
+                [
+                    280.0,
+                    1203.0
+                ],
+                [
+                    761.0,
+                    1203.0
+                ],
+                [
+                    761.0,
+                    1254.0
+                ],
+                [
+                    280.0,
+                    1254.0
+                ]
+            ]
+        }
+    ]
+}

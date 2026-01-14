@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-03-13_16-38-02_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW\nV OF THE\nFILM \"DILRUBA\"\nFEEL GOOD 1ST HALF WITH LAUGHING\nMOMENTS AND GOOD INTERVAL BLOCK\nADDICTEDTOMEMES\nDECENT 2ND HALF WITH EMOTIONAL\nMOMENTS. OVERALL IT'S A GOOD\nAttempt from Team.\nFAMIlY WATCH ?! YES",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW",
+            "confidence": 0.971,
+            "box": [
+                [
+                    147.0,
+                    46.0
+                ],
+                [
+                    769.0,
+                    39.0
+                ],
+                [
+                    769.0,
+                    95.0
+                ],
+                [
+                    148.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "V OF THE",
+            "confidence": 0.988,
+            "box": [
+                [
+                    736.0,
+                    43.0
+                ],
+                [
+                    986.0,
+                    46.0
+                ],
+                [
+                    985.0,
+                    98.0
+                ],
+                [
+                    735.0,
+                    95.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM \"DILRUBA\"",
+            "confidence": 0.984,
+            "box": [
+                [
+                    339.0,
+                    120.0
+                ],
+                [
+                    793.0,
+                    120.0
+                ],
+                [
+                    793.0,
+                    170.0
+                ],
+                [
+                    339.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "FEEL GOOD 1ST HALF WITH LAUGHING",
+            "confidence": 0.945,
+            "box": [
+                [
+                    87.0,
+                    216.0
+                ],
+                [
+                    1005.0,
+                    216.0
+                ],
+                [
+                    1005.0,
+                    254.0
+                ],
+                [
+                    87.0,
+                    254.0
+                ]
+            ]
+        },
+        {
+            "text": "MOMENTS AND GOOD INTERVAL BLOCK",
+            "confidence": 0.959,
+            "box": [
+                [
+                    58.0,
+                    273.0
+                ],
+                [
+                    1025.0,
+                    273.0
+                ],
+                [
+                    1025.0,
+                    319.0
+                ],
+                [
+                    58.0,
+                    319.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    405.0,
+                    486.0
+                ],
+                [
+                    543.0,
+                    485.0
+                ],
+                [
+                    543.0,
+                    506.0
+                ],
+                [
+                    405.0,
+                    507.0
+                ]
+            ]
+        },
+        {
+            "text": "DECENT 2ND HALF WITH EMOTIONAL",
+            "confidence": 0.957,
+            "box": [
+                [
+                    83.0,
+                    1033.0
+                ],
+                [
+                    1027.0,
+                    1034.0
+                ],
+                [
+                    1027.0,
+                    1077.0
+                ],
+                [
+                    83.0,
+                    1076.0
+                ]
+            ]
+        },
+        {
+            "text": "MOMENTS. OVERALL IT'S A GOOD",
+            "confidence": 0.946,
+            "box": [
+                [
+                    110.0,
+                    1098.0
+                ],
+                [
+                    1000.0,
+                    1098.0
+                ],
+                [
+                    1000.0,
+                    1144.0
+                ],
+                [
+                    110.0,
+                    1144.0
+                ]
+            ]
+        },
+        {
+            "text": "Attempt from Team.",
+            "confidence": 0.73,
+            "box": [
+                [
+                    263.0,
+                    1164.0
+                ],
+                [
+                    840.0,
+                    1164.0
+                ],
+                [
+                    840.0,
+                    1206.0
+                ],
+                [
+                    263.0,
+                    1206.0
+                ]
+            ]
+        },
+        {
+            "text": "FAMIlY WATCH ?! YES",
+            "confidence": 0.822,
+            "box": [
+                [
+                    283.0,
+                    1226.0
+                ],
+                [
+                    824.0,
+                    1226.0
+                ],
+                [
+                    824.0,
+                    1272.0
+                ],
+                [
+                    283.0,
+                    1272.0
+                ]
+            ]
+        }
+    ]
+}

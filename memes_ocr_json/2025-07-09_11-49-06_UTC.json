@@ -1,0 +1,1062 @@
+{
+    "image_name": "2025-07-09_11-49-06_UTC.jpg",
+    "combined_text": "KUMAR 21F MOVIE TEAM IS JOINING FOR\nTOMMOROW SHOW AT SUDARSHAN 8AM\nSukumay\nADITYA\nSukumay\nADITYAFC\nwritings\nwritings\nTHE STARS ARE COMING!\nTHE STARS ARE COMING\nCATCH RAJ TARUN.HEBAH PATEL.NOEL,\nCATCH RAJ TARUN.HEBAH PATEL.NOEL,\nNAUEEN NENU AND THE KUMARI 21F TEAM LIUE!\nNAUEEN NENU AND THE KUMARI 2IF TEAM LIUE!\nO\nO\nAT SUDARSHAN 35MM.RTC X ROADS\nAT SUDARSHAN 35MM.RTC X ROADS\n8:OO AM SHOWJULV 1OTH\n8:OO AM SHOWJULV IOTH\nDirector\nDirector\nPalnanl Surya Pr\nPalmani Surya Prata\nRERELEASING!\nRERELEASING ON\nJULY 10\nJOL!\nBersr\n21F\n21F\nDevi Sri Prasad R.Rathnavelu Palnat Surya Pratap\nDevi Sri Prasad R.Rathnavelu Palnati Surya Pratap\nVjaye Prasad Bandreds\n y\nViaya Prad Bandred\nThomas Reddy Adar\nB.Rarachandrs Snigh\nHar Rats\nPotari Ver\nB.mca i\nAm edty\nPaaiVe\nVARAHIFILD\nVARAHI FILMS\nADDICTEDTOMEMES\nREPU RE RELEASE KI MOVIE TEAM VASTHUNDI\nANTA PADHANDI MAWA VELDHAM",
+    "detailed": [
+        {
+            "text": "KUMAR 21F MOVIE TEAM IS JOINING FOR",
+            "confidence": 0.927,
+            "box": [
+                [
+                    93.0,
+                    54.0
+                ],
+                [
+                    1034.0,
+                    54.0
+                ],
+                [
+                    1034.0,
+                    96.0
+                ],
+                [
+                    93.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "TOMMOROW SHOW AT SUDARSHAN 8AM",
+            "confidence": 0.935,
+            "box": [
+                [
+                    89.0,
+                    109.0
+                ],
+                [
+                    1025.0,
+                    109.0
+                ],
+                [
+                    1025.0,
+                    151.0
+                ],
+                [
+                    89.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "Sukumay",
+            "confidence": 0.842,
+            "box": [
+                [
+                    17.0,
+                    208.0
+                ],
+                [
+                    138.0,
+                    208.0
+                ],
+                [
+                    138.0,
+                    247.0
+                ],
+                [
+                    17.0,
+                    247.0
+                ]
+            ]
+        },
+        {
+            "text": "ADITYA",
+            "confidence": 0.974,
+            "box": [
+                [
+                    456.0,
+                    215.0
+                ],
+                [
+                    516.0,
+                    215.0
+                ],
+                [
+                    516.0,
+                    233.0
+                ],
+                [
+                    456.0,
+                    233.0
+                ]
+            ]
+        },
+        {
+            "text": "Sukumay",
+            "confidence": 0.821,
+            "box": [
+                [
+                    558.0,
+                    212.0
+                ],
+                [
+                    669.0,
+                    212.0
+                ],
+                [
+                    669.0,
+                    243.0
+                ],
+                [
+                    558.0,
+                    243.0
+                ]
+            ]
+        },
+        {
+            "text": "ADITYAFC",
+            "confidence": 0.884,
+            "box": [
+                [
+                    979.0,
+                    213.0
+                ],
+                [
+                    1076.0,
+                    213.0
+                ],
+                [
+                    1076.0,
+                    240.0
+                ],
+                [
+                    979.0,
+                    240.0
+                ]
+            ]
+        },
+        {
+            "text": "writings",
+            "confidence": 0.989,
+            "box": [
+                [
+                    39.0,
+                    234.0
+                ],
+                [
+                    111.0,
+                    237.0
+                ],
+                [
+                    111.0,
+                    255.0
+                ],
+                [
+                    38.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "text": "writings",
+            "confidence": 0.987,
+            "box": [
+                [
+                    574.0,
+                    234.0
+                ],
+                [
+                    646.0,
+                    237.0
+                ],
+                [
+                    645.0,
+                    255.0
+                ],
+                [
+                    573.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "text": "THE STARS ARE COMING!",
+            "confidence": 0.912,
+            "box": [
+                [
+                    31.0,
+                    263.0
+                ],
+                [
+                    538.0,
+                    261.0
+                ],
+                [
+                    539.0,
+                    298.0
+                ],
+                [
+                    31.0,
+                    301.0
+                ]
+            ]
+        },
+        {
+            "text": "THE STARS ARE COMING",
+            "confidence": 0.939,
+            "box": [
+                [
+                    568.0,
+                    262.0
+                ],
+                [
+                    1063.0,
+                    261.0
+                ],
+                [
+                    1063.0,
+                    300.0
+                ],
+                [
+                    568.0,
+                    301.0
+                ]
+            ]
+        },
+        {
+            "text": "CATCH RAJ TARUN.HEBAH PATEL.NOEL,",
+            "confidence": 0.929,
+            "box": [
+                [
+                    98.0,
+                    308.0
+                ],
+                [
+                    474.0,
+                    308.0
+                ],
+                [
+                    474.0,
+                    329.0
+                ],
+                [
+                    98.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "CATCH RAJ TARUN.HEBAH PATEL.NOEL,",
+            "confidence": 0.909,
+            "box": [
+                [
+                    633.0,
+                    308.0
+                ],
+                [
+                    1000.0,
+                    308.0
+                ],
+                [
+                    1000.0,
+                    329.0
+                ],
+                [
+                    633.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "NAUEEN NENU AND THE KUMARI 21F TEAM LIUE!",
+            "confidence": 0.912,
+            "box": [
+                [
+                    65.0,
+                    329.0
+                ],
+                [
+                    508.0,
+                    329.0
+                ],
+                [
+                    508.0,
+                    354.0
+                ],
+                [
+                    65.0,
+                    354.0
+                ]
+            ]
+        },
+        {
+            "text": "NAUEEN NENU AND THE KUMARI 2IF TEAM LIUE!",
+            "confidence": 0.901,
+            "box": [
+                [
+                    602.0,
+                    329.0
+                ],
+                [
+                    1034.0,
+                    329.0
+                ],
+                [
+                    1034.0,
+                    354.0
+                ],
+                [
+                    602.0,
+                    354.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.635,
+            "box": [
+                [
+                    262.0,
+                    360.0
+                ],
+                [
+                    284.0,
+                    360.0
+                ],
+                [
+                    284.0,
+                    383.0
+                ],
+                [
+                    262.0,
+                    383.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.596,
+            "box": [
+                [
+                    793.0,
+                    360.0
+                ],
+                [
+                    814.0,
+                    360.0
+                ],
+                [
+                    814.0,
+                    385.0
+                ],
+                [
+                    793.0,
+                    385.0
+                ]
+            ]
+        },
+        {
+            "text": "AT SUDARSHAN 35MM.RTC X ROADS",
+            "confidence": 0.874,
+            "box": [
+                [
+                    115.0,
+                    385.0
+                ],
+                [
+                    429.0,
+                    383.0
+                ],
+                [
+                    429.0,
+                    408.0
+                ],
+                [
+                    115.0,
+                    410.0
+                ]
+            ]
+        },
+        {
+            "text": "AT SUDARSHAN 35MM.RTC X ROADS",
+            "confidence": 0.871,
+            "box": [
+                [
+                    651.0,
+                    385.0
+                ],
+                [
+                    956.0,
+                    383.0
+                ],
+                [
+                    956.0,
+                    408.0
+                ],
+                [
+                    651.0,
+                    410.0
+                ]
+            ]
+        },
+        {
+            "text": "8:OO AM SHOWJULV 1OTH",
+            "confidence": 0.826,
+            "box": [
+                [
+                    159.0,
+                    408.0
+                ],
+                [
+                    388.0,
+                    408.0
+                ],
+                [
+                    388.0,
+                    429.0
+                ],
+                [
+                    159.0,
+                    429.0
+                ]
+            ]
+        },
+        {
+            "text": "8:OO AM SHOWJULV IOTH",
+            "confidence": 0.843,
+            "box": [
+                [
+                    693.0,
+                    407.0
+                ],
+                [
+                    917.0,
+                    407.0
+                ],
+                [
+                    917.0,
+                    428.0
+                ],
+                [
+                    693.0,
+                    428.0
+                ]
+            ]
+        },
+        {
+            "text": "Director",
+            "confidence": 0.914,
+            "box": [
+                [
+                    472.0,
+                    447.0
+                ],
+                [
+                    522.0,
+                    447.0
+                ],
+                [
+                    522.0,
+                    466.0
+                ],
+                [
+                    472.0,
+                    466.0
+                ]
+            ]
+        },
+        {
+            "text": "Director",
+            "confidence": 0.938,
+            "box": [
+                [
+                    1000.0,
+                    447.0
+                ],
+                [
+                    1045.0,
+                    447.0
+                ],
+                [
+                    1045.0,
+                    466.0
+                ],
+                [
+                    1000.0,
+                    466.0
+                ]
+            ]
+        },
+        {
+            "text": "Palnanl Surya Pr",
+            "confidence": 0.851,
+            "box": [
+                [
+                    426.0,
+                    461.0
+                ],
+                [
+                    541.0,
+                    461.0
+                ],
+                [
+                    541.0,
+                    482.0
+                ],
+                [
+                    426.0,
+                    482.0
+                ]
+            ]
+        },
+        {
+            "text": "Palmani Surya Prata",
+            "confidence": 0.867,
+            "box": [
+                [
+                    953.0,
+                    461.0
+                ],
+                [
+                    1079.0,
+                    461.0
+                ],
+                [
+                    1079.0,
+                    482.0
+                ],
+                [
+                    953.0,
+                    482.0
+                ]
+            ]
+        },
+        {
+            "text": "RERELEASING!",
+            "confidence": 0.935,
+            "box": [
+                [
+                    430.0,
+                    489.0
+                ],
+                [
+                    541.0,
+                    488.0
+                ],
+                [
+                    542.0,
+                    509.0
+                ],
+                [
+                    430.0,
+                    510.0
+                ]
+            ]
+        },
+        {
+            "text": "RERELEASING ON",
+            "confidence": 0.874,
+            "box": [
+                [
+                    955.0,
+                    489.0
+                ],
+                [
+                    1079.0,
+                    489.0
+                ],
+                [
+                    1079.0,
+                    510.0
+                ],
+                [
+                    955.0,
+                    510.0
+                ]
+            ]
+        },
+        {
+            "text": "JULY 10",
+            "confidence": 0.861,
+            "box": [
+                [
+                    420.0,
+                    506.0
+                ],
+                [
+                    540.0,
+                    506.0
+                ],
+                [
+                    540.0,
+                    541.0
+                ],
+                [
+                    420.0,
+                    541.0
+                ]
+            ]
+        },
+        {
+            "text": "JOL!",
+            "confidence": 0.702,
+            "box": [
+                [
+                    952.0,
+                    513.0
+                ],
+                [
+                    1012.0,
+                    513.0
+                ],
+                [
+                    1012.0,
+                    535.0
+                ],
+                [
+                    952.0,
+                    535.0
+                ]
+            ]
+        },
+        {
+            "text": "Bersr",
+            "confidence": 0.719,
+            "box": [
+                [
+                    746.0,
+                    667.0
+                ],
+                [
+                    912.0,
+                    671.0
+                ],
+                [
+                    910.0,
+                    724.0
+                ],
+                [
+                    745.0,
+                    720.0
+                ]
+            ]
+        },
+        {
+            "text": "21F",
+            "confidence": 0.984,
+            "box": [
+                [
+                    180.0,
+                    730.0
+                ],
+                [
+                    395.0,
+                    730.0
+                ],
+                [
+                    395.0,
+                    840.0
+                ],
+                [
+                    180.0,
+                    840.0
+                ]
+            ]
+        },
+        {
+            "text": "21F",
+            "confidence": 0.988,
+            "box": [
+                [
+                    712.0,
+                    729.0
+                ],
+                [
+                    924.0,
+                    729.0
+                ],
+                [
+                    924.0,
+                    840.0
+                ],
+                [
+                    712.0,
+                    840.0
+                ]
+            ]
+        },
+        {
+            "text": "Devi Sri Prasad R.Rathnavelu Palnat Surya Pratap",
+            "confidence": 0.916,
+            "box": [
+                [
+                    125.0,
+                    838.0
+                ],
+                [
+                    447.0,
+                    838.0
+                ],
+                [
+                    447.0,
+                    859.0
+                ],
+                [
+                    125.0,
+                    859.0
+                ]
+            ]
+        },
+        {
+            "text": "Devi Sri Prasad R.Rathnavelu Palnati Surya Pratap",
+            "confidence": 0.912,
+            "box": [
+                [
+                    661.0,
+                    839.0
+                ],
+                [
+                    972.0,
+                    839.0
+                ],
+                [
+                    972.0,
+                    860.0
+                ],
+                [
+                    661.0,
+                    860.0
+                ]
+            ]
+        },
+        {
+            "text": "Vjaye Prasad Bandreds",
+            "confidence": 0.862,
+            "box": [
+                [
+                    167.0,
+                    854.0
+                ],
+                [
+                    290.0,
+                    853.0
+                ],
+                [
+                    290.0,
+                    871.0
+                ],
+                [
+                    167.0,
+                    873.0
+                ]
+            ]
+        },
+        {
+            "text": " y",
+            "confidence": 0.552,
+            "box": [
+                [
+                    285.0,
+                    853.0
+                ],
+                [
+                    405.0,
+                    853.0
+                ],
+                [
+                    405.0,
+                    874.0
+                ],
+                [
+                    285.0,
+                    874.0
+                ]
+            ]
+        },
+        {
+            "text": "Viaya Prad Bandred",
+            "confidence": 0.75,
+            "box": [
+                [
+                    700.0,
+                    855.0
+                ],
+                [
+                    822.0,
+                    851.0
+                ],
+                [
+                    823.0,
+                    872.0
+                ],
+                [
+                    701.0,
+                    875.0
+                ]
+            ]
+        },
+        {
+            "text": "Thomas Reddy Adar",
+            "confidence": 0.747,
+            "box": [
+                [
+                    820.0,
+                    854.0
+                ],
+                [
+                    930.0,
+                    854.0
+                ],
+                [
+                    930.0,
+                    871.0
+                ],
+                [
+                    820.0,
+                    871.0
+                ]
+            ]
+        },
+        {
+            "text": "B.Rarachandrs Snigh",
+            "confidence": 0.719,
+            "box": [
+                [
+                    172.0,
+                    871.0
+                ],
+                [
+                    264.0,
+                    871.0
+                ],
+                [
+                    264.0,
+                    888.0
+                ],
+                [
+                    172.0,
+                    888.0
+                ]
+            ]
+        },
+        {
+            "text": "Har Rats",
+            "confidence": 0.537,
+            "box": [
+                [
+                    270.0,
+                    871.0
+                ],
+                [
+                    335.0,
+                    871.0
+                ],
+                [
+                    335.0,
+                    888.0
+                ],
+                [
+                    270.0,
+                    888.0
+                ]
+            ]
+        },
+        {
+            "text": "Potari Ver",
+            "confidence": 0.643,
+            "box": [
+                [
+                    335.0,
+                    871.0
+                ],
+                [
+                    399.0,
+                    871.0
+                ],
+                [
+                    399.0,
+                    888.0
+                ],
+                [
+                    335.0,
+                    888.0
+                ]
+            ]
+        },
+        {
+            "text": "B.mca i",
+            "confidence": 0.568,
+            "box": [
+                [
+                    705.0,
+                    872.0
+                ],
+                [
+                    797.0,
+                    872.0
+                ],
+                [
+                    797.0,
+                    889.0
+                ],
+                [
+                    705.0,
+                    889.0
+                ]
+            ]
+        },
+        {
+            "text": "Am edty",
+            "confidence": 0.66,
+            "box": [
+                [
+                    802.0,
+                    872.0
+                ],
+                [
+                    861.0,
+                    872.0
+                ],
+                [
+                    861.0,
+                    889.0
+                ],
+                [
+                    802.0,
+                    889.0
+                ]
+            ]
+        },
+        {
+            "text": "PaaiVe",
+            "confidence": 0.559,
+            "box": [
+                [
+                    861.0,
+                    872.0
+                ],
+                [
+                    927.0,
+                    872.0
+                ],
+                [
+                    927.0,
+                    889.0
+                ],
+                [
+                    861.0,
+                    889.0
+                ]
+            ]
+        },
+        {
+            "text": "VARAHIFILD",
+            "confidence": 0.881,
+            "box": [
+                [
+                    451.0,
+                    884.0
+                ],
+                [
+                    543.0,
+                    884.0
+                ],
+                [
+                    543.0,
+                    906.0
+                ],
+                [
+                    451.0,
+                    906.0
+                ]
+            ]
+        },
+        {
+            "text": "VARAHI FILMS",
+            "confidence": 0.935,
+            "box": [
+                [
+                    977.0,
+                    884.0
+                ],
+                [
+                    1079.0,
+                    884.0
+                ],
+                [
+                    1079.0,
+                    906.0
+                ],
+                [
+                    977.0,
+                    906.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    11.0,
+                    1054.0
+                ],
+                [
+                    183.0,
+                    1054.0
+                ],
+                [
+                    183.0,
+                    1075.0
+                ],
+                [
+                    11.0,
+                    1075.0
+                ]
+            ]
+        },
+        {
+            "text": "REPU RE RELEASE KI MOVIE TEAM VASTHUNDI",
+            "confidence": 0.935,
+            "box": [
+                [
+                    76.0,
+                    1239.0
+                ],
+                [
+                    993.0,
+                    1239.0
+                ],
+                [
+                    993.0,
+                    1272.0
+                ],
+                [
+                    76.0,
+                    1272.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTA PADHANDI MAWA VELDHAM",
+            "confidence": 0.945,
+            "box": [
+                [
+                    193.0,
+                    1289.0
+                ],
+                [
+                    879.0,
+                    1289.0
+                ],
+                [
+                    879.0,
+                    1323.0
+                ],
+                [
+                    193.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

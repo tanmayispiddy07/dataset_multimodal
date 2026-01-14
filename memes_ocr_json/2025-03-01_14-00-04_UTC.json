@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-01_14-00-04_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF \"SHIVANGI\"\nMOVIE RELEASING ON MARCH 7TH\nADDICTEDTOMEMES\nSIR TRAILER SIR\nJUST PHONE CALLS THONE THRILLING GA\nCREATE CHESARU OKA APARTMENT LONE",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF \"SHIVANGI\"",
+            "confidence": 0.944,
+            "box": [
+                [
+                    80.0,
+                    70.0
+                ],
+                [
+                    1015.0,
+                    70.0
+                ],
+                [
+                    1015.0,
+                    107.0
+                ],
+                [
+                    80.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON MARCH 7TH",
+            "confidence": 0.98,
+            "box": [
+                [
+                    107.0,
+                    128.0
+                ],
+                [
+                    976.0,
+                    128.0
+                ],
+                [
+                    976.0,
+                    170.0
+                ],
+                [
+                    107.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    42.0,
+                    1073.0
+                ],
+                [
+                    202.0,
+                    1073.0
+                ],
+                [
+                    202.0,
+                    1098.0
+                ],
+                [
+                    42.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "SIR TRAILER SIR",
+            "confidence": 0.947,
+            "box": [
+                [
+                    283.0,
+                    1183.0
+                ],
+                [
+                    598.0,
+                    1183.0
+                ],
+                [
+                    598.0,
+                    1221.0
+                ],
+                [
+                    283.0,
+                    1221.0
+                ]
+            ]
+        },
+        {
+            "text": "JUST PHONE CALLS THONE THRILLING GA",
+            "confidence": 0.937,
+            "box": [
+                [
+                    31.0,
+                    1232.0
+                ],
+                [
+                    861.0,
+                    1233.0
+                ],
+                [
+                    861.0,
+                    1268.0
+                ],
+                [
+                    31.0,
+                    1267.0
+                ]
+            ]
+        },
+        {
+            "text": "CREATE CHESARU OKA APARTMENT LONE",
+            "confidence": 0.957,
+            "box": [
+                [
+                    30.0,
+                    1282.0
+                ],
+                [
+                    861.0,
+                    1282.0
+                ],
+                [
+                    861.0,
+                    1320.0
+                ],
+                [
+                    30.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

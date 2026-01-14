@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-07-12_13-39-23_UTC_12.jpg",
+    "combined_text": "Nicky Hilton and James Rothschild",
+    "detailed": [
+        {
+            "text": "Nicky Hilton and James Rothschild",
+            "confidence": 0.975,
+            "box": [
+                [
+                    104.0,
+                    1267.0
+                ],
+                [
+                    977.0,
+                    1267.0
+                ],
+                [
+                    977.0,
+                    1317.0
+                ],
+                [
+                    104.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

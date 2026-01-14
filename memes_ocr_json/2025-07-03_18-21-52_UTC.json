@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-07-03_18-21-52_UTC.jpg",
+    "combined_text": "ELGAR\n64\nPitches in Australia, India\nand South Africa\nsarcasm\nPitches in England and Pakistan",
+    "detailed": [
+        {
+            "text": "ELGAR",
+            "confidence": 0.988,
+            "box": [
+                [
+                    167.0,
+                    408.0
+                ],
+                [
+                    217.0,
+                    397.0
+                ],
+                [
+                    221.0,
+                    417.0
+                ],
+                [
+                    171.0,
+                    428.0
+                ]
+            ]
+        },
+        {
+            "text": "64",
+            "confidence": 0.994,
+            "box": [
+                [
+                    174.0,
+                    422.0
+                ],
+                [
+                    221.0,
+                    417.0
+                ],
+                [
+                    225.0,
+                    454.0
+                ],
+                [
+                    178.0,
+                    458.0
+                ]
+            ]
+        },
+        {
+            "text": "Pitches in Australia, India",
+            "confidence": 0.949,
+            "box": [
+                [
+                    160.0,
+                    498.0
+                ],
+                [
+                    918.0,
+                    501.0
+                ],
+                [
+                    918.0,
+                    559.0
+                ],
+                [
+                    160.0,
+                    556.0
+                ]
+            ]
+        },
+        {
+            "text": "and South Africa",
+            "confidence": 0.97,
+            "box": [
+                [
+                    262.0,
+                    587.0
+                ],
+                [
+                    754.0,
+                    587.0
+                ],
+                [
+                    754.0,
+                    636.0
+                ],
+                [
+                    262.0,
+                    636.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.999,
+            "box": [
+                [
+                    482.0,
+                    1214.0
+                ],
+                [
+                    599.0,
+                    1214.0
+                ],
+                [
+                    599.0,
+                    1236.0
+                ],
+                [
+                    482.0,
+                    1236.0
+                ]
+            ]
+        },
+        {
+            "text": "Pitches in England and Pakistan",
+            "confidence": 0.999,
+            "box": [
+                [
+                    28.0,
+                    1254.0
+                ],
+                [
+                    987.0,
+                    1256.0
+                ],
+                [
+                    987.0,
+                    1313.0
+                ],
+                [
+                    28.0,
+                    1312.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-04-25_07-16-00_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE\nFILM \"GYMKHANA\"\nWATCHED LAST NIGHT TELUGUPREMIER WHOLE\nHEARTEDLY ENJOYED ESPECIALLY TELUGU\nDUBBING AITHE THE BEST ASALU PRESENT\nTRENDING ANNI USE CHESI THE BEST ICHARU\nFRIENDS THONE VELLI MANCHIGA ENJOY\nCHEYYOCHU E MOVIE CHUSTHU CHALA ANTE\nCHALA BAGUNDI LOVED THE FILM\nMY BEST FILMSIN APRIL\nKESARI2& GYMKHANA\nTHE REASON WHY ILOVE MALAYALAM MOVIES\nONE OF THE BEST EXAMPLE THIS MOVIE",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE",
+            "confidence": 0.922,
+            "box": [
+                [
+                    201.0,
+                    17.0
+                ],
+                [
+                    928.0,
+                    17.0
+                ],
+                [
+                    928.0,
+                    59.0
+                ],
+                [
+                    201.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM \"GYMKHANA\"",
+            "confidence": 0.934,
+            "box": [
+                [
+                    315.0,
+                    79.0
+                ],
+                [
+                    797.0,
+                    79.0
+                ],
+                [
+                    797.0,
+                    125.0
+                ],
+                [
+                    315.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "WATCHED LAST NIGHT TELUGUPREMIER WHOLE",
+            "confidence": 0.953,
+            "box": [
+                [
+                    87.0,
+                    166.0
+                ],
+                [
+                    1041.0,
+                    166.0
+                ],
+                [
+                    1041.0,
+                    199.0
+                ],
+                [
+                    87.0,
+                    199.0
+                ]
+            ]
+        },
+        {
+            "text": "HEARTEDLY ENJOYED ESPECIALLY TELUGU",
+            "confidence": 0.962,
+            "box": [
+                [
+                    141.0,
+                    215.0
+                ],
+                [
+                    983.0,
+                    215.0
+                ],
+                [
+                    983.0,
+                    248.0
+                ],
+                [
+                    141.0,
+                    248.0
+                ]
+            ]
+        },
+        {
+            "text": "DUBBING AITHE THE BEST ASALU PRESENT",
+            "confidence": 0.941,
+            "box": [
+                [
+                    143.0,
+                    265.0
+                ],
+                [
+                    983.0,
+                    265.0
+                ],
+                [
+                    983.0,
+                    298.0
+                ],
+                [
+                    143.0,
+                    298.0
+                ]
+            ]
+        },
+        {
+            "text": "TRENDING ANNI USE CHESI THE BEST ICHARU",
+            "confidence": 0.931,
+            "box": [
+                [
+                    114.0,
+                    314.0
+                ],
+                [
+                    1008.0,
+                    315.0
+                ],
+                [
+                    1008.0,
+                    350.0
+                ],
+                [
+                    114.0,
+                    348.0
+                ]
+            ]
+        },
+        {
+            "text": "FRIENDS THONE VELLI MANCHIGA ENJOY",
+            "confidence": 0.949,
+            "box": [
+                [
+                    139.0,
+                    995.0
+                ],
+                [
+                    972.0,
+                    995.0
+                ],
+                [
+                    972.0,
+                    1029.0
+                ],
+                [
+                    139.0,
+                    1029.0
+                ]
+            ]
+        },
+        {
+            "text": "CHEYYOCHU E MOVIE CHUSTHU CHALA ANTE",
+            "confidence": 0.935,
+            "box": [
+                [
+                    107.0,
+                    1043.0
+                ],
+                [
+                    1010.0,
+                    1044.0
+                ],
+                [
+                    1010.0,
+                    1079.0
+                ],
+                [
+                    107.0,
+                    1077.0
+                ]
+            ]
+        },
+        {
+            "text": "CHALA BAGUNDI LOVED THE FILM",
+            "confidence": 0.934,
+            "box": [
+                [
+                    218.0,
+                    1093.0
+                ],
+                [
+                    893.0,
+                    1093.0
+                ],
+                [
+                    893.0,
+                    1126.0
+                ],
+                [
+                    218.0,
+                    1126.0
+                ]
+            ]
+        },
+        {
+            "text": "MY BEST FILMSIN APRIL",
+            "confidence": 0.937,
+            "box": [
+                [
+                    314.0,
+                    1143.0
+                ],
+                [
+                    789.0,
+                    1143.0
+                ],
+                [
+                    789.0,
+                    1176.0
+                ],
+                [
+                    314.0,
+                    1176.0
+                ]
+            ]
+        },
+        {
+            "text": "KESARI2& GYMKHANA",
+            "confidence": 0.97,
+            "box": [
+                [
+                    322.0,
+                    1192.0
+                ],
+                [
+                    783.0,
+                    1192.0
+                ],
+                [
+                    783.0,
+                    1225.0
+                ],
+                [
+                    322.0,
+                    1225.0
+                ]
+            ]
+        },
+        {
+            "text": "THE REASON WHY ILOVE MALAYALAM MOVIES",
+            "confidence": 0.946,
+            "box": [
+                [
+                    86.0,
+                    1240.0
+                ],
+                [
+                    1021.0,
+                    1240.0
+                ],
+                [
+                    1021.0,
+                    1274.0
+                ],
+                [
+                    86.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "ONE OF THE BEST EXAMPLE THIS MOVIE",
+            "confidence": 0.935,
+            "box": [
+                [
+                    156.0,
+                    1285.0
+                ],
+                [
+                    952.0,
+                    1288.0
+                ],
+                [
+                    952.0,
+                    1326.0
+                ],
+                [
+                    156.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

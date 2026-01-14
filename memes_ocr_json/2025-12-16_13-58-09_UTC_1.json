@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-12-16_13-58-09_UTC_1.jpg",
+    "combined_text": "FIGHT BETWEEN 2 GUYS AFTER LOVING ONE GIRL\nSLIDE>>>\nTO KNOW THE FULL STORY\nADDICTEDTOMEME\nVARSHAM",
+    "detailed": [
+        {
+            "text": "FIGHT BETWEEN 2 GUYS AFTER LOVING ONE GIRL",
+            "confidence": 0.932,
+            "box": [
+                [
+                    48.0,
+                    46.0
+                ],
+                [
+                    1049.0,
+                    47.0
+                ],
+                [
+                    1049.0,
+                    89.0
+                ],
+                [
+                    48.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "SLIDE>>>",
+            "confidence": 0.97,
+            "box": [
+                [
+                    449.0,
+                    99.0
+                ],
+                [
+                    638.0,
+                    99.0
+                ],
+                [
+                    638.0,
+                    134.0
+                ],
+                [
+                    449.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "TO KNOW THE FULL STORY",
+            "confidence": 0.987,
+            "box": [
+                [
+                    283.0,
+                    145.0
+                ],
+                [
+                    814.0,
+                    146.0
+                ],
+                [
+                    814.0,
+                    185.0
+                ],
+                [
+                    283.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEME",
+            "confidence": 0.996,
+            "box": [
+                [
+                    921.0,
+                    395.0
+                ],
+                [
+                    1077.0,
+                    391.0
+                ],
+                [
+                    1077.0,
+                    412.0
+                ],
+                [
+                    921.0,
+                    415.0
+                ]
+            ]
+        },
+        {
+            "text": "VARSHAM",
+            "confidence": 0.995,
+            "box": [
+                [
+                    716.0,
+                    906.0
+                ],
+                [
+                    1059.0,
+                    906.0
+                ],
+                [
+                    1059.0,
+                    1002.0
+                ],
+                [
+                    716.0,
+                    1002.0
+                ]
+            ]
+        }
+    ]
+}

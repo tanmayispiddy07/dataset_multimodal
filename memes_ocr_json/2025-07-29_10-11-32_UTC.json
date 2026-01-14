@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-07-29_10-11-32_UTC.jpg",
+    "combined_text": "RAGILE RAGILE LYRICAL VIDEO\nSONG FROM KINGDOM\nMOVIE RELEASING ON JULY 31ST\nADDICTEDTOMEMES\nNANIRUDH MUSICAL\n*ME WHILE LISTENING\nTHOSELYRICS",
+    "detailed": [
+        {
+            "text": "RAGILE RAGILE LYRICAL VIDEO",
+            "confidence": 0.961,
+            "box": [
+                [
+                    195.0,
+                    20.0
+                ],
+                [
+                    883.0,
+                    20.0
+                ],
+                [
+                    883.0,
+                    57.0
+                ],
+                [
+                    195.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG FROM KINGDOM",
+            "confidence": 0.951,
+            "box": [
+                [
+                    277.0,
+                    74.0
+                ],
+                [
+                    792.0,
+                    74.0
+                ],
+                [
+                    792.0,
+                    112.0
+                ],
+                [
+                    277.0,
+                    112.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON JULY 31ST",
+            "confidence": 0.951,
+            "box": [
+                [
+                    179.0,
+                    128.0
+                ],
+                [
+                    899.0,
+                    128.0
+                ],
+                [
+                    899.0,
+                    166.0
+                ],
+                [
+                    179.0,
+                    166.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.988,
+            "box": [
+                [
+                    435.0,
+                    341.0
+                ],
+                [
+                    600.0,
+                    341.0
+                ],
+                [
+                    600.0,
+                    362.0
+                ],
+                [
+                    435.0,
+                    362.0
+                ]
+            ]
+        },
+        {
+            "text": "NANIRUDH MUSICAL",
+            "confidence": 0.909,
+            "box": [
+                [
+                    4.0,
+                    733.0
+                ],
+                [
+                    473.0,
+                    581.0
+                ],
+                [
+                    506.0,
+                    679.0
+                ],
+                [
+                    36.0,
+                    831.0
+                ]
+            ]
+        },
+        {
+            "text": "*ME WHILE LISTENING",
+            "confidence": 0.96,
+            "box": [
+                [
+                    394.0,
+                    951.0
+                ],
+                [
+                    807.0,
+                    951.0
+                ],
+                [
+                    807.0,
+                    988.0
+                ],
+                [
+                    394.0,
+                    988.0
+                ]
+            ]
+        },
+        {
+            "text": "THOSELYRICS",
+            "confidence": 0.997,
+            "box": [
+                [
+                    456.0,
+                    997.0
+                ],
+                [
+                    723.0,
+                    997.0
+                ],
+                [
+                    723.0,
+                    1034.0
+                ],
+                [
+                    456.0,
+                    1034.0
+                ]
+            ]
+        }
+    ]
+}

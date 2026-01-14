@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-08-11_08-59-35_UTC.jpg",
+    "combined_text": "PASI MANASE LYRICAL VIDEO\nSONG FROM KAANTHA\nADDICTEDTOMEMES\nSONGLOOKA SOULUNDI",
+    "detailed": [
+        {
+            "text": "PASI MANASE LYRICAL VIDEO",
+            "confidence": 0.969,
+            "box": [
+                [
+                    105.0,
+                    63.0
+                ],
+                [
+                    939.0,
+                    63.0
+                ],
+                [
+                    939.0,
+                    109.0
+                ],
+                [
+                    105.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG FROM KAANTHA",
+            "confidence": 0.954,
+            "box": [
+                [
+                    191.0,
+                    130.0
+                ],
+                [
+                    849.0,
+                    133.0
+                ],
+                [
+                    849.0,
+                    182.0
+                ],
+                [
+                    191.0,
+                    179.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.984,
+            "box": [
+                [
+                    433.0,
+                    1066.0
+                ],
+                [
+                    562.0,
+                    1066.0
+                ],
+                [
+                    562.0,
+                    1082.0
+                ],
+                [
+                    433.0,
+                    1082.0
+                ]
+            ]
+        },
+        {
+            "text": "SONGLOOKA SOULUNDI",
+            "confidence": 0.979,
+            "box": [
+                [
+                    159.0,
+                    1256.0
+                ],
+                [
+                    939.0,
+                    1256.0
+                ],
+                [
+                    939.0,
+                    1310.0
+                ],
+                [
+                    159.0,
+                    1310.0
+                ]
+            ]
+        }
+    ]
+}

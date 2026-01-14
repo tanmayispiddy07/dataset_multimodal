@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-05_07-07-22_UTC.jpg",
+    "combined_text": "STEVE SMITH HAS ANNOUNCED HIS\nRETIREMENT FROM ODI CRICKET\nADDICTEDTOMEMES\nAUSTRAL\n**SMITH FOR HIS TEAM",
+    "detailed": [
+        {
+            "text": "STEVE SMITH HAS ANNOUNCED HIS",
+            "confidence": 0.961,
+            "box": [
+                [
+                    122.0,
+                    59.0
+                ],
+                [
+                    1011.0,
+                    59.0
+                ],
+                [
+                    1011.0,
+                    105.0
+                ],
+                [
+                    122.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "RETIREMENT FROM ODI CRICKET",
+            "confidence": 0.967,
+            "box": [
+                [
+                    162.0,
+                    118.0
+                ],
+                [
+                    973.0,
+                    118.0
+                ],
+                [
+                    973.0,
+                    169.0
+                ],
+                [
+                    162.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    446.0,
+                    386.0
+                ],
+                [
+                    601.0,
+                    388.0
+                ],
+                [
+                    600.0,
+                    410.0
+                ],
+                [
+                    446.0,
+                    408.0
+                ]
+            ]
+        },
+        {
+            "text": "AUSTRAL",
+            "confidence": 0.991,
+            "box": [
+                [
+                    808.0,
+                    676.0
+                ],
+                [
+                    981.0,
+                    727.0
+                ],
+                [
+                    961.0,
+                    794.0
+                ],
+                [
+                    788.0,
+                    743.0
+                ]
+            ]
+        },
+        {
+            "text": "**SMITH FOR HIS TEAM",
+            "confidence": 0.988,
+            "box": [
+                [
+                    247.0,
+                    1264.0
+                ],
+                [
+                    851.0,
+                    1271.0
+                ],
+                [
+                    850.0,
+                    1335.0
+                ],
+                [
+                    246.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

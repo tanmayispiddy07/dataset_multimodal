@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-06-19_03-40-00_UTC.jpg",
+    "combined_text": "Only legends know the owner\nof this Van\nsarcasm",
+    "detailed": [
+        {
+            "text": "Only legends know the owner",
+            "confidence": 0.998,
+            "box": [
+                [
+                    60.0,
+                    61.0
+                ],
+                [
+                    1028.0,
+                    54.0
+                ],
+                [
+                    1028.0,
+                    124.0
+                ],
+                [
+                    61.0,
+                    130.0
+                ]
+            ]
+        },
+        {
+            "text": "of this Van",
+            "confidence": 0.999,
+            "box": [
+                [
+                    290.0,
+                    158.0
+                ],
+                [
+                    706.0,
+                    155.0
+                ],
+                [
+                    706.0,
+                    212.0
+                ],
+                [
+                    291.0,
+                    215.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.999,
+            "box": [
+                [
+                    869.0,
+                    641.0
+                ],
+                [
+                    978.0,
+                    641.0
+                ],
+                [
+                    978.0,
+                    664.0
+                ],
+                [
+                    869.0,
+                    664.0
+                ]
+            ]
+        }
+    ]
+}

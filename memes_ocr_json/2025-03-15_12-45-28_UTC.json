@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-03-15_12-45-28_UTC.jpg",
+    "combined_text": "CHHAAVA TELUGU BOX-OFFICE\nPERFORMANCE\ndydy\nEXCELLENT 2ND WEEK\nADDICTEDTOMEMES\nMANA VALLA SPEED CHUSTHUNTE BIGGEST\nBLOCKBUSTER ICHE LAGA UNNARU",
+    "detailed": [
+        {
+            "text": "CHHAAVA TELUGU BOX-OFFICE",
+            "confidence": 0.967,
+            "box": [
+                [
+                    150.0,
+                    24.0
+                ],
+                [
+                    976.0,
+                    22.0
+                ],
+                [
+                    976.0,
+                    70.0
+                ],
+                [
+                    151.0,
+                    71.0
+                ]
+            ]
+        },
+        {
+            "text": "PERFORMANCE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    288.0,
+                    88.0
+                ],
+                [
+                    710.0,
+                    91.0
+                ],
+                [
+                    710.0,
+                    137.0
+                ],
+                [
+                    288.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "dydy",
+            "confidence": 0.761,
+            "box": [
+                [
+                    706.0,
+                    86.0
+                ],
+                [
+                    827.0,
+                    86.0
+                ],
+                [
+                    827.0,
+                    145.0
+                ],
+                [
+                    706.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "EXCELLENT 2ND WEEK",
+            "confidence": 0.997,
+            "box": [
+                [
+                    269.0,
+                    156.0
+                ],
+                [
+                    855.0,
+                    156.0
+                ],
+                [
+                    855.0,
+                    202.0
+                ],
+                [
+                    269.0,
+                    202.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    844.0,
+                    1009.0
+                ],
+                [
+                    1007.0,
+                    1009.0
+                ],
+                [
+                    1007.0,
+                    1034.0
+                ],
+                [
+                    844.0,
+                    1034.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA VALLA SPEED CHUSTHUNTE BIGGEST",
+            "confidence": 0.951,
+            "box": [
+                [
+                    135.0,
+                    1231.0
+                ],
+                [
+                    1001.0,
+                    1231.0
+                ],
+                [
+                    1001.0,
+                    1268.0
+                ],
+                [
+                    135.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCKBUSTER ICHE LAGA UNNARU",
+            "confidence": 0.965,
+            "box": [
+                [
+                    215.0,
+                    1281.0
+                ],
+                [
+                    913.0,
+                    1281.0
+                ],
+                [
+                    913.0,
+                    1318.0
+                ],
+                [
+                    215.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

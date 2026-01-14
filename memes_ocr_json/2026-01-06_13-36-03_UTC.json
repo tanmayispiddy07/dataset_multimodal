@@ -1,0 +1,270 @@
+{
+    "image_name": "2026-01-06_13-36-03_UTC.jpg",
+    "combined_text": "SPOT EXACTLY WHERE CHANDRIKA WAS IN\nCONSTABLE KANAKAM AND CHANCE TO WIN\nJANUARY\n08\nJANUARY\nJANUARY\n08\n08\nADDICTEDTOMEMES\nCONSTABLE KANAKAM WEBSERIES LO\nCHANDRIKA EKKADA UNDO KANIPEDUTHE\nPRIZE MONEYWIN AVAVCHU ANTA",
+    "detailed": [
+        {
+            "text": "SPOT EXACTLY WHERE CHANDRIKA WAS IN",
+            "confidence": 0.952,
+            "box": [
+                [
+                    134.0,
+                    26.0
+                ],
+                [
+                    914.0,
+                    26.0
+                ],
+                [
+                    914.0,
+                    58.0
+                ],
+                [
+                    134.0,
+                    58.0
+                ]
+            ]
+        },
+        {
+            "text": "CONSTABLE KANAKAM AND CHANCE TO WIN",
+            "confidence": 0.95,
+            "box": [
+                [
+                    109.0,
+                    71.0
+                ],
+                [
+                    941.0,
+                    71.0
+                ],
+                [
+                    941.0,
+                    103.0
+                ],
+                [
+                    109.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "JANUARY",
+            "confidence": 0.993,
+            "box": [
+                [
+                    441.0,
+                    495.0
+                ],
+                [
+                    518.0,
+                    495.0
+                ],
+                [
+                    518.0,
+                    521.0
+                ],
+                [
+                    441.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "text": "08",
+            "confidence": 0.986,
+            "box": [
+                [
+                    433.0,
+                    512.0
+                ],
+                [
+                    528.0,
+                    512.0
+                ],
+                [
+                    528.0,
+                    591.0
+                ],
+                [
+                    433.0,
+                    591.0
+                ]
+            ]
+        },
+        {
+            "text": "JANUARY",
+            "confidence": 0.995,
+            "box": [
+                [
+                    450.0,
+                    820.0
+                ],
+                [
+                    510.0,
+                    820.0
+                ],
+                [
+                    510.0,
+                    842.0
+                ],
+                [
+                    450.0,
+                    842.0
+                ]
+            ]
+        },
+        {
+            "text": "JANUARY",
+            "confidence": 0.981,
+            "box": [
+                [
+                    999.0,
+                    816.0
+                ],
+                [
+                    1056.0,
+                    816.0
+                ],
+                [
+                    1056.0,
+                    834.0
+                ],
+                [
+                    999.0,
+                    834.0
+                ]
+            ]
+        },
+        {
+            "text": "08",
+            "confidence": 0.987,
+            "box": [
+                [
+                    441.0,
+                    835.0
+                ],
+                [
+                    513.0,
+                    835.0
+                ],
+                [
+                    513.0,
+                    894.0
+                ],
+                [
+                    441.0,
+                    894.0
+                ]
+            ]
+        },
+        {
+            "text": "08",
+            "confidence": 0.973,
+            "box": [
+                [
+                    991.0,
+                    830.0
+                ],
+                [
+                    1058.0,
+                    830.0
+                ],
+                [
+                    1058.0,
+                    885.0
+                ],
+                [
+                    991.0,
+                    885.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    479.0,
+                    1000.0
+                ],
+                [
+                    606.0,
+                    1000.0
+                ],
+                [
+                    606.0,
+                    1016.0
+                ],
+                [
+                    479.0,
+                    1016.0
+                ]
+            ]
+        },
+        {
+            "text": "CONSTABLE KANAKAM WEBSERIES LO",
+            "confidence": 0.958,
+            "box": [
+                [
+                    230.0,
+                    1163.0
+                ],
+                [
+                    867.0,
+                    1164.0
+                ],
+                [
+                    867.0,
+                    1196.0
+                ],
+                [
+                    229.0,
+                    1195.0
+                ]
+            ]
+        },
+        {
+            "text": "CHANDRIKA EKKADA UNDO KANIPEDUTHE",
+            "confidence": 0.971,
+            "box": [
+                [
+                    192.0,
+                    1204.0
+                ],
+                [
+                    906.0,
+                    1204.0
+                ],
+                [
+                    906.0,
+                    1237.0
+                ],
+                [
+                    192.0,
+                    1237.0
+                ]
+            ]
+        },
+        {
+            "text": "PRIZE MONEYWIN AVAVCHU ANTA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    261.0,
+                    1245.0
+                ],
+                [
+                    834.0,
+                    1245.0
+                ],
+                [
+                    834.0,
+                    1277.0
+                ],
+                [
+                    261.0,
+                    1277.0
+                ]
+            ]
+        }
+    ]
+}

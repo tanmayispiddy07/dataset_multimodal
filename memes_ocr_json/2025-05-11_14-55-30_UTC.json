@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-05-11_14-55-30_UTC.jpg",
+    "combined_text": "PM Modi becomes the first world leader to\nsimultaneously bomb terrorist hubs in\nmultiple cities of a nuclaar-armed nation",
+    "detailed": [
+        {
+            "text": "PM Modi becomes the first world leader to",
+            "confidence": 0.978,
+            "box": [
+                [
+                    69.0,
+                    1094.0
+                ],
+                [
+                    1008.0,
+                    1097.0
+                ],
+                [
+                    1008.0,
+                    1136.0
+                ],
+                [
+                    69.0,
+                    1133.0
+                ]
+            ]
+        },
+        {
+            "text": "simultaneously bomb terrorist hubs in",
+            "confidence": 0.99,
+            "box": [
+                [
+                    121.0,
+                    1156.0
+                ],
+                [
+                    956.0,
+                    1156.0
+                ],
+                [
+                    956.0,
+                    1200.0
+                ],
+                [
+                    121.0,
+                    1200.0
+                ]
+            ]
+        },
+        {
+            "text": "multiple cities of a nuclaar-armed nation",
+            "confidence": 0.982,
+            "box": [
+                [
+                    91.0,
+                    1216.0
+                ],
+                [
+                    986.0,
+                    1215.0
+                ],
+                [
+                    986.0,
+                    1260.0
+                ],
+                [
+                    91.0,
+                    1261.0
+                ]
+            ]
+        }
+    ]
+}

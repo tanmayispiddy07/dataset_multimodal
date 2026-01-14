@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-05-22_14-03-41_UTC.jpg",
+    "combined_text": "BABU FAN ME AND FAN GIRL IN\nTHEATER AFTER SHOUTING JAI BABU\nIN KHALEJA RE RELEASE\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "BABU FAN ME AND FAN GIRL IN",
+            "confidence": 0.91,
+            "box": [
+                [
+                    149.0,
+                    63.0
+                ],
+                [
+                    956.0,
+                    63.0
+                ],
+                [
+                    956.0,
+                    109.0
+                ],
+                [
+                    149.0,
+                    109.0
+                ]
+            ]
+        },
+        {
+            "text": "THEATER AFTER SHOUTING JAI BABU",
+            "confidence": 0.949,
+            "box": [
+                [
+                    75.0,
+                    128.0
+                ],
+                [
+                    1029.0,
+                    128.0
+                ],
+                [
+                    1029.0,
+                    170.0
+                ],
+                [
+                    75.0,
+                    170.0
+                ]
+            ]
+        },
+        {
+            "text": "IN KHALEJA RE RELEASE",
+            "confidence": 0.988,
+            "box": [
+                [
+                    231.0,
+                    191.0
+                ],
+                [
+                    858.0,
+                    191.0
+                ],
+                [
+                    858.0,
+                    237.0
+                ],
+                [
+                    231.0,
+                    237.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.987,
+            "box": [
+                [
+                    856.0,
+                    448.0
+                ],
+                [
+                    1016.0,
+                    443.0
+                ],
+                [
+                    1017.0,
+                    468.0
+                ],
+                [
+                    857.0,
+                    473.0
+                ]
+            ]
+        }
+    ]
+}

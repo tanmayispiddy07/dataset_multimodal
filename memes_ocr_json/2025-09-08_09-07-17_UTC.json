@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-09-08_09-07-17_UTC.jpg",
+    "combined_text": "A TIMELESS MUSICAL BLOCKBUSTER THAT\nSTILL RULES OUR HEARTS\nPOURNAMI4K ON SEP 19TH\no\nRe-Releasing On\nSeptember 19th\n..\no..a\n**ME WHO IS FAN OF\nTHIS MOVIE &SONGS\nTICKETS PEDUTHE BREAK\nIVVADANIKI READY GA UNNAMU",
+    "detailed": [
+        {
+            "text": "A TIMELESS MUSICAL BLOCKBUSTER THAT",
+            "confidence": 0.967,
+            "box": [
+                [
+                    121.0,
+                    17.0
+                ],
+                [
+                    1003.0,
+                    17.0
+                ],
+                [
+                    1003.0,
+                    54.0
+                ],
+                [
+                    121.0,
+                    54.0
+                ]
+            ]
+        },
+        {
+            "text": "STILL RULES OUR HEARTS",
+            "confidence": 0.974,
+            "box": [
+                [
+                    292.0,
+                    67.0
+                ],
+                [
+                    830.0,
+                    67.0
+                ],
+                [
+                    830.0,
+                    105.0
+                ],
+                [
+                    292.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "POURNAMI4K ON SEP 19TH",
+            "confidence": 0.943,
+            "box": [
+                [
+                    277.0,
+                    117.0
+                ],
+                [
+                    845.0,
+                    117.0
+                ],
+                [
+                    845.0,
+                    155.0
+                ],
+                [
+                    277.0,
+                    155.0
+                ]
+            ]
+        },
+        {
+            "text": "o",
+            "confidence": 0.67,
+            "box": [
+                [
+                    561.0,
+                    201.0
+                ],
+                [
+                    717.0,
+                    204.0
+                ],
+                [
+                    717.0,
+                    230.0
+                ],
+                [
+                    561.0,
+                    227.0
+                ]
+            ]
+        },
+        {
+            "text": "Re-Releasing On",
+            "confidence": 0.967,
+            "box": [
+                [
+                    754.0,
+                    256.0
+                ],
+                [
+                    952.0,
+                    259.0
+                ],
+                [
+                    952.0,
+                    289.0
+                ],
+                [
+                    754.0,
+                    286.0
+                ]
+            ]
+        },
+        {
+            "text": "September 19th",
+            "confidence": 0.944,
+            "box": [
+                [
+                    710.0,
+                    291.0
+                ],
+                [
+                    987.0,
+                    288.0
+                ],
+                [
+                    987.0,
+                    327.0
+                ],
+                [
+                    710.0,
+                    330.0
+                ]
+            ]
+        },
+        {
+            "text": "..",
+            "confidence": 0.802,
+            "box": [
+                [
+                    211.0,
+                    362.0
+                ],
+                [
+                    267.0,
+                    362.0
+                ],
+                [
+                    267.0,
+                    375.0
+                ],
+                [
+                    211.0,
+                    375.0
+                ]
+            ]
+        },
+        {
+            "text": "o..a",
+            "confidence": 0.68,
+            "box": [
+                [
+                    591.0,
+                    942.0
+                ],
+                [
+                    814.0,
+                    942.0
+                ],
+                [
+                    814.0,
+                    967.0
+                ],
+                [
+                    591.0,
+                    967.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHO IS FAN OF",
+            "confidence": 0.932,
+            "box": [
+                [
+                    422.0,
+                    1002.0
+                ],
+                [
+                    837.0,
+                    1004.0
+                ],
+                [
+                    837.0,
+                    1043.0
+                ],
+                [
+                    422.0,
+                    1041.0
+                ]
+            ]
+        },
+        {
+            "text": "THIS MOVIE &SONGS",
+            "confidence": 0.951,
+            "box": [
+                [
+                    413.0,
+                    1054.0
+                ],
+                [
+                    847.0,
+                    1054.0
+                ],
+                [
+                    847.0,
+                    1091.0
+                ],
+                [
+                    413.0,
+                    1091.0
+                ]
+            ]
+        },
+        {
+            "text": "TICKETS PEDUTHE BREAK",
+            "confidence": 0.955,
+            "box": [
+                [
+                    543.0,
+                    1246.0
+                ],
+                [
+                    948.0,
+                    1246.0
+                ],
+                [
+                    948.0,
+                    1279.0
+                ],
+                [
+                    543.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "IVVADANIKI READY GA UNNAMU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    472.0,
+                    1286.0
+                ],
+                [
+                    1005.0,
+                    1286.0
+                ],
+                [
+                    1005.0,
+                    1320.0
+                ],
+                [
+                    472.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

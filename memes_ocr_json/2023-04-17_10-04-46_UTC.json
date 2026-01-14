@@ -1,0 +1,160 @@
+{
+    "image_name": "2023-04-17_10-04-46_UTC.jpg",
+    "combined_text": "200+CREW\n&20+ACTOR'S\nWORKED FOR 70+NIGH\nUGRAM MOVIE SHOOTED FOR\nMORE THAN 7O NIGHTS\nITLANTI NYT TIME JARIGEY ACTION\nTHRILLER'S ANTE CHALA ISTAM RA NAKU",
+    "detailed": [
+        {
+            "text": "200+CREW",
+            "confidence": 0.988,
+            "box": [
+                [
+                    692.0,
+                    94.0
+                ],
+                [
+                    968.0,
+                    94.0
+                ],
+                [
+                    968.0,
+                    178.0
+                ],
+                [
+                    692.0,
+                    178.0
+                ]
+            ]
+        },
+        {
+            "text": "&20+ACTOR'S",
+            "confidence": 0.958,
+            "box": [
+                [
+                    654.0,
+                    182.0
+                ],
+                [
+                    1000.0,
+                    182.0
+                ],
+                [
+                    1000.0,
+                    265.0
+                ],
+                [
+                    654.0,
+                    265.0
+                ]
+            ]
+        },
+        {
+            "text": "WORKED FOR 70+NIGH",
+            "confidence": 0.901,
+            "box": [
+                [
+                    550.0,
+                    275.0
+                ],
+                [
+                    1074.0,
+                    275.0
+                ],
+                [
+                    1074.0,
+                    348.0
+                ],
+                [
+                    550.0,
+                    348.0
+                ]
+            ]
+        },
+        {
+            "text": "UGRAM MOVIE SHOOTED FOR",
+            "confidence": 0.95,
+            "box": [
+                [
+                    162.0,
+                    391.0
+                ],
+                [
+                    911.0,
+                    391.0
+                ],
+                [
+                    911.0,
+                    434.0
+                ],
+                [
+                    162.0,
+                    434.0
+                ]
+            ]
+        },
+        {
+            "text": "MORE THAN 7O NIGHTS",
+            "confidence": 0.925,
+            "box": [
+                [
+                    239.0,
+                    448.0
+                ],
+                [
+                    835.0,
+                    448.0
+                ],
+                [
+                    835.0,
+                    490.0
+                ],
+                [
+                    239.0,
+                    490.0
+                ]
+            ]
+        },
+        {
+            "text": "ITLANTI NYT TIME JARIGEY ACTION",
+            "confidence": 0.948,
+            "box": [
+                [
+                    169.0,
+                    1236.0
+                ],
+                [
+                    911.0,
+                    1236.0
+                ],
+                [
+                    911.0,
+                    1274.0
+                ],
+                [
+                    169.0,
+                    1274.0
+                ]
+            ]
+        },
+        {
+            "text": "THRILLER'S ANTE CHALA ISTAM RA NAKU",
+            "confidence": 0.934,
+            "box": [
+                [
+                    84.0,
+                    1285.0
+                ],
+                [
+                    955.0,
+                    1285.0
+                ],
+                [
+                    955.0,
+                    1319.0
+                ],
+                [
+                    84.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

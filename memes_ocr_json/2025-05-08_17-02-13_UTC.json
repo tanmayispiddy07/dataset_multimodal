@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-05-08_17-02-13_UTC.jpg",
+    "combined_text": "INDIA STRIKES BACK NOW DRONE\nATTACK IN LAHORE\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "INDIA STRIKES BACK NOW DRONE",
+            "confidence": 0.939,
+            "box": [
+                [
+                    41.0,
+                    64.0
+                ],
+                [
+                    1049.0,
+                    64.0
+                ],
+                [
+                    1049.0,
+                    118.0
+                ],
+                [
+                    41.0,
+                    118.0
+                ]
+            ]
+        },
+        {
+            "text": "ATTACK IN LAHORE",
+            "confidence": 0.994,
+            "box": [
+                [
+                    259.0,
+                    138.0
+                ],
+                [
+                    835.0,
+                    135.0
+                ],
+                [
+                    835.0,
+                    187.0
+                ],
+                [
+                    259.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    875.0,
+                    900.0
+                ],
+                [
+                    1048.0,
+                    900.0
+                ],
+                [
+                    1048.0,
+                    925.0
+                ],
+                [
+                    875.0,
+                    925.0
+                ]
+            ]
+        }
+    ]
+}

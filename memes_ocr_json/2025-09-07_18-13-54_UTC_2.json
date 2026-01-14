@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-07_18-13-54_UTC_2.jpg",
+    "combined_text": "And now, it's Shael & Honey Singh\ncoming together with \"Sajna\"\nM",
+    "detailed": [
+        {
+            "text": "And now, it's Shael & Honey Singh",
+            "confidence": 0.977,
+            "box": [
+                [
+                    123.0,
+                    44.0
+                ],
+                [
+                    956.0,
+                    48.0
+                ],
+                [
+                    956.0,
+                    97.0
+                ],
+                [
+                    122.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "coming together with \"Sajna\"",
+            "confidence": 0.987,
+            "box": [
+                [
+                    148.0,
+                    127.0
+                ],
+                [
+                    863.0,
+                    125.0
+                ],
+                [
+                    863.0,
+                    179.0
+                ],
+                [
+                    148.0,
+                    180.0
+                ]
+            ]
+        },
+        {
+            "text": "M",
+            "confidence": 0.863,
+            "box": [
+                [
+                    954.0,
+                    599.0
+                ],
+                [
+                    973.0,
+                    594.0
+                ],
+                [
+                    978.0,
+                    609.0
+                ],
+                [
+                    959.0,
+                    614.0
+                ]
+            ]
+        }
+    ]
+}

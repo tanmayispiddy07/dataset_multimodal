@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-07-29_13-43-38_UTC.jpg",
+    "combined_text": "**PEOPLE WHO DEACTIVATES\nTHEIR INSTAGRAM FREQUENTLY\nVELLANICHUDU YEDODESHAM KOSAM\nYUDHAM CHEYYADANIKI VELTHUNNATTU\nINSTAGRAM UNINSTALL CHESI\nADDICTEDTOMEMES\nMALLIOKA3-4DAYS AGI\nVACHI REELS PEDUTHARU",
+    "detailed": [
+        {
+            "text": "**PEOPLE WHO DEACTIVATES",
+            "confidence": 0.975,
+            "box": [
+                [
+                    462.0,
+                    103.0
+                ],
+                [
+                    963.0,
+                    109.0
+                ],
+                [
+                    963.0,
+                    148.0
+                ],
+                [
+                    461.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "THEIR INSTAGRAM FREQUENTLY",
+            "confidence": 0.977,
+            "box": [
+                [
+                    440.0,
+                    155.0
+                ],
+                [
+                    979.0,
+                    155.0
+                ],
+                [
+                    979.0,
+                    186.0
+                ],
+                [
+                    440.0,
+                    186.0
+                ]
+            ]
+        },
+        {
+            "text": "VELLANICHUDU YEDODESHAM KOSAM",
+            "confidence": 0.947,
+            "box": [
+                [
+                    176.0,
+                    416.0
+                ],
+                [
+                    922.0,
+                    416.0
+                ],
+                [
+                    922.0,
+                    447.0
+                ],
+                [
+                    176.0,
+                    447.0
+                ]
+            ]
+        },
+        {
+            "text": "YUDHAM CHEYYADANIKI VELTHUNNATTU",
+            "confidence": 0.968,
+            "box": [
+                [
+                    168.0,
+                    462.0
+                ],
+                [
+                    933.0,
+                    462.0
+                ],
+                [
+                    933.0,
+                    493.0
+                ],
+                [
+                    168.0,
+                    493.0
+                ]
+            ]
+        },
+        {
+            "text": "INSTAGRAM UNINSTALL CHESI",
+            "confidence": 0.965,
+            "box": [
+                [
+                    264.0,
+                    507.0
+                ],
+                [
+                    832.0,
+                    507.0
+                ],
+                [
+                    832.0,
+                    541.0
+                ],
+                [
+                    264.0,
+                    541.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    874.0,
+                    651.0
+                ],
+                [
+                    1031.0,
+                    649.0
+                ],
+                [
+                    1032.0,
+                    669.0
+                ],
+                [
+                    874.0,
+                    672.0
+                ]
+            ]
+        },
+        {
+            "text": "MALLIOKA3-4DAYS AGI",
+            "confidence": 0.97,
+            "box": [
+                [
+                    41.0,
+                    969.0
+                ],
+                [
+                    591.0,
+                    970.0
+                ],
+                [
+                    591.0,
+                    1010.0
+                ],
+                [
+                    40.0,
+                    1009.0
+                ]
+            ]
+        },
+        {
+            "text": "VACHI REELS PEDUTHARU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    42.0,
+                    1025.0
+                ],
+                [
+                    590.0,
+                    1025.0
+                ],
+                [
+                    590.0,
+                    1065.0
+                ],
+                [
+                    42.0,
+                    1065.0
+                ]
+            ]
+        }
+    ]
+}

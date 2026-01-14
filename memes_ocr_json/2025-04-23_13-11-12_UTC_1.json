@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-04-23_13-11-12_UTC_1.jpg",
+    "combined_text": "NORMALGA COLLEGES LO 1STYEAR NUNCHI\nSUBJECT ANTHA CHEPTHARU\nKANI NIAT LOILA KADHU\n1ST YEAR STUDENTS DRONES LAUNCH\nCHESTHUNNARU,REAL WORLD TECH PROJECTS\nMEDHA WORK CHESTHUNNARU\nIDHI ANTHA ONLY NIAT STUDENTS VALLAKE POSSIBLE",
+    "detailed": [
+        {
+            "text": "NORMALGA COLLEGES LO 1STYEAR NUNCHI",
+            "confidence": 0.934,
+            "box": [
+                [
+                    97.0,
+                    385.0
+                ],
+                [
+                    1018.0,
+                    386.0
+                ],
+                [
+                    1018.0,
+                    420.0
+                ],
+                [
+                    97.0,
+                    418.0
+                ]
+            ]
+        },
+        {
+            "text": "SUBJECT ANTHA CHEPTHARU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    253.0,
+                    486.0
+                ],
+                [
+                    852.0,
+                    486.0
+                ],
+                [
+                    852.0,
+                    520.0
+                ],
+                [
+                    253.0,
+                    520.0
+                ]
+            ]
+        },
+        {
+            "text": "KANI NIAT LOILA KADHU",
+            "confidence": 0.953,
+            "box": [
+                [
+                    309.0,
+                    868.0
+                ],
+                [
+                    744.0,
+                    868.0
+                ],
+                [
+                    744.0,
+                    899.0
+                ],
+                [
+                    309.0,
+                    899.0
+                ]
+            ]
+        },
+        {
+            "text": "1ST YEAR STUDENTS DRONES LAUNCH",
+            "confidence": 0.946,
+            "box": [
+                [
+                    210.0,
+                    912.0
+                ],
+                [
+                    852.0,
+                    912.0
+                ],
+                [
+                    852.0,
+                    939.0
+                ],
+                [
+                    210.0,
+                    939.0
+                ]
+            ]
+        },
+        {
+            "text": "CHESTHUNNARU,REAL WORLD TECH PROJECTS",
+            "confidence": 0.949,
+            "box": [
+                [
+                    123.0,
+                    952.0
+                ],
+                [
+                    943.0,
+                    952.0
+                ],
+                [
+                    943.0,
+                    982.0
+                ],
+                [
+                    123.0,
+                    982.0
+                ]
+            ]
+        },
+        {
+            "text": "MEDHA WORK CHESTHUNNARU",
+            "confidence": 0.961,
+            "box": [
+                [
+                    267.0,
+                    994.0
+                ],
+                [
+                    799.0,
+                    994.0
+                ],
+                [
+                    799.0,
+                    1022.0
+                ],
+                [
+                    267.0,
+                    1022.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHI ANTHA ONLY NIAT STUDENTS VALLAKE POSSIBLE",
+            "confidence": 0.942,
+            "box": [
+                [
+                    69.0,
+                    1034.0
+                ],
+                [
+                    987.0,
+                    1034.0
+                ],
+                [
+                    987.0,
+                    1064.0
+                ],
+                [
+                    69.0,
+                    1064.0
+                ]
+            ]
+        }
+    ]
+}

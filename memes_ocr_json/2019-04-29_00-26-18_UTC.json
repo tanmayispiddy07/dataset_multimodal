@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-04-29_00-26-18_UTC.jpg",
+    "combined_text": "Me minding my business:\nDad:Chettu laaga perugavu kani burra matram\nperegaledhu.\nMe:\nGIF",
+    "detailed": [
+        {
+            "text": "Me minding my business:",
+            "confidence": 0.979,
+            "box": [
+                [
+                    22.0,
+                    15.0
+                ],
+                [
+                    352.0,
+                    15.0
+                ],
+                [
+                    352.0,
+                    46.0
+                ],
+                [
+                    22.0,
+                    46.0
+                ]
+            ]
+        },
+        {
+            "text": "Dad:Chettu laaga perugavu kani burra matram",
+            "confidence": 0.98,
+            "box": [
+                [
+                    23.0,
+                    51.0
+                ],
+                [
+                    628.0,
+                    51.0
+                ],
+                [
+                    628.0,
+                    81.0
+                ],
+                [
+                    23.0,
+                    81.0
+                ]
+            ]
+        },
+        {
+            "text": "peregaledhu.",
+            "confidence": 0.999,
+            "box": [
+                [
+                    20.0,
+                    87.0
+                ],
+                [
+                    193.0,
+                    85.0
+                ],
+                [
+                    193.0,
+                    117.0
+                ],
+                [
+                    21.0,
+                    119.0
+                ]
+            ]
+        },
+        {
+            "text": "Me:",
+            "confidence": 0.976,
+            "box": [
+                [
+                    19.0,
+                    118.0
+                ],
+                [
+                    77.0,
+                    122.0
+                ],
+                [
+                    74.0,
+                    156.0
+                ],
+                [
+                    17.0,
+                    152.0
+                ]
+            ]
+        },
+        {
+            "text": "GIF",
+            "confidence": 0.985,
+            "box": [
+                [
+                    341.0,
+                    528.0
+                ],
+                [
+                    406.0,
+                    528.0
+                ],
+                [
+                    406.0,
+                    566.0
+                ],
+                [
+                    341.0,
+                    566.0
+                ]
+            ]
+        }
+    ]
+}

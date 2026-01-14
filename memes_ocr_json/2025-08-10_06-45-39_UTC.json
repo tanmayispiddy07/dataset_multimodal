@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-10_06-45-39_UTC.jpg",
+    "combined_text": "Bro has plan-B in case if\npeace doesn't work.\nsarcasm",
+    "detailed": [
+        {
+            "text": "Bro has plan-B in case if",
+            "confidence": 1.0,
+            "box": [
+                [
+                    150.0,
+                    57.0
+                ],
+                [
+                    938.0,
+                    57.0
+                ],
+                [
+                    938.0,
+                    123.0
+                ],
+                [
+                    150.0,
+                    123.0
+                ]
+            ]
+        },
+        {
+            "text": "peace doesn't work.",
+            "confidence": 0.992,
+            "box": [
+                [
+                    175.0,
+                    160.0
+                ],
+                [
+                    828.0,
+                    150.0
+                ],
+                [
+                    829.0,
+                    216.0
+                ],
+                [
+                    176.0,
+                    226.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    200.0,
+                    1015.0
+                ],
+                [
+                    316.0,
+                    1015.0
+                ],
+                [
+                    316.0,
+                    1036.0
+                ],
+                [
+                    200.0,
+                    1036.0
+                ]
+            ]
+        }
+    ]
+}

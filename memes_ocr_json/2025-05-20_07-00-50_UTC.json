@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-05-20_07-00-50_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nNINNU MATRAM EVARU\nDOMINATE CHEYYALERU BABY",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    488.0,
+                    428.0
+                ],
+                [
+                    643.0,
+                    428.0
+                ],
+                [
+                    643.0,
+                    449.0
+                ],
+                [
+                    488.0,
+                    449.0
+                ]
+            ]
+        },
+        {
+            "text": "NINNU MATRAM EVARU",
+            "confidence": 0.958,
+            "box": [
+                [
+                    115.0,
+                    1230.0
+                ],
+                [
+                    651.0,
+                    1230.0
+                ],
+                [
+                    651.0,
+                    1273.0
+                ],
+                [
+                    115.0,
+                    1273.0
+                ]
+            ]
+        },
+        {
+            "text": "DOMINATE CHEYYALERU BABY",
+            "confidence": 0.958,
+            "box": [
+                [
+                    44.0,
+                    1285.0
+                ],
+                [
+                    726.0,
+                    1285.0
+                ],
+                [
+                    726.0,
+                    1328.0
+                ],
+                [
+                    44.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

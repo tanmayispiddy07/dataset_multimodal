@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-06-16_06-32-58_UTC.jpg",
+    "combined_text": "PRABHAS'S\nPRABHAS IS\nCOMPLETELY DIFFERENT\nADOICTEDTOMEMES\nVINTAGE DARLING",
+    "detailed": [
+        {
+            "text": "PRABHAS'S",
+            "confidence": 0.929,
+            "box": [
+                [
+                    65.0,
+                    84.0
+                ],
+                [
+                    152.0,
+                    84.0
+                ],
+                [
+                    152.0,
+                    96.0
+                ],
+                [
+                    65.0,
+                    96.0
+                ]
+            ]
+        },
+        {
+            "text": "PRABHAS IS",
+            "confidence": 0.949,
+            "box": [
+                [
+                    397.0,
+                    279.0
+                ],
+                [
+                    682.0,
+                    279.0
+                ],
+                [
+                    682.0,
+                    318.0
+                ],
+                [
+                    397.0,
+                    318.0
+                ]
+            ]
+        },
+        {
+            "text": "COMPLETELY DIFFERENT",
+            "confidence": 0.969,
+            "box": [
+                [
+                    249.0,
+                    337.0
+                ],
+                [
+                    825.0,
+                    337.0
+                ],
+                [
+                    825.0,
+                    379.0
+                ],
+                [
+                    249.0,
+                    379.0
+                ]
+            ]
+        },
+        {
+            "text": "ADOICTEDTOMEMES",
+            "confidence": 0.929,
+            "box": [
+                [
+                    480.0,
+                    842.0
+                ],
+                [
+                    610.0,
+                    842.0
+                ],
+                [
+                    610.0,
+                    859.0
+                ],
+                [
+                    480.0,
+                    859.0
+                ]
+            ]
+        },
+        {
+            "text": "VINTAGE DARLING",
+            "confidence": 0.969,
+            "box": [
+                [
+                    257.0,
+                    970.0
+                ],
+                [
+                    830.0,
+                    967.0
+                ],
+                [
+                    830.0,
+                    1019.0
+                ],
+                [
+                    258.0,
+                    1022.0
+                ]
+            ]
+        }
+    ]
+}

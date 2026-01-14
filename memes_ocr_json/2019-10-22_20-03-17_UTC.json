@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-10-22_20-03-17_UTC.jpg",
+    "combined_text": "*Meenjoying food\nina wedding\nmemejanta\n*suddenly when cameraman\npoints camera on me",
+    "detailed": [
+        {
+            "text": "*Meenjoying food",
+            "confidence": 0.991,
+            "box": [
+                [
+                    356.0,
+                    249.0
+                ],
+                [
+                    729.0,
+                    251.0
+                ],
+                [
+                    728.0,
+                    301.0
+                ],
+                [
+                    356.0,
+                    299.0
+                ]
+            ]
+        },
+        {
+            "text": "ina wedding",
+            "confidence": 0.968,
+            "box": [
+                [
+                    404.0,
+                    301.0
+                ],
+                [
+                    675.0,
+                    308.0
+                ],
+                [
+                    674.0,
+                    356.0
+                ],
+                [
+                    403.0,
+                    349.0
+                ]
+            ]
+        },
+        {
+            "text": "memejanta",
+            "confidence": 0.99,
+            "box": [
+                [
+                    590.0,
+                    475.0
+                ],
+                [
+                    763.0,
+                    473.0
+                ],
+                [
+                    763.0,
+                    511.0
+                ],
+                [
+                    590.0,
+                    513.0
+                ]
+            ]
+        },
+        {
+            "text": "*suddenly when cameraman",
+            "confidence": 0.978,
+            "box": [
+                [
+                    264.0,
+                    660.0
+                ],
+                [
+                    759.0,
+                    662.0
+                ],
+                [
+                    759.0,
+                    699.0
+                ],
+                [
+                    263.0,
+                    697.0
+                ]
+            ]
+        },
+        {
+            "text": "points camera on me",
+            "confidence": 0.968,
+            "box": [
+                [
+                    323.0,
+                    710.0
+                ],
+                [
+                    692.0,
+                    708.0
+                ],
+                [
+                    692.0,
+                    745.0
+                ],
+                [
+                    324.0,
+                    747.0
+                ]
+            ]
+        }
+    ]
+}

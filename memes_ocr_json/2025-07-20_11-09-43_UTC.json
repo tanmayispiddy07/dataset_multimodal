@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-07-20_11-09-43_UTC.jpg",
+    "combined_text": "A GUY IN VIJAYAWADA WROTE\n\"SORRY BHAVANI\"IN A FLYOVER\n*BHAVANI\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "A GUY IN VIJAYAWADA WROTE",
+            "confidence": 0.939,
+            "box": [
+                [
+                    153.0,
+                    100.0
+                ],
+                [
+                    949.0,
+                    99.0
+                ],
+                [
+                    949.0,
+                    149.0
+                ],
+                [
+                    153.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "\"SORRY BHAVANI\"IN A FLYOVER",
+            "confidence": 0.948,
+            "box": [
+                [
+                    124.0,
+                    164.0
+                ],
+                [
+                    963.0,
+                    166.0
+                ],
+                [
+                    963.0,
+                    216.0
+                ],
+                [
+                    124.0,
+                    215.0
+                ]
+            ]
+        },
+        {
+            "text": "*BHAVANI",
+            "confidence": 0.998,
+            "box": [
+                [
+                    616.0,
+                    870.0
+                ],
+                [
+                    866.0,
+                    870.0
+                ],
+                [
+                    866.0,
+                    917.0
+                ],
+                [
+                    616.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    908.0,
+                    920.0
+                ],
+                [
+                    1062.0,
+                    920.0
+                ],
+                [
+                    1062.0,
+                    945.0
+                ],
+                [
+                    908.0,
+                    945.0
+                ]
+            ]
+        }
+    ]
+}

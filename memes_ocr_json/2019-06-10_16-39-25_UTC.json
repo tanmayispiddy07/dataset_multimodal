@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-06-10_16-39-25_UTC.jpg",
+    "combined_text": "me making\ng new email ids for free\ntrials:",
+    "detailed": [
+        {
+            "text": "me making",
+            "confidence": 0.996,
+            "box": [
+                [
+                    74.0,
+                    69.0
+                ],
+                [
+                    388.0,
+                    69.0
+                ],
+                [
+                    388.0,
+                    121.0
+                ],
+                [
+                    74.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "g new email ids for free",
+            "confidence": 0.961,
+            "box": [
+                [
+                    359.0,
+                    65.0
+                ],
+                [
+                    990.0,
+                    63.0
+                ],
+                [
+                    991.0,
+                    119.0
+                ],
+                [
+                    360.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "trials:",
+            "confidence": 1.0,
+            "box": [
+                [
+                    451.0,
+                    133.0
+                ],
+                [
+                    614.0,
+                    136.0
+                ],
+                [
+                    613.0,
+                    195.0
+                ],
+                [
+                    450.0,
+                    191.0
+                ]
+            ]
+        }
+    ]
+}

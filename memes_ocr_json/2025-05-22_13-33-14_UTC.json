@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-05-22_13-33-14_UTC.jpg",
+    "combined_text": "pov: Your childhood heroes are retiring",
+    "detailed": [
+        {
+            "text": "pov: Your childhood heroes are retiring",
+            "confidence": 0.955,
+            "box": [
+                [
+                    65.0,
+                    201.0
+                ],
+                [
+                    472.0,
+                    205.0
+                ],
+                [
+                    471.0,
+                    230.0
+                ],
+                [
+                    64.0,
+                    226.0
+                ]
+            ]
+        }
+    ]
+}

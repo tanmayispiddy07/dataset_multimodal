@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-09-17_04-33-27_UTC.jpg",
+    "combined_text": "Meet Harvey Ball, the inventor\nof the smiley face\nUS\nsarcasm\nHe designed in just 10 minutes",
+    "detailed": [
+        {
+            "text": "Meet Harvey Ball, the inventor",
+            "confidence": 0.981,
+            "box": [
+                [
+                    76.0,
+                    45.0
+                ],
+                [
+                    1000.0,
+                    46.0
+                ],
+                [
+                    1000.0,
+                    104.0
+                ],
+                [
+                    76.0,
+                    103.0
+                ]
+            ]
+        },
+        {
+            "text": "of the smiley face",
+            "confidence": 1.0,
+            "box": [
+                [
+                    274.0,
+                    122.0
+                ],
+                [
+                    800.0,
+                    125.0
+                ],
+                [
+                    800.0,
+                    184.0
+                ],
+                [
+                    274.0,
+                    181.0
+                ]
+            ]
+        },
+        {
+            "text": "US",
+            "confidence": 0.975,
+            "box": [
+                [
+                    821.0,
+                    394.0
+                ],
+                [
+                    900.0,
+                    394.0
+                ],
+                [
+                    900.0,
+                    452.0
+                ],
+                [
+                    821.0,
+                    452.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    108.0,
+                    504.0
+                ],
+                [
+                    224.0,
+                    504.0
+                ],
+                [
+                    224.0,
+                    526.0
+                ],
+                [
+                    108.0,
+                    526.0
+                ]
+            ]
+        },
+        {
+            "text": "He designed in just 10 minutes",
+            "confidence": 0.999,
+            "box": [
+                [
+                    82.0,
+                    1241.0
+                ],
+                [
+                    1000.0,
+                    1241.0
+                ],
+                [
+                    1000.0,
+                    1303.0
+                ],
+                [
+                    82.0,
+                    1303.0
+                ]
+            ]
+        }
+    ]
+}

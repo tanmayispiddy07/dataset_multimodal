@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-03-08_08-28-35_UTC.jpg",
+    "combined_text": "ME WATCHING RUKSHAR DHILLON\nFROM DILRUBA TRAILER\nADDICTEDTOMEMES",
+    "detailed": [
+        {
+            "text": "ME WATCHING RUKSHAR DHILLON",
+            "confidence": 0.953,
+            "box": [
+                [
+                    398.0,
+                    685.0
+                ],
+                [
+                    994.0,
+                    685.0
+                ],
+                [
+                    994.0,
+                    716.0
+                ],
+                [
+                    398.0,
+                    716.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM DILRUBA TRAILER",
+            "confidence": 0.964,
+            "box": [
+                [
+                    484.0,
+                    726.0
+                ],
+                [
+                    914.0,
+                    729.0
+                ],
+                [
+                    913.0,
+                    763.0
+                ],
+                [
+                    484.0,
+                    760.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    94.0,
+                    849.0
+                ],
+                [
+                    229.0,
+                    848.0
+                ],
+                [
+                    230.0,
+                    866.0
+                ],
+                [
+                    95.0,
+                    867.0
+                ]
+            ]
+        }
+    ]
+}

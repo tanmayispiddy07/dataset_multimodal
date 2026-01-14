@@ -1,0 +1,116 @@
+{
+    "image_name": "2026-01-07_15-36-37_UTC.jpg",
+    "combined_text": "HOOK STEP VIDEO SONG\nFROM MANA SHANKARA\nVARA PRASAD GARU\nADDICTEDTOMEMES\nASALUBOSS HOOK STEPS ANTE..",
+    "detailed": [
+        {
+            "text": "HOOK STEP VIDEO SONG",
+            "confidence": 0.929,
+            "box": [
+                [
+                    191.0,
+                    24.0
+                ],
+                [
+                    918.0,
+                    24.0
+                ],
+                [
+                    918.0,
+                    71.0
+                ],
+                [
+                    191.0,
+                    71.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM MANA SHANKARA",
+            "confidence": 0.984,
+            "box": [
+                [
+                    193.0,
+                    94.0
+                ],
+                [
+                    916.0,
+                    94.0
+                ],
+                [
+                    916.0,
+                    146.0
+                ],
+                [
+                    193.0,
+                    146.0
+                ]
+            ]
+        },
+        {
+            "text": "VARA PRASAD GARU",
+            "confidence": 0.98,
+            "box": [
+                [
+                    252.0,
+                    167.0
+                ],
+                [
+                    846.0,
+                    167.0
+                ],
+                [
+                    846.0,
+                    214.0
+                ],
+                [
+                    252.0,
+                    214.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    18.0,
+                    995.0
+                ],
+                [
+                    156.0,
+                    995.0
+                ],
+                [
+                    156.0,
+                    1011.0
+                ],
+                [
+                    18.0,
+                    1011.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALUBOSS HOOK STEPS ANTE..",
+            "confidence": 0.945,
+            "box": [
+                [
+                    140.0,
+                    1204.0
+                ],
+                [
+                    1000.0,
+                    1204.0
+                ],
+                [
+                    1000.0,
+                    1248.0
+                ],
+                [
+                    140.0,
+                    1248.0
+                ]
+            ]
+        }
+    ]
+}

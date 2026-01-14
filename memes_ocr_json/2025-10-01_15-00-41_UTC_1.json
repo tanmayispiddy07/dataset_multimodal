@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-01_15-00-41_UTC_1.jpg",
+    "combined_text": "CC\nShiv Sena MP Dr. Srikant Shinde is a\nyoung leader who always puts the\nwell-being of people first.",
+    "detailed": [
+        {
+            "text": "CC",
+            "confidence": 0.557,
+            "box": [
+                [
+                    512.0,
+                    67.0
+                ],
+                [
+                    584.0,
+                    72.0
+                ],
+                [
+                    582.0,
+                    96.0
+                ],
+                [
+                    510.0,
+                    91.0
+                ]
+            ]
+        },
+        {
+            "text": "Shiv Sena MP Dr. Srikant Shinde is a",
+            "confidence": 0.963,
+            "box": [
+                [
+                    55.0,
+                    1097.0
+                ],
+                [
+                    1035.0,
+                    1098.0
+                ],
+                [
+                    1035.0,
+                    1148.0
+                ],
+                [
+                    55.0,
+                    1146.0
+                ]
+            ]
+        },
+        {
+            "text": "young leader who always puts the",
+            "confidence": 0.998,
+            "box": [
+                [
+                    70.0,
+                    1159.0
+                ],
+                [
+                    1021.0,
+                    1154.0
+                ],
+                [
+                    1021.0,
+                    1212.0
+                ],
+                [
+                    70.0,
+                    1216.0
+                ]
+            ]
+        },
+        {
+            "text": "well-being of people first.",
+            "confidence": 0.981,
+            "box": [
+                [
+                    115.0,
+                    1226.0
+                ],
+                [
+                    817.0,
+                    1229.0
+                ],
+                [
+                    817.0,
+                    1283.0
+                ],
+                [
+                    115.0,
+                    1280.0
+                ]
+            ]
+        }
+    ]
+}

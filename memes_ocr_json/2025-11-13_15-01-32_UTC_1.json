@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-13_15-01-32_UTC_1.jpg",
+    "combined_text": "swipe\nThe most anticipated movie\nof 2025 is finally here\nDe De Pyaar De 2....",
+    "detailed": [
+        {
+            "text": "swipe",
+            "confidence": 0.998,
+            "box": [
+                [
+                    842.0,
+                    53.0
+                ],
+                [
+                    980.0,
+                    53.0
+                ],
+                [
+                    980.0,
+                    111.0
+                ],
+                [
+                    842.0,
+                    111.0
+                ]
+            ]
+        },
+        {
+            "text": "The most anticipated movie",
+            "confidence": 1.0,
+            "box": [
+                [
+                    55.0,
+                    1073.0
+                ],
+                [
+                    1029.0,
+                    1073.0
+                ],
+                [
+                    1029.0,
+                    1139.0
+                ],
+                [
+                    55.0,
+                    1139.0
+                ]
+            ]
+        },
+        {
+            "text": "of 2025 is finally here",
+            "confidence": 0.971,
+            "box": [
+                [
+                    78.0,
+                    1161.0
+                ],
+                [
+                    811.0,
+                    1164.0
+                ],
+                [
+                    811.0,
+                    1231.0
+                ],
+                [
+                    77.0,
+                    1228.0
+                ]
+            ]
+        },
+        {
+            "text": "De De Pyaar De 2....",
+            "confidence": 0.958,
+            "box": [
+                [
+                    287.0,
+                    1268.0
+                ],
+                [
+                    778.0,
+                    1273.0
+                ],
+                [
+                    777.0,
+                    1326.0
+                ],
+                [
+                    287.0,
+                    1322.0
+                ]
+            ]
+        }
+    ]
+}

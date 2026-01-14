@@ -1,0 +1,512 @@
+{
+    "image_name": "2025-04-17_10-40-04_UTC.jpg",
+    "combined_text": "THOUGHT-PROVOKING & HARD-HITTING\n\"VAIDYAMA\" LYRICAL VIDEO SONG FROM DEAR UMA\nMOVIE RELEASING ON APRIL 18TH\negooco\nss n women:\noitdlam\nNunc a\nSHUT DOORS ON PATIENTS\nADDICTED TOMEMESund\nNew York CityLate Neu\ncorner.'\nLyrics written by\ny re literally\nSai Rajesh Mahade\nverlook all of\nver them up.\nhapny.not\npective.of\nThe world conspires fy you ta be hap\nook at the\nnbappy It is all\nSUCH A BEAUTIFUL SONG RA\nAH LYRICS LO OKA EMOTION UNDI",
+    "detailed": [
+        {
+            "text": "THOUGHT-PROVOKING & HARD-HITTING",
+            "confidence": 0.978,
+            "box": [
+                [
+                    127.0,
+                    64.0
+                ],
+                [
+                    942.0,
+                    64.0
+                ],
+                [
+                    942.0,
+                    102.0
+                ],
+                [
+                    127.0,
+                    102.0
+                ]
+            ]
+        },
+        {
+            "text": "\"VAIDYAMA\" LYRICAL VIDEO SONG FROM DEAR UMA",
+            "confidence": 0.926,
+            "box": [
+                [
+                    7.0,
+                    111.0
+                ],
+                [
+                    1066.0,
+                    113.0
+                ],
+                [
+                    1066.0,
+                    152.0
+                ],
+                [
+                    7.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON APRIL 18TH",
+            "confidence": 0.978,
+            "box": [
+                [
+                    194.0,
+                    163.0
+                ],
+                [
+                    876.0,
+                    163.0
+                ],
+                [
+                    876.0,
+                    201.0
+                ],
+                [
+                    194.0,
+                    201.0
+                ]
+            ]
+        },
+        {
+            "text": "egooco",
+            "confidence": 0.571,
+            "box": [
+                [
+                    96.0,
+                    360.0
+                ],
+                [
+                    384.0,
+                    360.0
+                ],
+                [
+                    384.0,
+                    411.0
+                ],
+                [
+                    96.0,
+                    411.0
+                ]
+            ]
+        },
+        {
+            "text": "ss n women:",
+            "confidence": 0.847,
+            "box": [
+                [
+                    0.0,
+                    491.0
+                ],
+                [
+                    77.0,
+                    491.0
+                ],
+                [
+                    77.0,
+                    521.0
+                ],
+                [
+                    0.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "text": "oitdlam",
+            "confidence": 0.744,
+            "box": [
+                [
+                    709.0,
+                    556.0
+                ],
+                [
+                    825.0,
+                    556.0
+                ],
+                [
+                    825.0,
+                    573.0
+                ],
+                [
+                    709.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "Nunc a",
+            "confidence": 0.878,
+            "box": [
+                [
+                    817.0,
+                    556.0
+                ],
+                [
+                    930.0,
+                    556.0
+                ],
+                [
+                    930.0,
+                    573.0
+                ],
+                [
+                    817.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "SHUT DOORS ON PATIENTS",
+            "confidence": 0.93,
+            "box": [
+                [
+                    1.0,
+                    616.0
+                ],
+                [
+                    180.0,
+                    616.0
+                ],
+                [
+                    180.0,
+                    637.0
+                ],
+                [
+                    1.0,
+                    637.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTED TOMEMESund",
+            "confidence": 0.954,
+            "box": [
+                [
+                    489.0,
+                    622.0
+                ],
+                [
+                    693.0,
+                    633.0
+                ],
+                [
+                    691.0,
+                    668.0
+                ],
+                [
+                    487.0,
+                    657.0
+                ]
+            ]
+        },
+        {
+            "text": "New York CityLate Neu",
+            "confidence": 0.813,
+            "box": [
+                [
+                    854.0,
+                    627.0
+                ],
+                [
+                    1079.0,
+                    661.0
+                ],
+                [
+                    1077.0,
+                    696.0
+                ],
+                [
+                    849.0,
+                    662.0
+                ]
+            ]
+        },
+        {
+            "text": "corner.'",
+            "confidence": 0.898,
+            "box": [
+                [
+                    616.0,
+                    665.0
+                ],
+                [
+                    689.0,
+                    674.0
+                ],
+                [
+                    686.0,
+                    695.0
+                ],
+                [
+                    614.0,
+                    686.0
+                ]
+            ]
+        },
+        {
+            "text": "Lyrics written by",
+            "confidence": 0.942,
+            "box": [
+                [
+                    759.0,
+                    671.0
+                ],
+                [
+                    1075.0,
+                    718.0
+                ],
+                [
+                    1069.0,
+                    762.0
+                ],
+                [
+                    752.0,
+                    714.0
+                ]
+            ]
+        },
+        {
+            "text": "y re literally",
+            "confidence": 0.923,
+            "box": [
+                [
+                    559.0,
+                    712.0
+                ],
+                [
+                    673.0,
+                    726.0
+                ],
+                [
+                    670.0,
+                    755.0
+                ],
+                [
+                    556.0,
+                    742.0
+                ]
+            ]
+        },
+        {
+            "text": "Sai Rajesh Mahade",
+            "confidence": 0.97,
+            "box": [
+                [
+                    722.0,
+                    716.0
+                ],
+                [
+                    1079.0,
+                    769.0
+                ],
+                [
+                    1075.0,
+                    808.0
+                ],
+                [
+                    717.0,
+                    755.0
+                ]
+            ]
+        },
+        {
+            "text": "verlook all of",
+            "confidence": 0.941,
+            "box": [
+                [
+                    554.0,
+                    737.0
+                ],
+                [
+                    672.0,
+                    754.0
+                ],
+                [
+                    668.0,
+                    785.0
+                ],
+                [
+                    550.0,
+                    768.0
+                ]
+            ]
+        },
+        {
+            "text": "ver them up.",
+            "confidence": 0.914,
+            "box": [
+                [
+                    556.0,
+                    768.0
+                ],
+                [
+                    660.0,
+                    783.0
+                ],
+                [
+                    655.0,
+                    814.0
+                ],
+                [
+                    551.0,
+                    798.0
+                ]
+            ]
+        },
+        {
+            "text": "hapny.not",
+            "confidence": 0.845,
+            "box": [
+                [
+                    558.0,
+                    832.0
+                ],
+                [
+                    658.0,
+                    844.0
+                ],
+                [
+                    654.0,
+                    875.0
+                ],
+                [
+                    554.0,
+                    863.0
+                ]
+            ]
+        },
+        {
+            "text": "pective.of",
+            "confidence": 0.89,
+            "box": [
+                [
+                    558.0,
+                    860.0
+                ],
+                [
+                    654.0,
+                    872.0
+                ],
+                [
+                    650.0,
+                    903.0
+                ],
+                [
+                    554.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "The world conspires fy you ta be hap",
+            "confidence": 0.892,
+            "box": [
+                [
+                    705.0,
+                    879.0
+                ],
+                [
+                    1004.0,
+                    923.0
+                ],
+                [
+                    1000.0,
+                    952.0
+                ],
+                [
+                    700.0,
+                    909.0
+                ]
+            ]
+        },
+        {
+            "text": "ook at the",
+            "confidence": 0.947,
+            "box": [
+                [
+                    560.0,
+                    891.0
+                ],
+                [
+                    646.0,
+                    903.0
+                ],
+                [
+                    641.0,
+                    934.0
+                ],
+                [
+                    555.0,
+                    921.0
+                ]
+            ]
+        },
+        {
+            "text": "nbappy It is all",
+            "confidence": 0.768,
+            "box": [
+                [
+                    700.0,
+                    912.0
+                ],
+                [
+                    842.0,
+                    929.0
+                ],
+                [
+                    838.0,
+                    959.0
+                ],
+                [
+                    696.0,
+                    941.0
+                ]
+            ]
+        },
+        {
+            "text": "SUCH A BEAUTIFUL SONG RA",
+            "confidence": 0.959,
+            "box": [
+                [
+                    222.0,
+                    1217.0
+                ],
+                [
+                    925.0,
+                    1217.0
+                ],
+                [
+                    925.0,
+                    1259.0
+                ],
+                [
+                    222.0,
+                    1259.0
+                ]
+            ]
+        },
+        {
+            "text": "AH LYRICS LO OKA EMOTION UNDI",
+            "confidence": 0.924,
+            "box": [
+                [
+                    152.0,
+                    1277.0
+                ],
+                [
+                    996.0,
+                    1277.0
+                ],
+                [
+                    996.0,
+                    1318.0
+                ],
+                [
+                    152.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

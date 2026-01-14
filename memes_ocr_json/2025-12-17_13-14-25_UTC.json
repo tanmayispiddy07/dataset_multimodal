@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-12-17_13-14-25_UTC.jpg",
+    "combined_text": "AVATA\nAddicted_to_memes\nFIDE\nDILRAJU\nEPUDO VACHINA AVATAR EH ONE\nYEAR AADINDHI ANTE ESARI AVATAR\nFIRE AND ASH KI INKA RACHA RACHE",
+    "detailed": [
+        {
+            "text": "AVATA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    483.0,
+                    227.0
+                ],
+                [
+                    639.0,
+                    244.0
+                ],
+                [
+                    631.0,
+                    314.0
+                ],
+                [
+                    475.0,
+                    296.0
+                ]
+            ]
+        },
+        {
+            "text": "Addicted_to_memes",
+            "confidence": 0.991,
+            "box": [
+                [
+                    264.0,
+                    304.0
+                ],
+                [
+                    438.0,
+                    306.0
+                ],
+                [
+                    438.0,
+                    325.0
+                ],
+                [
+                    264.0,
+                    323.0
+                ]
+            ]
+        },
+        {
+            "text": "FIDE",
+            "confidence": 0.963,
+            "box": [
+                [
+                    479.0,
+                    295.0
+                ],
+                [
+                    544.0,
+                    298.0
+                ],
+                [
+                    543.0,
+                    320.0
+                ],
+                [
+                    478.0,
+                    317.0
+                ]
+            ]
+        },
+        {
+            "text": "DILRAJU",
+            "confidence": 0.961,
+            "box": [
+                [
+                    24.0,
+                    505.0
+                ],
+                [
+                    83.0,
+                    505.0
+                ],
+                [
+                    83.0,
+                    521.0
+                ],
+                [
+                    24.0,
+                    521.0
+                ]
+            ]
+        },
+        {
+            "text": "EPUDO VACHINA AVATAR EH ONE",
+            "confidence": 0.95,
+            "box": [
+                [
+                    42.0,
+                    549.0
+                ],
+                [
+                    426.0,
+                    549.0
+                ],
+                [
+                    426.0,
+                    570.0
+                ],
+                [
+                    42.0,
+                    570.0
+                ]
+            ]
+        },
+        {
+            "text": "YEAR AADINDHI ANTE ESARI AVATAR",
+            "confidence": 0.94,
+            "box": [
+                [
+                    16.0,
+                    575.0
+                ],
+                [
+                    446.0,
+                    577.0
+                ],
+                [
+                    446.0,
+                    601.0
+                ],
+                [
+                    16.0,
+                    599.0
+                ]
+            ]
+        },
+        {
+            "text": "FIRE AND ASH KI INKA RACHA RACHE",
+            "confidence": 0.95,
+            "box": [
+                [
+                    15.0,
+                    605.0
+                ],
+                [
+                    448.0,
+                    605.0
+                ],
+                [
+                    448.0,
+                    629.0
+                ],
+                [
+                    15.0,
+                    629.0
+                ]
+            ]
+        }
+    ]
+}

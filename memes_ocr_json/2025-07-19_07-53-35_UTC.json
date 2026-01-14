@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-19_07-53-35_UTC.jpg",
+    "combined_text": "Coldplay hasn't dropped a single\nin years, last night they made two\nsarcasm",
+    "detailed": [
+        {
+            "text": "Coldplay hasn't dropped a single",
+            "confidence": 1.0,
+            "box": [
+                [
+                    60.0,
+                    48.0
+                ],
+                [
+                    1011.0,
+                    43.0
+                ],
+                [
+                    1011.0,
+                    101.0
+                ],
+                [
+                    61.0,
+                    105.0
+                ]
+            ]
+        },
+        {
+            "text": "in years, last night they made two",
+            "confidence": 0.994,
+            "box": [
+                [
+                    35.0,
+                    133.0
+                ],
+                [
+                    1035.0,
+                    128.0
+                ],
+                [
+                    1035.0,
+                    189.0
+                ],
+                [
+                    35.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    218.0,
+                    453.0
+                ],
+                [
+                    315.0,
+                    453.0
+                ],
+                [
+                    315.0,
+                    471.0
+                ],
+                [
+                    218.0,
+                    471.0
+                ]
+            ]
+        }
+    ]
+}

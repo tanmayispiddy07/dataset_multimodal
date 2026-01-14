@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-12-06_16-48-42_UTC.jpg",
+    "combined_text": "RECENTADDICTION\nADDICTEDTOMEMES\nGIRAGIRAGINGIRAAGIREY",
+    "detailed": [
+        {
+            "text": "RECENTADDICTION",
+            "confidence": 0.997,
+            "box": [
+                [
+                    446.0,
+                    410.0
+                ],
+                [
+                    1029.0,
+                    410.0
+                ],
+                [
+                    1029.0,
+                    464.0
+                ],
+                [
+                    446.0,
+                    464.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    22.0,
+                    626.0
+                ],
+                [
+                    179.0,
+                    626.0
+                ],
+                [
+                    179.0,
+                    651.0
+                ],
+                [
+                    22.0,
+                    651.0
+                ]
+            ]
+        },
+        {
+            "text": "GIRAGIRAGINGIRAAGIREY",
+            "confidence": 0.995,
+            "box": [
+                [
+                    32.0,
+                    906.0
+                ],
+                [
+                    792.0,
+                    906.0
+                ],
+                [
+                    792.0,
+                    956.0
+                ],
+                [
+                    32.0,
+                    956.0
+                ]
+            ]
+        }
+    ]
+}

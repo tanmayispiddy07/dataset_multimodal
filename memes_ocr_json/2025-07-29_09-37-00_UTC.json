@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-07-29_09-37-00_UTC.jpg",
+    "combined_text": "THE SOULFUL MELODY TRACK YUDDHAMAE RAANEE\nSUNG BY SID SRIRAM.\nFROM THE MOVIE \"BRAT\"\nHOREOGRAPHY\nLAI KUMAR\nRAJA\niduvanantaa Nee Cheo\nADDICTEDTOMEMES\nEDITOR\nHAE\n**ME WHILE LISTENING SID\nSRIRAM VOICE IN SONG",
+    "detailed": [
+        {
+            "text": "THE SOULFUL MELODY TRACK YUDDHAMAE RAANEE",
+            "confidence": 0.971,
+            "box": [
+                [
+                    7.0,
+                    50.0
+                ],
+                [
+                    1079.0,
+                    54.0
+                ],
+                [
+                    1079.0,
+                    103.0
+                ],
+                [
+                    7.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "SUNG BY SID SRIRAM.",
+            "confidence": 0.919,
+            "box": [
+                [
+                    324.0,
+                    108.0
+                ],
+                [
+                    764.0,
+                    108.0
+                ],
+                [
+                    764.0,
+                    144.0
+                ],
+                [
+                    324.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM THE MOVIE \"BRAT\"",
+            "confidence": 0.948,
+            "box": [
+                [
+                    293.0,
+                    159.0
+                ],
+                [
+                    807.0,
+                    159.0
+                ],
+                [
+                    807.0,
+                    200.0
+                ],
+                [
+                    293.0,
+                    200.0
+                ]
+            ]
+        },
+        {
+            "text": "HOREOGRAPHY",
+            "confidence": 0.996,
+            "box": [
+                [
+                    486.0,
+                    380.0
+                ],
+                [
+                    666.0,
+                    380.0
+                ],
+                [
+                    666.0,
+                    409.0
+                ],
+                [
+                    486.0,
+                    409.0
+                ]
+            ]
+        },
+        {
+            "text": "LAI KUMAR",
+            "confidence": 0.942,
+            "box": [
+                [
+                    486.0,
+                    418.0
+                ],
+                [
+                    706.0,
+                    421.0
+                ],
+                [
+                    706.0,
+                    459.0
+                ],
+                [
+                    486.0,
+                    456.0
+                ]
+            ]
+        },
+        {
+            "text": "RAJA",
+            "confidence": 0.996,
+            "box": [
+                [
+                    516.0,
+                    459.0
+                ],
+                [
+                    625.0,
+                    459.0
+                ],
+                [
+                    625.0,
+                    496.0
+                ],
+                [
+                    516.0,
+                    496.0
+                ]
+            ]
+        },
+        {
+            "text": "iduvanantaa Nee Cheo",
+            "confidence": 0.932,
+            "box": [
+                [
+                    0.0,
+                    512.0
+                ],
+                [
+                    532.0,
+                    501.0
+                ],
+                [
+                    534.0,
+                    576.0
+                ],
+                [
+                    0.0,
+                    586.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.986,
+            "box": [
+                [
+                    425.0,
+                    606.0
+                ],
+                [
+                    579.0,
+                    606.0
+                ],
+                [
+                    579.0,
+                    630.0
+                ],
+                [
+                    425.0,
+                    630.0
+                ]
+            ]
+        },
+        {
+            "text": "EDITOR",
+            "confidence": 0.885,
+            "box": [
+                [
+                    482.0,
+                    726.0
+                ],
+                [
+                    574.0,
+                    726.0
+                ],
+                [
+                    574.0,
+                    761.0
+                ],
+                [
+                    482.0,
+                    761.0
+                ]
+            ]
+        },
+        {
+            "text": "HAE",
+            "confidence": 0.996,
+            "box": [
+                [
+                    0.0,
+                    741.0
+                ],
+                [
+                    101.0,
+                    741.0
+                ],
+                [
+                    101.0,
+                    789.0
+                ],
+                [
+                    0.0,
+                    789.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME WHILE LISTENING SID",
+            "confidence": 0.94,
+            "box": [
+                [
+                    262.0,
+                    933.0
+                ],
+                [
+                    694.0,
+                    936.0
+                ],
+                [
+                    694.0,
+                    973.0
+                ],
+                [
+                    262.0,
+                    970.0
+                ]
+            ]
+        },
+        {
+            "text": "SRIRAM VOICE IN SONG",
+            "confidence": 0.934,
+            "box": [
+                [
+                    277.0,
+                    978.0
+                ],
+                [
+                    671.0,
+                    981.0
+                ],
+                [
+                    671.0,
+                    1013.0
+                ],
+                [
+                    277.0,
+                    1010.0
+                ]
+            ]
+        }
+    ]
+}

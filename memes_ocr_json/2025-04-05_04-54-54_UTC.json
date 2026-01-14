@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-04-05_04-54-54_UTC.jpg",
+    "combined_text": "ALLU ARJUN FAN BOUGHT FISH\nTO RE CREATE A MOVIE SCENE\n98V93JA339 \nADDICTEDTOMEMES\nCINEMA ANTE TELUGU VALLU\nTELUGUVALLU ANTE NEYCINEMA",
+    "detailed": [
+        {
+            "text": "ALLU ARJUN FAN BOUGHT FISH",
+            "confidence": 0.944,
+            "box": [
+                [
+                    180.0,
+                    32.0
+                ],
+                [
+                    944.0,
+                    32.0
+                ],
+                [
+                    944.0,
+                    74.0
+                ],
+                [
+                    180.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "TO RE CREATE A MOVIE SCENE",
+            "confidence": 0.962,
+            "box": [
+                [
+                    186.0,
+                    89.0
+                ],
+                [
+                    924.0,
+                    91.0
+                ],
+                [
+                    924.0,
+                    134.0
+                ],
+                [
+                    186.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "98V93JA339 ",
+            "confidence": 0.727,
+            "box": [
+                [
+                    575.0,
+                    581.0
+                ],
+                [
+                    714.0,
+                    613.0
+                ],
+                [
+                    706.0,
+                    648.0
+                ],
+                [
+                    567.0,
+                    616.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    495.0,
+                    905.0
+                ],
+                [
+                    638.0,
+                    905.0
+                ],
+                [
+                    638.0,
+                    925.0
+                ],
+                [
+                    495.0,
+                    925.0
+                ]
+            ]
+        },
+        {
+            "text": "CINEMA ANTE TELUGU VALLU",
+            "confidence": 0.94,
+            "box": [
+                [
+                    301.0,
+                    1224.0
+                ],
+                [
+                    997.0,
+                    1224.0
+                ],
+                [
+                    997.0,
+                    1261.0
+                ],
+                [
+                    301.0,
+                    1261.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGUVALLU ANTE NEYCINEMA",
+            "confidence": 0.965,
+            "box": [
+                [
+                    256.0,
+                    1278.0
+                ],
+                [
+                    1063.0,
+                    1278.0
+                ],
+                [
+                    1063.0,
+                    1320.0
+                ],
+                [
+                    256.0,
+                    1320.0
+                ]
+            ]
+        }
+    ]
+}

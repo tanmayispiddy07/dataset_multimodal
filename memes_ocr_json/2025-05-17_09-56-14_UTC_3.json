@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-05-17_09-56-14_UTC_3.jpg",
+    "combined_text": "q14\nAfter the w*r broke out\nbetween India and Pakistan\nthe IPL was almost\nBIRLA\ncancelled...\nESTATES\nQATAR\nRCB fans were sad, but\nAIRWAYS\neveryone knew there were\nbigger things at stake.\nLekin sab theek hone ke\nbaad,pehla IPL match RCB\nka hai, matlab is baar tohsH\nYOTHIN\ncup pakka RCB jeetegi",
+    "detailed": [
+        {
+            "text": "q14",
+            "confidence": 0.75,
+            "box": [
+                [
+                    920.0,
+                    83.0
+                ],
+                [
+                    1025.0,
+                    83.0
+                ],
+                [
+                    1025.0,
+                    142.0
+                ],
+                [
+                    920.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "After the w*r broke out",
+            "confidence": 0.966,
+            "box": [
+                [
+                    54.0,
+                    309.0
+                ],
+                [
+                    564.0,
+                    311.0
+                ],
+                [
+                    564.0,
+                    347.0
+                ],
+                [
+                    53.0,
+                    346.0
+                ]
+            ]
+        },
+        {
+            "text": "between India and Pakistan",
+            "confidence": 0.992,
+            "box": [
+                [
+                    51.0,
+                    360.0
+                ],
+                [
+                    662.0,
+                    364.0
+                ],
+                [
+                    662.0,
+                    405.0
+                ],
+                [
+                    51.0,
+                    401.0
+                ]
+            ]
+        },
+        {
+            "text": "the IPL was almost",
+            "confidence": 0.946,
+            "box": [
+                [
+                    52.0,
+                    416.0
+                ],
+                [
+                    461.0,
+                    418.0
+                ],
+                [
+                    461.0,
+                    454.0
+                ],
+                [
+                    52.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "BIRLA",
+            "confidence": 0.906,
+            "box": [
+                [
+                    640.0,
+                    455.0
+                ],
+                [
+                    711.0,
+                    463.0
+                ],
+                [
+                    708.0,
+                    488.0
+                ],
+                [
+                    637.0,
+                    479.0
+                ]
+            ]
+        },
+        {
+            "text": "cancelled...",
+            "confidence": 0.97,
+            "box": [
+                [
+                    50.0,
+                    470.0
+                ],
+                [
+                    298.0,
+                    467.0
+                ],
+                [
+                    298.0,
+                    507.0
+                ],
+                [
+                    51.0,
+                    511.0
+                ]
+            ]
+        },
+        {
+            "text": "ESTATES",
+            "confidence": 0.981,
+            "box": [
+                [
+                    640.0,
+                    479.0
+                ],
+                [
+                    735.0,
+                    489.0
+                ],
+                [
+                    732.0,
+                    513.0
+                ],
+                [
+                    638.0,
+                    503.0
+                ]
+            ]
+        },
+        {
+            "text": "QATAR",
+            "confidence": 0.996,
+            "box": [
+                [
+                    631.0,
+                    516.0
+                ],
+                [
+                    885.0,
+                    534.0
+                ],
+                [
+                    880.0,
+                    598.0
+                ],
+                [
+                    627.0,
+                    579.0
+                ]
+            ]
+        },
+        {
+            "text": "RCB fans were sad, but",
+            "confidence": 0.96,
+            "box": [
+                [
+                    49.0,
+                    575.0
+                ],
+                [
+                    567.0,
+                    579.0
+                ],
+                [
+                    567.0,
+                    619.0
+                ],
+                [
+                    49.0,
+                    614.0
+                ]
+            ]
+        },
+        {
+            "text": "AIRWAYS",
+            "confidence": 0.996,
+            "box": [
+                [
+                    685.0,
+                    575.0
+                ],
+                [
+                    876.0,
+                    595.0
+                ],
+                [
+                    872.0,
+                    637.0
+                ],
+                [
+                    680.0,
+                    617.0
+                ]
+            ]
+        },
+        {
+            "text": "everyone knew there were",
+            "confidence": 0.95,
+            "box": [
+                [
+                    52.0,
+                    633.0
+                ],
+                [
+                    641.0,
+                    633.0
+                ],
+                [
+                    641.0,
+                    672.0
+                ],
+                [
+                    52.0,
+                    672.0
+                ]
+            ]
+        },
+        {
+            "text": "bigger things at stake.",
+            "confidence": 0.982,
+            "box": [
+                [
+                    49.0,
+                    682.0
+                ],
+                [
+                    539.0,
+                    685.0
+                ],
+                [
+                    538.0,
+                    730.0
+                ],
+                [
+                    49.0,
+                    727.0
+                ]
+            ]
+        },
+        {
+            "text": "Lekin sab theek hone ke",
+            "confidence": 0.956,
+            "box": [
+                [
+                    52.0,
+                    1004.0
+                ],
+                [
+                    581.0,
+                    1006.0
+                ],
+                [
+                    581.0,
+                    1045.0
+                ],
+                [
+                    52.0,
+                    1043.0
+                ]
+            ]
+        },
+        {
+            "text": "baad,pehla IPL match RCB",
+            "confidence": 0.943,
+            "box": [
+                [
+                    51.0,
+                    1058.0
+                ],
+                [
+                    640.0,
+                    1053.0
+                ],
+                [
+                    640.0,
+                    1097.0
+                ],
+                [
+                    51.0,
+                    1101.0
+                ]
+            ]
+        },
+        {
+            "text": "ka hai, matlab is baar tohsH",
+            "confidence": 0.918,
+            "box": [
+                [
+                    42.0,
+                    1086.0
+                ],
+                [
+                    653.0,
+                    1106.0
+                ],
+                [
+                    651.0,
+                    1179.0
+                ],
+                [
+                    40.0,
+                    1159.0
+                ]
+            ]
+        },
+        {
+            "text": "YOTHIN",
+            "confidence": 0.892,
+            "box": [
+                [
+                    784.0,
+                    1105.0
+                ],
+                [
+                    917.0,
+                    1118.0
+                ],
+                [
+                    912.0,
+                    1170.0
+                ],
+                [
+                    779.0,
+                    1157.0
+                ]
+            ]
+        },
+        {
+            "text": "cup pakka RCB jeetegi",
+            "confidence": 0.955,
+            "box": [
+                [
+                    52.0,
+                    1164.0
+                ],
+                [
+                    544.0,
+                    1164.0
+                ],
+                [
+                    544.0,
+                    1209.0
+                ],
+                [
+                    52.0,
+                    1209.0
+                ]
+            ]
+        }
+    ]
+}

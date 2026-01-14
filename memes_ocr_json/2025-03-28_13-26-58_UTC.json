@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-03-28_13-26-58_UTC.jpg",
+    "combined_text": "INTERESTING TRAILER OF \"LYF\"\nMOVIE RELEASING ON APRIL 4TH\nADDICTEDTOMEMES\nATLA UNTADHI MARE BOYS THONE NANNA\nNI EM AYINA ANTE ASALU THAGGARU",
+    "detailed": [
+        {
+            "text": "INTERESTING TRAILER OF \"LYF\"",
+            "confidence": 0.971,
+            "box": [
+                [
+                    104.0,
+                    77.0
+                ],
+                [
+                    962.0,
+                    75.0
+                ],
+                [
+                    962.0,
+                    125.0
+                ],
+                [
+                    104.0,
+                    127.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON APRIL 4TH",
+            "confidence": 0.993,
+            "box": [
+                [
+                    70.0,
+                    149.0
+                ],
+                [
+                    987.0,
+                    149.0
+                ],
+                [
+                    987.0,
+                    195.0
+                ],
+                [
+                    70.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    22.0,
+                    1063.0
+                ],
+                [
+                    198.0,
+                    1063.0
+                ],
+                [
+                    198.0,
+                    1084.0
+                ],
+                [
+                    22.0,
+                    1084.0
+                ]
+            ]
+        },
+        {
+            "text": "ATLA UNTADHI MARE BOYS THONE NANNA",
+            "confidence": 0.947,
+            "box": [
+                [
+                    45.0,
+                    1243.0
+                ],
+                [
+                    841.0,
+                    1245.0
+                ],
+                [
+                    841.0,
+                    1279.0
+                ],
+                [
+                    45.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "NI EM AYINA ANTE ASALU THAGGARU",
+            "confidence": 0.945,
+            "box": [
+                [
+                    91.0,
+                    1291.0
+                ],
+                [
+                    792.0,
+                    1291.0
+                ],
+                [
+                    792.0,
+                    1324.0
+                ],
+                [
+                    91.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

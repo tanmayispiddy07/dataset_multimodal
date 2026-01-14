@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-08-15_18-27-07_UTC_2.jpg",
+    "combined_text": "BHTAN\nCENTRAL\nPROVINCES\nRadcliffe had never been to\nIndia or Pak before being given the job\nsarcasm\nHe didn't know the local languages and had\nno prior experience with the region's\ngeography or politics",
+    "detailed": [
+        {
+            "text": "BHTAN",
+            "confidence": 0.864,
+            "box": [
+                [
+                    625.0,
+                    257.0
+                ],
+                [
+                    678.0,
+                    252.0
+                ],
+                [
+                    680.0,
+                    266.0
+                ],
+                [
+                    627.0,
+                    271.0
+                ]
+            ]
+        },
+        {
+            "text": "CENTRAL",
+            "confidence": 0.981,
+            "box": [
+                [
+                    314.0,
+                    437.0
+                ],
+                [
+                    422.0,
+                    439.0
+                ],
+                [
+                    422.0,
+                    457.0
+                ],
+                [
+                    313.0,
+                    456.0
+                ]
+            ]
+        },
+        {
+            "text": "PROVINCES",
+            "confidence": 0.961,
+            "box": [
+                [
+                    298.0,
+                    463.0
+                ],
+                [
+                    432.0,
+                    466.0
+                ],
+                [
+                    432.0,
+                    478.0
+                ],
+                [
+                    298.0,
+                    475.0
+                ]
+            ]
+        },
+        {
+            "text": "Radcliffe had never been to",
+            "confidence": 0.962,
+            "box": [
+                [
+                    225.0,
+                    552.0
+                ],
+                [
+                    861.0,
+                    555.0
+                ],
+                [
+                    861.0,
+                    595.0
+                ],
+                [
+                    225.0,
+                    592.0
+                ]
+            ]
+        },
+        {
+            "text": "India or Pak before being given the job",
+            "confidence": 0.998,
+            "box": [
+                [
+                    90.0,
+                    608.0
+                ],
+                [
+                    990.0,
+                    610.0
+                ],
+                [
+                    990.0,
+                    659.0
+                ],
+                [
+                    90.0,
+                    658.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.992,
+            "box": [
+                [
+                    489.0,
+                    1123.0
+                ],
+                [
+                    598.0,
+                    1123.0
+                ],
+                [
+                    598.0,
+                    1141.0
+                ],
+                [
+                    489.0,
+                    1141.0
+                ]
+            ]
+        },
+        {
+            "text": "He didn't know the local languages and had",
+            "confidence": 0.975,
+            "box": [
+                [
+                    25.0,
+                    1159.0
+                ],
+                [
+                    1051.0,
+                    1162.0
+                ],
+                [
+                    1050.0,
+                    1206.0
+                ],
+                [
+                    25.0,
+                    1203.0
+                ]
+            ]
+        },
+        {
+            "text": "no prior experience with the region's",
+            "confidence": 0.995,
+            "box": [
+                [
+                    120.0,
+                    1223.0
+                ],
+                [
+                    959.0,
+                    1223.0
+                ],
+                [
+                    959.0,
+                    1266.0
+                ],
+                [
+                    120.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "geography or politics",
+            "confidence": 0.969,
+            "box": [
+                [
+                    291.0,
+                    1287.0
+                ],
+                [
+                    786.0,
+                    1280.0
+                ],
+                [
+                    786.0,
+                    1323.0
+                ],
+                [
+                    292.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

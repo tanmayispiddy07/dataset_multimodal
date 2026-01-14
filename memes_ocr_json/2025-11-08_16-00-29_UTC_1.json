@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-11-08_16-00-29_UTC_1.jpg",
+    "combined_text": "Movie so iconic, even the whole horror\nmultiverse came to witness it\n>\n)Swipe",
+    "detailed": [
+        {
+            "text": "Movie so iconic, even the whole horror",
+            "confidence": 0.99,
+            "box": [
+                [
+                    77.0,
+                    69.0
+                ],
+                [
+                    1004.0,
+                    69.0
+                ],
+                [
+                    1004.0,
+                    117.0
+                ],
+                [
+                    77.0,
+                    117.0
+                ]
+            ]
+        },
+        {
+            "text": "multiverse came to witness it",
+            "confidence": 0.995,
+            "box": [
+                [
+                    112.0,
+                    150.0
+                ],
+                [
+                    811.0,
+                    149.0
+                ],
+                [
+                    811.0,
+                    193.0
+                ],
+                [
+                    113.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": ">",
+            "confidence": 0.775,
+            "box": [
+                [
+                    906.0,
+                    340.0
+                ],
+                [
+                    941.0,
+                    340.0
+                ],
+                [
+                    941.0,
+                    367.0
+                ],
+                [
+                    906.0,
+                    367.0
+                ]
+            ]
+        },
+        {
+            "text": ")Swipe",
+            "confidence": 0.977,
+            "box": [
+                [
+                    925.0,
+                    331.0
+                ],
+                [
+                    1034.0,
+                    337.0
+                ],
+                [
+                    1032.0,
+                    375.0
+                ],
+                [
+                    923.0,
+                    369.0
+                ]
+            ]
+        }
+    ]
+}

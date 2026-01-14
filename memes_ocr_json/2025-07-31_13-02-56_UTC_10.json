@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-07-31_13-02-56_UTC_10.jpg",
+    "combined_text": "44\nMainu data sabh kuch dita\nKyon na shukar manava",
+    "detailed": [
+        {
+            "text": "44",
+            "confidence": 0.787,
+            "box": [
+                [
+                    927.0,
+                    91.0
+                ],
+                [
+                    1018.0,
+                    91.0
+                ],
+                [
+                    1018.0,
+                    134.0
+                ],
+                [
+                    927.0,
+                    134.0
+                ]
+            ]
+        },
+        {
+            "text": "Mainu data sabh kuch dita",
+            "confidence": 0.96,
+            "box": [
+                [
+                    196.0,
+                    574.0
+                ],
+                [
+                    869.0,
+                    575.0
+                ],
+                [
+                    869.0,
+                    620.0
+                ],
+                [
+                    195.0,
+                    619.0
+                ]
+            ]
+        },
+        {
+            "text": "Kyon na shukar manava",
+            "confidence": 0.963,
+            "box": [
+                [
+                    235.0,
+                    1222.0
+                ],
+                [
+                    848.0,
+                    1222.0
+                ],
+                [
+                    848.0,
+                    1271.0
+                ],
+                [
+                    235.0,
+                    1271.0
+                ]
+            ]
+        }
+    ]
+}

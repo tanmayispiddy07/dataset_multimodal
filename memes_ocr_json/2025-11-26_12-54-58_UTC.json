@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-11-26_12-54-58_UTC.jpg",
+    "combined_text": "NINNA NVUE KADHA ANNA BIKE POYINDI ANNAV\nIPUDU VANARA CINEMA THONE VASTHUNNAVA\nSSC\nSHANTHANU P\nSSC\nADDICTEDTOMEMES\nTITLE&POSTERBAGUNDI",
+    "detailed": [
+        {
+            "text": "NINNA NVUE KADHA ANNA BIKE POYINDI ANNAV",
+            "confidence": 0.941,
+            "box": [
+                [
+                    45.0,
+                    54.0
+                ],
+                [
+                    1055.0,
+                    56.0
+                ],
+                [
+                    1055.0,
+                    93.0
+                ],
+                [
+                    45.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "IPUDU VANARA CINEMA THONE VASTHUNNAVA",
+            "confidence": 0.956,
+            "box": [
+                [
+                    70.0,
+                    106.0
+                ],
+                [
+                    1039.0,
+                    106.0
+                ],
+                [
+                    1039.0,
+                    144.0
+                ],
+                [
+                    70.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "SSC",
+            "confidence": 0.892,
+            "box": [
+                [
+                    20.0,
+                    224.0
+                ],
+                [
+                    80.0,
+                    224.0
+                ],
+                [
+                    80.0,
+                    252.0
+                ],
+                [
+                    20.0,
+                    252.0
+                ]
+            ]
+        },
+        {
+            "text": "SHANTHANU P",
+            "confidence": 0.911,
+            "box": [
+                [
+                    501.0,
+                    231.0
+                ],
+                [
+                    577.0,
+                    231.0
+                ],
+                [
+                    577.0,
+                    251.0
+                ],
+                [
+                    501.0,
+                    251.0
+                ]
+            ]
+        },
+        {
+            "text": "SSC",
+            "confidence": 0.813,
+            "box": [
+                [
+                    586.0,
+                    224.0
+                ],
+                [
+                    647.0,
+                    224.0
+                ],
+                [
+                    647.0,
+                    251.0
+                ],
+                [
+                    586.0,
+                    251.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    894.0,
+                    1070.0
+                ],
+                [
+                    1065.0,
+                    1070.0
+                ],
+                [
+                    1065.0,
+                    1095.0
+                ],
+                [
+                    894.0,
+                    1095.0
+                ]
+            ]
+        },
+        {
+            "text": "TITLE&POSTERBAGUNDI",
+            "confidence": 0.994,
+            "box": [
+                [
+                    197.0,
+                    1270.0
+                ],
+                [
+                    994.0,
+                    1270.0
+                ],
+                [
+                    994.0,
+                    1328.0
+                ],
+                [
+                    197.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

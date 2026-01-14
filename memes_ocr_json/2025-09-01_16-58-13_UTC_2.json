@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-09-01_16-58-13_UTC_2.jpg",
+    "combined_text": "sarcasm\nThe 25th SCO Summit was held in Tianjin,\nChina, making it the largest in the group's history.\n+i\nTaHby3nHbKnTa\n2025911ceHT6pa2025roa\nXi Jinping hosted the event, with leaders from\nall 10 member nations, including India, Russia,.\nand Iran, in attendance.",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.995,
+            "box": [
+                [
+                    484.0,
+                    519.0
+                ],
+                [
+                    595.0,
+                    519.0
+                ],
+                [
+                    595.0,
+                    541.0
+                ],
+                [
+                    484.0,
+                    541.0
+                ]
+            ]
+        },
+        {
+            "text": "The 25th SCO Summit was held in Tianjin,",
+            "confidence": 0.967,
+            "box": [
+                [
+                    100.0,
+                    552.0
+                ],
+                [
+                    973.0,
+                    555.0
+                ],
+                [
+                    973.0,
+                    599.0
+                ],
+                [
+                    100.0,
+                    596.0
+                ]
+            ]
+        },
+        {
+            "text": "China, making it the largest in the group's history.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    17.0,
+                    607.0
+                ],
+                [
+                    1062.0,
+                    613.0
+                ],
+                [
+                    1062.0,
+                    658.0
+                ],
+                [
+                    17.0,
+                    652.0
+                ]
+            ]
+        },
+        {
+            "text": "+i",
+            "confidence": 0.573,
+            "box": [
+                [
+                    83.0,
+                    702.0
+                ],
+                [
+                    1077.0,
+                    700.0
+                ],
+                [
+                    1077.0,
+                    740.0
+                ],
+                [
+                    83.0,
+                    743.0
+                ]
+            ]
+        },
+        {
+            "text": "TaHby3nHbKnTa",
+            "confidence": 0.748,
+            "box": [
+                [
+                    180.0,
+                    806.0
+                ],
+                [
+                    401.0,
+                    806.0
+                ],
+                [
+                    401.0,
+                    824.0
+                ],
+                [
+                    180.0,
+                    824.0
+                ]
+            ]
+        },
+        {
+            "text": "2025911ceHT6pa2025roa",
+            "confidence": 0.851,
+            "box": [
+                [
+                    644.0,
+                    803.0
+                ],
+                [
+                    865.0,
+                    803.0
+                ],
+                [
+                    865.0,
+                    822.0
+                ],
+                [
+                    644.0,
+                    822.0
+                ]
+            ]
+        },
+        {
+            "text": "Xi Jinping hosted the event, with leaders from",
+            "confidence": 0.961,
+            "box": [
+                [
+                    51.0,
+                    1182.0
+                ],
+                [
+                    1028.0,
+                    1182.0
+                ],
+                [
+                    1028.0,
+                    1225.0
+                ],
+                [
+                    51.0,
+                    1225.0
+                ]
+            ]
+        },
+        {
+            "text": "all 10 member nations, including India, Russia,.",
+            "confidence": 0.939,
+            "box": [
+                [
+                    49.0,
+                    1237.0
+                ],
+                [
+                    1027.0,
+                    1238.0
+                ],
+                [
+                    1027.0,
+                    1279.0
+                ],
+                [
+                    49.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "and Iran, in attendance.",
+            "confidence": 0.951,
+            "box": [
+                [
+                    291.0,
+                    1294.0
+                ],
+                [
+                    790.0,
+                    1296.0
+                ],
+                [
+                    790.0,
+                    1332.0
+                ],
+                [
+                    291.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-09-19_03-37-59_UTC_7.jpg",
+    "combined_text": "UA\nUtdActive\n@UtdActive\nMctominay aura has changed so much, man.",
+    "detailed": [
+        {
+            "text": "UA",
+            "confidence": 0.94,
+            "box": [
+                [
+                    37.0,
+                    188.0
+                ],
+                [
+                    118.0,
+                    188.0
+                ],
+                [
+                    118.0,
+                    283.0
+                ],
+                [
+                    37.0,
+                    283.0
+                ]
+            ]
+        },
+        {
+            "text": "UtdActive",
+            "confidence": 0.998,
+            "box": [
+                [
+                    156.0,
+                    182.0
+                ],
+                [
+                    342.0,
+                    182.0
+                ],
+                [
+                    342.0,
+                    217.0
+                ],
+                [
+                    156.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "@UtdActive",
+            "confidence": 0.99,
+            "box": [
+                [
+                    156.0,
+                    227.0
+                ],
+                [
+                    362.0,
+                    230.0
+                ],
+                [
+                    361.0,
+                    267.0
+                ],
+                [
+                    156.0,
+                    263.0
+                ]
+            ]
+        },
+        {
+            "text": "Mctominay aura has changed so much, man.",
+            "confidence": 0.979,
+            "box": [
+                [
+                    25.0,
+                    353.0
+                ],
+                [
+                    880.0,
+                    353.0
+                ],
+                [
+                    880.0,
+                    393.0
+                ],
+                [
+                    25.0,
+                    393.0
+                ]
+            ]
+        }
+    ]
+}

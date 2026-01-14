@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-03-31_05-03-29_UTC.jpg",
+    "combined_text": "EID\nMUBARAK\nMay the divine blessings of Allah fill your\nlife with happiness,success, and\nprosperity. Happy Eid Mubarak to you\nand your family",
+    "detailed": [
+        {
+            "text": "EID",
+            "confidence": 0.997,
+            "box": [
+                [
+                    434.0,
+                    312.0
+                ],
+                [
+                    651.0,
+                    312.0
+                ],
+                [
+                    651.0,
+                    423.0
+                ],
+                [
+                    434.0,
+                    423.0
+                ]
+            ]
+        },
+        {
+            "text": "MUBARAK",
+            "confidence": 0.992,
+            "box": [
+                [
+                    227.0,
+                    447.0
+                ],
+                [
+                    862.0,
+                    447.0
+                ],
+                [
+                    862.0,
+                    543.0
+                ],
+                [
+                    227.0,
+                    543.0
+                ]
+            ]
+        },
+        {
+            "text": "May the divine blessings of Allah fill your",
+            "confidence": 0.957,
+            "box": [
+                [
+                    160.0,
+                    668.0
+                ],
+                [
+                    922.0,
+                    668.0
+                ],
+                [
+                    922.0,
+                    709.0
+                ],
+                [
+                    160.0,
+                    709.0
+                ]
+            ]
+        },
+        {
+            "text": "life with happiness,success, and",
+            "confidence": 0.927,
+            "box": [
+                [
+                    231.0,
+                    719.0
+                ],
+                [
+                    854.0,
+                    721.0
+                ],
+                [
+                    854.0,
+                    770.0
+                ],
+                [
+                    231.0,
+                    767.0
+                ]
+            ]
+        },
+        {
+            "text": "prosperity. Happy Eid Mubarak to you",
+            "confidence": 0.959,
+            "box": [
+                [
+                    186.0,
+                    781.0
+                ],
+                [
+                    896.0,
+                    776.0
+                ],
+                [
+                    897.0,
+                    820.0
+                ],
+                [
+                    186.0,
+                    825.0
+                ]
+            ]
+        },
+        {
+            "text": "and your family",
+            "confidence": 0.947,
+            "box": [
+                [
+                    396.0,
+                    831.0
+                ],
+                [
+                    683.0,
+                    834.0
+                ],
+                [
+                    683.0,
+                    879.0
+                ],
+                [
+                    396.0,
+                    876.0
+                ]
+            ]
+        }
+    ]
+}

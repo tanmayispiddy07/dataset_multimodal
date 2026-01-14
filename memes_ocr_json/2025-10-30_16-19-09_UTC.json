@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-10-30_16-19-09_UTC.jpg",
+    "combined_text": "India's fielding in the tournament\nJADIA\n35 Catches taken\n18 Catches dropped\nsarcasm\n66% Catching efficiency\n3 Stumpings missed\nNDIA\n74Misfelds\n6 Balls with overthrows",
+    "detailed": [
+        {
+            "text": "India's fielding in the tournament",
+            "confidence": 0.997,
+            "box": [
+                [
+                    55.0,
+                    57.0
+                ],
+                [
+                    1022.0,
+                    60.0
+                ],
+                [
+                    1022.0,
+                    114.0
+                ],
+                [
+                    55.0,
+                    111.0
+                ]
+            ]
+        },
+        {
+            "text": "JADIA",
+            "confidence": 0.888,
+            "box": [
+                [
+                    264.0,
+                    390.0
+                ],
+                [
+                    343.0,
+                    396.0
+                ],
+                [
+                    340.0,
+                    434.0
+                ],
+                [
+                    261.0,
+                    428.0
+                ]
+            ]
+        },
+        {
+            "text": "35 Catches taken",
+            "confidence": 0.964,
+            "box": [
+                [
+                    82.0,
+                    503.0
+                ],
+                [
+                    446.0,
+                    508.0
+                ],
+                [
+                    445.0,
+                    544.0
+                ],
+                [
+                    81.0,
+                    540.0
+                ]
+            ]
+        },
+        {
+            "text": "18 Catches dropped",
+            "confidence": 0.968,
+            "box": [
+                [
+                    599.0,
+                    503.0
+                ],
+                [
+                    1017.0,
+                    508.0
+                ],
+                [
+                    1016.0,
+                    547.0
+                ],
+                [
+                    599.0,
+                    542.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.981,
+            "box": [
+                [
+                    584.0,
+                    618.0
+                ],
+                [
+                    689.0,
+                    618.0
+                ],
+                [
+                    689.0,
+                    637.0
+                ],
+                [
+                    584.0,
+                    637.0
+                ]
+            ]
+        },
+        {
+            "text": "66% Catching efficiency",
+            "confidence": 0.988,
+            "box": [
+                [
+                    17.0,
+                    887.0
+                ],
+                [
+                    522.0,
+                    895.0
+                ],
+                [
+                    521.0,
+                    940.0
+                ],
+                [
+                    17.0,
+                    932.0
+                ]
+            ]
+        },
+        {
+            "text": "3 Stumpings missed",
+            "confidence": 0.996,
+            "box": [
+                [
+                    599.0,
+                    893.0
+                ],
+                [
+                    1017.0,
+                    893.0
+                ],
+                [
+                    1017.0,
+                    937.0
+                ],
+                [
+                    599.0,
+                    937.0
+                ]
+            ]
+        },
+        {
+            "text": "NDIA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    188.0,
+                    1200.0
+                ],
+                [
+                    312.0,
+                    1179.0
+                ],
+                [
+                    322.0,
+                    1238.0
+                ],
+                [
+                    198.0,
+                    1259.0
+                ]
+            ]
+        },
+        {
+            "text": "74Misfelds",
+            "confidence": 0.989,
+            "box": [
+                [
+                    149.0,
+                    1286.0
+                ],
+                [
+                    391.0,
+                    1286.0
+                ],
+                [
+                    391.0,
+                    1322.0
+                ],
+                [
+                    149.0,
+                    1322.0
+                ]
+            ]
+        },
+        {
+            "text": "6 Balls with overthrows",
+            "confidence": 0.978,
+            "box": [
+                [
+                    563.0,
+                    1286.0
+                ],
+                [
+                    1055.0,
+                    1287.0
+                ],
+                [
+                    1055.0,
+                    1324.0
+                ],
+                [
+                    562.0,
+                    1322.0
+                ]
+            ]
+        }
+    ]
+}

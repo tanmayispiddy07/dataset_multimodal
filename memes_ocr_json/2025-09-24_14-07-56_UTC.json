@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-09-24_14-07-56_UTC.jpg",
+    "combined_text": "The first iPhone's camera compared\nto a recent iPhone's camera...\nsarcasm",
+    "detailed": [
+        {
+            "text": "The first iPhone's camera compared",
+            "confidence": 1.0,
+            "box": [
+                [
+                    7.0,
+                    80.0
+                ],
+                [
+                    1074.0,
+                    86.0
+                ],
+                [
+                    1074.0,
+                    147.0
+                ],
+                [
+                    7.0,
+                    142.0
+                ]
+            ]
+        },
+        {
+            "text": "to a recent iPhone's camera...",
+            "confidence": 0.993,
+            "box": [
+                [
+                    101.0,
+                    167.0
+                ],
+                [
+                    980.0,
+                    171.0
+                ],
+                [
+                    980.0,
+                    233.0
+                ],
+                [
+                    101.0,
+                    229.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    336.0,
+                    651.0
+                ],
+                [
+                    461.0,
+                    651.0
+                ],
+                [
+                    461.0,
+                    678.0
+                ],
+                [
+                    336.0,
+                    678.0
+                ]
+            ]
+        }
+    ]
+}

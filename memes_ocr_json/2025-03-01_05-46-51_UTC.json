@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-03-01_05-46-51_UTC.jpg",
+    "combined_text": "OOHALONA OOSULAADE LYRICAL VIDEO\nSONG FROM KAALAMEGA KARIGINDHI\"\nSsea\nDELTA FORCE\nADDICTEDTOMEMES\nSONG VINTUNTE NA\nSCHOOL LOVE STORY DAYS\nGURTHU VACHAYI",
+    "detailed": [
+        {
+            "text": "OOHALONA OOSULAADE LYRICAL VIDEO",
+            "confidence": 0.959,
+            "box": [
+                [
+                    108.0,
+                    103.0
+                ],
+                [
+                    975.0,
+                    103.0
+                ],
+                [
+                    975.0,
+                    141.0
+                ],
+                [
+                    108.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG FROM KAALAMEGA KARIGINDHI\"",
+            "confidence": 0.971,
+            "box": [
+                [
+                    110.0,
+                    153.0
+                ],
+                [
+                    969.0,
+                    153.0
+                ],
+                [
+                    969.0,
+                    191.0
+                ],
+                [
+                    110.0,
+                    191.0
+                ]
+            ]
+        },
+        {
+            "text": "Ssea",
+            "confidence": 0.783,
+            "box": [
+                [
+                    0.0,
+                    812.0
+                ],
+                [
+                    133.0,
+                    820.0
+                ],
+                [
+                    130.0,
+                    865.0
+                ],
+                [
+                    0.0,
+                    856.0
+                ]
+            ]
+        },
+        {
+            "text": "DELTA FORCE",
+            "confidence": 0.942,
+            "box": [
+                [
+                    543.0,
+                    969.0
+                ],
+                [
+                    715.0,
+                    930.0
+                ],
+                [
+                    727.0,
+                    979.0
+                ],
+                [
+                    555.0,
+                    1018.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    44.0,
+                    1087.0
+                ],
+                [
+                    193.0,
+                    1087.0
+                ],
+                [
+                    193.0,
+                    1108.0
+                ],
+                [
+                    44.0,
+                    1108.0
+                ]
+            ]
+        },
+        {
+            "text": "SONG VINTUNTE NA",
+            "confidence": 0.948,
+            "box": [
+                [
+                    93.0,
+                    1192.0
+                ],
+                [
+                    499.0,
+                    1192.0
+                ],
+                [
+                    499.0,
+                    1229.0
+                ],
+                [
+                    93.0,
+                    1229.0
+                ]
+            ]
+        },
+        {
+            "text": "SCHOOL LOVE STORY DAYS",
+            "confidence": 0.945,
+            "box": [
+                [
+                    25.0,
+                    1242.0
+                ],
+                [
+                    568.0,
+                    1242.0
+                ],
+                [
+                    568.0,
+                    1279.0
+                ],
+                [
+                    25.0,
+                    1279.0
+                ]
+            ]
+        },
+        {
+            "text": "GURTHU VACHAYI",
+            "confidence": 0.968,
+            "box": [
+                [
+                    120.0,
+                    1289.0
+                ],
+                [
+                    477.0,
+                    1292.0
+                ],
+                [
+                    477.0,
+                    1331.0
+                ],
+                [
+                    119.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

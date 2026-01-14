@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-09-26_03-35-37_UTC_5.jpg",
+    "combined_text": "sarcasm\nPARKVA\nCIY\nPARKTEW\nCIT\nWhen you've finally made it to finals\nBut match will still telecasted live",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    86.0,
+                    140.0
+                ],
+                [
+                    202.0,
+                    140.0
+                ],
+                [
+                    202.0,
+                    167.0
+                ],
+                [
+                    86.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "PARKVA",
+            "confidence": 0.906,
+            "box": [
+                [
+                    735.0,
+                    321.0
+                ],
+                [
+                    800.0,
+                    321.0
+                ],
+                [
+                    800.0,
+                    345.0
+                ],
+                [
+                    735.0,
+                    345.0
+                ]
+            ]
+        },
+        {
+            "text": "CIY",
+            "confidence": 0.69,
+            "box": [
+                [
+                    759.0,
+                    341.0
+                ],
+                [
+                    796.0,
+                    341.0
+                ],
+                [
+                    796.0,
+                    360.0
+                ],
+                [
+                    759.0,
+                    360.0
+                ]
+            ]
+        },
+        {
+            "text": "PARKTEW",
+            "confidence": 0.964,
+            "box": [
+                [
+                    50.0,
+                    448.0
+                ],
+                [
+                    189.0,
+                    473.0
+                ],
+                [
+                    182.0,
+                    511.0
+                ],
+                [
+                    43.0,
+                    486.0
+                ]
+            ]
+        },
+        {
+            "text": "CIT",
+            "confidence": 0.987,
+            "box": [
+                [
+                    82.0,
+                    493.0
+                ],
+                [
+                    142.0,
+                    499.0
+                ],
+                [
+                    138.0,
+                    529.0
+                ],
+                [
+                    79.0,
+                    524.0
+                ]
+            ]
+        },
+        {
+            "text": "When you've finally made it to finals",
+            "confidence": 0.988,
+            "box": [
+                [
+                    51.0,
+                    618.0
+                ],
+                [
+                    1027.0,
+                    618.0
+                ],
+                [
+                    1027.0,
+                    667.0
+                ],
+                [
+                    51.0,
+                    667.0
+                ]
+            ]
+        },
+        {
+            "text": "But match will still telecasted live",
+            "confidence": 0.984,
+            "box": [
+                [
+                    52.0,
+                    1283.0
+                ],
+                [
+                    945.0,
+                    1283.0
+                ],
+                [
+                    945.0,
+                    1331.0
+                ],
+                [
+                    52.0,
+                    1331.0
+                ]
+            ]
+        }
+    ]
+}

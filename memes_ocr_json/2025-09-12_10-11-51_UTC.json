@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-09-12_10-11-51_UTC.jpg",
+    "combined_text": "TEJA SAJJA IS THE MAN OF\nTHE HOUR RULING TFI\nADDICTEDTOMEMES\nMIRAI\nJ SHEKAR VARMA\nANAPPLETREE STUDIOS PRODUCRON\nWRITTEN 6RECTED BY PRASANT\nHANUOMANS",
+    "detailed": [
+        {
+            "text": "TEJA SAJJA IS THE MAN OF",
+            "confidence": 0.982,
+            "box": [
+                [
+                    176.0,
+                    18.0
+                ],
+                [
+                    921.0,
+                    18.0
+                ],
+                [
+                    921.0,
+                    68.0
+                ],
+                [
+                    176.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "THE HOUR RULING TFI",
+            "confidence": 0.955,
+            "box": [
+                [
+                    248.0,
+                    86.0
+                ],
+                [
+                    847.0,
+                    86.0
+                ],
+                [
+                    847.0,
+                    132.0
+                ],
+                [
+                    248.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    629.0,
+                    637.0
+                ],
+                [
+                    772.0,
+                    637.0
+                ],
+                [
+                    772.0,
+                    658.0
+                ],
+                [
+                    629.0,
+                    658.0
+                ]
+            ]
+        },
+        {
+            "text": "MIRAI",
+            "confidence": 0.644,
+            "box": [
+                [
+                    852.0,
+                    711.0
+                ],
+                [
+                    1055.0,
+                    723.0
+                ],
+                [
+                    1051.0,
+                    789.0
+                ],
+                [
+                    848.0,
+                    776.0
+                ]
+            ]
+        },
+        {
+            "text": "J SHEKAR VARMA",
+            "confidence": 0.894,
+            "box": [
+                [
+                    134.0,
+                    737.0
+                ],
+                [
+                    221.0,
+                    740.0
+                ],
+                [
+                    220.0,
+                    757.0
+                ],
+                [
+                    133.0,
+                    754.0
+                ]
+            ]
+        },
+        {
+            "text": "ANAPPLETREE STUDIOS PRODUCRON",
+            "confidence": 0.906,
+            "box": [
+                [
+                    163.0,
+                    729.0
+                ],
+                [
+                    308.0,
+                    729.0
+                ],
+                [
+                    308.0,
+                    746.0
+                ],
+                [
+                    163.0,
+                    746.0
+                ]
+            ]
+        },
+        {
+            "text": "WRITTEN 6RECTED BY PRASANT",
+            "confidence": 0.798,
+            "box": [
+                [
+                    219.0,
+                    740.0
+                ],
+                [
+                    356.0,
+                    740.0
+                ],
+                [
+                    356.0,
+                    757.0
+                ],
+                [
+                    219.0,
+                    757.0
+                ]
+            ]
+        },
+        {
+            "text": "HANUOMANS",
+            "confidence": 0.812,
+            "box": [
+                [
+                    360.0,
+                    740.0
+                ],
+                [
+                    701.0,
+                    737.0
+                ],
+                [
+                    702.0,
+                    794.0
+                ],
+                [
+                    360.0,
+                    797.0
+                ]
+            ]
+        }
+    ]
+}

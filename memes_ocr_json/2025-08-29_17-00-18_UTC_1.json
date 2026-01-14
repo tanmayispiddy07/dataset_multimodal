@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-08-29_17-00-18_UTC_1.jpg",
+    "combined_text": "Param Sundari marks the return of\nrom-coms in Bollywood. Critics and\n4V\naudiences are all praises for it!.\nSWIPE",
+    "detailed": [
+        {
+            "text": "Param Sundari marks the return of",
+            "confidence": 0.999,
+            "box": [
+                [
+                    112.0,
+                    49.0
+                ],
+                [
+                    941.0,
+                    49.0
+                ],
+                [
+                    941.0,
+                    93.0
+                ],
+                [
+                    112.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "rom-coms in Bollywood. Critics and",
+            "confidence": 0.999,
+            "box": [
+                [
+                    105.0,
+                    107.0
+                ],
+                [
+                    946.0,
+                    107.0
+                ],
+                [
+                    946.0,
+                    150.0
+                ],
+                [
+                    105.0,
+                    150.0
+                ]
+            ]
+        },
+        {
+            "text": "4V",
+            "confidence": 0.626,
+            "box": [
+                [
+                    872.0,
+                    158.0
+                ],
+                [
+                    891.0,
+                    163.0
+                ],
+                [
+                    889.0,
+                    174.0
+                ],
+                [
+                    870.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "audiences are all praises for it!.",
+            "confidence": 0.997,
+            "box": [
+                [
+                    70.0,
+                    170.0
+                ],
+                [
+                    827.0,
+                    164.0
+                ],
+                [
+                    827.0,
+                    218.0
+                ],
+                [
+                    71.0,
+                    224.0
+                ]
+            ]
+        },
+        {
+            "text": "SWIPE",
+            "confidence": 0.996,
+            "box": [
+                [
+                    21.0,
+                    300.0
+                ],
+                [
+                    166.0,
+                    300.0
+                ],
+                [
+                    166.0,
+                    346.0
+                ],
+                [
+                    21.0,
+                    346.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-11-20_14-04-29_UTC_1.jpg",
+    "combined_text": "Are you also single? watch this\nSwipe >",
+    "detailed": [
+        {
+            "text": "Are you also single? watch this",
+            "confidence": 0.99,
+            "box": [
+                [
+                    59.0,
+                    101.0
+                ],
+                [
+                    1021.0,
+                    101.0
+                ],
+                [
+                    1021.0,
+                    167.0
+                ],
+                [
+                    59.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "Swipe >",
+            "confidence": 0.977,
+            "box": [
+                [
+                    908.0,
+                    291.0
+                ],
+                [
+                    1045.0,
+                    291.0
+                ],
+                [
+                    1045.0,
+                    333.0
+                ],
+                [
+                    908.0,
+                    333.0
+                ]
+            ]
+        }
+    ]
+}

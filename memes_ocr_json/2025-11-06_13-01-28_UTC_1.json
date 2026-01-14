@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-11-06_13-01-28_UTC_1.jpg",
+    "combined_text": "Whenever the trio gets together,\nMastili is guaranteed ",
+    "detailed": [
+        {
+            "text": "Whenever the trio gets together,",
+            "confidence": 0.993,
+            "box": [
+                [
+                    155.0,
+                    76.0
+                ],
+                [
+                    923.0,
+                    80.0
+                ],
+                [
+                    922.0,
+                    128.0
+                ],
+                [
+                    155.0,
+                    124.0
+                ]
+            ]
+        },
+        {
+            "text": "Mastili is guaranteed ",
+            "confidence": 0.978,
+            "box": [
+                [
+                    229.0,
+                    135.0
+                ],
+                [
+                    790.0,
+                    136.0
+                ],
+                [
+                    790.0,
+                    181.0
+                ],
+                [
+                    229.0,
+                    180.0
+                ]
+            ]
+        }
+    ]
+}

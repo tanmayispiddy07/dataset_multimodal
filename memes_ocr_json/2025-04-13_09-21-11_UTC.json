@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-04-13_09-21-11_UTC.jpg",
+    "combined_text": "SARANGAPANI JATHAKAM IS A CLEAN FAMILY\nENTERTAINER AND A PURE TELUGU FILM MADE\nENTIRELY WITH TELUGU ACTORS\nMOVIE RELEASING ON APRIL 25TH\nIDEVI MOVIES\nIN CINEMAS\n25\"APRIL\nMohanakrishna Indraganti\ntooontn\nSivalenkaKrishna Presad\nDICTEDTOMEMES\n**ME SILENTLY GOING TO MOVIE",
+    "detailed": [
+        {
+            "text": "SARANGAPANI JATHAKAM IS A CLEAN FAMILY",
+            "confidence": 0.957,
+            "box": [
+                [
+                    214.0,
+                    10.0
+                ],
+                [
+                    907.0,
+                    10.0
+                ],
+                [
+                    907.0,
+                    39.0
+                ],
+                [
+                    214.0,
+                    39.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTERTAINER AND A PURE TELUGU FILM MADE",
+            "confidence": 0.934,
+            "box": [
+                [
+                    210.0,
+                    43.0
+                ],
+                [
+                    910.0,
+                    43.0
+                ],
+                [
+                    910.0,
+                    72.0
+                ],
+                [
+                    210.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "ENTIRELY WITH TELUGU ACTORS",
+            "confidence": 0.955,
+            "box": [
+                [
+                    319.0,
+                    82.0
+                ],
+                [
+                    800.0,
+                    82.0
+                ],
+                [
+                    800.0,
+                    107.0
+                ],
+                [
+                    319.0,
+                    107.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON APRIL 25TH",
+            "confidence": 0.946,
+            "box": [
+                [
+                    298.0,
+                    116.0
+                ],
+                [
+                    820.0,
+                    116.0
+                ],
+                [
+                    820.0,
+                    145.0
+                ],
+                [
+                    298.0,
+                    145.0
+                ]
+            ]
+        },
+        {
+            "text": "IDEVI MOVIES",
+            "confidence": 0.947,
+            "box": [
+                [
+                    0.0,
+                    199.0
+                ],
+                [
+                    60.0,
+                    199.0
+                ],
+                [
+                    60.0,
+                    217.0
+                ],
+                [
+                    0.0,
+                    217.0
+                ]
+            ]
+        },
+        {
+            "text": "IN CINEMAS",
+            "confidence": 0.968,
+            "box": [
+                [
+                    188.0,
+                    190.0
+                ],
+                [
+                    416.0,
+                    190.0
+                ],
+                [
+                    416.0,
+                    245.0
+                ],
+                [
+                    188.0,
+                    245.0
+                ]
+            ]
+        },
+        {
+            "text": "25\"APRIL",
+            "confidence": 0.99,
+            "box": [
+                [
+                    75.0,
+                    251.0
+                ],
+                [
+                    522.0,
+                    246.0
+                ],
+                [
+                    524.0,
+                    372.0
+                ],
+                [
+                    77.0,
+                    377.0
+                ]
+            ]
+        },
+        {
+            "text": "Mohanakrishna Indraganti",
+            "confidence": 0.925,
+            "box": [
+                [
+                    34.0,
+                    372.0
+                ],
+                [
+                    177.0,
+                    374.0
+                ],
+                [
+                    177.0,
+                    392.0
+                ],
+                [
+                    34.0,
+                    390.0
+                ]
+            ]
+        },
+        {
+            "text": "tooontn",
+            "confidence": 0.689,
+            "box": [
+                [
+                    16.0,
+                    397.0
+                ],
+                [
+                    188.0,
+                    388.0
+                ],
+                [
+                    191.0,
+                    445.0
+                ],
+                [
+                    19.0,
+                    454.0
+                ]
+            ]
+        },
+        {
+            "text": "SivalenkaKrishna Presad",
+            "confidence": 0.867,
+            "box": [
+                [
+                    35.0,
+                    472.0
+                ],
+                [
+                    170.0,
+                    472.0
+                ],
+                [
+                    170.0,
+                    493.0
+                ],
+                [
+                    35.0,
+                    493.0
+                ]
+            ]
+        },
+        {
+            "text": "DICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    570.0,
+                    917.0
+                ],
+                [
+                    698.0,
+                    917.0
+                ],
+                [
+                    698.0,
+                    930.0
+                ],
+                [
+                    570.0,
+                    930.0
+                ]
+            ]
+        },
+        {
+            "text": "**ME SILENTLY GOING TO MOVIE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    174.0,
+                    959.0
+                ],
+                [
+                    984.0,
+                    959.0
+                ],
+                [
+                    984.0,
+                    1009.0
+                ],
+                [
+                    174.0,
+                    1009.0
+                ]
+            ]
+        }
+    ]
+}

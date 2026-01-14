@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-11-07_13-01-47_UTC_4.jpg",
+    "combined_text": "SCRAWLED\nSTORIES\nApril is mentally here",
+    "detailed": [
+        {
+            "text": "SCRAWLED",
+            "confidence": 0.997,
+            "box": [
+                [
+                    72.0,
+                    69.0
+                ],
+                [
+                    177.0,
+                    69.0
+                ],
+                [
+                    177.0,
+                    92.0
+                ],
+                [
+                    72.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "STORIES",
+            "confidence": 0.997,
+            "box": [
+                [
+                    82.0,
+                    92.0
+                ],
+                [
+                    169.0,
+                    92.0
+                ],
+                [
+                    169.0,
+                    110.0
+                ],
+                [
+                    82.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "April is mentally here",
+            "confidence": 0.998,
+            "box": [
+                [
+                    96.0,
+                    240.0
+                ],
+                [
+                    984.0,
+                    236.0
+                ],
+                [
+                    984.0,
+                    334.0
+                ],
+                [
+                    96.0,
+                    337.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,226 @@
+{
+    "image_name": "2026-01-10_13-28-36_UTC.jpg",
+    "combined_text": "MEENAKSHI AND HER PONGAL\nSTRIKES CONTINUES\nADDICTEDTOMEMES\n2024 SANKRANTI KI\nGUNTUR KAARAM\n2025 SANKRANTHI\nKI SANKRANTHI KI\nVASTHUNAMU\nESARI SANKRANTHI KI\nANAGANAGA OKA RAJU",
+    "detailed": [
+        {
+            "text": "MEENAKSHI AND HER PONGAL",
+            "confidence": 0.952,
+            "box": [
+                [
+                    186.0,
+                    16.0
+                ],
+                [
+                    949.0,
+                    16.0
+                ],
+                [
+                    949.0,
+                    62.0
+                ],
+                [
+                    186.0,
+                    62.0
+                ]
+            ]
+        },
+        {
+            "text": "STRIKES CONTINUES",
+            "confidence": 0.981,
+            "box": [
+                [
+                    309.0,
+                    79.0
+                ],
+                [
+                    814.0,
+                    79.0
+                ],
+                [
+                    814.0,
+                    122.0
+                ],
+                [
+                    309.0,
+                    122.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.985,
+            "box": [
+                [
+                    506.0,
+                    276.0
+                ],
+                [
+                    633.0,
+                    276.0
+                ],
+                [
+                    633.0,
+                    293.0
+                ],
+                [
+                    506.0,
+                    293.0
+                ]
+            ]
+        },
+        {
+            "text": "2024 SANKRANTI KI",
+            "confidence": 0.95,
+            "box": [
+                [
+                    579.0,
+                    474.0
+                ],
+                [
+                    1045.0,
+                    471.0
+                ],
+                [
+                    1045.0,
+                    517.0
+                ],
+                [
+                    580.0,
+                    520.0
+                ]
+            ]
+        },
+        {
+            "text": "GUNTUR KAARAM",
+            "confidence": 0.971,
+            "box": [
+                [
+                    600.0,
+                    530.0
+                ],
+                [
+                    1021.0,
+                    530.0
+                ],
+                [
+                    1021.0,
+                    573.0
+                ],
+                [
+                    600.0,
+                    573.0
+                ]
+            ]
+        },
+        {
+            "text": "2025 SANKRANTHI",
+            "confidence": 0.969,
+            "box": [
+                [
+                    603.0,
+                    839.0
+                ],
+                [
+                    977.0,
+                    841.0
+                ],
+                [
+                    977.0,
+                    879.0
+                ],
+                [
+                    603.0,
+                    878.0
+                ]
+            ]
+        },
+        {
+            "text": "KI SANKRANTHI KI",
+            "confidence": 0.937,
+            "box": [
+                [
+                    606.0,
+                    887.0
+                ],
+                [
+                    975.0,
+                    889.0
+                ],
+                [
+                    974.0,
+                    927.0
+                ],
+                [
+                    606.0,
+                    926.0
+                ]
+            ]
+        },
+        {
+            "text": "VASTHUNAMU",
+            "confidence": 0.995,
+            "box": [
+                [
+                    647.0,
+                    937.0
+                ],
+                [
+                    927.0,
+                    937.0
+                ],
+                [
+                    927.0,
+                    975.0
+                ],
+                [
+                    647.0,
+                    975.0
+                ]
+            ]
+        },
+        {
+            "text": "ESARI SANKRANTHI KI",
+            "confidence": 0.951,
+            "box": [
+                [
+                    541.0,
+                    1269.0
+                ],
+                [
+                    977.0,
+                    1269.0
+                ],
+                [
+                    977.0,
+                    1303.0
+                ],
+                [
+                    541.0,
+                    1303.0
+                ]
+            ]
+        },
+        {
+            "text": "ANAGANAGA OKA RAJU",
+            "confidence": 0.964,
+            "box": [
+                [
+                    508.0,
+                    1314.0
+                ],
+                [
+                    997.0,
+                    1314.0
+                ],
+                [
+                    997.0,
+                    1352.0
+                ],
+                [
+                    508.0,
+                    1352.0
+                ]
+            ]
+        }
+    ]
+}

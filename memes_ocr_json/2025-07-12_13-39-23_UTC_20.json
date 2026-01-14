@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-07-12_13-39-23_UTC_20.jpg",
+    "combined_text": "Disha Patani",
+    "detailed": [
+        {
+            "text": "Disha Patani",
+            "confidence": 0.977,
+            "box": [
+                [
+                    381.0,
+                    1267.0
+                ],
+                [
+                    700.0,
+                    1267.0
+                ],
+                [
+                    700.0,
+                    1312.0
+                ],
+                [
+                    381.0,
+                    1312.0
+                ]
+            ]
+        }
+    ]
+}

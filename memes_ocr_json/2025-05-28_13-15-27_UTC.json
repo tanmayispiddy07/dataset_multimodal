@@ -1,0 +1,534 @@
+{
+    "image_name": "2025-05-28_13-15-27_UTC.jpg",
+    "combined_text": "THUGLIFE PRE-RELEASE EVENT TOMORROW\nAT GURAJADA KALAKSHETRAM, VIZAG (6PM)\nFOR PASSES WWW.YOUWEMEDIA.COM\nQ6c\nPRE-RELEASE\nEVENT\nKAMAL NAASAN\nON29THMAY2025 6PMONWAROS\nATGURAJADA KALAKSHETHRAM\nVISHAKAPATNAM.\nMANI RATNASS\nFL\nPRE-RELEASE EVENT\nON29MAY2025,06:00PMONWARDS\nBOOK YOURFREEPASSES\nAT GURAJADA KALAKSHETRAM,\nWWW.YOUWEMEDIA.COM\nOPP VMRDA.VISAKHAPATNAM.\nBOOK\nYOU\n.COM\n**VIZAG YUVATHA\nADDICTEDTOMEMES\nREPUEVENT LORACHA RACHE",
+    "detailed": [
+        {
+            "text": "THUGLIFE PRE-RELEASE EVENT TOMORROW",
+            "confidence": 0.963,
+            "box": [
+                [
+                    122.0,
+                    42.0
+                ],
+                [
+                    1017.0,
+                    42.0
+                ],
+                [
+                    1017.0,
+                    79.0
+                ],
+                [
+                    122.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "AT GURAJADA KALAKSHETRAM, VIZAG (6PM)",
+            "confidence": 0.948,
+            "box": [
+                [
+                    101.0,
+                    93.0
+                ],
+                [
+                    1038.0,
+                    93.0
+                ],
+                [
+                    1038.0,
+                    131.0
+                ],
+                [
+                    101.0,
+                    131.0
+                ]
+            ]
+        },
+        {
+            "text": "FOR PASSES WWW.YOUWEMEDIA.COM",
+            "confidence": 0.989,
+            "box": [
+                [
+                    177.0,
+                    142.0
+                ],
+                [
+                    959.0,
+                    145.0
+                ],
+                [
+                    959.0,
+                    187.0
+                ],
+                [
+                    177.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "Q6c",
+            "confidence": 0.519,
+            "box": [
+                [
+                    641.0,
+                    254.0
+                ],
+                [
+                    797.0,
+                    254.0
+                ],
+                [
+                    797.0,
+                    360.0
+                ],
+                [
+                    641.0,
+                    360.0
+                ]
+            ]
+        },
+        {
+            "text": "PRE-RELEASE",
+            "confidence": 0.988,
+            "box": [
+                [
+                    797.0,
+                    294.0
+                ],
+                [
+                    1077.0,
+                    294.0
+                ],
+                [
+                    1077.0,
+                    354.0
+                ],
+                [
+                    797.0,
+                    354.0
+                ]
+            ]
+        },
+        {
+            "text": "EVENT",
+            "confidence": 0.998,
+            "box": [
+                [
+                    797.0,
+                    346.0
+                ],
+                [
+                    893.0,
+                    346.0
+                ],
+                [
+                    893.0,
+                    392.0
+                ],
+                [
+                    797.0,
+                    392.0
+                ]
+            ]
+        },
+        {
+            "text": "KAMAL NAASAN",
+            "confidence": 0.718,
+            "box": [
+                [
+                    30.0,
+                    520.0
+                ],
+                [
+                    107.0,
+                    520.0
+                ],
+                [
+                    107.0,
+                    542.0
+                ],
+                [
+                    30.0,
+                    542.0
+                ]
+            ]
+        },
+        {
+            "text": "ON29THMAY2025 6PMONWAROS",
+            "confidence": 0.926,
+            "box": [
+                [
+                    598.0,
+                    551.0
+                ],
+                [
+                    1027.0,
+                    551.0
+                ],
+                [
+                    1027.0,
+                    588.0
+                ],
+                [
+                    598.0,
+                    588.0
+                ]
+            ]
+        },
+        {
+            "text": "ATGURAJADA KALAKSHETHRAM",
+            "confidence": 0.973,
+            "box": [
+                [
+                    577.0,
+                    594.0
+                ],
+                [
+                    1042.0,
+                    594.0
+                ],
+                [
+                    1042.0,
+                    631.0
+                ],
+                [
+                    577.0,
+                    631.0
+                ]
+            ]
+        },
+        {
+            "text": "VISHAKAPATNAM.",
+            "confidence": 0.974,
+            "box": [
+                [
+                    699.0,
+                    634.0
+                ],
+                [
+                    920.0,
+                    634.0
+                ],
+                [
+                    920.0,
+                    669.0
+                ],
+                [
+                    699.0,
+                    669.0
+                ]
+            ]
+        },
+        {
+            "text": "MANI RATNASS",
+            "confidence": 0.726,
+            "box": [
+                [
+                    21.0,
+                    682.0
+                ],
+                [
+                    115.0,
+                    682.0
+                ],
+                [
+                    115.0,
+                    698.0
+                ],
+                [
+                    21.0,
+                    698.0
+                ]
+            ]
+        },
+        {
+            "text": "FL",
+            "confidence": 0.577,
+            "box": [
+                [
+                    121.0,
+                    686.0
+                ],
+                [
+                    135.0,
+                    686.0
+                ],
+                [
+                    135.0,
+                    695.0
+                ],
+                [
+                    121.0,
+                    695.0
+                ]
+            ]
+        },
+        {
+            "text": "PRE-RELEASE EVENT",
+            "confidence": 0.969,
+            "box": [
+                [
+                    8.0,
+                    707.0
+                ],
+                [
+                    343.0,
+                    707.0
+                ],
+                [
+                    343.0,
+                    750.0
+                ],
+                [
+                    8.0,
+                    750.0
+                ]
+            ]
+        },
+        {
+            "text": "ON29MAY2025,06:00PMONWARDS",
+            "confidence": 0.949,
+            "box": [
+                [
+                    2.0,
+                    751.0
+                ],
+                [
+                    407.0,
+                    754.0
+                ],
+                [
+                    406.0,
+                    792.0
+                ],
+                [
+                    1.0,
+                    789.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOK YOURFREEPASSES",
+            "confidence": 0.967,
+            "box": [
+                [
+                    740.0,
+                    750.0
+                ],
+                [
+                    1000.0,
+                    750.0
+                ],
+                [
+                    1000.0,
+                    779.0
+                ],
+                [
+                    740.0,
+                    779.0
+                ]
+            ]
+        },
+        {
+            "text": "AT GURAJADA KALAKSHETRAM,",
+            "confidence": 0.954,
+            "box": [
+                [
+                    3.0,
+                    789.0
+                ],
+                [
+                    269.0,
+                    790.0
+                ],
+                [
+                    268.0,
+                    821.0
+                ],
+                [
+                    3.0,
+                    819.0
+                ]
+            ]
+        },
+        {
+            "text": "WWW.YOUWEMEDIA.COM",
+            "confidence": 0.994,
+            "box": [
+                [
+                    677.0,
+                    785.0
+                ],
+                [
+                    1066.0,
+                    786.0
+                ],
+                [
+                    1066.0,
+                    825.0
+                ],
+                [
+                    676.0,
+                    824.0
+                ]
+            ]
+        },
+        {
+            "text": "OPP VMRDA.VISAKHAPATNAM.",
+            "confidence": 0.895,
+            "box": [
+                [
+                    4.0,
+                    817.0
+                ],
+                [
+                    187.0,
+                    817.0
+                ],
+                [
+                    187.0,
+                    842.0
+                ],
+                [
+                    4.0,
+                    842.0
+                ]
+            ]
+        },
+        {
+            "text": "BOOK",
+            "confidence": 0.993,
+            "box": [
+                [
+                    59.0,
+                    942.0
+                ],
+                [
+                    110.0,
+                    942.0
+                ],
+                [
+                    110.0,
+                    955.0
+                ],
+                [
+                    59.0,
+                    955.0
+                ]
+            ]
+        },
+        {
+            "text": "YOU",
+            "confidence": 0.99,
+            "box": [
+                [
+                    115.0,
+                    942.0
+                ],
+                [
+                    155.0,
+                    942.0
+                ],
+                [
+                    155.0,
+                    955.0
+                ],
+                [
+                    115.0,
+                    955.0
+                ]
+            ]
+        },
+        {
+            "text": ".COM",
+            "confidence": 0.989,
+            "box": [
+                [
+                    446.0,
+                    942.0
+                ],
+                [
+                    492.0,
+                    942.0
+                ],
+                [
+                    492.0,
+                    955.0
+                ],
+                [
+                    446.0,
+                    955.0
+                ]
+            ]
+        },
+        {
+            "text": "**VIZAG YUVATHA",
+            "confidence": 0.971,
+            "box": [
+                [
+                    642.0,
+                    960.0
+                ],
+                [
+                    1052.0,
+                    968.0
+                ],
+                [
+                    1051.0,
+                    1015.0
+                ],
+                [
+                    641.0,
+                    1007.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.991,
+            "box": [
+                [
+                    11.0,
+                    1100.0
+                ],
+                [
+                    177.0,
+                    1100.0
+                ],
+                [
+                    177.0,
+                    1125.0
+                ],
+                [
+                    11.0,
+                    1125.0
+                ]
+            ]
+        },
+        {
+            "text": "REPUEVENT LORACHA RACHE",
+            "confidence": 0.965,
+            "box": [
+                [
+                    11.0,
+                    1279.0
+                ],
+                [
+                    754.0,
+                    1281.0
+                ],
+                [
+                    754.0,
+                    1327.0
+                ],
+                [
+                    11.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

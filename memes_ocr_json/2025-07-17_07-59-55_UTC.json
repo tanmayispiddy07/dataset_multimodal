@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-07-17_07-59-55_UTC.jpg",
+    "combined_text": "Bro said he got a tattoo\nof his Girlfriend",
+    "detailed": [
+        {
+            "text": "Bro said he got a tattoo",
+            "confidence": 0.978,
+            "box": [
+                [
+                    88.0,
+                    132.0
+                ],
+                [
+                    451.0,
+                    135.0
+                ],
+                [
+                    450.0,
+                    167.0
+                ],
+                [
+                    87.0,
+                    164.0
+                ]
+            ]
+        },
+        {
+            "text": "of his Girlfriend",
+            "confidence": 0.979,
+            "box": [
+                [
+                    147.0,
+                    175.0
+                ],
+                [
+                    392.0,
+                    177.0
+                ],
+                [
+                    392.0,
+                    209.0
+                ],
+                [
+                    147.0,
+                    207.0
+                ]
+            ]
+        }
+    ]
+}

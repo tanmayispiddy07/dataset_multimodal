@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-27_06-40-10_UTC.jpg",
+    "combined_text": "CRAZY AND FUN FILLED TRAILER OF\nBADMASHULU\nMOVIE RELEASING ON JUNE 6TH\nADDICTEDTOMEMES\nVILLAGE DRAMAS LOUNDE\nMAGIC EHVERUSIR",
+    "detailed": [
+        {
+            "text": "CRAZY AND FUN FILLED TRAILER OF",
+            "confidence": 0.936,
+            "box": [
+                [
+                    135.0,
+                    25.0
+                ],
+                [
+                    993.0,
+                    24.0
+                ],
+                [
+                    993.0,
+                    67.0
+                ],
+                [
+                    135.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "BADMASHULU",
+            "confidence": 0.996,
+            "box": [
+                [
+                    394.0,
+                    81.0
+                ],
+                [
+                    733.0,
+                    84.0
+                ],
+                [
+                    732.0,
+                    127.0
+                ],
+                [
+                    394.0,
+                    124.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON JUNE 6TH",
+            "confidence": 0.935,
+            "box": [
+                [
+                    184.0,
+                    146.0
+                ],
+                [
+                    958.0,
+                    146.0
+                ],
+                [
+                    958.0,
+                    184.0
+                ],
+                [
+                    184.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    887.0,
+                    1079.0
+                ],
+                [
+                    1069.0,
+                    1079.0
+                ],
+                [
+                    1069.0,
+                    1104.0
+                ],
+                [
+                    887.0,
+                    1104.0
+                ]
+            ]
+        },
+        {
+            "text": "VILLAGE DRAMAS LOUNDE",
+            "confidence": 0.969,
+            "box": [
+                [
+                    456.0,
+                    1226.0
+                ],
+                [
+                    1027.0,
+                    1228.0
+                ],
+                [
+                    1026.0,
+                    1270.0
+                ],
+                [
+                    456.0,
+                    1268.0
+                ]
+            ]
+        },
+        {
+            "text": "MAGIC EHVERUSIR",
+            "confidence": 0.971,
+            "box": [
+                [
+                    534.0,
+                    1281.0
+                ],
+                [
+                    946.0,
+                    1281.0
+                ],
+                [
+                    946.0,
+                    1318.0
+                ],
+                [
+                    534.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

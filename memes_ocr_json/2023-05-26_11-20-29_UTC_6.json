@@ -1,0 +1,182 @@
+{
+    "image_name": "2023-05-26_11-20-29_UTC_6.jpg",
+    "combined_text": "BEFORE\nAFTER\nSUSHMITHA CHALLA\nTHIS DIA AYURVEDA KUMKUMADI THAILAM IS AN AMAZING\nPRODUCT I'VE COME ACROSS!TO BE HONEST THIS IS A REAL\nPRODUCT HELPING ME WITH MY SKIN PROBLEMS AND ACNE SCARS!\nIT IS BEST FOR BRIGHTENING AND GLOWING SKIN.YOU WILL GET TO\nSEE NOTICEABLE CHANGES IN YOUR SKIN AFTER A WHILE.",
+    "detailed": [
+        {
+            "text": "BEFORE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    246.0,
+                    61.0
+                ],
+                [
+                    384.0,
+                    61.0
+                ],
+                [
+                    384.0,
+                    99.0
+                ],
+                [
+                    246.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "AFTER",
+            "confidence": 0.998,
+            "box": [
+                [
+                    719.0,
+                    62.0
+                ],
+                [
+                    832.0,
+                    62.0
+                ],
+                [
+                    832.0,
+                    98.0
+                ],
+                [
+                    719.0,
+                    98.0
+                ]
+            ]
+        },
+        {
+            "text": "SUSHMITHA CHALLA",
+            "confidence": 0.979,
+            "box": [
+                [
+                    385.0,
+                    773.0
+                ],
+                [
+                    730.0,
+                    774.0
+                ],
+                [
+                    730.0,
+                    802.0
+                ],
+                [
+                    385.0,
+                    801.0
+                ]
+            ]
+        },
+        {
+            "text": "THIS DIA AYURVEDA KUMKUMADI THAILAM IS AN AMAZING",
+            "confidence": 0.944,
+            "box": [
+                [
+                    132.0,
+                    837.0
+                ],
+                [
+                    950.0,
+                    837.0
+                ],
+                [
+                    950.0,
+                    861.0
+                ],
+                [
+                    132.0,
+                    861.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCT I'VE COME ACROSS!TO BE HONEST THIS IS A REAL",
+            "confidence": 0.908,
+            "box": [
+                [
+                    123.0,
+                    867.0
+                ],
+                [
+                    954.0,
+                    869.0
+                ],
+                [
+                    954.0,
+                    896.0
+                ],
+                [
+                    123.0,
+                    894.0
+                ]
+            ]
+        },
+        {
+            "text": "PRODUCT HELPING ME WITH MY SKIN PROBLEMS AND ACNE SCARS!",
+            "confidence": 0.933,
+            "box": [
+                [
+                    70.0,
+                    901.0
+                ],
+                [
+                    1008.0,
+                    902.0
+                ],
+                [
+                    1008.0,
+                    929.0
+                ],
+                [
+                    70.0,
+                    928.0
+                ]
+            ]
+        },
+        {
+            "text": "IT IS BEST FOR BRIGHTENING AND GLOWING SKIN.YOU WILL GET TO",
+            "confidence": 0.924,
+            "box": [
+                [
+                    73.0,
+                    936.0
+                ],
+                [
+                    1006.0,
+                    936.0
+                ],
+                [
+                    1006.0,
+                    963.0
+                ],
+                [
+                    73.0,
+                    963.0
+                ]
+            ]
+        },
+        {
+            "text": "SEE NOTICEABLE CHANGES IN YOUR SKIN AFTER A WHILE.",
+            "confidence": 0.939,
+            "box": [
+                [
+                    138.0,
+                    971.0
+                ],
+                [
+                    943.0,
+                    971.0
+                ],
+                [
+                    943.0,
+                    998.0
+                ],
+                [
+                    138.0,
+                    998.0
+                ]
+            ]
+        }
+    ]
+}

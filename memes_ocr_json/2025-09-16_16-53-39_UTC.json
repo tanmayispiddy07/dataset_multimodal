@@ -1,0 +1,380 @@
+{
+    "image_name": "2025-09-16_16-53-39_UTC.jpg",
+    "combined_text": "Mahesh Babu \n@urstrulyMahesh\n#Littlehearts....fun, fresh and big in\nthe cast is extraordinary.... Especially the\nyoung ones.. phew !!l sensatiional acting\nWhat a joy ride!l! @SinjithYerramil\nNuvvu daya chesi phone aapesi yekkadiki\nvellodhu brother... It's going to be really\nbusy for a while\n keep rocking\ncongrats to the entire team\n5|5\nPRASAD\naSz 8wSzO8\nADDICTEDTOMEMES\n35g5\nOr's",
+    "detailed": [
+        {
+            "text": "Mahesh Babu ",
+            "confidence": 0.93,
+            "box": [
+                [
+                    224.0,
+                    28.0
+                ],
+                [
+                    520.0,
+                    28.0
+                ],
+                [
+                    520.0,
+                    65.0
+                ],
+                [
+                    224.0,
+                    65.0
+                ]
+            ]
+        },
+        {
+            "text": "@urstrulyMahesh",
+            "confidence": 0.997,
+            "box": [
+                [
+                    224.0,
+                    74.0
+                ],
+                [
+                    546.0,
+                    74.0
+                ],
+                [
+                    546.0,
+                    116.0
+                ],
+                [
+                    224.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "#Littlehearts....fun, fresh and big in",
+            "confidence": 0.984,
+            "box": [
+                [
+                    84.0,
+                    156.0
+                ],
+                [
+                    856.0,
+                    159.0
+                ],
+                [
+                    856.0,
+                    205.0
+                ],
+                [
+                    84.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "the cast is extraordinary.... Especially the",
+            "confidence": 0.989,
+            "box": [
+                [
+                    82.0,
+                    219.0
+                ],
+                [
+                    980.0,
+                    221.0
+                ],
+                [
+                    980.0,
+                    272.0
+                ],
+                [
+                    82.0,
+                    270.0
+                ]
+            ]
+        },
+        {
+            "text": "young ones.. phew !!l sensatiional acting",
+            "confidence": 0.988,
+            "box": [
+                [
+                    79.0,
+                    281.0
+                ],
+                [
+                    980.0,
+                    281.0
+                ],
+                [
+                    980.0,
+                    339.0
+                ],
+                [
+                    79.0,
+                    339.0
+                ]
+            ]
+        },
+        {
+            "text": "What a joy ride!l! @SinjithYerramil",
+            "confidence": 0.957,
+            "box": [
+                [
+                    87.0,
+                    345.0
+                ],
+                [
+                    996.0,
+                    345.0
+                ],
+                [
+                    996.0,
+                    398.0
+                ],
+                [
+                    87.0,
+                    398.0
+                ]
+            ]
+        },
+        {
+            "text": "Nuvvu daya chesi phone aapesi yekkadiki",
+            "confidence": 1.0,
+            "box": [
+                [
+                    82.0,
+                    411.0
+                ],
+                [
+                    1005.0,
+                    411.0
+                ],
+                [
+                    1005.0,
+                    460.0
+                ],
+                [
+                    82.0,
+                    460.0
+                ]
+            ]
+        },
+        {
+            "text": "vellodhu brother... It's going to be really",
+            "confidence": 0.998,
+            "box": [
+                [
+                    80.0,
+                    471.0
+                ],
+                [
+                    952.0,
+                    473.0
+                ],
+                [
+                    952.0,
+                    524.0
+                ],
+                [
+                    80.0,
+                    522.0
+                ]
+            ]
+        },
+        {
+            "text": "busy for a while",
+            "confidence": 0.98,
+            "box": [
+                [
+                    86.0,
+                    537.0
+                ],
+                [
+                    437.0,
+                    537.0
+                ],
+                [
+                    437.0,
+                    584.0
+                ],
+                [
+                    86.0,
+                    584.0
+                ]
+            ]
+        },
+        {
+            "text": " keep rocking",
+            "confidence": 0.977,
+            "box": [
+                [
+                    588.0,
+                    535.0
+                ],
+                [
+                    885.0,
+                    538.0
+                ],
+                [
+                    884.0,
+                    589.0
+                ],
+                [
+                    588.0,
+                    586.0
+                ]
+            ]
+        },
+        {
+            "text": "congrats to the entire team",
+            "confidence": 0.977,
+            "box": [
+                [
+                    139.0,
+                    604.0
+                ],
+                [
+                    740.0,
+                    601.0
+                ],
+                [
+                    740.0,
+                    646.0
+                ],
+                [
+                    139.0,
+                    649.0
+                ]
+            ]
+        },
+        {
+            "text": "5|5",
+            "confidence": 0.834,
+            "box": [
+                [
+                    592.0,
+                    712.0
+                ],
+                [
+                    734.0,
+                    712.0
+                ],
+                [
+                    734.0,
+                    816.0
+                ],
+                [
+                    592.0,
+                    816.0
+                ]
+            ]
+        },
+        {
+            "text": "PRASAD",
+            "confidence": 0.99,
+            "box": [
+                [
+                    1011.0,
+                    814.0
+                ],
+                [
+                    1079.0,
+                    819.0
+                ],
+                [
+                    1079.0,
+                    847.0
+                ],
+                [
+                    1009.0,
+                    841.0
+                ]
+            ]
+        },
+        {
+            "text": "aSz 8wSzO8",
+            "confidence": 0.612,
+            "box": [
+                [
+                    8.0,
+                    838.0
+                ],
+                [
+                    496.0,
+                    818.0
+                ],
+                [
+                    501.0,
+                    942.0
+                ],
+                [
+                    13.0,
+                    962.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    467.0,
+                    950.0
+                ],
+                [
+                    615.0,
+                    950.0
+                ],
+                [
+                    615.0,
+                    970.0
+                ],
+                [
+                    467.0,
+                    970.0
+                ]
+            ]
+        },
+        {
+            "text": "35g5",
+            "confidence": 0.603,
+            "box": [
+                [
+                    0.0,
+                    972.0
+                ],
+                [
+                    326.0,
+                    952.0
+                ],
+                [
+                    335.0,
+                    1100.0
+                ],
+                [
+                    8.0,
+                    1119.0
+                ]
+            ]
+        },
+        {
+            "text": "Or's",
+            "confidence": 0.535,
+            "box": [
+                [
+                    303.0,
+                    977.0
+                ],
+                [
+                    522.0,
+                    993.0
+                ],
+                [
+                    514.0,
+                    1097.0
+                ],
+                [
+                    296.0,
+                    1081.0
+                ]
+            ]
+        }
+    ]
+}

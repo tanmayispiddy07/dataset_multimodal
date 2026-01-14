@@ -1,0 +1,182 @@
+{
+    "image_name": "2026-01-04_11-14-05_UTC.jpg",
+    "combined_text": "BOSSSWAG\nVENKY MAMA CAMEO\nMANA SHANKARA VARA\nPRASAD GARU TRAILER\n**FAMILY AUDIENCE\nADDICTEDTOMEMES\nMAKU MAA MANA SHANKARA\nVARA PRASADGARU EH KAVALI",
+    "detailed": [
+        {
+            "text": "BOSSSWAG",
+            "confidence": 0.996,
+            "box": [
+                [
+                    347.0,
+                    280.0
+                ],
+                [
+                    751.0,
+                    280.0
+                ],
+                [
+                    751.0,
+                    340.0
+                ],
+                [
+                    347.0,
+                    340.0
+                ]
+            ]
+        },
+        {
+            "text": "VENKY MAMA CAMEO",
+            "confidence": 0.904,
+            "box": [
+                [
+                    217.0,
+                    597.0
+                ],
+                [
+                    827.0,
+                    597.0
+                ],
+                [
+                    827.0,
+                    647.0
+                ],
+                [
+                    217.0,
+                    647.0
+                ]
+            ]
+        },
+        {
+            "text": "MANA SHANKARA VARA",
+            "confidence": 0.968,
+            "box": [
+                [
+                    266.0,
+                    870.0
+                ],
+                [
+                    824.0,
+                    873.0
+                ],
+                [
+                    824.0,
+                    914.0
+                ],
+                [
+                    266.0,
+                    911.0
+                ]
+            ]
+        },
+        {
+            "text": "PRASAD GARU TRAILER",
+            "confidence": 0.943,
+            "box": [
+                [
+                    274.0,
+                    927.0
+                ],
+                [
+                    803.0,
+                    928.0
+                ],
+                [
+                    803.0,
+                    967.0
+                ],
+                [
+                    274.0,
+                    966.0
+                ]
+            ]
+        },
+        {
+            "text": "**FAMILY AUDIENCE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    395.0,
+                    1026.0
+                ],
+                [
+                    830.0,
+                    1030.0
+                ],
+                [
+                    829.0,
+                    1076.0
+                ],
+                [
+                    395.0,
+                    1072.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    27.0,
+                    1091.0
+                ],
+                [
+                    159.0,
+                    1091.0
+                ],
+                [
+                    159.0,
+                    1112.0
+                ],
+                [
+                    27.0,
+                    1112.0
+                ]
+            ]
+        },
+        {
+            "text": "MAKU MAA MANA SHANKARA",
+            "confidence": 0.947,
+            "box": [
+                [
+                    252.0,
+                    1242.0
+                ],
+                [
+                    866.0,
+                    1242.0
+                ],
+                [
+                    866.0,
+                    1275.0
+                ],
+                [
+                    252.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "VARA PRASADGARU EH KAVALI",
+            "confidence": 0.943,
+            "box": [
+                [
+                    235.0,
+                    1288.0
+                ],
+                [
+                    875.0,
+                    1289.0
+                ],
+                [
+                    875.0,
+                    1327.0
+                ],
+                [
+                    235.0,
+                    1325.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-11-07_03-03-15_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF THE\n'THE GIRLFRIEND\"\nFEEL GOOD FIRST HALF WITH GOOD INTERVAL\nBLOCK AND EXCELLENT 2ND HALF\nADDICTEDTOMEMES\nRASHMIKA MANDANNA\nTHE MOVIE PORTRAYS A BEAUTIFUL LOVE STORY THAT\nENDS WITH DIFFERENT PERSPECTIVES.ALTHOUGH\nIT LEANS SLIGHTLY IN FAVOR OF THE GIRL'S SIDE,\nRASHMIKA'S CHARACTER AND HER PERFORMANCE ARE\nABSOLUTELY\n.SHE IMPRESSED EVERYONE WITH HER\nPOWERFUL ACTING.IT'S A MUST WATCH FOR ANYONE\nWHO HAS GONE THROUGH A TRAUMATIC EXPERIENCE IN\nLOVE OR HAS HAD A DIFFICULT PAST RELATIONSHIP.",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF THE",
+            "confidence": 0.929,
+            "box": [
+                [
+                    156.0,
+                    24.0
+                ],
+                [
+                    931.0,
+                    22.0
+                ],
+                [
+                    931.0,
+                    72.0
+                ],
+                [
+                    156.0,
+                    74.0
+                ]
+            ]
+        },
+        {
+            "text": "'THE GIRLFRIEND\"",
+            "confidence": 0.938,
+            "box": [
+                [
+                    304.0,
+                    88.0
+                ],
+                [
+                    786.0,
+                    91.0
+                ],
+                [
+                    786.0,
+                    141.0
+                ],
+                [
+                    304.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "FEEL GOOD FIRST HALF WITH GOOD INTERVAL",
+            "confidence": 0.937,
+            "box": [
+                [
+                    30.0,
+                    188.0
+                ],
+                [
+                    1058.0,
+                    190.0
+                ],
+                [
+                    1057.0,
+                    231.0
+                ],
+                [
+                    30.0,
+                    230.0
+                ]
+            ]
+        },
+        {
+            "text": "BLOCK AND EXCELLENT 2ND HALF",
+            "confidence": 0.957,
+            "box": [
+                [
+                    160.0,
+                    244.0
+                ],
+                [
+                    917.0,
+                    244.0
+                ],
+                [
+                    917.0,
+                    282.0
+                ],
+                [
+                    160.0,
+                    282.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    523.0,
+                    450.0
+                ],
+                [
+                    667.0,
+                    450.0
+                ],
+                [
+                    667.0,
+                    467.0
+                ],
+                [
+                    523.0,
+                    467.0
+                ]
+            ]
+        },
+        {
+            "text": "RASHMIKA MANDANNA",
+            "confidence": 0.978,
+            "box": [
+                [
+                    238.0,
+                    860.0
+                ],
+                [
+                    370.0,
+                    860.0
+                ],
+                [
+                    370.0,
+                    877.0
+                ],
+                [
+                    238.0,
+                    877.0
+                ]
+            ]
+        },
+        {
+            "text": "THE MOVIE PORTRAYS A BEAUTIFUL LOVE STORY THAT",
+            "confidence": 0.939,
+            "box": [
+                [
+                    70.0,
+                    981.0
+                ],
+                [
+                    1029.0,
+                    981.0
+                ],
+                [
+                    1029.0,
+                    1010.0
+                ],
+                [
+                    70.0,
+                    1010.0
+                ]
+            ]
+        },
+        {
+            "text": "ENDS WITH DIFFERENT PERSPECTIVES.ALTHOUGH",
+            "confidence": 0.962,
+            "box": [
+                [
+                    108.0,
+                    1023.0
+                ],
+                [
+                    991.0,
+                    1023.0
+                ],
+                [
+                    991.0,
+                    1056.0
+                ],
+                [
+                    108.0,
+                    1056.0
+                ]
+            ]
+        },
+        {
+            "text": "IT LEANS SLIGHTLY IN FAVOR OF THE GIRL'S SIDE,",
+            "confidence": 0.923,
+            "box": [
+                [
+                    114.0,
+                    1066.0
+                ],
+                [
+                    980.0,
+                    1068.0
+                ],
+                [
+                    980.0,
+                    1101.0
+                ],
+                [
+                    114.0,
+                    1100.0
+                ]
+            ]
+        },
+        {
+            "text": "RASHMIKA'S CHARACTER AND HER PERFORMANCE ARE",
+            "confidence": 0.954,
+            "box": [
+                [
+                    56.0,
+                    1112.0
+                ],
+                [
+                    1046.0,
+                    1112.0
+                ],
+                [
+                    1046.0,
+                    1146.0
+                ],
+                [
+                    56.0,
+                    1146.0
+                ]
+            ]
+        },
+        {
+            "text": "ABSOLUTELY",
+            "confidence": 0.996,
+            "box": [
+                [
+                    59.0,
+                    1158.0
+                ],
+                [
+                    290.0,
+                    1158.0
+                ],
+                [
+                    290.0,
+                    1187.0
+                ],
+                [
+                    59.0,
+                    1187.0
+                ]
+            ]
+        },
+        {
+            "text": ".SHE IMPRESSED EVERYONE WITH HER",
+            "confidence": 0.931,
+            "box": [
+                [
+                    292.0,
+                    1158.0
+                ],
+                [
+                    1045.0,
+                    1158.0
+                ],
+                [
+                    1045.0,
+                    1187.0
+                ],
+                [
+                    292.0,
+                    1187.0
+                ]
+            ]
+        },
+        {
+            "text": "POWERFUL ACTING.IT'S A MUST WATCH FOR ANYONE",
+            "confidence": 0.942,
+            "box": [
+                [
+                    73.0,
+                    1200.0
+                ],
+                [
+                    1028.0,
+                    1200.0
+                ],
+                [
+                    1028.0,
+                    1233.0
+                ],
+                [
+                    73.0,
+                    1233.0
+                ]
+            ]
+        },
+        {
+            "text": "WHO HAS GONE THROUGH A TRAUMATIC EXPERIENCE IN",
+            "confidence": 0.96,
+            "box": [
+                [
+                    44.0,
+                    1243.0
+                ],
+                [
+                    1059.0,
+                    1243.0
+                ],
+                [
+                    1059.0,
+                    1277.0
+                ],
+                [
+                    44.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "LOVE OR HAS HAD A DIFFICULT PAST RELATIONSHIP.",
+            "confidence": 0.927,
+            "box": [
+                [
+                    87.0,
+                    1288.0
+                ],
+                [
+                    1010.0,
+                    1288.0
+                ],
+                [
+                    1010.0,
+                    1321.0
+                ],
+                [
+                    87.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

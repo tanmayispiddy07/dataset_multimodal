@@ -1,0 +1,270 @@
+{
+    "image_name": "2025-03-03_14-21-59_UTC.jpg",
+    "combined_text": "FOR \"DRINKERSAI MOVIE\"DHARMA WON BEST DEBUT ACTOR AWARD\nAT SAKSHI EXCELLENCE AWARDS.MORE THAN THAT HE WON TELUGU\nAUDIENCES LOVE WITH HIS PERFORMANCE AND ENERGY\nANOTHER PROMISING ACTOR FROM TFI\nBharathi\nC\nsor\nNT\nANTEES\nST\nADDICTEDTOMEMES\nGREAT",
+    "detailed": [
+        {
+            "text": "FOR \"DRINKERSAI MOVIE\"DHARMA WON BEST DEBUT ACTOR AWARD",
+            "confidence": 0.934,
+            "box": [
+                [
+                    25.0,
+                    28.0
+                ],
+                [
+                    1062.0,
+                    28.0
+                ],
+                [
+                    1062.0,
+                    57.0
+                ],
+                [
+                    25.0,
+                    57.0
+                ]
+            ]
+        },
+        {
+            "text": "AT SAKSHI EXCELLENCE AWARDS.MORE THAN THAT HE WON TELUGU",
+            "confidence": 0.942,
+            "box": [
+                [
+                    27.0,
+                    63.0
+                ],
+                [
+                    1060.0,
+                    63.0
+                ],
+                [
+                    1060.0,
+                    92.0
+                ],
+                [
+                    27.0,
+                    92.0
+                ]
+            ]
+        },
+        {
+            "text": "AUDIENCES LOVE WITH HIS PERFORMANCE AND ENERGY",
+            "confidence": 0.943,
+            "box": [
+                [
+                    122.0,
+                    100.0
+                ],
+                [
+                    963.0,
+                    100.0
+                ],
+                [
+                    963.0,
+                    125.0
+                ],
+                [
+                    122.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "ANOTHER PROMISING ACTOR FROM TFI",
+            "confidence": 0.956,
+            "box": [
+                [
+                    245.0,
+                    134.0
+                ],
+                [
+                    844.0,
+                    134.0
+                ],
+                [
+                    844.0,
+                    163.0
+                ],
+                [
+                    245.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "Bharathi",
+            "confidence": 0.965,
+            "box": [
+                [
+                    496.0,
+                    257.0
+                ],
+                [
+                    688.0,
+                    263.0
+                ],
+                [
+                    687.0,
+                    321.0
+                ],
+                [
+                    494.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "C",
+            "confidence": 0.639,
+            "box": [
+                [
+                    503.0,
+                    322.0
+                ],
+                [
+                    520.0,
+                    322.0
+                ],
+                [
+                    520.0,
+                    337.0
+                ],
+                [
+                    503.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "text": "sor",
+            "confidence": 0.914,
+            "box": [
+                [
+                    485.0,
+                    577.0
+                ],
+                [
+                    543.0,
+                    577.0
+                ],
+                [
+                    543.0,
+                    595.0
+                ],
+                [
+                    485.0,
+                    595.0
+                ]
+            ]
+        },
+        {
+            "text": "NT",
+            "confidence": 0.795,
+            "box": [
+                [
+                    477.0,
+                    698.0
+                ],
+                [
+                    561.0,
+                    698.0
+                ],
+                [
+                    561.0,
+                    735.0
+                ],
+                [
+                    477.0,
+                    735.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTEES",
+            "confidence": 0.863,
+            "box": [
+                [
+                    482.0,
+                    733.0
+                ],
+                [
+                    552.0,
+                    736.0
+                ],
+                [
+                    551.0,
+                    759.0
+                ],
+                [
+                    481.0,
+                    755.0
+                ]
+            ]
+        },
+        {
+            "text": "ST",
+            "confidence": 0.997,
+            "box": [
+                [
+                    484.0,
+                    753.0
+                ],
+                [
+                    564.0,
+                    753.0
+                ],
+                [
+                    564.0,
+                    794.0
+                ],
+                [
+                    484.0,
+                    794.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    897.0,
+                    1049.0
+                ],
+                [
+                    1055.0,
+                    1049.0
+                ],
+                [
+                    1055.0,
+                    1070.0
+                ],
+                [
+                    897.0,
+                    1070.0
+                ]
+            ]
+        },
+        {
+            "text": "GREAT",
+            "confidence": 0.997,
+            "box": [
+                [
+                    482.0,
+                    1235.0
+                ],
+                [
+                    800.0,
+                    1235.0
+                ],
+                [
+                    800.0,
+                    1323.0
+                ],
+                [
+                    482.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

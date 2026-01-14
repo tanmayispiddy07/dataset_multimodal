@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-13_11-44-08_UTC.jpg",
+    "combined_text": "TELUSU KADA TRAILER\nMOVIE RELEASING ON OCT 17TH\nADDICTEDTOMEMES\nPRATHI OKKA MAGAADU ILA UNDALI ANI\nANKUNTADU, KANIPERSONAL SITUATIONS\nVALLA ANNITIKI ADJUST AVTADU",
+    "detailed": [
+        {
+            "text": "TELUSU KADA TRAILER",
+            "confidence": 0.975,
+            "box": [
+                [
+                    269.0,
+                    33.0
+                ],
+                [
+                    887.0,
+                    33.0
+                ],
+                [
+                    887.0,
+                    79.0
+                ],
+                [
+                    269.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIE RELEASING ON OCT 17TH",
+            "confidence": 0.94,
+            "box": [
+                [
+                    146.0,
+                    99.0
+                ],
+                [
+                    1027.0,
+                    99.0
+                ],
+                [
+                    1027.0,
+                    149.0
+                ],
+                [
+                    146.0,
+                    149.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    27.0,
+                    1126.0
+                ],
+                [
+                    169.0,
+                    1126.0
+                ],
+                [
+                    169.0,
+                    1147.0
+                ],
+                [
+                    27.0,
+                    1147.0
+                ]
+            ]
+        },
+        {
+            "text": "PRATHI OKKA MAGAADU ILA UNDALI ANI",
+            "confidence": 0.941,
+            "box": [
+                [
+                    62.0,
+                    1225.0
+                ],
+                [
+                    662.0,
+                    1225.0
+                ],
+                [
+                    662.0,
+                    1254.0
+                ],
+                [
+                    62.0,
+                    1254.0
+                ]
+            ]
+        },
+        {
+            "text": "ANKUNTADU, KANIPERSONAL SITUATIONS",
+            "confidence": 0.965,
+            "box": [
+                [
+                    55.0,
+                    1263.0
+                ],
+                [
+                    669.0,
+                    1263.0
+                ],
+                [
+                    669.0,
+                    1288.0
+                ],
+                [
+                    55.0,
+                    1288.0
+                ]
+            ]
+        },
+        {
+            "text": "VALLA ANNITIKI ADJUST AVTADU",
+            "confidence": 0.963,
+            "box": [
+                [
+                    124.0,
+                    1295.0
+                ],
+                [
+                    600.0,
+                    1295.0
+                ],
+                [
+                    600.0,
+                    1324.0
+                ],
+                [
+                    124.0,
+                    1324.0
+                ]
+            ]
+        }
+    ]
+}

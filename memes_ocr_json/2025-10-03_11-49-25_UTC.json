@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-10-03_11-49-25_UTC.jpg",
+    "combined_text": "WATCHED KANTARA CHAPTER 1FOR THE SECOND TIME TODAY\nWITH MY FAMILY .TRUST ME,THE ENTIRE THEATER WAS\nHOUSEFUL,AND THE RESPONSE DURING THE SECOND HALF GAVE\nEVERYONE GOOSEBUMPS.THIS IS EXACTLY WHY WE TELUGU\nPEOPLE ARE CALLED TRUE MOVIE LOVERS WE ALWAYS SUPPORT\nGOOD CONTENT. TAKE YOUR FAMILY TO EXPERIENCE THIS\nDEVOTIONAL BLOCKBUSTER AND ENJOY THE VIBE.A PERFECT\nFILM FOR THE HOLIDAYS AND A CLEAN WINNER THIS DASARA.\nADDICTEDTOMEMES\nKANTARA\nIVIJAY KIRAGANDUR\nRISHAD SHETTY\nALANENGLISR",
+    "detailed": [
+        {
+            "text": "WATCHED KANTARA CHAPTER 1FOR THE SECOND TIME TODAY",
+            "confidence": 0.946,
+            "box": [
+                [
+                    55.0,
+                    40.0
+                ],
+                [
+                    1022.0,
+                    40.0
+                ],
+                [
+                    1022.0,
+                    67.0
+                ],
+                [
+                    55.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH MY FAMILY .TRUST ME,THE ENTIRE THEATER WAS",
+            "confidence": 0.914,
+            "box": [
+                [
+                    106.0,
+                    76.0
+                ],
+                [
+                    967.0,
+                    76.0
+                ],
+                [
+                    967.0,
+                    104.0
+                ],
+                [
+                    106.0,
+                    104.0
+                ]
+            ]
+        },
+        {
+            "text": "HOUSEFUL,AND THE RESPONSE DURING THE SECOND HALF GAVE",
+            "confidence": 0.934,
+            "box": [
+                [
+                    26.0,
+                    116.0
+                ],
+                [
+                    1051.0,
+                    116.0
+                ],
+                [
+                    1051.0,
+                    144.0
+                ],
+                [
+                    26.0,
+                    144.0
+                ]
+            ]
+        },
+        {
+            "text": "EVERYONE GOOSEBUMPS.THIS IS EXACTLY WHY WE TELUGU",
+            "confidence": 0.95,
+            "box": [
+                [
+                    64.0,
+                    153.0
+                ],
+                [
+                    1014.0,
+                    153.0
+                ],
+                [
+                    1014.0,
+                    184.0
+                ],
+                [
+                    64.0,
+                    184.0
+                ]
+            ]
+        },
+        {
+            "text": "PEOPLE ARE CALLED TRUE MOVIE LOVERS WE ALWAYS SUPPORT",
+            "confidence": 0.961,
+            "box": [
+                [
+                    34.0,
+                    190.0
+                ],
+                [
+                    1040.0,
+                    190.0
+                ],
+                [
+                    1040.0,
+                    221.0
+                ],
+                [
+                    34.0,
+                    221.0
+                ]
+            ]
+        },
+        {
+            "text": "GOOD CONTENT. TAKE YOUR FAMILY TO EXPERIENCE THIS",
+            "confidence": 0.945,
+            "box": [
+                [
+                    83.0,
+                    228.0
+                ],
+                [
+                    994.0,
+                    228.0
+                ],
+                [
+                    994.0,
+                    259.0
+                ],
+                [
+                    83.0,
+                    259.0
+                ]
+            ]
+        },
+        {
+            "text": "DEVOTIONAL BLOCKBUSTER AND ENJOY THE VIBE.A PERFECT",
+            "confidence": 0.94,
+            "box": [
+                [
+                    49.0,
+                    268.0
+                ],
+                [
+                    1025.0,
+                    268.0
+                ],
+                [
+                    1025.0,
+                    295.0
+                ],
+                [
+                    49.0,
+                    295.0
+                ]
+            ]
+        },
+        {
+            "text": "FILM FOR THE HOLIDAYS AND A CLEAN WINNER THIS DASARA.",
+            "confidence": 0.936,
+            "box": [
+                [
+                    44.0,
+                    301.0
+                ],
+                [
+                    1018.0,
+                    304.0
+                ],
+                [
+                    1018.0,
+                    335.0
+                ],
+                [
+                    44.0,
+                    332.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    500.0,
+                    538.0
+                ],
+                [
+                    641.0,
+                    538.0
+                ],
+                [
+                    641.0,
+                    558.0
+                ],
+                [
+                    500.0,
+                    558.0
+                ]
+            ]
+        },
+        {
+            "text": "KANTARA",
+            "confidence": 0.796,
+            "box": [
+                [
+                    67.0,
+                    1075.0
+                ],
+                [
+                    456.0,
+                    1072.0
+                ],
+                [
+                    457.0,
+                    1169.0
+                ],
+                [
+                    68.0,
+                    1172.0
+                ]
+            ]
+        },
+        {
+            "text": "IVIJAY KIRAGANDUR",
+            "confidence": 0.921,
+            "box": [
+                [
+                    99.0,
+                    1194.0
+                ],
+                [
+                    245.0,
+                    1193.0
+                ],
+                [
+                    245.0,
+                    1208.0
+                ],
+                [
+                    99.0,
+                    1210.0
+                ]
+            ]
+        },
+        {
+            "text": "RISHAD SHETTY",
+            "confidence": 0.932,
+            "box": [
+                [
+                    340.0,
+                    1194.0
+                ],
+                [
+                    452.0,
+                    1194.0
+                ],
+                [
+                    452.0,
+                    1210.0
+                ],
+                [
+                    340.0,
+                    1210.0
+                ]
+            ]
+        },
+        {
+            "text": "ALANENGLISR",
+            "confidence": 0.783,
+            "box": [
+                [
+                    330.0,
+                    1212.0
+                ],
+                [
+                    405.0,
+                    1212.0
+                ],
+                [
+                    405.0,
+                    1224.0
+                ],
+                [
+                    330.0,
+                    1224.0
+                ]
+            ]
+        }
+    ]
+}

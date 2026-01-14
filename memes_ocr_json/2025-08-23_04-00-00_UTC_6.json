@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-23_04-00-00_UTC_6.jpg",
+    "combined_text": "sarcasm\nMuch of the treasure was astonishingly\nwell-preserved beneath the sand",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    482.0,
+                    1153.0
+                ],
+                [
+                    596.0,
+                    1153.0
+                ],
+                [
+                    596.0,
+                    1175.0
+                ],
+                [
+                    482.0,
+                    1175.0
+                ]
+            ]
+        },
+        {
+            "text": "Much of the treasure was astonishingly",
+            "confidence": 0.999,
+            "box": [
+                [
+                    16.0,
+                    1192.0
+                ],
+                [
+                    1060.0,
+                    1200.0
+                ],
+                [
+                    1060.0,
+                    1258.0
+                ],
+                [
+                    15.0,
+                    1249.0
+                ]
+            ]
+        },
+        {
+            "text": "well-preserved beneath the sand",
+            "confidence": 0.992,
+            "box": [
+                [
+                    91.0,
+                    1269.0
+                ],
+                [
+                    989.0,
+                    1269.0
+                ],
+                [
+                    989.0,
+                    1322.0
+                ],
+                [
+                    91.0,
+                    1322.0
+                ]
+            ]
+        }
+    ]
+}

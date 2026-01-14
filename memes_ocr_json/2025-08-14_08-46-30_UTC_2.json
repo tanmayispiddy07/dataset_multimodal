@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-08-14_08-46-30_UTC_2.jpg",
+    "combined_text": "Gurgaon Salon in trouble",
+    "detailed": [
+        {
+            "text": "Gurgaon Salon in trouble",
+            "confidence": 0.968,
+            "box": [
+                [
+                    259.0,
+                    569.0
+                ],
+                [
+                    556.0,
+                    569.0
+                ],
+                [
+                    556.0,
+                    594.0
+                ],
+                [
+                    259.0,
+                    594.0
+                ]
+            ]
+        }
+    ]
+}

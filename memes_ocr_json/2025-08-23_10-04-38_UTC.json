@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-08-23_10-04-38_UTC.jpg",
+    "combined_text": "2S e0& xC esoeso,\n2S eO x es3.\nARJUN & ALEKHYA'S STORY IS HERE\nBEAUTY TEASER .IN CINEMAS FROM SEP 19th\nAP31\n6CAE\nADDICTEDTOMEMES\nTEASER LO AH LAST DIALOGUE KI\nNENU EMOTIONAL AITHUNNA ENTRA",
+    "detailed": [
+        {
+            "text": "2S e0& xC esoeso,",
+            "confidence": 0.781,
+            "box": [
+                [
+                    326.0,
+                    18.0
+                ],
+                [
+                    712.0,
+                    21.0
+                ],
+                [
+                    711.0,
+                    68.0
+                ],
+                [
+                    326.0,
+                    65.0
+                ]
+            ]
+        },
+        {
+            "text": "2S eO x es3.",
+            "confidence": 0.745,
+            "box": [
+                [
+                    337.0,
+                    75.0
+                ],
+                [
+                    693.0,
+                    72.0
+                ],
+                [
+                    693.0,
+                    118.0
+                ],
+                [
+                    338.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "ARJUN & ALEKHYA'S STORY IS HERE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    143.0,
+                    131.0
+                ],
+                [
+                    892.0,
+                    131.0
+                ],
+                [
+                    892.0,
+                    169.0
+                ],
+                [
+                    143.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "BEAUTY TEASER .IN CINEMAS FROM SEP 19th",
+            "confidence": 0.976,
+            "box": [
+                [
+                    55.0,
+                    183.0
+                ],
+                [
+                    986.0,
+                    184.0
+                ],
+                [
+                    986.0,
+                    222.0
+                ],
+                [
+                    55.0,
+                    220.0
+                ]
+            ]
+        },
+        {
+            "text": "AP31",
+            "confidence": 0.998,
+            "box": [
+                [
+                    897.0,
+                    592.0
+                ],
+                [
+                    951.0,
+                    592.0
+                ],
+                [
+                    951.0,
+                    615.0
+                ],
+                [
+                    897.0,
+                    615.0
+                ]
+            ]
+        },
+        {
+            "text": "6CAE",
+            "confidence": 0.701,
+            "box": [
+                [
+                    3.0,
+                    666.0
+                ],
+                [
+                    82.0,
+                    666.0
+                ],
+                [
+                    82.0,
+                    697.0
+                ],
+                [
+                    3.0,
+                    697.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    892.0,
+                    1114.0
+                ],
+                [
+                    1031.0,
+                    1114.0
+                ],
+                [
+                    1031.0,
+                    1135.0
+                ],
+                [
+                    892.0,
+                    1135.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER LO AH LAST DIALOGUE KI",
+            "confidence": 0.933,
+            "box": [
+                [
+                    229.0,
+                    1239.0
+                ],
+                [
+                    928.0,
+                    1239.0
+                ],
+                [
+                    928.0,
+                    1277.0
+                ],
+                [
+                    229.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "NENU EMOTIONAL AITHUNNA ENTRA",
+            "confidence": 0.965,
+            "box": [
+                [
+                    193.0,
+                    1291.0
+                ],
+                [
+                    955.0,
+                    1291.0
+                ],
+                [
+                    955.0,
+                    1328.0
+                ],
+                [
+                    193.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

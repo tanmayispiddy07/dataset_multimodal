@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-06-09_17-30-55_UTC_7.jpg",
+    "combined_text": "Pamban Bridge:\nIndia's first vertical lift railway sea bridge built in\nTamil Nadu",
+    "detailed": [
+        {
+            "text": "Pamban Bridge:",
+            "confidence": 0.984,
+            "box": [
+                [
+                    376.0,
+                    21.0
+                ],
+                [
+                    705.0,
+                    24.0
+                ],
+                [
+                    704.0,
+                    69.0
+                ],
+                [
+                    375.0,
+                    66.0
+                ]
+            ]
+        },
+        {
+            "text": "India's first vertical lift railway sea bridge built in",
+            "confidence": 0.986,
+            "box": [
+                [
+                    38.0,
+                    90.0
+                ],
+                [
+                    1038.0,
+                    93.0
+                ],
+                [
+                    1038.0,
+                    135.0
+                ],
+                [
+                    38.0,
+                    132.0
+                ]
+            ]
+        },
+        {
+            "text": "Tamil Nadu",
+            "confidence": 0.996,
+            "box": [
+                [
+                    422.0,
+                    160.0
+                ],
+                [
+                    658.0,
+                    160.0
+                ],
+                [
+                    658.0,
+                    201.0
+                ],
+                [
+                    422.0,
+                    201.0
+                ]
+            ]
+        }
+    ]
+}

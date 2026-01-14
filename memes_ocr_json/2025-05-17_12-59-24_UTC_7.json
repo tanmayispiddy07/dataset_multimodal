@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-05-17_12-59-24_UTC_7.jpg",
+    "combined_text": "SCRAWLED\nSTORIES\nThappad se dar nhi lagta sahab,\nlekin client ka \"let's\nconnect at 9 am\"se\nlagta hai.",
+    "detailed": [
+        {
+            "text": "SCRAWLED",
+            "confidence": 0.998,
+            "box": [
+                [
+                    65.0,
+                    62.0
+                ],
+                [
+                    218.0,
+                    62.0
+                ],
+                [
+                    218.0,
+                    89.0
+                ],
+                [
+                    65.0,
+                    89.0
+                ]
+            ]
+        },
+        {
+            "text": "STORIES",
+            "confidence": 0.998,
+            "box": [
+                [
+                    79.0,
+                    88.0
+                ],
+                [
+                    203.0,
+                    92.0
+                ],
+                [
+                    202.0,
+                    120.0
+                ],
+                [
+                    78.0,
+                    116.0
+                ]
+            ]
+        },
+        {
+            "text": "Thappad se dar nhi lagta sahab,",
+            "confidence": 0.964,
+            "box": [
+                [
+                    440.0,
+                    295.0
+                ],
+                [
+                    1044.0,
+                    298.0
+                ],
+                [
+                    1043.0,
+                    343.0
+                ],
+                [
+                    440.0,
+                    340.0
+                ]
+            ]
+        },
+        {
+            "text": "lekin client ka \"let's",
+            "confidence": 0.925,
+            "box": [
+                [
+                    440.0,
+                    352.0
+                ],
+                [
+                    939.0,
+                    352.0
+                ],
+                [
+                    939.0,
+                    397.0
+                ],
+                [
+                    440.0,
+                    397.0
+                ]
+            ]
+        },
+        {
+            "text": "connect at 9 am\"se",
+            "confidence": 0.927,
+            "box": [
+                [
+                    439.0,
+                    406.0
+                ],
+                [
+                    944.0,
+                    406.0
+                ],
+                [
+                    944.0,
+                    451.0
+                ],
+                [
+                    439.0,
+                    451.0
+                ]
+            ]
+        },
+        {
+            "text": "lagta hai.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    435.0,
+                    454.0
+                ],
+                [
+                    678.0,
+                    457.0
+                ],
+                [
+                    677.0,
+                    516.0
+                ],
+                [
+                    434.0,
+                    513.0
+                ]
+            ]
+        }
+    ]
+}

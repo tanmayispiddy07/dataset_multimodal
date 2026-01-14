@@ -1,0 +1,94 @@
+{
+    "image_name": "2019-06-24_15-17-03_UTC.jpg",
+    "combined_text": "Desi culture is going to a restaurant\nand complaining at the end of the\nmeal by saying I could've made this\nat home.\"",
+    "detailed": [
+        {
+            "text": "Desi culture is going to a restaurant",
+            "confidence": 0.985,
+            "box": [
+                [
+                    45.0,
+                    367.0
+                ],
+                [
+                    1005.0,
+                    371.0
+                ],
+                [
+                    1004.0,
+                    439.0
+                ],
+                [
+                    45.0,
+                    434.0
+                ]
+            ]
+        },
+        {
+            "text": "and complaining at the end of the",
+            "confidence": 0.98,
+            "box": [
+                [
+                    46.0,
+                    466.0
+                ],
+                [
+                    963.0,
+                    462.0
+                ],
+                [
+                    963.0,
+                    530.0
+                ],
+                [
+                    46.0,
+                    533.0
+                ]
+            ]
+        },
+        {
+            "text": "meal by saying I could've made this",
+            "confidence": 0.953,
+            "box": [
+                [
+                    45.0,
+                    561.0
+                ],
+                [
+                    1038.0,
+                    558.0
+                ],
+                [
+                    1038.0,
+                    625.0
+                ],
+                [
+                    45.0,
+                    629.0
+                ]
+            ]
+        },
+        {
+            "text": "at home.\"",
+            "confidence": 0.96,
+            "box": [
+                [
+                    47.0,
+                    655.0
+                ],
+                [
+                    312.0,
+                    655.0
+                ],
+                [
+                    312.0,
+                    718.0
+                ],
+                [
+                    47.0,
+                    718.0
+                ]
+            ]
+        }
+    ]
+}

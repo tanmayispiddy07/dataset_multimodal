@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-11-09_08-27-43_UTC.jpg",
+    "combined_text": "India\nSource:x/Maheshverma76\nsarcasm\nLove and dedication:Kanpur paan\nseller saves1 lakh in 20 coins\nto gift his wife a gold chain.",
+    "detailed": [
+        {
+            "text": "India",
+            "confidence": 0.991,
+            "box": [
+                [
+                    33.0,
+                    17.0
+                ],
+                [
+                    82.0,
+                    17.0
+                ],
+                [
+                    82.0,
+                    37.0
+                ],
+                [
+                    33.0,
+                    37.0
+                ]
+            ]
+        },
+        {
+            "text": "Source:x/Maheshverma76",
+            "confidence": 0.989,
+            "box": [
+                [
+                    416.0,
+                    18.0
+                ],
+                [
+                    627.0,
+                    18.0
+                ],
+                [
+                    627.0,
+                    34.0
+                ],
+                [
+                    416.0,
+                    34.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    278.0,
+                    627.0
+                ],
+                [
+                    356.0,
+                    629.0
+                ],
+                [
+                    356.0,
+                    648.0
+                ],
+                [
+                    278.0,
+                    646.0
+                ]
+            ]
+        },
+        {
+            "text": "Love and dedication:Kanpur paan",
+            "confidence": 0.977,
+            "box": [
+                [
+                    26.0,
+                    656.0
+                ],
+                [
+                    614.0,
+                    660.0
+                ],
+                [
+                    614.0,
+                    691.0
+                ],
+                [
+                    26.0,
+                    687.0
+                ]
+            ]
+        },
+        {
+            "text": "seller saves1 lakh in 20 coins",
+            "confidence": 0.931,
+            "box": [
+                [
+                    49.0,
+                    701.0
+                ],
+                [
+                    583.0,
+                    701.0
+                ],
+                [
+                    583.0,
+                    732.0
+                ],
+                [
+                    49.0,
+                    732.0
+                ]
+            ]
+        },
+        {
+            "text": "to gift his wife a gold chain.",
+            "confidence": 0.977,
+            "box": [
+                [
+                    66.0,
+                    744.0
+                ],
+                [
+                    526.0,
+                    744.0
+                ],
+                [
+                    526.0,
+                    779.0
+                ],
+                [
+                    66.0,
+                    779.0
+                ]
+            ]
+        }
+    ]
+}

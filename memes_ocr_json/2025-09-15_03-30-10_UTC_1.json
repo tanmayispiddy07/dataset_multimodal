@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-09-15_03-30-10_UTC_1.jpg",
+    "combined_text": "HAPPY ENGINEER'S DAY TO\nALL THE ENGINEER'S\nCSE / IT\nADDICTEDTOMEMES\nECODING LUU ENTO EAI ENTO\nAMMAYILU EKKVUA UNTARU ANI\nJOIN AITHE E TECHNOLOGIES ENTO",
+    "detailed": [
+        {
+            "text": "HAPPY ENGINEER'S DAY TO",
+            "confidence": 0.937,
+            "box": [
+                [
+                    143.0,
+                    33.0
+                ],
+                [
+                    904.0,
+                    33.0
+                ],
+                [
+                    904.0,
+                    79.0
+                ],
+                [
+                    143.0,
+                    79.0
+                ]
+            ]
+        },
+        {
+            "text": "ALL THE ENGINEER'S",
+            "confidence": 0.961,
+            "box": [
+                [
+                    228.0,
+                    100.0
+                ],
+                [
+                    809.0,
+                    100.0
+                ],
+                [
+                    809.0,
+                    151.0
+                ],
+                [
+                    228.0,
+                    151.0
+                ]
+            ]
+        },
+        {
+            "text": "CSE / IT",
+            "confidence": 0.922,
+            "box": [
+                [
+                    336.0,
+                    213.0
+                ],
+                [
+                    778.0,
+                    213.0
+                ],
+                [
+                    778.0,
+                    316.0
+                ],
+                [
+                    336.0,
+                    316.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.992,
+            "box": [
+                [
+                    404.0,
+                    470.0
+                ],
+                [
+                    560.0,
+                    471.0
+                ],
+                [
+                    560.0,
+                    496.0
+                ],
+                [
+                    403.0,
+                    495.0
+                ]
+            ]
+        },
+        {
+            "text": "ECODING LUU ENTO EAI ENTO",
+            "confidence": 0.917,
+            "box": [
+                [
+                    128.0,
+                    715.0
+                ],
+                [
+                    1012.0,
+                    715.0
+                ],
+                [
+                    1012.0,
+                    761.0
+                ],
+                [
+                    128.0,
+                    761.0
+                ]
+            ]
+        },
+        {
+            "text": "AMMAYILU EKKVUA UNTARU ANI",
+            "confidence": 0.959,
+            "box": [
+                [
+                    187.0,
+                    1224.0
+                ],
+                [
+                    952.0,
+                    1224.0
+                ],
+                [
+                    952.0,
+                    1266.0
+                ],
+                [
+                    187.0,
+                    1266.0
+                ]
+            ]
+        },
+        {
+            "text": "JOIN AITHE E TECHNOLOGIES ENTO",
+            "confidence": 0.95,
+            "box": [
+                [
+                    155.0,
+                    1279.0
+                ],
+                [
+                    984.0,
+                    1281.0
+                ],
+                [
+                    984.0,
+                    1324.0
+                ],
+                [
+                    155.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

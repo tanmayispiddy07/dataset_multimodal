@@ -1,0 +1,138 @@
+{
+    "image_name": "2026-01-11_05-10-28_UTC.jpg",
+    "combined_text": "ME AFTER\nR SEEING BUS TICKETS\nPRICES FOR GOING TO HOME\nADDICTEDTOMEMES\nVADHUANDI PARLEDHU NAKU\nNADAKAALAVATE",
+    "detailed": [
+        {
+            "text": "ME AFTER",
+            "confidence": 0.966,
+            "box": [
+                [
+                    77.0,
+                    78.0
+                ],
+                [
+                    384.0,
+                    78.0
+                ],
+                [
+                    384.0,
+                    125.0
+                ],
+                [
+                    77.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "R SEEING BUS TICKETS",
+            "confidence": 0.938,
+            "box": [
+                [
+                    353.0,
+                    75.0
+                ],
+                [
+                    1014.0,
+                    77.0
+                ],
+                [
+                    1014.0,
+                    128.0
+                ],
+                [
+                    353.0,
+                    127.0
+                ]
+            ]
+        },
+        {
+            "text": "PRICES FOR GOING TO HOME",
+            "confidence": 0.973,
+            "box": [
+                [
+                    90.0,
+                    148.0
+                ],
+                [
+                    996.0,
+                    151.0
+                ],
+                [
+                    996.0,
+                    206.0
+                ],
+                [
+                    90.0,
+                    203.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    863.0,
+                    399.0
+                ],
+                [
+                    1010.0,
+                    399.0
+                ],
+                [
+                    1010.0,
+                    420.0
+                ],
+                [
+                    863.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "VADHUANDI PARLEDHU NAKU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    193.0,
+                    785.0
+                ],
+                [
+                    977.0,
+                    785.0
+                ],
+                [
+                    977.0,
+                    831.0
+                ],
+                [
+                    193.0,
+                    831.0
+                ]
+            ]
+        },
+        {
+            "text": "NADAKAALAVATE",
+            "confidence": 0.997,
+            "box": [
+                [
+                    316.0,
+                    1275.0
+                ],
+                [
+                    889.0,
+                    1275.0
+                ],
+                [
+                    889.0,
+                    1330.0
+                ],
+                [
+                    316.0,
+                    1330.0
+                ]
+            ]
+        }
+    ]
+}

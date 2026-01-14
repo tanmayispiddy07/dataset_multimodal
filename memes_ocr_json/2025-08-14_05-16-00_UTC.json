@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-08-14_05-16-00_UTC.jpg",
+    "combined_text": "HERE IS OUR REVIEW OF\nTHE FILM \"COOLIE\"\nTHE FIRST HALF OF COOLIE IS ENGAGING,WITH\nSEVERAL HIGH MOMENTS.ANIRUDH'S MUSIC\nELEVATES EVERY SCENE, ESPECIALLY DURING\nTHE POWERFUL INTERVAL BLOCK.\nTHE SECOND HALF, HOWEVER,COULD HAVE BENEFITED\nFROM A STRONGER FOCUS ON ACTION RATHER THAN\nDRAMA.THE FILM HAS ITS HIGHS AND LOWS, BUT IT\nSTILL DELIVERS SOME MEMORABLE SEQUENCES.KEEP\nYOUR EXPECTATIONS LOW AND ENJOY THE THALAIVA\nAURA ON THE BIG SCREEN.NAGARJUNA'S SCREEN\nPRESENCE IS LIT AND ADDS EXTRA FLAIR TO THE FILM.",
+    "detailed": [
+        {
+            "text": "HERE IS OUR REVIEW OF",
+            "confidence": 0.926,
+            "box": [
+                [
+                    229.0,
+                    15.0
+                ],
+                [
+                    848.0,
+                    14.0
+                ],
+                [
+                    848.0,
+                    57.0
+                ],
+                [
+                    229.0,
+                    59.0
+                ]
+            ]
+        },
+        {
+            "text": "THE FILM \"COOLIE\"",
+            "confidence": 0.96,
+            "box": [
+                [
+                    295.0,
+                    79.0
+                ],
+                [
+                    779.0,
+                    79.0
+                ],
+                [
+                    779.0,
+                    121.0
+                ],
+                [
+                    295.0,
+                    121.0
+                ]
+            ]
+        },
+        {
+            "text": "THE FIRST HALF OF COOLIE IS ENGAGING,WITH",
+            "confidence": 0.931,
+            "box": [
+                [
+                    41.0,
+                    152.0
+                ],
+                [
+                    1045.0,
+                    152.0
+                ],
+                [
+                    1045.0,
+                    190.0
+                ],
+                [
+                    41.0,
+                    190.0
+                ]
+            ]
+        },
+        {
+            "text": "SEVERAL HIGH MOMENTS.ANIRUDH'S MUSIC",
+            "confidence": 0.959,
+            "box": [
+                [
+                    68.0,
+                    203.0
+                ],
+                [
+                    1015.0,
+                    203.0
+                ],
+                [
+                    1015.0,
+                    241.0
+                ],
+                [
+                    68.0,
+                    241.0
+                ]
+            ]
+        },
+        {
+            "text": "ELEVATES EVERY SCENE, ESPECIALLY DURING",
+            "confidence": 0.954,
+            "box": [
+                [
+                    72.0,
+                    256.0
+                ],
+                [
+                    1014.0,
+                    256.0
+                ],
+                [
+                    1014.0,
+                    290.0
+                ],
+                [
+                    72.0,
+                    290.0
+                ]
+            ]
+        },
+        {
+            "text": "THE POWERFUL INTERVAL BLOCK.",
+            "confidence": 0.954,
+            "box": [
+                [
+                    188.0,
+                    305.0
+                ],
+                [
+                    890.0,
+                    305.0
+                ],
+                [
+                    890.0,
+                    343.0
+                ],
+                [
+                    188.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "THE SECOND HALF, HOWEVER,COULD HAVE BENEFITED",
+            "confidence": 0.943,
+            "box": [
+                [
+                    37.0,
+                    1002.0
+                ],
+                [
+                    1049.0,
+                    1002.0
+                ],
+                [
+                    1049.0,
+                    1036.0
+                ],
+                [
+                    37.0,
+                    1036.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM A STRONGER FOCUS ON ACTION RATHER THAN",
+            "confidence": 0.936,
+            "box": [
+                [
+                    48.0,
+                    1048.0
+                ],
+                [
+                    1036.0,
+                    1048.0
+                ],
+                [
+                    1036.0,
+                    1077.0
+                ],
+                [
+                    48.0,
+                    1077.0
+                ]
+            ]
+        },
+        {
+            "text": "DRAMA.THE FILM HAS ITS HIGHS AND LOWS, BUT IT",
+            "confidence": 0.935,
+            "box": [
+                [
+                    66.0,
+                    1091.0
+                ],
+                [
+                    1018.0,
+                    1091.0
+                ],
+                [
+                    1018.0,
+                    1125.0
+                ],
+                [
+                    66.0,
+                    1125.0
+                ]
+            ]
+        },
+        {
+            "text": "STILL DELIVERS SOME MEMORABLE SEQUENCES.KEEP",
+            "confidence": 0.971,
+            "box": [
+                [
+                    48.0,
+                    1136.0
+                ],
+                [
+                    1035.0,
+                    1136.0
+                ],
+                [
+                    1035.0,
+                    1169.0
+                ],
+                [
+                    48.0,
+                    1169.0
+                ]
+            ]
+        },
+        {
+            "text": "YOUR EXPECTATIONS LOW AND ENJOY THE THALAIVA",
+            "confidence": 0.964,
+            "box": [
+                [
+                    48.0,
+                    1179.0
+                ],
+                [
+                    1035.0,
+                    1182.0
+                ],
+                [
+                    1035.0,
+                    1215.0
+                ],
+                [
+                    48.0,
+                    1213.0
+                ]
+            ]
+        },
+        {
+            "text": "AURA ON THE BIG SCREEN.NAGARJUNA'S SCREEN",
+            "confidence": 0.955,
+            "box": [
+                [
+                    86.0,
+                    1226.0
+                ],
+                [
+                    1001.0,
+                    1226.0
+                ],
+                [
+                    1001.0,
+                    1260.0
+                ],
+                [
+                    86.0,
+                    1260.0
+                ]
+            ]
+        },
+        {
+            "text": "PRESENCE IS LIT AND ADDS EXTRA FLAIR TO THE FILM.",
+            "confidence": 0.925,
+            "box": [
+                [
+                    42.0,
+                    1271.0
+                ],
+                [
+                    1035.0,
+                    1271.0
+                ],
+                [
+                    1035.0,
+                    1305.0
+                ],
+                [
+                    42.0,
+                    1305.0
+                ]
+            ]
+        }
+    ]
+}

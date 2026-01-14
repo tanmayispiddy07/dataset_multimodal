@@ -1,0 +1,644 @@
+{
+    "image_name": "2025-08-13_16-37-40_UTC.jpg",
+    "combined_text": "LOKESH\nKANAGARAJ\nGreetings,\nWith just a few hours to go for Coolie's release, I'm feeling surreal and\nspellbound. I want to extend my heartfelt thanks to my Thalaivar,\nRajinikanth sir, for giving me the opportunity to craft this film with\ncomplete creative freedom and to bring my vision to life through him.\nA special thanks to the incredible cast who made this journey even more\nmemorable-King Nagarjuna sir, Real Star Upendra sir, Soubin sir,\nSathyaraj sir, Shruti Haasan, and, to helm it all, my dear Aamir Khan sir,\nwhose presence made it even more special.\nI also want to express my deepest gratitude to my crew,who have each\nbeen a pillar of strength and dedication. Over nearly two years, they have.\ngiven their all to support and realize this vision. I will forever be grateful\nto each and every person who has contributed to this film in any way..\nA heartfelt thank you to Sun Pictures and Mr. Kalanithi Maran sir for\nentrusting me with this project and allowing me the creative freedom to\nshape it entirely under my vision.My sincere thanks also to Kannan sir\nfor his unwavering support throughout. Thank you so much to the entire.\nteam I will be forever grateful..\nAnd a special thanks to my team, The Route,Jagadish bro,Aishwarya\nand Radheyan who have helped me throughout, especially in getting all\nthe actors for this film.\nAnd to all my dear audience, thank you for all the love and support\nyou've showed me and this film. Coolie will be all yours in a few hours. I\nrequest you all to refrain from sharing any spoilers from the film.\nCoolie is a standalone film for my Thalaivar Superstar Rajinikanth sir.\nMuch Love\nLokesh Kanagaraj",
+    "detailed": [
+        {
+            "text": "LOKESH",
+            "confidence": 0.998,
+            "box": [
+                [
+                    87.0,
+                    36.0
+                ],
+                [
+                    258.0,
+                    36.0
+                ],
+                [
+                    258.0,
+                    69.0
+                ],
+                [
+                    87.0,
+                    69.0
+                ]
+            ]
+        },
+        {
+            "text": "KANAGARAJ",
+            "confidence": 0.997,
+            "box": [
+                [
+                    86.0,
+                    75.0
+                ],
+                [
+                    344.0,
+                    75.0
+                ],
+                [
+                    344.0,
+                    106.0
+                ],
+                [
+                    86.0,
+                    106.0
+                ]
+            ]
+        },
+        {
+            "text": "Greetings,",
+            "confidence": 0.997,
+            "box": [
+                [
+                    62.0,
+                    130.0
+                ],
+                [
+                    203.0,
+                    135.0
+                ],
+                [
+                    202.0,
+                    168.0
+                ],
+                [
+                    61.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "With just a few hours to go for Coolie's release, I'm feeling surreal and",
+            "confidence": 0.963,
+            "box": [
+                [
+                    68.0,
+                    207.0
+                ],
+                [
+                    959.0,
+                    207.0
+                ],
+                [
+                    959.0,
+                    234.0
+                ],
+                [
+                    68.0,
+                    234.0
+                ]
+            ]
+        },
+        {
+            "text": "spellbound. I want to extend my heartfelt thanks to my Thalaivar,",
+            "confidence": 0.976,
+            "box": [
+                [
+                    66.0,
+                    241.0
+                ],
+                [
+                    914.0,
+                    241.0
+                ],
+                [
+                    914.0,
+                    273.0
+                ],
+                [
+                    66.0,
+                    273.0
+                ]
+            ]
+        },
+        {
+            "text": "Rajinikanth sir, for giving me the opportunity to craft this film with",
+            "confidence": 0.961,
+            "box": [
+                [
+                    66.0,
+                    276.0
+                ],
+                [
+                    934.0,
+                    276.0
+                ],
+                [
+                    934.0,
+                    307.0
+                ],
+                [
+                    66.0,
+                    307.0
+                ]
+            ]
+        },
+        {
+            "text": "complete creative freedom and to bring my vision to life through him.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    64.0,
+                    312.0
+                ],
+                [
+                    971.0,
+                    313.0
+                ],
+                [
+                    971.0,
+                    345.0
+                ],
+                [
+                    64.0,
+                    343.0
+                ]
+            ]
+        },
+        {
+            "text": "A special thanks to the incredible cast who made this journey even more",
+            "confidence": 0.96,
+            "box": [
+                [
+                    66.0,
+                    387.0
+                ],
+                [
+                    1006.0,
+                    387.0
+                ],
+                [
+                    1006.0,
+                    414.0
+                ],
+                [
+                    66.0,
+                    414.0
+                ]
+            ]
+        },
+        {
+            "text": "memorable-King Nagarjuna sir, Real Star Upendra sir, Soubin sir,",
+            "confidence": 0.955,
+            "box": [
+                [
+                    64.0,
+                    421.0
+                ],
+                [
+                    953.0,
+                    421.0
+                ],
+                [
+                    953.0,
+                    453.0
+                ],
+                [
+                    64.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "Sathyaraj sir, Shruti Haasan, and, to helm it all, my dear Aamir Khan sir,",
+            "confidence": 0.934,
+            "box": [
+                [
+                    68.0,
+                    459.0
+                ],
+                [
+                    997.0,
+                    459.0
+                ],
+                [
+                    997.0,
+                    486.0
+                ],
+                [
+                    68.0,
+                    486.0
+                ]
+            ]
+        },
+        {
+            "text": "whose presence made it even more special.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    64.0,
+                    492.0
+                ],
+                [
+                    634.0,
+                    492.0
+                ],
+                [
+                    634.0,
+                    523.0
+                ],
+                [
+                    64.0,
+                    523.0
+                ]
+            ]
+        },
+        {
+            "text": "I also want to express my deepest gratitude to my crew,who have each",
+            "confidence": 0.958,
+            "box": [
+                [
+                    63.0,
+                    564.0
+                ],
+                [
+                    988.0,
+                    564.0
+                ],
+                [
+                    988.0,
+                    595.0
+                ],
+                [
+                    63.0,
+                    595.0
+                ]
+            ]
+        },
+        {
+            "text": "been a pillar of strength and dedication. Over nearly two years, they have.",
+            "confidence": 0.989,
+            "box": [
+                [
+                    63.0,
+                    598.0
+                ],
+                [
+                    1006.0,
+                    600.0
+                ],
+                [
+                    1006.0,
+                    631.0
+                ],
+                [
+                    63.0,
+                    630.0
+                ]
+            ]
+        },
+        {
+            "text": "given their all to support and realize this vision. I will forever be grateful",
+            "confidence": 0.966,
+            "box": [
+                [
+                    66.0,
+                    636.0
+                ],
+                [
+                    986.0,
+                    636.0
+                ],
+                [
+                    986.0,
+                    667.0
+                ],
+                [
+                    66.0,
+                    667.0
+                ]
+            ]
+        },
+        {
+            "text": "to each and every person who has contributed to this film in any way..",
+            "confidence": 0.992,
+            "box": [
+                [
+                    60.0,
+                    667.0
+                ],
+                [
+                    965.0,
+                    670.0
+                ],
+                [
+                    965.0,
+                    706.0
+                ],
+                [
+                    60.0,
+                    703.0
+                ]
+            ]
+        },
+        {
+            "text": "A heartfelt thank you to Sun Pictures and Mr. Kalanithi Maran sir for",
+            "confidence": 0.996,
+            "box": [
+                [
+                    63.0,
+                    742.0
+                ],
+                [
+                    962.0,
+                    740.0
+                ],
+                [
+                    962.0,
+                    772.0
+                ],
+                [
+                    63.0,
+                    773.0
+                ]
+            ]
+        },
+        {
+            "text": "entrusting me with this project and allowing me the creative freedom to",
+            "confidence": 0.962,
+            "box": [
+                [
+                    66.0,
+                    781.0
+                ],
+                [
+                    1006.0,
+                    781.0
+                ],
+                [
+                    1006.0,
+                    808.0
+                ],
+                [
+                    66.0,
+                    808.0
+                ]
+            ]
+        },
+        {
+            "text": "shape it entirely under my vision.My sincere thanks also to Kannan sir",
+            "confidence": 0.967,
+            "box": [
+                [
+                    66.0,
+                    817.0
+                ],
+                [
+                    974.0,
+                    817.0
+                ],
+                [
+                    974.0,
+                    844.0
+                ],
+                [
+                    66.0,
+                    844.0
+                ]
+            ]
+        },
+        {
+            "text": "for his unwavering support throughout. Thank you so much to the entire.",
+            "confidence": 0.99,
+            "box": [
+                [
+                    63.0,
+                    848.0
+                ],
+                [
+                    1009.0,
+                    850.0
+                ],
+                [
+                    1009.0,
+                    881.0
+                ],
+                [
+                    63.0,
+                    880.0
+                ]
+            ]
+        },
+        {
+            "text": "team I will be forever grateful..",
+            "confidence": 0.977,
+            "box": [
+                [
+                    63.0,
+                    886.0
+                ],
+                [
+                    454.0,
+                    886.0
+                ],
+                [
+                    454.0,
+                    917.0
+                ],
+                [
+                    63.0,
+                    917.0
+                ]
+            ]
+        },
+        {
+            "text": "And a special thanks to my team, The Route,Jagadish bro,Aishwarya",
+            "confidence": 0.95,
+            "box": [
+                [
+                    66.0,
+                    959.0
+                ],
+                [
+                    979.0,
+                    959.0
+                ],
+                [
+                    979.0,
+                    986.0
+                ],
+                [
+                    66.0,
+                    986.0
+                ]
+            ]
+        },
+        {
+            "text": "and Radheyan who have helped me throughout, especially in getting all",
+            "confidence": 0.981,
+            "box": [
+                [
+                    64.0,
+                    994.0
+                ],
+                [
+                    1008.0,
+                    994.0
+                ],
+                [
+                    1008.0,
+                    1025.0
+                ],
+                [
+                    64.0,
+                    1025.0
+                ]
+            ]
+        },
+        {
+            "text": "the actors for this film.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    63.0,
+                    1028.0
+                ],
+                [
+                    359.0,
+                    1028.0
+                ],
+                [
+                    359.0,
+                    1060.0
+                ],
+                [
+                    63.0,
+                    1060.0
+                ]
+            ]
+        },
+        {
+            "text": "And to all my dear audience, thank you for all the love and support",
+            "confidence": 0.987,
+            "box": [
+                [
+                    63.0,
+                    1099.0
+                ],
+                [
+                    928.0,
+                    1100.0
+                ],
+                [
+                    928.0,
+                    1132.0
+                ],
+                [
+                    63.0,
+                    1130.0
+                ]
+            ]
+        },
+        {
+            "text": "you've showed me and this film. Coolie will be all yours in a few hours. I",
+            "confidence": 0.996,
+            "box": [
+                [
+                    61.0,
+                    1136.0
+                ],
+                [
+                    985.0,
+                    1135.0
+                ],
+                [
+                    985.0,
+                    1166.0
+                ],
+                [
+                    61.0,
+                    1168.0
+                ]
+            ]
+        },
+        {
+            "text": "request you all to refrain from sharing any spoilers from the film.",
+            "confidence": 0.987,
+            "box": [
+                [
+                    63.0,
+                    1208.0
+                ],
+                [
+                    908.0,
+                    1207.0
+                ],
+                [
+                    908.0,
+                    1238.0
+                ],
+                [
+                    63.0,
+                    1240.0
+                ]
+            ]
+        },
+        {
+            "text": "Coolie is a standalone film for my Thalaivar Superstar Rajinikanth sir.",
+            "confidence": 0.971,
+            "box": [
+                [
+                    66.0,
+                    1282.0
+                ],
+                [
+                    956.0,
+                    1282.0
+                ],
+                [
+                    956.0,
+                    1309.0
+                ],
+                [
+                    66.0,
+                    1309.0
+                ]
+            ]
+        },
+        {
+            "text": "Much Love",
+            "confidence": 0.998,
+            "box": [
+                [
+                    63.0,
+                    1352.0
+                ],
+                [
+                    213.0,
+                    1352.0
+                ],
+                [
+                    213.0,
+                    1381.0
+                ],
+                [
+                    63.0,
+                    1381.0
+                ]
+            ]
+        },
+        {
+            "text": "Lokesh Kanagaraj",
+            "confidence": 0.996,
+            "box": [
+                [
+                    61.0,
+                    1385.0
+                ],
+                [
+                    314.0,
+                    1385.0
+                ],
+                [
+                    314.0,
+                    1421.0
+                ],
+                [
+                    61.0,
+                    1421.0
+                ]
+            ]
+        }
+    ]
+}

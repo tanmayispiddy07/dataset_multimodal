@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-08-10_06-03-15_UTC.jpg",
+    "combined_text": "She told you to meet\nher at the bar\nWFITLINE",
+    "detailed": [
+        {
+            "text": "She told you to meet",
+            "confidence": 0.948,
+            "box": [
+                [
+                    123.0,
+                    129.0
+                ],
+                [
+                    406.0,
+                    133.0
+                ],
+                [
+                    406.0,
+                    161.0
+                ],
+                [
+                    123.0,
+                    157.0
+                ]
+            ]
+        },
+        {
+            "text": "her at the bar",
+            "confidence": 0.949,
+            "box": [
+                [
+                    173.0,
+                    170.0
+                ],
+                [
+                    358.0,
+                    170.0
+                ],
+                [
+                    358.0,
+                    197.0
+                ],
+                [
+                    173.0,
+                    197.0
+                ]
+            ]
+        },
+        {
+            "text": "WFITLINE",
+            "confidence": 0.713,
+            "box": [
+                [
+                    375.0,
+                    610.0
+                ],
+                [
+                    459.0,
+                    631.0
+                ],
+                [
+                    454.0,
+                    652.0
+                ],
+                [
+                    370.0,
+                    631.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,446 @@
+{
+    "image_name": "2025-09-28_12-16-57_UTC.jpg",
+    "combined_text": "KVlyyer-BHARAT\n@BanCheneProductSep 13\nDEVASTATING INCIDENT WHICH HAPPENED TODAY MORNING:-\nOne of my colleague, Shankar texted me today morning at 8.37 am with a\nmessage\n\"Sir, due to heavy backpain I am unable to come today.So please grant me\nleave.Such type of leave requests, being usual, I replied \"Ok take rest\" And\nthe day continued normally.\nAt 11 am,I received a call that shook me like never before.The person\ncalling me told that Shankar has passed away.I didn't believe it in the first\ninstance.I called another colleague to reconfirm and to get his residence\naddress.Got the address and rushed to his house.He was NO MORE.\nHe was in my team for the last 6 years.Just 40 years of age,healthy & fit.\nMarried with a child.No Smoking and Never tasted Alcohol.\nHe suffered a Cardiac Arrest.Whats shocking is he texted me for leave at\n8.37 am & he breathed his last at 8.47 am.A man, while he was conscious,\nmessages me 1O minutes before his last breath.COMPLETELY SHOCKED.\n\"Life is so unpredicatable.Be kind to people around you & live life happily\ntill it lasts, for you never know whats in store the next minute\"\nOm Shanti",
+    "detailed": [
+        {
+            "text": "KVlyyer-BHARAT",
+            "confidence": 0.957,
+            "box": [
+                [
+                    116.0,
+                    1.0
+                ],
+                [
+                    392.0,
+                    1.0
+                ],
+                [
+                    392.0,
+                    30.0
+                ],
+                [
+                    116.0,
+                    30.0
+                ]
+            ]
+        },
+        {
+            "text": "@BanCheneProductSep 13",
+            "confidence": 0.973,
+            "box": [
+                [
+                    477.0,
+                    3.0
+                ],
+                [
+                    826.0,
+                    3.0
+                ],
+                [
+                    826.0,
+                    27.0
+                ],
+                [
+                    477.0,
+                    27.0
+                ]
+            ]
+        },
+        {
+            "text": "DEVASTATING INCIDENT WHICH HAPPENED TODAY MORNING:-",
+            "confidence": 0.95,
+            "box": [
+                [
+                    115.0,
+                    38.0
+                ],
+                [
+                    910.0,
+                    38.0
+                ],
+                [
+                    910.0,
+                    67.0
+                ],
+                [
+                    115.0,
+                    67.0
+                ]
+            ]
+        },
+        {
+            "text": "One of my colleague, Shankar texted me today morning at 8.37 am with a",
+            "confidence": 0.951,
+            "box": [
+                [
+                    116.0,
+                    109.0
+                ],
+                [
+                    1002.0,
+                    109.0
+                ],
+                [
+                    1002.0,
+                    138.0
+                ],
+                [
+                    116.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "message",
+            "confidence": 0.993,
+            "box": [
+                [
+                    113.0,
+                    146.0
+                ],
+                [
+                    228.0,
+                    146.0
+                ],
+                [
+                    228.0,
+                    176.0
+                ],
+                [
+                    113.0,
+                    176.0
+                ]
+            ]
+        },
+        {
+            "text": "\"Sir, due to heavy backpain I am unable to come today.So please grant me",
+            "confidence": 0.942,
+            "box": [
+                [
+                    112.0,
+                    177.0
+                ],
+                [
+                    1019.0,
+                    179.0
+                ],
+                [
+                    1019.0,
+                    212.0
+                ],
+                [
+                    112.0,
+                    210.0
+                ]
+            ]
+        },
+        {
+            "text": "leave.Such type of leave requests, being usual, I replied \"Ok take rest\" And",
+            "confidence": 0.94,
+            "box": [
+                [
+                    113.0,
+                    214.0
+                ],
+                [
+                    1033.0,
+                    214.0
+                ],
+                [
+                    1033.0,
+                    247.0
+                ],
+                [
+                    113.0,
+                    247.0
+                ]
+            ]
+        },
+        {
+            "text": "the day continued normally.",
+            "confidence": 0.972,
+            "box": [
+                [
+                    115.0,
+                    250.0
+                ],
+                [
+                    455.0,
+                    250.0
+                ],
+                [
+                    455.0,
+                    282.0
+                ],
+                [
+                    115.0,
+                    282.0
+                ]
+            ]
+        },
+        {
+            "text": "At 11 am,I received a call that shook me like never before.The person",
+            "confidence": 0.961,
+            "box": [
+                [
+                    113.0,
+                    318.0
+                ],
+                [
+                    956.0,
+                    319.0
+                ],
+                [
+                    956.0,
+                    352.0
+                ],
+                [
+                    113.0,
+                    351.0
+                ]
+            ]
+        },
+        {
+            "text": "calling me told that Shankar has passed away.I didn't believe it in the first",
+            "confidence": 0.955,
+            "box": [
+                [
+                    116.0,
+                    358.0
+                ],
+                [
+                    1010.0,
+                    358.0
+                ],
+                [
+                    1010.0,
+                    386.0
+                ],
+                [
+                    116.0,
+                    386.0
+                ]
+            ]
+        },
+        {
+            "text": "instance.I called another colleague to reconfirm and to get his residence",
+            "confidence": 0.97,
+            "box": [
+                [
+                    113.0,
+                    390.0
+                ],
+                [
+                    996.0,
+                    392.0
+                ],
+                [
+                    996.0,
+                    422.0
+                ],
+                [
+                    113.0,
+                    420.0
+                ]
+            ]
+        },
+        {
+            "text": "address.Got the address and rushed to his house.He was NO MORE.",
+            "confidence": 0.949,
+            "box": [
+                [
+                    116.0,
+                    427.0
+                ],
+                [
+                    963.0,
+                    427.0
+                ],
+                [
+                    963.0,
+                    456.0
+                ],
+                [
+                    116.0,
+                    456.0
+                ]
+            ]
+        },
+        {
+            "text": "He was in my team for the last 6 years.Just 40 years of age,healthy & fit.",
+            "confidence": 0.941,
+            "box": [
+                [
+                    115.0,
+                    497.0
+                ],
+                [
+                    995.0,
+                    497.0
+                ],
+                [
+                    995.0,
+                    529.0
+                ],
+                [
+                    115.0,
+                    529.0
+                ]
+            ]
+        },
+        {
+            "text": "Married with a child.No Smoking and Never tasted Alcohol.",
+            "confidence": 0.966,
+            "box": [
+                [
+                    115.0,
+                    534.0
+                ],
+                [
+                    837.0,
+                    534.0
+                ],
+                [
+                    837.0,
+                    562.0
+                ],
+                [
+                    115.0,
+                    562.0
+                ]
+            ]
+        },
+        {
+            "text": "He suffered a Cardiac Arrest.Whats shocking is he texted me for leave at",
+            "confidence": 0.973,
+            "box": [
+                [
+                    115.0,
+                    605.0
+                ],
+                [
+                    999.0,
+                    605.0
+                ],
+                [
+                    999.0,
+                    633.0
+                ],
+                [
+                    115.0,
+                    633.0
+                ]
+            ]
+        },
+        {
+            "text": "8.37 am & he breathed his last at 8.47 am.A man, while he was conscious,",
+            "confidence": 0.932,
+            "box": [
+                [
+                    113.0,
+                    637.0
+                ],
+                [
+                    1013.0,
+                    640.0
+                ],
+                [
+                    1012.0,
+                    670.0
+                ],
+                [
+                    113.0,
+                    667.0
+                ]
+            ]
+        },
+        {
+            "text": "messages me 1O minutes before his last breath.COMPLETELY SHOCKED.",
+            "confidence": 0.946,
+            "box": [
+                [
+                    113.0,
+                    675.0
+                ],
+                [
+                    1004.0,
+                    674.0
+                ],
+                [
+                    1004.0,
+                    703.0
+                ],
+                [
+                    113.0,
+                    704.0
+                ]
+            ]
+        },
+        {
+            "text": "\"Life is so unpredicatable.Be kind to people around you & live life happily",
+            "confidence": 0.936,
+            "box": [
+                [
+                    113.0,
+                    742.0
+                ],
+                [
+                    999.0,
+                    744.0
+                ],
+                [
+                    999.0,
+                    776.0
+                ],
+                [
+                    113.0,
+                    775.0
+                ]
+            ]
+        },
+        {
+            "text": "till it lasts, for you never know whats in store the next minute\"",
+            "confidence": 0.949,
+            "box": [
+                [
+                    113.0,
+                    781.0
+                ],
+                [
+                    860.0,
+                    779.0
+                ],
+                [
+                    860.0,
+                    809.0
+                ],
+                [
+                    113.0,
+                    811.0
+                ]
+            ]
+        },
+        {
+            "text": "Om Shanti",
+            "confidence": 0.973,
+            "box": [
+                [
+                    112.0,
+                    847.0
+                ],
+                [
+                    269.0,
+                    850.0
+                ],
+                [
+                    268.0,
+                    884.0
+                ],
+                [
+                    112.0,
+                    881.0
+                ]
+            ]
+        }
+    ]
+}

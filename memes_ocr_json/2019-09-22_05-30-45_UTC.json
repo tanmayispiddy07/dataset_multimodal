@@ -1,0 +1,72 @@
+{
+    "image_name": "2019-09-22_05-30-45_UTC.jpg",
+    "combined_text": "Me: I need some\nsupport in life.\nMy telugu friends:",
+    "detailed": [
+        {
+            "text": "Me: I need some",
+            "confidence": 0.989,
+            "box": [
+                [
+                    33.0,
+                    14.0
+                ],
+                [
+                    661.0,
+                    19.0
+                ],
+                [
+                    660.0,
+                    98.0
+                ],
+                [
+                    32.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "support in life.",
+            "confidence": 0.984,
+            "box": [
+                [
+                    27.0,
+                    110.0
+                ],
+                [
+                    560.0,
+                    93.0
+                ],
+                [
+                    563.0,
+                    179.0
+                ],
+                [
+                    30.0,
+                    196.0
+                ]
+            ]
+        },
+        {
+            "text": "My telugu friends:",
+            "confidence": 0.984,
+            "box": [
+                [
+                    26.0,
+                    236.0
+                ],
+                [
+                    710.0,
+                    232.0
+                ],
+                [
+                    711.0,
+                    325.0
+                ],
+                [
+                    27.0,
+                    330.0
+                ]
+            ]
+        }
+    ]
+}

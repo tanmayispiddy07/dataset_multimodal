@@ -1,0 +1,226 @@
+{
+    "image_name": "2025-11-05_08-07-16_UTC.jpg",
+    "combined_text": "\"KANNODILI KALANODILI LYRICAL VIDEO\"\nFROM 12A RAILWAY COLONY\nhoti\nHESHAM ABDUL WAHAB\nVOCALS\nlaalnti\nlu Chooputhot/\nADDICTEDTOMEMES\nNAKU BHEEMS MUSIC ANTE CHALA\nISTAM RA OKA MAGIC UNTADHI",
+    "detailed": [
+        {
+            "text": "\"KANNODILI KALANODILI LYRICAL VIDEO\"",
+            "confidence": 0.962,
+            "box": [
+                [
+                    45.0,
+                    64.0
+                ],
+                [
+                    1065.0,
+                    64.0
+                ],
+                [
+                    1065.0,
+                    110.0
+                ],
+                [
+                    45.0,
+                    110.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM 12A RAILWAY COLONY",
+            "confidence": 0.982,
+            "box": [
+                [
+                    194.0,
+                    123.0
+                ],
+                [
+                    880.0,
+                    121.0
+                ],
+                [
+                    880.0,
+                    167.0
+                ],
+                [
+                    194.0,
+                    169.0
+                ]
+            ]
+        },
+        {
+            "text": "hoti",
+            "confidence": 0.994,
+            "box": [
+                [
+                    0.0,
+                    336.0
+                ],
+                [
+                    83.0,
+                    336.0
+                ],
+                [
+                    83.0,
+                    382.0
+                ],
+                [
+                    0.0,
+                    382.0
+                ]
+            ]
+        },
+        {
+            "text": "HESHAM ABDUL WAHAB",
+            "confidence": 0.949,
+            "box": [
+                [
+                    594.0,
+                    414.0
+                ],
+                [
+                    1011.0,
+                    424.0
+                ],
+                [
+                    1010.0,
+                    463.0
+                ],
+                [
+                    593.0,
+                    453.0
+                ]
+            ]
+        },
+        {
+            "text": "VOCALS",
+            "confidence": 0.995,
+            "box": [
+                [
+                    749.0,
+                    455.0
+                ],
+                [
+                    862.0,
+                    459.0
+                ],
+                [
+                    861.0,
+                    494.0
+                ],
+                [
+                    748.0,
+                    490.0
+                ]
+            ]
+        },
+        {
+            "text": "laalnti",
+            "confidence": 0.912,
+            "box": [
+                [
+                    606.0,
+                    623.0
+                ],
+                [
+                    1079.0,
+                    652.0
+                ],
+                [
+                    1079.0,
+                    792.0
+                ],
+                [
+                    598.0,
+                    762.0
+                ]
+            ]
+        },
+        {
+            "text": "lu Chooputhot/",
+            "confidence": 0.901,
+            "box": [
+                [
+                    0.0,
+                    727.0
+                ],
+                [
+                    603.0,
+                    711.0
+                ],
+                [
+                    605.0,
+                    798.0
+                ],
+                [
+                    0.0,
+                    813.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    928.0,
+                    1062.0
+                ],
+                [
+                    1076.0,
+                    1062.0
+                ],
+                [
+                    1076.0,
+                    1083.0
+                ],
+                [
+                    928.0,
+                    1083.0
+                ]
+            ]
+        },
+        {
+            "text": "NAKU BHEEMS MUSIC ANTE CHALA",
+            "confidence": 0.935,
+            "box": [
+                [
+                    180.0,
+                    1239.0
+                ],
+                [
+                    901.0,
+                    1239.0
+                ],
+                [
+                    901.0,
+                    1277.0
+                ],
+                [
+                    180.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "ISTAM RA OKA MAGIC UNTADHI",
+            "confidence": 0.932,
+            "box": [
+                [
+                    210.0,
+                    1291.0
+                ],
+                [
+                    868.0,
+                    1291.0
+                ],
+                [
+                    868.0,
+                    1328.0
+                ],
+                [
+                    210.0,
+                    1328.0
+                ]
+            ]
+        }
+    ]
+}

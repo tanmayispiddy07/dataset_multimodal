@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-06-26_04-45-00_UTC.jpg",
+    "combined_text": "RMInE YAMAL\n19\n18\n&IA\nsarcasm\nIf you hate Cristiano Ronaldo, it's because\nhe humiliated your favorite club or because\nhe's better than your favorite player.\nJose Mourinho",
+    "detailed": [
+        {
+            "text": "RMInE YAMAL",
+            "confidence": 0.751,
+            "box": [
+                [
+                    807.0,
+                    292.0
+                ],
+                [
+                    1007.0,
+                    307.0
+                ],
+                [
+                    1003.0,
+                    352.0
+                ],
+                [
+                    803.0,
+                    337.0
+                ]
+            ]
+        },
+        {
+            "text": "19",
+            "confidence": 0.998,
+            "box": [
+                [
+                    792.0,
+                    349.0
+                ],
+                [
+                    1002.0,
+                    362.0
+                ],
+                [
+                    988.0,
+                    577.0
+                ],
+                [
+                    779.0,
+                    564.0
+                ]
+            ]
+        },
+        {
+            "text": "18",
+            "confidence": 0.992,
+            "box": [
+                [
+                    623.0,
+                    603.0
+                ],
+                [
+                    710.0,
+                    603.0
+                ],
+                [
+                    710.0,
+                    711.0
+                ],
+                [
+                    623.0,
+                    711.0
+                ]
+            ]
+        },
+        {
+            "text": "&IA",
+            "confidence": 0.825,
+            "box": [
+                [
+                    183.0,
+                    862.0
+                ],
+                [
+                    546.0,
+                    866.0
+                ],
+                [
+                    544.0,
+                    1023.0
+                ],
+                [
+                    181.0,
+                    1019.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.995,
+            "box": [
+                [
+                    484.0,
+                    990.0
+                ],
+                [
+                    598.0,
+                    990.0
+                ],
+                [
+                    598.0,
+                    1012.0
+                ],
+                [
+                    484.0,
+                    1012.0
+                ]
+            ]
+        },
+        {
+            "text": "If you hate Cristiano Ronaldo, it's because",
+            "confidence": 0.988,
+            "box": [
+                [
+                    25.0,
+                    1092.0
+                ],
+                [
+                    1052.0,
+                    1089.0
+                ],
+                [
+                    1052.0,
+                    1138.0
+                ],
+                [
+                    25.0,
+                    1141.0
+                ]
+            ]
+        },
+        {
+            "text": "he humiliated your favorite club or because",
+            "confidence": 0.98,
+            "box": [
+                [
+                    11.0,
+                    1155.0
+                ],
+                [
+                    1065.0,
+                    1155.0
+                ],
+                [
+                    1065.0,
+                    1203.0
+                ],
+                [
+                    11.0,
+                    1203.0
+                ]
+            ]
+        },
+        {
+            "text": "he's better than your favorite player.",
+            "confidence": 0.971,
+            "box": [
+                [
+                    97.0,
+                    1221.0
+                ],
+                [
+                    977.0,
+                    1221.0
+                ],
+                [
+                    977.0,
+                    1269.0
+                ],
+                [
+                    97.0,
+                    1269.0
+                ]
+            ]
+        },
+        {
+            "text": "Jose Mourinho",
+            "confidence": 0.96,
+            "box": [
+                [
+                    425.0,
+                    1287.0
+                ],
+                [
+                    683.0,
+                    1287.0
+                ],
+                [
+                    683.0,
+                    1322.0
+                ],
+                [
+                    425.0,
+                    1322.0
+                ]
+            ]
+        }
+    ]
+}

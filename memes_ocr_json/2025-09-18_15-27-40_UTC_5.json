@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-09-18_15-27-40_UTC_5.jpg",
+    "combined_text": "You said stress buster\nI heard :.",
+    "detailed": [
+        {
+            "text": "You said stress buster",
+            "confidence": 1.0,
+            "box": [
+                [
+                    208.0,
+                    57.0
+                ],
+                [
+                    857.0,
+                    62.0
+                ],
+                [
+                    856.0,
+                    120.0
+                ],
+                [
+                    208.0,
+                    115.0
+                ]
+            ]
+        },
+        {
+            "text": "I heard :.",
+            "confidence": 0.901,
+            "box": [
+                [
+                    412.0,
+                    150.0
+                ],
+                [
+                    669.0,
+                    150.0
+                ],
+                [
+                    669.0,
+                    214.0
+                ],
+                [
+                    412.0,
+                    214.0
+                ]
+            ]
+        }
+    ]
+}

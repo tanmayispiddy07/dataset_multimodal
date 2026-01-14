@@ -1,0 +1,138 @@
+{
+    "image_name": "2023-04-06_08-00-59_UTC.jpg",
+    "combined_text": "MAN K*LLS WIFE AFTER SHE DEMANDS\nNON-VEG FOOD DURING NAVRATRI\nTELUGU MEMES GURU\nDIVORCE IVVACHU KADA RA BUJJI....\nANTHA\nMATRANIKEY CHAMPEYYALA",
+    "detailed": [
+        {
+            "text": "MAN K*LLS WIFE AFTER SHE DEMANDS",
+            "confidence": 0.935,
+            "box": [
+                [
+                    36.0,
+                    30.0
+                ],
+                [
+                    1040.0,
+                    30.0
+                ],
+                [
+                    1040.0,
+                    72.0
+                ],
+                [
+                    36.0,
+                    72.0
+                ]
+            ]
+        },
+        {
+            "text": "NON-VEG FOOD DURING NAVRATRI",
+            "confidence": 0.96,
+            "box": [
+                [
+                    69.0,
+                    83.0
+                ],
+                [
+                    1009.0,
+                    83.0
+                ],
+                [
+                    1009.0,
+                    128.0
+                ],
+                [
+                    69.0,
+                    128.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    78.0,
+                    744.0
+                ],
+                [
+                    245.0,
+                    744.0
+                ],
+                [
+                    245.0,
+                    767.0
+                ],
+                [
+                    78.0,
+                    767.0
+                ]
+            ]
+        },
+        {
+            "text": "DIVORCE IVVACHU KADA RA BUJJI....",
+            "confidence": 0.931,
+            "box": [
+                [
+                    19.0,
+                    1113.0
+                ],
+                [
+                    876.0,
+                    1113.0
+                ],
+                [
+                    876.0,
+                    1151.0
+                ],
+                [
+                    19.0,
+                    1151.0
+                ]
+            ]
+        },
+        {
+            "text": "ANTHA",
+            "confidence": 0.998,
+            "box": [
+                [
+                    889.0,
+                    1113.0
+                ],
+                [
+                    1059.0,
+                    1113.0
+                ],
+                [
+                    1059.0,
+                    1152.0
+                ],
+                [
+                    889.0,
+                    1152.0
+                ]
+            ]
+        },
+        {
+            "text": "MATRANIKEY CHAMPEYYALA",
+            "confidence": 0.97,
+            "box": [
+                [
+                    191.0,
+                    1160.0
+                ],
+                [
+                    875.0,
+                    1160.0
+                ],
+                [
+                    875.0,
+                    1201.0
+                ],
+                [
+                    191.0,
+                    1201.0
+                ]
+            ]
+        }
+    ]
+}

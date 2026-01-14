@@ -1,0 +1,336 @@
+{
+    "image_name": "2025-11-02_15-10-34_UTC_1.jpg",
+    "combined_text": "ah Rukh Khan\n@iamsrk\nave been advised by authorities th\ngreet all you lovely people who have b\nMy deepest apologies to all of you but\nthe overall safety of everyone due to cr\nThank you for understanding and beli\nore than you will. Was looking forw\nLove u all...\nv22025677.7K\nsarcasm\nShah Rukh Khan Apologizes\nTo Fans After Being Unable\nTo Meet Due To Safety\nConcerns",
+    "detailed": [
+        {
+            "text": "ah Rukh Khan",
+            "confidence": 0.951,
+            "box": [
+                [
+                    636.0,
+                    262.0
+                ],
+                [
+                    824.0,
+                    262.0
+                ],
+                [
+                    824.0,
+                    289.0
+                ],
+                [
+                    636.0,
+                    289.0
+                ]
+            ]
+        },
+        {
+            "text": "@iamsrk",
+            "confidence": 0.998,
+            "box": [
+                [
+                    609.0,
+                    294.0
+                ],
+                [
+                    716.0,
+                    298.0
+                ],
+                [
+                    715.0,
+                    326.0
+                ],
+                [
+                    609.0,
+                    322.0
+                ]
+            ]
+        },
+        {
+            "text": "ave been advised by authorities th",
+            "confidence": 0.973,
+            "box": [
+                [
+                    540.0,
+                    359.0
+                ],
+                [
+                    1024.0,
+                    359.0
+                ],
+                [
+                    1024.0,
+                    390.0
+                ],
+                [
+                    540.0,
+                    390.0
+                ]
+            ]
+        },
+        {
+            "text": "greet all you lovely people who have b",
+            "confidence": 0.958,
+            "box": [
+                [
+                    525.0,
+                    402.0
+                ],
+                [
+                    1042.0,
+                    402.0
+                ],
+                [
+                    1042.0,
+                    433.0
+                ],
+                [
+                    525.0,
+                    433.0
+                ]
+            ]
+        },
+        {
+            "text": "My deepest apologies to all of you but",
+            "confidence": 0.958,
+            "box": [
+                [
+                    526.0,
+                    444.0
+                ],
+                [
+                    1045.0,
+                    444.0
+                ],
+                [
+                    1045.0,
+                    475.0
+                ],
+                [
+                    526.0,
+                    475.0
+                ]
+            ]
+        },
+        {
+            "text": "the overall safety of everyone due to cr",
+            "confidence": 0.946,
+            "box": [
+                [
+                    523.0,
+                    487.0
+                ],
+                [
+                    1052.0,
+                    487.0
+                ],
+                [
+                    1052.0,
+                    517.0
+                ],
+                [
+                    523.0,
+                    517.0
+                ]
+            ]
+        },
+        {
+            "text": "Thank you for understanding and beli",
+            "confidence": 0.968,
+            "box": [
+                [
+                    523.0,
+                    571.0
+                ],
+                [
+                    1038.0,
+                    571.0
+                ],
+                [
+                    1038.0,
+                    601.0
+                ],
+                [
+                    523.0,
+                    601.0
+                ]
+            ]
+        },
+        {
+            "text": "ore than you will. Was looking forw",
+            "confidence": 0.937,
+            "box": [
+                [
+                    548.0,
+                    616.0
+                ],
+                [
+                    1018.0,
+                    616.0
+                ],
+                [
+                    1018.0,
+                    642.0
+                ],
+                [
+                    548.0,
+                    642.0
+                ]
+            ]
+        },
+        {
+            "text": "Love u all...",
+            "confidence": 0.896,
+            "box": [
+                [
+                    585.0,
+                    655.0
+                ],
+                [
+                    744.0,
+                    655.0
+                ],
+                [
+                    744.0,
+                    686.0
+                ],
+                [
+                    585.0,
+                    686.0
+                ]
+            ]
+        },
+        {
+            "text": "v22025677.7K",
+            "confidence": 0.94,
+            "box": [
+                [
+                    644.0,
+                    726.0
+                ],
+                [
+                    914.0,
+                    726.0
+                ],
+                [
+                    914.0,
+                    749.0
+                ],
+                [
+                    644.0,
+                    749.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.998,
+            "box": [
+                [
+                    482.0,
+                    857.0
+                ],
+                [
+                    596.0,
+                    857.0
+                ],
+                [
+                    596.0,
+                    879.0
+                ],
+                [
+                    482.0,
+                    879.0
+                ]
+            ]
+        },
+        {
+            "text": "Shah Rukh Khan Apologizes",
+            "confidence": 0.972,
+            "box": [
+                [
+                    6.0,
+                    920.0
+                ],
+                [
+                    1070.0,
+                    923.0
+                ],
+                [
+                    1070.0,
+                    997.0
+                ],
+                [
+                    6.0,
+                    994.0
+                ]
+            ]
+        },
+        {
+            "text": "To Fans After Being Unable",
+            "confidence": 0.993,
+            "box": [
+                [
+                    20.0,
+                    1025.0
+                ],
+                [
+                    1058.0,
+                    1028.0
+                ],
+                [
+                    1057.0,
+                    1112.0
+                ],
+                [
+                    20.0,
+                    1109.0
+                ]
+            ]
+        },
+        {
+            "text": "To Meet Due To Safety",
+            "confidence": 0.99,
+            "box": [
+                [
+                    106.0,
+                    1125.0
+                ],
+                [
+                    969.0,
+                    1139.0
+                ],
+                [
+                    968.0,
+                    1220.0
+                ],
+                [
+                    105.0,
+                    1207.0
+                ]
+            ]
+        },
+        {
+            "text": "Concerns",
+            "confidence": 0.999,
+            "box": [
+                [
+                    293.0,
+                    1244.0
+                ],
+                [
+                    666.0,
+                    1260.0
+                ],
+                [
+                    663.0,
+                    1326.0
+                ],
+                [
+                    290.0,
+                    1310.0
+                ]
+            ]
+        }
+    ]
+}

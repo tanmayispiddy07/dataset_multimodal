@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-09-12_09-28-07_UTC.jpg",
+    "combined_text": "DDICTEDTOMEM\nMIRAI HAS A POST-CREDIT SCENE SHOWING\nA PROMINENT\nACTOR AS THE ANTAGONIST,\nLEADING\nTHE WAY TO THE SEQUEL\nEND CREDITS\nMISS AVVODU",
+    "detailed": [
+        {
+            "text": "DDICTEDTOMEM",
+            "confidence": 0.989,
+            "box": [
+                [
+                    485.0,
+                    377.0
+                ],
+                [
+                    592.0,
+                    377.0
+                ],
+                [
+                    592.0,
+                    394.0
+                ],
+                [
+                    485.0,
+                    394.0
+                ]
+            ]
+        },
+        {
+            "text": "MIRAI HAS A POST-CREDIT SCENE SHOWING",
+            "confidence": 0.939,
+            "box": [
+                [
+                    13.0,
+                    750.0
+                ],
+                [
+                    1060.0,
+                    752.0
+                ],
+                [
+                    1060.0,
+                    794.0
+                ],
+                [
+                    13.0,
+                    792.0
+                ]
+            ]
+        },
+        {
+            "text": "A PROMINENT",
+            "confidence": 0.955,
+            "box": [
+                [
+                    22.0,
+                    801.0
+                ],
+                [
+                    385.0,
+                    798.0
+                ],
+                [
+                    385.0,
+                    840.0
+                ],
+                [
+                    23.0,
+                    843.0
+                ]
+            ]
+        },
+        {
+            "text": "ACTOR AS THE ANTAGONIST,",
+            "confidence": 0.978,
+            "box": [
+                [
+                    360.0,
+                    798.0
+                ],
+                [
+                    1056.0,
+                    801.0
+                ],
+                [
+                    1056.0,
+                    844.0
+                ],
+                [
+                    360.0,
+                    842.0
+                ]
+            ]
+        },
+        {
+            "text": "LEADING",
+            "confidence": 0.996,
+            "box": [
+                [
+                    134.0,
+                    850.0
+                ],
+                [
+                    361.0,
+                    850.0
+                ],
+                [
+                    361.0,
+                    889.0
+                ],
+                [
+                    134.0,
+                    889.0
+                ]
+            ]
+        },
+        {
+            "text": "THE WAY TO THE SEQUEL",
+            "confidence": 0.982,
+            "box": [
+                [
+                    357.0,
+                    847.0
+                ],
+                [
+                    942.0,
+                    849.0
+                ],
+                [
+                    942.0,
+                    892.0
+                ],
+                [
+                    357.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "END CREDITS",
+            "confidence": 0.951,
+            "box": [
+                [
+                    136.0,
+                    1255.0
+                ],
+                [
+                    565.0,
+                    1255.0
+                ],
+                [
+                    565.0,
+                    1307.0
+                ],
+                [
+                    136.0,
+                    1307.0
+                ]
+            ]
+        },
+        {
+            "text": "MISS AVVODU",
+            "confidence": 0.983,
+            "box": [
+                [
+                    568.0,
+                    1255.0
+                ],
+                [
+                    1038.0,
+                    1252.0
+                ],
+                [
+                    1038.0,
+                    1304.0
+                ],
+                [
+                    568.0,
+                    1307.0
+                ]
+            ]
+        }
+    ]
+}

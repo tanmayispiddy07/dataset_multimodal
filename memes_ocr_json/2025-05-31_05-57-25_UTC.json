@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-31_05-57-25_UTC.jpg",
+    "combined_text": "REMEMBERING\nSUPERSTAR KRISHNA\nGARUON HIS BIRTH ANNIVERSARY\nADDICTEDTOMEMES\nDARING, DASHING & GUTSY PERSON",
+    "detailed": [
+        {
+            "text": "REMEMBERING",
+            "confidence": 0.998,
+            "box": [
+                [
+                    53.0,
+                    56.0
+                ],
+                [
+                    459.0,
+                    55.0
+                ],
+                [
+                    459.0,
+                    97.0
+                ],
+                [
+                    53.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "SUPERSTAR KRISHNA",
+            "confidence": 0.975,
+            "box": [
+                [
+                    462.0,
+                    55.0
+                ],
+                [
+                    1041.0,
+                    55.0
+                ],
+                [
+                    1041.0,
+                    100.0
+                ],
+                [
+                    462.0,
+                    100.0
+                ]
+            ]
+        },
+        {
+            "text": "GARUON HIS BIRTH ANNIVERSARY",
+            "confidence": 0.965,
+            "box": [
+                [
+                    68.0,
+                    122.0
+                ],
+                [
+                    1007.0,
+                    122.0
+                ],
+                [
+                    1007.0,
+                    167.0
+                ],
+                [
+                    68.0,
+                    167.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.988,
+            "box": [
+                [
+                    34.0,
+                    390.0
+                ],
+                [
+                    200.0,
+                    389.0
+                ],
+                [
+                    200.0,
+                    413.0
+                ],
+                [
+                    34.0,
+                    415.0
+                ]
+            ]
+        },
+        {
+            "text": "DARING, DASHING & GUTSY PERSON",
+            "confidence": 0.963,
+            "box": [
+                [
+                    16.0,
+                    1152.0
+                ],
+                [
+                    1056.0,
+                    1152.0
+                ],
+                [
+                    1056.0,
+                    1210.0
+                ],
+                [
+                    16.0,
+                    1210.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-11-02_12-19-44_UTC.jpg",
+    "combined_text": "sarcasm\nSachin Tendulkar watching Women's\nWorld cup final in Navi Mumbai.\nSara Tendulkar watching India Vs\nAustralia T20l in Hobart00",
+    "detailed": [
+        {
+            "text": "sarcasm",
+            "confidence": 0.997,
+            "box": [
+                [
+                    873.0,
+                    262.0
+                ],
+                [
+                    986.0,
+                    262.0
+                ],
+                [
+                    986.0,
+                    285.0
+                ],
+                [
+                    873.0,
+                    285.0
+                ]
+            ]
+        },
+        {
+            "text": "Sachin Tendulkar watching Women's",
+            "confidence": 0.963,
+            "box": [
+                [
+                    39.0,
+                    523.0
+                ],
+                [
+                    1041.0,
+                    522.0
+                ],
+                [
+                    1041.0,
+                    575.0
+                ],
+                [
+                    39.0,
+                    577.0
+                ]
+            ]
+        },
+        {
+            "text": "World cup final in Navi Mumbai.",
+            "confidence": 0.992,
+            "box": [
+                [
+                    122.0,
+                    600.0
+                ],
+                [
+                    968.0,
+                    600.0
+                ],
+                [
+                    968.0,
+                    649.0
+                ],
+                [
+                    122.0,
+                    649.0
+                ]
+            ]
+        },
+        {
+            "text": "Sara Tendulkar watching India Vs",
+            "confidence": 0.961,
+            "box": [
+                [
+                    66.0,
+                    1178.0
+                ],
+                [
+                    1011.0,
+                    1178.0
+                ],
+                [
+                    1011.0,
+                    1227.0
+                ],
+                [
+                    66.0,
+                    1227.0
+                ]
+            ]
+        },
+        {
+            "text": "Australia T20l in Hobart00",
+            "confidence": 0.927,
+            "box": [
+                [
+                    172.0,
+                    1253.0
+                ],
+                [
+                    907.0,
+                    1252.0
+                ],
+                [
+                    907.0,
+                    1301.0
+                ],
+                [
+                    172.0,
+                    1302.0
+                ]
+            ]
+        }
+    ]
+}

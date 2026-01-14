@@ -1,0 +1,116 @@
+{
+    "image_name": "2023-05-17_17-13-12_UTC.jpg",
+    "combined_text": "IOS USERS\nANDHARIKI GIF OPTION OCHINDI\nTELUGU MEMES GURO\nRALEDHU ENTI...\nMAKU",
+    "detailed": [
+        {
+            "text": "IOS USERS",
+            "confidence": 0.934,
+            "box": [
+                [
+                    534.0,
+                    80.0
+                ],
+                [
+                    887.0,
+                    77.0
+                ],
+                [
+                    888.0,
+                    136.0
+                ],
+                [
+                    535.0,
+                    139.0
+                ]
+            ]
+        },
+        {
+            "text": "ANDHARIKI GIF OPTION OCHINDI",
+            "confidence": 0.947,
+            "box": [
+                [
+                    82.0,
+                    475.0
+                ],
+                [
+                    1006.0,
+                    475.0
+                ],
+                [
+                    1006.0,
+                    522.0
+                ],
+                [
+                    82.0,
+                    522.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURO",
+            "confidence": 0.866,
+            "box": [
+                [
+                    892.0,
+                    715.0
+                ],
+                [
+                    1019.0,
+                    717.0
+                ],
+                [
+                    1019.0,
+                    737.0
+                ],
+                [
+                    892.0,
+                    736.0
+                ]
+            ]
+        },
+        {
+            "text": "RALEDHU ENTI...",
+            "confidence": 0.974,
+            "box": [
+                [
+                    400.0,
+                    996.0
+                ],
+                [
+                    1010.0,
+                    1007.0
+                ],
+                [
+                    1008.0,
+                    1079.0
+                ],
+                [
+                    399.0,
+                    1068.0
+                ]
+            ]
+        },
+        {
+            "text": "MAKU",
+            "confidence": 0.996,
+            "box": [
+                [
+                    168.0,
+                    1007.0
+                ],
+                [
+                    404.0,
+                    1009.0
+                ],
+                [
+                    403.0,
+                    1069.0
+                ],
+                [
+                    167.0,
+                    1066.0
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "image_name": "2019-07-19_21-41-03_UTC.jpg",
+    "combined_text": "INDIANPOLITICIAN\nPOINTING IN RANDOM DIRECTIONS SINCE1947",
+    "detailed": [
+        {
+            "text": "INDIANPOLITICIAN",
+            "confidence": 0.996,
+            "box": [
+                [
+                    186.0,
+                    14.0
+                ],
+                [
+                    639.0,
+                    14.0
+                ],
+                [
+                    639.0,
+                    71.0
+                ],
+                [
+                    186.0,
+                    71.0
+                ]
+            ]
+        },
+        {
+            "text": "POINTING IN RANDOM DIRECTIONS SINCE1947",
+            "confidence": 0.941,
+            "box": [
+                [
+                    15.0,
+                    387.0
+                ],
+                [
+                    642.0,
+                    387.0
+                ],
+                [
+                    642.0,
+                    418.0
+                ],
+                [
+                    15.0,
+                    418.0
+                ]
+            ]
+        }
+    ]
+}

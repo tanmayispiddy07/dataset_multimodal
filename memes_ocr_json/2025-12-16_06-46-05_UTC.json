@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-12-16_06-46-05_UTC.jpg",
+    "combined_text": "SUPERMAN (TELUGU)\nSTREAMING NOW ON JIOHOTSTAR\n**VILLAIN\nSUTHIGADUAHNENU",
+    "detailed": [
+        {
+            "text": "SUPERMAN (TELUGU)",
+            "confidence": 0.975,
+            "box": [
+                [
+                    117.0,
+                    235.0
+                ],
+                [
+                    424.0,
+                    235.0
+                ],
+                [
+                    424.0,
+                    259.0
+                ],
+                [
+                    117.0,
+                    259.0
+                ]
+            ]
+        },
+        {
+            "text": "STREAMING NOW ON JIOHOTSTAR",
+            "confidence": 0.952,
+            "box": [
+                [
+                    27.0,
+                    261.0
+                ],
+                [
+                    512.0,
+                    261.0
+                ],
+                [
+                    512.0,
+                    285.0
+                ],
+                [
+                    27.0,
+                    285.0
+                ]
+            ]
+        },
+        {
+            "text": "**VILLAIN",
+            "confidence": 0.973,
+            "box": [
+                [
+                    269.0,
+                    527.0
+                ],
+                [
+                    425.0,
+                    532.0
+                ],
+                [
+                    424.0,
+                    569.0
+                ],
+                [
+                    268.0,
+                    564.0
+                ]
+            ]
+        },
+        {
+            "text": "SUTHIGADUAHNENU",
+            "confidence": 0.995,
+            "box": [
+                [
+                    102.0,
+                    716.0
+                ],
+                [
+                    472.0,
+                    716.0
+                ],
+                [
+                    472.0,
+                    749.0
+                ],
+                [
+                    102.0,
+                    749.0
+                ]
+            ]
+        }
+    ]
+}

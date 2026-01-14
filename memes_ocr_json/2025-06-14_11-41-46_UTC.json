@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-06-14_11-41-46_UTC.jpg",
+    "combined_text": "This is what you get for scoring 50 off\n83 balls while hobbling on one knee\nsEmiratesEmiratemirates\nararnco\nsarcasm",
+    "detailed": [
+        {
+            "text": "This is what you get for scoring 50 off",
+            "confidence": 0.998,
+            "box": [
+                [
+                    58.0,
+                    43.0
+                ],
+                [
+                    1021.0,
+                    43.0
+                ],
+                [
+                    1021.0,
+                    101.0
+                ],
+                [
+                    58.0,
+                    101.0
+                ]
+            ]
+        },
+        {
+            "text": "83 balls while hobbling on one knee",
+            "confidence": 1.0,
+            "box": [
+                [
+                    42.0,
+                    121.0
+                ],
+                [
+                    979.0,
+                    122.0
+                ],
+                [
+                    979.0,
+                    175.0
+                ],
+                [
+                    42.0,
+                    174.0
+                ]
+            ]
+        },
+        {
+            "text": "sEmiratesEmiratemirates",
+            "confidence": 0.961,
+            "box": [
+                [
+                    1.0,
+                    665.0
+                ],
+                [
+                    554.0,
+                    666.0
+                ],
+                [
+                    554.0,
+                    703.0
+                ],
+                [
+                    1.0,
+                    702.0
+                ]
+            ]
+        },
+        {
+            "text": "ararnco",
+            "confidence": 0.835,
+            "box": [
+                [
+                    651.0,
+                    671.0
+                ],
+                [
+                    821.0,
+                    671.0
+                ],
+                [
+                    821.0,
+                    697.0
+                ],
+                [
+                    651.0,
+                    697.0
+                ]
+            ]
+        },
+        {
+            "text": "sarcasm",
+            "confidence": 0.999,
+            "box": [
+                [
+                    491.0,
+                    878.0
+                ],
+                [
+                    630.0,
+                    881.0
+                ],
+                [
+                    630.0,
+                    909.0
+                ],
+                [
+                    491.0,
+                    906.0
+                ]
+            ]
+        }
+    ]
+}

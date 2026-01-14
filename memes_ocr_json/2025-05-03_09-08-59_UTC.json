@@ -1,0 +1,116 @@
+{
+    "image_name": "2025-05-03_09-08-59_UTC.jpg",
+    "combined_text": "REAL & STUNNING SCENES\nBYTOMCRUISE\nIExclu\nELANTI CGI AKKADA USE CHEYYAKUNDA\n8000FT LO 140WPH WIND SPEED LO",
+    "detailed": [
+        {
+            "text": "REAL & STUNNING SCENES",
+            "confidence": 0.94,
+            "box": [
+                [
+                    260.0,
+                    257.0
+                ],
+                [
+                    852.0,
+                    257.0
+                ],
+                [
+                    852.0,
+                    295.0
+                ],
+                [
+                    260.0,
+                    295.0
+                ]
+            ]
+        },
+        {
+            "text": "BYTOMCRUISE",
+            "confidence": 0.986,
+            "box": [
+                [
+                    309.0,
+                    305.0
+                ],
+                [
+                    800.0,
+                    302.0
+                ],
+                [
+                    800.0,
+                    354.0
+                ],
+                [
+                    310.0,
+                    357.0
+                ]
+            ]
+        },
+        {
+            "text": "IExclu",
+            "confidence": 0.717,
+            "box": [
+                [
+                    0.0,
+                    1233.0
+                ],
+                [
+                    109.0,
+                    1238.0
+                ],
+                [
+                    107.0,
+                    1279.0
+                ],
+                [
+                    0.0,
+                    1273.0
+                ]
+            ]
+        },
+        {
+            "text": "ELANTI CGI AKKADA USE CHEYYAKUNDA",
+            "confidence": 0.951,
+            "box": [
+                [
+                    107.0,
+                    1263.0
+                ],
+                [
+                    1004.0,
+                    1264.0
+                ],
+                [
+                    1004.0,
+                    1304.0
+                ],
+                [
+                    107.0,
+                    1302.0
+                ]
+            ]
+        },
+        {
+            "text": "8000FT LO 140WPH WIND SPEED LO",
+            "confidence": 0.871,
+            "box": [
+                [
+                    184.0,
+                    1308.0
+                ],
+                [
+                    913.0,
+                    1308.0
+                ],
+                [
+                    913.0,
+                    1342.0
+                ],
+                [
+                    184.0,
+                    1342.0
+                ]
+            ]
+        }
+    ]
+}

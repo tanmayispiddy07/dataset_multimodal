@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-08-21_14-12-44_UTC.jpg",
+    "combined_text": "ALIONISALWAYSALION\nDDICTEDTOMEMES\nTHERE WILL BE NOALLIANCE\nWITHANY PARTY\nI'M A LION AND THIS IS MY TERRITORY\nVIJAYTHALAPATHY SPEECH AT TVK MEETING",
+    "detailed": [
+        {
+            "text": "ALIONISALWAYSALION",
+            "confidence": 0.995,
+            "box": [
+                [
+                    221.0,
+                    275.0
+                ],
+                [
+                    959.0,
+                    275.0
+                ],
+                [
+                    959.0,
+                    329.0
+                ],
+                [
+                    221.0,
+                    329.0
+                ]
+            ]
+        },
+        {
+            "text": "DDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    472.0,
+                    459.0
+                ],
+                [
+                    615.0,
+                    459.0
+                ],
+                [
+                    615.0,
+                    475.0
+                ],
+                [
+                    472.0,
+                    475.0
+                ]
+            ]
+        },
+        {
+            "text": "THERE WILL BE NOALLIANCE",
+            "confidence": 0.941,
+            "box": [
+                [
+                    222.0,
+                    637.0
+                ],
+                [
+                    948.0,
+                    637.0
+                ],
+                [
+                    948.0,
+                    683.0
+                ],
+                [
+                    222.0,
+                    683.0
+                ]
+            ]
+        },
+        {
+            "text": "WITHANY PARTY",
+            "confidence": 0.958,
+            "box": [
+                [
+                    371.0,
+                    697.0
+                ],
+                [
+                    799.0,
+                    697.0
+                ],
+                [
+                    799.0,
+                    747.0
+                ],
+                [
+                    371.0,
+                    747.0
+                ]
+            ]
+        },
+        {
+            "text": "I'M A LION AND THIS IS MY TERRITORY",
+            "confidence": 0.924,
+            "box": [
+                [
+                    111.0,
+                    991.0
+                ],
+                [
+                    1008.0,
+                    991.0
+                ],
+                [
+                    1008.0,
+                    1033.0
+                ],
+                [
+                    111.0,
+                    1033.0
+                ]
+            ]
+        },
+        {
+            "text": "VIJAYTHALAPATHY SPEECH AT TVK MEETING",
+            "confidence": 0.946,
+            "box": [
+                [
+                    24.0,
+                    1281.0
+                ],
+                [
+                    1048.0,
+                    1282.0
+                ],
+                [
+                    1048.0,
+                    1324.0
+                ],
+                [
+                    24.0,
+                    1323.0
+                ]
+            ]
+        }
+    ]
+}

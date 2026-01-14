@@ -1,0 +1,94 @@
+{
+    "image_name": "2023-04-17_12-53-36_UTC.jpg",
+    "combined_text": "SUPER\nKINGS\nTELUGU MEMES GURU\nEVVARIKI SUPPORT CHEYYALABBAAAA",
+    "detailed": [
+        {
+            "text": "SUPER",
+            "confidence": 0.977,
+            "box": [
+                [
+                    797.0,
+                    440.0
+                ],
+                [
+                    852.0,
+                    440.0
+                ],
+                [
+                    852.0,
+                    467.0
+                ],
+                [
+                    797.0,
+                    467.0
+                ]
+            ]
+        },
+        {
+            "text": "KINGS",
+            "confidence": 0.903,
+            "box": [
+                [
+                    787.0,
+                    463.0
+                ],
+                [
+                    862.0,
+                    453.0
+                ],
+                [
+                    866.0,
+                    485.0
+                ],
+                [
+                    792.0,
+                    495.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.954,
+            "box": [
+                [
+                    428.0,
+                    967.0
+                ],
+                [
+                    613.0,
+                    970.0
+                ],
+                [
+                    613.0,
+                    995.0
+                ],
+                [
+                    427.0,
+                    992.0
+                ]
+            ]
+        },
+        {
+            "text": "EVVARIKI SUPPORT CHEYYALABBAAAA",
+            "confidence": 0.966,
+            "box": [
+                [
+                    37.0,
+                    1271.0
+                ],
+                [
+                    1057.0,
+                    1270.0
+                ],
+                [
+                    1058.0,
+                    1317.0
+                ],
+                [
+                    37.0,
+                    1319.0
+                ]
+            ]
+        }
+    ]
+}

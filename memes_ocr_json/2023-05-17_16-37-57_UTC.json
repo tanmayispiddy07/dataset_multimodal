@@ -1,0 +1,314 @@
+{
+    "image_name": "2023-05-17_16-37-57_UTC.jpg",
+    "combined_text": "MEM FAMOUS TRAILER IS OUT NOW\nE MAI GANITHONI\nITIKA MIDHA ITIKAPEDTHEY\nPETTUKUNTEYLOLLI\nILLU AYITHADII...\nAYITHADII..\nIN THEATERS FROM 26tH MAY\nVEEDU TAGGEY GLASS\nBUCKETUHH STUFFUHH\nTHUMPSUPKI\nMINGUTHADU..\nTELUGU MEMES GURU\nRECENT TIME LO VACHINA VATILO\nIDHIEH RA BESTTRAILER",
+    "detailed": [
+        {
+            "text": "MEM FAMOUS TRAILER IS OUT NOW",
+            "confidence": 0.936,
+            "box": [
+                [
+                    96.0,
+                    42.0
+                ],
+                [
+                    930.0,
+                    42.0
+                ],
+                [
+                    930.0,
+                    80.0
+                ],
+                [
+                    96.0,
+                    80.0
+                ]
+            ]
+        },
+        {
+            "text": "E MAI GANITHONI",
+            "confidence": 0.94,
+            "box": [
+                [
+                    608.0,
+                    393.0
+                ],
+                [
+                    960.0,
+                    393.0
+                ],
+                [
+                    960.0,
+                    427.0
+                ],
+                [
+                    608.0,
+                    427.0
+                ]
+            ]
+        },
+        {
+            "text": "ITIKA MIDHA ITIKAPEDTHEY",
+            "confidence": 0.962,
+            "box": [
+                [
+                    11.0,
+                    431.0
+                ],
+                [
+                    487.0,
+                    431.0
+                ],
+                [
+                    487.0,
+                    460.0
+                ],
+                [
+                    11.0,
+                    460.0
+                ]
+            ]
+        },
+        {
+            "text": "PETTUKUNTEYLOLLI",
+            "confidence": 0.991,
+            "box": [
+                [
+                    591.0,
+                    436.0
+                ],
+                [
+                    976.0,
+                    435.0
+                ],
+                [
+                    976.0,
+                    469.0
+                ],
+                [
+                    591.0,
+                    470.0
+                ]
+            ]
+        },
+        {
+            "text": "ILLU AYITHADII...",
+            "confidence": 0.967,
+            "box": [
+                [
+                    99.0,
+                    458.0
+                ],
+                [
+                    401.0,
+                    466.0
+                ],
+                [
+                    400.0,
+                    505.0
+                ],
+                [
+                    98.0,
+                    498.0
+                ]
+            ]
+        },
+        {
+            "text": "AYITHADII..",
+            "confidence": 0.945,
+            "box": [
+                [
+                    672.0,
+                    478.0
+                ],
+                [
+                    897.0,
+                    478.0
+                ],
+                [
+                    897.0,
+                    514.0
+                ],
+                [
+                    672.0,
+                    514.0
+                ]
+            ]
+        },
+        {
+            "text": "IN THEATERS FROM 26tH MAY",
+            "confidence": 0.732,
+            "box": [
+                [
+                    110.0,
+                    553.0
+                ],
+                [
+                    918.0,
+                    553.0
+                ],
+                [
+                    918.0,
+                    595.0
+                ],
+                [
+                    110.0,
+                    595.0
+                ]
+            ]
+        },
+        {
+            "text": "VEEDU TAGGEY GLASS",
+            "confidence": 0.955,
+            "box": [
+                [
+                    38.0,
+                    864.0
+                ],
+                [
+                    456.0,
+                    864.0
+                ],
+                [
+                    456.0,
+                    898.0
+                ],
+                [
+                    38.0,
+                    898.0
+                ]
+            ]
+        },
+        {
+            "text": "BUCKETUHH STUFFUHH",
+            "confidence": 0.965,
+            "box": [
+                [
+                    572.0,
+                    862.0
+                ],
+                [
+                    994.0,
+                    862.0
+                ],
+                [
+                    994.0,
+                    891.0
+                ],
+                [
+                    572.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "THUMPSUPKI",
+            "confidence": 0.99,
+            "box": [
+                [
+                    115.0,
+                    905.0
+                ],
+                [
+                    375.0,
+                    905.0
+                ],
+                [
+                    375.0,
+                    939.0
+                ],
+                [
+                    115.0,
+                    939.0
+                ]
+            ]
+        },
+        {
+            "text": "MINGUTHADU..",
+            "confidence": 0.977,
+            "box": [
+                [
+                    636.0,
+                    901.0
+                ],
+                [
+                    924.0,
+                    901.0
+                ],
+                [
+                    924.0,
+                    934.0
+                ],
+                [
+                    636.0,
+                    934.0
+                ]
+            ]
+        },
+        {
+            "text": "TELUGU MEMES GURU",
+            "confidence": 0.927,
+            "box": [
+                [
+                    876.0,
+                    1121.0
+                ],
+                [
+                    1021.0,
+                    1121.0
+                ],
+                [
+                    1021.0,
+                    1142.0
+                ],
+                [
+                    876.0,
+                    1142.0
+                ]
+            ]
+        },
+        {
+            "text": "RECENT TIME LO VACHINA VATILO",
+            "confidence": 0.94,
+            "box": [
+                [
+                    94.0,
+                    1233.0
+                ],
+                [
+                    973.0,
+                    1233.0
+                ],
+                [
+                    973.0,
+                    1275.0
+                ],
+                [
+                    94.0,
+                    1275.0
+                ]
+            ]
+        },
+        {
+            "text": "IDHIEH RA BESTTRAILER",
+            "confidence": 0.945,
+            "box": [
+                [
+                    207.0,
+                    1288.0
+                ],
+                [
+                    863.0,
+                    1290.0
+                ],
+                [
+                    863.0,
+                    1336.0
+                ],
+                [
+                    207.0,
+                    1334.0
+                ]
+            ]
+        }
+    ]
+}

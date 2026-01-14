@@ -1,0 +1,72 @@
+{
+    "image_name": "2025-12-21_10-30-39_UTC.jpg",
+    "combined_text": "Avatarincinemasnow\nKIDS TOFAMILIES\nANDHARUVELTHUNNARU",
+    "detailed": [
+        {
+            "text": "Avatarincinemasnow",
+            "confidence": 0.986,
+            "box": [
+                [
+                    25.0,
+                    14.0
+                ],
+                [
+                    610.0,
+                    16.0
+                ],
+                [
+                    610.0,
+                    65.0
+                ],
+                [
+                    25.0,
+                    63.0
+                ]
+            ]
+        },
+        {
+            "text": "KIDS TOFAMILIES",
+            "confidence": 0.968,
+            "box": [
+                [
+                    178.0,
+                    722.0
+                ],
+                [
+                    486.0,
+                    721.0
+                ],
+                [
+                    486.0,
+                    752.0
+                ],
+                [
+                    178.0,
+                    753.0
+                ]
+            ]
+        },
+        {
+            "text": "ANDHARUVELTHUNNARU",
+            "confidence": 0.994,
+            "box": [
+                [
+                    104.0,
+                    764.0
+                ],
+                [
+                    552.0,
+                    764.0
+                ],
+                [
+                    552.0,
+                    797.0
+                ],
+                [
+                    104.0,
+                    797.0
+                ]
+            ]
+        }
+    ]
+}

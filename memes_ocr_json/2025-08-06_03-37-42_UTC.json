@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-08-06_03-37-42_UTC.jpg",
+    "combined_text": "DON'T SAY YOU'RE A MOVIE LOVER, A MOVIE\nBUFF, OR THAT YOU ENJOY WATCHING GOOD\nMOVIES ON THE BIG SCREEN UNLESS YOU'VE\nSEEN MAHAVATAR NARSIMHA MOVIE.\nADDICTEDTOMEMES\nTHAT ONE CLIMAX FIGHT>>>>\nSALAAR FIGHT SEQUENCE, KGF\nPUSHPA,DEVARA",
+    "detailed": [
+        {
+            "text": "DON'T SAY YOU'RE A MOVIE LOVER, A MOVIE",
+            "confidence": 0.935,
+            "box": [
+                [
+                    53.0,
+                    36.0
+                ],
+                [
+                    1011.0,
+                    36.0
+                ],
+                [
+                    1011.0,
+                    75.0
+                ],
+                [
+                    53.0,
+                    75.0
+                ]
+            ]
+        },
+        {
+            "text": "BUFF, OR THAT YOU ENJOY WATCHING GOOD",
+            "confidence": 0.925,
+            "box": [
+                [
+                    55.0,
+                    86.0
+                ],
+                [
+                    1010.0,
+                    86.0
+                ],
+                [
+                    1010.0,
+                    125.0
+                ],
+                [
+                    55.0,
+                    125.0
+                ]
+            ]
+        },
+        {
+            "text": "MOVIES ON THE BIG SCREEN UNLESS YOU'VE",
+            "confidence": 0.94,
+            "box": [
+                [
+                    57.0,
+                    137.0
+                ],
+                [
+                    1006.0,
+                    136.0
+                ],
+                [
+                    1006.0,
+                    176.0
+                ],
+                [
+                    57.0,
+                    177.0
+                ]
+            ]
+        },
+        {
+            "text": "SEEN MAHAVATAR NARSIMHA MOVIE.",
+            "confidence": 0.977,
+            "box": [
+                [
+                    136.0,
+                    190.0
+                ],
+                [
+                    926.0,
+                    190.0
+                ],
+                [
+                    926.0,
+                    226.0
+                ],
+                [
+                    136.0,
+                    226.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.995,
+            "box": [
+                [
+                    1.0,
+                    412.0
+                ],
+                [
+                    161.0,
+                    412.0
+                ],
+                [
+                    161.0,
+                    432.0
+                ],
+                [
+                    1.0,
+                    432.0
+                ]
+            ]
+        },
+        {
+            "text": "THAT ONE CLIMAX FIGHT>>>>",
+            "confidence": 0.948,
+            "box": [
+                [
+                    141.0,
+                    1051.0
+                ],
+                [
+                    931.0,
+                    1051.0
+                ],
+                [
+                    931.0,
+                    1095.0
+                ],
+                [
+                    141.0,
+                    1095.0
+                ]
+            ]
+        },
+        {
+            "text": "SALAAR FIGHT SEQUENCE, KGF",
+            "confidence": 0.955,
+            "box": [
+                [
+                    100.0,
+                    1116.0
+                ],
+                [
+                    953.0,
+                    1113.0
+                ],
+                [
+                    953.0,
+                    1161.0
+                ],
+                [
+                    100.0,
+                    1164.0
+                ]
+            ]
+        },
+        {
+            "text": "PUSHPA,DEVARA",
+            "confidence": 0.993,
+            "box": [
+                [
+                    296.0,
+                    1178.0
+                ],
+                [
+                    762.0,
+                    1182.0
+                ],
+                [
+                    762.0,
+                    1231.0
+                ],
+                [
+                    296.0,
+                    1227.0
+                ]
+            ]
+        }
+    ]
+}

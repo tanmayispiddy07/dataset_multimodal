@@ -1,0 +1,292 @@
+{
+    "image_name": "2025-04-11_14-11-55_UTC.jpg",
+    "combined_text": "PRAVINKOODU SHAPPU STREAMING\nNOW ON SONYLIV IN TELUGU\nSONY\nIntoxicating performances\nby Soubin & Basil\nAsianet News\nAn aberrant\nAgatha Christie-style\nwhodunit\nThe Week\nADDICTEDTOMEMES\nBASIL JOSEPH THRILLER CINEMA THONE VACHADU RA\nINKA EROJU BINGE WATCH CHEYYALISINDHE",
+    "detailed": [
+        {
+            "text": "PRAVINKOODU SHAPPU STREAMING",
+            "confidence": 0.964,
+            "box": [
+                [
+                    84.0,
+                    57.0
+                ],
+                [
+                    1012.0,
+                    57.0
+                ],
+                [
+                    1012.0,
+                    99.0
+                ],
+                [
+                    84.0,
+                    99.0
+                ]
+            ]
+        },
+        {
+            "text": "NOW ON SONYLIV IN TELUGU",
+            "confidence": 0.995,
+            "box": [
+                [
+                    172.0,
+                    121.0
+                ],
+                [
+                    930.0,
+                    121.0
+                ],
+                [
+                    930.0,
+                    163.0
+                ],
+                [
+                    172.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "SONY",
+            "confidence": 0.997,
+            "box": [
+                [
+                    529.0,
+                    205.0
+                ],
+                [
+                    579.0,
+                    205.0
+                ],
+                [
+                    579.0,
+                    223.0
+                ],
+                [
+                    529.0,
+                    223.0
+                ]
+            ]
+        },
+        {
+            "text": "Intoxicating performances",
+            "confidence": 0.962,
+            "box": [
+                [
+                    661.0,
+                    655.0
+                ],
+                [
+                    1017.0,
+                    655.0
+                ],
+                [
+                    1017.0,
+                    684.0
+                ],
+                [
+                    661.0,
+                    684.0
+                ]
+            ]
+        },
+        {
+            "text": "by Soubin & Basil",
+            "confidence": 0.869,
+            "box": [
+                [
+                    721.0,
+                    684.0
+                ],
+                [
+                    953.0,
+                    683.0
+                ],
+                [
+                    954.0,
+                    714.0
+                ],
+                [
+                    722.0,
+                    715.0
+                ]
+            ]
+        },
+        {
+            "text": "Asianet News",
+            "confidence": 0.965,
+            "box": [
+                [
+                    770.0,
+                    716.0
+                ],
+                [
+                    916.0,
+                    719.0
+                ],
+                [
+                    915.0,
+                    746.0
+                ],
+                [
+                    769.0,
+                    743.0
+                ]
+            ]
+        },
+        {
+            "text": "An aberrant",
+            "confidence": 0.985,
+            "box": [
+                [
+                    250.0,
+                    760.0
+                ],
+                [
+                    444.0,
+                    760.0
+                ],
+                [
+                    444.0,
+                    793.0
+                ],
+                [
+                    250.0,
+                    793.0
+                ]
+            ]
+        },
+        {
+            "text": "Agatha Christie-style",
+            "confidence": 0.988,
+            "box": [
+                [
+                    183.0,
+                    793.0
+                ],
+                [
+                    512.0,
+                    792.0
+                ],
+                [
+                    512.0,
+                    826.0
+                ],
+                [
+                    183.0,
+                    828.0
+                ]
+            ]
+        },
+        {
+            "text": "whodunit",
+            "confidence": 0.998,
+            "box": [
+                [
+                    271.0,
+                    828.0
+                ],
+                [
+                    422.0,
+                    828.0
+                ],
+                [
+                    422.0,
+                    859.0
+                ],
+                [
+                    271.0,
+                    859.0
+                ]
+            ]
+        },
+        {
+            "text": "The Week",
+            "confidence": 0.971,
+            "box": [
+                [
+                    294.0,
+                    864.0
+                ],
+                [
+                    409.0,
+                    864.0
+                ],
+                [
+                    409.0,
+                    891.0
+                ],
+                [
+                    294.0,
+                    891.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.989,
+            "box": [
+                [
+                    532.0,
+                    884.0
+                ],
+                [
+                    688.0,
+                    884.0
+                ],
+                [
+                    688.0,
+                    900.0
+                ],
+                [
+                    532.0,
+                    900.0
+                ]
+            ]
+        },
+        {
+            "text": "BASIL JOSEPH THRILLER CINEMA THONE VACHADU RA",
+            "confidence": 0.946,
+            "box": [
+                [
+                    41.0,
+                    1243.0
+                ],
+                [
+                    1042.0,
+                    1243.0
+                ],
+                [
+                    1042.0,
+                    1277.0
+                ],
+                [
+                    41.0,
+                    1277.0
+                ]
+            ]
+        },
+        {
+            "text": "INKA EROJU BINGE WATCH CHEYYALISINDHE",
+            "confidence": 0.956,
+            "box": [
+                [
+                    132.0,
+                    1288.0
+                ],
+                [
+                    951.0,
+                    1288.0
+                ],
+                [
+                    951.0,
+                    1321.0
+                ],
+                [
+                    132.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

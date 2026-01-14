@@ -1,0 +1,28 @@
+{
+    "image_name": "2025-06-04_10-50-40_UTC.jpg",
+    "combined_text": "My Grandma used to do this",
+    "detailed": [
+        {
+            "text": "My Grandma used to do this",
+            "confidence": 0.947,
+            "box": [
+                [
+                    73.0,
+                    127.0
+                ],
+                [
+                    469.0,
+                    125.0
+                ],
+                [
+                    470.0,
+                    150.0
+                ],
+                [
+                    74.0,
+                    152.0
+                ]
+            ]
+        }
+    ]
+}

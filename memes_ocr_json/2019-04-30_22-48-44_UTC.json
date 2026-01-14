@@ -1,0 +1,28 @@
+{
+    "image_name": "2019-04-30_22-48-44_UTC.jpg",
+    "combined_text": "WOOWWW!ALAGAA!",
+    "detailed": [
+        {
+            "text": "WOOWWW!ALAGAA!",
+            "confidence": 0.983,
+            "box": [
+                [
+                    24.0,
+                    268.0
+                ],
+                [
+                    312.0,
+                    265.0
+                ],
+                [
+                    312.0,
+                    298.0
+                ],
+                [
+                    24.0,
+                    301.0
+                ]
+            ]
+        }
+    ]
+}

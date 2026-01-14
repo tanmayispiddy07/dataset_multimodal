@@ -1,0 +1,160 @@
+{
+    "image_name": "2025-04-07_15-29-33_UTC.jpg",
+    "combined_text": "BEAUTIFUL AND INTERESTING TEASER OF\"DEAR UMA'\nSTAR DIRECTOR SHIVA NIRVANA\"LAUNCHED THE TEASER\nADDICTEDTOMEMES\nTEASER BAGUNDI RELEASE DATE\nKUDA CHEPTHE BREAK ISTHAMU\nO\nTATAE",
+    "detailed": [
+        {
+            "text": "BEAUTIFUL AND INTERESTING TEASER OF\"DEAR UMA'",
+            "confidence": 0.935,
+            "box": [
+                [
+                    68.0,
+                    60.0
+                ],
+                [
+                    1008.0,
+                    60.0
+                ],
+                [
+                    1008.0,
+                    93.0
+                ],
+                [
+                    68.0,
+                    93.0
+                ]
+            ]
+        },
+        {
+            "text": "STAR DIRECTOR SHIVA NIRVANA\"LAUNCHED THE TEASER",
+            "confidence": 0.966,
+            "box": [
+                [
+                    37.0,
+                    105.0
+                ],
+                [
+                    1048.0,
+                    105.0
+                ],
+                [
+                    1048.0,
+                    138.0
+                ],
+                [
+                    37.0,
+                    138.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.993,
+            "box": [
+                [
+                    555.0,
+                    591.0
+                ],
+                [
+                    700.0,
+                    591.0
+                ],
+                [
+                    700.0,
+                    612.0
+                ],
+                [
+                    555.0,
+                    612.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER BAGUNDI RELEASE DATE",
+            "confidence": 0.952,
+            "box": [
+                [
+                    283.0,
+                    1240.0
+                ],
+                [
+                    904.0,
+                    1242.0
+                ],
+                [
+                    904.0,
+                    1279.0
+                ],
+                [
+                    283.0,
+                    1278.0
+                ]
+            ]
+        },
+        {
+            "text": "KUDA CHEPTHE BREAK ISTHAMU",
+            "confidence": 0.964,
+            "box": [
+                [
+                    274.0,
+                    1288.0
+                ],
+                [
+                    899.0,
+                    1289.0
+                ],
+                [
+                    899.0,
+                    1327.0
+                ],
+                [
+                    274.0,
+                    1325.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.577,
+            "box": [
+                [
+                    922.0,
+                    1303.0
+                ],
+                [
+                    946.0,
+                    1303.0
+                ],
+                [
+                    946.0,
+                    1323.0
+                ],
+                [
+                    922.0,
+                    1323.0
+                ]
+            ]
+        },
+        {
+            "text": "TATAE",
+            "confidence": 0.861,
+            "box": [
+                [
+                    941.0,
+                    1313.0
+                ],
+                [
+                    976.0,
+                    1313.0
+                ],
+                [
+                    976.0,
+                    1327.0
+                ],
+                [
+                    941.0,
+                    1327.0
+                ]
+            ]
+        }
+    ]
+}

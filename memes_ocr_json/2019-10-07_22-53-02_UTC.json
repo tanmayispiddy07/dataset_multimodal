@@ -1,0 +1,116 @@
+{
+    "image_name": "2019-10-07_22-53-02_UTC.jpg",
+    "combined_text": "Doctor: So what brings you here?\nMe: *looks at mom to explain*\nMom: *starts talking about everything I do\nthat annoys her*\nO",
+    "detailed": [
+        {
+            "text": "Doctor: So what brings you here?",
+            "confidence": 0.985,
+            "box": [
+                [
+                    10.0,
+                    11.0
+                ],
+                [
+                    807.0,
+                    11.0
+                ],
+                [
+                    807.0,
+                    69.0
+                ],
+                [
+                    10.0,
+                    69.0
+                ]
+            ]
+        },
+        {
+            "text": "Me: *looks at mom to explain*",
+            "confidence": 0.997,
+            "box": [
+                [
+                    9.0,
+                    75.0
+                ],
+                [
+                    718.0,
+                    75.0
+                ],
+                [
+                    718.0,
+                    133.0
+                ],
+                [
+                    9.0,
+                    133.0
+                ]
+            ]
+        },
+        {
+            "text": "Mom: *starts talking about everything I do",
+            "confidence": 0.999,
+            "box": [
+                [
+                    9.0,
+                    140.0
+                ],
+                [
+                    992.0,
+                    142.0
+                ],
+                [
+                    992.0,
+                    197.0
+                ],
+                [
+                    9.0,
+                    195.0
+                ]
+            ]
+        },
+        {
+            "text": "that annoys her*",
+            "confidence": 1.0,
+            "box": [
+                [
+                    9.0,
+                    206.0
+                ],
+                [
+                    400.0,
+                    203.0
+                ],
+                [
+                    400.0,
+                    262.0
+                ],
+                [
+                    9.0,
+                    265.0
+                ]
+            ]
+        },
+        {
+            "text": "O",
+            "confidence": 0.517,
+            "box": [
+                [
+                    363.0,
+                    906.0
+                ],
+                [
+                    607.0,
+                    896.0
+                ],
+                [
+                    613.0,
+                    1043.0
+                ],
+                [
+                    369.0,
+                    1053.0
+                ]
+            ]
+        }
+    ]
+}

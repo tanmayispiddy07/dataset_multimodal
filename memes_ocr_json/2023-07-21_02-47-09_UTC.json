@@ -1,0 +1,28 @@
+{
+    "image_name": "2023-07-21_02-47-09_UTC.jpg",
+    "combined_text": "BASI_BATHUKULU.",
+    "detailed": [
+        {
+            "text": "BASI_BATHUKULU.",
+            "confidence": 0.9533,
+            "box": [
+                [
+                    101.0,
+                    624.0
+                ],
+                [
+                    202.0,
+                    624.0
+                ],
+                [
+                    202.0,
+                    639.0
+                ],
+                [
+                    101.0,
+                    639.0
+                ]
+            ]
+        }
+    ]
+}

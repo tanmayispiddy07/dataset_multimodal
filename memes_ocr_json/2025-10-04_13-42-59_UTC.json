@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-10-04_13-42-59_UTC.jpg",
+    "combined_text": "ANUKUNDHOKATI LE AYYINDHOKATE LE SONG\nFROM SANTHANA PRAPTHIRASTHU MOVIE\nSUNG BY VENNELA KISHORE\nADDICTEDTOMEMES\nEM FEEL UNDI SONG LOVENNELA\nKISHOREVARIATIONS KI",
+    "detailed": [
+        {
+            "text": "ANUKUNDHOKATI LE AYYINDHOKATE LE SONG",
+            "confidence": 0.957,
+            "box": [
+                [
+                    22.0,
+                    49.0
+                ],
+                [
+                    1074.0,
+                    49.0
+                ],
+                [
+                    1074.0,
+                    86.0
+                ],
+                [
+                    22.0,
+                    86.0
+                ]
+            ]
+        },
+        {
+            "text": "FROM SANTHANA PRAPTHIRASTHU MOVIE",
+            "confidence": 0.959,
+            "box": [
+                [
+                    56.0,
+                    103.0
+                ],
+                [
+                    1022.0,
+                    103.0
+                ],
+                [
+                    1022.0,
+                    141.0
+                ],
+                [
+                    56.0,
+                    141.0
+                ]
+            ]
+        },
+        {
+            "text": "SUNG BY VENNELA KISHORE",
+            "confidence": 0.978,
+            "box": [
+                [
+                    221.0,
+                    162.0
+                ],
+                [
+                    862.0,
+                    162.0
+                ],
+                [
+                    862.0,
+                    199.0
+                ],
+                [
+                    221.0,
+                    199.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.996,
+            "box": [
+                [
+                    472.0,
+                    1096.0
+                ],
+                [
+                    607.0,
+                    1093.0
+                ],
+                [
+                    608.0,
+                    1112.0
+                ],
+                [
+                    473.0,
+                    1115.0
+                ]
+            ]
+        },
+        {
+            "text": "EM FEEL UNDI SONG LOVENNELA",
+            "confidence": 0.944,
+            "box": [
+                [
+                    219.0,
+                    1232.0
+                ],
+                [
+                    896.0,
+                    1232.0
+                ],
+                [
+                    896.0,
+                    1270.0
+                ],
+                [
+                    219.0,
+                    1270.0
+                ]
+            ]
+        },
+        {
+            "text": "KISHOREVARIATIONS KI",
+            "confidence": 0.985,
+            "box": [
+                [
+                    312.0,
+                    1281.0
+                ],
+                [
+                    803.0,
+                    1282.0
+                ],
+                [
+                    803.0,
+                    1320.0
+                ],
+                [
+                    312.0,
+                    1318.0
+                ]
+            ]
+        }
+    ]
+}

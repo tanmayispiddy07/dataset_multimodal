@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-10-31_19-37-15_UTC.jpg",
+    "combined_text": "The Most Happiest Person Today\nMh.p",
+    "detailed": [
+        {
+            "text": "The Most Happiest Person Today",
+            "confidence": 0.963,
+            "box": [
+                [
+                    19.0,
+                    403.0
+                ],
+                [
+                    414.0,
+                    404.0
+                ],
+                [
+                    414.0,
+                    432.0
+                ],
+                [
+                    19.0,
+                    431.0
+                ]
+            ]
+        },
+        {
+            "text": "Mh.p",
+            "confidence": 0.538,
+            "box": [
+                [
+                    37.0,
+                    783.0
+                ],
+                [
+                    79.0,
+                    786.0
+                ],
+                [
+                    78.0,
+                    799.0
+                ],
+                [
+                    36.0,
+                    796.0
+                ]
+            ]
+        }
+    ]
+}

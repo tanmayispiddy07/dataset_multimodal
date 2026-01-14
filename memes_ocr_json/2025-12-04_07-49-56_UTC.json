@@ -1,0 +1,182 @@
+{
+    "image_name": "2025-12-04_07-49-56_UTC.jpg",
+    "combined_text": "AFTER LITTLE HEARTS AND RAJU WEDS RAMBAI, THE\nHIT COMBO BUNNY VAS & VAMSI NANDIPATI IS BACK\nWITH ISHA, HITTING CINEMAS ON DECEMBER 12TH.\nBUNNYOAS\nvamsi nandipati\nADDICTEDTOMEMES\nASALU LASTLO AH SHOTSE RANGE LO\nUNTADHIANIANUKOLEDHU",
+    "detailed": [
+        {
+            "text": "AFTER LITTLE HEARTS AND RAJU WEDS RAMBAI, THE",
+            "confidence": 0.935,
+            "box": [
+                [
+                    48.0,
+                    35.0
+                ],
+                [
+                    1036.0,
+                    35.0
+                ],
+                [
+                    1036.0,
+                    68.0
+                ],
+                [
+                    48.0,
+                    68.0
+                ]
+            ]
+        },
+        {
+            "text": "HIT COMBO BUNNY VAS & VAMSI NANDIPATI IS BACK",
+            "confidence": 0.926,
+            "box": [
+                [
+                    44.0,
+                    78.0
+                ],
+                [
+                    1035.0,
+                    79.0
+                ],
+                [
+                    1035.0,
+                    114.0
+                ],
+                [
+                    44.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "WITH ISHA, HITTING CINEMAS ON DECEMBER 12TH.",
+            "confidence": 0.957,
+            "box": [
+                [
+                    60.0,
+                    125.0
+                ],
+                [
+                    1014.0,
+                    125.0
+                ],
+                [
+                    1014.0,
+                    163.0
+                ],
+                [
+                    60.0,
+                    163.0
+                ]
+            ]
+        },
+        {
+            "text": "BUNNYOAS",
+            "confidence": 0.772,
+            "box": [
+                [
+                    2.0,
+                    813.0
+                ],
+                [
+                    113.0,
+                    823.0
+                ],
+                [
+                    111.0,
+                    853.0
+                ],
+                [
+                    0.0,
+                    842.0
+                ]
+            ]
+        },
+        {
+            "text": "vamsi nandipati",
+            "confidence": 0.972,
+            "box": [
+                [
+                    398.0,
+                    811.0
+                ],
+                [
+                    501.0,
+                    811.0
+                ],
+                [
+                    501.0,
+                    833.0
+                ],
+                [
+                    398.0,
+                    833.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    10.0,
+                    1073.0
+                ],
+                [
+                    176.0,
+                    1073.0
+                ],
+                [
+                    176.0,
+                    1098.0
+                ],
+                [
+                    10.0,
+                    1098.0
+                ]
+            ]
+        },
+        {
+            "text": "ASALU LASTLO AH SHOTSE RANGE LO",
+            "confidence": 0.927,
+            "box": [
+                [
+                    44.0,
+                    1214.0
+                ],
+                [
+                    1041.0,
+                    1214.0
+                ],
+                [
+                    1041.0,
+                    1256.0
+                ],
+                [
+                    44.0,
+                    1256.0
+                ]
+            ]
+        },
+        {
+            "text": "UNTADHIANIANUKOLEDHU",
+            "confidence": 0.997,
+            "box": [
+                [
+                    174.0,
+                    1275.0
+                ],
+                [
+                    889.0,
+                    1275.0
+                ],
+                [
+                    889.0,
+                    1321.0
+                ],
+                [
+                    174.0,
+                    1321.0
+                ]
+            ]
+        }
+    ]
+}

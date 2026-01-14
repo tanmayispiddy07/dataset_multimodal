@@ -1,0 +1,138 @@
+{
+    "image_name": "2025-09-19_16-16-56_UTC.jpg",
+    "combined_text": "RAW & YOUTHFUL\nTEASER OF DURGA\nDDETAILING\nADDICTEDTOMEMES\nTEASER AADHRINDHI AYYA\nCASTINGCORRECTGA SET AYINDI",
+    "detailed": [
+        {
+            "text": "RAW & YOUTHFUL",
+            "confidence": 0.997,
+            "box": [
+                [
+                    273.0,
+                    59.0
+                ],
+                [
+                    840.0,
+                    59.0
+                ],
+                [
+                    840.0,
+                    113.0
+                ],
+                [
+                    273.0,
+                    113.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER OF DURGA",
+            "confidence": 0.949,
+            "box": [
+                [
+                    246.0,
+                    138.0
+                ],
+                [
+                    851.0,
+                    135.0
+                ],
+                [
+                    851.0,
+                    191.0
+                ],
+                [
+                    246.0,
+                    194.0
+                ]
+            ]
+        },
+        {
+            "text": "DDETAILING",
+            "confidence": 0.931,
+            "box": [
+                [
+                    542.0,
+                    262.0
+                ],
+                [
+                    689.0,
+                    276.0
+                ],
+                [
+                    686.0,
+                    310.0
+                ],
+                [
+                    539.0,
+                    297.0
+                ]
+            ]
+        },
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    928.0,
+                    1062.0
+                ],
+                [
+                    1073.0,
+                    1062.0
+                ],
+                [
+                    1073.0,
+                    1079.0
+                ],
+                [
+                    928.0,
+                    1079.0
+                ]
+            ]
+        },
+        {
+            "text": "TEASER AADHRINDHI AYYA",
+            "confidence": 0.96,
+            "box": [
+                [
+                    373.0,
+                    1222.0
+                ],
+                [
+                    952.0,
+                    1222.0
+                ],
+                [
+                    952.0,
+                    1260.0
+                ],
+                [
+                    373.0,
+                    1260.0
+                ]
+            ]
+        },
+        {
+            "text": "CASTINGCORRECTGA SET AYINDI",
+            "confidence": 0.966,
+            "box": [
+                [
+                    298.0,
+                    1275.0
+                ],
+                [
+                    1042.0,
+                    1274.0
+                ],
+                [
+                    1042.0,
+                    1316.0
+                ],
+                [
+                    298.0,
+                    1317.0
+                ]
+            ]
+        }
+    ]
+}

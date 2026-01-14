@@ -1,0 +1,50 @@
+{
+    "image_name": "2025-08-23_05-00-54_UTC_2.jpg",
+    "combined_text": "EVIGIL AUNTY\nIf you are a red,",
+    "detailed": [
+        {
+            "text": "EVIGIL AUNTY",
+            "confidence": 0.96,
+            "box": [
+                [
+                    411.0,
+                    62.0
+                ],
+                [
+                    577.0,
+                    62.0
+                ],
+                [
+                    577.0,
+                    88.0
+                ],
+                [
+                    411.0,
+                    88.0
+                ]
+            ]
+        },
+        {
+            "text": "If you are a red,",
+            "confidence": 0.931,
+            "box": [
+                [
+                    246.0,
+                    671.0
+                ],
+                [
+                    472.0,
+                    671.0
+                ],
+                [
+                    472.0,
+                    703.0
+                ],
+                [
+                    246.0,
+                    703.0
+                ]
+            ]
+        }
+    ]
+}

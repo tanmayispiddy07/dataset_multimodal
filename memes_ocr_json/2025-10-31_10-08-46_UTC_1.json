@@ -1,0 +1,94 @@
+{
+    "image_name": "2025-10-31_10-08-46_UTC_1.jpg",
+    "combined_text": "Just watched it and I swear this is\nwhat peak storytelling looks like\nI How To Train Your Dragon\nJioHotstar",
+    "detailed": [
+        {
+            "text": "Just watched it and I swear this is",
+            "confidence": 0.996,
+            "box": [
+                [
+                    134.0,
+                    49.0
+                ],
+                [
+                    944.0,
+                    48.0
+                ],
+                [
+                    944.0,
+                    93.0
+                ],
+                [
+                    134.0,
+                    94.0
+                ]
+            ]
+        },
+        {
+            "text": "what peak storytelling looks like",
+            "confidence": 0.997,
+            "box": [
+                [
+                    108.0,
+                    124.0
+                ],
+                [
+                    887.0,
+                    122.0
+                ],
+                [
+                    887.0,
+                    172.0
+                ],
+                [
+                    108.0,
+                    173.0
+                ]
+            ]
+        },
+        {
+            "text": "I How To Train Your Dragon",
+            "confidence": 0.945,
+            "box": [
+                [
+                    18.0,
+                    256.0
+                ],
+                [
+                    260.0,
+                    259.0
+                ],
+                [
+                    260.0,
+                    281.0
+                ],
+                [
+                    18.0,
+                    278.0
+                ]
+            ]
+        },
+        {
+            "text": "JioHotstar",
+            "confidence": 0.975,
+            "box": [
+                [
+                    971.0,
+                    301.0
+                ],
+                [
+                    1058.0,
+                    304.0
+                ],
+                [
+                    1057.0,
+                    327.0
+                ],
+                [
+                    970.0,
+                    323.0
+                ]
+            ]
+        }
+    ]
+}

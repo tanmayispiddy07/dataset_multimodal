@@ -1,0 +1,204 @@
+{
+    "image_name": "2025-06-12_14-45-24_UTC.jpg",
+    "combined_text": "ADDICTEDTOMEMES\nLIFE IS SO UNPREDICTABLE...YOUGO FOR A\nVACATION,AND TE**ORISTS SHOOT YOU.YOU\nGO TO A TROPHYPARADE AND IT ENDS IN A\nSTAMPEDE.YOUGO IN A FLIGHT FOR WORK/\nVACATION, AND IT CRASHES.YOU ARE STUDYING\nIN YOUR HOSTEL,AND THE PLANE FALLS ON YOU.\nENJOY EVERY MOMENT AND CREATE MEMORIES\nDONT WAIT FOR TOMORROW",
+    "detailed": [
+        {
+            "text": "ADDICTEDTOMEMES",
+            "confidence": 0.994,
+            "box": [
+                [
+                    905.0,
+                    656.0
+                ],
+                [
+                    1052.0,
+                    656.0
+                ],
+                [
+                    1052.0,
+                    676.0
+                ],
+                [
+                    905.0,
+                    676.0
+                ]
+            ]
+        },
+        {
+            "text": "LIFE IS SO UNPREDICTABLE...YOUGO FOR A",
+            "confidence": 0.925,
+            "box": [
+                [
+                    84.0,
+                    715.0
+                ],
+                [
+                    975.0,
+                    715.0
+                ],
+                [
+                    975.0,
+                    749.0
+                ],
+                [
+                    84.0,
+                    749.0
+                ]
+            ]
+        },
+        {
+            "text": "VACATION,AND TE**ORISTS SHOOT YOU.YOU",
+            "confidence": 0.956,
+            "box": [
+                [
+                    58.0,
+                    763.0
+                ],
+                [
+                    1002.0,
+                    763.0
+                ],
+                [
+                    1002.0,
+                    801.0
+                ],
+                [
+                    58.0,
+                    801.0
+                ]
+            ]
+        },
+        {
+            "text": "GO TO A TROPHYPARADE AND IT ENDS IN A",
+            "confidence": 0.91,
+            "box": [
+                [
+                    78.0,
+                    815.0
+                ],
+                [
+                    984.0,
+                    815.0
+                ],
+                [
+                    984.0,
+                    849.0
+                ],
+                [
+                    78.0,
+                    849.0
+                ]
+            ]
+        },
+        {
+            "text": "STAMPEDE.YOUGO IN A FLIGHT FOR WORK/",
+            "confidence": 0.939,
+            "box": [
+                [
+                    71.0,
+                    865.0
+                ],
+                [
+                    988.0,
+                    865.0
+                ],
+                [
+                    988.0,
+                    899.0
+                ],
+                [
+                    71.0,
+                    899.0
+                ]
+            ]
+        },
+        {
+            "text": "VACATION, AND IT CRASHES.YOU ARE STUDYING",
+            "confidence": 0.932,
+            "box": [
+                [
+                    25.0,
+                    913.0
+                ],
+                [
+                    1032.0,
+                    913.0
+                ],
+                [
+                    1032.0,
+                    951.0
+                ],
+                [
+                    25.0,
+                    951.0
+                ]
+            ]
+        },
+        {
+            "text": "IN YOUR HOSTEL,AND THE PLANE FALLS ON YOU.",
+            "confidence": 0.924,
+            "box": [
+                [
+                    21.0,
+                    962.0
+                ],
+                [
+                    1035.0,
+                    964.0
+                ],
+                [
+                    1035.0,
+                    1002.0
+                ],
+                [
+                    21.0,
+                    1001.0
+                ]
+            ]
+        },
+        {
+            "text": "ENJOY EVERY MOMENT AND CREATE MEMORIES",
+            "confidence": 0.955,
+            "box": [
+                [
+                    42.0,
+                    1013.0
+                ],
+                [
+                    1020.0,
+                    1013.0
+                ],
+                [
+                    1020.0,
+                    1051.0
+                ],
+                [
+                    42.0,
+                    1051.0
+                ]
+            ]
+        },
+        {
+            "text": "DONT WAIT FOR TOMORROW",
+            "confidence": 0.951,
+            "box": [
+                [
+                    228.0,
+                    1065.0
+                ],
+                [
+                    821.0,
+                    1065.0
+                ],
+                [
+                    821.0,
+                    1103.0
+                ],
+                [
+                    228.0,
+                    1103.0
+                ]
+            ]
+        }
+    ]
+}
