@@ -5,3 +5,4 @@ pandas
 pydantic
 python-multipart
 dnspython
+python-dotenv

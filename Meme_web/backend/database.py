@@ -1,5 +1,8 @@
 from motor.motor_asyncio import AsyncIOMotorClient
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Check for MONGO_URI or MONGO_URL from environment
 MONGO_URL = os.getenv("MONGO_URI") or os.getenv("MONGO_URL", "mongodb+srv://n210103_db_user:tanmayikona@meme-response.fhmccew.mongodb.net/?retryWrites=true&w=majority")
@@ -13,7 +16,8 @@ async def check_connection():
     try:
         await client.server_info()
         return True
-    except Exception:
+    except Exception as e:
+        print(f"MongoDB Connection Error: {e}")
         return False
 
 async def get_database():

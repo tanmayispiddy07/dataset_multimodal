@@ -86,6 +86,8 @@ import csv
 USE_MONGO = False
 
 @app.on_event("startup")
+async def startup_event():
+    global USE_MONGO
     if await check_connection():
         print("Connected to MongoDB")
         USE_MONGO = True
