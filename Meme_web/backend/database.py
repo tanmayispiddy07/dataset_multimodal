@@ -1,7 +1,8 @@
 from motor.motor_asyncio import AsyncIOMotorClient
 import os
 
-MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://n210103_db_user:tanmayikona@meme-response.fhmccew.mongodb.net/?retryWrites=true&w=majority")
+# Check for MONGO_URI or MONGO_URL from environment
+MONGO_URL = os.getenv("MONGO_URI") or os.getenv("MONGO_URL", "mongodb+srv://n210103_db_user:tanmayikona@meme-response.fhmccew.mongodb.net/?retryWrites=true&w=majority")
 DB_NAME = "meme_ground_truth"
 
 client = AsyncIOMotorClient(MONGO_URL, serverSelectionTimeoutMS=2000)

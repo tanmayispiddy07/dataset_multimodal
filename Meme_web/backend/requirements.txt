@@ -4,3 +4,4 @@ motor
 pandas
 pydantic
 python-multipart
+dnspython
