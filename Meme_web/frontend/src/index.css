@@ -1,0 +1,139 @@
+:root {
+  --primary-color: #d32f2f;
+  --secondary-color: #f5f5f5;
+  --text-color: #333;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #fff;
+  color: var(--text-color);
+}
+
+.app-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 10px;
+}
+
+.content-wrapper {
+  display: flex;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.meme-viewer {
+  flex: 1;
+  min-width: 300px;
+}
+
+.image-container {
+  margin-bottom: 20px;
+}
+
+.meme-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.ocr-text {
+  font-style: italic;
+  color: #555;
+  background: #f9f9f9;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.metadata-container {
+  margin-top: 20px;
+  background: #f0f0f0;
+  padding: 15px;
+  border-radius: 8px;
+  font-size: 0.9em;
+}
+
+.metadata-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+}
+
+.metadata-list li {
+  word-break: break-word;
+}
+
+.annotation-form {
+  flex: 1;
+  min-width: 300px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input,
+textarea,
+select {
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+textarea {
+  min-height: 100px;
+  resize: vertical;
+}
+
+.button-group {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: var(--primary-color);
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #ccc;
+  color: #333;
+}
+
+.error {
+  color: red;
+}
