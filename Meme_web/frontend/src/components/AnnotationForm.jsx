@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const AnnotationForm = ({ onSubmit, onSkip, initialData }) => {
+const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
     const [formData, setFormData] = useState({
         target: '',
         target_specified: '',
@@ -94,7 +94,7 @@ const AnnotationForm = ({ onSubmit, onSkip, initialData }) => {
             </div>
 
             <div className="button-group">
-                <button type="button" className="btn-secondary" onClick={onSkip}>Skip</button>
+                <button type="button" className="btn-secondary" onClick={onBack} disabled={isFirst}>Back</button>
                 <button type="submit" className="btn-primary">Next</button>
             </div>
         </form>

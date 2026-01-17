@@ -58,12 +58,20 @@ function App() {
       session_id: sessionId
     };
 
-    setCollectedResponses(prev => [...prev, responseData]);
+    setCollectedResponses(prev => {
+      const existingIndex = prev.findIndex(r => r.image_name === currentMeme.image_name);
+      if (existingIndex >= 0) {
+        const newResponses = [...prev];
+        newResponses[existingIndex] = responseData;
+        return newResponses;
+      }
+      return [...prev, responseData];
+    });
     setMemeIndex(prev => prev + 1);
   };
 
-  const handleSkip = () => {
-    setMemeIndex(prev => prev + 1);
+  const handleBack = () => {
+    setMemeIndex(prev => Math.max(0, prev - 1));
   };
 
   const handleUsernameSubmit = async (username) => {
@@ -123,7 +131,8 @@ function App() {
               <MemeViewer meme={currentMeme} />
               <AnnotationForm
                 onSubmit={handleSubmit}
-                onSkip={handleSkip}
+                onBack={handleBack}
+                isFirst={memeIndex === 0}
                 key={currentMeme.image_name}
               />
             </div>
