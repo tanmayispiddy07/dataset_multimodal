@@ -33,16 +33,16 @@ except Exception as e:
     print(f"Error loading CSV: {e}")
     df = pd.DataFrame()
 
-BATCH_SIZE = len(df) // 4
+BATCH_SIZE = len(df) // 8
 
 @app.get("/")
 def read_root():
     return {"message": "Meme Ground Truth Backend"}
 
 @app.get("/api/meme", response_model=MemeData)
-def get_meme(batch_id: int = Query(..., ge=1, le=4), index: int = Query(..., ge=0)):
+def get_meme(batch_id: int = Query(..., ge=1, le=8), index: int = Query(..., ge=0)):
     start_idx = (batch_id - 1) * BATCH_SIZE
-    end_idx = start_idx + BATCH_SIZE if batch_id < 4 else len(df)
+    end_idx = start_idx + BATCH_SIZE if batch_id < 8 else len(df)
     
     current_idx = start_idx + index
     

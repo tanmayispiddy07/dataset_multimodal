@@ -25,7 +25,7 @@ function App() {
     setLoading(true);
     setError(null);
     try {
-      const response = await axios.get(`http://localhost:8000/api/meme`, {
+      const response = await axios.get(`https://dataset-multimodal.onrender.com/api/meme`, {
         params: { batch_id: batchId, index: memeIndex }
       });
       setCurrentMeme(response.data);
@@ -87,7 +87,7 @@ function App() {
         user_id: username
       }));
 
-      await axios.post('http://localhost:8000/api/submit_batch', finalResponses);
+      await axios.post('https://dataset-multimodal.onrender.com/api/submit_batch', finalResponses);
 
       alert("Thank you! All your responses have been submitted.");
       // Reset or redirect logic here if needed
@@ -113,6 +113,10 @@ function App() {
               <option value={2}>Batch 2</option>
               <option value={3}>Batch 3</option>
               <option value={4}>Batch 4</option>
+              <option value={5}>Batch 5</option>
+              <option value={6}>Batch 6</option>
+              <option value={7}>Batch 7</option>
+              <option value={8}>Batch 8</option>
             </select>
           </label>
           <span>Index: {memeIndex}</span>
