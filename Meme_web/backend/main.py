@@ -109,6 +109,46 @@ async def submit_response(response: MemeResponse):
             if not file_exists:
                 writer.writeheader()
             writer.writerow(response.dict())
+
+@app.get("/api/progress")
+async def get_progress(user_id: str = Query(...), batch_id: int = Query(..., ge=1, le=8)):
+    """Returns how many memes a user has already answered for a given batch."""
+    if USE_MONGO:
+        count = await responses_collection.count_documents({
+            "user_id": user_id,
+            "batch_id": batch_id
+        })
+    else:
+        count = 0
+        if os.path.exists("responses.csv"):
+            with open("responses.csv", "r", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    if row.get("user_id") == user_id and str(row.get("batch_id")) == str(batch_id):
+                        count += 1
+    return {"user_id": user_id, "batch_id": batch_id, "answered_count": count}
+
+@app.get("/api/response")
+async def get_response(user_id: str = Query(...), image_name: str = Query(...)):
+    """Fetches a user's previously saved answer for a specific meme."""
+    if USE_MONGO:
+        doc = await responses_collection.find_one(
+            {"user_id": user_id, "image_name": image_name},
+            {"_id": 0}
+        )
+        if doc:
+            return doc
+    else:
+        if os.path.exists("responses.csv"):
+            with open("responses.csv", "r", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    if row.get("user_id") == user_id and row.get("image_name") == image_name:
+                        # Cast confidence back to float
+                        row["confidence"] = float(row.get("confidence", 0.5))
+                        row["batch_id"] = int(row.get("batch_id", 1))
+                        return row
+    raise HTTPException(status_code=404, detail="No previous response found")
             
 from typing import List
 

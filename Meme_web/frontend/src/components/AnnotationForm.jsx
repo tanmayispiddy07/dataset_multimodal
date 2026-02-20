@@ -1,25 +1,23 @@
 import React, { useState, useEffect } from 'react';
 
+const EMPTY_FORM = {
+    target: '',
+    target_specified: '',
+    justification: '',
+    stance: '',
+    confidence: 0.5,
+    ocr_correct: 'yes',   // 'yes' | 'no'
+    corrected_text: '',
+};
+
 const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
-    const [formData, setFormData] = useState({
-        target: '',
-        target_specified: '',
-        justification: '',
-        stance: '',
-        confidence: 0.5,
-    });
+    const [formData, setFormData] = useState(EMPTY_FORM);
 
     useEffect(() => {
         if (initialData) {
-            setFormData(initialData);
+            setFormData({ ...EMPTY_FORM, ...initialData });
         } else {
-            setFormData({
-                target: '',
-                target_specified: '',
-                justification: '',
-                stance: '',
-                confidence: 0.5,
-            });
+            setFormData(EMPTY_FORM);
         }
     }, [initialData]);
 
@@ -30,11 +28,60 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        onSubmit(formData);
+        // Don't send corrected_text if the user said OCR is correct
+        const payload = { ...formData };
+        if (payload.ocr_correct === 'yes') {
+            payload.corrected_text = '';
+        }
+        onSubmit(payload);
     };
 
     return (
         <form onSubmit={handleSubmit} className="annotation-form">
+
+            {/* ── OCR Verification ─────────────────────────────── */}
+            <div className="form-group">
+                <label>Is the extracted text above correct?</label>
+                <div className="ocr-toggle">
+                    <label className={`ocr-option ${formData.ocr_correct === 'yes' ? 'ocr-selected-yes' : ''}`}>
+                        <input
+                            type="radio"
+                            name="ocr_correct"
+                            value="yes"
+                            checked={formData.ocr_correct === 'yes'}
+                            onChange={handleChange}
+                        />
+                        Yes, it's correct
+                    </label>
+                    <label className={`ocr-option ${formData.ocr_correct === 'no' ? 'ocr-selected-no' : ''}`}>
+                        <input
+                            type="radio"
+                            name="ocr_correct"
+                            value="no"
+                            checked={formData.ocr_correct === 'no'}
+                            onChange={handleChange}
+                        />
+                        No, it's wrong
+                    </label>
+                </div>
+            </div>
+
+            {/* ── Corrected text — shown only when OCR is wrong ── */}
+            {formData.ocr_correct === 'no' && (
+                <div className="form-group">
+                    <label>Enter the correct text from the meme</label>
+                    <textarea
+                        name="corrected_text"
+                        value={formData.corrected_text}
+                        onChange={handleChange}
+                        required
+                        placeholder="Type the actual text visible in the meme..."
+                        rows={3}
+                    />
+                </div>
+            )}
+
+            {/* ── Existing fields ───────────────────────────────── */}
             <div className="form-group">
                 <label>Target</label>
                 <input

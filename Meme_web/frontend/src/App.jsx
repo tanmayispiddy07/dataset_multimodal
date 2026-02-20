@@ -5,15 +5,66 @@ import AnnotationForm from './components/AnnotationForm';
 import UsernameForm from './components/UsernameForm';
 import './index.css';
 
+const API_BASE = 'http://127.0.0.1:8000';
+
 function App() {
+  const [username, setUsername] = useState(null);
   const [batchId, setBatchId] = useState(1);
   const [memeIndex, setMemeIndex] = useState(0);
   const [currentMeme, setCurrentMeme] = useState(null);
   const [loading, setLoading] = useState(false);
+  const [submitting, setSubmitting] = useState(false);
+  const [restoringProgress, setRestoringProgress] = useState(false);
   const [error, setError] = useState(null);
   const [sessionId] = useState(() => `session_${Date.now()}_${Math.random().toString(36).substr(2, 9)}`);
   const [isBatchComplete, setIsBatchComplete] = useState(false);
-  const [collectedResponses, setCollectedResponses] = useState([]);
+  const [submitCount, setSubmitCount] = useState(0);
+  const [previousResponse, setPreviousResponse] = useState(null); // pre-fill form
+
+  // ─── Restore progress when username or batch changes ───────────────────────
+  useEffect(() => {
+    if (!username) return;
+
+    const restoreProgress = async () => {
+      setRestoringProgress(true);
+      setIsBatchComplete(false);
+      try {
+        const res = await axios.get(`${API_BASE}/api/progress`, {
+          params: { user_id: username, batch_id: batchId }
+        });
+        const answered = res.data.answered_count;
+        setMemeIndex(answered);           // resume from where they left off
+        setSubmitCount(answered);
+      } catch (err) {
+        console.error("Could not fetch progress:", err);
+        setMemeIndex(0);
+        setSubmitCount(0);
+      } finally {
+        setRestoringProgress(false);
+      }
+    };
+
+    restoreProgress();
+  }, [username, batchId]);
+
+  // ─── Fetch the meme for current index ──────────────────────────────────────
+  useEffect(() => {
+    if (!username || restoringProgress) return;
+    fetchMeme();
+  }, [memeIndex, restoringProgress]);
+
+  // ─── Fetch previous response when meme changes ──────────────────────────────
+  useEffect(() => {
+    if (!currentMeme || !username) {
+      setPreviousResponse(null);
+      return;
+    }
+    axios.get(`${API_BASE}/api/response`, {
+      params: { user_id: username, image_name: currentMeme.image_name }
+    })
+      .then(res => setPreviousResponse(res.data))
+      .catch(() => setPreviousResponse(null)); // 404 = no prior answer, that's fine
+  }, [currentMeme, username]);
 
   const fetchMeme = async () => {
     // Test Mode Logic
@@ -25,7 +76,7 @@ function App() {
     setLoading(true);
     setError(null);
     try {
-      const response = await axios.get(`https://dataset-multimodal.onrender.com/api/meme`, {
+      const response = await axios.get(`${API_BASE}/api/meme`, {
         params: { batch_id: batchId, index: memeIndex }
       });
       setCurrentMeme(response.data);
@@ -42,31 +93,30 @@ function App() {
     }
   };
 
-  useEffect(() => {
-    fetchMeme();
-  }, [batchId, memeIndex]);
-
-  const handleSubmit = (formData) => {
-    if (!currentMeme) return;
+  // ─── Submit immediately to DB on Next click ─────────────────────────────────
+  const handleSubmit = async (formData) => {
+    if (!currentMeme || !username) return;
 
     const responseData = {
       ...formData,
       confidence: parseFloat(formData.confidence),
       image_name: currentMeme.image_name,
       batch_id: batchId,
-      user_id: "anonymous",
+      user_id: username,
       session_id: sessionId
     };
 
-    setCollectedResponses(prev => {
-      const existingIndex = prev.findIndex(r => r.image_name === currentMeme.image_name);
-      if (existingIndex >= 0) {
-        const newResponses = [...prev];
-        newResponses[existingIndex] = responseData;
-        return newResponses;
-      }
-      return [...prev, responseData];
-    });
+    setSubmitting(true);
+    try {
+      await axios.post(`${API_BASE}/api/submit`, responseData);
+      setSubmitCount(prev => prev + 1);
+    } catch (err) {
+      console.error("Error saving response:", err);
+      alert("Failed to save response. Please try again.");
+      setSubmitting(false);
+      return; // Don't advance if save failed
+    }
+    setSubmitting(false);
     setMemeIndex(prev => prev + 1);
   };
 
@@ -74,73 +124,76 @@ function App() {
     setMemeIndex(prev => Math.max(0, prev - 1));
   };
 
-  const handleUsernameSubmit = async (username) => {
-    try {
-      // Update all responses with the username
-      if (collectedResponses.length === 0) {
-        alert("No responses collected. Did you skip all images?");
-        return;
-      }
+  const handleUsernameSubmit = (enteredUsername) => {
+    setUsername(enteredUsername);
+  };
 
-      const finalResponses = collectedResponses.map(response => ({
-        ...response,
-        user_id: username
-      }));
+  const handleBatchChange = (newBatchId) => {
+    setBatchId(newBatchId);
+    // progress restore is triggered by the useEffect above
+  };
 
-      await axios.post('https://dataset-multimodal.onrender.com/api/submit_batch', finalResponses);
-
-      alert("Thank you! All your responses have been submitted.");
-      // Reset or redirect logic here if needed
-      window.location.reload();
-    } catch (err) {
-      console.error("Error submitting batch:", err);
-      alert("Failed to save responses. Please try again.");
-    }
+  const handleRestart = () => {
+    window.location.reload();
   };
 
   return (
     <div className="app-container">
       <header>
         <h1>Meme Ground Truth Collection</h1>
-        <div className="controls">
-          <label>
-            Batch:
-            <select value={batchId} onChange={(e) => {
-              setBatchId(Number(e.target.value));
-              setMemeIndex(0);
-            }}>
-              <option value={1}>Batch 1</option>
-              <option value={2}>Batch 2</option>
-              <option value={3}>Batch 3</option>
-              <option value={4}>Batch 4</option>
-              <option value={5}>Batch 5</option>
-              <option value={6}>Batch 6</option>
-              <option value={7}>Batch 7</option>
-              <option value={8}>Batch 8</option>
-            </select>
-          </label>
-          <span>Index: {memeIndex}</span>
-        </div>
+        {username && (
+          <div className="controls">
+            <span className="username-badge">👤 {username}</span>
+            <label>
+              Batch:
+              <select value={batchId} onChange={(e) => handleBatchChange(Number(e.target.value))}>
+                <option value={1}>Batch 1</option>
+                <option value={2}>Batch 2</option>
+                <option value={3}>Batch 3</option>
+                <option value={4}>Batch 4</option>
+                <option value={5}>Batch 5</option>
+                <option value={6}>Batch 6</option>
+                <option value={7}>Batch 7</option>
+                <option value={8}>Batch 8</option>
+              </select>
+            </label>
+            <span>Index: {memeIndex}</span>
+          </div>
+        )}
       </header>
 
       <main>
-        {loading && <p>Loading...</p>}
-        {error && <p className="error">{error}</p>}
-
-        {isBatchComplete ? (
-          <UsernameForm onSubmit={handleUsernameSubmit} />
+        {/* Step 1: Ask for username */}
+        {!username ? (
+          <UsernameForm onSubmit={handleUsernameSubmit} isStart={true} />
+        ) : restoringProgress ? (
+          <p className="restoring-msg">⏳ Restoring your progress for Batch {batchId}...</p>
+        ) : isBatchComplete ? (
+          /* Batch done */
+          <div className="batch-complete-container">
+            <h2>🎉 Batch Complete!</h2>
+            <p>You submitted <strong>{submitCount}</strong> responses as <strong>{username}</strong>.</p>
+            <button className="btn-primary" onClick={handleRestart}>Start a New Session</button>
+          </div>
         ) : (
-          currentMeme && (
-            <div className="content-wrapper">
-              <MemeViewer meme={currentMeme} />
-              <AnnotationForm
-                onSubmit={handleSubmit}
-                onBack={handleBack}
-                isFirst={memeIndex === 0}
-                key={currentMeme.image_name}
-              />
-            </div>
-          )
+          /* Annotate memes */
+          <>
+            {loading && <p>Loading...</p>}
+            {submitting && <p>Saving response...</p>}
+            {error && <p className="error">{error}</p>}
+            {currentMeme && !submitting && (
+              <div className="content-wrapper">
+                <MemeViewer meme={currentMeme} />
+                <AnnotationForm
+                  onSubmit={handleSubmit}
+                  onBack={handleBack}
+                  isFirst={memeIndex === 0}
+                  key={currentMeme.image_name}
+                  initialData={previousResponse}
+                />
+              </div>
+            )}
+          </>
         )}
       </main>
     </div>

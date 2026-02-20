@@ -11,6 +11,8 @@ class MemeResponse(BaseModel):
     batch_id: int
     user_id: Optional[str] = "anonymous"
     session_id: str
+    ocr_correct: Optional[str] = "yes"        # 'yes' or 'no'
+    corrected_text: Optional[str] = ""        # filled only when ocr_correct == 'no'
 
 class MemeData(BaseModel):
     image_name: str
