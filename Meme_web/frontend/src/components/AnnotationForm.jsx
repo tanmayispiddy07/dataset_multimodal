@@ -8,10 +8,26 @@ const EMPTY_FORM = {
     confidence: 0.5,
     ocr_correct: 'yes',   // 'yes' | 'no'
     corrected_text: '',
+    domain: '',
+    custom_domain: '',
 };
+
+const DOMAIN_OPTIONS = [
+    'Politics',
+    'Education',
+    'Sports',
+    'Entertainment',
+    'Tollywood',
+    'Religion',
+    'Social Issues',
+    'Economy',
+    'Technology',
+    'Healthcare'
+];
 
 const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
     const [formData, setFormData] = useState(EMPTY_FORM);
+    const [showCustomDomain, setShowCustomDomain] = useState(false);
 
     useEffect(() => {
         if (initialData) {
@@ -24,6 +40,17 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
     const handleChange = (e) => {
         const { name, value } = e.target;
         setFormData(prev => ({ ...prev, [name]: value }));
+        
+        // Handle domain dropdown change
+        if (name === 'domain') {
+            if (value === 'None') {
+                setShowCustomDomain(true);
+                setFormData(prev => ({ ...prev, domain: '', custom_domain: '' }));
+            } else {
+                setShowCustomDomain(false);
+                setFormData(prev => ({ ...prev, custom_domain: '' }));
+            }
+        }
     };
 
     const handleSubmit = (e) => {
@@ -33,6 +60,18 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
         if (payload.ocr_correct === 'yes') {
             payload.corrected_text = '';
         }
+        
+        // If custom domain is selected, use custom_domain as domain
+        if (showCustomDomain && payload.custom_domain) {
+            payload.domain = payload.custom_domain;
+            delete payload.custom_domain;
+        } else if (showCustomDomain) {
+            alert('Please enter a custom domain');
+            return;
+        } else {
+            delete payload.custom_domain;
+        }
+        
         onSubmit(payload);
     };
 
@@ -139,6 +178,32 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
                     required
                 />
             </div>
+
+            <div className="form-group">
+                <label>Domain</label>
+                <select name="domain" value={formData.domain} onChange={handleChange} required={!showCustomDomain}>
+                    <option value="">Select Domain</option>
+                    <option value="None">None</option>
+                    {DOMAIN_OPTIONS.map(domain => (
+                        <option key={domain} value={domain}>{domain}</option>
+                    ))}
+                </select>
+            </div>
+
+            {/* ── Custom Domain Input — shown only when "None" is selected ── */}
+            {showCustomDomain && (
+                <div className="form-group">
+                    <label>Enter Custom Domain</label>
+                    <input
+                        type="text"
+                        name="custom_domain"
+                        value={formData.custom_domain}
+                        onChange={handleChange}
+                        placeholder="Enter domain name..."
+                        required
+                    />
+                </div>
+            )}
 
             <div className="button-group">
                 <button type="button" className="btn-secondary" onClick={onBack} disabled={isFirst}>Back</button>
