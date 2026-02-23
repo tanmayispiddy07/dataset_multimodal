@@ -13,6 +13,7 @@ class MemeResponse(BaseModel):
     session_id: str
     ocr_correct: Optional[str] = "yes"        # 'yes' or 'no'
     corrected_text: Optional[str] = ""        # filled only when ocr_correct == 'no'
+    domain: Optional[str] = ""               # meme domain (e.g. Politics, Sports, or custom)
 
 class MemeData(BaseModel):
     image_name: str
