@@ -3,11 +3,13 @@ from typing import Optional
 
 class MemeResponse(BaseModel):
     image_name: str
-    target: str
-    target_specified: Optional[str] = None
+    target1: str
+    target2: Optional[str] = None
     justification: str
-    stance: str
-    confidence: float
+    stance1: str
+    confidence1: float
+    stance2: str
+    confidence2: float
     batch_id: int
     user_id: Optional[str] = "anonymous"
     session_id: str

@@ -1,6 +1,6 @@
 import React from 'react';
 
-const API_BASE = 'https://dataset-multimodal.onrender.com';
+const API_BASE = 'http://127.0.0.1:8000';
 
 const MemeViewer = ({ meme }) => {
   if (!meme) return <div>Loading meme...</div>;

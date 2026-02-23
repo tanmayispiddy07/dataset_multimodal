@@ -1,11 +1,13 @@
 import React, { useState, useEffect } from 'react';
 
 const EMPTY_FORM = {
-    target: '',
-    target_specified: '',
+    target1: '',
+    target2: '',
     justification: '',
-    stance: '',
-    confidence: 0.5,
+    stance1: '',
+    confidence1: 0.5,
+    stance2: '',
+    confidence2: 0.5,
     ocr_correct: 'yes',   // 'yes' | 'no'
     corrected_text: '',
     domain: '',
@@ -40,7 +42,7 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
     const handleChange = (e) => {
         const { name, value } = e.target;
         setFormData(prev => ({ ...prev, [name]: value }));
-        
+
         // Handle domain dropdown change
         if (name === 'domain') {
             if (value === 'None') {
@@ -60,7 +62,7 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
         if (payload.ocr_correct === 'yes') {
             payload.corrected_text = '';
         }
-        
+
         // If custom domain is selected, use custom_domain as domain
         if (showCustomDomain && payload.custom_domain) {
             payload.domain = payload.custom_domain;
@@ -71,7 +73,7 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
         } else {
             delete payload.custom_domain;
         }
-        
+
         onSubmit(payload);
     };
 
@@ -120,30 +122,32 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
                 </div>
             )}
 
-            {/* ── Existing fields ───────────────────────────────── */}
+            {/* ── Target 1 ───────────────────────────────────────── */}
             <div className="form-group">
-                <label>Target</label>
+                <label>Target 1</label>
                 <input
                     type="text"
-                    name="target"
-                    value={formData.target}
+                    name="target1"
+                    value={formData.target1}
                     onChange={handleChange}
                     required
                     placeholder="e.g., Individual, Group"
                 />
             </div>
 
+            {/* ── Target 2 ───────────────────────────────────────── */}
             <div className="form-group">
-                <label>Target Specified</label>
+                <label>Target 2</label>
                 <input
                     type="text"
-                    name="target_specified"
-                    value={formData.target_specified}
+                    name="target2"
+                    value={formData.target2}
                     onChange={handleChange}
                     placeholder="e.g., Politicians, Celebrities"
                 />
             </div>
 
+            {/* ── Justification ─────────────────────────────────── */}
             <div className="form-group">
                 <label>Justification</label>
                 <textarea
@@ -155,22 +159,24 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
                 />
             </div>
 
+            {/* ── Stance 1 ──────────────────────────────────────── */}
             <div className="form-group">
-                <label>Stance</label>
-                <select name="stance" value={formData.stance} onChange={handleChange} required>
-                    <option value="">Select Stance</option>
+                <label>Stance 1</label>
+                <select name="stance1" value={formData.stance1} onChange={handleChange} required>
+                    <option value="">Select Stance 1</option>
                     <option value="support">Support</option>
                     <option value="against">Against</option>
                     <option value="neutral">Neutral</option>
                 </select>
             </div>
 
+            {/* ── Confidence 1 ──────────────────────────────────── */}
             <div className="form-group">
-                <label>Confidence (0.0 - 1.0)</label>
+                <label>Confidence 1 (0.0 - 1.0)</label>
                 <input
                     type="number"
-                    name="confidence"
-                    value={formData.confidence}
+                    name="confidence1"
+                    value={formData.confidence1}
                     onChange={handleChange}
                     step="0.1"
                     min="0"
@@ -179,6 +185,33 @@ const AnnotationForm = ({ onSubmit, onBack, isFirst, initialData }) => {
                 />
             </div>
 
+            {/* ── Stance 2 ──────────────────────────────────────── */}
+            <div className="form-group">
+                <label>Stance 2</label>
+                <select name="stance2" value={formData.stance2} onChange={handleChange} required>
+                    <option value="">Select Stance 2</option>
+                    <option value="support">Support</option>
+                    <option value="against">Against</option>
+                    <option value="neutral">Neutral</option>
+                </select>
+            </div>
+
+            {/* ── Confidence 2 ──────────────────────────────────── */}
+            <div className="form-group">
+                <label>Confidence 2 (0.0 - 1.0)</label>
+                <input
+                    type="number"
+                    name="confidence2"
+                    value={formData.confidence2}
+                    onChange={handleChange}
+                    step="0.1"
+                    min="0"
+                    max="1"
+                    required
+                />
+            </div>
+
+            {/* ── Domain ────────────────────────────────────────── */}
             <div className="form-group">
                 <label>Domain</label>
                 <select name="domain" value={formData.domain} onChange={handleChange} required={!showCustomDomain}>

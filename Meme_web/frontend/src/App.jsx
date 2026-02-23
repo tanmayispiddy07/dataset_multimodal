@@ -5,7 +5,7 @@ import AnnotationForm from './components/AnnotationForm';
 import UsernameForm from './components/UsernameForm';
 import './index.css';
 
-const API_BASE = 'https://dataset-multimodal.onrender.com';
+const API_BASE = 'http://127.0.0.1:8000';
 
 function App() {
   const [username, setUsername] = useState(null);
