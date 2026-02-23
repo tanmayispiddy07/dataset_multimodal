@@ -5,7 +5,7 @@ import AnnotationForm from './components/AnnotationForm';
 import UsernameForm from './components/UsernameForm';
 import './index.css';
 
-const API_BASE = 'https://dataset-multimodal.onrender.com/';
+const API_BASE = 'https://dataset-multimodal.onrender.com';
 
 function App() {
   const [username, setUsername] = useState(null);
@@ -33,10 +33,11 @@ function App() {
           params: { user_id: username, batch_id: batchId }
         });
         const answered = res.data.answered_count;
-        setMemeIndex(answered);           // resume from where they left off
-        setSubmitCount(answered);
+        setMemeIndex(answered);  // resume from where they left off
+        setSubmitCount(answered); // initialize count to already-answered so batch-complete shows correct total
       } catch (err) {
         console.error("Could not fetch progress:", err);
+        // Network/server error — start from scratch for this session
         setMemeIndex(0);
         setSubmitCount(0);
       } finally {
@@ -109,9 +110,17 @@ function App() {
     setSubmitting(true);
     try {
       await axios.post(`${API_BASE}/api/submit`, responseData);
+      // Only increment submitCount for NEW submissions in this session
+      // (restored ones are already counted via setSubmitCount(answered) on restore)
       setSubmitCount(prev => prev + 1);
     } catch (err) {
       console.error("Error saving response:", err);
+      // Check if it's a duplicate (409) — still advance but don't double-count
+      if (err.response && err.response.status === 409) {
+        setSubmitting(false);
+        setMemeIndex(prev => prev + 1);
+        return;
+      }
       alert("Failed to save response. Please try again.");
       setSubmitting(false);
       return; // Don't advance if save failed

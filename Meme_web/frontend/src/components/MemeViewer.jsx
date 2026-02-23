@@ -1,5 +1,7 @@
 import React from 'react';
 
+const API_BASE = 'https://dataset-multimodal.onrender.com';
+
 const MemeViewer = ({ meme }) => {
   if (!meme) return <div>Loading meme...</div>;
 
@@ -7,7 +9,7 @@ const MemeViewer = ({ meme }) => {
     <div className="meme-viewer">
       <div className="image-container">
         <img
-          src={`https://dataset-multimodal.onrender.com//api/image/${meme.image_name}`}
+          src={`${API_BASE}/api/image/${meme.image_name}`}
           alt="Meme"
           className="meme-image"
         />
