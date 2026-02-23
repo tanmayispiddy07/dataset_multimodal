@@ -130,24 +130,29 @@ async def get_progress(user_id: str = Query(...), batch_id: int = Query(..., ge=
 
 @app.get("/api/response")
 async def get_response(user_id: str = Query(...), image_name: str = Query(...)):
-    """Fetches a user's previously saved answer for a specific meme."""
+    """Fetches a user's LATEST saved answer for a specific meme."""
     if USE_MONGO:
+        # Sort by _id descending so we get the most recently inserted document
         doc = await responses_collection.find_one(
             {"user_id": user_id, "image_name": image_name},
-            {"_id": 0}
+            {"_id": 0},
+            sort=[("_id", -1)]
         )
         if doc:
             return doc
     else:
         if os.path.exists("responses.csv"):
+            latest_row = None
             with open("responses.csv", "r", encoding="utf-8") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
                     if row.get("user_id") == user_id and row.get("image_name") == image_name:
-                        # Cast confidence back to float
-                        row["confidence"] = float(row.get("confidence", 0.5))
-                        row["batch_id"] = int(row.get("batch_id", 1))
-                        return row
+                        latest_row = row  # keep overwriting — last match wins
+            if latest_row is not None:
+                # Cast numeric fields back to correct types
+                latest_row["confidence"] = float(latest_row.get("confidence", 0.5))
+                latest_row["batch_id"] = int(latest_row.get("batch_id", 1))
+                return latest_row
     raise HTTPException(status_code=404, detail="No previous response found")
             
 from typing import List
