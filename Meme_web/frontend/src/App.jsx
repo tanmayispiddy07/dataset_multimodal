@@ -136,8 +136,10 @@ function App() {
   const handleRestart = () => window.location.reload();
 
   // ─── Progress Calculation ──────────────────────────────────────
+  // Use memeIndex + 1 (current position) so the bar stays in sync
+  // with the "Meme #N of M" counter shown above it.
   const progressPct = totalInBatch
-    ? Math.min(100, Math.round((submitCount / totalInBatch) * 100))
+    ? Math.min(100, Math.round(((memeIndex + 1) / totalInBatch) * 100))
     : null;
 
   return (
@@ -168,7 +170,7 @@ function App() {
         {username && !isBatchComplete && (
           <div className="progress-wrapper">
             <div className="progress-meta">
-              <span>{submitCount} answered{totalInBatch ? ` of ${totalInBatch}` : ''}</span>
+              <span>Meme {memeIndex + 1}{totalInBatch ? ` of ${totalInBatch}` : ''}</span>
               {progressPct !== null && (
                 <span className="progress-pct">{progressPct}%</span>
               )}

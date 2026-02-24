@@ -100,32 +100,56 @@ async def startup_event():
 @app.post("/api/submit")
 async def submit_response(response: MemeResponse):
     if USE_MONGO:
-        await responses_collection.insert_one(response.dict())
+        # Upsert: replace existing answer for this user+meme, or insert if new.
+        # This prevents duplicate records when the user goes back and clicks Next.
+        await responses_collection.replace_one(
+            {"user_id": response.user_id, "image_name": response.image_name},
+            response.dict(),
+            upsert=True
+        )
     else:
-        # Fallback to CSV
-        file_exists = os.path.exists("responses.csv")
-        with open("responses.csv", "a", newline="", encoding="utf-8") as f:
-            writer = csv.DictWriter(f, fieldnames=response.dict().keys())
-            if not file_exists:
-                writer.writeheader()
-            writer.writerow(response.dict())
+        # CSV fallback: overwrite the matching row if it exists, else append.
+        data = response.dict()
+        fieldnames = list(data.keys())
+        rows = []
+        updated = False
+        if os.path.exists("responses.csv"):
+            with open("responses.csv", "r", encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    if row.get("user_id") == data["user_id"] and row.get("image_name") == data["image_name"]:
+                        rows.append(data)  # replace with updated data
+                        updated = True
+                    else:
+                        rows.append(row)
+        if not updated:
+            rows.append(data)
+        with open("responses.csv", "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer.writeheader()
+            writer.writerows(rows)
 
 @app.get("/api/progress")
 async def get_progress(user_id: str = Query(...), batch_id: int = Query(..., ge=1, le=8)):
-    """Returns how many memes a user has already answered for a given batch."""
+    """Returns how many distinct memes a user has already answered for a given batch."""
     if USE_MONGO:
-        count = await responses_collection.count_documents({
-            "user_id": user_id,
-            "batch_id": batch_id
-        })
+        # Count distinct image_names to avoid counting any legacy duplicates.
+        pipeline = [
+            {"$match": {"user_id": user_id, "batch_id": batch_id}},
+            {"$group": {"_id": "$image_name"}},
+            {"$count": "distinct_count"}
+        ]
+        result = await responses_collection.aggregate(pipeline).to_list(length=1)
+        count = result[0]["distinct_count"] if result else 0
     else:
-        count = 0
+        seen = set()
         if os.path.exists("responses.csv"):
             with open("responses.csv", "r", encoding="utf-8") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
                     if row.get("user_id") == user_id and str(row.get("batch_id")) == str(batch_id):
-                        count += 1
+                        seen.add(row.get("image_name"))
+        count = len(seen)
     return {"user_id": user_id, "batch_id": batch_id, "answered_count": count}
 
 @app.get("/api/response")
